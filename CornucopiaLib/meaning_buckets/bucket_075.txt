@@ -1,0 +1,1000 @@
+113832535	an individual or group or structure or other entity regarded as a structural or functional constituent of a whole
+113832827	anything that belongs to a set or class
+113833030	something left after other parts have been taken away
+113833396	a small part or portion that remains after the main part no longer exists
+113833552	a part of a part
+113833622	a close connection marked by community of interests or similarity in nature or character
+113833952	a relationship of mutual understanding or trust and agreement between people
+113834112	a relation of affinity or harmony between people; whatever affects one correspondingly affects the other
+113834385	sympathy of each person for the other
+113834508	(biology) state of relationship between organisms or groups of organisms resulting in resemblance in structure or structural parts
+113834819	(anthropology) relatedness or connection by blood or marriage or adoption
+113835254	the kinship relation between an individual and the individual's progenitors
+113835495	(anthropology) kinship by marriage or adoption; not a blood relationship
+113835695	a family relationship by virtue of remarriage
+113835803	(anthropology) related by blood
+113835977	the kinship relation of an offspring to the parents
+113836110	the kinship relation between an offspring and the father
+113836253	the kinship relation between an offspring and the mother
+113836396	the kinship relation between a female offspring and the siblings
+113836548	the kinship relation between a male offspring and the siblings
+113836668	line of descent traced through both the maternal and paternal sides of the family
+113836813	line of descent traced through one side of the family
+113836967	line of descent traced through the maternal side of the family
+113837110	line of descent traced through the paternal side of the family
+113837242	the relationship between wife and husband
+113837364	a relation between magnitudes
+113837554	relative magnitude
+113837661	the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree
+113837954	the quotient obtained when the magnitude of a part is divided by the magnitude of the whole
+113838283	the number of cases of a disease ending in death divided by the number of cases of the disease; usually expressed as a percentage or as the number of deaths per 1000 cases
+113838525	the number of cases of a disease divided by the number of infections with the agent that causes the disease
+113838733	the proportion of a substance that is contained in a mixture or alloy etc.
+113838861	a quantity or amount or measure considered as a proportion of another quantity or amount or measure
+113839074	the ratio between the size of something and a representation of it
+113839278	the proportional relation between two divisions of line or two dimension of a plane figure such that short : long :: long : (short + long)
+113839491	the relation of corresponding in degree or size or amount
+113839738	a proportion in relation to a whole (which is usually the amount per hundred)
+113839973	the percentage of workers who do not report to work
+113840084	(baseball) a measure of a batter's performance; the number of base hits divided by the number of official times at bat
+113840355	(an extension of the baseball term) the proportion of times some effort succeeds
+113840566	(baseball) a measure of a fielder's performance; the number of assists and putouts divided by the number of chances
+113840763	the percentage of all rental units (as in hotels) are occupied or rented at a given time
+113840948	occupancy rate for hospitals
+113841041	occupancy rate for hotels
+113841128	the percentage of all rental units (as in hotels) that are unoccupied or not rented at a given time
+113841286	the percentage of the work force that is unemployed at any given date
+113841419	the relative magnitudes of two quantities (usually expressed as a quotient)
+113842212	(chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust; expressed as a percentage or in parts per million
+113842451	(physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present
+113842644	the ratio of reflected to incident light
+113842756	the ratio of the width to the height of a tv picture
+113842867	(sports) the ratio of successful performances to opportunities
+113843038	ratio (in percent) of the maximum breadth to the maximum length of a skull
+113843205	the ratio of the output to the input of any system
+113843330	a numerical expression representing the efficiency of a given system, material, or procedure
+113843484	the ratio (in percent) of the maximum width to the maximum height of the face
+113843620	the ratio of the focal length to the diameter of a (camera) lens system
+113843782	the ratio of the number of observations in a statistical category to the total number of observations
+113843978	the ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit
+113844189	a measure of a person's intelligence as indicated by an intelligence test; the ratio of a person's mental age to their chronological age (multiplied by 100)
+113844461	the average IQ of the adults in a given population
+113844576	the minimal IQ required for someone to function normally and independently in the world (without some form of institutional assistance)
+113844781	(aeronautics) the ratio of an external load to the weight of the aircraft (measured in g)
+113844947	the ratio of the annual claims paid by an insurance company to the premiums received
+113845088	the ratio of the speed of a moving body to the speed of sound
+113845207	the ratio of the size of an image to the size of the object
+113845362	the ratio of the force exerted by a machine to the force applied to it
+113845499	the ratio of the number of miles traveled to the number of gallons of gasoline burned
+113845695	the ratio by which one better's wager is greater than that of another
+113845863	a number assigned to the ratio of two quantities; two quantities are of the same order of magnitude if one is less than 10 times as large as the other; the number of magnitudes that the quantities differ is specified to within a power of 10
+113846180	the output power of a transducer divided by the input power
+113846326	(epidemiology) the ratio (for a given time period) of the number of occurrences of a disease or event to the number of units at risk in the population
+113846552	(stock market) the price of a stock divided by its earnings
+113846712	(economics) the ratio of the quantity and quality of units produced to the labor per unit of time
+113846887	a ratio of two quantities that is constant
+113847027	the ratio of two quantities to be divided
+113847141	the ratio of the velocity of light in a vacuum to that in a medium
+113847292	the ratio of the amount of water in the air at a given temperature to the maximum amount it could hold at that temperature; expressed as a percentage
+113847505	the ratio of the volume of carbon dioxide expired to the volume of oxygen consumed by an organism or cell in a given period of time
+113847703	the ratio of the breaking stress of a structure to the estimated maximum stress in ordinary use
+113847877	the ratio of signal intensity to noise intensity
+113848053	(chemistry) the relation between the quantities of substances that take part in a reaction or form a compound (typically a ratio of whole integers)
+113848297	the ratio of the inductance of a circuit in henries to its resistance in ohms
+113848434	the ratio of the number of workers that had to be replaced in a given time period to the average number of workers
+113848639	the ratio of the gross weight of an airplane to some factor determining its lift
+113848827	the ratio of the weight of an airplane to its engine power
+113848945	the ratio of the weight of an airplane to its wingspan
+113849058	the ratio of the weight of an airplane to its wing area
+113849172	the relative frequency of occurrence of something
+113849316	the relative incidence of a particular disease
+113849418	a relation of constraint of one entity (thing or person or group) by another
+113849639	the spatial relation between something and the course along which it points or moves
+113850156	the direction in which something (such as a building) faces
+113850288	position or alignment relative to points of the compass or other specific directions
+113850556	position of aircraft or spacecraft relative to a frame of reference (the horizon or direction of motion)
+113850733	attitude of an aircraft in flight when allowed to take its own orientation
+113850894	something that is oriented horizontally
+113851008	something that is oriented vertically
+113851118	a direction opposite to another
+113851260	the relation of opposition between things at right angles
+113851456	the relation of opposition along a diameter
+113851621	the relation of opposition between crystals or molecules that are reflections of one another
+113851799	the direction from which the wind is coming
+113851933	the side toward the wind
+113852047	the direction in which the wind is blowing
+113852179	the side sheltered from the wind
+113852283	the direction toward the sea
+113852365	one of the four major division of the compass
+113852504	any of 32 horizontal directions indicated on the card of a compass
+113853199	one of the four main compass points
+113853375	the cardinal compass point that is at 0 or 360 degrees
+113853509	the compass point that is one point east (clockwise) of due north
+113853640	the direction in which a compass needle points
+113853771	the compass point that is midway between north and northeast
+113853916	the compass point that is one point north of northeast
+113854042	the compass point midway between north and east; at 45 degrees
+113854193	the compass point that is one point east of northeast
+113854317	the compass point midway between northeast and east
+113854435	the compass point that is one point north of due east
+113854554	the cardinal compass point that is at 90 degrees
+113854679	the compass point that is one point south of due east
+113854798	the compass point midway between east and southeast
+113854916	the compass point that is one point east of southeast
+113855040	the compass point midway between south and east; at 135 degrees
+113855192	the compass point that is one point south of southeast
+113855318	the compass point midway between south and southeast
+113855455	the compass point that is one point east of due south
+113855574	the cardinal compass point that is at 180 degrees
+113855703	the compass point that is one point west of due south
+113855822	the compass point midway between south and southwest
+113855959	the compass point that is one point south of southwest
+113856085	the compass point midway between south and west; at 225 degrees
+113856237	the compass point that is one point west of southwest
+113856361	the compass point midway between west and southwest
+113856479	the compass point that is one point south of due west
+113856598	the cardinal compass point that is a 270 degrees
+113856723	the compass point that is one point north of due west
+113856842	the compass point midway between west and northwest
+113856960	the compass point that is one point west of northwest
+113857084	the compass point midway between north and west; at 315 degrees
+113857236	the compass point that is one point north of northwest
+113857362	the compass point that is midway between north and northwest
+113857507	the compass point that is one point west of due north
+113857626	the direction corresponding to the northward cardinal compass point
+113857745	the direction corresponding to the northeastward compass point
+113857863	the direction corresponding to the eastward cardinal compass point
+113857980	the direction corresponding to the southeastward compass point
+113858098	the direction corresponding to the southward cardinal compass point
+113858217	the direction corresponding to the southwestward compass point
+113858335	the direction corresponding to the westward cardinal compass point
+113858452	the direction corresponding to the northwestward compass point
+113858570	relation by which any position with respect to any other position is established
+113858749	angular distance above the horizon (especially of a celestial object)
+113858914	angular distance below the horizon (especially of a celestial object)
+113859040	a relation between different business enterprises
+113859208	a business relation in which two parties compete to gain customers
+113859399	intense competition in which competitors cut retail prices to gain business
+113859550	relation of a client to a patron
+113859638	the relation that exists when one person requests and is granted professional help from a qualified source
+113859866	the professional relation between a health care professional and a patient
+113860039	the responsibility of a physician to act in the best interests of the patient
+113860224	the responsibility of a nurse to act in the best interests of the patient
+113860404	a professional relation that is regulated by law (as between a lawyer and a client)
+113860585	the legal relation that exists when one person justifiably places reliance on another whose aid or protection is sought in some matter
+113860965	the responsibility of a bank to act in the best interests of the depositors
+113861129	the responsibility of a confidential adviser to act in the best interest of the advisee
+113861319	the responsibility of a conservator to act in the best interests of the ward
+113861486	the responsibility of corporate directors to act in the best interests of stockholders
+113861667	the responsibility of an executor (or administrator) of an estate to act in the best interests of the heir
+113861861	the responsibility of a lawyer to act in the best interests of the client
+113862087	the responsibility of partners to act in one another's best interests
+113862238	the responsibility of receiver or trustee in bankruptcy to act in the best interests of the creditor
+113862430	the responsibility of a trustee to act in the best interests of the beneficiary
+113862603	a professional relation between instructors and those they instruct
+113862752	the academic relation between teachers and their students
+113862918	social relations involving intrigue to gain authority or power
+113863157	the way two individuals relate to each other
+113863412	a relation of mutual dependence or action or influence
+113863666	the interrelation of reciprocity whereby one thing supplements or depends on the other
+113863850	a reciprocal relation between two or more things
+113864062	a reciprocal relation between interdependent entities (objects or individuals or groups)
+113864440	the relation between two different kinds of organisms when one receives benefits from the other without damaging it
+113864614	the relation between two different kinds of organisms in which one receives benefits from the other by causing damage to it (usually not fatal damage)
+113864821	the relation between two different species of organisms that are interdependent; each gains benefits from the other
+113865040	a symbiotic relation in which one organism protects the other in return for some kind of food product
+113865200	(mathematics) one of a pair of numbers whose sum is zero; the additive inverse of -5 is +5
+113865372	(mathematics) one of a pair of numbers whose product is 1: the reciprocal of 2/3 is 3/2; the multiplicative inverse of 7 is 1/7
+113865600	a reciprocality of sentiments
+113865800	something (a term or expression or concept) that has an inverse relation to something else
+113865983	having in common
+113866117	using or enjoying something jointly with others
+113866254	(computer science) the use of a central computer by many users simultaneously
+113866409	mutual or reciprocal relation or relatedness
+113866715	the interrelation of conscious and unconscious processes and emotions that determine personality and motivation
+113866887	a relation involving time
+113867120	anything that precedes something similar in time
+113867311	an arrangement of events in time
+113867436	the relation that exists when things occur at the same time
+113868035	the relation that exists when things occur at unrelated times
+113868396	the first or highest in an ordering or series
+113868553	the first of two or the first mentioned of two
+113868743	following the first in an ordering or series
+113868905	the second of two or the second mentioned of two
+113869097	following the second position in an ordering or series
+113869321	following the third position; number four in a countable series
+113869437	position five in a countable series of things
+113869599	position six in a countable series of things
+113869695	position seven in a countable series of things
+113869813	position eight in a countable series of things
+113869912	position nine in a countable series of things
+113870055	position ten in a countable series of things
+113870151	position 11 in a countable series of things
+113870249	position 12 in a countable series of things
+113870346	position 13 in a countable series of things
+113870446	position 14 in a countable series of things
+113870546	position 15 in a countable series of things
+113870663	position 16 in a countable series of things
+113870762	position 17 in a countable series of things
+113870881	position 18 in a countable series of things
+113870981	position 19 in a countable series of things
+113871081	position 20 in a countable series of things
+113871180	position 30 in a countable series of things
+113871279	position 40 in a countable series of things
+113871377	position 50 in a countable series of things
+113871493	position 60 in a countable series of things
+113871591	position 70 in a countable series of things
+113871709	position 80 in a countable series of things
+113871808	position 90 in a countable series of things
+113871907	position 100 in a countable series of things
+113872007	position 1,000 in a countable series of things
+113872110	position 1,000,000 in a countable series of things
+113872216	position 1,000,000,000 in a countable series of things
+113872345	the last or lowest in an ordering or series
+113872501	an ordered reference standard
+113872871	an international scale of wind force from 0 (calm air) to 12 (hurricane)
+113873264	a numerical scale used to compare variables with one another or with some reference number
+113873442	scale on which actual distances from the origin are proportional to the logarithms of the corresponding scale numbers
+113873623	a scale formerly used to describe the magnitude of an earthquake; an earthquake detected only by seismographs is a I and an earthquake that destroys all buildings is a XII
+113873874	a scale of hardness of solids; talc is 0 and diamond is 10; ordering is determined by which substance can scratch another substance
+113874062	a logarithmic scale of 1 to 10 formerly used to express the magnitude of an earthquake on the basis of the size of seismograph oscillations
+113874280	a logarithmic scale of 1 to 10 (a successor to the Richter scale) that enables seismologists to compare the energy released by different earthquakes on the basis of the area of the geological fault that ruptured in the quake
+113874592	a system of measuring temperature
+113874797	a temperature scale that defines the freezing point of water as 0 degrees and the boiling point of water as 100 degrees
+113875017	a temperature scale that defines the freezing point of water as 32 degrees and the boiling point of water a 212 degrees
+113875199	a temperature scale that defines absolute zero as 0 degrees; water freezes at 273.16 degrees and boils at 373.16 degrees
+113875395	a scale of absolute temperature in Fahrenheit degrees; the freezing point of water is 491.69 degrees and the boiling point of water is 671.69 degrees
+113875604	a temperature scale on which water freezes at 0 degrees and boils at 80 degrees
+113875743	a schedule of wages paid for different jobs
+113875877	a wage scale that fluctuates in response to the cost-of-living index
+113876005	relation based on similarities and differences
+113876144	the kind of mental comparison that is expressed in similes or metaphors or allegories
+113876298	accepted or approved instance or example of a quantity or quality against which others are judged or measured or compared
+113876515	an imaginary line or standard by which things are measured or compared
+113876685	a standard or model or pattern regarded as typical
+113876846	the relation between opposed entities
+113877297	direct opposite
+113877427	exact opposite
+113877574	opposition in a work of drama or fiction between characters or forces (especially an opposition that motivates the development of the plot)
+113877824	the opposition or dissimilarity of things that are compared
+113878025	a different aspect of something (especially the opposite aspect)
+113878307	a relation between two opposite attributes or tendencies
+113878517	an opposition that is capable of being graded
+113878646	an opposition that can be graded between two extremes or poles
+113878771	having an indicated pole (as the distinction between positive and negative electric charges)
+113879054	the character of the positive electric pole
+113879205	the character of the negative electric pole
+113879356	an opposition that has no intermediate grade; either one or the other
+113879511	a relation between two opposite states or principles that together exhaust the possibilities
+113879683	the relation that exists when opposites cannot coexist
+113879873	opposition between two conflicting forces or ideas
+113880001	a contradiction of ideas that serves as the determining factor in their interaction
+113880242	the relation between propositions that cannot both be true at the same time
+113880467	exact opposition
+113880589	the relation between contraries
+113880678	some third thing similar to two opposites but distinct from both
+113880801	a relation of direct opposition
+113881030	something inverted in sequence or character or effect
+113881240	a relational difference between states; especially between states before and after some event
+113881504	a significant change
+113881709	a graded change in the magnitude of some physical quantity or dimension
+113881889	a gradient in concentration of a solute as a function of distance through a solution
+113882122	a gradient in the gravitational forces acting on different parts of a nonspherical object
+113882342	change in temperature as a function of distance (especially altitude)
+113882478	a logical relation between propositions p and q of the form if p then q'; if p is true then q cannot be false
+113882745	the relation between opposing principles or forces or factors
+113882990	a three-dimensional shape
+113883265	(mathematics) an unbounded two-dimensional shape
+113883664	a plane in which all points can be described in Cartesian coordinates
+113883813	a geometric representation of the complex numbers established by the real axis and the orthogonal imaginary axis; it can be thought of as a modified Cartesian plane, with the real part of a complex number represented by a displacement along the x-axis, and the imaginary part by a displacement along the y-axis
+113884183	the plane of a facet of an object (as of a cube)
+113884289	the median plane of the body (or some part of the body)
+113884409	(astronomy) the plane on which a body is orbiting
+113884537	the plane that is in the foreground of a drawing or painting; coextensive with but different from the objective surface of the work
+113884747	the plane that contains all the lines tangent to a specific point on a surface
+113884885	a shape created by natural forces; not man-made
+113885010	any of the various shape that leaves of plants can assume
+113885155	a figure whose sides are all equal
+113885247	a shape that spreads outward
+113885383	a combination of points and lines and planes that form a visible palpable shape
+113885623	a figure formed by a set of straight lines or light rays meeting at a point
+113885789	a two-dimensional shape
+113886094	a three-dimensional shape
+113886223	a figure that is a part of another figure
+113886392	a length (straight or curved) without breadth or thickness; the trace of a moving point
+113886656	anything with a round shape resembling a teardrop
+113886774	a shape that curves or bulges outward
+113887044	a slight convexity (as of the surface of a road)
+113887163	a slight convexity in the shaft of a column; compensates for the illusion of concavity that viewers experience when the sides are perfectly straight
+113887384	a shape having one or more sharp angles
+113887586	a shape that curves or bends inward
+113887919	a solid bounded by a cylindrical surface and two parallel planes (the bases)
+113888104	a shape that is curved and without sharp angles
+113888407	a rounded spherical form
+113888525	a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and valentines
+113888765	a closed plane figure bounded by straight sides
+113889136	an equiangular polygon
+113889247	a polygon such that no side extended cuts any other side or vertex; it can be cut by a straight line in at most two points
+113889448	a polygon such that there is a straight line that cuts it in four or more points
+113889626	a polygon with one or more reentrant angles
+113889754	a polygon with all sides and all angles equal
+113889897	a shape resulting from distortion
+113890113	an ill-defined or arbitrary shape
+113890262	the trace of a point whose direction of motion changes
+113890887	a curve (such as a circle) having no endpoints
+113891010	a closed curve that does not intersect itself
+113891154	a double curve resembling the letter S
+113891246	the curve theoretically assumed by a perfectly flexible and inextensible cord of uniform density and cross section hanging freely from two fixed points
+113891452	the double curve of the upper lip when considered to resemble Cupid's bow
+113891583	an undulating curve
+113891684	the exterior curve of an arch
+113891768	something in a thin curved form (like the neck of a goose)
+113891882	the interior curve of an arch
+113891966	a circular segment of a curve
+113892186	a sharp curve or crook; a shape resembling a hook
+113892315	(biology) any hook-shaped process or part
+113892427	a curve that is tangent to each of a family of curves
+113892535	a bend or curve (especially in a coastline)
+113892630	a line traced by a point traveling in a constant direction; a line of zero curvature
+113893053	(mathematics) the shortest line between two points on a mathematically defined surface (as a straight line on a plane or an arc of a great circle on a sphere)
+113893319	a straight line at right angles to another line
+113893444	a connecting shape
+113893574	a straight line that is the limiting value of a curve; can be considered as tangent at infinity
+113893773	a straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point
+113893977	a straight line that intersects a curve at two or more points
+113894091	a line enclosing a plane areas
+113894177	a straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere)
+113894356	a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its surface)
+113894606	a line that bisects a plane figure
+113894711	a concave shape whose distinguishing characteristic is that the concavity faces downward
+113894850	a concavity in a surface (especially an anatomical depression)
+113895060	a small concavity
+113895231	a shape whose base is a circle and whose sides taper up to a point
+113895461	a conical shape with a wider and a narrower opening at the two ends
+113895614	(geometry) a curve generated by the intersection of a plane and a circular cone
+113895852	a point or set of points common to two or more geometric configurations
+113896000	a plane figure that deviates from a square or circle due to elongation
+113896141	ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed point
+113896488	a small circle
+113896556	something approximating the shape of a circle
+113896712	a circle dividing a sphere or other surface into two usually equal and symmetrical parts
+113896890	a plane figure with the shape of half a circle
+113897023	a continuous portion of a circle
+113897197	one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)
+113897566	a straight line connecting two points on a curve
+113897666	a plane figure bounded by two radii and the included arc of a circle
+113897824	something with a round shape resembling a flat circular plate
+113898031	a toroidal shape
+113898210	anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)
+113898523	a loop in a rope
+113898609	a round shape formed by a series of concentric circles (as formed by leaves or flower petals)
+113899010	a plane curve traced by a point circling about the center but at increasing distances from the center
+113899200	a curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle
+113899392	a pair of parallel helices intertwined about a common axis
+113899560	a curve that reverses the direction of something
+113899768	(geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis
+113900047	a straight line that generates a cylinder or cone
+113900186	a straight line joining the apex and a point on the base
+113900306	a straight line running the length of the cylinder
+113900424	the constant angle at which a helix cuts the elements of a cylinder or cone
+113900557	a sharp bend in a line produced when a line having a loop is pulled tight
+113900751	the shape of something rotating rapidly
+113900945	a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it
+113901273	(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon
+113901590	something approximating the shape of a square
+113901688	a square-shaped object
+113901783	a four-sided polygon
+113901977	a three-sided polygon
+113902291	something approximating the shape of a triangle
+113902473	a triangle whose interior angles are all acute
+113902604	a three-sided regular polygon
+113902759	an object shaped like an equilateral triangle
+113902856	a triangle with two equal sides
+113902952	a triangle that contains no right angle
+113903072	a triangle that contains an obtuse interior angle
+113903208	a triangle with one right angle
+113903361	a triangle with no two sides of equal length
+113903468	a regular polygon formed by extending each of the sides of a regular hexagon to form two equilateral triangles
+113903651	(mathematics) one of a set of parallel geometric figures (parallel lines or planes)
+113903832	a quadrilateral whose opposite sides are both parallel and equal in length
+113904038	a quadrilateral with no parallel sides
+113904169	a quadrilateral with two parallel sides
+113904301	a plane figure with 5 or more points; often used as an emblem
+113904467	(mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light
+113904665	a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon
+113904858	a five-sided polygon
+113904933	a six-sided polygon
+113905042	a hexagon with six sides of equal length
+113905144	a seven-sided polygon
+113905220	an eight-sided polygon
+113905296	a nine-sided polygon
+113905370	a polygon with 10 sides and 10 angles
+113905461	an eleven-sided polygon
+113905540	a twelve-sided polygon
+113905618	a parallelogram with four equal sides; an oblique-angled equilateral parallelogram
+113905790	a parallelogram with adjacent sides of unequal lengths; an oblique-angled parallelogram with only the opposite sides equal
+113906003	a parallelogram with four right angles
+113906151	a rectangular drawing
+113906260	a figure on the surface of a sphere bounded by arcs of 3 or more great circles
+113906420	a spherical polygon formed by the arcs of 3 great circles
+113906542	a solid figure bounded by plane polygons or faces
+113906918	a polyhedron any plane section of which is a convex polygon
+113907041	a polyhedron some of whose plane sections are concave polygons
+113907168	a polyhedron with two congruent and parallel faces (the bases) and whose lateral faces are parallelograms
+113907397	a prism whose bases are parallelograms
+113907587	a rectangular parallelepiped
+113907668	a prism whose bases are quadrangles
+113907768	a prism whose bases are triangles
+113907864	having curves
+113908063	a tortuous and twisted shape or position
+113908393	a shape distorted by twisting or folding
+113908529	something twisted and tight and swollen
+113908826	a curved shape in the vertical plane that spans an opening
+113908953	the shape of a bell
+113909064	a plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve
+113909268	an open curve formed by a plane that cuts the base of a right circular cone
+113909417	the place where something divides into branches
+113909603	the place where something divides into two branches
+113909749	a bifurcating branch (one or both of them)
+113909904	a sharp change in direction
+113910012	an angular shape characterized by sharp turns in alternating directions
+113910202	the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians
+113911080	two angles whose sum is a right angle
+113911184	the angular separation between two objects as perceived by an observer
+113911476	(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day
+113911759	the angular distance of a point in an orbit past the point of periapsis measured in degrees
+113911909	an angle formed by two straight lines (in the same plane)
+113912024	an angle formed at the intersection of the arcs of two great circles
+113912154	an angle formed by three or more planes intersecting at a common point (the vertex)
+113912295	(geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)
+113912536	(astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees
+113912757	an interior angle of a polygon that is greater than 180 degrees
+113912919	an angle pointing outward; an interior angle of a polygon that is less than 180 degrees
+113913084	the angle inside two adjacent sides of a polygon
+113913228	the supplement of an interior angle of a polygon
+113913372	(architecture) the exterior angle formed by the junction of a sloping side and a sloping end of a roof
+113913562	the angle that a line makes with a line perpendicular to the surface at the point of incidence
+113913775	the acute angle between the direction of the undisturbed relative wind and the chord of an airfoil
+113913935	the smallest angle of incidence for which light is totally reflected
+113914064	the angle between a reflected ray and a line perpendicular to the reflecting surface at the point of incidence
+113914240	the angle between a refracted ray and a line perpendicular to the surface between the two media at the point of refraction
+113914428	the angle from its axis that a crystal must be rotated before appearing maximally dark when viewed in polarized light
+113914630	an angle less than 90 degrees but more than 0 degrees
+113914741	an angle between 90 and 180 degrees
+113914835	angle that resembles the hind leg of a dog
+113914930	the 90 degree angle between two perpendicular lines
+113915076	an angle that is not a right angle or a multiple of a right angle
+113915255	an angle greater than 180 degrees (but less than 360)
+113915367	an angle of 360 degrees
+113915458	the angle between the face of a cutting tool and the surface of the work
+113915590	(physics) the angle that a magnetic needle makes with the plane of the horizon
+113915822	the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)
+113916003	the angle (at a particular location) between magnetic north and true north
+113916195	the azimuth of a celestial body is the angle between the vertical plane containing it and the plane of the meridian
+113916387	a concave shape with an open top
+113916479	a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)
+113916847	a groove or furrow (especially one in soft earth caused by wheels)
+113916999	a hollow concave shape made by removing something
+113917127	something that bulges out or is protuberant or projects from its surroundings
+113917955	a part that bulges deeply
+113918055	a headlike protuberance on an organ or structure
+113918242	a bump on a ski slope
+113918315	a small lump or protuberance
+113918438	a sharp protuberance
+113918545	any small rounded protuberance (as on certain plants or animals)
+113918679	any thickened enlargement
+113918793	something curved in shape
+113918910	any shape resembling the curved shape of the moon in its first or last quarters
+113919062	a concavity in a surface produced by pressing
+113919388	any slight depression in a surface
+113919547	a quadric surface generated by rotating a hyperbola around its main axis
+113919695	a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis
+113919891	a surface whose plane sections are all ellipses or circles
+113920070	a subfigure consisting of a side of something
+113920221	the side of a right triangle opposite the right angle
+113920350	the perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel)
+113920530	the bottom side of a geometric figure from which the altitude can be constructed
+113920689	equality of distribution
+113920900	a symmetrical arrangement of the parts of a thing
+113921008	balance among the parts of something
+113921202	lack of proportion; imbalance among the parts of something
+113921338	a shape that is generated by rotating an ellipse around one of its axes
+113921592	a three-dimensional closed surface such that every point on the surface is equidistant from the center
+113921802	half of a sphere
+113921893	a solid figure bounded by a spherical surface (including the space it encloses)
+113922097	an object with a spherical shape
+113922428	a small sphere
+113922497	a surface generated by rotating a parallel line around a fixed line
+113922781	a ring-shaped surface generated by rotating a circle around an axis that does not intersect the circle
+113922980	the doughnut-shaped object enclosed by a torus
+113923115	anything that approximates the shape of a column or tower
+113923453	anything that resembles a feather in shape or lightness
+113923607	a small column (or structure resembling a column) that is a part of a plant or animal
+113923748	(geology) a column of weathered and unusually shaped rock
+113923904	a bulging cylindrical shape; hollow with flat ends
+113924014	a hollow cylindrical shape
+113924116	a small sphere
+113924183	a small round soft mass (as of chewed food)
+113924278	a shape that is spherical and small
+113924551	a drop of dew
+113924618	anything shaped like a falling drop (as a pendant gem on an earring)
+113924741	any long raised strip
+113924922	a ridge on a corrugated surface
+113925029	the shape of a raised edge of a more or less circular object
+113925175	a V shape
+113925486	a convex shape that narrows toward a point
+113925598	a curve or surface whose equation (in Cartesian coordinates) is of the second degree
+113925772	any of several plane algebraic curves in the shape of a figure eight
+113925916	a two-dimensionsal figure having the shape of the number eight
+113926085	a line determining the limits of an area
+113926393	the boundary line or the area immediately inside the boundary
+113926582	the outside boundary or surface of something
+113926744	a region marking a boundary
+113926861	(mathematics) a number equal to or greater than any other number in a given set
+113927017	(mathematics) a number equal to or less than any other number in a given set
+113927170	a line or cut across a fabric that is not at right angles to a side of the fabric
+113927331	(geometry) a straight line connecting any two vertices of a polygon that are not adjacent
+113927512	a depression in an otherwise level surface
+113927671	any cup-shaped concavity
+113927849	a depression scratched or carved into a surface
+113928127	(anatomy) a notch or small hollow
+113928281	a V-shaped indentation
+113928411	a slight surface cut (especially a notch that is made to keep a tally)
+113928578	a shape that sags
+113928798	a slight depression or fold in the smoothness of a surface
+113929359	a wrinkle in the skin at the outer corner of your eyes
+113929498	the lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet)
+113929683	a facial wrinkle associated with frowning
+113929781	a crease on the palm; its length is said by palmists to indicate how long you will live
+113929950	a crease on the palm; palmists say it indicates your emotional nature
+113930118	a crease on the palm; palmists say it indicates how successful you will be
+113930286	a long narrow depression in a surface
+113930429	an angular or rounded shape made by folding
+113930861	an irregular fold in an otherwise even surface (as in cloth)
+113931035	a concave cut into a surface or edge (as in a coastline)
+113931215	a split or indentation in something (as the palate or chin)
+113931362	any of a number of tiny parallel grooves such as: the scratches left by a glacier on rocks or the streaks or ridges in muscle tissue
+113931594	a line generated by a point on one figure rolling around a second figure
+113931791	a line generated by a point on a circle rolling along a straight line
+113931968	a cycloid generated by a point inside the rolling circle
+113932086	a cycloid generated by a point outside the rolling circle
+113932205	the curve of y=sin x
+113932311	a circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid
+113932503	a line generated by a point on a circle rolling around another circle
+113932647	an epicycloid in which the rolling circle equals the fixed circle
+113932767	a line generated by a point on a circle that rolls around inside another circle
+113932904	an amorphous or indefinite shape
+113933034	an indistinct shapeless form
+113933131	an empty area or space
+113933399	an empty area (usually bounded in some way between things)
+113933910	a cavity or space in something
+113934060	a connecting point at which several lines come together
+113934166	the shape or manner in which things come together and a connection is made
+113934444	an unoccupied space
+113934532	space that is surrounded by something
+113934675	(bowling) the space between the headpin and the pins behind it on the right or left
+113934887	a very small circular shape
+113935130	any tiny hole admitting passage of a liquid (fluid or gas)
+113935275	a figure that branches from a single root
+113935439	a tree diagram used to illustrate phylogenetic relationships
+113935555	a tree diagram showing a reconstruction of the transmission of manuscripts of a literary work
+113935701	the middle of the chief navigable channel of a waterway that forms the boundary line between states
+113935854	any sharply pointed projection
+113936007	a narrowing that reduces the flow through a channel
+113936179	a smooth surface (as of a bone or cut gemstone)
+113936278	a straight line segment whose length is magnitude and whose orientation in space is direction
+113936442	(mathematics) a straight line extending from a point
+113936581	the distinctive form in which a thing is made
+113936864	a part of a forked or branching shape
+113937156	(biology) a branching or armlike part of an animal
+113937280	the region of the angle formed by the junction of two branches
+113937488	an enclosed space
+113937623	a three-dimensional shape with six square or rectangular sides
+113937870	a polyhedron having a polygonal base and triangular sides with a common vertex
+113938056	an egg-shaped object
+113938146	any polyhedron having four plane faces
+113938242	any polyhedron having five plane faces
+113938338	any polyhedron having six plane faces
+113938450	a parallelepiped bounded by six similar faces (either rhombuses or parallelograms)
+113938627	any polyhedron having eight plane faces
+113938723	any polyhedron having ten plane faces
+113938817	any polyhedron having twelve plane faces
+113938916	any polyhedron having twenty plane faces
+113939032	any one of five solids whose faces are congruent regular polygons and whose polyhedral angles are all congruent
+113939396	the space enclosed by three or more planes that intersect in a vertex
+113939528	the angle formed by two edges of a polyhedral angle
+113939636	a tetrahedron with four equilateral triangular faces
+113939754	a hexahedron with six equal squares as faces
+113939960	the four-dimensional analogue of a cube
+113940055	a cubelike object
+113940127	a dodecahedron with twelve regular pentagons as faces
+113940247	an octahedron with eight equilateral triangles as faces
+113940367	an icosahedron with twenty equilateral triangles as faces
+113940490	a truncated cone or pyramid; the part that is left when a cone or pyramid is cut by a plane parallel to the base and the apical part is removed
+113940723	a frustum formed from a pyramid
+113940818	a frustum formed from a cone
+113940907	a polyhedron whose vertices all lie in one or the other of two parallel planes; the faces that lie in those planes are the bases of the prismatoid
+113941128	a prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms
+113941307	any projection that resembles the tail of an animal
+113941420	any long thin projection that is transient
+113941617	the angle a rocket makes with the vertical as it curves along its trajectory
+113941750	a polyhedron whose faces are trapeziums
+113941849	either of two equal and opposite angles formed by the intersection of two straight lines
+113941998	a whorl of leaves growing around a stem
+113942092	the angle included by a photographic lens
+113942206	the channel or break produced by erosion of relatively soft soil by water
+113942427	the angle of arrival (or departure) of a radio wave with respect to the axis of an antenna array
+113942580	any shape that is triangular in cross section
+113942718	any solid convex shape that juts out from something
+113942952	a projection or ridge that suggests a keel
+113943045	the state of being split or cleft
+113943202	a state that is intermediate between extremes; a middle position
+113943355	the state of being ornamented
+113943462	a mode of being or form of existence of a person or thing
+113943868	a state at a particular time
+113946063	the set of circumstances that affect someone's welfare
+113946252	the prevailing context that influences the performance or the outcome of a process
+113946473	an illness, disease, or other medical problem
+113946615	the condition of being secured to a base
+113946812	the general condition of body and mind
+113946962	a particular functioning condition or arrangement
+113947102	the state of being conditional
+113947229	(physics) the lowest energy state of an atom or other particle
+113947369	(ecology) the status of an organism within its environment and community (affecting its survival as a species)
+113947569	the condition of being noisy (as in a communication channel)
+113947692	the condition of sharing in common with others (as fellows or partners etc.)
+113947896	the condition of being prepossessed
+113948048	the condition of having been made regular (or more regular)
+113948221	a condition in which a quantity no longer responds to some external influence
+113948373	(chemistry) the stage at which a substance will receive no more of another substance in solution or in a vapor
+113948583	the state of being silent (as when no one is speaking)
+113948785	a condition or position in which you find yourself
+113949101	the amount and state of snow for skiing
+113949201	a position particularly well suited to the person who occupies it
+113949362	the status or fact of being elected
+113949484	the state of being a nation
+113949568	the condition of having been proposed as a suitable candidate for appointment or election
+113949819	a particular situation
+113949965	a situation in which an increase in income results in a loss of benefits so that you are no better off
+113950145	an unfortunate situation
+113950264	a situation in golf where an opponent's ball blocks the line between your ball and the hole
+113950416	the general state of things; the combination of circumstances at a given time
+113951224	a situation in which life seems irrational and meaningless
+113951421	a state of connectedness between people (especially an emotional connection)
+113951701	a state involving mutual dealings between people or parties or countries
+113951976	the state of living together in tribes
+113952070	a formal contractual relationship established to provide for regular banking or brokerage or business services
+113952369	a brokerage account of someone who sells short (sells securities he does not own)
+113952510	the friendship characteristic of blood brothers
+113952621	the state of being with someone
+113952885	a trustful relationship
+113953106	a natural or instinctive fellowship between people of similar interests
+113953278	a relationship less intimate than friendship
+113953418	a social or business relationship
+113953758	(psychoanalysis) relationship marked by strong dependence on others; especially a libidinal attachment to e.g. a parental figure
+113953961	the state of being assimilated; people of different backgrounds come to see themselves as part of a larger national family
+113954178	the state of being friends (or friendly)
+113954389	a clandestine love affair
+113954469	a relationship between two lovers
+113954660	the state of being a member
+113954798	a relationship involving sexual intimacy
+113954922	a usually secretive or illicit sexual relationship
+113955078	ideally perfect state; especially in its social and political and moral aspects
+113955246	state in which the conditions of life are extremely bad as from deprivation or oppression or terror
+113955454	the state of being acceptable and accepted
+113955772	a particular situation that is radically different from the preceding situation
+113955981	a demanding or stimulating situation
+113956136	the condition of being without offspring
+113956254	a situation or condition that is complex or confused
+113956424	a situation in which a public official's decisions are influenced by the official's personal interests
+113956593	an unstable situation of extreme danger or difficulty
+113956874	a situation in which people or things are crowded together
+113957103	a critical situation that arises because of a shortage (as a shortage of time or money or resources)
+113957307	loss of equilibrium attributable to an unstable situation in which some forces outweigh others
+113957498	the situation in which you are happiest and most effective
+113957629	the totality of surrounding conditions
+113957933	a stable situation in which forces cancel one another
+113958260	the state of being excluded
+113958433	a state of affairs in which you have no privacy
+113958605	a highly contentious or hazardous situation
+113958786	a situation that is ideal for rapid development (especially of something bad)
+113958943	a difficult situation
+113959063	an awkward situation
+113959186	an intricate and confusing interpersonal or political situation
+113959337	the state of being included
+113959474	the situation of being or dying without a legally valid will
+113959590	a situation in which no one can emerge as a clear winner
+113959709	a situation resembling a terrifying dream
+113959816	a situation in which a favorable outcome is impossible; you are bound to lose whatever you do
+113959972	a bad or difficult situation or state of affairs
+113960108	a situation treated as an observable object
+113960317	a prisonlike situation; a place of seeming confinement
+113960439	a temporary condition of torment or suffering
+113960587	the state of being rejected
+113960760	the actual state of affairs
+113960951	the situation in which you begin an endeavor and to which you return if your efforts fail
+113961243	the existing state of affairs
+113961329	a situation fraught with difficulties and imponderables
+113961473	the condition in which a standard has been successfully established
+113961696	(optics) condition of an optical system (as a lens) in which light rays from a single point converge in a single focal point
+113961932	(optics) defect in an optical system in which light rays from a single point fail to converge in a single focal point
+113962191	the condition of being arranged in social strata or classes within a group
+113962386	a wild primitive state untouched by civilization
+113962637	the condition of things generally
+113962767	the state of being an isomer; the complex of chemical and physical phenomena characteristic of isomers
+113962925	a specific identifiable position in a continuum or series or especially in a process
+113963344	ascending stages by which somebody or something can progress
+113963489	the highest level or degree attainable; the highest stage of development
+113964158	the point or degree to which something extends
+113964370	the final point in a process
+113964502	a level of material comfort in terms of goods and services available to someone or some group
+113964858	a level of existence or development
+113964976	the highest degree of development of an art or technique at a particular time
+113965156	the state or degree of being ultimate; the final or most extreme in degree or size or time or distance
+113965457	the greatest or utmost degree
+113965606	extremeness of degree
+113965795	the expected or commonplace condition or situation
+113965927	a condition that accompanies or influences some event or activity
+113966105	the state or condition of having no home (especially the state of living in the streets)
+113966288	the state of wandering from place to place; having no permanent home or means of livelihood
+113966452	a special set of circumstances
+113966650	a circumstance upon which subsequent events depend
+113966792	the circumstances under which competition occurs
+113967020	a special situation
+113967148	a problematic situation that will eventually become dangerous if not addressed
+113967389	a dangerous state of affairs; a situation that is a potential source of violence
+113967568	an urgent situation calling for prompt action
+113967799	excessive crowding
+113967966	the condition of being reinstated
+113968154	(of a government or government official) holding an office means being in power
+113968547	the power (usually of a president or governor) to pardon or commute the sentence of someone convicted in that jurisdiction
+113968734	an extraordinary power exercised (usually by the executive branch) in the prosecution of a war and involving an extension of the powers that the government normally has in peacetime
+113968971	the relative position or standing of things or especially persons in a society
+113969830	status in a society or organization
+113969940	a state of being essentially equal or equivalent; equally balanced
+113970190	social and political equality
+113970354	equality of score in a contest
+113970452	a tie in tennis or table tennis that requires winning two successive points to win the game
+113970595	position in a social hierarchy
+113970825	proper or designated social situation
+113971047	proper or appropriate position or location
+113971206	high social status
+113971316	social or financial or professional status or reputation
+113971621	a position of superior status
+113971834	a position of prominence or importance
+113971984	the status of being acknowledged as a star
+113972130	the status of being a champion
+113972298	(baseball) an unofficial title won by a batter who leads the league in hitting average, runs batted in, and home runs
+113972493	(horse racing) a title won by a horse that can win the Kentucky Derby and the Belmont Stakes and the Preakness
+113972681	a position of superiority over opponents or competitors
+113972794	higher rank than that of others especially by reason of longer service
+113973020	status established in order of importance or urgency
+113973361	reduced priority
+113973500	top priority
+113973658	the state of excelling or surpassing or going beyond usual limits
+113973921	a position attracting much attention and publicity
+113974030	(usually plural) the status or rank or office of a Christian clergyman in an ecclesiastical hierarchy
+113974433	a position of inferior status; low in station or rank or fortune or estimation
+113974662	the state of being inferior
+113974847	a secondary or inferior position or status
+113975012	a position of relative inferiority
+113975202	secondary importance
+113975389	in a subordinate position
+113975604	in a junior position
+113975684	in a subservient state
+113975819	a status defined by law
+113976010	the legal status of a person who is alive but who has been deprived of the rights and privileges of a citizen or a member of society; the legal status of one sentenced to life imprisonment
+113976275	the legal status or condition of servitude of a villein or feudal serf
+113976433	the status of being born to parents who were not married
+113976574	the status of being born of a morganatic marriage
+113976685	the status of a citizen with rights and duties
+113976826	a position of highest authority
+113977005	the status of belonging to a particular nation by birth or naturalization
+113977154	status with respect to the relations between people or groups
+113977336	the state of being retired from one's business or occupation
+113977471	the state or fact of existing
+113978104	the state of actually existing objectively
+113978438	(Aristotle) the state of something that is fully realized; actuality as opposed to potentiality
+113978627	the state of being genuine
+113978747	the state of being actual or real
+113979160	an event known to have happened or something known to have existed
+113979383	the state of the world as it really is rather than as you might want it to be
+113979648	the state of having in fact existed in the past
+113979774	conformity to reality or actuality
+113980191	a state of eternal existence believed in some religions to characterize the afterlife
+113980403	existing in a former state or previous to something else
+113980554	existing peacefully together
+113980676	life without beginning or end
+113980779	the state of existing in reality; having substance
+113980887	the state of being present; current existence
+113981260	the state of being within or not going beyond a given domain
+113981424	the state of inhering; the state of being a fixed characteristic
+113981639	the state of existing and being localized in space
+113981742	the state of being everywhere at once (or seeming to be everywhere at once)
+113981958	the state of being here in this place
+113982086	the state of being there--not here--in position
+113982207	real existence
+113982355	an instance of something occurring
+113982575	the occurrence of related organisms in separate geographical areas with no overlap
+113982749	the occurrence of organisms in overlapping geographical areas, but without interbreeding
+113982928	a dominating and pervasive presence
+113983104	the state of not being
+113983217	the state of not existing
+113983403	the state of being insubstantial or imaginary; not existing objectively or in fact
+113983643	out of touch with reality
+113983750	the state of being false or untrue
+113984119	state of lacking genuineness
+113984260	the state of being absent
+113984465	absence by virtue of not occurring
+113984559	the state of being elsewhere than in particular place
+113984685	the course of existence of an individual; the actions and events that occur in living
+113984978	the condition of living or the state of being alive
+113985384	a person's skin regarded as their life
+113985502	a state of surviving; remaining alive
+113985696	a means of surviving
+113985834	the absence of life or state of being dead
+113986101	euphemisms for death (based on an analogy between lying in a bed and in a tomb)
+113986368	no longer in existence
+113986528	a characteristic state or mode of living
+113986678	any segregated mode of living or working that results from bias or stereotyping
+113986901	a state of being or existence above and beyond the limits of material experience
+113987093	the condition of being married or unmarried
+113987306	the state of being a married couple voluntarily joined for life (or until divorce)
+113987802	the state of having two spouses at the same time
+113987940	a voluntary union for life (or until divorce) of adult parties of the same sex
+113988228	a marriage relationship created by agreement and cohabitation rather than by ceremony
+113988398	marriage within one's own tribe or group as required by custom or law
+113988623	marriage to a person belonging to a tribe or group other than your own as required by custom or law
+113988864	a marriage for expediency rather than love
+113988976	an unsuitable alliance (especially with regard to marriage)
+113989129	a marriage with a person of inferior social status
+113989237	the state of having only one husband at a time
+113989356	the practice or state of having only one spouse at a time
+113989575	having only one wife at a time
+113989714	a succession of short monogamous relationships (as by someone who undergoes multiple divorces)
+113989870	a marriage in which each partner is free to enter into extraneous sexual relationships without guilt or jealousy from the other
+113990057	the state of a husband whose wife has committed adultery
+113990169	polygamy in which a woman has more than one husband at a time
+113990322	the condition or practice of having more than one spouse at a time
+113990515	polygamy in which a man has more than one wife at a time
+113990662	a Shiite tradition of temporary marriage permitted in Iran that allows a couple to specify the terms of their relationship; can last from a few minutes to 99 years
+113990954	an unmarried status
+113991028	the condition or quality of being a virgin
+113991162	the state of being an unmarried man
+113991274	the state of being a spinster (usually an elderly unmarried woman)
+113991417	the state of being a widow who has not remarried
+113991539	the state of being employed or having a job
+113991755	the state of being unemployed or not having a job
+113991994	established customary state (especially of society)
+113992306	the form of government of a social organization
+113992420	a state of order in which events conform to the law
+113992548	an untroubled state; free from disturbances
+113992690	a harmonious state of things in general and of their properties (as of colors and sounds); congruity of parts with one another and with the whole
+113993147	harmonious relations; freedom from disputes
+113993301	a state or atmosphere of harmony or mutual civility and respect
+113993435	courteous respect by one nation for the laws and institutions of another
+113993571	a stable order (especially of society)
+113993683	the state prevailing during the absence of war
+113993907	a state of friendship and cordiality
+113994031	a state that is calm and tranquil
+113994211	a state of being appeased or ameliorated or tempered
+113994359	a state of peace agreed to between opponents so they can discuss peace terms
+113994512	harmony of people's opinions or actions or characters
+113994829	agreement as to goals
+113995008	the state of manifesting goodwill and cooperation after being reconciled
+113995249	a state of cooperation
+113995348	agreement in the judgment or opinion reached by a group as a whole
+113995627	general agreement reached by an assembled group
+113995834	everyone being of one mind
+113995952	corresponding exactly
+113996048	an implicit agreement among people that results in the organization of society; individual surrenders liberty in return for protection
+113996244	a disturbance of the peace or of public order
+113996506	a state of lawlessness and disorder (usually resulting from a failure of government)
+113996767	complete denial of all established authority and institutions
+113996937	a deficiency of some cellular element of the blood
+113997079	an abnormally low number of red blood cells in the blood
+113997216	an abnormal deficiency in all blood cells (red blood cells and white blood cells and platelets); usually associated with bone marrow tumor or with aplastic anemia
+113997437	a disorder of the immune system
+113997591	the ability to develop an immune response following exposure to an antigen
+113997764	immunological disorder in which some part of the body's immune system is inadequate and resistance to infectious diseases is reduced
+113998067	lowering the body's normal immune response to invasion by foreign substances; can be deliberate (as in lowering the immune response to prevent rejection of a transplanted organ) or incidental (as a side effect of radiotherapy or chemotherapy for cancer)
+113998384	the state of being bloody
+113998484	(immunology) the degree to which the body's immune system will try to reject foreign material (as transfused blood or transplanted tissue)
+113998739	incompatibility in which one person's tissue cannot be transplanted to another person
+113998891	incompatibility of Rh blood types; a transfusion of Rh-positive blood given to a Rh-negative person (or vice versa) can result in hemolysis and anemia
+113999106	an unstable order
+113999199	disorder resulting from a failure to behave predictably
+113999435	a state of disorder and confusion
+113999629	noisy confusion and turbulence
+113999769	a state of extreme confusion and disorder
+113999974	a word for chaos or fiasco borrowed from modern Hebrew (where it is a loan word from Russian)
+114000178	a state of confusion
+114000354	(Yiddish) a confused situation or affair; a mess
+114000490	a state of disorder involving group violence
+114000631	rowdy behavior
+114000813	a disorderly outburst or tumult
+114001179	a violent disturbance
+114001317	a disturbance that is extremely disruptive
+114001480	a public disturbance
+114001613	a prominent or sensational but short-lived news event
+114001791	a violent commotion or disturbance
+114002048	a center of trouble or disturbance
+114002194	a state of commotion and noise and confusion
+114002399	a state of violent disturbance and excitement
+114002549	lack of agreement or harmony
+114002658	a state of violent disturbance and disorder (as in politics or social conditions generally)
+114002988	a state of agitation or turbulent change or development
+114003271	anything characterized by abrupt and extreme changes (especially up and down)
+114003462	a turbulent state resulting in injuries and destruction etc.
+114003613	violent state of the elements
+114003773	a state of deep-seated ill-will
+114004081	feelings of hostility that are not manifest
+114004330	a state of opposition between persons or ideas or interests
+114004622	a state of conflict between persons
+114004756	a state of conflict between colors
+114004888	a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply
+114005248	a war instigated by a major power that does not itself participate
+114005370	actual fighting between the warring parties
+114005485	a state of political hostility between countries using means short of armed warfare
+114005641	a state of political hostility that existed from 1945 until 1990 between countries led by the Soviet Union and countries led by the United States
+114005842	a conflict of people's opinions or actions or characters
+114006073	lack of unity (usually resulting from dissension)
+114006177	a serious disagreement between two groups of people (typically producing tension or hostility)
+114006324	the state of being suspected
+114006484	suspicion affecting your reputation
+114006632	the degree of visibility of your environment
+114006789	having abundant light or illumination
+114007000	absence of light or illumination
+114007202	darkness
+114007292	total absence of light
+114007567	darkness resulting from the extinction of lights (as in a city invisible to enemy aircraft)
+114007770	partial darkness
+114007953	gloomy semidarkness caused by cloud cover
+114008098	relative darkness caused by light rays being intercepted by an opaque body
+114008429	shade within clear boundaries
+114008583	a region of complete shadow resulting from total obstruction of light
+114008704	a fringe region of partial shadow around an umbra
+114008808	the state of being poorly illuminated
+114008947	a state of partial or total darkness
+114009156	the state of being indistinct or indefinite for lack of adequate illumination
+114009303	the state of a person's emotions (especially with regard to pleasure or dejection)
+114009674	the state of being embarrassed (usually by some financial inadequacy)
+114009857	a state of being carried away by overwhelming emotion
+114010164	state of being gratified or satisfied
+114010428	your personal satisfaction (or dissatisfaction) with the cultural or intellectual conditions under which you live (as distinct from material comfort)
+114010704	satisfaction or physical well-being provided by a person or thing
+114010908	state of well-being characterized by emotions ranging from contentment to intense joy
+114011204	a state of supreme happiness
+114011390	a state of extreme happiness
+114011586	a state of elated bliss
+114011709	(Hinduism and Buddhism) the beatitude that transcends the cycle of reincarnation; characterized by the extinction of desire and suffering and individual consciousness
+114011983	a state of depression or agitation
+114012148	state characterized by emotions ranging from mild discontentment to deep grief
+114012356	the state of being embittered
+114012536	the state of being sad
+114012765	state of sorrow over the death or departure of a loved one
+114012928	a state of deeply felt distress or sorrow
+114013112	a state or condition of being innocent of a specific crime or offense
+114013348	a state of innocence
+114013549	the state of being unsullied by sin or moral wrong; lacking a knowledge of evil
+114013874	without moral defects
+114013987	the state of being free of suspicion
+114014160	the state of having committed an offense
+114014445	a state of guilt
+114014606	the state of being guilty of bloodshed and murder
+114014730	guilt as an accomplice in a crime or offense
+114014831	the state of being a criminal
+114015001	the attribution of guilt (without proof) to individuals because the people they associate with are guilty
+114015173	the state of being liable to impeachment
+114015308	the condition of being free; the power to act or speak or think without externally imposed restraints
+114015679	the freedom of teachers and students to express their ideas in school without religious or political or institutional restrictions
+114015872	freedom from political subjugation or servitude
+114015999	immunity from arbitrary exercise of authority: political independence
+114016223	government of a political unit by its own people
+114016420	government free from external control
+114016515	freedom of a local government to determine by popular vote the applicability of a controversial law in their jurisdiction
+114016695	self-government in local matters by a city or county that is part of a national government
+114016841	economic independence as a national policy
+114017002	the disintegration of social norms governing behavior and thought and social relationships
+114017170	freedom to do as you see fit
+114017327	the removal of constraints

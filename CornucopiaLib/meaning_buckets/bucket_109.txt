@@ -1,0 +1,1000 @@
+302194304	being one more than three
+302194389	being one more than four
+302194472	denoting a quantity consisting of six items or units
+302194609	being one more than six
+302194712	being one more than seven
+302194800	denoting a quantity consisting of one more than eight and one less than ten
+302194935	being one more than nine
+302195018	being one more than ten
+302195104	denoting a quantity consisting of 12 items or units
+302195245	being one more than twelve
+302195338	being one more than thirteen
+302195432	being one more than fourteen
+302195542	being one more than fifteen
+302195634	being one more than sixteen
+302195747	being one more than seventeen
+302195844	being one more than eighteen
+302195956	denoting a quantity consisting of 20 items or units
+302196070	being one more than twenty
+302196164	being two more than twenty
+302196259	being three more than twenty
+302196359	being four more than twenty
+302196456	being five more than twenty
+302196552	being six more than twenty
+302196647	being seven more than twenty
+302196747	being eight more than twenty
+302196848	being nine more than twenty
+302196945	being ten more than twenty
+302197035	being one more than thirty
+302197130	being two more than thirty
+302197226	being three more than thirty
+302197327	being four more than thirty
+302197425	being five more than thirty
+302197522	being six more than thirty
+302197618	being seven more than thirty
+302197719	being eight more than thirty
+302197821	being nine more than thirty
+302197917	being ten more than thirty
+302198016	being one more than forty
+302198108	being two more than forty
+302198201	being three more than forty
+302198299	being four more than forty
+302198394	being five more than forty
+302198488	being six more than forty
+302198581	being seven more than forty
+302198679	being eight more than forty
+302198778	being nine more than forty
+302198871	being ten more than forty
+302198975	being one more than fifty
+302199066	being two more than fifty
+302199158	being three more than fifty
+302199255	being four more than fifty
+302199349	being five more than fifty
+302199442	being six more than fifty
+302199534	being seven more than fifty
+302199631	being eight more than fifty
+302199729	being nine more than fifty
+302199823	being ten more than fifty
+302199923	being one more than sixty
+302200015	being two more than sixty
+302200108	being three more than sixty
+302200206	being four more than sixty
+302200301	being five more than sixty
+302200395	being six more than sixty
+302200488	being seven more than sixty
+302200586	being eight more than sixty
+302200685	being nine more than sixty
+302200780	being ten more than sixty
+302200888	being one more than seventy
+302200985	being two more than seventy
+302201083	being three more than seventy
+302201186	being four more than seventy
+302201286	being five more than seventy
+302201385	being six more than seventy
+302201483	being seven more than seventy
+302201586	being eight more than seventy
+302201690	being nine more than seventy
+302201790	being ten more than seventy
+302201894	being one more than eighty
+302201990	being two more than eighty
+302202087	being three more than eighty
+302202189	being four more than eighty
+302202288	being five more than eighty
+302202386	being six more than eighty
+302202483	being seven more than eighty
+302202585	being eight more than eighty
+302202688	being nine more than eighty
+302202784	being ten more than eighty
+302202873	being one more than ninety
+302202967	being two more than ninety
+302203062	being three more than ninety
+302203162	being four more than ninety
+302203259	being five more than ninety
+302203355	being six more than ninety
+302203450	being seven more than ninety
+302203550	being eight more than ninety
+302203651	being one less than one hundred and nine more than ninety
+302203776	being ten more than ninety
+302203880	being one more than one hundred
+302204002	being five more than one hundred
+302204108	being ten more than one hundred
+302204212	being five more than one hundred ten
+302204326	being ten more than one hundred ten
+302204438	being five more than one hundred twenty
+302204560	being ten more than one hundred twenty
+302204676	being five more than one hundred thirty
+302204799	being ten more than one hundred thirty
+302204913	being five more than one hundred forty
+302205033	being ten more than one hundred forty
+302205145	being five more than one hundred fifty
+302205264	being ten more than one hundred fifty
+302205377	being five more than one hundred sixty
+302205497	being ten more than one hundred sixty
+302205613	being five more than one hundred seventy
+302205738	being ten more than one hundred seventy
+302205856	being ten more than one hundred eighty
+302205971	being ten more than one hundred ninety
+302206078	being one hundred more than two hundred
+302206189	being one hundred more than three hundred
+302206300	denoting a quantity consisting of 500 items or units
+302206421	denoting a quantity consisting of 1,000 items or units
+302206560	denoting a quantity consisting of 10,000 items or units
+302206674	(in Roman numerals, C written with a macron over it) denoting a quantity consisting of 100,000 items or units
+302206846	(in Roman numerals, M written with a macron over it) denoting a quantity consisting of 1,000,000 items or units
+302207011	denoting a quantity consisting of one thousand million items or units in the United States
+302207192	denoting a quantity consisting of one million million items or units in Great Britain
+302207368	one million million in the United States
+302207482	one quintillion in Great Britain
+302207588	very large indeterminate number
+302207704	being or denoting a numerical order in a series
+302209551	indicating an initial point or origin
+302209639	preceding even the first
+302209716	indicating the beginning unit in a series
+302209815	coming next after the first in position in space or time or degree or magnitude
+302209976	coming next after the second and just before the fourth in position
+302210112	coming next after the third and just before the fifth in position or time or degree or magnitude
+302210381	coming next after the fourth and just before the sixth in position
+302210523	coming next after the fifth and just before the seventh in position
+302210648	coming next after the sixth and just before the eighth in position
+302210792	coming next after the seventh and just before the ninth in position
+302210918	coming next after the eighth and just before the tenth in position
+302211042	coming next after the ninth and just before the eleventh in position
+302211169	coming next after the tenth and just before the twelfth in position
+302211298	coming next after the eleventh and just before the thirteenth in position
+302211432	coming next after the twelfth in position
+302211537	coming next after the thirteenth in position
+302211645	coming next after the fourteenth and just before the sixteenth in position
+302211800	coming next after the fifteenth in position
+302211906	coming next after the sixteenth in position
+302212032	coming next after the seventeenth in position
+302212141	coming next after the eighteenth in position
+302212249	last in an indefinitely numerous series
+302212385	coming next after the nineteenth in position
+302212492	coming next after the twentieth in position
+302212601	coming next after the twenty-first in position
+302212714	coming next after the twenty-second in position
+302212827	coming next after the twenty-third in position
+302212940	coming next after the twenty-fourth in position
+302213053	coming next after the twenty-fifth in position
+302213165	coming next after the twenty-sixth in position
+302213279	coming next after the twenty-seventh in position
+302213394	coming next after the twenty-eighth in position
+302213507	coming next after the twenty-ninth in position
+302213616	coming next after the thirtieth in position
+302213725	the ordinal number of thirty-two in counting order
+302213842	the ordinal number of thirty-three in counting order
+302213960	the ordinal number of thirty-four in counting order
+302214078	the ordinal number of thirty-five in counting order
+302214195	the ordinal number of thirty-six in counting order
+302214311	the ordinal number of thirty-seven in counting order
+302214431	the ordinal number of thirty-eight in counting order
+302214550	the ordinal number of thirty-nine in counting order
+302214667	the ordinal number of forty in counting order
+302214774	the ordinal number of forty-one in counting order
+302214888	the ordinal number of forty-two in counting order
+302215003	the ordinal number of forty-three in counting order
+302215119	the ordinal number of forty-four in counting order
+302215235	the ordinal number of forty-five in counting order
+302215350	the ordinal number of forty-six in counting order
+302215464	the ordinal number of forty-seven in counting order
+302215582	the ordinal number of forty-eight in counting order
+302215699	the ordinal number of forty-nine in counting order
+302215814	the ordinal number of fifty in counting order
+302215939	the ordinal number of fifty-five in counting order
+302216054	the ordinal number of sixty in counting order
+302216161	the ordinal number of sixty-four in counting order
+302216277	the ordinal number of sixty-five in counting order
+302216392	the ordinal number of seventy in counting order
+302216521	the ordinal number of seventy-five in counting order
+302216640	the ordinal number of eighty in counting order
+302216749	the ordinal number of eighty-five in counting order
+302216866	the ordinal number of ninety in counting order
+302216975	the ordinal number of ninety-five in counting order
+302217092	the ordinal number of one hundred in counting order
+302217220	the ordinal number of one hundred one in counting order
+302217347	the ordinal number of one hundred five in counting order
+302217475	the ordinal number of one hundred ten in counting order
+302217602	the ordinal number of one hundred fifteen in counting order
+302217737	the ordinal number of one hundred twenty in counting order
+302217871	the ordinal number of one hundred twenty-five in counting order
+302218013	the ordinal number of one hundred thirty in counting order
+302218147	the ordinal number of one hundred thirty-five in counting order
+302218289	the ordinal number of one hundred forty in counting order
+302218421	the ordinal number of one hundred forty-five in counting order
+302218561	the ordinal number of one hundred fifty in counting order
+302218693	the ordinal number of one hundred fifty-five in counting order
+302218833	the ordinal number of one hundred sixty in counting order
+302218965	the ordinal number of one hundred sixty-five in counting order
+302219105	the ordinal number of one hundred seventy in counting order
+302219241	the ordinal number of one hundred seventy-five in counting order
+302219385	the ordinal number of one hundred eighty in counting order
+302219519	the ordinal number of one hundred eighty-five in counting order
+302219658	the ordinal number of two hundred in counting order
+302219777	the ordinal number of three hundred in counting order
+302219900	the ordinal number of four hundred in counting order
+302220021	the ordinal number of five hundred in counting order
+302220142	the ordinal number of one thousand in counting order
+302220260	the ordinal number of one million in counting order
+302220367	the ordinal number of one billion in counting order
+302220474	the ordinal number of one trillion in counting order
+302220583	the ordinal number of one quadrillion in counting order
+302220698	the ordinal number of one quintillion in counting order
+302220813	last or greatest in an indefinitely large series
+302220939	written as for a film or play or broadcast
+302221046	not furnished with or using a script
+302221226	said or done without having been planned or written in advance
+302221417	capable of being sunk
+302221493	incapable of being sunk
+302221616	existing alone or consisting of one entity or part or aspect or individual
+302222035	occurring singly; not one of a pair
+302222187	designed for or restricted to a single person
+302222405	being the only one; single and isolated from others
+302222756	the single one of its kind
+302223051	constituting a class of its own; unique
+302223236	consisting of or involving a single element or component
+302223438	based on the system of having only one member from each district (as of a legislature)
+302223646	having or involving or consisting of more than one part or entity or individual
+302224381	composed of a dense cluster of separate units such as carpels or florets or drupelets
+302224577	occurring in pairs
+302224672	consisting of two (units or components or elements or terms)
+302224928	twice as great or many
+302225139	consisting of or involving two parts or components usually in pairs
+302225486	having more than one decidedly dissimilar aspects or qualities
+302225866	designed for or serving two purposes
+302226037	(used technically of a device or process) having two parts
+302226172	many and varied; having many features or forms
+302226405	having three units or components or elements
+302226692	three times as great or many
+302226873	being three in one; used especially of the Christian Trinity
+302227002	four times as great or many
+302227145	having four units or components
+302227350	consisting of or especially arranged in sets of four
+302227518	having five units or components
+302227628	having six units or components
+302227734	having seven units or components
+302227846	having eight units or components
+302227957	having nine units or components
+302228065	containing ten or ten parts
+302228166	used of flowers having more than the usual number of petals in crowded or overlapping arrangements
+302228429	used of flowers having usually only one row or whorl of petals
+302228646	offering several alternative answers from which the correct one is to be chosen; or consisting of such questions
+302228875	offering a series of statements each of which is to be judged as true or false
+302229031	(of roads) having a single lane for traffic in both directions; when vehicles meet one must pull off the road to let the other pass
+302229220	(of roads and highways) having two or more lanes for traffic
+302229408	having a median strip or island between lanes of traffic moving in opposite directions
+302229581	having a lane for traffic in each direction
+302229679	having a lane for traffic in each direction and a center lane for passing
+302229809	having two lanes for traffic in each direction
+302229911	having a specified size
+302230436	having the approximate size of an apple
+302230533	having the approximate size of a cherry
+302230631	having the approximate size of a cookie
+302230729	having the approximate size of a crow
+302230823	having the approximate size of an average dog
+302230924	used of nail size; 2 1/2 in or 6.4 cm long
+302231023	having the approximate size of a ferret
+302231121	used of nail size; 1 3/8 in or 3.8 cm long
+302231219	having the approximate size of a grape
+302231315	having the approximate size of a human being
+302231417	having the approximate size of a kiwi fruit
+302231517	intermediate in size
+302231643	having the approximate size of a mouse
+302231739	used of nail size; 2 3/4 in or 7 cm long
+302231835	having the approximate size of an orange
+302231934	having the approximate size of a pig
+302232026	having the approximate size of a rabbit
+302232124	having the approximate size of a shrew
+302232220	(used in combination) sized
+302232367	arranged according to size
+302232446	having the approximate size of a sparrow
+302232546	having the approximate size of a squirrel
+302232648	used of nail size; 1 1/8 in long
+302232737	having the approximate size of a turkey
+302232835	having the approximate size of a wolf
+302232929	not fashioned to sizes
+302233060	not arranged according to size
+302233145	having the surface treated or coated with sizing
+302233245	not having the surface treated or coated with sizing
+302233368	having or showing or requiring special skill
+302233868	highly skilled
+302234002	having or showing knowledge and skill and aptitude
+302234501	used of a player skilled in stealing the ball or robbing a batter of a hit
+302234724	having or revealing supreme mastery or skill
+302235089	marked by great skill especially in meticulous technique
+302235230	performed or performing with unusually great skill and daring and energy
+302235408	excellent
+302235517	proficient and confident in performance
+302235691	of or relating to or requiring special knowledge to be understood
+302235908	competent in many areas and able to turn with ease from one thing to another
+302236080	not having or showing or requiring special skill or proficiency
+302236646	showing lack of art
+302236745	poorly done
+302236946	spoiled through incompetence or clumsiness
+302237069	showing lack of skill or aptitude
+302237329	not carefully or expertly made
+302237557	of a person unable to do something skillfully
+302237706	used of unskilled work (especially domestic work)
+302237825	clumsy and unskilled
+302237950	impaired in skill by neglect
+302238069	possessing or requiring limited skills
+302238216	deficient or lacking in some skill
+302238326	relating to or having facility in the use of words
+302238540	relating to or having ability to think in or work with numbers
+302238735	of textures that are rough to the touch or substances consisting of relatively large particles
+302239100	not having a fine texture
+302239247	composed of or covered with particles resembling meal in texture or consistency
+302239631	made grainy or formed into granules
+302239743	(of textures) resembling plush
+302239857	(of textures) full of small openings or gaps
+302239996	of textures that are smooth to the touch or substances consisting of relatively small particles
+302240484	of textiles
+302240614	dense or compact in structure or texture, as a wood composed of small-diameter cells
+302240817	as fine and powdery as dust
+302240899	resembling flour in fine powdery texture
+302241027	not having granules
+302241135	consisting of fine particles
+302241425	have fine or very small constituent particles
+302241544	of extremely fine size or texture
+302241672	marked by or emitting or filled with smoke
+302241932	darkened by smoke
+302242026	emitting smoke in great volume
+302242133	containing smoke
+302242230	emitting or containing little or no smoke
+302242418	free of smoke
+302242526	causing or tending to cause things to slip or slide
+302242933	having a smooth or slippery quality
+302243075	(of surfaces especially of cooking utensils) permitting easy removal of adherent food particles
+302243265	made slick by e.g. ice or grease
+302243485	being a smooth continuous motion
+302243571	covered with or resembling slime
+302243739	moving as on a slippery surface
+302243891	having a slippery surface or quality
+302244015	not slippery; not likely to slip or skid
+302244167	designed to reduce or prevent skidding
+302244276	designed to reduce or prevent slipping
+302244389	smeared with oil or grease to reduce friction
+302244501	not lubricated
+302244586	having a surface free from roughness or bumps or ridges or irregularities
+302245047	used especially of fabrics
+302245164	having an even texture
+302245246	(of surfaces) conducive to rapid speeds
+302245388	having a smooth, fine-grained structure
+302245505	resembling glass in smoothness and shininess and slickness
+302245722	smooth, especially of skin
+302245872	designed or arranged to offer the least resistant to fluid flow
+302246054	smooth and soft to sight or hearing or touch or taste
+302246206	having or caused by an irregular surface
+302247033	causing abrasion
+302247223	of paint or varnish; having the appearance of alligator hide
+302247351	resembling the rough bark of a tree
+302247490	topographically very uneven
+302247632	of leaves; appearing puckered as if blistered
+302247750	covered with or full of bumps
+302247873	used of skin roughened as a result of cold or exposure
+302248019	of textiles; having parallel raised lines
+302248123	(of the surface) having a rough, riblike texture
+302248234	having hills and crags
+302248412	treated so as to have a permanently wrinkled appearance
+302248539	of textiles; having a rough surface
+302248822	used especially of leaves or bracts; overlapping or layered as scales or shingles
+302248991	rough to the touch; covered with scales or scurf
+302249187	covered with tiny scales
+302249287	(used especially of skin) marked by lines or seams
+302249458	used of paved surfaces having holes or pits
+302249578	abounding in or bordered by rocky cliffs or scarps
+302249732	abounding in rocks or stones
+302249967	abounding in small stones
+302250156	somewhat rough
+302250225	of leaves; ridged or wrinkled
+302250326	having the abrasive texture of sandpaper
+302250441	having rough edges that can be used for sawing
+302250542	covered with scabs
+302250631	having a very rough nap or covered with hanging shags
+302250830	having surface roughness
+302250999	(of skin) covered with warts or projections that resemble warts
+302251155	of motion that runs or flows or proceeds without jolts or turbulence
+302251311	causing or characterized by jolts and irregular movements
+302251550	having long narrow shallow depressions (as grooves or wrinkles) in the surface
+302251809	having thin parallel channels
+302251942	shaped into alternating parallel grooves and ridges
+302252105	full of ruts
+302252216	not marked with shallow depressions or furrows
+302252363	of the margin of a leaf shape; not broken up into teeth
+302252634	(of leaves or petals) having a smooth edge; not broken up into teeth or lobes
+302252764	having a slightly undulating margin
+302252852	having a strongly waved margin alternately concave and convex
+302252967	having a wavy margin and rippled surface
+302253062	having no notches
+302253147	of the margin of a leaf shape; having the edge cut or fringed or scalloped
+302253688	having toothlike projections that are themselves toothed
+302253800	having saw-like notches with the notches themselves similarly notched
+302253926	having a margin or fringe of hairlike projections
+302254040	having a margin with rounded scallops
+302254154	having a margin with small rounded teeth
+302254283	wavy or notched and curled very irregularly
+302254381	having toothlike projections in the margin
+302254477	having a very finely toothed margin
+302254570	having a notched tip
+302254647	having an irregularly notched or toothed margin as though gnawed
+302254818	having a fringe of slender processes
+302254910	having edges irregularly and finely slashed
+302255039	irregularly slashed and jagged as if torn
+302255166	like a comb
+302255233	having a surface covered with a network of cracks and small crevices
+302255381	having incised margins with the lobes or teeth pointing toward the base; as dandelion leaves
+302255529	notched like a saw with teeth pointing toward the apex
+302255682	minutely serrated
+302255755	having spines
+302255822	of a firearm; having rifling or internal spiral grooves inside the barrel
+302255948	of a firearm; not having rifling or internal spiral grooves inside the barrel
+302256093	living together or enjoying life in communities or organized groups
+302256437	denoting or deriving from or distinctive of the ways of living built up by a group of people
+302256728	instinctively or temperamentally seeking and enjoying the company of others
+302256927	occurring among or involving several people
+302257081	involving several ethnic groups
+302257185	not seeking or given to association; being or living without companions
+302257510	isolated from others
+302257692	hostile to or disruptive of normal standards of social behavior
+302257975	given to avoiding association with others
+302258174	characterized by or preferring solitude
+302258435	withdrawn from society; seeking solitude
+302258643	having companions or an escort
+302258801	being without an escort
+302258956	lacking companions or companionship
+302259320	cut off or left behind
+302259517	alone and on your own
+302259643	lacking accompaniment or a guard or escort
+302259797	playing or singing with instrumental or vocal accompaniment
+302259926	playing or singing without accompaniment
+302260096	sung without instrumental accompaniment
+302260236	composed or performed by a single voice or instrument
+302260390	(of animals) tending to form a group with others of the same species
+302260633	tending to move or live together in groups or colonies of the same kind
+302260821	(of animals) not gregarious
+302260961	of plants and animals; not growing or living in groups or colonies
+302261145	(of plants) growing in groups that are close together
+302261292	growing close together but not in dense mats
+302261411	(of plants) growing together in groups that are not close together
+302261573	(of plants) growing in small dense clumps or tufts
+302261720	having or joined by a seam or seams
+302261844	showing a seam
+302261928	fastened with stitches
+302262020	not having or joined by a seam or seams
+302262190	(of rugs or carpets) woven full width
+302262302	knitted in tubular form
+302262425	having no seams
+302262534	(of the more skilled contestants) selectively arranged in the draw for position in a tournament so that they meet each other in later rounds
+302262727	not seeded; used of players of lesser skill
+302262825	full of seeds
+302263073	having black seeds
+302263150	having many seeds
+302263243	having or supplied with seeds
+302263364	having seeds as specified
+302263492	having a single seed
+302263596	having relatively small seeds
+302263684	having three seeds
+302263761	having white seeds
+302263838	lacking seeds
+302263965	having the seeds extracted
+302264062	(of fruits having stones) having the stone removed
+302264193	provided with shutters or shutters as specified; often used in combination
+302264415	with shutters closed
+302264488	not provided with shutters or having the shuttered open
+302264624	made with sleeves or sleeves especially as specified; often used in combination
+302264794	having no sleeves
+302264897	inclined to or conducive to companionship with others
+302265357	inclined to club together
+302265487	effusively sociable
+302265612	suggestive of companionship
+302265758	occupied with or fond of the pleasures of good company
+302266005	at ease in talking to others
+302266116	composed of sociable people or formed for the purpose of sociability
+302266356	not inclined to society or companionship
+302266728	shunning contact with others
+302266876	not disposed to seek company
+302266995	disposed of to a purchaser
+302267136	sold in excess of available supply especially season tickets
+302267296	sold completely in advance
+302267423	not disposed of by purchase
+302267573	having a sole or soles especially as specified; used in combination
+302267722	having no sole
+302267791	of definite shape and volume; firm; neither liquid nor gaseous
+302268138	changed into a solid mass
+302268233	formed by the coalescence of particles
+302268326	congealed into jelly; solidified by cooling
+302268486	used of solid substances in contrast with liquid ones
+302268603	partly solid; having a rigidity and viscosity intermediate between a solid and a liquid
+302268769	consisting of semiconductor materials and components and related devices
+302268918	characteristic of or relating to the physical properties of solid materials especially electromagnetic or thermodynamic or structural properties of crystalline solids
+302269142	existing as or having characteristics of a liquid; especially tending to flow
+302269502	characteristic of a fluid; capable of flowing and easily changing shape
+302269741	capable of being liquefied
+302269929	reduced to a liquid state
+302270049	somewhat liquid
+302270121	relating to or resembling or consisting of water
+302270298	existing as or having characteristics of a gas
+302270635	resembling air or having the form of air
+302270740	in the form of ultramicroscopic solid or liquid particles dispersed or suspended in air or gas
+302270906	drawn off in the form of vapor
+302271026	converted into a gas or vapor
+302271163	resembling gas
+302271247	resembling or characteristic of vapor
+302271436	entirely of one substance with no holes inside
+302271631	being the same substance throughout
+302271738	not solid; having a space or gap or cavity
+302272122	being or suggesting a cavern
+302272277	having a sunken area
+302272413	hollow and tube-shaped like a reed
+302272563	constituting a tube; having hollow tubes (as for the passage of fluids)
+302272771	(of a substance) capable of being dissolved in some solvent (usually water)
+302273062	soluble in alcohol
+302273142	capable of dissolving
+302273252	soluble in fats
+302273350	capable of melting
+302273475	soluble in oil
+302273571	soluble in water
+302273647	(of a substance) incapable of being dissolved
+302273799	not soluble in water
+302273901	susceptible of solution or of being solved or explained
+302274107	capable of being answered
+302274207	capable of being solved
+302274356	admitting of no solution or explanation
+302274527	not easily solved
+302274768	explained or answered
+302274920	not solved
+302275064	(quantifier) used with either mass nouns or plural count nouns to indicate an unspecified number or quantity
+302275443	one or some or every or all without specification
+302275890	(used with count nouns) two considered together; the two
+302276025	(used with count nouns) of an indefinite number more than 2 or 3 but not many
+302276242	(quantifier) used with either mass nouns or plural count nouns for indicating a complete or almost complete lack or zero quantity of
+302276640	(used with singular count nouns) colloquial for not a' or not one' or never a'
+302276797	not any
+302276900	having no measurable or otherwise determinable value
+302277044	(quantifier) used with either mass or count nouns to indicate the whole number or amount of or every one of a class
+302277394	(used of count nouns) every one considered individually
+302277553	(used of count nouns) each and all of the members of a group considered singly and without exception
+302277816	(used as intensive) every
+302277945	each and all of a series of entities or intervals as specified
+302278101	having or appealing to those having worldly knowledge and refinement and savoir-faire
+302278541	very sophisticated especially because of surfeit; versed in the ways of the world
+302278811	possessing sound knowledge
+302278936	showing a high degree of refinement and the assurance that comes from wide social experience
+302279187	experienced in and wise to the ways of the world
+302279294	marked by or showing unaffected simplicity and lack of guile or worldly experience
+302279797	exhibiting childlike simplicity and credulity
+302280055	showing a lack of judgment or experience
+302280235	naive and easily deceived or tricked
+302280420	lacking in sophistication or worldliness
+302280704	lacking subtlety and insight
+302280838	not wise in the ways of the world
+302281076	financially secure and safe
+302281393	financially safe
+302281587	financially secure and functioning well
+302281701	financially sound
+302281838	firm and dependable; subject to little fluctuation
+302282002	not sound financially
+302282286	not financially safe or secure
+302282618	involving substantial risk
+302282708	outside the bounds of legitimate or ethical business practices
+302282958	in good condition; free from defect or damage or decay
+302283161	of good quality and condition; solidly built
+302283378	not in good condition; damaged or decayed
+302283552	eaten away as by acid or oxidation
+302283641	damaged by decay; hence unsound and useless
+302283837	(of a liquid) giving off bubbles
+302284054	emitting or filled with bubbles as from carbonation or fermentation
+302284409	supplied with carbon dioxide
+302284501	hissing and bubbling
+302284601	having carbonation (especially artificially carbonated)
+302284713	not effervescent
+302284827	having lost effervescence
+302284931	not having carbonation
+302285028	used of wines and waters; charged naturally or artificially with carbon dioxide
+302285234	not sparkling
+302285356	developed or designed for a special activity or function
+302285578	exhibiting biological specialization; adapted during development to a specific function or environment
+302285760	adapted to or reserved for a particular purpose
+302285944	showing focused training
+302286086	not specialized or modified for a particular purpose or function
+302286262	not biologically differentiated or adapted to a specific function or environment
+302286487	having spines
+302286591	lacking spiny processes
+302286688	displaying animation, vigor, or liveliness
+302287109	full of rough and exuberant animal spirits
+302287272	with vigor
+302287356	lively and spirited
+302287457	joyously unrestrained
+302287634	showing courage
+302287824	characterized by a lightly pert and exuberant quality
+302288067	full of zest or vigor
+302288191	having a proud and unbroken spirit
+302288300	recovering readily from adversity, depression, or the like
+302288414	smart and fashionable
+302288555	full of spirit and vitality
+302288703	vigorous and animated
+302288916	marked by spirited enjoyment
+302289059	lacking ardor or vigor or energy
+302289345	showing little or no emotion or animation
+302289547	without vigor or zest or energy
+302289672	marked by low spirits; showing no enthusiasm
+302289905	devoid of courage or enthusiasm
+302290011	lacking spirit or sincere effort
+302290110	happening or arising without apparent external cause
+302290385	proceeding from natural feeling or impulse without external stimulus
+302290577	spontaneously derived from or prompted by a natural tendency
+302290719	unthinking; prompted by (or as if by) instinct
+302290922	brought about or caused; not spontaneous
+302291090	called forth from a latent or potential state by stimulation
+302291259	induced by a physician's words or therapy (used especially of a complication resulting from treatment)
+302291437	uttered through the medium of speech or characterized by speech; sometimes used in combination
+302291757	communicated in words
+302291903	using speech rather than writing
+302292058	expressed in spoken words
+302292157	expressed orally
+302292312	set down in writing in any of various ways
+302292626	(of handwriting) having the letters slanting backward
+302292769	having successive letter joined together
+302292881	written formally in a large clear script, as a deed or other legal document
+302293012	written or drawn or engraved
+302293141	written by hand
+302293214	written wholly in the handwriting of the signer
+302293341	written (by handwriting, printing, engraving, or carving) on or in a surface
+302293473	having words written out in full by hand
+302293588	copied in handwriting
+302293703	written in abbreviated or symbolic form
+302293817	produced with vibration of the vocal cords
+302294026	produced without vibration of the vocal cords
+302294239	spoken in soft hushed tones without vibrations of the vocal cords
+302294393	systematically collected and written down
+302294522	enacted by a legislative body
+302294659	based on custom rather than documentation
+302294907	based on common law
+302295008	being or containing or characterized by vowels
+302295242	having characteristics of a vowel sound
+302295368	being or marked by or containing or functioning as a consonant
+302295610	capable of being stopped
+302295754	capable of being abated
+302295850	not capable of being stopped
+302295984	hard to defeat
+302296082	(of speech sounds) forming the nucleus of a syllable
+302296222	(of speech sounds) not forming or capable of forming the nucleus of a syllable
+302296400	consisting of a syllable or syllables
+302296636	having or characterized by or consisting of two syllables
+302296750	having or characterized by or consisting of one syllable
+302296883	having or characterized by or consisting of eight syllables
+302297019	having or characterized by or consisting of five syllables
+302297137	having or characterized by words of more than three syllables
+302297275	having or characterized by or consisting of ten syllables
+302297391	pronounced in syllables
+302297470	not forming a syllable or the nucleus of a syllable; consisting of a consonant sound accompanied in the same syllable by a vowel sound or consisting of a vowel sound dominated by other vowel sounds in a syllable (as the second vowel in a falling diphthong)
+302297911	not articulated in syllables
+302297997	(of verse) having lines based on number of syllables rather than on rhythmical arrangement of stresses or quantities
+302298186	(of verse) having a metric system based on stress rather than syllables or quantity
+302298446	(of verse) having a metric system based on relative duration of syllables
+302298730	resistant to change of position or condition
+302299068	not liable to fluctuate or especially to fall
+302299232	lasting a long time without change
+302299364	(chemistry, physics, biology) resistant to change
+302299486	made stable or firm
+302299575	lacking stability or fixity or firmness
+302300035	being where earthquake waves arrive simultaneously
+302300153	(used of boats) inclined to heel over easily under sail
+302300305	liable to lead to sudden change or violence
+302300529	inclined to shake as from weakness or defect
+302300873	liable to rock
+302300962	subject to or caused by an earthquake or earth vibration
+302301118	unstable and prone to tip as if intoxicated
+302301229	unstable by being overloaded at the top
+302301324	(of structures or institutions) having lost stability; failing or on the point of collapse
+302301492	explosively unstable
+302301588	(music) marked by or composed of disconnected parts or sounds; cut short crisply
+302301854	marked by sudden changes in subject and sharp transitions
+302301995	(music) without breaks between notes; smooth and connected
+302302172	written for or performed on the stage
+302302295	not performed on the stage
+302302394	not performed
+302302509	established or well-known or widely recognized as a model of authority or excellence
+302302830	of recognized authority or excellence
+302302973	reduced to the simplest and most significant form possible without loss of generality
+302303186	according to or characteristic of a casebook or textbook; typical
+302303385	serving as a basis for evaluation
+302303542	not standard; not accepted as a model of excellence
+302303673	conforming to or constituting a standard of measurement or value; or of the usual or regularized or accepted kind
+302304090	constructed with standardized units or dimensions allowing flexibility and variety in use
+302304307	conforming to a standard or pattern
+302304499	prescribed by or according to regulation
+302304625	brought into conformity with a standard
+302304764	routine
+302304841	varying from or not adhering to a standard
+302305084	falling short of some prescribed norm
+302305261	not based on a norm
+302305339	conforming to the established language usage of educated native speakers
+302305641	judged to be in conformity with approved usage
+302305827	of or relating to the languages used by ancient standard authors
+302305966	not conforming to the language usage of a prestige group within a community
+302306323	nonstandard
+302306447	not conforming to standard usage
+302306729	consisting of or containing starch
+302306870	resembling starch
+302307047	lacking starch
+302307118	abounding with or resembling stars
+302307354	resembling a comet
+302307429	shining with brilliant points of light like stars
+302307570	resembling a star
+302307683	lighted only by stars
+302307782	not starry; having no stars or starlike objects
+302307908	being provided with adequate nourishment
+302308094	fed on corn
+302308182	filled to satisfaction with food or drink
+302308305	properly nourished
+302308395	too well nourished
+302308467	(of livestock) kept and fed in a stall in order to fatten for the market
+302308595	not being provided with adequate nourishment
+302308788	being without food
+302308861	not getting adequate food
+302309019	suffering from lack of food
+302309111	not fed
+302309170	not nourished
+302309241	not subject to change or variation especially in behavior
+302309650	consistent in performance or behavior
+302309868	occurring at fixed intervals
+302310047	(of especially a person's physical features) not shaking or trembling
+302310218	not showing abrupt variations
+302310386	made steady or constant
+302310503	certain not to fail
+302310622	not liable to stumble or fall
+302310758	subject to change or variation
+302311256	lacking a steady rhythm
+302311435	affected by involuntary jerky muscular contractions; resembling a spasm
+302311716	unsteady in speech or action
+302311800	shining unsteadily
+302311889	having unpredictable ups and downs
+302312003	having a slight and rapid trembling motion
+302312246	vibrating slightly and irregularly; as e.g. with fear or cold or like the leaves of an aspen in a breeze
+302312668	(of the voice) quivering as from weakness or fear
+302312857	changing position or direction
+302313075	shaking convulsively or violently
+302313165	unsteady in gait as from infirmity or old age
+302313332	variable and recurring at irregular intervals
+302313466	(of sound) fluctuating unsteadily
+302313586	having a stem or stems or having a stem as specified; often used in combination
+302313760	not having a stem
+302313872	having the stem removed
+302313968	rousing or quickening activity or the senses
+302314278	stimulating interest or thought
+302314443	stimulating interest and discussion
+302314554	engagingly stimulating or provocative
+302314706	capable of arousing enthusiasm or excitement
+302314879	causing quivering or shivering as by cold or fear or electric shock
+302315047	not stimulating
+302315243	lacking stimulating characteristics; uninteresting
+302315409	lacking interest or stimulation; dull and lifeless
+302315681	lacking significance or liveliness or spirit or zest
+302315894	capable of depressing physiological or psychological activity or response by a chemical agent
+302316152	tending to soothe or tranquilize
+302316520	inducing stupor or narcosis
+302316684	tending to relax or relieve muscular or nervous tension
+302316867	sleep inducing
+302317021	capable of arousing or accelerating physiological or psychological activity or response by a chemical agent
+302317348	stimulating or acting on the adrenal cortex
+302317480	stimulating the central nervous system
+302317651	(of drugs e.g.) able to excite or stimulate
+302317865	(used of physical stimuli) serving to stimulate or excite
+302318051	that stimulates
+302318213	having a mouth or mouthlike opening
+302318359	of an opening that resembles a mouth
+302318451	having no mouth or mouthlike opening
+302318575	having no deviations
+302318870	in a straight line
+302318973	not bent
+302319122	not twisted; formerly twisted but now straight
+302319224	having or marked by bends or angles; not straight or aligned
+302319740	(used of arms and legs) bent outward with the joint away from the body
+302319930	full of twists and turns
+302320034	curved down like an eagle's beak
+302320130	turned or twisted toward one side
+302320399	twisted (especially as in pain or struggle)
+302320598	capable of changing the direction (of a light or sound wave)
+302320818	bent at a sharp angle
+302320915	used of old persons or old trees; covered with knobs or knots
+302321134	characterized by malposition
+302321243	(of leaves) bent downward and outward more than 90 degrees
+302321356	wavy and twisting
+302321464	marked by repeated turns and bends
+302321750	used especially of timbers or boards; bent out of shape usually by moisture
+302321916	used especially of trees; growing in a shape determined by the prevailing winds
+302322051	bent to one side
+302322131	having short sharp turns or angles
+302322264	free from curves or angles
+302322436	not arcuate; having straight horizontal beams or lintels (rather than arches)
+302322599	having no curves
+302322682	having or marked by a curve or smoothly rounded bend
+302323141	forming or resembling an arch
+302323328	characterized by or following a curved line
+302323488	resembling an eel in being long and thin and sinuous
+302323594	curved like a sickle
+302323751	having curves
+302323933	having turns or windings
+302324046	having or resembling a hook (especially in the ability to grasp and hold)
+302324202	bent into or having an inward curve
+302324304	curved backward or inward
+302324396	curved into a half circle
+302324498	resembling a serpent in form
+302324670	curved or curving in and out
+302324823	having a succession of waves or curves
+302324936	curving upward
+302325005	curled or wound (especially in concentric rings or spirals)
+302325276	in the shape of a coil
+302325478	rolled longitudinally upon itself
+302325620	(of some shells) closely coiled so that the axis is obscured
+302325735	especially of petals or leaves in bud; having margins rolled inward
+302325885	put in a coil
+302325950	no longer coiled
+302326050	not curled
+302326142	characterized by honesty and fairness
+302326406	without concealment or deception; honest
+302326628	free of deceit
+302326712	conventionally moral and upright
+302326807	not straight; dishonest or immoral or evasive
+302327024	marked by deception
+302327216	bearing a stress or accent
+302327443	spoken with emphasis
+302327600	(music or poetry) ending on an accented beat or syllable
+302327795	not bearing a stress or accent
+302327967	(music or poetry) ending on an unaccented beat or syllable
+302328120	(used of vowels or syllables) pronounced with little or no stress
+302328358	not emphasized
+302328429	(used of syllables) bearing the principle stress, usually accompanied by a change in pitch
+302328637	(used of syllables) carrying no stress
+302328781	having strength or power greater than average or expected
+302329347	with full strength
+302329474	made greater or stronger
+302329581	(of a person) possessing physical strength and weight; rugged and powerful
+302329929	having a thick short powerful neck
+302330020	resembling a bullock in strength and power
+302330163	having something added to increase the strength
+302330284	very strong or vigorous
+302330476	extremely strong or concentrated or durable
+302330657	exhibiting strength or hardness like that of iron
+302330844	strong enough to knock down or overwhelm
+302330976	given added strength or support
+302331139	strong enough to withstand or overcome intellectual challenges or adversity
+302331344	vigorous or severe
+302331435	powerful
+302331532	characterized by great force or energy
+302331714	characterized by energy and vigor
+302331874	strongly and firmly constructed
+302332106	wanting in physical strength
+302332508	lacking vigor or energy
+302332671	lacking energy or vitality
+302332825	lacking strength or vigor
+302333032	pathetically lacking in force or effectiveness
+302333212	lacking solidity or strength
+302333471	badly or hastily built
+302333585	weak in willpower, courage or vitality
+302333753	(of light) lacking in intensity or brightness; dim or feeble
+302334111	inferior in strength or significance
+302334251	capable of being wounded or hurt
+302334390	made weak or weaker
+302334464	without energy or will
+302334687	tenaciously unwilling or marked by tenacious unwillingness to yield
+302335070	stubbornly obstructive and unwilling to cooperate
+302335307	obstreperous
+302335420	obstinate and stupid
+302335561	stubbornly unyielding
+302336004	difficult to deal with
+302336100	devoting full strength and concentrated attention to
+302336289	unreasonably rigid in the face of argument or entreaty or attack
+302336437	haughtily stubborn
+302336551	having a determined will
+302336651	willing to be taught or led or supervised or directed
+302336908	very docile
+302337067	like or suggestive of a sheep in docility or stupidity or meekness or timidity
+302337212	inclined to yield to argument or influence or control
+302337347	subject or submissive to authority or the control of another
+302337598	owing feudal allegiance to or being subject to a sovereign
+302337757	subject to a ruling authority
+302337856	being under the power or sovereignty of another or others
+302338056	compliant and obedient to authority
+302338328	not submissive to authority
+302338566	wilfully obstinate; stubbornly disobedient
+302338754	unwilling to submit to authority
+302338927	disposed to or in a state of mutiny
+302339080	resisting control or authority
+302339254	having succeeded or being marked by a favorable outcome
+302339713	resoundingly successful and popular
+302339849	very lively and profitable
+302340196	holding office
+302340278	successful or assured of success
+302340413	of a game (or the pitching) in which a pitcher allows the opponent no hits
+302340596	yielding positive results
+302340696	having achieved success or recognition by your own efforts
+302340837	certain to be successful
+302340948	unofficial championship title for player who heads the league in batting average and home runs and runs batted in
+302341139	of a horse that has won the Kentucky Derby and the Belmont Stakes and the Preakness races
+302341306	having won
+302341445	not successful; having failed or having an unfavorable outcome
+302341872	tried unsuccessfully
+302341968	disappointingly unsuccessful
+302342313	doomed to extinction
+302342428	lacking resources (or any prospect of resources)
+302342553	having acquired or gained nothing
+302342709	(of a batter) without a hit
+302342846	certain to end in failure and disappointment
+302342965	out of power; especially having been unsuccessful in an election
+302343111	having no points scores
+302343245	acting to defeat its own purpose
+302343397	of persons; marked by failure to realize full potentialities
+302343606	not one of the first three in a race or competition
+302343712	having no wins
+302343832	of a quantity that can fulfill a need or requirement but without being abundant
+302344113	sufficient for the purpose
+302344316	sufficient to provide comfort
+302344427	of a quantity not able to fulfill a need or requirement
+302344737	no longer sufficient
+302344882	of insufficient quantity to meet a need
+302345258	containing little excess
+302345399	less than the correct or legal or full amount often deliberately so
+302345628	short
+302345737	containing sugar
+302345982	encrusted with sugar or syrup
+302346107	with honey added
+302346195	resembling honey
+302346267	with sweetening added
+302346397	not containing sugar
+302346538	with no sugar added
+302346613	not made sweet
+302346685	of or characteristic of high rank or importance
+302346987	(used of behavior or attitude) characteristic of those who treat others with condescension
+302347190	standing above others in quality or position
+302347411	greatest in importance or degree or significance or achievement
+302347647	at an elevated level in rank or importance
+302347861	majestic in manner or bearing; superior to mundane matters
+302348073	of higher rank or status or value
+302348166	superior in rank or accomplishment
+302348283	of or characteristic of low rank or importance
+302348528	low or inferior in station or quality
+302348780	fairly poor to not very good
+302348948	at a low level in rank or importance
+302349084	intermediate in rank or position
+302349202	decisively surpassed by something else so as to appear to be of a lower class
+302349336	of high or superior quality or performance
+302349970	of the highest quality
+302350302	unusually good; outstanding
+302350415	selected or chosen for special qualifications
+302350569	exceptionally good
+302350714	of surpassing excellence
+302350884	first-rate
+302351005	of superior grade
+302351216	very good; of the highest quality
+302351544	of the highest quality or value
+302351683	highest in quality
+302351802	modified to give superior performance
+302351928	distinguished from others in excellence
+302352097	considered of the highest quality and lasting significance or worth
+302352273	exceptionally or unusually good
+302352428	having or reflecting superior quality or value
+302352567	absolutely first class and genuine
+302352738	marked by exceptional merit
+302352878	excellent or splendid
+302353009	highest in excellence or achievement
+302353167	excellent; best possible
+302353288	exceeding or surpassing usual limits especially in excellence
+302353493	of a quality adequate for use in weapons (especially in weapons of mass destruction)
+302353689	skillfully constructed
+302353767	of low or inferior quality
+302354208	below average in quality or performance
+302354354	(used of metals) consisting of or alloyed with inferior metal
+302354508	of very poor quality; flimsy
+302354737	not of the highest quality or sophistication
+302354846	made of inferior workmanship and materials
+302355096	of low or inferior quality or value
+302355324	made coarse or crude by lack of skill
+302355417	of the kind or quality used in commerce; average or inferior
+302355625	of very poor quality or condition
+302355910	(usually preceded by no') lower in quality
+302356028	of inferior quality
+302356103	moderate to inferior in quality
+302356281	(British informal) very poor in quality
+302356454	inferior in size or quality
+302356679	of inferior status or quality

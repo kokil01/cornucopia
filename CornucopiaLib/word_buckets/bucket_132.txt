@@ -1,0 +1,1000 @@
+teff	112140864
+teff grass	112140864
+tefillin	106869239
+teflon	114620578
+teg	102415555
+tegu	108976234
+tegucigalpa	108755847
+tegular	302865039
+tegument	105245612
+teheran	108931194
+tehran	108931194
+teiid	101688080
+teiid lizard	101688080
+teiidae	101687918
+teilhard de chardin	111354604
+teju	101689769
+tekki	110715413
+tektite	114904841
+tel aviv	108815692
+tel aviv-jaffa	108815692
+tel aviv-yalo	108815692
+telamon	102755815
+telanthera	111847468
+telco	108203139
+telco building	104407244
+telecast	106635102 200971538
+telecaster	110716916
+telecasting	106287933
+telecom	106282431
+telecom equipment	104407424
+telecom hotel	104407244
+telecom system	104407424
+telecommerce	101118347
+telecommunicate	200792365
+telecommunication	106137758 106282431
+telecommunication equipment	104407424
+telecommunication system	104407424
+telecommuting	100586055
+teleconference	107160666
+teleconferencing	107160666
+telefax	201009703
+telefilm	106626981
+telegnosis	107270898
+telegnostic	302116442
+telegram	106635216
+telegraph	104407634 201009249
+telegraph form	106488146
+telegraph key	104407872
+telegraph line	104410119
+telegraph operator	110717015
+telegraph plant	112538518
+telegraph pole	104409584
+telegraph post	104409584
+telegraph wire	104410119
+telegrapher	110717015
+telegraphese	107171708
+telegraphic	300550799 302921387
+telegraphic signal	106818523
+telegraphically	400477033
+telegraphist	110717015
+telegraphy	104407634 106285574
+telekinesis	107271713
+telemann	111354920
+telemark	100442626
+telemarketing	101118347
+telemeter	104408034
+telemetered	302820897
+telemetry	101118527
+telemetry intelligence	100985568
+telencephalon	105504453
+teleological	303003094
+teleologist	110717278
+teleology	105986486
+teleost	102530794
+teleost fish	102530794
+teleostan	102530794
+teleostei	102530444
+telepathic	302116606
+telepathise	200994836
+telepathist	110339238 110717375
+telepathize	200994836
+telepathy	107270666
+telephone	104408223 106282943 200791110
+telephone bell	104408713
+telephone bill	106529654
+telephone book	106435397
+telephone booth	104408815
+telephone box	104408815
+telephone call	106283456
+telephone circuit	104409192
+telephone company	108203139
+telephone conversation	107156713
+telephone cord	104408963
+telephone dial	103191502
+telephone directory	106435397
+telephone exchange	102998465
+telephone extension	103311814
+telephone interview	107211235
+telephone jack	104409084
+telephone kiosk	104408815
+telephone line	104409192 104410119
+telephone message	106286940
+telephone number	106437781
+telephone operator	110717560
+telephone order	101119197
+telephone plug	104409477
+telephone pole	104409584
+telephone receiver	104409715
+telephone service	108203139
+telephone set	104408223
+telephone system	104409881
+telephone unit	113629723
+telephone wire	104410119
+telephoner	109907469
+telephonic	303135102
+telephonist	110717560
+telephony	106282943
+telephoto	104410302
+telephoto lens	104410548
+telephotograph	104410302 104410414
+telephotography	100908673 100908769
+teleport	202108968
+teleportation	101257060
+teleprinter	104411335
+teleprocessing	113489745
+teleprompter	104410659
+telerobotics	106143386
+telescope	104410773 200245809 201597703
+telescope sight	104411060
+telescoped	301440346
+telescopic	300468068 302165351 302527059
+telescopic sight	104411060
+telescopically	400477225
+telescopium	109478654
+telescopy	105644399
+teleselling	101118347
+telethermometer	104411207
+teletype machine	104411335
+teletypewriter	104411335
+televangelism	107259482
+televangelist	110717737
+televise	200971538
+television	104411547 104413042 106287933
+television announcer	110753548
+television antenna	104411952
+television camera	104412132
+television channel	103010002
+television equipment	104412675
+television monitor	104412897
+television news	106696437
+television newscaster	110717864
+television pickup tube	104412444
+television program	106633086
+television receiver	104413042
+television reporter	110717864
+television room	104413374
+television set	104413042
+television show	106633086
+television star	110718046
+television station	104413485
+television system	104411547
+television transmitter	104413687
+television tube	103622803
+television-camera tube	104412444
+teleworking	100586055
+telex	104411335 200792627
+telex machine	104411335
+telfer	104413822
+telferage	104413952
+telingo potato	111803347
+telint	100985568
+teliospore	111570089
+tell	110718145 200652006 200722885 200748704 200954556 200955248 200956454 201011267 201021652
+tell apart	200652006 202197640
+tell off	200827309
+tell on	200137889 200843665
+teller	110365535 110718466 110718595 111355036
+tellima	112823747
+tellima affinis	112820536
+tellima grandiflora	112823986
+telling	106818155 107227084 107237483 300838831 301308279 301774916
+tellingly	400477436
+telltale	110712192 301308279
+tellurian	110718758 302821041
+telluric	302821041 302821356
+telluride	115092701
+tellurium	114681407
+tellus	109595427
+telly	104413042
+telocentric	303152375
+telocentric chromosome	105452823
+telomerase	115092849
+telomere	105618275
+telopea	112243922
+telopea oreades	112244086
+telopea speciosissima	112244281
+telophase	113587143 113587244
+telosporidia	101425235
+telpher	104413822
+telpherage	104413952
+telsontail	102166415
+telugu	106993381 109695014
+temazepam	104414142
+temblor	107443554
+temerarious	300251349
+temerity	104866680
+temnospondyli	101659217
+temp	110718911
+temper	104649615 105028701 107533707 107566518 200203298 200295646 200296035 200303656 200303837
+tempera	104414392
+temperament	101002353 104630969 104635823
+temperamental	300728671 300859512 302821491
+temperamentally	400146491
+temperance	100382375 101071701 104890809
+temperate	301513046 302410314 302411283
+temperate rain forest	108456260
+temperate zone	108679616
+temperately	400265986 400477600 400477722
+temperateness	104890438 111476879
+temperature	105018974 105733323
+temperature change	113587415
+temperature gradient	113882342
+temperature reduction	113474333
+temperature scale	113874592
+temperature unit	113629841
+tempered	301525258 301525661
+tempering	100403759 301344784
+tempest	111538927 114001791
+tempest-swept	302465582
+tempest-tossed	302465582
+tempest-tost	302465582
+tempestuous	300304943 301747161
+tempestuousness	114002988 114547525
+templar	110259026
+template	105947694
+template rna	114856940
+temple	104381822 104414570 104414821 105610438
+temple of apollo	104414979
+temple of artemis	104415309
+temple of jerusalem	104415465
+temple of solomon	104415465
+temple orange	107763787 112731677
+temple orange tree	112731677
+temple tree	111795264
+templet	105947694
+templetonia	112592526
+templetonia retusa	112592693
+tempo	115289174 115308315
+temporal	106344471 301185448 301762426 302587499 302821678 302821821
+temporal arrangement	105051824
+temporal arteritis	114282635
+temporal artery	105362292
+temporal bone	105289499
+temporal canthus	105322099
+temporal cortex	105502585
+temporal gyrus	105496561
+temporal lobe	105502585
+temporal lobe epilepsy	114113456
+temporal muscle	105610059
+temporal order	105051824
+temporal property	105051679
+temporal relation	113866887
+temporal role	106344471
+temporal vein	105389478
+temporalis	105610059
+temporalis muscle	105610059
+temporality	113268880
+temporally	400128223
+temporalty	108170001 113268880
+temporarily	400088791
+temporariness	105062292
+temporary	110718911 301093468 301760139
+temporary expedient	100179681
+temporary hookup	104416006
+temporary injunction	106555527
+temporary removal	100209981
+temporary state	114039202
+temporary worker	110718911
+temporise	200319285
+temporiser	110719207
+temporize	200319285
+temporizer	110719207
+temporomandibular joint	105284167
+tempra	102677336
+tempt	200778568 200784574 200786231 200795447 201811496 201811737
+temptable	302371472
+temptation	100160440 105702756 107500421
+tempter	110719401
+tempting	301361543 302104760
+temptingly	400450023
+temptingness	104696191
+temptress	110075218
+tempura	107895928
+temuco	108739794
+temujin	111014304
+ten	104418277 113768652 302194935
+ten commandments	107184621
+ten dollar bill	113416580
+ten percent	113760467
+ten thousand	113773405 302206560
+ten-day fern	113221884
+ten-fold	302228065
+ten-gallon hat	103128821
+ten-membered	301507439
+ten-sided	300240454
+ten-spined stickleback	101458102
+ten-spot	104418277
+ten-strike	100188559
+ten-thousandth	113761418
+tenability	104791152
+tenable	301951109
+tenableness	104791152
+tenacious	300053624 302012852 302335561
+tenaciously	400237428
+tenaciousness	104871746
+tenacity	104871746
+tenancy	101056259
+tenant	110719850 110720166 110720289 202465906
+tenant farmer	110720489
+tenanted	301314769
+tenantry	107972340
+tench	101443405
+tend	202443912 202555544 202725274
+tended to	300309286
+tendencious	300734429
+tendency	104951225 106206319 107514352 108699515
+tendentious	300734429
+tendentiously	400477828
+tendentiousness	106214024
+tender	104416146 104416263 104416414 107179737 109841233 113395181 200515952 202301456 202301576 202303593 300710650 301467633 301654003 301717206 302300153 302455719 302457239 302457962
+tender loving care	100666464
+tender offer	107180752
+tenderfoot	110720612
+tendergreen	111899760
+tenderhearted	300508764 301469122
+tenderheartedness	107569907
+tenderisation	100248930
+tenderise	200515952
+tenderised	302456288
+tenderiser	115093003
+tenderization	100248930
+tenderize	200515952
+tenderized	302456288
+tenderizer	115093003
+tenderloin	107675538 108707384
+tenderly	400477976
+tenderness	104634598 107520586 107560035 107569907 114356022
+tending	100656128 301295534
+tendinitis	114379983
+tendinous	302822204
+tendon	105303752
+tendon of achilles	105586371
+tendonitis	114379983
+tendonous synovitis	114380398
+tendosynovitis	114380398
+tendrac	101896848
+tendril	113123534
+tendril-climbing	302822367
+tenebrific	300277221
+tenebrionid	102183887
+tenebrionidae	102183665
+tenebrious	300277221
+tenebrous	300277221
+tenement	104416519
+tenement district	108572980
+tenement house	104416519
+tenerife	109051013
+tenesmus	114595295
+tenet	106802899
+tenfold	302228065 400247934
+teng hsiao-ping	110950529
+teng hsiaoping	110950529
+tenge	113723110 113725036
+tenia	104390783
+tenn.	109162870
+tenner	113416580 113768652
+tennessean	109765063
+tennessee	109162870 109478770
+tennessee river	109478770
+tennessee walker	102382082
+tennessee walking horse	102382082
+tennessee williams	111409476
+tenniel	111355221
+tennis	100483309
+tennis ball	104416650
+tennis camp	104416760
+tennis club	108247511
+tennis coach	110720745
+tennis court	104416847
+tennis elbow	114380125
+tennis lesson	100891739
+tennis match	107486177
+tennis player	110720829
+tennis pro	110721293
+tennis racket	104416941
+tennis racquet	104416941
+tennis shoe	103477658
+tennis shot	100567172
+tennis stroke	100567172
+tenno	110334875
+tennyson	111355325
+tenon	104417046
+tenonitis	114379983
+tenor	104993303 105931082 106207238 106885726 110721432 301217807 301217934
+tenor clef	106876492
+tenor drum	104417221
+tenor saxophonist	110721611
+tenor voice	106885726
+tenoretic	104417325
+tenorist	110721611
+tenormin	102754787
+tenoroon	104417500
+tenosynovitis	114380398
+tenpence	113412030
+tenpenny nail	104417620
+tenpin	104417700
+tenpin bowling	100463302
+tenpins	100463302
+tenpounder	102544648
+tenrec	101896848
+tenrec ecaudatus	101897163
+tenrecidae	101896681
+tense	106340499 200025196 200026146 200537384 201575559 302411930 302413664 302414122
+tense system	107128333
+tense up	200025196 200026146
+tensed	301012246
+tensely	400175276
+tenseness	114399593 114567937
+tensile	302151851 302822486
+tensile strength	105037417
+tensimeter	104417798
+tensiometer	104417895 104418021 104418154
+tension	100367501 111535484 114004081 114025966 114399593 114567937
+tension headache	114351510
+tensional	302822599
+tensionless	302413445
+tensity	114567937
+tensor	105580937 105873065
+tensor tympani	105581105
+tent	104418399 109479040 202660091
+tent caterpillar	102309977
+tent flap	104419232
+tent peg	104419435
+tent stitch	103926303
+tent-caterpillar moth	102309828 102310167
+tent-fly	104419232
+tentacle	102587274 105202443
+tentacled	302822847
+tentacular	302822713
+tentaculata	101922145
+tentative	300558544 302138052
+tentatively	400180698
+tenter	104418970
+tenterhook	104419101
+tenth	113760467 113870055 302211042
+tenth cranial nerve	105487728
+tenth part	113760467
+tenthly	400478108
+tenthredinidae	102221215
+tenting	101057089
+tentmaker	110721726
+tentorial sinus	105260169
+tentorium	105615157
+tenuity	105048093 105096819 105110948
+tenuous	302172469 302423968 302426407
+tenuously	400229297
+tenure	113263617 115316734 202402602
+tenured	301531364
+tenzing norgay	111355486
+teodor josef konrad korzeniowski	110927399
+tepal	111571495
+tepary bean	112579185
+tepee	104419551
+tephrosia	112592878
+tephrosia purpurea	112593264
+tephrosia virginiana	112593363
+tepic	108763633
+tepid	300890764 302539986
+tepidity	105024120
+tepidly	400391708
+tepidness	104637904 105024120
+tequila	107922219
+tera	106996455
+terabit	113651315
+terabyte	113650943 113651137
+teraflop	113628648
+terahertz	115305326
+teras	101462749
+teratogen	109479128
+teratogenesis	113587639
+teratogenic	302822919
+teratology	106088989
+teratoma	114274527
+terazosin	104419685
+terbinafine	104419862
+terbium	114681745
+terbium metal	114649122
+terce	115254671
+tercel	101608818
+tercelet	101608818
+tercentenary	115276568
+tercentennial	115276568
+tercet	113766184
+terebella	101939875
+terebellidae	101939656
+terebinth	112782665
+teredinid	101969735
+teredinidae	101969438
+teredo	101969949
+terefah	300429618
+terence	111355690
+terence rattigan	111274940
+terengganu	108985864
+teres	105598495
+teres major	105598694
+teres major muscle	105598694
+teres minor	105598851
+teres minor muscle	105598851
+teres muscle	105598495
+teresa	111355873
+teresa of avila	111356171
+tereshkova	111356359
+terete	302055023
+tergiversate	200759901 200837185
+tergiversation	100205663 100753122
+tergiversator	110187605
+teriyaki	107896055
+term	104420858 105864488 106314878 106764688 106783666 115249282 115251247 201031675
+term infant	110719630
+term insurance	113369979
+term of a contract	115299849
+term of enlistment	115318833
+term of office	115316734
+term paper	106421580
+termagant	110613555
+termer	110721816
+termes	102225803
+terminable	301762550
+terminable interest	113309229
+terminal	104420036 104420286 104420554 108583557 300997423 301013868 301019627 302823086 302823245
+terminal emulation	105674020
+terminal figure	104420858
+terminal leave	115165254
+terminal point	115293814
+terminal velocity	115309922
+terminally	400128333
+terminate	200353480 202407967 202615799 202741293
+terminated	300941574 301006696
+termination	100210792 106319755 107307418 108584083 115293639
+terminative	301014166
+terminator	110094127
+terminological	303135229
+terminology	106315049
+terminus	104420036 104420766 104420858 105990653 108584083
+terminus a quo	115290975
+terminus ad quem	115293814
+termite	102225918
+termitidae	102225661
+terms	113324337 113977154
+tern	102045717
+ternary	113766184 302226405
+ternate	302181865
+ternion	113766184
+terpene	115093202
+terpsichore	100429255 109590173
+terpsichorean	110009040 303135363
+terra alba	114694800 114837730 114928093
+terra cotta	104421236
+terra firma	109357302
+terra incognita	108649671
+terra sigillata	104421454
+terrace	103905846 108448731 109479337 200141569 202231162
+terraced house	104421104
+terrain	108692301
+terrain flight	100307144
+terrain intelligence	100984622
+terramycin	103875067
+terrapene	101671709
+terrapene ornata	101672013
+terrapin	101670419
+terrarium	104421334
+terrasse	202231162
+terre adelie	108511792
+terrene	301184990 302821041
+terreplein	108680165
+terrestrial	300125790 301185205 302588473 302790900 302821041
+terrestrial dynamical time	115181706
+terrestrial guidance	100818852
+terrestrial planet	109479499
+terrestrial time	115181706
+terrestrially	400128418 400406789
+terrible	300195400 301130122 301516947 301681792
+terribleness	104789380
+terribly	400055488 400055639
+terrier	102095120
+terrietia	112220081
+terrietia trifoliolata	112220307
+terrific	300198041 301517702 301681111
+terrifically	400184576
+terrified	300080947
+terrify	201784760
+terrifying	300198041
+terrine	107896188
+territorial	108408163 110721956 302417407 302418296 302823421
+territorial army	108408910
+territorial division	108508836
+territorial dominion	108569713
+territorial reserve	108408163
+territorial waters	109479744
+territorialisation	101018915
+territorialise	200541704 200581029 202437822
+territoriality	101223953
+territorialization	101018915
+territorialize	200541704 200581029 202437822
+territorially	400128524
+territory	106008312 108510074 108569713
+terror	100760853 107535851 110722132 110722264
+terror-stricken	300081451
+terror-struck	300081451
+terrorisation	100766546 101225155
+terrorise	201784760 202512010
+terrorism	100761047
+terrorist	110722430
+terrorist act	100761047
+terrorist attack	101249244
+terrorist cell	108375890
+terrorist group	108409094
+terrorist organization	108409094
+terrorization	100766546 101225155
+terrorize	201784760 202512010
+terry	104421611 111356539
+terry cloth	104421611
+terry towel	104506741
+terrycloth	104421611
+terse	300549861
+tersely	400477033
+terseness	107102630
+tertian	303135498 303135632
+tertiary	115150049 302209976
+tertiary period	115150049
+tertiary syphilis	114158105
+tertigravida	110722870
+tertium quid	113880678
+tertry	101299437
+tertullian	111356663
+terylene	103163080
+terza rima	106393384
+terzetto	113766184
+tesla	111356845 113660488
+tesla coil	104421810
+tessella	104421956
+tessellate	201341560 202666092
+tessellated	300059585 301795447
+tessellation	100264007 101054002
+tessera	104422044
+tesseract	113939960
+tessin	108819398
+test	100792739 100796028 101008617 101907340 105807220 107211681 200671888 200788120 200922749 201115009 202537291 202538775 202751588
+test ban	107270296
+test bed	104422213
+test case	101201078
+test copy	106603166
+test drive	105808395 201935346
+test driver	110723202
+test equipment	104422392
+test fly	201945996
+test instrument vehicle	104422798
+test match	107486266
+test paper	104422595 107213988
+test period	115140511
+test pilot	110723747
+test range	104422713
+test rocket	104422798
+test room	104422950
+test suit	101201078
+test tube	104423056
+test-cross	100852946
+test-tube baby	110723887
+testa	111702818
+testacea	101396514
+testacean	101396681
+testaceous	302823636
+testament	105808280 106465393 106556133 106661335
+testamentary	302823777
+testamentary trust	113384390
+testate	110722985 302453826
+testator	110722985
+testatrix	110723129
+testcross	100852946
+tested	300728040 301900263
+testee	110723341
+tester	104422489 110088041
+testicle	105532266
+testicular	302944641
+testicular artery	105363075
+testicular cancer	114275666
+testicular vein	105390072
+testiere	103009223
+testifier	110723554
+testify	201016830 201017253
+testily	400218072
+testimonial	106660952 106707285 106709958 302823928 302824101
+testimonial immunity	100215880
+testimony	106660952 106745459 106747216
+testiness	107568482
+testing	100637704 100641218 100645945
+testing ground	108680308
+testing room	104422950
+testis	105532266
+testosterone	114772756
+testudinata	101664915
+testudines	101664915
+testudinidae	101672524
+testudo	101673019 104423140
+testudo graeca	101673176
+testy	301140041
+tet	115208101
+tetanic	303135779 303135869
+tetanilla	114333931
+tetanus	100370935 114209285
+tetanus antitoxin	115052945
+tetanus immune globulin	115056638
+tetanus immunoglobulin	115056638
+tetany	114333931
+tetartanopia	114178314
+tetchily	400478247
+tetchiness	107568482
+tetchy	301140041
+tete a tete	400045694
+tete-a-tete	103698800 107156815 301866830
+teth	106850622
+tether	103658258 201292612
+tetherball	100465345
+tethered	300254623
+tethyidae	101953593
+tethys	101953748 109600645
+teton	109689336
+teton dakota	109689336
+teton range	109479990
+teton sioux	109689336
+tetra	102586521
+tetrabasic acid	114635857
+tetrabromo-phenolsulfonephthalein	115011278
+tetracaine	104423336
+tetrachlorethylene	104423473
+tetrachloride	115093321
+tetrachloroethylene	104423473
+tetrachloromethane	114822209
+tetrachoric correlation	106045448
+tetrachoric correlation coefficient	106045448
+tetraclinis	111663363
+tetraclinis articulata	111663473
+tetracycline	104423665
+tetrad	113766444
+tetradecanoic acid	114982241
+tetraethyl lead	114624537
+tetrafluoroethylene	115093458
+tetragon	113901783
+tetragonal	302845365
+tetragonia	111842636
+tetragonia expansa	111842769
+tetragonia tetragonioides	111842769
+tetragoniaceae	111839414
+tetragonurus	102637347
+tetragram	106372257
+tetragrammaton	106372403
+tetrahalide	115093613
+tetrahedron	113938146
+tetrahydrocannabinol	104423920
+tetrahymena	101398963
+tetraiodothyronine	105420990
+tetralogy	106634759
+tetralogy of fallot	114493350
+tetramerous	300240777
+tetrameter	107110695
+tetramethyldiarsine	114813045
+tetrametric	302845488
+tetraneuris	112045488
+tetraneuris acaulis	112045689
+tetraneuris grandiflora	112045976
+tetranychid	101784850
+tetranychidae	101784691
+tetrao	101799511
+tetrao urogallus	101799661
+tetraodontidae	102657520
+tetraonidae	101797454
+tetrapod	102159384
+tetrapturus	102634529
+tetrasaccharide	115093728
+tetraskele	104424036
+tetraskelion	104424036
+tetrasodium pyrophosphate	115070644
+tetrasporangium	113114034
+tetraspore	111570230
+tetravalent	303135958
+tetrazzini	107880614
+tetri	113722871
+tetrode	104424221
+tetrodotoxin	115093905
+tetrose	114714101
+tetroxide	115094039
+tetryl	115094151
+tetterwort	111928546
+tettigoniid	102230618
+tettigoniidae	102230425
+teucrium	112890008
+teucrium canadense	112890428
+teucrium chamaedrys	112890634
+teucrium marum	112890808
+teucrium scorodonia	112890985
+teutoburger wald	101299586
+teuton	109708548 109767300
+teutonic	302969672
+teutonic deity	109608609
+teutonist	110724165
+tevere	109480981
+tevet	115239864
+tewkesbury	101299782
+tex.	109164256
+texan	109765165 303136060
+texarkana	109083085 109169188
+texas	109164256
+texas armadillo	102457425
+texas bluebonnet	112567720 112568008
+texas chachalaca	101803274
+texas fever	114299583
+texas horned lizard	101684813
+texas independence day	115212635
+texas leaguer	100151048
+texas longhorn	102407084
+texas millet	112148285
+texas purple spike	112089718
+texas ranger	110724361
+texas snowbell	112798652
+texas snowbells	112798652
+texas star	112012948 112319154
+texas storksbill	112710252
+texas toad	101649944
+texas tortoise	101674346
+text	106399623 106400222 106426015 107187208
+text edition	106426015
+text editor	106588903 109984189
+text file	106522968
+text-matching	106593244
+textbook	106426015 302303186
+textile	103314753 303136209
+textile machine	104424315
+textile mill	104424496
+textile screw pine	112175526
+textual	302937192
+textual criticism	106386631
+textual matter	106399623
+texture	104941397 104954054 104957714 104991256 105858194
+textured	302250830
+th	114682288 115189401
+thackeray	111357197
+thaddaeus	111114045
+thaddeus kosciusko	111129718
+thai	106948926 109753726 303128319 303128477 303128680
+thai monetary unit	113685799
+thailand	109058927
+thalamocortical	302994388
+thalamostriate vein	105390198
+thalamus	105506823
+thalarctos	102136554
+thalarctos maritimus	102136736
+thalassaemia	114219197
+thalassaemia major	114219421
+thalassemia	114219197
+thalassemia major	114219421
+thalassic	302901179
+thalassoma	102611799
+thalassoma bifasciatum	102611932
+thales	111357326
+thales of miletus	111357326
+thalia	109518980 109590309
+thaliacea	101471863
+thalictrum	111758847
+thalidomide	104424602
+thalidone	103027306
+thallium	114681997
+thalloid	303154067
+thallophyta	111551908
+thallophyte	111552152
+thallophytic	303154180
+thallus	111552468
+thalmencephalon	105504641
+thalweg	106814723 113935701
+thames	109480150
+thames river	109480150
+thammuz	115241182
+thamnophilus	101556261
+thamnophis	101737703
+thamnophis proximus	101738369
+thamnophis sauritus	101738218
+thamnophis sirtalis	101738080
+thanatology	106163204
+thanatophobia	114408007
+thanatopsis	106421926
+thanatos	109203864 109578643
+thane	110724535 110724749
+thaneship	100606025
+thank	200893836
+thank offering	113294073
+thank you	107243905
+thankful	301149996
+thankfully	400201311 400201415
+thankfulness	107519768
+thankless	301150547 302023359
+thankless wretch	110226382
+thanks	101211287 107243631
+thanksgiving	107204699 115225951
+thanksgiving cactus	111874948
+thanksgiving day	115225951
+thar desert	109196314
+tharp	111357624
+that is to say	400190022
+thatch	104424807 105268809 111353998 115094279 201236402
+thatch palm	112618559
+thatch tree	112618559
+thatched roof	104424807
+thatcher	110724860 111357774
+thatcherism	105996407
+thatcherite	110724994
+thaumatolatry	101047444
+thaumaturge	110645222
+thaumaturgist	110645222
+thaumaturgy	100100771 105976844
+thaw	107458139 111502540 113587738 200376777
+thawed	301083885 301510340
+thawing	111502540 113587738
+thb	106712689
+thc	104423920
+thd	106717245
+the absurd	113951224
+the admirable crichton	110934777
+the alps	109217235
+the boot	102876605
+the city	108090191 108894500
+the devil	100625387
+the flood	111475803
+the gambia	108965594
+the great calamity	107330565
+the great charter	106488674
+the great compromiser	110919703
+the great hunger	107330565
+the great starvation	107330565
+the great unwashed	108197108
+the hague	108970180
+the halt	107963102
+the hill	109093847
+the holy see	109183883
+the hots	107505278
+the indies	108764887
+the irish famine	107330565
+the least bit	400057267
+the like	105854415
+the likes of	105854415
+the nazarene	111103646
+the netherlands	108968866
+the other way around	400179172
+the pamirs	109407116
+the pits	108600365
+the purple	103268195 114455697
+the shits	114395691
+the skinny	106648638
+the star-spangled banner	107063331
+the states	109067337
+the street	108090304
+the tempter	109566482
+the three estates	108184264
+the trots	114395691
+the true	113979774
+the venerable bede	110860365
+the virgin	111181402
+the way of the world	101228778
+the ways of the world	101228778
+the whole way	400153124
+thea	109599342
+theaceae	112949821
+theanthropism	105775383 105775577
+theater	104424944 107019235 108569203
+theater company	108204378
+theater critic	110049872
+theater curtain	104425492
+theater director	110034960
+theater in the round	102739650
+theater light	104425779
+theater of operations	108569203
+theater of the absurd	107022277
+theater of war	108568995
+theater prompter	110501999
+theater stage	104425953
+theater ticket	106531719
+theatergoer	110460291
+theatre	104424944 107019235 108569203
+theatre curtain	104425492
+theatre director	110034960
+theatre of operations	108569203
+theatre of war	108568995

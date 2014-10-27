@@ -1,0 +1,1000 @@
+302534351	(of flora or fauna) in imminent danger of extinction
+302534504	not able to be protected against attack
+302534602	not safe from attack
+302534722	capable of being penetrated
+302534847	(of flora or fauna) likely in the near future to become endangered
+302535059	subjected to enemy attack or censure
+302535217	lacking protection or a guard
+302535365	immune to attack; impregnable
+302535756	having no weak points
+302535891	able to resist the explosive force of bombs and shells
+302536035	capable of being defended
+302536220	dug in
+302536283	immune to attack; incapable of being tampered with
+302536600	set so close together as to be invulnerable to penetration
+302536770	protected from danger or bad weather
+302536884	beyond the reach of criticism or attack or impeachment
+302537084	desired or wished for or sought
+302537379	wanted intensely
+302537561	wanted by the police
+302537648	greatly desired
+302537747	being searched for
+302537893	not wanted; not needed
+302538243	capable of being discarded or renounced or relinquished
+302538401	thrown away
+302538635	excluded from a society
+302538761	not belonging to or having been expelled from a caste and thus having no place or status in society
+302539004	excluded from an activity or social group
+302539101	not required or requested
+302539213	not claimed or called for by an owner or assignee
+302539339	not desired
+302539440	(of a person) not having been invited
+302539553	not welcome
+302539669	having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat
+302539986	moderately warm
+302540166	having been warmed up
+302540264	imparting heat
+302540350	neither warm nor very cold; giving relief from heat
+302540687	cooled by air conditioning
+302540775	cooled by a flow of air
+302540879	providing coolness
+302541025	cooled in advance
+302541098	kept cool or designed to be kept cool by means of water especially circulating water
+302541266	psychologically warm; friendly and responsive
+302541527	politely warm and friendly
+302541648	showing warm and heartfelt friendliness
+302541827	psychologically cool and unenthusiastic; unfriendly or unresponsive or showing dislike
+302542180	aloof or indifferent
+302542324	inducing the impression of warmth; used especially of reds and oranges and yellows when referring to color
+302542535	(color) bold and intense
+302542621	inducing the impression of coolness; used especially of greens and blues and violets when referring to color
+302542870	(color) giving no sensation of warmth
+302542980	having warm blood (in animals whose body temperature is internally regulated)
+302543153	of birds and mammals; having constant and relatively high body temperature
+302543370	having cold blood (in animals whose body temperature is not internally regulated)
+302543547	of animals except birds and mammals; having body temperature that varies with the environment
+302543785	marked by warmth of feeling like kindness and sympathy and generosity
+302544012	lacking in sympathy or feeling
+302544154	lacking warmth and generosity of spirit
+302544282	capable of being washed without injury
+302544514	treated so as to be easily or quickly washed and dried and requiring little or no ironing
+302544717	not washable
+302544787	treated with wax
+302544889	not waxed
+302544973	(of the moon) pertaining to the period during which the visible surface of the moon increases
+302545162	(of the Moon) pertaining to the period during which the visible surface of the moon decreases
+302545349	becoming greater or larger
+302545633	tending to increase velocity
+302545807	marked or produced by accretion
+302546005	growing by accretion
+302546117	increasing or having the power to increase especially in size or amount or degree
+302546303	growing by taking over and incorporating adjacent territories
+302546498	making as great as possible
+302546595	tending or having the power to multiply or increase in number or quantity or degree
+302546837	making the profit as great as possible
+302546990	gradually advancing in extent
+302547077	increasing in quantity or value
+302547212	becoming less or smaller
+302547383	tending to decrease or cause a decrease in value
+302547653	causing to decrease in importance or value
+302547823	becoming smaller or less or appearing to do so
+302547985	gradually decreasing until little remains
+302548108	decreasing in amount or degree
+302548215	(music) increasing in tempo and/or volume
+302548368	(music) gradually increasing in tempo
+302548500	(music) gradually increasing in volume
+302548631	(music) decreasing in tempo and/or volume
+302548820	(music) gradually decreasing in tempo and broadening in manner
+302548958	(music) gradually decreasing in tempo and volume
+302549079	(music) gradually decreasing in volume
+302549225	(music) gradually decreasing in tempo
+302549370	associated with or tending to cause increases in inflation
+302549547	associated with or tending to cause decreases in consumer prices or increases in the purchasing power of money
+302549778	freed of dependence on something especially (for mammals) mother's milk
+302549967	not weaned
+302550103	suitable for wear or able to be worn
+302550320	not suitable for wear or able to be worn
+302550461	abounding with or resembling weeds
+302550621	free from weeds
+302550712	giving pleasure or satisfaction or received with pleasure or freely granted
+302550980	not welcome; not giving pleasure or received with pleasure
+302551202	(of a thought or act) unwelcome or involuntary
+302551348	in good health especially after having suffered illness or injury
+302551669	having no symptoms of illness or disease
+302551782	freed from illness or injury
+302552072	affected by an impairment of normal physical or mental function
+302552918	grievously affected especially by disease
+302553026	affected by ague
+302553095	somewhat ill or prone to illness
+302553445	experiencing motion sickness
+302553648	characteristic of or affected with autism
+302553804	confined to bed (by illness)
+302553919	suffering from or suggesting a liver disorder or gastric distress
+302554094	suffering from or prone to bronchitis
+302554206	afflicted with or associated with pulmonary tuberculosis
+302554368	returning to health after illness or debility
+302554593	experiencing delirium
+302554704	suffering from diabetes
+302554818	having or causing a whirling sensation; liable to falling
+302555197	suffering from dyspepsia
+302555295	weak and likely to lose consciousness
+302555662	having or affected by a fever
+302555793	experiencing odd bodily sensations
+302555938	suffering from gout
+302556027	looking pale and unhealthy
+302556155	put out of action (by illness)
+302556254	ill and usually confined
+302556362	affected with or related to milk sickness
+302556459	feeling nausea; feeling about to vomit
+302556644	affected with palsy or uncontrollable tremor
+302556759	affected with paralysis
+302556886	suffering complete paralysis of the lower half of the body usually resulting from damage to the spinal cord
+302557086	affected with, suffering from, or characteristic of rickets
+302557296	afflicted with scrofula
+302557394	inclined to sneeze
+302557483	suffering from spastic paralysis
+302557624	constituting or afflicted with or caused by tuberculosis or the tubercle bacillus
+302557901	not healed
+302557987	mildly physically distressed
+302558087	covered or soaked with a liquid such as water
+302558632	wet with dew
+302558723	sprinkled over
+302558836	(of soil) soft and watery
+302559389	unpleasantly cool and humid
+302559590	slightly wet
+302559802	wet through and through; thoroughly wet
+302560004	wet with light rain
+302560163	containing or characterized by a great deal of water vapor
+302560339	wet with mist
+302560461	hot or warm and humid
+302560627	wet with secreted or exuded moisture such as sweat or tears
+302560793	moist, damp, wet (especially of air)
+302560940	wet or smeared with a spilled liquid or moist material
+302561103	(of weather) wet by periods of rain
+302561287	filled with steam or emitting moisture in the form of vapor or mist
+302561474	moist as with undried perspiration and with clothing sticking to the body
+302561661	(of a glutinous liquid such as paint) not completely dried and slightly sticky to the touch
+302561839	still wet or moist
+302561911	wet as from washing; sometimes used in combination
+302562029	filled with water
+302562150	free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet
+302562716	dried out by heat or excessive exposure to sunlight
+302562992	made dry by contact with unheated air
+302563085	not giving off moisture on exposure to the air
+302563185	lacking sufficient water or rainfall
+302563416	without a trace of moisture; as dry as a weathered bone
+302563619	thoroughly dried out
+302563787	not still wet
+302563907	depleted of water
+302564004	(used especially of vegetation) having lost all moisture
+302564330	having or keeping the feet or shoes dry
+302564495	dried in a kiln
+302564567	lacking rain
+302564672	somewhat arid
+302564789	somewhat dry
+302564910	needing moisture
+302565037	producing or secreting milk
+302565190	having recently calved and therefore able to give milk
+302565316	not producing milk
+302565433	having no milk
+302565522	supporting or permitting the legal production and sale of alcoholic beverages
+302565710	opposed to or prohibiting the production and sale of alcoholic beverages
+302565896	containing moisture or volatile components
+302566037	lacking moisture or volatile components
+302566157	containing combined water (especially water of crystallization as in a hydrate)
+302566320	without water; especially without water of crystallization
+302566453	having wheels; often used in combination
+302566547	having no wheels or having no wheeled vehicles
+302566724	of or designating salaried professional or clerical work or workers
+302566999	appropriate for or engaged in office work
+302567172	engaged in by members of a profession
+302567338	of or relating to a class of jobs once traditionally filled by women
+302567490	of or designating manual industrial work or workers
+302567671	employed in industry
+302567793	doing or requiring physical work
+302567915	working for hourly wages rather than fixed (e.g. annual) salaries
+302568127	conducive to or characteristic of physical or moral well-being
+302568489	of or providing nourishment
+302568802	of foods that are low in fats and sodium and other ingredients that may foster heart disease
+302568954	promoting health; healthful
+302569298	providing abundant nourishment
+302569537	of or relating to foodstuff grown or raised without synthetic fertilizers or pesticides or hormones
+302569766	favorable to health of mind or body
+302569950	detrimental to physical or moral well-being
+302570304	detrimental to health
+302570464	lacking in nutritive value
+302570592	suggesting an unhealthy mental state
+302570765	causing or able to cause nausea
+302571132	containing plenty of fat, or eggs, or sugar
+302571278	having great (or a certain) extent from one side to the other
+302571744	broad in the beam
+302571853	as from an altitude or distance
+302572032	(of hats) having a broad brim
+302572121	extending relatively far inward
+302572220	resembling a fan
+302572290	taking in or moving over (or as if over) a wide area; often used in combination
+302572482	(motion pictures) projected on a screen with much greater width than height
+302572618	not wide
+302572965	(of circumstances) tending to constrict freedom
+302573098	reduced in size as by squeezing together
+302573214	having a narrow mouth
+302573296	very narrow
+302573435	narrow
+302573535	long and narrow like a strap
+302573639	becoming gradually narrower
+302573798	great in degree
+302573924	more than adequate
+302574040	very limited in degree
+302574196	just barely adequate or within a lower limit
+302574346	easy to handle or use or manage
+302574457	difficult to use or handle or manage because of size or weight or shape
+302574753	difficult to handle or manage especially because of shape
+302575060	difficult to handle or use especially because of size or weight
+302575276	wearing a wig
+302575413	wearing a wig popular for men in the 17th and 18th centuries
+302575540	wearing a small hairpiece to cover partial baldness
+302575645	not wearing a wig
+302575716	disposed or inclined toward
+302576057	having given consent
+302576155	having made preparations
+302576313	eagerly disposed to act or to be of service
+302576431	mentally disposed
+302576531	with deliberate intention
+302576669	not reluctant
+302576745	not disposed or inclined toward
+302577011	of especially an attitude
+302577165	unwillingness to do something contrary to your custom
+302577356	having wings or as if having wings of a specified kind
+302577673	having or resembling wings
+302577837	(of seeds or insects) having winglike extensions
+302578029	formed or shaped like a bat's wing
+302578149	(especially of certain insects) having very short or rudimentary wings
+302578294	having a single wing
+302578371	(of birds) especially having the flight feathers
+302578474	having slender wings
+302578555	having small wings
+302578632	with wings extended in a flying position
+302578748	resembling a wing in shape or position
+302578841	lacking wings
+302578945	(of insects) without wings
+302579036	incapable of flying
+302579112	equipped with wire or wires especially for electric or telephone service
+302579294	having hidden electronic eavesdropping devices
+302579440	wired together to an alarm system
+302579586	having no wires
+302579686	having or prompted by wisdom or discernment
+302580010	infinitely wise
+302580114	acutely insightful and wise
+302580501	resembling an owl; solemn and wise in appearance
+302580602	characterized by wisdom, especially the wisdom of God
+302580739	having wisdom that comes with age and experience
+302580838	devoid of good sense or judgment
+302581199	so unreasonable as to invite derision
+302581841	devoid of intelligence or thought
+302582052	ludicrous, foolish
+302582341	absurd or silly because unlikely
+302582476	very foolish
+302582705	poorly conceived or thought out
+302582858	lacking sense or discretion
+302583095	showing or resulting from lack of judgment or wisdom
+302583261	covered with growing trees and bushes etc
+302583630	abounding in trees
+302583881	covered with or consisting of bushes or thickets
+302584146	covered with brambles and ferns and other undergrowth
+302584297	covered with forest
+302584425	overgrown with tropical vegetation
+302584530	abounding in usually unwanted vegetation
+302584626	abounding in rushes
+302584732	sparsely covered with stunted trees or vegetation and underbrush
+302584919	relating to or characteristic of wooded regions
+302585052	tending to form dense thickets
+302585144	covered with growing timber
+302585328	characteristic or suggestive of woods
+302585446	not wooded
+302585576	not covered with forest
+302585676	without trees
+302585768	made of or containing or resembling wood
+302586091	made of wood of the ash tree
+302586171	consisting of or made of wood of the beech tree
+302586272	consisting of or made of wood of the birch tree
+302586390	consisting of or made of cedar
+302586496	consisting of or containing lignin or xylem
+302586661	consisting of or made of wood of the oak tree
+302586803	of a plant; having a woody base that does not die down each year
+302586927	made or consisting of (entirely or in part) or employing wood
+302587095	not woody; not consisting of or resembling wood
+302587233	characteristic of a nonwoody herb or plant part
+302587356	like a pulp or overripe; not having stiffness
+302587499	characteristic of or devoted to the temporal world as opposed to the spiritual world
+302587892	concerned with worldly necessities of life (especially money)
+302588172	concerned with worldly rather than spiritual interests
+302588345	marked by materialism
+302588473	concerned with the world or worldly matters
+302588673	not concerned with the temporal world or swayed by mundane considerations
+302588984	characterized by ascetic solitude
+302589332	of communal life sequestered from the world under religious vows
+302589574	concerned with or affecting the spirit or soul
+302589801	not mercenary; not influenced by financial gains
+302589907	made or constructed by interlacing threads or strips of material or other elements into a whole
+302590198	woven by (or as if by) braiding
+302590302	(of cloth) made in plain weave
+302590390	not woven
+302590564	made by combining fibers with a binder using heat and pressure
+302590705	made by intertwining threads in a series of connected loops rather than by weaving
+302590887	affected by wear; damaged by long use
+302591485	at an advanced stage of erosion (pronounced as one syllable)
+302591610	worn by rubbing or friction
+302591692	damaged especially by hard usage
+302591803	worn from age or heavy use and no longer able to operate (of cars or machines or people)
+302591968	worn and broken down by hard use
+302592267	worn or shabby from overuse or (of pages) from having corners turned down
+302592502	worn away as by water or ice or wind
+302592601	worn away or tattered along the edges
+302592707	having many worn or threadbare spots in the nap
+302592911	worn or eaten away by (or as if by) moths
+302593040	worn out
+302593135	being or dressed in clothes that are worn or torn
+302593311	used until no longer useful
+302593481	showing signs of wear and tear
+302593709	shabby and untidy
+302593905	worn or faded from being on display in a store
+302594057	worn to shreds; or wearing torn or ragged clothing
+302594336	having the nap worn away so that the threads show through
+302594469	(of pages) worn or soiled by thumb and fingers by frequent handling or turning
+302594641	infested with or damaged (as if eaten) by worms
+302594785	(of rocks especially) worn smooth by the action of water
+302594897	worn by exposure to the weather
+302595048	showing signs of much wear or use
+302595137	unaffected by use or exposure
+302595255	not worn by exposure to the weather
+302595419	having worth or merit or value; being honorable or admirable
+302595965	worthy of high praise
+302596339	worthy of often limited commendation
+302596509	with honor; with academic distinction
+302596626	(often used ironically) worthy of being treated in a particular way
+302596887	worthy of imitation
+302597049	with high honor; with high academic distinction
+302597188	deserving reward or praise
+302597398	suitable for or worthy of quotation
+302597576	worthy of respect or dedication
+302597722	with highest honor; with the highest academic distinction
+302597871	held in great esteem for admirable qualities especially of an intrinsic nature
+302598053	having worth or merit or value
+302598251	sufficiently valuable to justify the investment of time or interest
+302598414	lacking in value or merit
+302598736	not deserving
+302598842	not merited
+302598962	without merit
+302599077	being deficient in moisture
+302599230	adapted to a xeric (or dry) environment
+302599401	having or characterized by excessive moisture
+302599573	growing wholly or partially in water
+302599717	requiring an abundance of moisture
+302599866	having or characterized by moderate or a well-balanced supply of moisture
+302600045	being or growing in or adapted to a moderately moist environment
+302600228	associated with or divided into zones
+302600372	not divided into zones
+302600483	not restricted to any particular zone or region
+302600583	(of mosses) having the archegonia at the top of the stem
+302600697	(of mosses) having the archegonia on short lateral branches
+302600834	(of limbs and feet) adapted for running
+302600929	(of limbs and feet) adapted for digging
+302601024	possessing a symmetrical tail that extends beyond the end of the vertebral column (as in most bony fishes)
+302601206	possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe
+302601403	(of the feet of some animals) having the digits connected by a thin fold of skin
+302601554	(of the feet of water birds) having three toes connected by a thin fold of skin
+302601687	(of the feet of some animals) not webbed
+302601821	having facets
+302601909	lacking facets
+302601999	on or relating to the same side (of the body)
+302602102	on or relating to the opposite side (of the body)
+302602211	(of angles) pointing outward at an angle of less than 180 degrees
+302602330	(of angles) pointing inward
+302602462	descriptive of any event or stimulus or process that has an effect on events or stimuli or processes that occur subsequently
+302602711	descriptive of any event or stimulus or process that has an effect on the effects of events or stimuli or process that occurred previously
+302602926	of persons (or their blood) having the Rh factor present in their red blood cells
+302603065	of persons (or their blood) lacking the Rh factor present in their red blood cells
+302603205	of a term or phrase capable of standing as the subject or (especially) the predicate of a proposition
+302603439	of a word or phrase meaningful in isolation, independent of context
+302603584	of a term that cannot stand as the subject or (especially) the predicate of a proposition but must be used in conjunction with other terms
+302603893	of a word or phrase meaningful only when it occurs in the company of other words
+302604050	relating to or involving the study of individuals
+302604176	relating to or involving the search for abstract universal principles
+302604321	advocating a woman's right to control her own body (especially her right to an induced abortion)
+302604474	advocating full legal protection of embryos and fetuses (especially opposing the legalization of induced abortions)
+302604644	having undergone the Christian ritual of baptism
+302604758	not having undergone the Christian ritual of baptism
+302604880	not dangerous to health; not recurrent or progressive (especially of a tumor)
+302605029	dangerous to health; characterized by progressive and uncontrolled growth (especially of a tumor)
+302605255	relating to or affected with cancer
+302605386	growing or living in soil rich in lime
+302605482	growing or living in acid soil
+302605570	having an additive or multiplicative inverse
+302605672	not admitting an additive or multiplicative inverse
+302605784	capable of developing an immune response following exposure to an antigen
+302605962	incapable of developing an immune response following exposure to an antigen
+302606144	denoting or relating to cells or tissues from individuals belonging to the same species but genetically dissimilar (and hence immunologically incompatible)
+302606374	denoting or relating to cells or tissues from individuals belonging to different species
+302606537	of flowers having a long extension at the base of the corolla
+302606657	of flowers have a short extension at the base of the corolla
+302606777	of animals or fruits that have a shell
+302606941	of animals or plants that have a hard shell
+302607043	having a smooth shell
+302607125	having a shell that forms a spiral
+302607220	of animals or plants that have a thin shell
+302607322	of animals or fruits that have no shell
+302607430	of animals having jaws of a specified type
+302607560	having relatively long jaws
+302607644	having a relatively square jaw
+302607733	of animals having no jaw
+302607811	having skin of a specified kind
+302607932	having smooth skin
+302608011	having skin like velvet
+302608096	having no skin
+302608165	having a flower or bloom
+302608266	without flower or bloom and not producing seeds
+302608425	bearing spores instead of producing seeds
+302608526	of homosexuality between a man and a boy
+302608655	involving a partial or full reversal of gender
+302608757	identifying with the opposite gender from the one that one is born with
+302608907	receiving sexual gratification from wearing clothing of the opposite sex
+302609070	of female homosexual behavior that attempts to simulate heterosexual behavior
+302609205	of or relating to abasia (inability to walk)
+302609365	of or having to do with or belonging to an abbey or abbot, or abbess
+302609578	of or relating to the abdomen and the urinary bladder
+302609711	of or relating to Aberdeen
+302609866	of or relating to Abkazia or its people or their language
+302610006	of or relating to the Abnakis or their language
+302610106	characterized by avoidance or withdrawal
+302610254	originating by abiogenesis
+302610356	associated with academia or an academy
+302610548	of or relating to or having acanthosis
+302610661	relating to or demonstrating acapnia
+302610864	pertaining to a growth of fungi that forms a heaped-up mass
+302611010	of or relating to acetone
+302611108	of or related to acetylene
+302611209	of or related to acetic acid
+302611310	of or relating to Achaea or its ancient Greek people
+302611416	of or relating to Aeolis or its ancient Greek people
+302611540	pertaining to dry one-seeded indehiscent fruit
+302611659	lacking hydrochloric acid
+302611743	of or related to an achondrite
+302611849	related to plants or animals or crystals having aciculae or needlelike parts
+302611981	involving or related to acidimetry
+302612091	having or being characterized by acidosis
+302612205	pertaining to the individual parts making up an aggregate fruit like a blackberry
+302612357	pertaining to one of the small sacs (as in a compound gland)
+302612607	resembling acne
+302612678	relating to or peculiar to or suggestive of an adolescent
+302612851	pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem
+302613061	of or related to actinometry
+302613201	of or belonging to the actinomycetes
+302613368	of or related to actinomycosis infection
+302613486	having or resembling a stinger or barb
+302613652	without fingers and/or toes
+302613736	consisting of or having the hardness of adamant
+302613840	of or pertaining to adenocarcinoma
+302613957	relating to or resembling lymphatic glands or lymphoid tissue
+302614090	of or pertaining to the adenoids
+302614196	characterized by acceptance or approach
+302614343	concerned with adjudicating
+302614534	of or pertaining to adnexa
+302614678	or relating to or like Adonis
+302614760	of or pertaining to the adrenal glands or their secretions
+302614890	near the kidneys
+302614960	relating to epinephrine (its release or action)
+302615100	of or pertaining to an agnostic or agnosticism
+302615219	of or relating to the Aleut or their language or culture
+302615330	of or belonging to or inherited from an ancestor
+302615452	relating to or characterized by an antheridium
+302615574	relating to blocking or reducing adrenergic effects in the body
+302615698	opposing the policy of apartheid in South Africa
+302615833	counteracting the effects of a poison
+302615926	relating to antiferromagnetism
+302616038	intended to reduce pollution
+302616203	of or relating to a system to destroy satellites in orbit
+302616370	inhibiting or stopping the growth and reproduction of viruses
+302616487	of or derived from the cortex of the adrenal glands
+302616599	of or relating to advection
+302616700	of or pertaining to the adventitia
+302616810	of or pertaining to adventurism
+302616919	of or belonging to an aecium
+302617018	of or pertaining to Aeolus, the Greek god of the winds; relating to or caused by the wind
+302617179	conveying air; as the bronchial tubes
+302617273	of or pertaining to aerology
+302617377	of or pertaining to certain stony meteorites
+302617495	of or pertaining to aerodynamics
+302617604	of or relating to aviation medicine
+302617715	of or pertaining to aeronautics
+302617872	of or belonging to Aesculapius or the healing art
+302618025	(mathematics) of or pertaining to the geometry of affine transformations
+302618169	of or pertaining to a linguistic affix
+302618326	of or relating to an agent or agency
+302618507	pertaining to or associated with agony (especially death agonies)
+302618661	of or relating to the athletic contests held in ancient Greece
+302618797	relating to the blood disorder of agranulocytosis
+302618924	relating to or having agraphia
+302619009	of or pertaining to agrobiology
+302619170	of or related to agrology
+302619319	of or relating to or promoting agronomy
+302619482	of or pertaining to agrypnia
+302619585	deriving oxygen from the air
+302619786	of or resembling alabaster
+302619920	relating to or characteristic of the state or people of Alaska
+302620090	of or relating to Albigenses or Albigensianism
+302620230	of or relating to Albania or its people or language or culture
+302620401	of or pertaining to or affected by albinism
+302620677	of or related to albite feldspar
+302620781	relating to or containing or resembling albumin
+302620903	of or related to the state of albuminuria
+302621020	related to or concerned with alchemy
+302621178	of or relating to alchemists
+302621334	of or related to or containing aldehydes
+302621430	of or related to aleurone
+302621529	of or resembling algae
+302621604	of or relating to algolagnia
+302621707	of or related to algometry
+302621859	of or relating to an Algonquian tribe or its people or language
+302622111	related to the supply of aliment
+302622220	of or pertaining to the alkahest that alchemists assumed to exist
+302622360	pertaining to or consisting of alkaloids
+302622475	marked by alkalosis (or a tendency toward alkalosis)
+302622601	of or related to an alkyl
+302622717	relating to or characterized by an allantois
+302622817	of or relating to alleles
+302622948	relating to or having the effect of an allergen
+302623070	characterized by or caused by allergy
+302623204	of or relating to or denoting the Allies in World War I
+302623356	of or relating to or denoting the Allies in World War II
+302623507	relating to cross-fertilization in plants
+302623623	of or relating to an allograph
+302623711	pertaining to allomerism
+302623810	relating to or marked by allometry
+302623919	pertaining to allomorphs
+302624001	pertaining to allophones
+302624100	of or related to or exhibiting allotropism
+302624382	of or pertaining to the allyl radical
+302624510	pertaining to loss of hair or wool or feathers
+302624611	relating to or expressed by a writing system that uses an alphabet
+302624852	relating to or expressed by a writing system that is not alphabetic
+302624996	of or pertaining to alphanumeric characters
+302625233	of or pertaining to or written in Altaic
+302625362	pertaining to altitude
+302625496	pertaining to alulae
+302625624	pertaining to or containing aluminum or alum
+302625742	pertaining to the tiny air sacs of the lungs
+302625841	pertaining to the sockets of the teeth or that part of the upper jaw
+302626004	characterized by or tending toward amalgamation
+302626128	of or related to the amaranth plant
+302626221	pertaining to blindness caused by amaurosis
+302626338	pertaining to a kind of visual impairment without apparent organic pathology
+302626488	of or by or relating to Saint Ambrose
+302626619	pertaining to the ambulacra of radial echinoderms
+302626762	relating to or adapted for walking
+302626897	like an amoeba (especially in having a variable irregular shape)
+302627044	related to the suppression of normal menstrual flow for any reason other than pregnancy
+302627323	containing or resembling amethyst
+302627414	related to or characteristic of or written in Amharic
+302627563	pertaining to or containing any of a group of organic compounds of nitrogen derived from ammonia
+302627774	pertaining to a simple method of cell division
+302627893	pertaining to or characteristic of an ammine (an inorganic coordination compound of ammonia and a metallic salt)
+302628058	pertaining to or containing or similar to ammonia
+302628229	of or related to an order of fossil cephalopods
+302628350	of or relating to or caused by amnesia
+302628525	of or related to the amnion or characterized by developing an amnion
+302628778	of or pertaining to romantic love
+302628885	of or related to an amphitheater
+302629085	the sound heard in auscultation resembling the hollow sound made by blowing across the mouth of a bottle
+302629297	of or related to an ampulla
+302629500	related to or resembling an almond
+302629591	of or related to the process of amylolysis
+302629708	of or related to the state of anabiosis
+302629821	of or related to the synthetic phase of metabolism
+302629944	of or related to relationships that are characterized by the strong dependence of one person on another
+302630103	of or related to syntactic inconsistencies of the sort known as anacoluthons
+302630256	related to anaglyphs or anaglyphy
+302630551	based on or exemplifying anagoge
+302630669	related to anagrams or containing or making an anagram
+302630853	of or related to the anus
+302630967	using or subjected to a methodology using algebra and calculus
+302631141	of or relating to anamnesis; aiding the memory
+302631280	pertaining to a kind of distorting optical system
+302631409	pertaining to gradual evolution from one type of organism to another
+302631534	of or related to the stage of mitosis known as anaphase
+302631663	of or relating to anaplasia
+302631765	of or related to anarchism or tending toward anarchism
+302631913	characterized by or affected by dropsy
+302632026	pertaining to a lens or lens system free of astigmatism (able to form point images)
+302632216	in or relating to Andalusia
+302632318	of or related to androgenesis
+302632510	of or related to the male hormone androgen
+302632627	relating to or exhibiting both female and male sex organs but with a predominantly female appearance
+302632803	pertaining to the recording of wind measurements
+302632910	pertaining to the measurement of wind speed and direction
+302633095	characterized by partial or total absence of a brain
+302633276	of or relating to anestrus
+302633454	of or related to the pain of angina pectoris
+302633646	having or being fruit enclosed in a shell or husk
+302633804	of or related to or having a tumor of the kind known as an angioma
+302633946	of or related to or characteristic of plants that are angiosperms
+302634089	characterized by Anglophilia
+302634193	characterized by Anglophobia
+302634297	of or related to or resembling a snake
+302634408	without jaundice
+302634503	of or pertaining to animalism
+302634626	of or pertaining to animatism
+302634731	of or pertaining to the doctrine of animism
+302634894	relating to or characteristic of the visual defect aniseikonia
+302635032	relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape)
+302635251	relating to either of a pair of dissimilar (anisogamic) gametes combining in sexual reproduction
+302635424	relating to a difference in the refractive power of the two eyes
+302635566	relating to or characteristic of the abnormality ankylosis
+302635698	relating to annals
+302635847	of or relating to statistical methods based on Bayes' theorem
+302635963	of or relating to Arminianism
+302636065	of or pertaining to Armenia or the people or culture of Armenia
+302636255	of or relating to a style of furniture developed in Germany in the 19th century
+302636392	relating to or belonging to or characteristic of any worms of the phylum Annelida
+302636594	relating to annexation
+302636711	interpretive or explanatory
+302636796	of or relating to or located in the Middle East
+302636904	relating to the act of announcing or being announced
+302637051	of or pertaining to the botanical genus Allium
+302637246	of or at or relating to an anode
+302637412	of or at or pertaining to a cathode
+302637553	relating to the anus and surrounding perineum
+302637674	relating to or characteristic of malaria mosquitoes
+302637800	pertaining to the anus and rectum considered together
+302637927	characteristic of anorthite
+302638029	relating to an impairment or loss of the sense of smell
+302638204	relating to or marked by abnormally little oxygen in arterial blood
+302638344	relating to or marked by a severe deficiency of oxygen in tissues or organs
+302638490	of or resembling a goose
+302638588	of or relating to the region of the arm in front of the elbow
+302638754	of or relating to antennae
+302638967	relating to or resembling anthracite coal
+302639084	relating to mankind or the period of mankind's existence
+302639228	of or relating to the study of the origins and development of human beings
+302639434	of or relating to anthropometry
+302639599	of or relating to eaters of human flesh
+302639718	of or relating to antibiotic drugs
+302639827	used in the treatment of cancer
+302640076	of or relating to a sudden change from an impressive to a ludicrous style
+302640263	of or relating to an anticoagulant
+302640359	of or relating to or characteristic of the atmosphere around a high pressure center
+302640538	of or relating to antigens
+302640638	relating to or derived from antimony
+302640819	relating to or influenced by antinomianism
+302640936	relating to or resembling an antiphon or antiphony
+302641148	relating to the antipodes or situated at opposite sides of the earth
+302641447	of or relating to an antistrophe
+302641538	of or relating to an antitype that is a symbol
+302641708	of or relating to an antitype that represents an opposite
+302641889	relating to frogs and toads
+302642104	of or relating to an inability to urinate
+302642245	anxiety relieving
+302642337	of or relating to the aorist tense
+302642463	of or relating to the aorta
+302642606	relating to or formed by or consisting of aphaeresis
+302642799	of or relating to or afflicted with aphakia
+302642914	of or relating to aphanite
+302643014	related to or affected by aphasia
+302643155	produced by aphesis
+302643246	relating to or having the characteristics of bees
+302643347	relating to bees or beekeeping
+302643450	relating to the care and breeding of bees
+302643567	of or related to aplite
+302643662	of or relating to apnea
+302643766	of or relating to an apocalypse
+302643873	of or belonging to the Apocrypha
+302643980	of or relating to tropical plants of the family Apocynaceae
+302644098	of or relating to the development of an embryo in the absence of fertilization
+302644347	relating to or characteristic of an apogee
+302644528	of or relating to a plant that reproduces by apomixis
+302644724	of or relating to an aponeurosis
+302644883	of or relating to the belief that God can be known to humans only in terms of what He is not (such as God is unknowable')
+302645079	of or relating to an apophysis
+302645220	pertaining to or characteristic of apoplexy
+302645360	resembling apoplexy
+302645471	relating to or characteristic of aposiopesis
+302645591	of or characteristic of apostrophe
+302645720	of or relating to the apothecium of some lichens and fungi
+302645872	given to or characterized by terse apothegms
+302646046	in or relating to Appalachia
+302646150	pertaining to or dealing with or used as a common noun
+302646262	relating to or consisting of an appendage or appendages; especially the limbs
+302646445	relating to the act of appointing
+302646592	relating to or being in apposition
+302646774	of or relating to or given to the act of taking for yourself
+302646912	of or relating to an apse
+302647009	of or relating to aptitudes
+302647112	similar to or containing or dissolved in water
+302647233	relating to or consisting of or being in water
+302647359	of or relating to an aquifer
+302647462	relating to or resembling a member of the class Arachnida
+302647714	of or relating to the ancient Aramaic languages
+302647833	of or relating to Aram or to its inhabitants or their culture or their language
+302648031	relating to or resembling a spider
+302648188	of or relating to the peoples who speak the language of the Arawak
+302648381	relating to or resulting from arbitration
+302648624	relating to or having the authority to arbitrate
+302648772	of or relating to or formed by trees
+302649043	related to or dealing with or devoted to archaeology
+302649391	imitative of an archaic style or manner
+302649545	of or relating to or resembling archangels
+302649715	constructed with or in the form of an arch or arches
+302649844	of or relating to an archdiocese
+302649953	belonging to or befitting an archduke or his archduchy
+302650081	of or relating to an archegonium
+302650241	of or relating to the cells in a sporangium that give rise to spores
+302650423	of or relating to an archdeacon or his office
+302650546	of or associated with an archbishop
+302650737	relating to or part of an archipelago
+302650874	of or relating to or contained in or serving as an archive
+302651005	of or relating to reptiles of the subclass Archosauria
+302651154	of or relating to or involving an area
+302651280	growing or living or burrowing in sand
+302651397	relating to or like or divided into areolae
+302651559	relating to compounds in which silver is bivalent
+302651663	relating to compounds in which silver is univalent
+302651769	of or relating to bracelets
+302651852	relating to a plant of the family Araceae
+302652029	(chemistry) of or relating to or containing one or more benzene rings
+302652222	relating to or containing arsenic
+302652382	relating to compounds in which arsenic is trivalent
+302652507	of or involving or contained in the arteries
+302652685	of or contained in or performing the function of the veins
+302652909	connecting an artery to a vein
+302653045	of or relating to arthralgia
+302653148	of or relating to one of the body segments of jointed animals
+302653285	of or relating to invertebrates of the phylum Arthropoda
+302653537	of or relating to arthrospores
+302653733	of or relating to King Arthur and the Knights of the Round Table
+302653871	relating to or affecting the joints of the body
+302654097	of or relating to articulation
+302654324	of or relating to or belonging to mammals of the order Artiodactyla
+302654551	of or relating to or resembling reedlike plants of the genus Arundinaria
+302654701	tending to rise
+302654828	pertaining to or characteristic of an ascetic or the practice of rigorous self-discipline
+302655058	of or relating to or resulting from an abnormal accumulation of protein and electrolyte rich fluid in the peritoneal cavity
+302655253	of or relating to plants of the milkweed family
+302655399	of or relating to ascocarps
+302655521	of or relating to ascospores
+302655693	of or relating to associations or associationism
+302655838	(of some crystals especially gemstones) exhibiting asterism
+302655954	relating to asterisms or constellations
+302656068	producing stolons
+302656145	relating to or constituting plant stomata
+302656346	relating to or of the nature of or having a mouth or mouthlike opening
+302656537	lacking a stoma or stomata
+302656655	of or concerning programs stored in the computer's own memory
+302656777	of or relating to the anklebone
+302656920	of or relating to or containing large star-shaped cells in the neuroglia
+302657086	of or belonging to astronauts or the science of astronautics
+302657310	relating or belonging to the science of astronomy
+302657509	of or relating to the state of asynergy; lacking synergy
+302657657	lacking motor coordination; marked or caused by ataxia
+302657828	of or relating to atherosclerosis
+302657941	of or relating to atonalism
+302658063	characterized by a lack of tonus
+302658202	of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart)
+302658393	relating to or affecting the atria and ventricles of the heart
+302658622	of or relating to attention
+302658726	of or relating to attitudes
+302658811	relating to or caused by attrition
+302658975	of or relating to audiometry
+302659097	involving both hearing and seeing (usually relating to teaching aids)
+302659281	of or relating to or containing the mineral augite
+302659403	relating to or characterized by an aura
+302659552	of or pertaining to hearing or the ear
+302659693	pertaining to an auricle of the heart
+302659830	relating to or perceived by or shaped like the organ of hearing
+302660104	of or relating to the immune response of the body against substance normally present in the body
+302660275	relating to the two auditory openings
+302660411	characteristic of the dawn
+302660578	of or relating to the atmospheric phenomenon auroras
+302660788	of or relating to or containing or derived from gold
+302660919	of or relating to auscultation
+302661008	composed of austenite
+302661130	relating to or found in Australasia
+302661242	of or belonging to the hominid genus Australopithecus
+302661377	of or relating to an autacoid
+302661500	of or relating to or characterized by autarchy
+302661719	of or by or typical of an author
+302661949	relating to or in the style of an autobiography
+302662173	of or relating to or characteristic of an autobiographer
+302662401	relating to or proceeding by autocatalysis
+302662521	of or relating to autogenesis
+302662626	written in the author's own handwriting
+302662723	of or relating to self-digestion
+302662829	of or relating to or involved in autoplasty
+302662966	of or relating to or produced by autoradiography
+302663077	of or relating to or believing in autotelism
+302663195	of or relating to autotomy
+302663295	of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis
+302663582	requiring organic compounds of carbon and nitrogen for nourishment
+302663761	of or relating to autotypy
+302663879	of or relating to growth by auxesis
+302663986	relating to or containing auxins
+302664090	of or relating to or derived from axioms
+302664356	containing aphorisms or maxims
+302664511	pertaining to filberts or hazelnuts
+302664629	pertaining to or characteristic of birds
+302664740	of or relating to birds of a particular region or period
+302664921	of or relating to avionics
+302665019	of or relating to or characteristic of avitaminosis
+302665147	of or involved in an avocation
+302665253	being or relating to an uncle
+302665357	resembling a uncle in kindness or indulgence
+302665457	having received awards
+302665599	of or relating to or resembling an axis of rotation
+302665720	relating to or attached to the axis
+302665885	of or relating to the armpit
+302666023	of or relating to the study of values
+302666136	of or relating to or resembling an axon
+302666265	of or pertaining to Azerbaijan or the people or culture of Azerbaijan
+302666428	relating to or containing the azido group N3
+302666543	of or relating to or in azimuth
+302666648	relating to or containing the azo radical
+302666739	relating to or containing diazonium
+302666826	pertaining to animals or animal life or action
+302666923	of or involving excess nitrogenous waste products in the urine (usually due to kidney insufficiency)
+302667169	resembling a baboon
+302667244	of or relating to the city of Babylon or its people or culture
+302667404	resembling a berry
+302667506	of or relating to or resembling a bacchanalian reveler
+302667635	relating to or produced by or containing bacilli
+302667805	via a back channel
+302667926	of or relating to or having bacteremia
+302668039	of or relating to or causing bacteriolysis
+302668159	of or relating to bacteriophages
+302668324	of or relating to or causing bacteriostasis
+302668446	resembling bacteria
+302668671	of or relating to Bahaism
+302668748	characteristic of or resembling or suitable for ballet
+302668893	relating to or characteristic of the motion of objects moving under their own momentum and the force of gravity
+302669117	of or relating to or containing balsam
+302669334	of or relating to or containing barium
+302669442	relating to or registered by a barograph
+302669540	relating to atmospheric pressure or indicated by a barometer
+302669749	of or relating to or containing baryta
+302669859	of or relating to or containing basalt
+302669997	relating to or characterized by basidia
+302670109	pertaining to or characteristic of fungi of the class Basidiomycetes
+302670276	of or relating to or characterized by spores produced by basidia
+302670438	of or relating to or located at the base
+302670636	of or relating to or resembling a basilica
+302670770	of or relating to a basin
+302670869	of or relating to a batholith
+302671042	of or relating to measurements of the depths of oceans or lakes
+302671251	resembling or containing bauxite
+302671356	of or relating to behaviorism
+302671645	of or pertaining to Belarus or to the people or culture of Belarus
+302671804	of or relating to belemnites
+302671907	expressing benediction
+302672019	having or arising from a benefice
+302672151	intending or showing kindness
+302672279	of or relating to or happening on the bottom under a body of water
+302672511	of or relating to or containing bentonite
+302672627	similar to benzene in structure or linkage
+302672725	containing or derived from benzoic acid or benzoin
+302672847	relating to benzyl
+302672957	of or pertaining to or characteristic of trees of the birch family
+302673099	having two axes
+302673243	relating to or dealing with bibliography
+302673397	given to Bible-worship
+302673497	characteristic of or characterized by or noted for bibliomania
+302673638	of or relating to bibliophiles
+302673745	of or relating to bibliopoles
+302673850	of or relating to a library or bibliotheca or a librarian
+302674056	of or relating to bibliotics
+302674158	divided into two capsules or having a two-part capsule
+302674288	treated or combined with bichromate
+302674381	having two heads or points of origin as a biceps
+302674503	of or pertaining to or characteristic of plants of the family Bignoniaceae
+302674655	relating to the bile ducts or the gallbladder
+302674772	relating to or containing bile
+302674920	of or relating to billiards
+302675059	pertaining to a monetary system based on two metals
+302675297	of or relating to a bimillennium
+302675405	of or pertaining to a number system have 2 as its base
+302675530	of or relating to biocatalysts
+302675637	of or relating to biochemistry; involving chemical processes in living organisms
+302675793	of or concerned with the relations of climate and living organisms
+302675917	of or relating to the production of living organisms from other living organisms
+302676072	producing or produced by living things
+302676202	produced by living organisms or biological processes
+302676347	of or relating to or involved with biogeography
+302676508	pertaining to biology or to life and living things
+302676734	of or relating to biologism
+302676837	of or relating to sociobiology
+302676999	of or relating to the biological study of the nervous system
+302677139	of or relating to bionics
+302677235	of or relating to biosynthesis
+302677342	of or relating to biosystematics
+302677452	relating to or involving biotite
+302677557	of or relating to a biotype
+302677657	lacking hue or shades of grey; part white and part black
+302677853	of or relating to blastogenesis
+302677980	of or relating to or belonging to the body
+302678131	of or relating to Bohemia or its language or people
+302678255	of or relating to a bolograph
+302678342	of or relating to a bolometer
+302678446	of or relating to a combinatorial system devised by George Boole that combines propositions with the logical operators AND and OR and IF THEN and EXCEPT and NOT
+302678678	mixed or impregnated with borax
+302678763	of or relating to boron
+302678858	belonging or relating to or resembling Boskop man
+302678963	of or relating to plants or botany
+302679137	resembling a cluster of grapes in form
+302679290	of or pertaining to Botswana or the people of Botswana
+302679400	of or relating to fish and marine life that dwell on the bottom of a body of water
+302679544	of or relating to fish and marine life that feed on the bottom of a body of water
+302679686	of or relating to writing alternate lines in opposite directions
+302679830	of or relating to an arm
+302679928	of or belonging to the phylum Brachiopoda
+302680078	of or belonging to the suborder Brachyura
+302680195	pertaining to or resembling or functioning as a bract
+302680321	having bracts
+302680436	having bracteoles
+302680511	of or relating to or characteristic of a brahmin
+302680755	of or relating to gills (or to parts of the body derived from embryonic gills)
+302680907	of or relating to or characteristic of the subclass Branchiopoda
+302681116	resembling the sound of a brass instrument
+302681277	(of guns) designed to be loaded at the breech
+302681383	of or relating to the bregma of the skull
+302681517	without a brim
+302681604	of or relating to the power (the shattering effect) of an explosive
+302681743	responding to or operating at a wide band of frequencies
+302681907	of or relating to or being a communications network in which the bandwidth can be divided and shared by multiple simultaneous signals (as for voice or data or video)
+302682128	huge; relating to or characteristic of the imaginary country of Brobdingnag
+302682282	relating to or containing bromine (especially pentavalent bromine)
+302682419	given to uttering bromides
+302682500	of or relating to or toward the cheek
+302682622	suffering from bulimia
+302682752	resembling a burr; especially in being prickly
+302682853	relating to or affecting a bursa
+302682956	relating to or resembling a hawk of the genus Buteo
+302683081	having the qualities of butter or yielding or containing a substance like butter
+302683237	relating to or producing butyric acid
+302683328	relating to or having the symptoms of cachexia
+302683466	of or relating to evil spirits
+302683623	of or relating to cacodyl
+302683759	of or relating to the records of a cadastre
+302683876	of or relating to a cadaver or corpse
+302684082	of or relating to a caduceus
+302684183	of or relating to or belonging to the family Caeciliidae
+302684331	of or relating to a caesura
+302684449	of or containing caffein
+302684547	marked by cairns
+302684617	relating to the heel bone or heel
+302684706	composed of or containing or resembling calcium carbonate or calcite or chalk
+302684885	of slipper-shaped blossoms
+302685040	derived from or containing calcium or lime
+302685135	bearing or producing or containing calcium or calcium carbonate or calcite
+302685267	of or relating to or containing calcite
+302685379	relating to or caused by or having a calculus or calculi
+302685509	relating to or characteristic of or used in a calendar or time measurement
+302685792	made of calico or resembling calico in being patterned
+302685933	of or relating to calisthenics
+302686057	of or relating to a callithump
+302686183	of or relating to calories in food
+302686363	of food have no (or few) calories
+302686475	of or relating to the measurement of heat
+302686593	of or relating to or resembling a calyx
+302686783	relating to or resembling a calyculus
+302686942	having a calyculus
+302687046	having a calyptra
+302687120	having calypters
+302687193	of or relating to or functioning as a cambium
+302687347	shaped like a bell or campana
+302687562	being or having the properties of camphor
+302687703	relating to or derived from or containing camphor
+302687849	relating to or like or having a canaliculus
+302687968	of or relating to a cancroid
+302688069	relating to or especially immediately preceding or following the heliacal rising of Canicula (the Dog Star)
+302688286	of or relating to the dog days of summer
+302688440	of or relating to or characteristic of members of the family Canidae
+302688598	of or relating to a pointed conical tooth
+302688738	of or relating to capacitance
+302688824	of or relating to the French dynasty founded by Hugh Capet
+302688955	of or pertaining to an ecclesiastical chapter

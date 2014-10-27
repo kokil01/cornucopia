@@ -1,0 +1,1000 @@
+106675763	a government's policy controlling foreign trade
+106675913	the policy of granting equal trade opportunities to all countries
+106676053	any policy that allows no exception
+106676208	a policy for establishing and developing a national homeland for Jews in Palestine
+106676362	a system of principles governing morality and acceptable conduct
+106676530	a commercial principle that without a warranty the buyer takes upon himself the risk of quality
+106676685	an authoritative rule
+106676796	an authoritative rule
+106676958	regulation establishing the maximum age for doing something or holding some position
+106677098	the regulation of weights and measures of articles offered for sale
+106677218	regulation establishing the top speed permitted on a given road
+106677339	a rule or especially body of rules or principles generally established as valid and fundamental in a field of art or philosophy
+106677590	rules governing socially acceptable behavior
+106677726	forms of ceremony and etiquette observed by diplomats and heads of state
+106677853	(computer science) rules determining the format and transmission of data
+106678115	protocol that allows users to copy files between their local system and any system they can reach on the network
+106678357	a common way to make software available; users are allowed to log in as guest' without a password and copy whatever has been made available
+106678592	a protocol (utilizing TCP) to transfer hypertext requests and information between servers and browsers
+106678775	a standard protocol for communication between electronic musical instruments and computers
+106678955	a protocol developed for the internet to get data from one network device to another
+106679231	a set of protocols (including TCP) developed for the internet in the 1970s to get data from one network device to another
+106679474	a fine point of etiquette or petty formality
+106679574	a rule for limiting or ending debate in a deliberative body
+106679772	closure imposed on the debate of specific sections of a bill
+106679914	a question as to whether the current proceedings are allowed by parliamentary procedure
+106680062	a set of rules or principles or laws (especially written ones)
+106680370	traditional code of the Japanese samurai which stressed courage and loyalty and self-discipline and simple living
+106680537	a code of laws adopted by a state or nation
+106680764	the legal code governing crimes and their punishment
+106680892	a consolidation and codification by subject matter of the general and permanent laws of the United States; is prepared and published by a unit of the United States House of Representatives
+106681177	set of standards established and enforced by local government for the structural safety of buildings
+106681356	a set of rules specifying the correct manner of dress while on the premises of the institution (or specifying what manner of dress is prohibited)
+106681558	set of standards established and enforced by government for fire prevention and safety in case of fire as in fire escapes etc
+106681758	a code of silence practiced by the Mafia; a refusal to give evidence to the police about criminal activities
+106681938	set of standards established and enforced by government for health requirements as in plumbing etc
+106682129	the code of rules governing the use of public roads
+106682258	an ethical or moral code that applies more strictly to one group than to another
+106682418	a code that permits greater sexual freedom for men than for women (associated with the subordination of women)
+106682609	a mathematical statement that two expressions are equal
+106682882	a polynomial equation of the first degree
+106682985	an equation in which the highest power of an unknown quantity is a square
+106683135	an equation of the fourth degree
+106683266	an equation containing differentials of a function
+106683456	four differential equations that summarize classical properties of electromagnetic fields
+106683611	a differential equation involving a functions of more than one variable
+106683758	the fundamental equation of wave mechanics
+106683895	a set of equations in two or more variables for which there are values that can satisfy all the equations simultaneously
+106684084	a differential equation that describes the passage of harmonic waves through a medium
+106684229	a proposal for an appropriate course of action
+106684382	something (as a course of action) that is recommended as advisable
+106684563	something (as a course of action) that is indicated as expedient or necessary
+106684785	a recommendation to consult the (professional) person or group to whom one has been referred
+106685042	cautionary advice about something imminent (especially imminent danger or other unpleasantness)
+106685497	punishment intended as a warning to others
+106685698	information known only to a special group
+106685887	something that should remain hidden from others (especially information that is not to be passed on)
+106686180	a secret that is confided or entrusted to another
+106686416	secrets known only to an initiated minority
+106686515	an esoteric or occult matter resembling the Kabbalah that is traditionally secret
+106686773	something that is supposed to be secret but is generally known
+106686933	a secret word or phrase known only to a restricted group
+106687130	a secret (method or device or formula) that gives a manufacturer an advantage over the competition
+106687287	information that is spread for the purpose of promoting some cause
+106687536	political propaganda (especially communist propaganda) communicated via art and literature and cinema
+106687692	a catalog listing the courses offered by a college or university
+106687867	a document (or organization) from which information is obtained
+106688083	(patent law) a document drawn up by the applicant for a patent of invention that provides an explicit and detailed description of the nature and use of an invention
+106688326	publications from which information is obtained
+106688436	a document that serves as evidence of some expenditure
+106688544	records kept of activities involved in carrying out a project
+106688724	an abundant source
+106688854	material suitable for a journalistic account
+106688999	copy to fill space between more important articles in the layout of a magazine or newspaper
+106689161	an integrated course of academic studies
+106689454	a rapid and intense course of training or research (usually undertaken in an emergency)
+106689834	a program designed to teach literacy skills
+106689939	a course of study leading to an academic degree
+106690047	reproduction by applying ink to paper as for publication
+106690719	art and technique of printing with movable type
+106690891	availability in printed form
+106691047	the text appearing in a book, newspaper, or other printed publication
+106691251	material printed in small type
+106691409	printing from a plate with raised characters
+106691529	a printing process that uses an etched or engraved plate; the plate is smeared with ink and wiped clean, then the ink left in the recesses makes the print
+106691786	a method of printing colored reproductions from halftone plates
+106691912	printing from an intaglio plate prepared by photographic methods
+106692053	printing by transferring an image from a photogravure plate to a cylinder in a rotary press
+106692202	the process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent)
+106692471	a photomechanical printing process that uses a glass plate with a gelatin surface that carries the image to be reproduced; can be used with one or more colors
+106692747	a method of planographic printing from a metal or stone surface
+106692940	a planographic printing process using plates made from a photographic image
+106693078	single- or multi-color lithography
+106693176	a method of offset printing using photomechanical plates
+106693315	a plate makes an inked impression on a rubber-blanketed cylinder, which in turn transfers it to the paper
+106693563	offset printing by lithography
+106693658	image is transferred from a relief type plate to a roller
+106693780	a process of printing on paper coated with bichromated gelatin containing pigment
+106693922	information reported in a newspaper or news magazine
+106694199	news about businesses and investments
+106694296	a short account of the news
+106694721	report or open letter giving informal or confidential news of interest to a special group
+106694897	a newsletter written by an analyst of the stock market and sold to subscribers
+106695035	a brief report (especially an official statement issued for immediate publication or broadcast)
+106695239	a short news announcement concerning some on-going news story
+106695428	a bulletin containing the latest information
+106695539	an official report (usually sent in haste)
+106695697	a story that appears mysteriously and spreads spontaneously in various forms and is usually false; contains elements of humor or horror and is popularly believed to be true
+106695928	a news report that is reported first by one news organization
+106696104	a broadcast of news or commentary on the news
+106696258	a radio broadcast of news
+106696340	a broadcast of sports news or commentary
+106696437	a television broadcast of news
+106696529	the news as presented by reporters for newspapers or radio or television
+106696797	news that deals with serious topics or events
+106696898	news that does not deal with serious topics or events
+106697007	late news that is inserted into the newspaper at the last minute
+106697128	a message that makes a pledge
+106697317	a commitment to tell the truth (especially in a court of law); to lie under oath is to become subject to prosecution for perjury
+106697543	(religion) a solemn declaration that serves the same purpose as an oath (if an oath is objectionable to the person on religious or ethical grounds)
+106697785	affirmation of acceptance of some religion or faith
+106697943	the imparting of news or promises etc.
+106698201	a written assurance that some product or service will be provided or will meet certain specifications
+106698499	a guarantee that an obligation will be met
+106698605	a payment given as a guarantee that an obligation will be met
+106698720	a written certificate that gives the holder the right to purchase shares of a stock for a specified price within a specified period of time
+106698919	an unconditional commitment that something will happen or that something is true
+106699212	a guarantee of professional or financial security
+106699318	a guarantee to pay interest and principal on debt; usually issued by the United States Treasury
+106699481	a message expressing a favorable opinion
+106699923	official recognition or approval
+106700103	formal and explicit approval
+106700446	an endorsement
+106700628	an endorsement made in a passport that allows the bearer to enter the country issuing it
+106700804	the phrase used by the official censor of the Roman Catholic Church to say that a publication has been examined and contains nothing offensive to the church
+106701019	approval
+106701267	a recognition of meritorious service
+106701496	enthusiastic recognition (especially one accompanied by loud applause)
+106701658	an act of honor or courteous recognition
+106701870	(law) tacit approval of someone's wrongdoing
+106702042	approval to do something
+106702299	permission to proceed because obstacles have been removed
+106702412	permission to do something
+106702574	permission to go; the sending away of someone
+106702693	permission to proceed with a project or to take action
+106702859	permission to do something
+106702971	a permit to enter or leave a military installation
+106703153	a document indicating permission to do something without restrictions
+106703392	a pass that allows you to board a ship or plane
+106703515	written permission from a teacher for a student to be out the classroom and in the halls of the school
+106703673	a permit formerly given to convicts allowing them to leave prison under specific restrictions
+106703828	any authorization to pass or go somewhere
+106704012	a document or escort providing safe passage through a region especially in time of war
+106704187	the expression of approval and support
+106704429	enthusiastic approval
+106704734	a demonstration of approval by clapping the hands together
+106704983	a round of applause to signify approval
+106705114	a clap of the hands to indicate approval
+106705209	an outburst of applause
+106705317	a cry or shout of approval
+106705485	a Japanese cheer of enthusiasm or triumph
+106705579	a cry of approval as from an audience at the end of great performance
+106705718	a victory cheer
+106705831	a sudden outburst of cheers
+106705943	an expression of approval and commendation
+106706247	offering words of homage as an act of worship
+106706400	a shout or song of praise to God
+106706489	an extravagantly enthusiastic review
+106706615	an exaggerated expression (usually of praise)
+106706894	a formal expression of praise
+106707104	a formal expression of praise for someone who has died recently
+106707285	something that recommends (or expresses commendation of) a person or thing as worthy or desirable
+106707541	a formal recommendation by a former employer to a potential future employer describing the person's qualifications and dependability
+106707855	exaggerated praise (as for promotional purposes)
+106707972	a remark (or act) expressing praise and admiration
+106708169	a compliment that I heard about you that I offer to trade for a compliment you have heard about me
+106708324	excessive or insincere praise
+106708498	servile flattery; exaggerated and hypocritical praise
+106708607	flattery intended to persuade
+106708770	flattery designed to gain favor
+106708926	a flattering commendation (especially when used for promotional purposes)
+106709053	excessive but superficial compliments given with affected charm
+106709228	a tangible symbol signifying approval or distinction
+106709754	(Judaism) the honor of being called up to the reading desk in the synagogue to read from the Torah
+106709958	something given or done as an expression of esteem
+106710094	an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study
+106710466	a degree granted by a two-year college on successful completion of the undergraduates course of studies
+106710698	an associate degree in arts
+106710794	an associate degree in applied science
+106710913	an associate degree in nursing
+106711015	an academic degree conferred on someone who has successfully completed undergraduate studies
+106711403	a bachelor's degree in arts and sciences
+106711538	a bachelor's degree in library science
+106711665	a bachelor's degree in nursing
+106711775	a bachelor's degree in religion
+106711878	a bachelor's degree in literature
+106711988	(a British degree) a bachelor's degree in medicine
+106712129	a bachelor's degree in music
+106712228	a bachelor's degree in naval science
+106712342	a bachelor's degree in science
+106712448	a bachelor's degree in architecture
+106712574	a bachelor's degree in engineering
+106712689	a bachelor's degree in theology
+106712793	a university degree with honors
+106712932	an honours degree of the highest class
+106713088	a first-class honours degree in two subjects
+106713210	an academic degree higher than a bachelor's degree but lower than a doctor's degree
+106713607	a degree granted for the successful completion of advanced study of architecture
+106713764	a master's degree in arts and sciences
+106713891	a master's degree in library science
+106714014	a master's degree in teaching
+106714122	a master's degree in business
+106714258	a master's degree in religion
+106714359	a master's degree in education
+106714461	a master's degree in fine arts
+106714563	a master's degree in literature
+106714669	a master's degree in library science
+106714783	a master's degree in questions of public concern
+106714902	a master's degree in science
+106715010	a master's degree in engineering
+106715121	a master's degree in theology
+106715221	one of the highest earned academic degrees conferred by a university
+106715651	a doctor's degree in dental medicine
+106715765	a doctor's degree in dental surgery
+106715877	a doctor's degree in religion
+106715976	a doctor's degree in education
+106716084	a doctor's degree in medicine
+106716183	a doctor's degree in music
+106716285	a doctor's degree in musical arts
+106716395	a doctor's degree in optometry
+106716496	doctor's degree in osteopathy
+106716597	a doctor's degree with a special disciplinary focus
+106716716	a doctorate awarded for original contributions to knowledge
+106716878	a doctorate usually based on at least 3 years graduate study and a dissertation; the highest degree awarded graduate study
+106717058	a British doctorate
+106717129	a doctor's degree in preventive medicine
+106717245	a doctor's degree in theology
+106717345	a doctor's degree in theology
+106717503	degree conferred on someone who successfully completes law school
+106717661	a three-year law degree
+106717753	an advanced law degree
+106717842	a degree conferred to honor the recipient
+106718069	an honorary arts degree
+106718161	an honorary degree in fine arts
+106718258	an honorary degree in letters
+106718358	an honorary degree in the humanities
+106718461	an honorary law degree
+106718550	an honorary degree in science
+106718654	the award given to the champion
+106718747	an indication of approved or superior status
+106718888	an official award (as for bravery or service) usually given as formal public statement
+106719080	an honor awarded to someone in recognition of achievement or superiority
+106719256	an official recognition of merit
+106719443	an award earned by participation in a school sport
+106719615	an award for winning a championship or commemorating some other event
+106720117	the highest U.S. military decoration awarded for bravery and valor in action above and beyond the call of duty'
+106720321	a United States military decoration for meritorious service in wartime duty of great responsibility
+106720494	a United States Army decoration for extraordinary heroism against an armed enemy
+106720648	a United States Navy decoration for extraordinary heroism against an armed enemy
+106720785	a United States Air Force decoration for heroism while participating in an aerial flight
+106720946	a United States Air Force decoration for meritorious achievement while participating in an aerial flight
+106721106	a United States military decoration for gallantry in action
+106721243	a United States military decoration awarded for meritorious service (except in aerial flight)
+106721414	a United States military decoration awarded to any member of the armed forces who is wounded in action
+106721603	a United States military decoration consisting of bronze or silver oak leaves and acorns awarded to anyone who has won a given medal before
+106721805	a British military decoration for gallantry
+106721909	a British military decoration for distinguished conduct in the field
+106722051	a British military decoration for special service in action
+106722184	a French military decoration for gallantry
+106722288	a French military decoration
+106722381	an award for success in war or hunting
+106722472	the expression of disapproval
+106722631	an expression of strong disapproval; pronouncing as wrong or morally culpable
+106722937	harsh criticism or disapproval
+106723091	to represent as diabolically evil
+106723269	an ecclesiastical censure by the Roman Catholic Church withdrawing certain sacraments and Christian burial from a person or all persons in a particular district
+106723485	disapproval expressed by pointing out faults or shortcomings
+106723899	blunt criticism
+106723969	persistent petty and unjustified criticism
+106724098	intense adverse criticism
+106724343	verbal criticism
+106724478	criticism aimed at an easy target and made without careful consideration
+106724644	a vigorous and unrestrained response
+106724794	an act or expression of criticism and censure
+106725264	a moralistic rebuke
+106725437	a severely critical attack
+106725564	angry criticism
+106725700	severe criticism
+106725772	rebuking a person harshly
+106725965	a strong reprimand
+106726038	British slang for a scolding
+106726126	a severe scolding
+106726316	a severe rebuke
+106726451	a mild rebuke or criticism
+106726589	the act of blaming yourself
+106726691	a reproach for some lapse or misdeed
+106726869	a lengthy rebuke
+106727123	a private lecture to a husband by his wife
+106727227	a rebuke for making a mistake
+106727359	a firm rebuke
+106727491	(often used with pay') a formal expression of esteem
+106727636	remark made spontaneously without prior preparation
+106727813	a courteous or respectful or considerate remark
+106727915	an expression of lack of respect
+106728162	a rude expression intended to offend or hurt
+106728577	contemptuous laughter
+106728725	language or behavior intended to mock or humiliate
+106728866	open disrespect for a person or thing
+106729056	contempt expressed by mockery in looks or words
+106729173	showing your contempt by derision
+106729422	a facial expression of contempt or scorn; the upper lip curls
+106729614	a contemptuous or scornful remark
+106729735	a crushing remark
+106729931	derision of someone or something as foolish or absurd or inconsistent
+106730109	a communication that belittles somebody or something
+106731113	disparagement of a plan or hope or expectation
+106731278	a belittling comment
+106731387	a disparaging remark
+106731706	a slur on someone's race or language
+106731952	a petty disparagement
+106732048	disparagement of something that is unattainable
+106732153	a communication that indicates lack of respect by patronizing the recipient
+106732328	a false accusation of an offense or a malicious misrepresentation of someone's words or actions
+106732723	an attack intended to ruin someone's reputation
+106732886	slanderous remarks or charges
+106732965	slanderous defamation
+106733120	a false and malicious publication printed for the purpose of defaming a living person
+106733349	words falsely spoken that damage the reputation of another
+106733533	verbal abuse; a crude substitute for argument
+106733713	a defamatory or abusive word or phrase
+106733830	an epithet that can be used to smear someone's reputation
+106734018	unscrupulous abuse
+106734091	foul-mouthed or obscene abuse
+106734210	a remark capable of wounding mentally
+106734353	abusive or venomous language used to express blame or censure or bitter deep-seated ill will
+106734562	an impudent statement
+106734698	an impudent or insolent rejoinder
+106734935	a message (spoken or written) that is introduced or inserted
+106735202	a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc
+106736201	a nonverbal message
+106736384	a statement that is added to or revises or improves a proposal or document (a bill or constitution etc.)
+106736657	a statement regarded as an object
+106736815	a true statement
+106737072	an unquestionable truth
+106737186	a contradiction between two statements that seem equally reasonable
+106737308	(logic) a statement that contradicts itself
+106737512	a statement that represents something in words
+106737691	description of the responsibilities associated with a given job
+106737816	a detailed description of design criteria for a piece of work
+106737998	the art of assembling logical elements into a computing device; the specification of the relation between parts of a computer system
+106738216	computer architecture in which processors are connected in a manner suggestive of connections between neurons; can learn by trial and error
+106738429	specification of design principles (including data formats and procedures) for creating a network configuration of data processors
+106738626	a statement that is emphatic and explicit (spoken or written)
+106738907	a formal public statement
+106739227	declaring or rendering bastard
+106739420	a formal or authoritative proclamation
+106739510	a formal proclamation issued by the pope (usually written in antiquated characters and sealed with a leaden bulla)
+106739688	the official announcement of a new law or ordinance whereby the law or ordinance is put into effect
+106739882	a public declaration of your faith
+106739973	a public declaration of intentions (as issued by a political party or government)
+106740165	a socialist manifesto written by Marx and Engels (1842) describing the history of the working-class movement according to their views
+106740365	an authoritative declaration
+106740507	a statement of fundamental rights and privileges (especially the first ten amendments to the United States Constitution)
+106740783	an amendment to the Constitution of the United States guaranteeing the right of free expression; includes freedom of assembly and freedom of the press and freedom of religion and freedom of speech
+106741080	an amendment to the Constitution of the United States that imposes restrictions on the government's prosecution of persons accused of crimes; mandates due process of law and prohibits self-incrimination and double jeopardy; requires just compensation if private property is taken for public use
+106741475	an amendment to the Constitution of the United States adopted in 1868; extends the guarantees of the Bill of Rights to the states as well as to the federal government
+106741747	an amendment to the Constitution of the United States adopted in 1920; prohibited the manufacture and sale of alcoholic beverages; repealed in 1932
+106742000	an amendment to the Constitution of the United States adopted in 1920; guarantees that no state can deny the right to vote on the basis of sex
+106742248	a declaration that is made emphatically (as if no supporting evidence were necessary)
+106742613	an assertion of a right (as to money or property)
+106742817	a claim sufficient to demand judicial attention; the facts that give rise to right of action
+106742990	a claim of rights
+106743120	the advancing of a claim
+106743312	an assertion that something is true or factual
+106743529	an assertion that someone is guilty of a fault or offence
+106743818	a charge brought by an accused person against the accuser
+106743935	statements affirming or denying certain matters of fact that you are prepared to prove
+106744127	a point asserted as part of an argument
+106744259	(law) a contention presented by a lawyer to a judge or jury as part of the case he is arguing
+106744446	an unsupported dogmatic assertion
+106744551	a group of symbols that make a mathematical statement
+106744762	a conventionalized statement expressing some fundamental principle
+106744918	a statement of a mathematical relation
+106745099	a statement asserting the existence or the truth of something
+106745330	renewed affirmation
+106745459	an assertion offering firsthand authentication of a fact
+106745674	an open avowal (true or false) of some belief or opinion
+106745868	a strong declaration of protest
+106745976	(logic) a declaration of something self-evident; something that can be assumed as the basis for argument
+106746225	declaration of an intention or a determination to inflict harm on another
+106746431	a threat of divine punishment or vengeance
+106746531	a threat or the act of threatening
+106746688	(law) all the means by which any alleged matter of fact whose truth is investigated at judicial trial is established or disproved
+106747071	an object or statement produced before a court of law and referred to while giving evidence
+106747216	a solemn statement made under oath
+106747451	testimony by word or deed to your religious faith
+106747572	the body of evidence that constitute the offence; the objective proof that a crime has been committed (sometimes mistakenly thought to refer to the body of a homicide victim)
+106747826	evidence (usually the testimony of a witness) directly related to the fact in dispute
+106748010	rule of evidence that covers words that are so closely associated with an occurrence that the words are considered part of the occurrence and as such their report does not violate the hearsay rule
+106748282	evidence providing only a basis for inference about the fact in dispute
+106748480	additional evidence or evidence of different kind that supports a proof already offered in a proceeding
+106748671	evidence based on what someone has told the witness and not of direct knowledge
+106748832	evidence for the prosecution in criminal proceedings
+106748966	(law) unsworn statement that can be admitted in evidence in a legal transaction
+106749154	the action of bearing witness
+106749278	written declaration made under oath; a written statement sworn to be true before someone legally authorized to administer an oath
+106749518	(law) an affidavit attached to a statement confirming the truth of that statement
+106749695	perjured testimony that someone was persuaded to give
+106749861	(bridge) the number of tricks a bridge player is willing to contract to make
+106750143	(contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make
+106750377	(bridge) a bid that asks your partner to bid another suit
+106750507	(bridge) a bid that is higher than your opponent's bid (especially when your partner has not bid at all and your bid exceeds the value of your hand)
+106750757	a high bid that is intended to prevent the opposing players from bidding
+106750911	a brief statement
+106751030	a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.
+106751572	(logic) a statement of something (a fact or thing or expression) to be explained
+106751762	(logic) statements that explain the explicandum; the explanatory premises
+106751929	an explanation that omits superfluous details and reduces complexity
+106752094	a simplification that goes too far (to the point of misrepresentation)
+106752258	a convincing explanation that reveals basic causes
+106752425	a statement of the desirability of something
+106752531	a statement of facts and reasons made in appealing or protesting
+106752739	an explanation of the cause of some phenomenon
+106752932	a statement in explanation of some action or belief
+106753097	a justification for something existing or happening
+106753339	the justification for some act or belief
+106753614	a formal written defense of something you believe in strongly
+106753794	(law) a defense by an accused person purporting to show that he or she could not have committed the crime in question
+106754000	a defense of some offensive behavior or some failure to keep a promise etc.
+106754423	a partial excuse to mitigate censure; an attempt to represent an offense as less serious than it appears by showing mitigating circumstances
+106754688	(music) the section of a movement (especially in sonata form) where the major musical themes first occur
+106754868	an account that sets forth the meaning or intent of a writing or discourse
+106755121	a systematic interpretation or explanation (usually written) of a specific topic
+106755325	an interpretation of the meaning of something; the act of construing
+106755467	the exposition (often superficially) of a particular philosophy
+106755627	indulgence in moral pronouncements; the exposition (often superficially) of a particular moral code
+106755925	moralization delivered tediously in a preachy manner
+106756057	a detailed explanation of the meaning of something
+106756201	a statement that solves a problem or explains how to solve the problem
+106756562	the final resolution of the main complication of a literary or dramatic work
+106756695	an explanation or definition of an obscure word in a text
+106756849	(historical linguistics) an explanation of the historical origins of a word or phrase
+106757091	a concise explanation of the meaning of a word or phrase or symbol
+106757358	a definition in which the term is used by embedding it in a larger expression containing its explanation
+106757710	a definition that reports the standard uses of a word or phrase or symbol
+106757851	a definition that gives an exact equivalent of the term defined
+106757980	a definition that points out or exhibits instances of the term defined
+106758117	(mathematics) a definition of a function from which values of the function can be calculated in a finite number of steps
+106758323	the act of giving a new definition
+106758556	a definition that is stipulated by someone and that is not a standard usage
+106758700	a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation
+106759060	a reply by a Pope to an inquiry concerning a point of law or morality
+106759184	response to an inquiry or experiment
+106759293	a public statement containing information about an event that has happened or is going to happen
+106759721	an announcement that usually advises or warns the public of some threat
+106759903	(Christianity) the announcement to the Virgin Mary by the angel Gabriel of the incarnation of Christ
+106760082	a public announcement of a proposed marriage
+106760197	an announcement distributed to members of the press in order to supplement or replace an oral presentation
+106760383	an announcement containing information about an event
+106760621	(law) a formal notice filed with a court or officer to suspend a proceeding until filer is given a hearing
+106760847	a notice of someone's death; usually includes a short biography
+106760984	a collection of biographies of famous pairs of Greeks and Romans written by Plutarch; used by Shakespeare in writing some of his plays
+106761180	an announcement of the events that will occur as part of a theatrical or sporting event
+106761417	a theatrical program
+106761555	a program for a race meeting; lists the races and the names of the horses
+106761683	a statement made about the future
+106761981	the prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe
+106762182	the practice of predicting people's futures (usually for payment)
+106762308	a prediction of someone's future based on the relative positions of the planets
+106762443	predicting what the weather will be
+106762595	a prediction about how something (as the weather) will develop
+106762868	a prediction uttered under divine inspiration
+106763053	a prophecy (usually obscure or allegorical) revealed by a priest or priestess; believed to be infallible
+106763228	a forecast of the expected financial position and the results of operations and cash flows based on expected conditions
+106763412	a forecast of the weather
+106763518	(logic) a statement that affirms or denies something and is either true or false
+106763856	(logic) a proposition that asserts something about some (but not all) members of a class
+106764081	(logic) a proposition that asserts something of all members of a class
+106764286	(logic) a proposition that is true if and only if another proposition is false
+106764456	a proposition obtained by conversion
+106764547	a subsidiary proposition that is assumed to be true in order to prove another proposition
+106764688	one of the substantive phrases in a logical proposition
+106765007	a proposition deducible from basic postulates
+106765124	a categorematic expression; a term capable of standing alone as the subject or predicate of a logical proposition
+106765409	a syncategorematic expression; a word that cannot be used alone as a term in a logical proposition
+106765744	the proposition arrived at by logical reasoning (such as the proposition that must follow from the major and minor premises of a syllogism)
+106766013	(logic) a proposition that is accepted as true in order to provide a basis for logical reasoning
+106766264	(logic) a proposition that is not susceptible of proof or disproof; its truth is assumed to be self-evident
+106766514	a statement that is assumed to be true and from which a conclusion can be drawn
+106766895	the premise of a syllogism that contains the major term (which is the predicate of the conclusion)
+106767126	the premise of a syllogism that contains the minor term (which is the subject of the conclusion)
+106767369	the term in a syllogism that is the predicate of the conclusion
+106767527	the term in a syllogism that is the subject of the conclusion
+106767683	the term in a syllogism that is common to both premises and excluded from the conclusion
+106767867	an argument that appears good at first view but is really fallacious
+106768053	an argument that assumes that which is to be proved
+106768165	an unproved statement put forward as a premise in an argument
+106768279	an assumption on which rests the validity or effect of something else
+106768487	(mathematics) a condition specified for the solution to a set of differential equations
+106768658	a stipulated condition
+106768822	a postulated sequence of possible events
+106768978	a statement of the current market price of a security or commodity
+106769118	a false statement
+106769391	a statement that evades the question by cleverness or trickery
+106769542	a statement that deviates from or perverts the truth
+106769768	a trivial lie
+106770000	an interesting but highly implausible story; often told as an excuse
+106770190	(law) a false boast that can harm others; especially a false claim to be married to someone (formerly actionable at law)
+106770387	a gross untruth; a blatant lie
+106770482	an unimportant lie (especially one told to be tactful or polite)
+106770602	a deliberately false or improbable account
+106770846	a deliberately misleading fabrication
+106770936	a misleading falsehood
+106771295	a partially true statement intended to deceive or mislead
+106771409	a showy misrepresentation intended to conceal something unpleasant
+106771546	making to seem more important than it really is
+106771774	a statement that is restrained in ironic contrast to what might have been said
+106771967	a long and elaborate misrepresentation
+106772060	pretending with intention to deceive
+106772313	pretense that your position is stronger than it really is
+106772487	something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason
+106772685	a pretext for delay or inaction
+106772787	an expression of agreement that is not supported by real conviction
+106772960	a hypocritical display of sorrow; false or insincere weeping
+106773219	something intended to misrepresent the true nature of an activity
+106773433	verbal misrepresentation intended to take advantage of you in some way
+106773680	a fraudulent or duplicitous representation
+106773810	a statement that is not literally false but that cleverly avoids an unpleasant truth
+106774053	an indirect way of expressing something
+106774193	any language that pretends to communicate but actually does not
+106774314	an intentionally noncommittal or ambiguous statement
+106774509	an evasion of the point of an argument by raising irrelevant distinctions or objections
+106774705	the part of a contract that contains reservations and qualifications that are often printed in small type
+106774956	an equivocal qualification; a word used to avoid making an outright assertion
+106775091	a statement that limits or restricts some claim
+106775313	a statement made with careful qualifications
+106775422	a written explanation or criticism or illustration that is added to a book or other textual material
+106775763	(Judaism) an ancient commentary on part of the Hebrew scriptures that is based on Jewish methods of interpretation and attached to the biblical text
+106775984	a comment or instruction (usually added)
+106776392	a short note recognizing a source of information or of a quoted passage
+106776955	a printed note placed below the text on a printed page
+106777091	a Latin phrase (or its abbreviation) used to indicate that special attention should be paid to something
+106777334	a note appended to a letter after the signature
+106777462	a note acknowledging the source of a published photograph
+106777578	a reference at one place in a work to information at another place in the same work
+106777755	a statement that expresses a personal opinion or belief or adds information
+106778322	an opening remark intended to secure an advantage for the speaker
+106778447	(Islam) a legal opinion or ruling issued by an Islamic scholar
+106778678	an opinion voiced by a judge on a point of law not directly bearing on the case in question and therefore not binding
+106778883	an incidental remark
+106778981	a remark that calls attention to something or someone
+106779335	passing reference or indirect mention
+106779445	reference to things past
+106779603	the practice of casually mentioning important people in order to impress your listener
+106779826	a remark expressing careful consideration
+106780078	C. Northcote Parkinson's cynical observation that the number of subordinates in an organization will increase linearly regardless of the amount of work to be done
+106780303	C. Northcote Parkinson's cynical observation that work will expand so as to fill the time available for its completion
+106780484	a teasing remark
+106780568	witty remark
+106780713	an aggressive remark directed at a person like a missile and intended to have a telling effect
+106781050	an unnecessarily aggressive and unfair remark directed at a defenseless person
+106781185	a remark to which there is no polite conversational reply
+106781319	a statement that is formulated as a question but that is not supposed to be answered
+106781526	a statement that contains a mistake
+106781692	a revised statement
+106781823	the restatement of a message (as a religious one) in rational terms
+106782029	the restatement of a message as a myth
+106782183	part of a statement that is not correct
+106782369	a printer's error; to be corrected
+106782461	a mistake in printed matter resulting from mechanical failures of some kind
+106782674	the unintentional misuse of a word by confusion with one that sounds similar
+106782819	an accidental and usually trivial mistake in speaking
+106782955	transposition of initial consonants in a pair of words
+106783066	the statement (oral or written) of an exchange of promises
+106783666	(usually plural) a statement of what is required as part of an agreement
+106783960	an agreement between parties (usually arrived at after discussion) fixing obligations of each
+106784225	an informal agreement to work together
+106784327	a personal agreement based on honor and not legally binding
+106784454	a legal document summarizing the agreement between parties
+106784758	an agreement between parties in a dispute to abide by the decision of an arbiter
+106784895	a legal document summarizing an agreement between parties in a dispute to abide by the decision of an arbiter
+106785061	a signed written agreement between two or more parties (nations) to perform some action
+106785262	a friendly understanding between political powers
+106785384	an agreement that is not in writing and is not signed by the parties but is a real existing contract that lacks only the formal requirement of a memorandum to render it enforceable in litigation
+106785638	a contract binding one party into the service of another for a specified term
+106785807	formal agreement between the issuer of bonds and the bondholders as to terms of the debt
+106785951	a legal agreement specifying a payment or action and the penalty for failure to comply
+106786148	an obligation to pay or do something
+106786235	a written agreement between two states or sovereigns
+106786485	a formal agreement establishing an association or alliance between nations or other groups to achieve a particular aim
+106786658	a treaty governing commerce between two or more nations
+106786777	a treaty to cease hostilities
+106786993	the peace treaty that ended the Thirty Years' War in 1648
+106787117	(diplomacy) an international agreement
+106787269	a global treaty banning the production or acquisition or stockpiling or transfer or use of chemical weapons
+106787451	an agreement first drawn up in Geneva in 1864 and later revised concerning the treatment of captured and wounded military personnel and civilians in wartime
+106787672	the agreement signed in the Lateran Palace in 1929 by Italy and the Holy See which recognized the Vatican City as a sovereign and independent papal state
+106787887	the treaty signed in 1949 by 12 countries that established NATO
+106788019	the first treaty between the United States and the Union of Soviet Socialist Republics resulting from the Strategic Arms Limitation Talks
+106788210	the second treaty between the United States and the Union of Soviet Socialist Republics resulting from the Strategic Arms Limitation Talks
+106788403	the treaty imposed on Germany by the Allied powers in 1920 after the end of World War I which demanded exorbitant reparations from the Germans
+106788613	the excessive expression of tender feelings, nostalgia, or sadness in any form
+106788770	writing or music that is excessively sweet and sentimental
+106788939	a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter
+106789518	a witty comment or writing
+106789622	a clever remark
+106789716	a witty remark that occurs to you too late
+106789825	wit having a sharp and caustic quality
+106790003	witty language used to convey insults or scorn
+106790526	adroitness and cleverness in reply
+106790633	light teasing repartee
+106790800	frivolous banter
+106790871	light teasing
+106790941	a humorous anecdote or remark intended to provoke laughter
+106791616	the point of a joke or humorous story
+106791764	a joke that seems extremely funny
+106791935	an indelicate joke
+106792049	a joke at the expense of some ethnic group
+106792149	an account of an amusing incident (usually with a punch line)
+106792350	a joke that is appreciated only by members of some particular group of people
+106792481	a one-line joke
+106792552	a long rambling joke whose humor derives from its pointlessness
+106792678	a joke in bad taste
+106792753	a joke whose effect is achieved by visual means rather than by speech (as in a movie)
+106792908	a representation of a person that is exaggerated for comic effect
+106793148	a composition that imitates or misrepresents somebody's style, usually in a humorous way
+106793517	a humorous or satirical drawing published in a newspaper or magazine
+106793739	verbal wit or mockery (often at another's expense but not to be taken seriously)
+106794008	fun characterized by humor
+106794138	waggish behavior
+106794240	a comic incident or series of incidents
+106794438	a humorous play on words
+106794668	ribald humor
+106794735	an exceedingly good witticism that surpasses all that have gone before
+106794876	a message expressing a belief about something; the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof
+106795240	an opinion concerning financial statements (usually based on an audit by a CPA) that the statements as a whole do not present results fairly or are not in conformity with the generally accepted accounting practices of the United States
+106795537	a message expressing an opinion based on incomplete evidence
+106796012	successful conjecture by unusual insight or good luck
+106796122	an opinion that is held in opposition to another in an argument or dispute
+106796299	an imprecise or incomplete account
+106796455	a statement indicating the likely cost of some job
+106796625	the subject matter at issue
+106796860	a question raised for consideration or solution
+106797174	a disputed factual contention that is generally left for a jury to decide
+106797327	a disputed legal contention that is generally left for a judge to decide
+106797496	a particularly baffling problem that is said to have a correct solution
+106797823	a problem requiring investigation
+106797958	a problem that students are assigned to do outside of class
+106798080	a difficult problem
+106798224	a particularly difficult or baffling question or problem
+106798398	any very difficult problem; insoluble in its own terms
+106798511	a puzzle in which words corresponding to numbered clues are to be found and written in to squares in the puzzle
+106798697	a paradoxical anecdote or a riddle that has no solution; used in Zen Buddhism to show the inadequacy of logical reasoning
+106798869	a number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number
+106799066	a puzzle where you fill a square grid with words reading the same down as across
+106799215	a problem that severely tests the ability of an inexperienced person
+106799343	a puzzle where you decode a message consisting of pictures representing syllables and words
+106799486	a message describing how something is to be done
+106799894	incorrect directions or instructions
+106800007	written directions for finding some location; written on letters or packages that are to be delivered to that location
+106800286	the address of the sender of a letter or parcel indicating where it should be returned if it cannot be delivered
+106800459	detailed stylistic instructions for typesetting something that is to be printed; manual markup is usually written on the copy (e.g. underlining words that are to be set in italics)
+106800692	a set of symbols and rules for their use when doing a markup of a document
+106800864	(computer science) a standardized language for the descriptive markup of documents; a set of rules for using whatever markup vocabulary is adopted
+106801119	a set of tags and rules (conforming to SGML) for using them in developing hypertext documents
+106801320	the nomenclature of regional anatomy
+106801422	directions prescribed beforehand; the action of prescribing authoritative rules or directions
+106801642	directions for making something
+106801754	directions that define the way a game or sport is to be conducted
+106801937	an instruction written as part of the script of a play
+106802072	editorial directions to be followed in spelling and punctuation and capitalization and typographical display
+106802268	the written body of teachings of a religious group that are generally accepted by that group
+106802658	a Buddhist and Hindu and especially Jainist doctrine holding that all forms of life are sacred and urging the avoidance of violence
+106802899	a religious doctrine that is proclaimed as true without proof
+106803092	(Christianity) the doctrine of the ecumenical movement that promotes cooperation and better understanding among different religious denominations: aimed at universal Christian unity
+106803414	(Christianity) the Roman Catholic dogma that God preserved the Virgin Mary from any stain of original sin from the moment she was conceived
+106803702	(Christianity) the Christian doctrine of the union of God and man in the person of Jesus Christ
+106803874	(Christianity) a formal creed summarizing Christian beliefs; first adopted in 325 and later expanded
+106804052	(Christianity) the Christian doctrine that the body of Christ is actually present in the Eucharist
+106804229	any nonverbal action or gesture that encodes a message
+106805045	a signal to begin (as in a race)
+106805221	a signal announcing the approach of a storm (particularly a storm of marked violence)
+106805383	a canvas cone hoisted to warn of high winds
+106805502	a signal transmitted along a narrow path; guides airplane pilots in darkness or bad weather
+106805675	a file of memoranda or notices that remind of things to be done
+106805807	system of signalling by hand signs used by bookmakers at racetracks
+106805948	a signal (especially electronic or by radio) indicating the precisely correct time
+106806088	a public display of a message
+106806283	a sign posted in a public place as an advertisement
+106806674	a poster advertising a show or play
+106806816	a card with words or numbers or pictures that is flashed to a class by the teacher
+106806967	a sign visible from the street
+106807073	a sign in front of a house or business carrying the conventional form by which its location is described
+106807231	a post bearing a sign that gives directions or shows the way
+106807394	a guidepost resembling a hand with a pointing index finger
+106807523	a symbol of disgrace or infamy
+106807837	a mark against a person for misconduct or failure; usually given in school or armed forces
+106808025	a corner of a page turned down to mark your place
+106808147	a mark of bastardy; lines from top right to bottom left
+106808295	identification mark on the ear of a domestic animal
+106808400	identification mark on skin, made by burning
+106808514	the mark of Satan
+106808603	an individual instance of a type of symbol
+106808825	all of the tokens of the same symbol
+106808977	a small adhesive token stuck on a letter or package to indicate that that postal fees have been paid
+106809191	a token resembling a stamp given by a retailer to a buyer; the token is redeemable for articles on a special list
+106809364	communication between animals (of the same species)
+106809500	the characteristic sound produced by a bird
+106809800	a birdcall that resembles the tone of a bell
+106809905	a birdcall having two notes
+106810027	something that serves to indicate or suggest
+106810529	(medicine) a reason to prescribe a drug or perform a procedure
+106810805	(medicine) a reason that makes it inadvisable to prescribe a particular drug or employ a particular procedure or treatment
+106811045	anything that accompanies X and is regarded as an indication of X's existence
+106811194	a conspicuous indication
+106811330	indication by demonstration
+106811416	a manifest indication of the existence or presence or nature of some person or thing
+106811608	a visible indication made on a surface
+106812000	a mark on a coin that identifies the mint where it was produced
+106812118	a mark made on a surface by a pen, pencil, or paintbrush
+106812343	a stroke normally made in a downward direction
+106812446	a stroke normally made in an upward direction
+106812546	a short stroke
+106812612	a visible impression on a surface made by the hoof of an animal
+106812755	a mark that is long relative to its width
+106813202	a line made up of dots or dashes; often used to indicate where you are supposed to sign a contract
+106813390	(printing) the part of tall lowercase letters that extends above the other lowercase letters
+106813556	a vertical line before the accented beat marking the boundary between musical bars
+106813729	(printing) the part of lowercase letters that extends below the other lowercase letters
+106813891	a short twisting line
+106813996	an isolated component of a spectrum formed by radiation at a uniform frequency
+106814171	a line on a graph indicating a statistical trend
+106814276	a line drawn underneath (especially under written matter)
+106814438	a line drawn on a map connecting points of equal height
+106814598	a line connecting isometric points
+106814723	a line following the lowest points of a valley
+106814823	a line (as on a vessel or ruler) that marks a measurement
+106814996	a light line that is used in lettering to help align the letters
+106815116	a very thin line
+106815205	a very fine line in writing or printing
+106815302	a vague indication
+106815429	something that precedes and indicates the approach of something or someone
+106815643	a slight indication
+106815738	an indication of some hidden activity
+106815881	the warning signal that begins a period of preparation for an enemy air attack
+106816015	an automatic signal (usually a sound) warning of danger
+106816336	a loud warning signal produced by a burglar alarm
+106816494	an internationally recognized signal sent out by a ship or plane indicating that help is needed
+106816703	an internationally recognized distress signal in radio code
+106816812	an internationally recognized distress signal via radiotelephone (from the French m'aider)
+106816955	a signal (usually a siren) that danger is over
+106817057	a signal broadcast by the sound of a bugle
+106817246	a bugle call that signals troops to return
+106817341	(military) signal to turn the lights out
+106817464	a signal (usually a bell) announcing the start of curfew restrictions
+106817586	(military) signal to wake up
+106817705	(military) a bugle call signaling the lowering of the flag at sunset
+106817846	(military) a signal to begin a withdrawal from a dangerous position
+106817986	(military) the beating of a drum as a signal for lowering the flag at sundown
+106818155	disclosing information or giving evidence about another
+106818355	a drumbeat or bugle call that signals the military to return to their quarters
+106818523	a signal transmitted by telegraphy
+106818684	the shorter of the two telegraphic signals used in Morse code
+106818820	the longer of the two telegraphic signals used in Morse code
+106818956	the act of signalling (e.g., summoning) by whistling or blowing a whistle
+106819176	a silent signal of warning or recognition
+106819327	an arbitrary sign (written or printed) that has acquired a conventional significance
+106819914	a symbol of inquisitiveness
+106820056	a symbol used to represent a number
+106820359	one of the symbols 1,2,3,4,5,6,7,8,9,0
+106820515	a symbol in the old Roman notation; I,V,X,L,C,D,M represent 1,5,10,50,100,500,1000 respectively in Arabic notation
+106820707	a system of symbols and symbolic representations
+106820829	two crossed bones (or a representation of two crossed bones) used as a symbol danger or death
+106820979	a goat's horn filled with grain and flowers and fruit symbolizing prosperity
+106821129	a human skull (or a representation of a human skull) used as a symbol of death
+106821266	the Hindu phallic symbol of Siva
+106821351	a technical system of symbols used to represent special things
+106821578	a notation used by mathematicians
+106821932	any notation for the representation of numbers
+106822149	an inspiring symbol or ideal that serves as a rallying point in a struggle
+106822279	a numeration system in which a real number is represented by an ordered set of characters where the value of a character depends on its position
+106822614	a symbol for a unit of currency (especially for the pound sterling in Great Britain)
+106822763	any notation that uses 2 characters (usually 0 and 1)
+106822878	a positional system of numeration that uses binary digits and a radix of two
+106823096	a positional system of numeration that uses octal digits and a radix of eight
+106823265	any notation that uses 10 different characters (usually the digits 0 to 9)
+106823402	any mathematical notation that uses 8 different characters (usually the digits 0 to 7)
+106823549	the Arabic (or decimal) system of numeration
+106823648	a positional system of numeration that uses decimal digits and a base of ten
+106823855	any notation that uses 12 different characters
+106823967	a positional system of numeration that uses duodecimal digits and a radix of twelve
+106824141	any notation that uses 16 different characters
+106824277	a positional system of numeration that uses hexadecimal digits and a radix of sixteen
+106824483	a character indicating a relation between quantities
+106824725	a sign indicating that the quantities on either side are equal
+106824844	a sign indicating the operation of addition
+106824943	a sign indicating the operation of subtraction
+106825046	a sign indicating the extraction of a root
+106825147	the dot at the left of a decimal fraction
+106825275	a mathematical notation indicating the number of times a quantity is multiplied by itself
+106825489	the exponent required to produce a given number
+106825652	the number of which a given number is the logarithm
+106825773	a logarithm to the base 10
+106825862	a logarithm to the base e
+106825973	the positive fractional part of the representation of a logarithm; in the expression log 643 = 2.808 the mantissa is .808
+106826168	the integer part (positive or negative) of the representation of a logarithm; in the expression log 643 = 2.808 the characteristic is 2
+106826364	a radix numeration system in which the location of the decimal point is fixed by convention
+106826558	a radix numeration system in which the location of the decimal point is indicated by an exponent of the radix; in the floating-point representation system, 0.0012 is represented as 0.12-2 where -2 is the exponent
+106826879	a notation for forming mathematical expressions using parentheses and governed by rules of operator precedence; operators are dispersed among the operands
+106827094	a notation for forming mathematical expressions that does not use parentheses to delimit components
+106827301	a parenthesis-free notation for forming mathematical expressions in which each operator precedes its operands
+106827513	a parenthesis-free notation for forming mathematical expressions in which each operator follows its operands
+106827728	(music) notation used by musicians
+106828316	a sheet containing the words and melody for a song (and some indication of harmony) written in simple form
+106828479	sheet music to be played on a piano
+106828572	a written form of a musical composition; parts for different instruments appear on separate staves on large pages
+106828828	a part of the score that must be performed without change or omission
+106828964	a musical composition in printed or written form
+106829193	a musical notation indicating the fingering to be used
+106829303	a notation used by choreographers
+106829413	a system of notation for dance movements that uses symbols to represent points on a dancer's body and the direction of the dancer's movement and the tempo and the dynamics
+106829643	a notation used by chemists to express technical facts in chemistry
+106829793	a representation of a substance using symbols for its constituent elements
+106830031	a chemical formula based on analysis and molecular weight
+106830170	an expanded molecular formula showing the arrangement of atoms within the molecule
+106830317	a chemical formula showing the ratio of elements in a compound rather than the total number of atoms
+106830481	a written or printed symbol
+106830640	a written or printed symbol (as for punctuation)
+106830979	a mark to indicate a direction or relation
+106831175	a mark shaped like an arrowhead; used to mark convicts' clothing
+106831297	a mark consisting of characters written on a book; used to indicate shelf location
+106831461	a mark used by an author or editor to indicate where something is to be inserted into a text
+106831605	a mark indicating that something has been noted or completed etc.
+106831828	a written symbol that is used to represent speech
+106832423	a variant form of a grapheme, as m' or M' or a handwritten version of that grapheme
+106832564	the information displayed or recorded on an electronic device
+106832690	a character that is added to the end of a block of transmitted data and used to check the accuracy of the transmission
+106832889	a character or symbol set or printed or written above and immediately to one side of another character
+106833078	a character or symbol set or printed or written beneath or slightly below and to the side of another character
+106833291	any member of the standard code for representing characters by binary numbers
+106833467	ASCII characters to indicate carriage return or tab or backspace; typed by depressing a key and the control key at the same time
+106833703	a control character that indicates moving a space to the left
+106833830	a mark added to a letter to indicate a special pronunciation
+106834163	a mark used to indicate the word above it should be repeated
+106834306	a mark ($) written before a number to indicate that it stands for the number of dollars
+106834465	a symbol of commercialism or greed
+106834654	a line that forms the length of an arrow pointer
+106834773	any written symbol standing for a sound or syllable or morpheme or word
+106834918	a V-shaped mark at one end of an arrow pointer
+106835082	a diacritical mark used to indicate stress or placed above a vowel to indicate a special pronunciation
+106835360	a mark indicating the stress on a syllable
+106835460	a mark placed above a vowel to indicate pronunciation
+106835587	a mark () placed above a vowel to indicate pronunciation
+106835711	a diacritical mark (U-shaped) placed over a vowel to indicate a short sound
+106835838	a diacritical mark (,) placed below the letter c to indicate that it is pronounced as an s
+106835982	a diacritical mark (^) placed above a vowel in some languages to indicate a special phonetic quality
+106836139	a diacritical mark (an inverted circumflex) placed above certain letters (such as the letter c) to indicate pronunciation
+106836320	a diacritical mark (-) placed above a vowel to indicate a long sound
+106836441	a diacritical mark (~) placed over the letter n in Spanish to indicate a palatal nasal sound or over a vowel in Portuguese to indicate nasalization
+106836640	a diacritical mark (two dots) placed over a vowel to indicate a change in sound in some languages
+106836790	a diacritical mark (two dots) placed over a vowel to indicate that it does not form a diphthong with an adjacent vowel
+106836975	character consisting of two or more letters combined into one
+106837091	a graphic symbol consisting of 2 or more letters combined (usually your initials); printed on stationery or embroidered on clothing
+106837277	one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis
+106837807	the characters that were once kept in bottom half of a compositor's type case
+106838005	a character having the form of an upper-case letter but the same height as lower-case letters
+106838170	printed characters
+106838323	a complete set of type suitable for printing text
+106838449	a specific size and style of type within a type family
+106838786	a script with a single case
+106838913	a script having two distinct cases
+106839046	a typeface is which each character is given the same width (as by a typewriter)
+106839264	any font whose different characters have different widths
+106839457	any font that is contained in a cartridge that can be plugged into a computer printer
+106839639	a heavy typeface in use from 15th to 18th centuries
+106839776	a typeface (based on an 18th century design by Gianbattista Bodoni) distinguished by regular shape and hairline serifs and heavy downstrokes
+106840024	a typeface (based on an 18th century design) distinguished by irregularity and slanted ascender serifs and little contrast between light and heavy strokes
+106840269	a typeface with thick heavy lines
+106840394	a typeface with letters slanting upward to the right
+106840553	a typeface used in ancient Roman inscriptions
+106840729	the font that is displayed on a computer screen
+106840997	a typeface in which characters have no serifs
+106841111	a short line at the end of the main strokes of a character
+106841249	a sign (%') used to indicate that the number preceding it should be understood as a proportion multiplied by 100
+106841439	a star-shaped character * used in printing
+106841579	a character used in printing to indicate a cross reference or footnote
+106841712	a character used in printing to indicate a cross reference or footnote
+106841868	the conventional characters of the alphabet used to represent speech
+106843611	a lowercase letter that has a part extending above other lowercase letters
+106843758	a lowercase letter that has a part extending below other lowercase letters
+106843888	two successive letters (especially two letters used to represent a single sound: sh' in shoe')
+106844047	the first letter of a word (especially a person's name)
+106844227	the 1st letter of the Roman alphabet
+106844334	the 2nd letter of the Roman alphabet
+106844441	the 3rd letter of the Roman alphabet
+106844548	the 4th letter of the Roman alphabet
+106844655	the 5th letter of the Roman alphabet
+106844762	the 6th letter of the Roman alphabet
+106844869	the 7th letter of the Roman alphabet
+106844976	the 8th letter of the Roman alphabet
+106845083	the 9th letter of the Roman alphabet
+106845190	the 10th letter of the Roman alphabet
+106845298	the 11th letter of the Roman alphabet
+106845406	the 12th letter of the Roman alphabet
+106845514	the 13th letter of the Roman alphabet
+106845622	the 14th letter of the Roman alphabet
+106845730	the 15th letter of the Roman alphabet
+106845838	the 16th letter of the Roman alphabet
+106845946	the 17th letter of the Roman alphabet
+106846054	the 18th letter of the Roman alphabet
+106846162	the 19th letter of the Roman alphabet
+106846270	the 20th letter of the Roman alphabet
+106846378	the 21st letter of the Roman alphabet
+106846486	the 22nd letter of the Roman alphabet
+106846594	the 23rd letter of the Roman alphabet
+106846713	the 24th letter of the Roman alphabet
+106846826	the 25th letter of the Roman alphabet
+106846940	the 26th letter of the Roman alphabet
+106847188	the 1st letter of the Greek alphabet
+106847295	the 2nd letter of the Greek alphabet
+106847401	the 3rd letter of the Greek alphabet
+106847508	the 4th letter of the Greek alphabet
+106847615	the 5th letter of the Greek alphabet
+106847724	the 6th letter of the Greek alphabet
+106847830	the 7th letter of the Greek alphabet
+106847935	the 8th letter of the Greek alphabet
+106848042	the 9th letter of the Greek alphabet
+106848148	the 10th letter of the Greek alphabet
+106848256	the 11th letter of the Greek alphabet
+106848365	the 12th letter of the Greek alphabet
+106848470	the 13th letter of the Greek alphabet
+106848575	the 14th letter of the Greek alphabet
+106848680	the 15th letter of the Greek alphabet
+106848790	the 16th letter of the Greek alphabet
+106848895	the 17th letter of the Greek alphabet
+106849001	the 18th letter of the Greek alphabet
+106849109	the 19th letter of the Greek alphabet
+106849215	the 20th letter of the Greek alphabet
+106849325	the 21st letter of the Greek alphabet
+106849431	the 22nd letter of the Greek alphabet
+106849543	the 23rd letter of the Greek alphabet
+106849649	the last (24th) letter of the Greek alphabet
+106849764	the 1st letter of the Hebrew alphabet
+106849872	the 2nd letter of the Hebrew alphabet
+106849979	the 3rd letter of the Hebrew alphabet
+106850087	the 4th letter of the Hebrew alphabet
+106850196	the 5th letter of the Hebrew alphabet
+106850301	the 6th letter of the Hebrew alphabet
+106850407	the 7th letter of the Hebrew alphabet
+106850515	the 8th letter of the Hebrew alphabet
+106850622	the 9th letter of the Hebrew alphabet
+106850729	the 10th letter of the Hebrew alphabet
+106850837	the 11th letter of the Hebrew alphabet
+106850945	the 12th letter of the Hebrew alphabet
+106851055	the 13th letter of the Hebrew alphabet
+106851162	the 14th letter of the Hebrew alphabet
+106851269	the 15th letter of the Hebrew alphabet
+106851379	the 16th letter of the Hebrew alphabet
+106851487	the 17th letter of the Hebrew alphabet
+106851593	the 18th letter of the Hebrew alphabet
+106851702	the 19th letter of the Hebrew alphabet
+106851810	the 20th letter of the Hebrew alphabet
+106851918	the 21st letter of the Hebrew alphabet
+106852025	the 22nd letter of the Hebrew alphabet
+106852133	the 23rd letter of the Hebrew alphabet
+106852240	a blank character used to separate successive words in writing or printing
+106852461	a letter that has two or more pronunciations
+106852687	a plain hand-drawn letter
+106852787	the letter A in red; Puritans required adulterers to wear it
+106852908	a written character used in phonetic transcription of represent a particular speech sound
+106853097	a character that is used to indicates a mathematical relation or operation
+106853237	any character from an ancient Germanic alphabet used in Scandinavia from the 3rd century to the Middle Ages
+106853492	a Germanic character of runic origin
+106853580	a graphic character used in picture writing
+106853698	a graphic character that indicates the meaning of a thing without indicating the sounds used to say it
+106853940	a single written symbol that represents an entire word or phrase without indicating its pronunciation
+106854209	a character conveying the lexical meaning of a logogram
+106854337	a shorthand character
+106854415	the marks used to clarify meaning by indicating separation of words into sentences and clauses and phrases
+106854923	a punctuation mark (&) used to represent conjunction (and)
+106855037	the mark (') used to indicate the omission of one or more letters from a printed word
+106855215	either of two punctuation marks ({ or }) used to enclose textual material
+106855340	either of two punctuation marks ([ or ]) used to enclose textual material
+106855502	either of two punctuation marks (<' or >') used in computer programming and sometimes used to enclose textual material
+106855710	a punctuation mark (:) used after a word introducing a series or an example or an explanation (or after the salutation of a business letter)
+106855902	a punctuation mark (,) used to indicate the separation of elements within the grammatical structure of a sentence
+106856067	a punctuation mark (!) used after an exclamation
+106856198	a punctuation mark (-) used between parts of a compound word or between the syllables of a word when the word is divided at the end of a line of text
+106856443	either of two punctuation marks (or) used to enclose textual material
+106856570	a punctuation mark (.) placed at the end of a declarative sentence to indicate a full stop or after abbreviations
+106856888	(usually plural) one of a series of points indicating that something has been omitted or that the sentence is incomplete
+106857090	a punctuation mark (?) placed at the end of a sentence to indicate a question
+106857249	a punctuation mark used to attribute the enclosed text to someone else
+106857477	a single quotation mark
+106857559	a pair of quotation marks
+106857644	the use of quotation marks to indicate that it is not the authors preferred terminology
+106857789	a punctuation mark (;') used to connect independent clauses; indicates a closer relation than does a period
+106857953	a punctuation mark (/) used to separate related items of information
+106858126	a punctuation mark used in text to indicate the omission of a word
+106858249	the name by which a corporation is identified
+106858353	strings of letters and numbers (separated by periods) that are used to name organizations and computers and addresses on the internet

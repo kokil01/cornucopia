@@ -1,0 +1,1000 @@
+106056627	the branch of medical science that applies biological and physiological principles to clinical practice
+106056806	the branch of medicine dealing with the heart and its diseases
+106056961	the branch of medicine dealing with the anatomy and development and diseases of the teeth
+106057454	the branch of dentistry dealing with the appearance of the teeth
+106057583	the branch of dentistry involving surgical procedures
+106057715	the branch of dentistry dealing with diseases of the dental pulp
+106057904	the branch of dentistry dealing with extraction of teeth
+106058083	the branch of dentistry dealing with the prevention or correction of irregularities of the teeth
+106058382	the branch of dentistry dealing with diseases of the gums and other structures around the teeth
+106058622	the branch of medicine dealing with the production and use of artificial body parts
+106058781	the branch of dentistry dealing with the replacement of teeth and related mouth or jaw structures by artificial devices
+106059031	the branch of medicine dealing with the skin and its diseases
+106059204	the branch of medicine concerned with the prompt diagnosis and treatment of injuries or trauma or sudden illness
+106059381	the branch of medicine dealing with the endocrine glands and their secretions
+106059555	the branch of medical science dealing with the transmission and control of disease
+106059788	the branch of medical science that uses medical knowledge for legal purposes
+106060021	the branch of medicine that studies the gastrointestinal tract and its diseases
+106060181	the branch of medical science that deals with diseases and problems specific to old people
+106060432	the branch of medicine that deals with the diseases and hygiene of women
+106060665	the branch of medicine that deals with diseases of the blood and blood-forming organs
+106060911	the science concerned with the prevention of illness and maintenance of health
+106061073	the branch of medical science that studies the body's immune system
+106061456	the field of chemistry concerned with chemical processes in immunology (such as chemical studies of antigens and antibodies)
+106061696	the branch of immunology that deals with pathologies of the immune system
+106061831	the branch of medicine that deals with the diagnosis and (nonsurgical) treatment of diseases of the internal organs (especially in adults)
+106062052	the branch of medicine concerned with the kidney - its development and anatomy and physiology and disorders
+106062216	the branch of medicine that uses radioactive materials either to image a patient's body or to destroy diseased cells
+106062395	(neurology) the branch of medicine that deals with the nervous system and its disorders
+106062632	the branch of medicine dealing with mental disorders attributable to diseases of the nervous system
+106062811	the branch of medical science dealing with the classification of disease
+106062970	the branch of medicine dealing with childbirth and care of the mother
+106063385	the branch of medicine concerned with the fetus in the uterus
+106063513	the branch of obstetrics concerned with the anatomy and physiology and diagnosis and treatment of disorders of the mother and the fetus or newborn baby during late pregnancy and childbirth and the puerperium
+106063797	the branch of medicine concerned with the study and treatment of tumors
+106063977	the branch of medicine concerned with the eye and its diseases
+106064231	the branch of medicine concerned with the ear
+106064423	the science or study of drugs: their preparation and properties and uses and effects
+106064831	the art and science of preparing and dispensing drugs and medicines,
+106065060	the study of the action of drugs in the body: method and rate of excretion; duration of effect; etc.
+106065223	the pharmacological determination of appropriate doses of drugs and medicines
+106065355	the study of drugs that affect the mind
+106065477	the branch of medicine dealing with the diagnosis and treatment of mental disorders
+106066318	an obsolete term for the study and treatment of mental illness
+106066454	the branch of psychiatry concerned with psychological methods
+106066703	the branch of psychology concerned with the treatment of abnormal mentation and behavior
+106066857	the psychological theories of Sigmund Freud
+106066966	the psychological theories of Carl Jung
+106067070	the branch of morphology that deals with the structure of animals
+106068675	the practical application of anatomical knowledge to diagnosis and treatment
+106068832	the study of anatomical features of animals of different species
+106068962	the branch of gross anatomy concerning with the morphology of teeth
+106069090	the branch of anatomy that studies structural changes of an individual from fertilization to maturity
+106069259	the study of anatomy in its relation to function
+106069415	the study of the structure of the body and its parts without the use of a microscope
+106069599	the study of microscopic structures of tissues and organs
+106069758	the anatomy of the nervous system
+106069886	the branch of anatomy that studies the bones of the vertebrate skeleton
+106070013	the study of anatomy based on regions or divisions of the body and emphasizing the relations between various structures (muscles and nerves and arteries etc.) in that region
+106070282	the measurement of hearing
+106070395	the branch of medical science that studies the causes and nature and effects of diseases
+106071181	the branch of medicine concerned with the treatment of infants and children
+106071467	that branch of pediatric medicine concerned with the newborn; the diagnosis and treatment of neonates
+106071626	the branch of medicine concerned with the feet
+106071775	the branch of medicine dealing with the diagnosis and treatment of disorders of the colon or rectum or anus
+106071957	the branch of medical science dealing with the medical use of X-rays or other penetrating radiation
+106072205	the branch of medicine dealing with the study and treatment of pathologies of the muscles or tendons or joints
+106072392	the medical specialty that deals with diseases of the ear, nose and throat
+106072622	the branch of medical science that deals with serums; especially with blood serums and disease
+106072825	the branch of medicine concerned with the effects of space flight on human beings
+106072967	the branch of medicine concerned with the treatment of injuries or illness resulting from athletic activities
+106073138	the branch of medical science that treats disease or injury by operative procedures
+106073656	the branch of medical science concerned with disorders or deformities of the spine and joints
+106073895	branch of medicine concerned with the treatment of disease
+106074012	the branch of pharmacology that deals with the nature and effects and treatments of poisons
+106074233	the branch of medicine that deals with the diagnosis and treatment of diseases of the chest
+106074388	the branch of medicine that deals with the surgical repair of injuries and wounds arising from accidents
+106074570	the branch of medicine that deals with the diagnosis and treatment of diseases that are found most often in tropical regions
+106074758	the branch of medicine that deals with the diagnosis and treatment of disorders of the urinary tract or urogenital system
+106074973	the branch of medicine that deals with the diagnosis and treatment of diseases and injuries of animals (especially domestic animals)
+106075190	the branch of medical science that studies viruses and viral diseases
+106075369	the application of soil and plant sciences to land management and crop production
+106075622	the study of plant nutrition and growth especially as a way to increase crop yield
+106075817	science of soils in relation to crops
+106075964	dealing with the geographical distribution of animals and plants
+106076105	the branch of biology that studies plants
+106079297	the branch of botany that studies fungi and fungus-caused diseases
+106079436	the branch of botany that studies and cultivates fruits
+106079546	the branch of biology that studies the effects of low temperatures on living tissues or organs or organisms
+106079729	the freezing of a seriously ill or recently deceased person to stop tissues from decomposing; the body is preserved until new medical cures are developed that might bring the person back to life
+106080053	the branch of biology that studies the structure and function of cells
+106080288	the branch of biology that studies the cellular aspects of heredity (especially the chromosomes)
+106080479	the branch of biology concerned with the relations between organisms and their environment
+106080976	the branch of biology that studies the formation and early development of living organisms
+106081272	the branch of biology concerned with the effects of outer space on living organisms and the search for extraterrestrial life
+106081484	the science of planting and caring for forests and the management of growing timber
+106081695	the branch of forestry dealing with the development and care of forests
+106081825	the branch of zoology that studies insects
+106082026	the branch of entomology dealing with Lepidoptera
+106082169	the branch of zoology that studies the behavior of animals in their natural habitats
+106082326	the branch of zoology concerned with reptiles and amphibians
+106082462	the branch of zoology that studies fishes
+106082617	the branch of zoology that studies the structure and behavior of mollusks
+106082765	the branch of zoology that studies mammals
+106082881	the branch of zoology that studies eggs (especially birds' eggs and their size, shape, coloration, and number)
+106083044	the branch of zoology that studies birds
+106083197	the branch of zoology that studies primates
+106083298	the branch of zoology that studies protozoans
+106083438	the earth science that studies fossil organisms and related remains
+106083739	the scientific study of human fossils
+106083922	the study of fossil plants
+106084057	the branch of botany that studies algae
+106084163	the branch of botany that studies ferns
+106084278	the branch of paleobotany that studies fossil trees
+106084410	the study of fossil animals
+106084566	the paleobiology of ancient mammals
+106084662	the paleobiology of birds
+106084768	the branch of genomics that determines the biological function of the genes and their products
+106084928	the branch of genomics that determines the three-dimensional structures of proteins
+106085077	the branch of biology that studies heredity and variation in organisms
+106086637	the branch of genetics that studies organisms in terms of their genomes (their full DNA sequences)
+106086826	the branch of genetics that studies the full set of proteins encoded by a genome
+106086963	the branch of biology that studies the microscopic structure of animal or plant tissues
+106087198	the branch of biology that studies microorganisms and their effects on humans
+106087466	the branch of genetics concerned with the structure and activity of genetic material at the molecular level
+106087638	the branch of biology that studies the structure and activity of macromolecules essential to life (and especially with their genetic role)
+106087877	the branch of biology that deals with the structure of animals and plants
+106088061	the branch of biology that deals with the anatomy and physiology and pathology of the nervous system
+106088274	a branch of paleontology that deals with the origin and growth and structure of fossil animals and plants as living organisms
+106088528	the branch of medical science that deals with the nervous system
+106088797	the branch of genetics that studies the genetically determined variations in responses to drugs in humans or laboratory organisms
+106088989	the branch of biology concerned with the development of malformations or serious deviations from the normal type of organism
+106089170	the organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry
+106089780	the branch of biochemistry dealing with the chemical nature and biological activity of enzymes
+106089949	the branch of chemistry concerned with fermentation (as in making wine or brewing or distilling)
+106090110	the branch of the biological sciences dealing with the functioning of organisms
+106091190	the branch of neuroscience that studies the physiology of the nervous system
+106091421	the scientific study of the nervous system
+106091613	the branch of neuroscience concerned with the brain
+106091724	the branch of neuroscience that studies the biological foundations of mental phenomena
+106091898	the branch of physiology that studies the circulation of the blood and the forces involved
+106092047	the branch of physiology that studies the mechanics and anatomy in relation to human movement
+106092198	the branch of physiology that studies muscles
+106092297	the branch of ecology that studies ancient ecology
+106092422	the branch of biology that studies the effects of radiation on living organisms
+106092560	the branch of biology that conducts comparative studies of the social organization of animals (including human beings) with regard to its evolutionary history
+106092831	the branch of biology that studies animals
+106094057	the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions
+106098583	the chemistry of compounds containing carbon (originally defined as the chemistry of substances produced by living organisms but now extended to substances synthesized artificially)
+106098902	the chemistry of compounds that do not contain hydrocarbon radicals
+106099035	the branch of chemistry dealing with the physical properties of chemical substances
+106099316	the branch of organic chemistry dealing with the chemistry of plants
+106099445	branch of chemistry that deals with the chemical action of electricity and the production of electricity by chemical reactions
+106099652	the branch of chemistry that studies elementary (often very fast) chemical reactions as they occur; the experimental methods are often based on the use of femtosecond laser pulses
+106099892	the chemistry of the earth's crust
+106099985	branch of chemistry that deals with the chemical action of light
+106100128	the chemistry of radioactive substances
+106100266	the branch of chemistry that studies processes occurring at interfaces between phases (especially those between liquid and gas)
+106100457	the science of matter and energy and their interactions
+106104194	the physical properties, phenomena, and laws of something
+106104381	the study of the physical properties of sound
+106104629	the branch of physics that studies celestial bodies and the universe as a whole
+106106058	the branch of astronomy that studies the motion of natural and artificial bodies in space
+106106207	the branch of astronomy that deals with the measurement of the position and motion of celestial bodies
+106106366	the branch of astronomy that detects and studies the radio waves emitted by celestial bodies
+106106520	the theory and practice of navigation through air or space
+106106838	science and technology of electronic systems and devices for aeronautics and astronautics
+106107085	physics as applied to biological problems
+106107201	the branch of astronomy concerned with the application of Newton's laws of motion to the motions of heavenly bodies
+106107382	the branch of astronomy concerned with the physical and chemical properties of celestial bodies
+106107590	the branch of astronomy that deals with the moon
+106107695	the branch of astronomy that deals with the sun
+106107802	the branch of astrophysics that studies the origin and evolution and structure of the universe
+106108294	the branch of physics that studies the phenomena that occur at very low temperatures
+106108483	the branch of science that studies the formation and structure of crystals
+106108714	the branch of physics concerned with electromagnetic phenomena
+106108876	the branch of physics that deals with the emission and effects of electrons and with the use of electronic devices
+106109708	the branch of physics that deals with static electricity
+106109843	the branch of physics concerned with the motion of bodies in a frame of reference
+106110162	the branch of physics that studies the internal structure of atomic nuclei
+106110385	the branch of physics that studies the physical properties of light
+106110787	branch of optics dealing with formation of images by mirrors
+106110940	the branch of optics that deals with the use of coherent light from a laser in order to make a hologram that can then be used to create a three-dimensional image
+106111158	the branch of physics that studies subatomic particles and their interactions
+106111456	the branch of physics concerned with matter in its plasma phase
+106111580	the branch of physics based on quantum theory
+106111723	a quantum of energy (in a crystal lattice or other system) that has position and momentum and can in some respects be regarded as a particle
+106111923	the branch of physics that studies the deformation and flow of matter
+106112083	(chemistry) any theory in which all matter is composed of tiny discrete finite indivisible indestructible particles
+106112472	the theory that the parts of any whole cannot exist and cannot be understood except in their relation to the whole
+106112877	a theory of the structure of the atom
+106113029	(physics) a theory of atomic structure that combined Rutherford's model with the quantum theory; electrons orbiting a nucleus can only be in certain stationary energy states and light is emitted when electrons jump from one energy state to another
+106113353	first modern concept of atomic structure; all of the positive charge and most of the mass of the atom are contained in a compact nucleus; a number of electrons (equal to the atomic number) occupy the rest of the volume of the atom and neutralize the positive charge
+106113680	(physics) the maintenance of a certain quantities unchanged during chemical reactions or physical transformations
+106113979	the principle that the total electric charge of a system remains constant despite changes inside the system
+106114185	the fundamental principle of physics that the total energy of an isolated system is constant despite internal changes
+106114451	a fundamental principle of classical physics that matter cannot be created or destroyed in an isolated system
+106114714	the principle that the total linear momentum in a closed system is constant and is not affected by processes occurring inside the system
+106114921	(physics) parity is conserved in a universe in which the laws of physics are the same in a right-handed system of coordinates as in a left-handed system
+106115216	(biology) the theory that cells form the fundamental structural and functional units of all living organisms; proposed in 1838 by Matthias Schleiden and by Theodor Schwann
+106115480	(physics) the theory that light is transmitted as waves
+106115691	(physics) the theory that light is transmitted as a stream of particles
+106115912	(physics) a theory that gases consist of small particles in random motion
+106116109	(physics) the theory that space and time are relative concepts rather than absolute concepts
+106116427	a generalization of special relativity to include gravity (based on the principle of equivalence)
+106116690	a physical theory of relativity based on the assumption that the speed of light in a vacuum is a constant and the assumption that the laws of physics are invariant in all inertial systems
+106117043	(physics) a theory that tries to link the four fundamental forces
+106117267	(physics) a physical theory that certain properties occur only in discrete amounts (quanta)
+106117457	the modern form of quantum theory; an extension of quantum mechanics based on Schrodinger's equation; atomic events are explained as interactions between particle waves
+106117686	(quantum theory) the theory that it is impossible to measure both energy and time (or position and momentum) completely accurately at the same time
+106117946	a theory that the temperature of a body increases when kinetic energy increases
+106118094	(medicine) the theory that all contagious diseases are caused by microorganisms
+106118250	(computer science) a statistical theory dealing with the limits and efficiency of information processing
+106118457	(chemistry) theory that describes aqueous solutions in terms of acids (which dissociate to give hydrogen ions) and bases (which dissociate to give hydroxyl ions); the product of an acid and a base is a salt and water
+106118834	(biology) a scientific theory of the origin of species of plants and animals
+106119094	(chemistry) the theory that all indicators are either weak acids or weak bases in which the color of the ionized form is different from the color before dissociation
+106119378	(biology) a theory of how characteristics of one generation are derived from earlier generations
+106119579	the theory of inheritance based on Mendel's laws
+106119698	a theory of organic evolution claiming that new species arise and are perpetuated by natural selection
+106119874	a modern Darwinian theory that explains new species in terms of genetic mutations
+106120033	a theory of organic evolution claiming that acquired characteristics are transmitted to offspring
+106120205	a modern Lamarckian theory emphasizing the importance of environmental factors in genetic changes and retaining the notion of the inheritance of acquired characters
+106120430	the branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated
+106120610	a theory of evolution holding that evolutionary change in the fossil record came in fits and starts rather than in a steady process of slow change
+106120860	the study of musical sound
+106120942	the branch of mechanics based on Newton's laws of motion
+106121086	the branch of physics that studies the properties of materials in the solid state: electrical conduction in crystals of semiconductors and metals; superconductivity; photoconductivity
+106121335	the branch of physics that makes theoretical predictions about the behavior of macroscopic systems on the basis of statistical laws governing its component particles
+106121568	the branch of quantum physics that accounts for matter at the atomic level; an extension of statistical mechanics based on quantum theory (especially the Pauli exclusion principle)
+106121830	the branch of quantum physics that is concerned with the theory of fields; it was motivated by the question of how an atom radiates light as its electrons jump from excited states
+106122112	a relativistic quantum theory of the electromagnetic interactions of photons and electrons and muons
+106122288	a theory of strong interactions between elementary particles (including the interaction that binds protons and neutrons in the nucleus); it assumes that strongly interacting particles (hadrons) are made of quarks and that gluons bind the quarks together
+106122616	study of the mechanics of fluids
+106122777	the branch of mechanics that deals with the mechanical properties of gases
+106122908	the branch of mechanics concerned with forces in equilibrium
+106123022	study of the mechanical properties of fluids that are not in motion
+106123204	the branch of mechanics concerned with the forces that cause motions of bodies
+106123384	the branch of mechanics concerned with motion without reference to force or mass
+106123521	study of fluids in motion
+106123676	the study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal)
+106123853	the science of flight dynamics
+106123958	the branch of mechanics that deals with the motion of gases (especially air) and their effects on bodies in the flow
+106124185	the branch of physics concerned with the conversion of different forms of energy
+106124456	the aspect of thermodynamics concerned with thermal equilibrium
+106124611	the branch of electronics that deals with beams of electrons and their focusing and deflection by magnetic fields
+106124786	the branch of electronics that deals with miniature components
+106124929	the branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes)
+106125083	any of the sciences that deal with the earth or its parts
+106125308	a science that deals with the history of the earth as recorded in rocks
+106126809	the scientific study of the earth's configuration above sea level (emphasizing the measurement of land altitudes relative to sea level)
+106127002	the study of geologic features once at the surface of the earth but now buried beneath rocks
+106127169	geology that uses physical principles to study properties of the earth
+106127462	the branch of geology that studies the characteristics and configuration and evolution of rocks and land forms
+106127753	the science of mountains
+106127843	the branch of geology that studies the arrangement and succession of strata
+106127977	the branch of geology studying the folding and faulting of the earth's crust
+106128170	the earth science dealing with phenomena of the atmosphere (especially weather)
+106128833	meteorology of the total extent of the atmosphere; especially the upper layers
+106128984	meteorology of climates and their phenomena
+106129103	the study of effects of climate on living organisms
+106129215	the branch of meteorology that studies clouds and cloud formation
+106129336	the branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation
+106129511	the branch of science dealing with physical and biological aspects of the oceans
+106129718	the science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation
+106129924	the scientific study of bodies of fresh water for their biological and physical and geological properties
+106130103	the branch of geology that studies earthquakes
+106130260	the branch of geology that studies volcanoes
+106130376	the branch of science that studies magnetism
+106130488	the branch of geology that studies the shape of the earth and the determination of the exact position of geographical points
+106130720	the branch of geology that studies minerals: their structure and properties and the ways of distinguishing them
+106130982	the branch of geology that studies rocks: their origin and formation and mineral composition and classification
+106131161	the scientific study of caves
+106131297	the branch of economic geology that deals with the occurrence and exploitation of oil and gas fields
+106131461	the branch of geology that deals with economically valuable geological materials
+106131640	the branch of economic geology that deals with the applications of geology to mining
+106131785	study of the earth's surface; includes people's responses to topography and climate and soil and vegetation
+106132052	the study of physical features of the earth's surface
+106132185	precise detailed study of the surface features of a region
+106132354	topographic study of a given place (especially the history of the place as indicated by its topography)
+106132583	the branch of geography concerned with the production and distribution of commodities
+106132733	the science that maps the general features of the universe; describes both heaven and earth (but without encroaching on geography or astronomy)
+106132970	the discipline dealing with the principles of design and construction and ornamentation of fine buildings
+106133966	the science of architecture
+106134103	the art, planning, design, management, preservation and rehabilitation of the land and the design of large man-made constructs
+106134316	the branch of architecture dealing with the design and organization of urban space and activities
+106134474	the discipline dealing with the art or science of applying scientific knowledge to practical problems
+106135149	the science and technology of metals
+106135447	the metallurgy of powdered metals; how to produce solid metal objects from powdered metal by compaction and sintering
+106135628	the branch of engineering science concerned with the design and construction of aircraft
+106135787	application of biological principles to the study and design of engineering systems (especially electronic systems)
+106135974	the branch of engineering science in which biological science is used to study the relation between workers and their environments
+106136212	the branch of molecular biology that studies the use of microorganisms to perform specific industrial processes
+106136508	the branch of biotechnology that uses biological process to overcome environmental problems
+106136660	the technology of preparing recombinant DNA in vitro by cutting up DNA molecules and splicing together fragments from more than one organism
+106136911	the branch of engineering that is concerned with the design and construction and operation of the plants and machinery used in industrial chemical processes
+106137134	the branch of engineering concerned with the design and construction of such public works as dams or bridges
+106137324	the branch of civil engineering dealing with the use and control of water in motion
+106137475	the branch of engineering science that studies the uses of electricity and the equipment for power generation and distribution and the control of machines and communication
+106137758	(often plural) the branch of electrical engineering concerned with the technology of electronic communication at a distance
+106138021	the branch of engineering science that studies (with the aid of computers) computable processes and structures
+106142175	(computing) a discrete item that provides a description of virtually anything known to a computer
+106142469	the system of operations performed by a computer that underlies the machine's representation of logical operations
+106142654	the branch of computer science that deal with writing computer programs that can solve problems creatively
+106142954	the use of computers to translate from one language to another
+106143105	the area of AI concerned with the practical use of robots
+106143253	the construction of robots to look like animals (developed for Disneyland)
+106143386	the area of robotics that is concerned with the control of robots from a distance
+106143526	the branch of engineering that deals with the construction of buildings (as distinguished from architecture as a design art)
+106143722	the branch of engineering that deals with the creation and management of systems that integrate people and materials and energy in productive ways
+106143961	the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information
+106144167	the branch of engineering that deals with the design and construction and operation of machinery
+106144350	the branch of engineering that deals with things smaller than 100 nanometers (especially with the manipulation of individual molecules)
+106144546	the branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication
+106144786	the branch of engineering concerned with the design and construction and operation of nuclear reactors
+106144954	the branch of engineering that deals with the design and construction and operation of ships
+106145110	the branch of engineering science that studies rocket design and operation
+106145257	the scientific study of measurement
+106145366	the scientific study of food and drink (especially in humans)
+106145556	the study or prediction of future developments on the basis of existing conditions
+106145709	the science of mental life
+106147210	the branch of psychology concerned with abnormal behavior
+106147369	(psychology) a theory that association is the basic principle of mental activity
+106147550	(psychology) a theory that reduces all mental phenomena to simple elements (sensations and feelings) that form complex ideas by association
+106147798	any of several branches of psychology that seek to apply psychological principles to practical problems of education or industry or marketing etc.
+106148033	an approach to psychology that emphasizes internal mental processes
+106148240	the branch of psychology concerned with the behavior of animals
+106148392	the branch of psychology that studies the social and mental development of children
+106148586	the branch of psychology that studies measurable differences between individuals
+106148736	the branch of psychology that uses experimental methods to study psychological issues
+106148942	the branch of psychology concerned with quantitative relations between physical stimuli and their psychological effects
+106149215	an approach to psychology that emphasizes observable measurable behavior
+106149505	a psychology based on the assumption that all mental process are useful to an organism in adapting to the environment
+106149719	the area of cognitive psychology that studies memory processes
+106149888	the area of cognitive psychology that studies the processes involved in solving problems
+106150038	the branch of cognitive psychology that studies the psychological basis of linguistic competence and performance
+106150250	the branch of psychology that is concerned with the physiological bases of psychological processes
+106150474	any branch of psychology concerned with psychological measurements
+106150648	the study of reflex action as it relates to the behavior of organisms
+106150775	(psychology) a theory of psychology that emphasizes the importance of configurational properties
+106151012	the branch of psychology that studies persons and their relationships with others and with groups and with society as a whole
+106151219	the branch of social psychology that deals with the processes and emotions that determine psychology and motivation
+106151413	the branch of social psychology that studies the psychodynamics of interaction in social groups
+106151569	the sciences concerned with gathering, manipulating, storing, retrieving, and classifying recorded information
+106151863	the branch of information science that deals with natural language information
+106152049	(biology) the field of science concerned with processes of communication and control (especially the comparison of these processes in biological and artificial systems)
+106152312	the field of science concerned with cognition; includes parts of cognitive psychology and linguistics and computer science and cognitive neuroscience and philosophy of mind
+106152605	the branch of science that studies society and the relationships of individual within a society
+106152905	the social science of municipal affairs
+106152997	the social science that studies the origins and social relationships of human beings
+106153532	the branch of anthropology that studies prehistoric people and their cultures
+106154213	archeology of the ancient Assyrians
+106154306	archeology of ancient Egyptian artifacts
+106154421	the archeology of ancient Sumerians
+106154513	the paleontology of microfossils
+106154609	the archeology of underwater sites
+106154777	the study of the climate of past ages
+106154897	the study of the geography of ancient times or ancient epochs
+106155037	the study of ancient forms of writing (and the deciphering of them)
+106155180	the study of disease of former times (as inferred from fossil evidence)
+106155348	the explanation of past events in terms of scientific causes (as geological causes)
+106155504	the study of ancient inscriptions
+106155593	the study of (especially prehistoric) antiquities
+106155711	the study humans prior to the invention of writing
+106155858	the study of prehistoric human artifacts and human fossils
+106155997	the branch of anthropology that provides scientific description of individual human societies
+106156211	the ethnography of paleolithic humans
+106156331	the branch of anthropology that deals with the division of humankind into races and with their origins and distribution and distinctive characteristics
+106156592	the branch of anthropology dealing with the genesis and variation of human beings
+106156759	the branch of physical anthropology dealing with the study and measurement of dry skulls after removal of its soft parts
+106156973	the branch of anthropology that deals with human culture and society
+106157221	the study of a society by analyzing its garbage
+106157324	the study of myths
+106157453	the study of religious or magical rites and ceremonies
+106157599	the study of government of states and other political units
+106158199	the study of the effects of economic geography on the powers of the state
+106158366	the branch of geopolitics dealing with strategy
+106158489	politics based on practical rather than moral or ideological considerations
+106158643	the opinion you hold with respect to political questions
+106158795	theory and practice of homemaking
+106158935	the branch of social science that deals with the production and distribution and consumption of goods and services and their management
+106159692	(economics) a theory of competition stated in terms of gains and losses among opposing players
+106159919	the application of mathematics and statistics to the study of economic and financial data
+106160103	the branch of economics that studies the management of money and other assets
+106160403	the branch of economics that studies the overall working of a national economy
+106160578	the branch of economics that studies the economy of consumers or households or individual firms
+106160752	the school of economic theory that stresses the costs of production as a means of stimulating the economy; advocates policies that raise capital and labor output by increasing the incentive to produce
+106161020	the study of spatial distances between individuals in different cultures and situations
+106161163	the study and classification of human societies
+106161412	the scientific study of crime and criminal behavior and law enforcement
+106161595	the branch of sociology that studies the characteristics of human populations
+106161781	the branch of sociology that studies election trends (as by opinion polls)
+106161930	the branch of criminology concerned with prison management and prisoner rehabilitation
+106162101	the quantitative study of social relationships
+106162204	the science or art of strategy
+106162291	the science of systematic classification
+106162461	use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework
+106162674	(biology) study of the general principles of scientific classification
+106162890	the study of wooden plants
+106162992	a taxonomic system of classifying species based on the branching patterns of cladograms that are built to infer phylogenetic relations
+106163204	the branch of science that studies death (especially its social and psychological aspects)
+106163352	studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills)
+106163988	revival of a classical style (in art or literature or architecture or music) but from a new perspective or with a new motivation
+106164248	a movement in literature and art during the 17th and 18th centuries in Europe that favored rationality and restraint and strict forms
+106164599	a movement in literature and art during the late 18th and early 19th centuries that celebrated nature rather than civilization
+106164956	the art of designing the interior decoration for a house, office, or other architectural space
+106165130	the discipline that studies the English language and literature
+106165265	the discipline that records and interprets past events involving human beings
+106165589	a theory that social and cultural events are determined by history
+106165713	the academic discipline that studies the development of painting and sculpture
+106165867	the branch of art history that studies visual images and their symbolic meaning (especially in social or political terms)
+106166044	the determination of the actual temporal sequence of past events
+106166219	the determination of how long ago different languages evolved from a common source language
+106166450	all that is remembered of the past as preserved in writing; a body of knowledge
+106166666	the study and creation of visual works of art
+106167042	arts or skills that require public performance
+106167773	the scholarly knowledge of western cultures and languages and people
+106167901	the scholarly knowledge of Asian cultures and languages and people
+106168062	the rational investigation of questions about existence and knowledge and ethics
+106169189	the philosophical study of moral values and rules
+106169493	the branch of ethics that studies moral values in the biomedical sciences
+106169640	the study of ethical implications of treatments for neurological diseases
+106169771	moral philosophy based on the application of general ethical principles to resolve moral dilemmas
+106169960	argumentation that is specious or excessively subtle and intended to be misleading
+106170134	an ethical system that evaluates actions by reference to personal well-being through a life based on reason
+106170312	an ethical system that evaluates the pursuit of pleasure as the highest good
+106170497	a Roman Catholic system of casuistry that when expert opinions differ an actor can follow any solidly probable opinion that he wishes even though some different opinion might be more probable
+106170764	the philosophical study of causation
+106170939	(art) the branch of philosophy dealing with beauty and taste (emphasizing the evaluative criteria that are applied to art)
+106171322	the study of values and value judgments
+106171434	the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do
+106171758	that branch of jurisprudence that studies the rights and obligations of parties entering into contracts
+106171939	that branch of jurisprudence that studies the laws governing corporations
+106172093	that branch of jurisprudence that studies the laws governing matrimony
+106172244	that branch of jurisprudence that studies the laws governing patents
+106172369	the philosophical study of being and knowing
+106172563	the metaphysical study of the nature of being and existence
+106172695	(computer science) a rigorous and exhaustive organization of some knowledge domain that is usually hierarchical and contains all the relevant entities and their relations
+106172939	the metaphysical study of the origin and nature of the universe
+106173112	a rationale for dialectical materialism based on change through the conflict of opposing forces
+106173264	any formal system of reasoning that arrives at the truth by the exchange of logical arguments
+106173467	the branch of philosophy that analyzes inference
+106174381	any logical system that abstracts the form of statements away from their content in order to establish abstract criteria of consistency and validity
+106174716	a system of symbolic logic devised by George Boole; used in computers
+106174863	a branch of symbolic logic dealing with propositions as units and with their combinations and the connectives that relate them
+106175080	a system of symbolic logic that represents individuals and predicates and quantification over individuals (as well as the relations between propositions)
+106175339	a limitation imposed on the variables of a proposition (as by the quantifiers some' or all' or no')
+106175539	a system of logic whose formal properties resemble certain moral and epistemological concepts
+106175762	the modal logic of necessity and possibility and contingency
+106175882	the modal logic of obligation and permissibility
+106175990	the modal logic of knowledge and uncertainty and ignorance
+106176110	the modal logic of belief and disbelief
+106176210	a form of mathematical logic in which truth can assume a continuum of values between 0 and 1
+106176360	the logical study of necessity and possibility
+106176464	the philosophical theory of knowledge
+106176614	the branch of philosophy that analyzes the principles and procedures of inquiry in a particular discipline
+106176822	a philosophical doctrine proposed by Edmund Husserl based on the study of human experience in which considerations of objective reality are not taken into account
+106177044	a doctrine accepted by adherents to a philosophy
+106177868	a sociological theory based on the premise that society comes before individuals
+106178050	an anthropological theory that there are unobservable social structures that generate observable social phenomena
+106178268	the use of computers for linguistic research and applications
+106178419	the study of the geographical distribution of linguistic features
+106178571	the study of the sources and development of words
+106178766	the study of linguistic change
+106179001	the humanistic study of literature
+106179204	the humanistic study of a body of literature
+106179383	study of literary works from different cultures (often in translation)
+106179522	the informed analysis and evaluation of literature
+106179648	study of poetic works
+106179741	the study of poetic meter and the art of versification
+106180087	study of the literary works of ancient Greece and Rome
+106180214	study of the technique and rules for using language effectively (especially in public speaking)
+106180608	the study of the principles and practices of library administration
+106180756	the humanistic study of language and literature
+106180981	the branch of philology that is devoted to the study of dialects
+106181104	the scholarly and scientific study of music
+106181240	the study of Chinese history and language and culture
+106181366	the humanistic discipline that attempts to reconstruct the transmission of a text (especially a text in manuscript form) on the basis of relations between the various surviving manuscripts (sometimes using cladistic analysis)
+106181787	(Middle Ages) an introductory curriculum at a medieval university involving grammar and logic and rhetoric; considered to be a triple way to eloquence
+106182010	(Middle Ages) a higher division of the curriculum in a medieval university involving arithmetic and music and geometry and astronomy
+106182218	the science of analyzing and deciphering codes and ciphers and cryptograms
+106182505	the scientific study of language
+106184139	the branch of linguistics that deals with syntax and morphology (and sometimes also deals with semantics)
+106185545	a grammar that is produced by descriptive linguistics
+106185683	a grammar that is produced by prescriptive linguistics
+106185823	the grammatical arrangement of words in sentences
+106186038	studies of the rules for forming admissible sentences
+106186235	(linguistics) a type of grammar that describes syntax in terms of a set of logical rules that can generate all and only the infinite number of grammatical sentences in a language and assigns them all the correct structural description
+106186553	a term formerly used for the part of phonology that dealt with the correct' pronunciation of words and its relation to correct' orthography
+106186749	the branch of acoustics concerned with speech processes including its production and perception and acoustic analysis
+106187166	the study of the sound system of a given language and the analysis and classification of its phonemes
+106187445	the admissible arrangement of sounds in words
+106187639	the result of adding an affix to a root word
+106187758	studies of the rules for forming admissible words
+106187954	the part of grammar that deals with the inflections of words
+106188096	the part of grammar that deals with the derivations of words
+106188226	the part of grammar that deals with combinations of simple words into compound words
+106188376	the study of the phonological realization of the allomorphs of the morphemes of a language
+106188528	the branch of linguistics that studies the lexical component of language
+106188711	the branch of lexicology that studies the forms and origins of proper names
+106188861	the branch of lexicology that studies the place names of a region or a language
+106189006	the branch of linguistics that studies the relation between language and the structure and function of the nervous system
+106189208	the study of language use
+106189290	a statistical technique used in glottochronology; used to estimate how long ago different languages evolved from a common source language
+106189508	the study of language meaning
+106189701	the function of pointing or specifying from the perspective of a participant in an act of speech or writing; aspects of a communication whose interpretation depends on knowledge of the context in which the communication occurs
+106189998	the branch of semantics that studies the logical aspects of meaning
+106190128	the branch of semantics that studies the meanings and relations of words
+106190264	the branch of semantics that studies the cognitive aspects of meaning
+106190436	a law describing sound changes in the history of a language
+106190606	a sound law relating German consonants and consonants in other Indo-European languages
+106190750	a qualification of Grimm's law
+106190839	the study of language in relation to its sociocultural context
+106191000	linguistics defined as the analysis of formal structures in a text or discourse
+106191164	the study of a language without reference to its historical context
+106191300	a description (at a given point in time) of a language with respect to its phonology and morphology and syntax and semantics without value judgments
+106191609	an account of how a language should be used instead of how it is actually used; a prescription for the correct' phonology and morphology and syntax and semantics
+106191860	the rational and systematic study of religion and its influences and of the nature of religious truth
+106192473	the branch of theology that is concerned with angels
+106192582	the branch of theology that is concerned with the defense of Christian doctrines
+106192720	the branch of theology concerned with the nature and the constitution and the functions of a church
+106192878	the branch of theology that is concerned with such final things as death and Last Judgment; Heaven and Hell; the ultimate destiny of humankind
+106193114	the branch of theology that deals with principles of exegesis
+106193234	the branch of theology that deals with sermons and homilies
+106193368	the study of liturgies
+106193461	the branch of theology that defends God's goodness and justice in the face of the existence of evil
+106193615	a particular system or school of religious beliefs and teachings
+106194005	the teachings of Christian churches
+106194309	the branch of theology concerned with the person and attributes and deeds of Christ
+106194468	a form of Christian theology (developed by South American Roman Catholics) that emphasizes social and political liberation as the anticipation of ultimate salvation
+106194698	a theology that holds that knowledge of God can be acquired by human reason without the aid of divine revelation
+106194873	the theology or the practices of the Jesuits (often considered to be casuistic)
+106195037	the study of the lives, writings, and doctrines of the Church Fathers
+106195193	the branch of Christian theology devoted to the refutation of errors
+106195316	a doctrine that federal powers should be curtailed and returned to the individual states
+106195483	the states'-rights doctrine that a state can refuse to recognize or to enforce a federal law passed by the United States Congress
+106195690	a doctrine that is taught
+106195901	(Judaism) a precept or commandment of the Jewish law
+106196036	the doctrine of a religious group
+106196748	a religious doctrine or theory based on Jesus or Jesus' teachings
+106196889	the theological doctrine that by faith and God's grace a Christian is freed from all laws (including the moral standards of the culture)
+106197085	the comprehensive theological doctrine created by Saint Thomas Aquinas in the 13th century and still taught by the Dominicans
+106197264	doctrine that the useful is the good; especially as elaborated by Jeremy Bentham and James Mill; the aim was said to be the greatest happiness for the greatest number
+106197491	heretical doctrine taught by Arius that asserted the radical primacy of the Father over the Son
+106197695	the theological doctrine taught by Athanasius that Christ the Son is of the same substance as God the Father
+106197881	the mystical theological doctrine of Jakob Boehme that influenced the Quakers
+106198027	the doctrine of the High Anglican Church that after the consecration of the Eucharist the substance of the body and blood of Christ coexists with the substance of the consecrated bread and wine
+106198338	the theological doctrine of church government by bishops
+106198456	the doctrine that the state is supreme over the church in ecclesiastical matters
+106198624	the religious doctrine of Hinayana Buddhism
+106198724	the Roman Catholic doctrine of Cornelis Jansen and his disciples; salvation is limited to those who are subject to supernatural determinism and the rest are assigned to perdition
+106198976	the religious doctrine of Mahayana Buddhism
+106199076	the Christian heresy of the 2nd and 3rd centuries that rejected the Old Testament and denied the incarnation of God in Jesus as a human
+106199286	belief in the Christian doctrine of the millennium mentioned in the Book of Revelations
+106199511	a Christian heresy of the 5th and 6th centuries that challenged the orthodox definition of the two natures (human and divine) in Jesus and instead believed there was a single divine nature
+106199795	the theological doctrine that Christ had only one will even though he had two natures (human and divine); condemned as heretical in the Third Council of Constantinople
+106200040	the theological doctrine (named after Nestorius) that Christ is both the son of God and the man Jesus (which is opposed to Roman Catholic doctrine that Christ is fully God)
+106200289	the theological doctrine put forward by Pelagius which denied original sin and affirmed the ability of humans to be righteous; condemned as heresy by the Council of Ephesus in 431
+106200544	the theological doctrine of the Society of Friends characterized by opposition to war and rejection of ritual and a formal creed and an ordained ministry
+106200753	the theological doctrine that human reason rather than divine revelation establishes religious truth
+106200947	the Hindu or Buddhist doctrine that a person may be reborn successively into one of five classes of living beings (god or human or animal or hungry ghost or denizen of Hell) depending on the person's own actions
+106201218	the theological doctrine that venerates the rose and the cross as symbols of Christ's Resurrection and redemption; claims various occult powers
+106201422	the branch of Christian theology that deals with salvation as the effect of a divine agency
+106201589	the theological doctrine that salvation results from the interaction of human will and divine grace
+106201762	the Calvinist doctrine that everyone is born in a state of corruption as a result of original sin
+106201921	any system of philosophy emphasizing the intuitive and spiritual above the empirical and material
+106202146	the Roman Catholic doctrine that the whole substance of the bread and the wine changes into the substance of the body and blood of Christ when consecrated in the Eucharist
+106202400	the theological doctrine that all people will eventually be saved
+106202524	the paleontology of vertebrates
+106202643	the theological doctrine that Jesus Christ had no human father; Christians believe that Jesus's birth fulfilled Old Testament prophecies and was attended by miracles; the Nativity is celebrated at Christmas
+106202938	a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways
+106203462	the mental attitude that something is believable and should be accepted as true
+106203765	a submissive mental attitude resulting from acceptance of the doctrine that everything that happens is predetermined and inevitable
+106203951	an acceptance (as of a claim) as true and valid
+106204144	the attitudes and behavior that are characteristic of a particular social group or organization
+106204471	the culture that emerges from the use of computers for communication and entertainment and business
+106204629	the attitudes and behavior in a social group that resolves political disputes by force of arms
+106204831	a highly diverse culture
+106204984	an attitude of defensiveness (especially in the phrase on the defensive')
+106205153	a no-nonsense attitude in business or politics
+106205290	an attitude of arrogant superiority
+106205433	an attitude characteristic of Southerners (especially in the US)
+106205574	a habitual or characteristic mental attitude that determines how you will interpret and respond to situations
+106205806	the attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good
+106206019	a rationalized mental attitude
+106206177	a firm and uncompromising stance or position
+106206319	an attitude of mind especially one that favors one alternative over others
+106206950	a general course along which something has a tendency to develop
+106207238	a settled or prevailing or habitual course of a person's life
+106207399	a general tendency to change (as of opinion)
+106207693	a general direction of evolutionary change
+106207818	an evolutionary trend to be born earlier so that development is cut off at an earlier stage and juvenile characteristics are retained in adults of the species
+106208048	a figurative movement toward some attraction
+106208240	a special disposition (as if from a divine source) to pursue a particular course
+106208443	the tendency, in Protestantism, to separate into religious denominations or to advocate such separations
+106208611	an inclination or desire; used in the plural in the phrase left to your own devices'
+106208877	an inclination to support or be loyal to or to agree with an opinion
+106209181	an inclination to favor some person or group
+106209296	a natural inclination
+106209437	a relatively permanent inclination to react in a particular way
+106209628	a disposition to interpret statements in their literal sense
+106209745	the tendency for a memory or idea to persist or recur without any apparent stimulus for it
+106209913	an inclination beforehand to interpret statements in a particular way
+106210079	a predisposition in favor of something
+106210352	an inclination to approve
+106210476	an inclination to withhold approval from some person or group
+106210664	an idiomatic term for being in disfavor
+106210777	severe disapproval
+106210871	an inclination to favor one group or view or opinion over alternatives
+106211211	an inclination to evaluate reality exclusively in terms of human values
+106211402	belief in the superiority of one's own ethnic group
+106211513	belief in the preeminence of Europe and the Europeans
+106211643	a partiality that prevents objective consideration of an issue or situation
+106212031	a slight but noticeable partiality
+106212164	a partiality for some particular place
+106212288	partiality that is not fair or equitable
+106212421	an inclination to weigh both views or opinions equally
+106212642	freedom from bias or from selfish motives
+106212765	ability to make judgments free from discrimination or dishonesty
+106212957	(psychology) bias introduced by an experimenter whose expectations about the outcome of the experiment can be subtly communicated to the participants in the experiment
+106213207	prejudice against (fear or dislike of) homosexual people and homosexuality
+106213338	prejudice against Muslims
+106213493	the prejudice that members of one race are intrinsically superior to members of other races
+106213691	the intense dislike for and prejudice against Jewish people
+106213861	the prejudice that members of the white race are superior to members of other races
+106214024	an intentional and controversial bias
+106214141	willingness to recognize and respect the beliefs or practices of others
+106214358	an inclination to tolerate or overlook opposing or shocking opinions or behavior
+106214555	an inclination to favor progress and individual freedom
+106214753	tolerance attributable to a lack of involvement
+106214889	unwillingness to recognize and respect differences in opinions or beliefs
+106215146	an inclination to criticize opposing opinions or shocking behavior
+106215433	a limitation of views or interests like that defined by a local parish
+106215562	narrowness of mind or ideas or views
+106215672	a lack of sophistication
+106215756	a narrow-minded adherence to a particular sect or party or denomination
+106215945	the intolerance and prejudice of a bigot
+106216069	excessive intolerance of opposing views
+106216205	exaggerated religious zealotry
+106216311	extreme intolerance of antisocial behavior (usually by an uncompromising application of the law)
+106216535	an attitude of admiration or esteem
+106216764	the respect with which a person is held
+106216934	the general estimation that the public has for a person
+106217172	a disrespectful mental attitude
+106217296	a reverent mental attitude
+106217468	an irreverent mental attitude
+106217609	an attitude of irreverence or contempt for a divinity
+106217756	an integrated set of attitudes and beliefs
+106218000	a shared orientation leading to mutual understanding
+106218144	an orientation that favors experimentation and innovation
+106218349	a fresh orientation; a changed set of attitudes and beliefs
+106218486	a way of regarding situations or topics etc.
+106218836	a situation or topic as if viewed from an altitude or distance
+106218977	the position that the meaning of life should be sought in the future
+106219154	the position of greatest importance or advancement; the leading position in any movement or field
+106219505	a viewpoint toward a city or other heavily populated area
+106219675	an extensive mental viewpoint
+106219906	the generally accepted perspective of a particular discipline at a given time
+106220098	a mental position from which things are viewed
+106220526	a particular perspective or aspect of a situation
+106220699	a range of mental vision
+106220813	a biased way of looking at or presenting something
+106220941	a point of view or general attitude or inclination
+106221124	a comprehensive view of the world and human life
+106221264	the view that the universe resembles a clock built by God and ticking along according to Newtonian mechanics
+106221437	a noncommittal or equivocal position
+106221546	a belief or orientation agreeing with conventional standards
+106221698	orthodoxy in thoughts and belief
+106221890	conformity with conventional thought and behavior
+106222037	strict conformity to the letter of the law rather than its spirit
+106222157	any opinions or doctrines at variance with the official or orthodox position
+106222385	a lack of orthodoxy in thoughts or beliefs
+106222574	an orientation that characterizes the thinking of a group or nation
+106223441	the principle of complete and unrestricted power in government
+106223643	a political theory favoring the abolition of governments
+106223773	a political theory favoring unlimited authority by a single individual
+106223917	the political doctrine of Machiavelli: any means (however unscrupulous) can be used by a ruler in order to create and maintain his autocratic government
+106224132	a political philosophy of avoiding the extremes of left and right by taking a moderate position or course of action
+106224333	a political theory that the people should own the means of production
+106224497	a political theory favoring collectivism in a classless society
+106224796	a form of communism developed in Cuba by Fidel Castro
+106224905	the political and economic theories of Lenin which provided the guiding doctrine of the Soviet Union; the modification of Marxism by Lenin stressed that imperialism is the highest form of capitalism (which shifts the struggle from developed to underdeveloped countries)
+106225248	a form of communism developed in China by Mao Zedong
+106225371	the economic and political theories of Karl Marx and Friedrich Engels that hold that human actions and institutions are economically determined and that class struggle is needed to create historical change and that capitalism will ultimately be superseded by communism
+106225730	the form of communism advocated by Leon Trotsky; calls for immediate worldwide revolution by the proletariat
+106225913	a political or theological orientation advocating the preservation of the best in society and opposing radical changes
+106226161	the strict adherence to the basic principles or doctrines of a religion, ideology, etc.
+106226345	an approach to politics or theology that represents a return to a traditional point of view (in contrast to more liberal or radical schools of thought of the 1960s)
+106226571	extreme conservatism in political or social matters
+106226742	a political orientation favoring political or racial segregation
+106226885	advocacy of a system of government according to constitutional principles
+106227040	the political orientation of those who favor government by the people or by their elected representatives
+106227255	the belief in a gradual transition from capitalism to socialism by democratic means
+106227401	the political theory that if one nation comes under communist control then neighboring nations will also come under communist control
+106227594	the attitude that society should be governed by an elite group of individuals
+106227743	any political theory favoring immoderate uncompromising policies
+106227881	a political theory advocating an authoritarian hierarchical government (as opposed to democracy or liberalism)
+106228099	the idea of a federal organization of more or less self-governing units
+106228245	a political orientation that advocates imperial interests
+106228396	the ideology of the political left; belief in or support of the tenets of the political left
+106228560	a political orientation that favors social progress by reform and by changing laws rather than by revolution
+106228761	the belief that rulers should be chosen for their superior abilities and not because of their wealth or birth
+106228946	a political orientation originating in the 1960s; blends liberal political views with an emphasis on economic growth
+106229122	an ideological belief in freedom of thought, speech and action
+106229245	a belief in and advocacy of monarchy as a political system
+106229360	an ideological position that holds Black culture to be independent and valid on its own terms; an affirmation of the African cultural heritage
+106229558	the political philosophy of the Orleanists
+106229656	the political orientation of those who favor progress toward better conditions in government and society
+106229820	the political orientation of those who favor revolutionary change in government and society
+106229986	the ideology of the most radical element of the French Revolution that instituted the Reign of Terror
+106230144	the political orientation of reactionaries
+106230244	the political orientation of those who hold that a republic is the best form of government
+106230394	the ideology of the political right; belief in or support of the tenets of the political right
+106230561	a political theory advocating state ownership of industry
+106230764	socialism to be established by gradual reforms within the law
+106230900	a form of socialist theory advocating state ownership of industry but managements by guilds of workers
+106231064	socialism achieved by voluntary sacrifice
+106231169	the belief in government by divine guidance
+106231268	the political orientation of a Utopian who believes in impossibly idealistic schemes of social perfection
+106231430	any political orientation favoring compromise to avoid conflict
+106231604	any policy that advocates maintaining peaceful international relations
+106231735	any political orientation favoring aggressive policies
+106231919	a political orientation of a people or a government to maintain a strong military force and to be prepared to use it aggressively to defend or promote national interests
+106232181	a policy of advocating war
+106232281	an attitude toward religion or religious practices
+106232435	a religious orientation of doubt; a denial of ultimate knowledge of the existence of God
+106232658	the heretical doctrine (associated with the Gnostics) that Jesus had no human body and his sufferings and death on the cross were apparent rather than real
+106232886	a religious orientation advocating gnosis as the way to release a person's spiritual element; considered heresy by Christian churches
+106233131	a Gnostic religion originating the 2nd and 3rd centuries that believes John the Baptist was the Messiah and that incorporates Jewish and Christian elements into a framework of dualistic beliefs
+106233395	the doctrine or belief in the existence of a God or gods
+106233684	the form of theological rationalism that believes in God on the basis of reason without reference to revelation
+106233898	belief in a single God
+106234067	belief in multiple Gods
+106234201	(Christianity) the heretical belief that the Father and the Son and the Holy Spirit are three separate gods
+106234419	any of various religions other than Christianity or Judaism or Islamism
+106234593	the system of religion and philosophy taught by the Druids and their rites and ceremonies
+106234737	the doctrine or belief that God is the universe and its phenomena (taken or conceived of as a whole) or the doctrine that regards the universe as a manifestation of God
+106234997	the belief that God is in part of the universe and its phenomena and also transcends the universe and intervenes in its operations
+106235186	the belief that God created the universe and its phenomena by becoming the universe, thereafter the sole manifestation of God
+106235366	(rare) worship that admits or tolerates all gods
+106235488	a religious cult that anticipates a time of joy, serenity, and justice when salvation comes
+106235636	a Brazilian religious cult of African origin; combines voodoo elements with singing and chanting and dancing
+106235798	a religious belief of African origin involving witchcraft and sorcery; practiced in parts of the West Indies and tropical Americas
+106235986	a religious cult based on a belief that Ras Tafari (Haile Selassie) is the Messiah and that Africa (especially Ethiopia) is the Promised Land
+106236188	a monotheistic system of beliefs and practices based on the Old Testament and the teachings of Jesus as embodied in the New Testament and emphasizing the role of Jesus as savior
+106237065	any Christian religion that believes the second coming of Christ is imminent
+106237252	Adventism that is strongly Protestant and observes Saturday as the Sabbath
+106237394	the beliefs and practices of a Catholic Church
+106237584	a religious orientation opposed to Catholicism
+106237693	the beliefs and practices of the Catholic Church based in Rome
+106237839	a Christian movement considered to be a medieval descendant of Manichaeism in southern France in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the Inquisition
+106238217	a schismatic Christian religion in northern Africa from the 4th to the 7th century; held that only those who led a blameless life belonged in the church or could administer the sacraments
+106238477	the beliefs and practices of any of the eastern Catholic Churches based in Constantinople or Antioch or Alexandria or Moscow or Jerusalem
+106238680	the theological system of any of the churches of western Christendom that separated from the Roman Catholic Church during the Reformation
+106239219	the faith and doctrine and practice of the Anglican Church
+106239353	a doctrine and practice within the Church of England emphasizing the Catholic tradition
+106239523	principles of the founders of the Oxford movement as expounded in pamphlets called Tracts for the Times'
+106239699	17th century theology (named after its founder Jacobus Arminius) that opposes the absolute predestinarianism of John Calvin and holds that human free will is compatible with God's sovereignty
+106239966	the theological system of John Calvin and his followers emphasizing omnipotence of God and salvation by grace alone
+106240173	religious system based on teachings of Mary Baker Eddy emphasizing spiritual healing
+106240321	teachings of Martin Luther emphasizing the cardinal doctrine of justification by faith alone
+106240471	a non-doctrinal religion that stresses individual freedom of belief and rejects the Trinity
+106240621	Christian doctrine stressing belief in the Trinity
+106240732	system of beliefs and church government of a Protestant denomination in which each member church is self-governing
+106240928	system of beliefs and practices including belief in scriptural authority; plain dress; adult baptism; foot washing; restriction of marriage to members of the group
+106241149	stresses the importance of personal conversion and faith as the means of salvation
+106241310	an attempt to reawaken the evangelical faith
+106241447	a form of Protestantism that takes the interpretation of every word in the sacred texts as literal truth
+106241648	the religious beliefs and practices of Methodists characterized by concern with social welfare and public morals
+106241834	evangelical principles taught by John Wesley
+106241948	a Protestant movement in the 16th century that believed in the primacy of the Bible, baptised only believers, not infants, and believed in complete separation of church and state
+106242201	any of various doctrines closely related to Anabaptism
+106242320	the doctrines and practices of the Mormon Church based on the Book of Mormon
+106242452	the principles and practices of Pentecostal religious groups; characterized by religious excitement and talking in tongues
+106242653	the doctrines and practices of the Presbyterian Church: based in Calvinism
+106242789	the beliefs and practices characteristic of Puritans (most of whom were Calvinists who wished to purify the Church of England of its Catholic aspects)
+106243034	the monotheistic religion of the Jews having its spiritual and ethical principles embodied chiefly in the Torah and in the Talmud
+106244258	beliefs and practices of a Judaic sect that strictly observes Mosaic law
+106244411	beliefs and practices of a sect of Orthodox Jews
+106244569	a form of Hasidism practiced by Lithuanian and Russian Jews under communist rule; the beliefs and practices of the Lubavitch movement
+106244773	beliefs and practices of Conservative Jews
+106244882	beliefs and practices of Reform Jews
+106244979	the monotheistic religious system of Muslims founded in Arabia in the 7th century and based on the teachings of Muhammad as laid down in the Koran
+106245983	belief in the appearance of the Mahdi; devotion to a Mahdi
+106246131	a militant group of extremist Sunnis who believe themselves the only correct interpreters of the Koran and consider moderate Muslims to be infidels; seek to convert all Muslims and to insure that its own fundamentalist version of Islam will dominate the world
+106246463	the branch of Islam that regards Ali as the legitimate successor to Mohammed and rejects the first three caliphs
+106246646	the branch of Shiism noted for its esoteric philosophy
+106246756	a conservative and intolerant form of Islam that is practiced in Saudi Arabia
+106246956	a body of religious and philosophical beliefs and cultural practices native to India and based on a caste system; it is characterized by a belief in reincarnation, by a belief in a supreme being of many forms and natures, by the view that opposing theories are aspects of one eternal truth, and by a desire for liberation from earthly evils
+106248001	the religious beliefs of ancient India as prescribed in the sacred Vedas and Brahmanas and Upanishads
+106248172	(from the Sanskrit word for to see') one of six orthodox philosophical systems or viewpoints on the nature of reality and the release from bondage to karma
+106248401	(from the Sanskrit word for reflection' or interpretation') one of six orthodox philosophical systems or viewpoints on ritual traditions rooted in the Vedas and the Brahmanas as opposed to Vedanta which relies mostly on the Upanishads
+106248710	(from the Sanskrit for end of the Veda') one of six orthodox philosophical systems or viewpoints rooted in the Upanishads as opposed to Mimamsa which relies on the Vedas and Brahmanas
+106248967	worship of Krishna the 8th avatar of Vishnu
+106249067	worship of Shiva one of the 3 chief gods of the Hindu pantheon
+106249212	worship of Shakti as the wife of Shiva
+106249351	worship of Vishnu one of the 3 chief gods of the Hindu pantheon
+106249497	discipline aimed at training the consciousness for a state of perfect spiritual insight and tranquility that is achieved through the three paths of actions and knowledge and devotion
+106249785	religion founded in the 6th century BC as a revolt against Hinduism; emphasizes asceticism and immortality and transmigration of the soul; denies existence of a perfect or supreme being
+106250061	the doctrines of a monotheistic religion founded in northern India in the 16th century by Guru Nanak and combining elements of Hinduism and Islam
+106250374	the teaching of Buddha that life is permeated with suffering caused by desire, that suffering ceases when desire ceases, and that enlightenment obtained through right conduct and wisdom and meditation releases one from desire and suffering and rebirth
+106250995	one of two great schools of Buddhist doctrine emphasizing a common search for universal salvation especially through faith alone; the dominant religion of China and Tibet and Japan
+106251286	one of two great schools of Buddhist doctrine emphasizing personal salvation through your own efforts; a conservative form of Buddhism that adheres to Pali scriptures and the non-theistic ideal of self purification to nirvana; the dominant religion of Sri Lanka (Ceylon) and Myanmar (Burma) and Thailand and Laos and Cambodia
+106251706	an offensive name for the early conservative Theravada Buddhism; it died out in India but survived in Sri Lanka and was taken from there to other regions of southwestern Asia
+106251955	a Buddhist doctrine that includes elements from India that are not Buddhist and elements of preexisting shamanism
+106252178	a Buddhist doctrine that enlightenment can be attained through direct intuitive insight
+106252367	a form of Buddhism emphasizing mystical symbolism of mantras and mudras and the Buddha's ideal which is inexpressible
+106252557	doctrine of enlightenment as the realization of the oneness of one's self and the visible world; combines elements of Hinduism and paganism including magical and mystical elements like mantras and mudras and erotic rites; especially influential in Tibet
+106252910	one of the main traditions of Mahayana Buddhism; holds that the mind is real but that objects are just ideas or states of consciousness
+106253100	the ultimate principle of the universe
+106253226	popular Chinese philosophical system based in teachings of Lao-tzu but characterized by a pantheism of many gods and the practices of alchemy and divination and magic
+106253477	the ancient indigenous religion of Japan lacking formal dogma; characterized by a veneration of nature spirits and of ancestors
+106253705	a religion founded by Manes in the third century; a synthesis of Zoroastrian dualism between light and dark and Babylonian folklore and Buddhist ethics and superficial elements of Christianity; spread widely in the Roman Empire but had largely died out by 1000
+106254093	ancient Persian religion; popular among Romans during first three centuries a.d.
+106254279	system of religion founded in Persia in the 6th century BC by Zoroaster; set forth in the Zend-Avesta; based on concept of struggle between light (good) and dark (evil)
+106254575	the faith of a Zoroastrian sect in India
+106254682	a religion founded in Iran in 1863; emphasizes the spiritual unity of all humankind; incorporates Christian and Islamic tenets; many adherents live in the United States
+106254982	an animistic religion of northern Asia having the belief that the mediation between the visible and the spirit worlds is effected by shamans
+106255214	any animistic religion similar to Asian shamanism (especially as practiced by certain Native American tribes)
+106255416	the form of Hinduism that revolves primarily around the mythic version and ritual ideologies in the Vedas
+106255592	the polytheistic nature religion of modern witchcraft whose central deity is a mother goddess; claims origins in pre-Christian pagan religions of western Europe
+106255804	belief in a kind of sorcery that originated in Africa and is practiced in the West Indies
+106255946	a religious cult practiced chiefly in Caribbean countries (especially Haiti); involves witchcraft and animistic deities
+106256206	the conviction that people should participate in sports as a hobby (for the fun of it) rather than for money
+106256371	a mystical or allegorical interpretation (especially of Scripture)
+106256491	(physics) a phase space together with a transformation of that space
+106256659	(physics) a dynamical system that is extremely sensitive to its initial conditions
+106256830	(psychoanalysis) an unconscious process whereby two ideas or images combine into a single symbol; especially in dreams
+106257026	an abstract place usually conceived as having depth
+106257311	(psychoanalysis) the process whereby emotions are passed on or displaced from one person to another; during psychoanalysis the displacement of feelings toward others (usually the parents) is onto the analyst
+106257614	the psychoanalyst's displacement of emotion onto the patient or more generally the psychoanalyst's emotional involvement in the therapeutic interaction
+106257831	a rule or condition that limits freedom
+106257997	something that restrains a flood or outpouring
+106258173	the discipline dealing with the principles of warfare
+106258344	the study of methods of escaping (especially as a form of entertainment)
+106258491	the study of handwriting (especially as an indicator of the writer's character or disposition)
+106258660	the study of the supposed occult influence of numbers on human affairs
+106258823	the study of origins and first things
+106258993	the study of the origins and genealogy of the gods
+106259098	the branch of military science dealing with detailed maneuvers to achieve objectives set by strategy
+106259307	the branch of military science dealing with military command and the planning and conduct of a war
+106259551	a Gestalt principle of organization holding that there is an innate tendency to perceive incomplete objects as complete and to close or fill gaps and to perceive asymmetric stimuli as symmetric
+106259815	a Gestalt principle of organization holding that aspects of perceptual field that move or function in a similar manner will be perceived as a unit
+106260040	(linguistics) a doctrine supporting or promoting descriptive linguistics
+106260191	(ethics) a doctrine holding that moral statements have a truth value
+106260338	a Gestalt principle of organization holding that there is an innate tendency to perceive a line as continuing its established direction
+106260574	(linguistics) a doctrine supporting or promoting prescriptive linguistics
+106260727	(ethics) a doctrine holding that moral statements prescribe appropriate attitudes and behavior
+106260901	a Gestalt principle of organization holding that (other things being equal) objects or events that are near to one another (in space or time) are perceived as belonging together as a unit
+106261163	a Gestalt principle of organization holding that (other things being equal) parts of a stimulus field that are similar to each other tend to be perceived as belonging together as a unit
+106261425	a clever method of doing something (especially something new and different)
+106261554	a minor difficulty
+106261683	a heretical Zoroastrian doctrine holding that Zurvan was the ultimate source of the universe and that both Ahura Mazda and Ahriman were Zurvan's offspring
+106261911	communication by means of transmitted signals
+106262268	the activity of communicating; the activity of conveying information
+106262873	mutual communication; communication with each other
+106263084	the transmission of information
+106263270	the opening of a subject to widespread discussion and debate
+106263501	the dissemination of copies of periodicals (as newspapers or magazines)
+106263648	the spreading of something (a belief or practice) into new regions
+106263820	a communication (usually brief) that is written or spoken or signaled
+106264137	message that is transmitted by radio or television
+106264369	a message written in a secret code
+106264501	a message transmitted by means of the sun's rays
+106264605	an intervening substance through which signals can travel as a means for communication
+106264799	a means or instrumentality for storing or communicating information
+106265081	a medium that usually, but not always, provides little involvement together with substantial stimulus; includes speech, television, cartoons
+106265293	a medium that usually, but not always, provides complete involvement together without considerable stimulus; includes radio, film, photography
+106265492	a medium that was once supposed to fill all space and to support the propagation of electromagnetic waves
+106265658	a medium for the expression or achievement of something
+106265931	medium for radio and television broadcasting
+106266190	a medium for written communication
+106266354	paper used for writing or printing
+106266618	a sheet with several pages printed on it; it folds to page size and is bound with other signatures to form a book
+106266806	a sheet of any written or printed material (especially in a manuscript or book)
+106267071	a blank leaf in the front or back of a book
+106267168	a blank leaf inserted between the leaves of a book
+106267274	one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains
+106267718	a sheet that can be easily torn out of a publication
+106267827	something that covers an entire page
+106267949	something that covers (the top or bottom) half of a page
+106268061	right-hand page
+106268146	left-hand page
+106268230	a page of a book displaying the title and author and publisher
+106268349	a first page of some books displaying only the title of the book
+106268486	any page in the sports section of a newspaper
+106268608	two facing pages of a book or other publication
+106268805	the spread at the center of a magazine
+106268976	a magazine center spread; especially a foldout of a large photograph or map or other feature
+106269194	an oversize page that is folded in to a book or magazine
+106269333	the system of numbering pages
+106269505	paper cut to an appropriate size for writing letters; usually with matching envelopes
+106269680	a sheet of stationery with name and address of the organization printed at the top
+106269819	writing paper intended for writing short notes or letters
+106269950	brand name for a slip of notepaper that has an adhesive that allows it to stick to a surface and be removed without damaging the surface
+106270140	a size of paper used especially in Britain
+106270237	a sheet summarizing the editorial conventions to be followed in preparing text for publication
+106270389	a sheet of paper with multiple columns; used by an accountant to assemble figures for financial statements
+106270551	a path over which electrical signals can pass
+106270774	(often plural) a means of communication or access
+106271171	a range of frequencies between two limits
+106271281	a band of adjacent radio frequencies (e.g., assigned for transmitting radio or television signals)
+106271470	an alternative to the regular channels of communication that is used when agreements must be made secretly (especially in diplomacy or government)
+106271713	(metaphor) a channel through which something can be seen or understood
+106271913	a channel for communication between groups
+106272117	official routes of communication
+106272239	(usually plural) transmissions that are disseminated widely to the public
+106272397	transmission that combine media of communication (text and graphics and sound etc.)
+106272575	a multimedia system in which related items of information are connected and can be presented together
+106272829	machine-readable text that is not sequential but is organized so that related items of information are connected
+106273220	a medium that disseminates moving pictures
+106273596	the film industry
+106273673	press that engages in sensational journalism (especially concerning the private lives of public figures)
+106273855	a press not restricted or controlled by government censorship regarding politics or ideology
+106274022	the print media responsible for gathering and publishing news in the form of newspapers or magazines
+106274262	a medium that disseminates printed matter
+106274415	a medium for storing information
+106274548	any storage medium in which different patterns of magnetization are used to represent stored bits or bytes of information
+106274829	a medium that disseminates via telecommunications
+106275051	the system whereby messages are transmitted via the post office
+106275465	a system of conveying mail by aircraft
+106275585	any mail that is physically delivered by the postal service
+106275795	free government delivery of mail in outlying country areas
+106275925	mail that includes letters and postcards and packages sealed against inspection
+106276128	mail that is distributed by a rapid and efficient system
+106276289	a notation written on mail that is to be held at the post office until called for (not in the United States or Canada)
+106276468	express mail carried by relays of riders on horseback; especially between Missouri and California around 1860
+106276636	postal service that handles packages
+106276730	mail consisting of large numbers of identical items (circulars or advertisements) sent to individual addresses at less than 1st-class rates and paid for in one lot
+106276949	advertising sent directly to prospective customers via the mail
+106277070	newspapers and magazines collectively
+106277286	British journalism
+106277363	journalism that presents a story primarily through the use of pictures
+106277531	photography of newsworthy events
+106277626	printed material (text and pictures) produced by an intaglio printing process in a rotary press
+106277798	a daily or weekly publication on folded sheets; contains news and articles and advertisements
+106278217	a newspaper that is published every day
+106278308	a newspaper or official journal
+106278411	a newspaper written and published by students in a school
+106278546	newspaper with half-size pages
+106278644	sensationalist journalism
+106278749	nonfictional prose forming an independent part of a publication
+106279010	a page or text that is vertically divided
+106279220	an article giving opinions or perspectives
+106279437	a special or prominent article in a newspaper or magazine
+106279667	an article published in a magazine
+106279783	an article reporting news
+106280049	an artistic or literary composition
+106280327	a short literary or musical composition
+106280438	a separately printed article that originally appeared in a larger publication
+106280609	a scholarly article describing the results of observations or stating hypotheses
+106280782	an article in a newspaper or magazine or journal that represents opinions and ideas and discussion rather than bare facts
+106280961	a publication (such as a book) that is reprinted without changes or editing and offered again for sale
+106281194	a publication (such as a book) that has been modified or updated and offered again for sale
+106281343	(Christianity) any of the sections into which a creed or other statement of doctrine is divided
+106281532	the introductory section of a story
+106281708	the first line of a piece of writing (as a newspaper story)
+106281845	a news story of major importance
+106281941	a short newspaper article about a particular person or group
+106282056	a short news story presenting sidelights on a major story
+106282167	a newspaper column devoted to personal problems
+106282273	a system of clandestine printing and distribution of dissident or banned literature
+106282431	(often plural) systems used in transmitting messages over a distance electronically
+106282943	transmitting speech at a distance
+106283265	a computerized system for answering and routing telephone calls; telephone messages can be recorded and stored and relayed
+106283456	a telephone connection
+106283860	a return call
+106283947	a telephone call that the receiving party is asked to pay for
+106284067	lets you transfer your incoming calls to any telephone that you can dial direct
+106284208	a telephone call to a radio station or a television station in which the caller participates in the on-going program
+106284396	a way of letting you know that someone else is calling when you are using your telephone
+106284543	a hostile telephone call (from a crank)
+106284639	a telephone call made within a local calling area
+106284745	a telephone call made outside the local calling area
+106284945	a long-distance telephone call at charges above a local rate
+106285061	a telephone call in which more than two people participate
+106285199	a telephone call that you request be made a specific time in order to wake you up at that time (especially in hotels)
+106285413	a way of adding a third party to your conversation without the assistance of a telephone operator
+106285574	communicating at a distance by electric transmission over wire
+106285748	a telegram sent abroad
+106285872	a cheaper form of telegram that is sent abroad for delivery the next day
+106286006	transmission by radio waves
+106286124	telegraphy that uses transmission by radio rather than by wire
+106286287	the bags of letters and packages that are transported by the postal service
+106286630	mail consisting of printed matter qualifying for reduced postal rates
+106286794	third-class mail consisting of advertising and often addressed to resident' or occupant'
+106286940	a message transmitted by telephone
+106287054	a message transmitted by wireless telegraphy
+106287154	telephony that uses transmission by radio rather than by wire
+106287350	taking part in a radio or tv program
+106287555	a system for distributing radio or tv programs
+106287678	communicates two or more signals over a common channel
+106287788	medium for communication
+106287933	broadcasting visual images of stationary or moving objects
+106288456	the visible part of a television transmission
+106288645	(computer science) the appearance of text and graphics on a video display
+106288789	the audible part of a transmitted signal
+106288991	television that is transmitted over cable directly to the receiver
+106289128	a television system that has more than the usual number of lines per frame so its pictures show more detail
+106289315	communication by computer
+106289483	electronic transmission of information that has been encoded digitally (as for storage and processing by computers)
+106289724	a means of digital communications that is capable of very high speeds; suitable for transmission of images or voice or video as well as data

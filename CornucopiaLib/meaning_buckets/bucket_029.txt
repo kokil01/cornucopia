@@ -1,0 +1,1000 @@
+105053810	quality of coming early or earlier in time
+105054016	an advanced stage
+105054210	quality of coming late or later in time
+105054430	preceding in time
+105054768	following in time
+105054929	the quality or habit of adhering to an appointed time
+105055107	the quality or habit of not adhering to a correct or usual or expected time
+105055274	happening or existing or done at the same time
+105055452	the temporal property of two things happening at the same time
+105055841	occurrence or existence together or in connection with one another
+105055984	the property of partial coincidence in time
+105056099	the quality of belonging to the same period of time
+105056288	occurring together or simultaneously
+105056404	being at the right time
+105056609	being at an inappropriate time
+105056807	the quality of being past
+105056959	a time immediately before the present
+105057081	the quality of being in or of the future
+105057266	the quality of being the present
+105057530	the property of belonging to the present time
+105057819	the quality of being current or of the present
+105058239	the timing of ignition relative to the position of the piston in an internal-combustion engine
+105058400	continuance in time
+105058752	duration as an extension
+105058885	duration of service
+105059047	the consequence of being lengthened in duration
+105059394	(music) a prolongation of unspecified length on a note or chord or rest
+105059538	the property of being (or seeming to be) without end
+105059738	the quality of something that continues without end or interruption
+105059983	the property of being of short temporal extent
+105060193	the attribute of being brief or fleeting
+105060366	the property of being able to exist for an indefinite duration
+105060678	the property of being perpetual (seemingly ceaseless)
+105060839	permanence by virtue of the power to resist stress or force
+105061281	the property of a continuous and connected period of time
+105061463	the property of remaining unchanged
+105061577	the property of lasting forever
+105061688	the property of being resistant to decay
+105061897	the property of being extremely durable
+105062014	the property of not existing for indefinitely long durations
+105062292	the property of lasting only a short time
+105062429	an impermanence that suggests the inevitability of ending or dying
+105062654	the lack of enduring qualities (used chiefly of plant parts)
+105062840	the property of lasting for a very short time
+105063029	the tendency of a gas to expand or escape
+105063125	the quality or state of being mortal
+105063253	the quality or state of being immortal
+105063385	(of living things) capable of normal growth and development
+105063537	an audible acoustic wave frequency
+105063641	an electromagnetic wave frequency between audio and infrared
+105063962	the infrared region of the electromagnetic spectrum; electromagnetic wave frequencies below the visible range
+105064212	the frequency assigned to a broadcasting station
+105064314	below 3 kilohertz
+105064426	3 to 30 kilohertz
+105064533	30 to 300 kilohertz
+105064636	300 to 3000 kilohertz
+105064744	3 to 30 megahertz
+105064846	30 to 300 megahertz
+105064956	300 to 3000 megahertz
+105065068	3 to 30 gigahertz
+105065176	30 to 300 gigahertz
+105065291	a rate (usually rapid) at which something happens
+105065731	the relative speed of progress or change
+105066044	a regular rate of repetition
+105066168	rapidity of movement
+105066283	a rate that is rapid
+105066676	the quickness of action or occurrence
+105066981	the property of being prompt and efficient
+105067203	the characteristic of doing things without delay
+105067358	overly eager speed (and possible carelessness)
+105067645	the quality of happening with headlong haste or without warning
+105067952	an increase in rate of change
+105068172	the attribute of being capable of rapid acceleration
+105068318	an unexpected acceleration or hastening
+105068514	a decrease in rate of change
+105068788	(computer science) the speed with which a computational device can execute instructions; measured in MIPS
+105068974	the quality of being gradual or of coming about by gradual stages
+105069146	a rate demonstrating an absence of haste or hurry
+105069424	slowness by virtue of being leisurely
+105069539	slowness as a consequence of not getting around to it
+105069687	the pace of things that move relatively slowly
+105069917	any property relating to or occupying space
+105070162	the spatial property of having dimensions
+105070387	the property of having one dimension
+105070518	the property of having two dimensions
+105070733	the property of having three dimensions
+105070898	the property of resembling a cube
+105071022	the property of being directional or maintaining a direction
+105071206	any spatial attributes (especially as defined by outline)
+105071710	the configuration of a surface and the relations among its man-made and natural features
+105071891	the property of having lobules
+105071996	(mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane
+105072380	a property of polygons: the property of having equal sides and equal angles
+105072555	the property of being symmetrical about a vertical plane
+105072724	the property of symmetry about an axis
+105072886	(mathematics) a lack of symmetry
+105073181	an irregular asymmetry in shape; an irregular spatial pattern
+105073364	an oblique or slanting asymmetry
+105073502	the property of being neither parallel nor perpendicular, but at a slanting angle
+105073659	the absence of symmetry about an axis
+105073795	the property of a microphone or antenna of being more sensitive in one direction than in another
+105074036	the quality of being directive
+105074176	the property of using one hand more than the other
+105074368	the property of being equally skillful with each hand
+105074536	preference for using the left hand
+105074683	preference for using the right hand
+105074848	the property of favoring one foot over the other (as in kicking a ball)
+105074976	the property of favoring one eye over the other (as in taking aim)
+105075097	(dentistry) the normal spatial relation of the teeth when the jaws are closed
+105075249	the property possessed by a line or surface that departs from the vertical
+105075630	the property possessed by a line or surface that departs from the horizontal
+105075885	the gradient of a slope or road or other surface
+105076087	the property possessed by a slope or surface that rises
+105076254	the property possessed by a slope or surface that descends
+105076368	degree of deviation from a horizontal plane
+105076616	(golf) the backward slant on the head of some golf clubs that is designed to drive the ball high in the air
+105076793	the property possessed by a slope that is very steep
+105077022	the property possessed by a slope that is very gradual
+105077201	the property possessed by a concave shape
+105077366	the property of having a sunken area
+105077459	the property possessed by a convex shape
+105077622	the property possessed by a rounded convexity
+105077791	the property possessed by a round shape that is flattened at the poles
+105078018	the property possessed by a shape that has angles
+105078196	an instance of becoming narrow
+105078354	(biology) a narrowing or constriction of a vessel or canal; especially a congenital narrowing of the aorta
+105078537	the property possessed by a shape that narrows toward a point (as a wedge or cone)
+105078725	the property of a shape that tapers to a sharp tip
+105078895	the property of having only a dull tip (if any)
+105079038	the property of being shaped like a rectangle
+105079247	the quality of lying or intersecting at right angles
+105079377	the quality of being at right angles to a given line or plane (especially the plane of the horizon)
+105079575	the property of being shaped like a square
+105079692	the property of being shaped like a triangle
+105079832	the property possessed by the curving of a line or surface
+105080080	the property possessed by a line or surface that is curved and not angular
+105080300	the roundness of a 3-dimensional object
+105080572	the roundness of a 3-dimensional cylinder
+105080728	the roundness of a 2-dimensional figure
+105080892	the quality of having the same center (as circles inside one another)
+105081057	a circularity that has a different center or deviates from a circular path
+105081226	freedom from crooks or curves or bends or angles
+105081387	having or distinguished by crooks or curves or bends or angles
+105081543	(of hair) a tendency to curl
+105081728	(of hair) lack of a tendency to curl
+105081859	a layered configuration
+105081943	the spatial property of a place where or way in which something is situated
+105082771	the spatial property of the way in which something is placed
+105083238	(architecture) the arrangement of columns (especially freestanding columns) in a structure
+105083406	the spatial property of the position from which something is observed
+105083553	the point of view of a camera
+105083641	the spatial property resulting from the arrangement of parts in relation to each other and to the whole
+105083878	the arrangement of windows in a building
+105083996	harmonious arrangement or relation of parts or elements within a whole (as in a design)
+105084315	the spatial property possessed by an arrangement or position of things in a straight line or in parallel lines
+105084517	proper alignment; the property possessed by something that is in correct or proper alignment
+105084693	the spatial property of things that are not properly aligned
+105084830	the quality of occupying the same position or area in space
+105085032	the position of a crank when it is in line with the connecting rod and not exerting torque
+105085232	the property of being central
+105085354	the property of being marginal or on the fringes
+105085496	the quality of being in front or (in lower animals) toward the head
+105085657	the quality of being toward the back or toward the rear end
+105085830	the quality or state of being outside or directed toward or relating to the outside or exterior
+105086101	the quality or state of being inward or internal
+105086281	faulty position
+105086387	the property of being to the north
+105086516	the property of being to the south
+105086681	the quality of being parallel to the horizon
+105086845	position at right angles to the horizon
+105087073	the arrangement of the body and its limbs
+105087589	classical position of the body and especially the feet in ballet
+105087733	a reclining position (as in a bed)
+105087823	the position of being turned outward
+105087960	a position lying on your back with knees bent and thighs apart; assumed for vaginal or rectal examination
+105088130	a sitting position with the legs crossed; used in yoga
+105088264	a position for sexual intercourse; a man and woman lie facing each other with the man on top; so-called because missionaries thought it the proper position for primitive peoples
+105088507	a posture assumed by models for photographic or artistic purposes
+105088641	(obstetrics) position of the fetus in the uterus relative to the birth canal
+105088867	abnormal position of a part or organ (especially at the time of birth)
+105089009	position in which the dancer has one leg raised behind and arms outstretched in a conventional pose
+105089164	(Hinduism) a posture or manner of sitting (as in the practice of yoga)
+105089323	(Hinduism) a religious posture
+105089429	a posture of defence in boxing or fencing
+105089544	an ungainly posture with arms and legs spread about
+105089714	standing posture
+105089855	the stance assumed by a golfer in preparation for hitting a golf ball
+105089997	a motionless erect stance with arms at the sides and feet together; assumed by military personnel during drill or review
+105090261	the property of being upright in posture
+105090407	an arrangement of branching parts
+105090535	the property possessed by an array of things that have space between them
+105090774	an arrangement of two or more objects or persons one behind another
+105090894	(sports) a bodily position adopted in some sports (such as diving or skiing) in which the knees are bent and the thighs are drawn close to the chest
+105091112	without obstructions to passage or view
+105091274	the openness (lack of obstruction) of a bodily passage or duct
+105091408	the property created by the space between two objects or points
+105091940	the property of distance in general
+105092096	a distance
+105092189	the arithmetic mean of the maximum and minimum distances of a celestial body (satellite or secondary star) from its primary
+105092372	the property of being remote
+105092643	distance estimated in terms of the audibility of a cry
+105092779	the spatial property resulting from a relatively small distance
+105093074	the property of being close together
+105093198	the attribute of being so near as to be touching
+105093476	the distance (measured in the direction of propagation) between two points in the same phase in consecutive cycles of a wave
+105093657	the distance from a lens to its focus
+105093770	the distance in front of a lens that is focused at infinity beyond which all objects are well defined and clear
+105093947	the distance leaped (or to be leaped)
+105094110	(ballet) the height of a dancer's leap or jump
+105094268	the distance or interval between two points
+105094380	the distance from the center of a car's front wheel to the rear axle
+105094504	the spatial or geographic property of being scattered about over a range, area, or volume
+105094871	(linguistics) a distribution of related speech sounds or forms in such a way that they only appear in different contexts
+105095101	the dispersion or spreading of something that was originally localized (as a people or language or culture)
+105095263	the property of being diffused or dispersed
+105095396	the distribution of nerve fibers to an organ or body region
+105095531	a haphazard distribution in all directions
+105095852	the spatial property of being spread out over a wide area or through a large volume
+105096011	the spatial property of being crowded together
+105096255	a measure of how densely information is packed on a storage medium
+105096406	(physics) the number of changes in energy flow across a given surface per unit area
+105096574	(physics) a measure of the extent to which a substance transmits light or other electromagnetic radiation
+105096819	a rarified quality
+105096989	the ratio of the density of something to the density of a standard
+105097154	the distance between things
+105097318	the distance by which one thing clears another; the space between them
+105097462	degree of figurative distance or separation
+105097645	the property of relative size or extent (whether large or small)
+105098183	(astronomy) the magnitude that a star would have if it were viewed from a distance of 10 parsecs (32.62 light years) from the earth
+105098398	magnitude or extent
+105098520	a degree in a continuum of size or quantity
+105098731	(communication theory) a numerical measure of the uncertainty of an outcome
+105098974	a measure of how likely it is that some event will occur; a number expressing the ratio of favorable cases to the whole number of cases possible
+105099498	the probability that an event will occur given that one or more other events have occurred
+105099683	(physics) the probability that a particular interaction (as capture or ionization) will take place between particles; measured in barns
+105099897	(geology) the probability that an earthquake will generate a level of ground motion that exceeds a specified reference level during a given exposure time
+105100231	a reasonable probability of success
+105100342	little or no chance of success
+105100443	the probability of two events occurring together
+105100555	the probability of being exposed to an infectious agent
+105100680	the probability of becoming infected given that exposure to an infectious agent has occurred
+105100843	the magnitude of something in a particular direction (especially length or width or height)
+105101152	a position on a scale of intensity or amount or quality
+105101686	the grade of particle fineness to which a substance is ground
+105101827	the seriousness of something (e.g., a burn or crime)
+105101987	degree of psychological or intellectual profundity
+105102125	intellectual depth; penetrating knowledge; keen insight; etc
+105102373	lack of depth of knowledge or thought or feeling
+105102586	a kind of fluent easy superficiality
+105102823	pretentious superficiality of knowledge
+105102953	the property resulting from being one of a series of graduated measurements (as of clothing)
+105103357	a garment size for a very large person
+105103453	a garment size for a large person
+105103556	a clothing measurement
+105103670	the size of a book whose pages are made by folding a sheet of paper three times to form eight leaves
+105103839	an unusual garment size (especially one that is very large)
+105103970	a garment size for short or slender women
+105104082	the size of a book whose pages are made by folding a sheet of paper twice to form four leaves
+105104234	a garment size for persons of average height and weight
+105104343	a garment size for a small person
+105104428	a garment size for a large or heavy person
+105104540	a garment size for a tall person
+105104623	a high degree (of amount or force etc.)
+105104798	a lofty level or position or degree
+105104968	a low level or position or degree
+105105107	a low or small degree of any quality (amount or force or temperature etc.)
+105105361	the furthest or highest degree of something
+105105487	the quality of being extreme
+105105573	greatness of magnitude
+105105687	the level on a scale of amplitude
+105105782	the amplitude level of the desired signal
+105105882	the amplitude level of the undesired background noise
+105106012	the property of being multiple
+105106119	the property of being triple
+105106204	the physical magnitude of something (how big it is)
+105106493	a large magnitude
+105106651	the property of something that is great in magnitude
+105106924	greatness of quantity or measure or extent
+105107058	the amount of energy transmitted (as by acoustic or electromagnetic radiation)
+105107418	the intensity level that is just barely perceptible
+105107531	the vector sum of all the forces exerted by an electrical or magnetic field (on a unit mass or unit charge or unit magnetic pole) at a given point in the field
+105107787	the amount of magnetic flux in a unit area perpendicular to the direction of magnetic flow
+105108013	luminous intensity measured in candelas
+105108128	the physical intensity of sound
+105108243	(acoustics) the pressure exerted on a surface normal to the direction of propagation of a sound wave
+105108436	half the maximum intensity
+105108523	the size of something as given by the distance around it
+105108669	the distance around a person's body
+105108774	the expansion of a person's girth (especially at middle age)
+105108937	the length of the closed curve of a circle
+105109077	the length of a straight line passing through the center of a circle and connecting two points on the circumference
+105109363	the length of a line segment between the center and circumference of a circle or sphere
+105109562	the apparent radius of a celestial body when viewed as a disc from the earth
+105109697	the rate of change (at a point) of the angle between a curve and a tangent to the curve
+105109840	the radius of the circle of curvature; the absolute value of the reciprocal of the curvature of a curve at a given point
+105110026	the center of the circle of curvature
+105110189	the circle that touches a curve (on the concave side) and whose radius is the radius of curvature
+105110372	the dimension through an object as opposed to its length or width
+105110583	diameter of a tube or gun barrel
+105110730	the thickness of wire
+105110803	the space between the projectile of a smoothbore gun and the surface of the bore of the gun
+105110948	relatively small dimension through an object as opposed to its length or width
+105111246	the property of having a relatively great size
+105111556	the property of impressive largeness in size
+105111721	an unwieldy largeness
+105111848	unusual largeness in size or extent or number
+105112309	vastness of size or extent
+105112565	spatial largeness and extensiveness (especially inside a building)
+105113045	the property of something spacious and abounding in fresh air
+105113179	the number of people that can be seated in a vehicle or auditorium or stadium etc.
+105113324	greatness of volume
+105113520	excessive largeness of stature
+105113617	large or extensive in breadth or importance or comprehensiveness
+105113933	the property of having a relatively small size
+105114228	the property of being very small in size
+105114516	smallness of stature
+105114622	the smallest possible unit of anything
+105114795	smallness of stature
+105114968	smallness of stature
+105115065	the relative magnitude of something with reference to a criterion
+105115409	an amount greater than zero
+105115562	an amount less than zero
+105115712	the minimum amount (of something) required to start or maintain a venture
+105116040	an adequate or large amount
+105116247	the amount by which something increases
+105116624	the amount of increase in signal power or voltage or current expressed as the ratio of output to input
+105116811	something added to complete or embellish or make perfect
+105117108	the amount by which something decreases
+105117286	increase in the sum charged for riding in a public conveyance
+105117407	increase in price
+105117485	the amount a salary is increased
+105117708	an increase in cost
+105117883	the property of being a relatively small amount
+105118072	a quantity added (e.g. to make up for a deficiency)
+105118288	the amount by which taxes are increased
+105118441	a small increase
+105118548	(telecommunication) the gain of a feedback amplifier or system as a function of how much output is fed back to the input
+105118811	a drop in stock market activity or stock prices following a period of increases
+105119004	a decrease in voltage along a conductor through which current is flowing
+105119135	a sudden sharp decrease in some quantity
+105119515	the amount by which something shrinks
+105119608	the volume measured in dollars
+105119774	the quality of being close and poorly ventilated
+105119909	the quality of being sufficient for the end in view
+105120210	the property of being more than sufficient; comfortable sufficiency
+105120433	lack of an adequate quantity or number
+105120762	the quality of being meager
+105121229	meagerness or poorness connoted by a superfluity of water (in a literary style as well as in a food)
+105121562	restricted to bare necessities
+105121671	the property of being an amount by which something is less than expected or required
+105121952	temporary oxygen shortage in cells resulting from strenuous exercise
+105122081	the property of being scanty or scattered; lacking denseness
+105122340	the property of a more than adequate quantity or supply
+105122718	the property of copious abundance
+105122868	a full supply
+105123104	the property of being extremely abundant
+105123428	the quality of profuse abundance
+105123543	the property of being lush and abundant and a pleasure to the senses
+105123786	a profusion of growth on or over something else
+105123890	the lush appearance of flourishing vegetation
+105124030	a bewildering profusion
+105124253	a small and inadequate amount
+105124440	an insufficient quantity or number
+105124537	noteworthy scarcity
+105124706	the quality of being slight or inadequate
+105124960	quality of being moderate and avoiding extremes
+105125277	the middle between extremes
+105125362	moderation in expectations
+105125551	the quality of being excessive and lacking in moderation
+105125737	immoderation as a consequence of going beyond sufficient or permitted limits
+105126007	the degree to which a sunscreen protects the skin from the direct rays of the sun
+105126162	the quality of exceeding the appropriate limits of decorum or probability or truth
+105126396	excessive excess
+105126523	something that is an indulgence rather than a necessity
+105126667	a quantity that is more than what is appropriate
+105127014	a quantity much larger than is needed
+105127137	the quality of being so overabundant that prices fall
+105127300	an undesirable overabundance
+105127416	extreme excess
+105127610	the attribute of being superfluous and unneeded
+105127864	someone or something that is unwanted and unneeded
+105127983	an amount beyond the minimum necessary
+105128135	the margin required in order to insure safety
+105128395	a small margin
+105128718	the property possessed by a sum or total or indefinite quantity of units or individuals
+105129173	a large number
+105129364	a superiority in numbers or amount
+105129560	a very large number (especially of people)
+105129684	a number beyond counting
+105129822	the property resulting from being or relating to the greater in number of two parts; the main part
+105130115	being or relating to the smaller in number of two parts
+105130363	the quality of being small in number
+105130471	the quality of being round numbers
+105130681	the distance or area or volume over which something extends
+105131025	the extent to which something is covered
+105131200	the extent of land abutting on a street or water
+105131322	the greatest possible degree of something
+105131669	a narrow boundary
+105131799	the quality of being complete or utter or extreme
+105132057	a limit to high speed flight imposed by aerodynamic heating
+105132193	the greatest possible degree
+105132458	the limit beyond which something happens or changes
+105132642	an area in which something acts or operates or has power or control:
+105133331	near to the scope or range of something
+105133493	a bounded scope
+105133627	the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)
+105133876	quality of being international in scope
+105134114	(music) the timbre that is characteristic of a certain range and manner of production of the human voice or of different pipe organ stops or of different musical instruments
+105134415	the higher ranges of the voice in speaking or singing; the vibrations of sung notes are felt in the head
+105134622	a male singing voice with artificially high tones in an upper register
+105134765	the lower ranges of the voice in speaking or singing
+105134905	scope for freedom of e.g. action or thought; freedom from restriction
+105135047	the range of interest or activity that can be anticipated
+105135224	a wide scope
+105135361	a complete extent or range:
+105135484	a broad range of related objects or values or qualities or ideas or activities
+105135635	the range of colour characteristic of a particular artist or painting or school of art
+105135784	the extent of a 2-dimensional surface enclosed within a boundary
+105136135	an area of ground used for some particular purpose (such as building or farming)
+105136319	the area taken up by some object
+105136466	the linear extent in space from one end to the other; the longest dimension of something that is fixed in place
+105136830	size of the gap between two places
+105137193	a distance sufficient to exclude intimacy
+105137293	the distance between the rails of a railway or between the wheels of a train
+105137475	distance measured in terms of the speed of light (or radio waves)
+105137667	the shortest distance that permits radio signals (of a given frequency) to travel from the transmitter to the receiver by reflection from the ionosphere
+105137879	linear distance between the extremities of an airfoil
+105138000	distance between the tips of the wings (as of a bird or insect) when fully extended
+105138140	distance measured in the aggregate number of yards
+105138288	distance measured by the time taken to cover it
+105138459	distance measured in miles
+105138548	distance of something above a reference point (such as sea level)
+105138802	equality of elevation above sea level
+105138912	elevation especially above sea level or above the earth's surface
+105139167	height above ground
+105139310	the height of the ground on which something stands
+105139486	the level of the surface of a body of water
+105139605	level of the ocean's surface (especially that halfway between mean high and low tide); used as a standard in reckoning land elevation or sea depth
+105139807	(meteorology) altitude of the lowest layer of clouds
+105139932	maximum altitude at which a plane can fly (under specified conditions)
+105140092	the maximum altitude at which an airplane can maintain horizontal flight
+105140227	altitude above which a plane cannot climb faster than a given rate
+105140372	the property of being the extent of something from beginning to end
+105140552	the property of being of long spatial extent
+105140800	amount or degree or range to which something extends
+105141013	equality of extension or duration
+105141104	the quality of being elongated
+105141209	the property of being of short spatial extent
+105141387	the temporal property of being cut short
+105141503	the temporal property of being very short
+105141618	the attribute or quality of being deep, strong, or intense
+105141812	the extent downward or backward or inward
+105142145	the quality of being physically deep
+105142420	the depth of a vessel's keel below the surface (especially when loaded)
+105142553	the depth to which something penetrates (especially the depth reached by a projectile that hits a target)
+105142716	a measure of the depth of water taken with a sounding line
+105142847	the property of being very deep; without limit
+105142990	the quality of lacking physical depth
+105143216	shallowness in terms of affecting only surface layers of something
+105143415	the extent of something from side to side
+105143608	the property of being wide; having great width
+105143811	(nautical) breadth amidships
+105143927	used of a line or mark
+105144053	the property of being narrow; having little width
+105144243	the property of being very narrow or thin
+105144430	the vertical dimension of extension; distance from the base of something to the top
+105144667	the quality of being high or lofty
+105144822	the quality of being low; lacking height
+105145043	the property of being short and broad
+105145203	the property of being truncated or short
+105145330	the dimension whereby a solid object differs from a two-dimensional drawing of it
+105145473	the quality that renders something desirable or valuable or useful
+105145753	the quality (positive or negative) that renders something desirable or valuable
+105146223	any admirable quality or attribute
+105146359	the quality of being inadequate or falling short of perfection
+105146607	the property of deserving praise
+105146701	value sufficient to repay time or effort spent
+105146826	having no qualities that would render it valuable or useful
+105147207	worthlessness due to being feeble and ineffectual
+105147351	the quality of lacking substance or value
+105147543	worthlessness due to insignificance
+105147719	having none of the properties that endow something with value
+105147858	the quality of being cheaply imitative of something better
+105148040	something of little value
+105148287	the quality of being valueless or futile
+105148469	the positive quality of being precious and beyond value
+105148739	something likened to the metal in brightness or preciousness or superiority etc.
+105148930	the high value or worth of something
+105149087	the quality of being worthy of desiring
+105149255	the quality possessed by something that should be avoided
+105149427	that which is pleasing or valuable or useful
+105149888	something that aids or promotes well-being
+105150110	benefit resulting from some event or action
+105150324	a reason for wanting something done
+105150547	for someone's benefit (usually expressed as in behalf' rather than on behalf' and usually with a possessive)
+105150805	something superior in quality or condition or effect
+105150937	the superior one of two alternatives
+105151111	most favorable conditions or greatest degree or amount possible under given circumstances
+105151326	that which is below standard or expectations as of ethics or decency
+105151700	something inferior in quality or condition or effect
+105151910	that which causes harm or destruction or misfortune
+105152127	(New Testament) the four evils that will come at the end of the world: conquest rides a white horse; war a red horse; famine a black horse; plague a pale horse
+105152365	the property of having material worth (often indicated by the amount of money something would bring if sold)
+105152820	total cost for all units bought (or produced) divided by the number of units
+105152955	the increase or decrease in costs as a result of one more or one less unit of output
+105153138	the quality of being high-priced
+105153302	the market value set on assets
+105153425	the value set on taxable property
+105153519	the quality possessed by something with a great price or value
+105153718	the quality possessed by something that is excessively expensive
+105153986	the quality of being affordable
+105154151	the property of being moderate in price or expenditures
+105154484	a price below the standard price
+105154628	the quality of something that causes or assists healthy growth
+105154833	the property of producing abundantly and sustaining vigorous and luxuriant growth
+105155187	the quality of being productive or having the power to produce
+105155433	the quality of yielding nothing of value
+105155646	less than adequate
+105155786	the quality of lacking the power to produce
+105155946	the quality of being of practical use
+105156374	detergent quality; the quality of having cleansing power
+105156572	what something is used for
+105156836	the purpose that justifies a thing's existence
+105156942	the property of providing useful assistance
+105157079	a means of serving
+105157225	a particular service
+105157376	the quality of being able to provide good service
+105157705	the quality of being instrumental for some purpose
+105157835	the quality of having no practical use
+105158102	uselessness as a consequence of having no practical result
+105158233	the quality of being without practical use
+105158335	concerned with actual use rather than theoretical possibilities
+105158619	capable of serving a purpose well
+105158823	capable of being done in a practical and useful way
+105158948	the quality of showing good sense or practical judgment
+105159116	the attribute of accepting the facts of life and favoring practicality and literal truth
+105159397	the quality of being usable
+105159611	the quality of being doable
+105159765	concerned with theoretical possibilities rather than actual use
+105159943	impracticality by virtue of thinking of things in their ideal form rather than as they really are
+105160149	impractical romantic ideals and attitudes
+105160284	quixotic (romantic and impractical) behavior
+105160402	the quality of not being usable
+105160606	the quality of not being doable
+105160767	the quality of being adequately or well qualified physically and intellectually
+105161042	the quality of being qualified
+105161144	(linguistics) a speaker's implicit, internalized knowledge of the rules of their language (contrasted with linguistic performance)
+105161361	the quality of having great facility and competence
+105161488	lack of physical or intellectual ability or qualifications
+105161764	a useful or valuable quality
+105161923	a source of aid or support that may be drawn upon when needed
+105162155	a person or thing that is a resource that helps make something easier or possible to do
+105162506	something or someone turned to for assistance or security
+105162732	refuge from danger or observation
+105162859	the quality of being able to cope with a difficult situation
+105163033	a resource provided by the mind or one's personal capabilities
+105163204	the quality of having a superior or more favorable position
+105163702	an advantage to the benefit of someone or something
+105163864	strategic advantage; power to act effectively
+105164056	leverage in the form of an inducement or a concession useful in successful negotiations
+105164205	advantage given to a competitor to equalize chances of winning
+105164376	the advantage of playing on your home court in front of fans who are rooting for you
+105164526	an advantage held by a competitor in a race
+105164657	special advantage or influence
+105164789	the advantage gained by beginning early (as in a race)
+105164957	the advantageous quality of being beneficial
+105165115	the quality of taking advantage
+105165249	the quality of affording gain or benefit or profit
+105165478	grant of favor or advantage to one over another (especially to a country or countries in matters of international trade, such as levying duties)
+105165679	a special advantage or immunity or benefit not enjoyed by all
+105165814	the quality of being suited to the end in view
+105166002	the quality of being at a competitive advantage
+105166240	a slight competitive advantage
+105166358	a favorable position in a competition
+105166506	position of advantage and control
+105166608	an asset of special worth or utility
+105166878	a special ability to make plants grow
+105166989	an attribute that is inadequate or deficient
+105167108	benefit
+105167237	the good of a community
+105167331	the quality of being prudent and sensible
+105167556	not mentally or physically healthy
+105167782	the quality of being advisable
+105167957	goodness of reason and judgment
+105168179	the quality of being encouraging or promising of a successful outcome
+105168623	the favorable quality of strongly indicating a successful result
+105168909	the quality of being something that holds you back
+105169087	the quality of having an inferior or less favorable position
+105169440	the quality of not being encouraging or indicative of success
+105169744	the quality of suggesting an unsuccessful result
+105169982	the quality of being limited or restricted
+105170169	a failing or deficiency
+105170334	the quality of an embarrassing situation
+105170512	the disadvantage that results from losing something
+105170716	(games) a handicap or disadvantage that is imposed on a competitor (or a team) for an infraction of the rules of the game
+105170928	(golf) a handicap of zero strokes
+105171109	(ice hockey) a penalty that suspends a player for the remainder of a game (but allows the team to send in a substitute for the suspended player)
+105171334	value measured by what must be given or done or undergone to obtain something
+105171628	the quality of having high intrinsic value
+105171880	the number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster
+105172048	the quality of being a hindrance
+105172200	a drawback or difficulty that is not readily evident
+105172372	the disadvantage or painful consequences of an action or condition
+105172555	the quality of being ill-advised
+105172702	the quality of being a competitive disadvantage
+105172830	the quality of being unsuited to the end in view
+105173060	the quality of affording no gain or no benefit or no profit
+105173272	the quality of serving to build or improve
+105173431	the quality of causing destruction
+105173599	destructiveness that causes harm or injury
+105173787	subtle and cumulative harmfulness (especially of a disease)
+105173924	anything that harms or destroys
+105174087	extreme harmfulness (as the capacity of a microorganism to cause disease)
+105174332	a quality or state characterized by certainty or acceptance or affirmation and dogmatic assertiveness
+105174644	the agreeable quality of one who assents
+105174764	aggressive self-assurance; given to making bold assertions
+105174939	offensive boldness and assertiveness
+105175145	characterized by habitual skepticism and a disagreeable tendency to deny or oppose or resist suggestions or commands
+105175454	the quality or customs or mannerisms characteristic of Western civilizations
+105175590	the quality or customs or mannerisms characteristic of Asian civilizations
+105175788	the quality of being important and worthy of note
+105176224	anything of great importance or consequence
+105176322	status in the eyes of others
+105176417	relative importance
+105176564	importance or value
+105176769	(used with negation) having consequence
+105176939	utmost importance
+105177034	relative importance
+105177128	the property possessed by something or someone of outstanding importance or eminence
+105177340	the quality of being significant
+105177615	significance owing to its history
+105177763	the quality of having great value or significance
+105177927	the quality of having a definite purpose
+105178101	having important effects or influence
+105178450	dire consequences
+105178572	basic importance
+105178879	the quality of being essential to maintain life
+105179018	the quality possessed by something that you cannot possibly do without
+105179327	pressing importance requiring speedy action
+105179505	the attribute of urgency in tone of voice
+105179658	the quality of being insistent
+105179849	the relative importance granted to something
+105180123	the quality of not being important or worthy of note
+105180342	not of basic importance
+105180480	the quality possessed by something that you can get along without
+105180732	the quality of being unimportant and petty or frivolous
+105180970	a triviality not to be taken seriously
+105181106	the quality of having little or no significance
+105181322	the quality of having no value or significance
+105181550	total lack of meaning or ideas
+105181853	the quality of lacking any definite purpose
+105182044	having no important effects or influence
+105182180	an abstract idea of that which is due to a person or governmental body by law or tradition or nature
+105182994	the right to obtain or make use of or take advantage of something (as services or membership)
+105183140	the right in English law of presenting a nominee to a vacant ecclesiastical benefice
+105183298	the exclusive right of a country to control the air traffic within its borders
+105183431	an informal right to something
+105183609	that which is deserved or owed
+105183715	the right to enter
+105183868	the parliamentary right to address an assembly
+105184004	a right or privilege that has been granted
+105184134	official permission or approval
+105184373	(law) any basic right or freedom to which all human beings are entitled and in whose exercise a government may not interfere (including rights to life and liberty as well as freedom of thought and expression and equality before the law)
+105184812	a right based in law
+105185232	the right of a defendant to have a court use its subpoena power to compel the appearance of material witnesses before the court
+105185424	the right of married persons to the enjoyment of association and sympathy and confidence and domestic happiness and the comfort of living together and eating meals at the same table and profiting from joint property right and the intimacies of domestic relations
+105185747	the legal right in a prison for the inmate and spouse to have sexual intercourse
+105185921	the right to purchase something in advance of others
+105186098	the right of a government to seize or appropriate something (as property)
+105186242	a right reserved exclusively by a particular person or group (especially a hereditary or official right)
+105186554	any easement enjoyed by the public in general (as the public's right to use public streets)
+105186707	(law) the privilege of using something that is not your own (as using another's land as a right of way to your own land)
+105186937	the right to be admitted onto the floor of a legislative assembly while it is in session
+105187094	(law) the right to refuse to divulge information obtained in a confidential relationship
+105187365	the right of a lawyer to refuse to divulge confidential information from his client
+105187520	the right of the government to refuse to reveal the identity of an informer
+105187662	the right of a journalist to refuse to divulge sources of confidential information
+105187813	neither spouse can divulge confidential communications from the other while they were married
+105188010	the right of a physician to refuse to divulge confidential information from a patient without the consent of the patient
+105188204	the right of a clergyman to refuse to divulge confidential information received from a person during confession or similar exchanges
+105188408	anything providing a means of access (or escape)
+105188605	freedom of access
+105188726	an established or recognized right
+105189022	right granted by law or contract (especially a right to benefits)
+105189243	right to be free of unsanctioned intrusion
+105189348	the right to live
+105189425	the right to be free
+105189508	the right to try to find happiness
+105189622	the right to hold unpopular ideas
+105189720	the right to equal protection of the laws
+105189831	right or rights belonging to a person by reason of citizenship including especially the fundamental freedoms and privileges guaranteed by the 13th and 14th amendments and subsequent acts of Congress including the right to legal and social and economic equality
+105190510	fundamental individual right protected by law and expressed as immunity from unwarranted governmental interference
+105190721	the civil right to obtain a writ of habeas corpus as protection against illegal imprisonment
+105190892	a civil right guaranteed by the First Amendment to the US Constitution
+105191047	a civil right guaranteed by the First Amendment to the US Constitution
+105191200	a right guaranteed by the First Amendment to the US Constitution
+105191350	the right to peaceably assemble and to petition the government for redress of grievances; guaranteed by the First Amendment to the US Constitution
+105191581	a right guaranteed by the 2nd amendment to the US Constitution
+105191729	a right guaranteed by the 4th amendment to the US Constitution
+105191888	a right guaranteed by the Fifth Amendment to the US Constitution; reaffirmed by the Fourteenth Amendment
+105192078	the civil right (guaranteed by the Fifth Amendment to the United States Constitution) to refuse to answer questions or otherwise give testimony against yourself
+105192374	a civil right guaranteed by the Fifth Amendment to the US Constitution
+105192538	a civil right guaranteed by the 6th amendment to the US Constitution
+105192712	a civil right guaranteed by the 6th amendment to the US Constitution
+105192866	a right guaranteed by the 6th amendment to the US Constitution
+105193020	a right guaranteed by the 8th amendment to the US Constitution
+105193189	a civil right guaranteed by the 13th amendment to the US Constitution
+105193358	a right guaranteed by the Fourteenth Amendment to the US Constitution and by the due-process clause of the Fifth Amendment
+105193574	a legal right guaranteed by the 15th amendment to the US Constitution; guaranteed to women by the 19th amendment
+105193894	suffrage for all adults who are not disqualified by the laws of the country
+105194034	immunity from discrimination on the basis of race or sex or nationality or religion or age; guaranteed by federal laws of the United States
+105194266	the right to equivalent opportunities for employment regardless of race or color or sex or national origin
+105194455	the right of the state to take private property for public use; the Fifth Amendment that was added to the Constitution of the United States requires that just compensation be made
+105194714	a statutory right or privilege granted to a person or group by a government (especially the rights of citizenship and the right to vote)
+105194979	the right of being represented by delegates who have a voice in some legislative body
+105195125	the legal right to sue
+105195209	the right of a belligerent to stop neutral ships on the high seas in wartime and search them
+105195363	the right of one vehicle or vessel to take precedence over another
+105195488	the rights conceded to the states by the United States constitution
+105195635	the right to vote; especially the right of a common shareholder to vote in person or by proxy on the affairs of a company
+105195815	right of access to water
+105195914	the right granted by a patent; especially the exclusive right to an invention
+105196069	in probate law: the legal right of a surviving spouse to elect to take either what the deceased spouse gave under the will or the share of the estate as set forth by statute
+105196325	the legal right to take possession of real estate in a peaceable manner
+105196476	the legal right to resume possession (a right that was reserved when a former possession was parted with)
+105196664	(banking) the legal right of a bank to seize deposited funds to cover a loan that is in default
+105196859	a legal right (not explicitly provided in the United States Constitution) to be left alone; the right to live life free from unwarranted publicity
+105197087	the privilege of someone to pass over land belonging to someone else
+105197214	the legal right to sit as a member in a legislative or similar body
+105197374	(law) the exercise of the legal right to enjoy the benefits of owning property
+105197624	a legal right to use and derive profit from property belonging to someone else provided that the property itself is not injured in any way
+105197854	the right granted by a court to a parent (or other relative) who is deprived of custody of a child to visit the child on a regular basis
+105198072	possession of controlling influence
+105198754	superiority in power or influence
+105198963	power to influence or coerce
+105199100	the power to induce the taking of a course of action or the embracing of a point of view by means of argument or entreaty
+105199398	the power of argument or evidence to cause belief
+105199508	the quality of being overpowering and impossible to resist
+105199719	the power of attracting or holding one's attention (because it is unusual or exciting etc.)
+105200165	the quality of being sufficiently interesting to be reported in news bulletins
+105200428	the attribute of being of interest at the present time
+105200606	interest and variety and intensity
+105200889	the quality of being sharp or harsh to the senses
+105201049	complete power over a person or situation
+105201311	controlling influence
+105201419	a power to affect persons or events especially power based on prestige etc
+105201703	the oppressive influence of past events or decisions
+105201846	a powerful effect or influence
+105202142	an intellectual hold or understanding
+105202443	something that acts like a tentacle in its ability to grasp and hold
+105202630	a force that compels
+105202816	compulsory force or threat
+105202921	an animating or vital unifying force
+105203064	an essential or life-giving force
+105203188	forces that provide energy and direction
+105203322	the power to repel
+105203488	the property of being water-repellent; tending to repel and not absorb water
+105203643	power to direct or determine
+105203850	the power or right to give orders or make decisions
+105204311	control of a state or organization by large interest groups
+105204500	power by which something or someone is affected or dominated
+105204656	rigorous or ruthless control
+105204842	any means of control
+105204969	complete freedom or authority to act
+105205065	the power or authority to command
+105205213	supreme authority; absolute dominion
+105205304	the authority of a lord
+105205400	authority or power or force (especially when used in a coercive way)
+105205589	the authority of a state to govern another state
+105205695	(law) the right and power to interpret and apply the law
+105205890	the power to use something or someone
+105206024	the power of making free choices unconstrained by external agencies
+105206196	the power or right to prohibit or reject a proposed or intended act (especially the power of a chief executive to reject a bill passed by the legislature)
+105206419	determination of one's own fate or course of action without compulsion
+105206554	power to be effective; the quality of being able to bring about an effect
+105206948	keenness and forcefulness of thought or expression or intellect
+105207137	capacity or power to produce a desired effect
+105207437	the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment
+105207938	an ability to perform well
+105208084	(computer science) the ability to exchange and use information (usually in a large heterogeneous network made up of several local area networks)
+105208328	an ability to perform magic
+105208451	(folklore) the magical ability of a person to assume the characteristics of a wolf
+105208610	an ability to make and manage large amounts of money
+105208720	the ability to make way into or through something
+105208927	the ability to perform some physical act; contrasting with mental ability
+105209081	the capability or quality of shrinking or contracting, especially by muscle fibers and even some other forms of living matter
+105209302	the ability to contract or draw together soft body tissues to check blood flow or restrict secretion of fluids
+105209552	the ability to speak
+105209681	the ability to speak loudly
+105209765	the quality of being capable -- physically or intellectually or legally
+105210222	capability of being defended
+105210475	capability of being executed
+105210665	capability to perform or produce
+105210917	capability in terms of personnel and materiel that affect the capacity to fight a war
+105211272	(military) the relative capacity for delivering fire on a target
+105211411	the capability of a technological system to perform as intended
+105211584	the capability to obliterate a target with more weapons (especially nuclear weapons) than are required
+105211741	the maximum operating capability of a system (especially an aircraft)
+105211905	the quality of lacking strength or power; being weak and feeble
+105212250	powerlessness revealed by an inability to act
+105212488	inability to persuade
+105212608	inability to capture or hold one's interest
+105212805	having no voice in the management or control of affairs
+105213007	the quality of lacking interestingness
+105213274	extreme dullness; lacking spirit or interest
+105213505	dullness owing to length or slowness
+105213713	something tedious and boring
+105213841	the quality of being vapid and unsophisticated
+105214097	an oppressive quality that is laborious and solemn and lacks grace or fluency
+105214398	lacking the power to perform
+105214620	the nature of a person or organization that appears powerful but is actually powerless and ineffectual
+105214838	the quality of not being capable -- physically or intellectually or legally
+105215114	lack of physical or natural qualifications
+105215231	lacking the power to be effective
+105215559	a lack of efficacy
+105215690	an exciting and mysterious quality (as of a heroic time or adventure)
+105215863	a dreamy romantic or sentimental quality
+105215958	the property of being analytic
+105216064	the property of being a composite number
+105216164	the property of being a prime number
+105216256	the property of being selective
+105216381	the quality of being domestic or domesticated
+105216592	the quality of being infinite; without bound or limit
+105216927	the quality of being finite
+105217090	the quality of being measurable
+105217271	the quality of being capable of being rated or estimated
+105217384	the quality of being scalable
+105217489	the quality of being soluble and easily dissolved in liquid
+105217641	the quality of being insoluble and difficult to dissolve in liquid
+105217802	unspecified qualities required to do or be something
+105217985	the quality of being comical
+105218088	the quality of being attractive and exciting (especially sexually exciting)
+105218312	the quality of being funny
+105218522	a quality that arouses emotions (especially pity or sorrow)
+105218719	the quality of something (an act or a piece of writing) that reveals the attitudes and presuppositions of the author
+105219061	a general disposition to expect the best in all things
+105219242	a general disposition to look on the dark side and to expect the worst in all things
+105219436	the disposition and habits of an epicure
+105219532	the disposition and habits of a gourmand
+105219630	the quality of being brachycephalic
+105219761	the quality of being dolichocephalic
+105219877	the quality of being relative and having significance only in relation to something else
+105220076	the manner in which an electrical or mechanical device responds to an input signal or a range of input signals
+105220241	the quality of being responsive; reacting quickly; as a quality of people, it involves responding with emotion to people and events
+105220469	the quality of being unresponsive; not reacting; as a quality of people, it is marked by a failure to respond quickly or with emotion to people or events
+105220961	sexual unresponsiveness (especially of women) and inability to achieve orgasm during intercourse
+105221162	the degree of unresponsiveness of a disease-causing microorganism to antibiotics or other drugs (as in penicillin-resistant bacteria)
+105221389	the quality of being subjective
+105221479	the conditions under which you can use material that is copyrighted by someone else without paying royalties
+105221642	enjoyment derived from use or possession
+105221737	the property being vascular
+105221867	the ability to raise the working leg high in the air
+105222119	the quality of being snooty
+105222244	the ability of a cell to give rise to unlike cells and so to develop a new organism or part
+105222525	the quality of being ulterior
+105222751	the property (of a problem or difficulty) that makes it possible to solve
+105222967	the property (of a problem or difficulty) that makes it impossible to solve
+105223189	the quality of being worth remembering
+105223370	the quality of abounding in trees
+105223508	the quality of being made of wax or covered with wax
+105223633	the entire physical structure of an organism (an animal, plant, or human being)
+105224317	the characteristic bodily form of a mature organism
+105224424	alternative names for the body of a human being
+105224944	a human body (usually including the clothing)
+105225115	a natural object consisting of a dead animal or person
+105225393	the dead body of a human being
+105225807	the remains of a dead body after cremation
+105225904	a body embalmed and dried and wrapped for burial (as in ancient Egypt)
+105226062	the body of a living animal or person
+105226173	(anatomy) a group of body parts that work together to perform a given function
+105226371	the living body considered as made up of interdependent components forming a unified whole
+105226571	the body of a young person
+105226694	the body of a human child
+105226835	the body of an adult human being
+105226998	the body of a male human being
+105227197	the body of a female human being
+105227400	the body of an adult woman
+105227580	the body of an adult man
+105227735	any part of an organism such as an organ or extremity
+105228819	the main part of an organ or other bodily structure
+105228942	accessory or adjoining anatomical parts or appendages to an organ (especially of the embryo)
+105229188	a part of an animal that has a special function or is supplied by a given artery or nerve
+105229760	a muscle or nerve that dilates or widens a body part
+105229884	(anatomy) any furrow or channel on a bodily structure or part
+105230083	(anatomy) a structure that separates areas in an organism
+105230233	(anatomy) a dividing partition between two tissues or cavities
+105230403	a partition of bone and cartilage between the nasal cavities
+105230541	groove between the ribs where the nerves and blood vessels are
+105230663	(anatomy) a long narrow slit or groove that divides an organ into lobes
+105230843	(anatomy) any of the narrow grooves in an organ or tissue especially those that mark the convolutions on the surface of the brain
+105231116	a brain fissure extending upward on the lateral surface of both hemispheres; separates the frontal and parietal lobes
+105231373	the deepest and most prominent of the cortical fissures; separates the frontal lobes and temporal lobes in both hemispheres
+105231651	a sulcus near the posterior end of each hemisphere that separates the parietal lobes and the occipital lobes in both hemispheres
+105231878	a sulcus in the mesial surface of the occipital lobe of the cerebrum
+105232048	(anatomy) a depression or fissure where vessels or nerves or ducts enter a bodily organ
+105232259	any area of the body especially sensitive to sexual stimulation
+105232383	any body part visible externally
+105232732	any of the segments in the body of a jointed animal like an arthropod
+105232895	a particular complex anatomical part of a living thing and its construction and arrangement
+105234267	a passage in the uterus and vagina through which a fetus passes during vaginal birth
+105234409	a rounded dilation or expansion in a canal or vessel or organ
+105234539	any of various keel-shaped structures or ridges such as that on the breastbone of a bird or that formed by the fused petals of a pea blossom
+105234768	ridge on the lower surface of the fornix of the brain
+105234902	an arched bundle of white fibers at the base of the brain by which the hippocampus of each hemisphere projects to the contralateral hippocampus and to the thalamus and mamillary bodies
+105235198	generally any arch shaped structure (but often it refers to the arched roof of an anatomical space)
+105235350	one of two small round structures on the undersurface of the brain that form the terminals of the anterior arches of the fornix
+105235594	any taillike structure
+105235704	the median ridge on the breastbone of birds that fly
+105235826	an intersection or crossing of two tracts in the form of the letter X
+105236062	(anatomy) an encircling structure (as the ridge around the base of a tooth)
+105236211	the crossing of the optic nerves from the two eyes at the base of the brain
+105236379	a nerve pathway from the lateral geniculate body to the visual cortex
+105236528	(anatomy) a structure that resembles a shell in shape
+105236671	one of several turbinate bones in the nasal cavity
+105236798	a threadlike structure (as a chainlike series of cells)
+105236952	any of several elongated, threadlike cells (especially a muscle fiber or a nerve fiber)
+105237135	a small apparently simple structure (as a fertilized egg) from which new tissue can develop into a complete organism
+105237320	any of various funnel-shaped parts of the body (but especially the hypophyseal stalk)
+105237501	a small structural space between tissues or parts of an organ
+105237687	an anatomical structure used as a point of origin in locating other anatomical structures (as in surgery) or as point from which measurements can be taken
+105237933	a landmark on the skull from which craniometric measurements can be taken
+105238594	the craniometric point at the anterior extremity of the intermaxillary suture
+105238727	the craniometric point at the junction of the lamboid suture and the occipitomastoid suture and the parietomastoid suture
+105238922	the craniometric point at the center of the opening of the external acoustic meatus
+105239099	the craniometric point at the junction of the sagittal and coronal sutures at the top of the cranium
+105239270	the craniometric point at the tip of the mandibular condyle
+105239404	the craniometric point at the tip of the coronoid process of the mandible
+105239551	the tip of the greater wing of the sphenoid bone
+105239675	the craniometric point at the junction of the anterior border of the lacrimal bone with the frontal bone
+105239833	the craniometric point at the tip of the angular part of the parietal bone that articulates with the temporal bone
+105240021	a smooth prominence of the frontal bone between and above the eyebrows; the most forward projecting point of the forehead in the midline at the level of the supraorbital ridges
+105240302	the most inferior point of the mandible in the midline
+105240430	the craniometric point on either side at the apex of the lower jaw
+105240568	the craniometric point that is the most prominent point at the back of the head (at the occipital protuberance)
+105240750	the craniometric point at the union of the frontal and temporal processes of the zygomatic bone
+105240931	the craniometric point at the junction of the sagittal and lamboid sutures of the skull
+105241071	small indentation in the middle of the lower jawbone
+105241205	the craniometric point at the lowest point of the mastoid process
+105241346	the craniometric point midway between the frontal eminences of the skull
+105241492	the craniometric point at the bridge of the nose where the frontal and nasal bones of the skull meet
+105241645	the craniometric point on the sagittal suture near the lamboid suture
+105241768	the craniometric point in the midline of the forehead immediately above the orbits
+105241923	the craniometric point at the lowest point on the lower edge of the orbit
+105242067	the craniometric point that is the most forward-projecting point on the anterior surface of the chin
+105242241	craniometric point that is the most anterior point in the midline on the alveolar process of the maxilla
+105242430	the craniometric point in the region of the sphenoid fontanelle
+105242547	the anterior tip at the end of the suture of the nasal bones
+105242680	the anterior tip of the parietal bone
+105242791	the craniometric point on the coronal suture above the acoustic meatus
+105242937	the most forward point of the alveolar process of the mandible
+105243075	a border or edge of any of various body parts distinguished by color or structure
+105243209	a riblike supporting or strengthening part of an animal or plant
+105243359	a broad flat body part (as of the shoulder or tongue)
+105243482	(anatomy) a small structure resembling a rootlet (such as a fibril of a nerve)
+105243652	a network of intersecting blood vessels or intersecting nerves or intersecting lymph vessels
+105243912	a plexus of lymph nodes in the lower portion of the abdominal aorta
+105244039	a plexus of sympathetic and parasympathetic nerve fibers
+105244178	a network of intersecting nerves
+105244557	a group of physiologically or anatomically related organs or parts
+105245085	any covering for the body or a body part
+105245366	an enveloping structure or covering enclosing an animal or plant organ or part
+105245612	a natural protective body covering and site of the sense of touch
+105246369	an area on the skin that is highly sensitive to pressure
+105246573	an outer protective covering such as the skin of an animal or a cuticle or seed coat or rind or shell
+105246767	a piece of skin taken from a donor area and surgically grafted at the site of an injury or burn
+105246919	bare skin
+105247023	a hanging fold of loose skin on an elderly person's neck
+105247151	membranous tissue covering internal organs and other internal surfaces of the body
+105247419	cast-off skins or coverings of various organisms during ecdysis
+105247554	the outer layer of the skin covering the exterior body surface of vertebrates
+105247865	an epithelium of mesoblastic origin; a thin layer of flattened cells that lines the inside of some body cavities
+105248053	epithelium originating in the embryonic mesoderm; lines the primordial body cavity
+105248193	epithelium associated with special sense organs and containing sensory nerve endings
+105248415	any of the cells making up the skin
+105248561	any of the cells making up the epidermis
+105248717	an epidermal cell that is a precursor of a melanocyte
+105248828	a cell in the basal layer of the epidermis that produces melanin under the control of the melanocyte-stimulating hormone
+105249005	a cell in the germinal layer of the skin (the prickle-cell layer); has many spines and radiating processes
+105249170	one of the closely packed cells forming the epithelium
+105249413	an epithelial cell that is shaped like a column; some have cilia
+105249582	any of various columnar epithelial cells in the central nervous system that develop into neuroglia
+105249739	an epithelial cell that shaped like a cube
+105249868	an epithelial cell that secretes mucous
+105249965	a sensory epithelial cell present in the organ of Corti
+105250095	specialized cells in the liver that destroy bacteria, foreign proteins, and worn-out blood cells
+105250271	an epithelial cell that is flat like a plate and form a single layer of epithelial tissue
+105250420	the outermost layer of the epidermis consisting of dead cells that slough off
+105250602	the layer of epidermis immediately under the stratum corneum in the skin of the palms and soles
+105250778	the layer of epidermis just under the stratum corneum or (on the palms and soles) just under the stratum lucidum; contains cells (with visible granules) that die and move to the surface
+105251047	the innermost layer of the epidermis
+105251222	the deep vascular inner layer of the skin
+105251388	(zoology) a protective layer of epidermis in mollusks or brachiopods that secretes a substance forming the shell
+105251582	(pathology) a small abnormal patch on or inside the body
+105251764	a plaque consisting of tangles of amyloid protein in nervous tissue (a pathological mark of Alzheimer's disease)
+105251962	a fatty deposit inside an arterial wall; characteristic of atherosclerosis
+105252098	a film of mucus and bacteria deposited on the teeth that encourages the development of dental caries
+105252277	a patch of skin that is discolored but not usually elevated; caused by various diseases
+105252535	a small brownish spot (of the pigment melanin) on the skin
+105252730	a type of skin disease that causes brown spots on the skin
+105252864	a spot on the skin characteristic of the plague

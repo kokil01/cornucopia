@@ -1,0 +1,1000 @@
+101943864	burrowing marine mollusk
+101943981	any of various seashore mollusks having a tapering tubular shell open at each end and a foot pointed like a spade for burrowing
+101944179	either the outer margin or the inner margin of the aperture of a gastropod's shell
+101944311	snails and slugs and their relatives
+101944818	a class of mollusks typically having a one-piece coiled shell and flattened muscular foot with a head bearing stalked eyes
+101945242	abalones
+101945365	type genus of the family Haliotidae
+101945510	any of various large edible marine gastropods of the genus Haliotis having an ear-shaped shell with pearly interior
+101945728	an abalone found near the Channel Islands
+101945854	the family of conchs
+101946008	scorpion shells of shallow tropical waters of the eastern hemisphere
+101946182	any of numerous tropical marine snails that as adults have the outer lip of the aperture produced into a series of long curved spines
+101946395	type genus of the family Strombidae
+101946540	any of various edible tropical marine gastropods of the genus Strombus having a brightly-colored spiral shell with large outer lip
+101946759	a large variety of conch
+101946858	land snails including the common edible snail and some pests
+101947031	freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell
+101947258	type genus of the family Helicidae
+101947453	one of the chief edible snails
+101947596	any of several inedible snails of the genus Helix; often destructive pests
+101947784	serious garden pest having a brown shell with paler zigzag markings; nearly cosmopolitan in distribution
+101947981	a kind of garden snail
+101948084	slugs
+101948221	a genus of Limacidae
+101948326	any of various terrestrial gastropods having an elongated slimy body and no external shell
+101948486	any of several creeping marine gastropods with a spirally coiled shell: whelks; tritons; moon shells; neritids
+101948759	neritids
+101948918	operculate seasnail of coastal waters with a short spiral shell
+101949128	type genus of the Neritidae
+101949271	a neritid gastropod having a short smooth or spirally ridged shell with thick usually toothed outer lip and toothed operculum
+101949468	gastropod having reddish toothlike projections around the shell opening; of the Caribbean area
+101949661	a genus of Neritidae
+101949780	ornately marked and brightly colored snails of brackish waters
+101949916	whelks
+101950037	large carnivorous marine gastropods of coastal waters and intertidal regions having a strong snail-like shell
+101950254	tritons
+101950376	tropical marine gastropods having beautifully colored spiral shells
+101950515	moonshells
+101950638	marine gastropods having smooth rounded shells that form short spires
+101950795	periwinkles
+101950925	type genus of the family Littorinidae: periwinkles
+101951087	edible marine gastropod
+101951214	any of various usually marine gastropods with low conical shells; found clinging to rocks in littoral areas
+101951429	marine limpets
+101951558	type genus of the family Patellidae: common European limpets
+101951726	marine limpet
+101951836	marine limpets
+101951971	type genus of the family Fissurellidae: keyhole limpets
+101952140	marine limpet having a conical shell with an opening at the apex
+101952325	freshwater gastropod
+101952458	type genus of the family Ancylidae: river limpet
+101952614	minute conical gastropod superficially resembling a limpet but living and feeding on freshwater plants
+101952836	gastropods having the gills when present posterior to the heart and having no operculum: includes sea slugs; sea butterflies; sea hares
+101953098	comprising numerous marine gastropod mollusks lacking a shell in the adult state and usually having a body like a slug
+101953372	any of various marine gastropods of the suborder Nudibranchia having a shell-less and often beautifully colored body
+101953593	sea hares
+101953748	type genus of the family Aplysiidae
+101953915	naked marine gastropod having a soft body with reduced internal shell and two pairs of ear-like tentacles
+101954113	genus of marine sea slugs
+101954254	a kind of sea slug
+101954362	bubble shells
+101954486	common genus of marine bubble shells of the Pacific coast of North America
+101954670	marine gastropod mollusk having a very small thin shell
+101954803	large order of gastropods usually breathing by means of a lung-like sac comprising most land snails and slugs and many freshwater snails
+101955070	freshwater snails
+101955198	type genus of the Physidae; freshwater air-breathing snails
+101955353	any member of the genus Physa
+101955453	large order of gastropods comprising univalve mollusks that have a single gill resembling a comb
+101955673	family of marine gastropods comprising the cowries
+101955838	type genus of the family Cypraeidae: the typical cowries
+101956002	any of numerous tropical marine gastropods of the genus Cypraea having highly polished usually brightly marked shells
+101956235	cowrie whose shell is used for money in parts of the southern Pacific and in parts of Africa
+101956403	cowrie whose shell is used for ornament
+101956518	comb-like respiratory structure serving as the gill of certain mollusks
+101956645	one of the often brightly colored and branching hornlike structures on the back of the nudibranch (and other related mollusks) that serve as gills
+101956843	a class of Gastropoda
+101956981	an order of Amphineura
+101957157	deep-water wormlike mollusks lacking calcareous plates on the body but having fine slimy spicules on the covering mantle
+101957370	small class of marine mollusks comprising the chitons; sometimes considered an order of the subclass Amphineura
+101957603	a genus of Polyplacophora
+101957725	primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates
+101957959	tuft of strong filaments by which e.g. a mussel makes itself fast to a fixed surface
+101958104	oysters; clams; scallops; mussels
+101958574	marine or freshwater mollusks having a soft body with platelike gills enclosed within two shells hinged together
+101958985	a young oyster or other bivalve
+101959122	burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness
+101959405	the shell of a marine organism
+101959490	the shell of a clam
+101959565	clams
+101959716	soft-shell clams
+101959843	type genus of the family Myacidae
+101959976	an edible clam with thin oval-shaped shell found in coastal regions of the United States and Europe
+101960232	hard-shell clams
+101960380	type genus of the family Veneridae: genus of edible clams with thick oval shells
+101960564	a genus of Veneridae
+101960679	an edible American clam; the heavy shells were used as money by some American Indians
+101960987	a young quahog
+101961076	a half-grown quahog
+101961172	a large edible clam found burrowing deeply in sandy mud along the Pacific coast of North America; weighs up to six pounds; has siphons that can extend to several feet and cannot be withdrawn into the shell
+101961431	razor clams
+101961555	razor clams
+101961670	marine clam having a long narrow curved thin shell
+101961828	large marine hard-shell clams
+101961974	type genus of the family Tridacnidae: giant clams
+101962133	a large clam inhabiting reefs in the southern Pacific and weighing up to 500 pounds
+101962309	somewhat heart-shaped sand-burrowing bivalve mollusks
+101962475	type genus of the family Cardiidae: cockles
+101962626	common edible, burrowing European bivalve mollusk that has a strong, rounded shell with radiating ribs
+101962818	common edible European cockle
+101962942	oysters
+101963100	marine mollusks having a rough irregular shell; found on the sea bed mostly in coastal waters
+101963428	a young oyster especially of a size for transplantation
+101963541	type genus of the family Ostreidae
+101963700	small edible oyster typically from the southern shore of Long Island
+101963875	a large oyster native to Japan and introduced along the Pacific coast of the United States; a candidate for introduction in Chesapeake Bay
+101964109	Virginia oysters
+101964241	common edible oyster of Atlantic coast of North America
+101964377	pearl oysters
+101964503	pearl oysters
+101964626	tropical marine bivalve found chiefly off eastern Asia and Pacific coast of North America and Central America; a major source of pearls
+101964864	saddle oysters
+101964991	type genus of the family Anomiidae: saddle oysters
+101965147	thin-shelled bivalve having the right valve deeply notched
+101965303	windowpane oysters
+101965429	marine bivalve common in Philippine coastal waters characterized by a large thin flat translucent shell
+101965658	ark shells
+101965777	type genus of the family Arcidae: ark shells and blood clams
+101965958	marine bivalve mollusk having a heavy toothed shell with a deep boat-like inner surface
+101966120	red-blooded clam
+101966212	marine or freshwater bivalve mollusk that lives attached to rocks etc.
+101966371	marine mussels
+101966517	type genus of the family Mytilidae: smooth-shelled marine mussels
+101966690	marine bivalve mollusk having a dark elongated shell; live attached to solid objects especially in intertidal zones
+101966912	a mussel with a dark shell that lives attached to rocks
+101967082	bivalve mollusk abundant in rivers of central United States
+101967277	freshwater mussels found worldwide
+101967462	type genus of the family Unionidae
+101967598	the pearly lining of the dark shells is a source of mother-of-pearl
+101967752	thin-shelled freshwater mussels
+101967893	mussel with thin fragile shells having only rudimentary hinge teeth
+101968045	zebra mussels
+101968170	inch long mollusk imported accidentally from Europe; clogs utility inlet pipes and feeds on edible freshwater mussels
+101968388	scallops
+101968530	edible marine bivalve having a fluted fan-shaped shell that swim by expelling water from the shell in a series of snapping motions
+101968845	type genus of the family Pectinidae: sea and bay scallops
+101969018	a small scallop inhabiting shallow waters and mud flats of the Atlantic coast of North America
+101969227	a large scallop inhabiting deep waters of the Atlantic coast of North America
+101969438	shipworms
+101969602	type genus of the family Teredinidae
+101969735	wormlike marine bivalve that bores into wooden piers and ships by means of drill-like shells
+101969949	typical shipworm
+101970037	giant shipworms
+101970158	giant shipworm of the Pacific coast of North America
+101970318	a family of Bivalvia
+101970453	type genus of the family Pholadidae: piddocks
+101970604	marine bivalve that bores into rock or clay or wood by means of saw-like shells
+101970756	octopuses; squids; cuttlefish; pearly nautilus
+101970956	marine mollusk characterized by well-developed head and eyes and sucker-bearing tentacles
+101971232	spiral-shelled cephalopods
+101971373	type genus and sole recent representative of the family Nautilidae
+101971538	cephalopod of the Indian and Pacific oceans having a spiral shell with pale pearly partitions
+101971744	comprising all living cephalopods except the family Nautilidae: the orders Octopoda (octopuses) and Decapoda (squids and cuttlefish)
+101972070	cephalopods having two gills
+101972191	octopuses and paper nautilus
+101972367	a cephalopod with eight arms but lacking an internal shell
+101972534	a family of Octopoda
+101972671	type genus of the family Octopodidae
+101972805	bottom-living cephalopod having a soft oval body with eight long tentacles
+101972983	represented solely by the genus Argonauta
+101973143	type genus of the family Argonautidae: paper nautilus
+101973308	cephalopod mollusk of warm seas whose females have delicate papery spiral shells
+101973507	squids and cuttlefishes
+101973735	cephalopods having eight short tentacles plus two long ones
+101973921	widely distributed fast-moving ten-armed cephalopod mollusk having a long tapered body with triangular tail fins
+101974158	squids
+101974261	somewhat flattened cylindrical squid
+101974369	a genus of Decapoda
+101974491	extremely active cylindrical squid with short strong arms and large rhombic terminal fins
+101974658	giant squid
+101974772	largest mollusk known about but never seen (to 60 feet long)
+101974924	true cuttlefishes
+101975052	type genus of the Sepiidae
+101975182	ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell
+101975374	coextensive with the genus Spirula; included in the order Belemnoidea in some older classifications
+101975588	genus of small cephalopods with many-chambered spiral shells resembling those of the extinct belemnites
+101975789	a small tropical cephalopod of the genus Spirula having prominent eyes and short arms and a many-chambered shell coiled in a flat spiral
+101976016	order of extinct dibranchiate cephalopods related to the surviving spirulas
+101976207	family of extinct Mesozoic cephalopods
+101976364	a conical calcareous fossil tapering to a point at one end and with a conical cavity at the other end containing (when unbroken) a small chambered phragmocone from the shell of any of numerous extinct cephalopods of the family Belemnitidae
+101976696	a pouch in many birds and some lower animals that resembles a stomach for storage and preliminary maceration of food
+101976870	thick-walled muscular pouch below the crop in many birds and reptiles for grinding food
+101977040	class of mandibulate arthropods including: lobsters; crabs; shrimps; woodlice; barnacles; decapods; water fleas
+101977414	any mainly aquatic arthropod usually having a segmented body and chitinous exoskeleton
+101977758	one of a pair of glands (believed to have excretory functions) in some crustaceans near the base of the large antennae
+101977953	largest subclass of Crustacea including most of the well-known marine, freshwater, and terrestrial crustaceans: crabs; lobsters; shrimps; sow bugs; beach flies
+101978328	a major subclass of crustaceans
+101978521	lobsters; crayfish; crabs; shrimps; prawns
+101978787	crustaceans characteristically having five pairs of locomotor appendages each joined to a segment of the thorax
+101979118	an order of crustaceans (including true crabs) having a reduced abdomen folded against the ventral surface
+101979509	typical crabs
+101979598	decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers
+101980007	stone crabs
+101980126	large edible crab of the southern coast of the United States (particularly Florida)
+101980325	many of the best known edible crabs
+101980473	type genus of the family Cancridae
+101980651	edible crab that has not recently molted and so has a hard shell
+101980777	edible crab that has recently molted and not yet formed its new shell
+101980928	small edible crab of Pacific coast of North America
+101981096	crab of eastern coast of North America
+101981228	large red deep-water crab of the eastern coast of North America
+101981385	swimming crabs
+101981571	marine crab with some legs flattened and fringed for swimming
+101981765	type genus of the family Portunidae
+101981910	crab of the English coasts
+101982036	a genus of Portunidae
+101982167	brightly spotted crab of sandy beaches of the Atlantic coast of the United States
+101982379	New World blue crabs
+101982515	bluish edible crab of Atlantic and Gulf Coasts of North America
+101982694	fiddler crabs
+101982807	burrowing crab of American coastal regions having one claw much enlarged in the male
+101982969	tiny soft-bodied crabs
+101983112	type genus of the family Pinnotheridae: pea crabs
+101983296	tiny soft-bodied crab living commensally in the mantles of certain bivalve mollusks
+101983471	tiny soft-bodied crab living within the mantle cavity of oysters
+101983634	deep-sea crabs of cold waters
+101983778	a genus of Lithodidae
+101983917	large edible crab of northern Pacific waters especially along the coasts of Alaska and Japan
+101984184	spider crabs
+101984343	any of numerous crabs with very long legs and small triangular bodies
+101984525	type genus of the Majidae; nearly cosmopolitan in distribution
+101984709	a large spider crab of Europe
+101984852	giant crabs of Japan
+101984988	very large deep-water Japanese crab
+101985123	lobsters; crabs
+101985291	any of several edible marine crustaceans of the families Homaridae and Nephropsidae and Palinuridae
+101985536	large-clawed lobsters
+101985689	large edible marine crustaceans having large pincers on the first pair of legs
+101985918	type genus of the family Homaridae: common edible lobsters
+101986122	lobster of Atlantic coast of America
+101986315	lobster of Atlantic coast of Europe
+101986470	small lobster of southern Africa
+101986599	in some classifications coextensive with the Homaridae
+101986772	a genus of Nephropsidae
+101986886	edible European lobster resembling the American lobster but slenderer
+101987057	spiny lobsters
+101987188	type genus of the family Palinuridae
+101987336	large edible marine crustacean having a spiny carapace but lacking the large pincers of true lobsters
+101987599	crayfish
+101987769	small freshwater decapod crustacean that resembles a lobster
+101987972	type genus of the family Astacidae; Old World crayfish
+101988134	small crayfish of Europe and Asia and western North America
+101988308	a genus of Astacidae
+101988438	common large crayfishes of eastern North America
+101988588	hermit crabs
+101988713	type genus of the family Paguridae
+101988855	small soft-bodied marine crustaceans living in cast-off shells of gastropods
+101989008	shrimp; prawns; etc.
+101989179	shrimps
+101989322	type genus of the family Crangonidae
+101989447	small slender-bodied chiefly marine decapod crustaceans with a long tail and single pair of pincers; many species are edible
+101989717	small shrimp that makes a snapping noise with one of their enlarged chelae
+101989869	prawns
+101989994	type genus of the family Palaemonidae; widely distributed genus
+101990186	shrimp-like decapod crustacean having two pairs of pincers; most are edible
+101990368	large (a foot or more) edible freshwater prawn common in Australian rivers
+101990579	tropical prawns
+101990705	type genus of the family Peneidae
+101990844	edible tropical and warm-water prawn
+101990960	in former classifications a division of Malacostraca; superseded by the orders Mysidacea and Euphausiacea
+101991122	small commonly luminescent crustaceans; important element of marine plankton: krill
+101991342	shrimp-like planktonic crustaceans; major source of food for e.g. baleen whales
+101991510	food for jellyfish
+101991612	opossum shrimp
+101991738	small shrimp-like crustaceans
+101991895	type genus of the family Mysidae
+101992031	a genus of Mysidae
+101992157	shrimp-like crustaceans whose females carry eggs and young in a pouch between the legs
+101992342	mantis shrimps
+101992510	a kind of crustacean
+101992648	tropical marine burrowing crustaceans with large grasping appendages
+101992827	crustaceans that burrow in mud or under stones in shallow water along the seashore
+101993024	type genus of the family Squillidae
+101993157	a kind of mantis shrimp
+101993268	woodlice
+101993441	any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling
+101993669	any of various small terrestrial isopods having a flat elliptical segmented body; found in damp habitats
+101993887	pill bugs
+101994021	type genus of the Armadillidiidae
+101994174	small terrestrial isopod with a convex segmented body that can roll up into a ball
+101994330	a family of Isopoda
+101994462	type genus of the Oniscidae; woodlice that cannot roll into a ball
+101994636	sow bugs
+101994767	Old World genus of isopod crustaceans
+101994916	terrestrial isopod having an oval segmented body (a shape like a sow)
+101995077	marine isopod crustacean
+101995170	small flat-bodied semiterrestrial crustaceans: whale lice; sand-hoppers; skeleton shrimp
+101995427	a kind of malacostracan crustacean
+101995589	beach fleas
+101995719	type genus of the family Orchestiidae
+101995868	small amphipod crustaceans that hop like fleas; common on ocean beaches
+101996054	skeleton shrimp
+101996179	small amphipod crustacean having a grotesque form suggestive of the praying mantis; found chiefly on seaweed
+101996368	whale lice
+101996484	amphipod crustacean parasitic on cetaceans
+101996603	in some older classifications includes the Branchiopoda and Copepoda and Ostracoda and Cirripedia; no longer in technical use
+101996830	primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps; tadpole shrimps; can shrimps; water fleas
+101997146	aquatic crustaceans typically having a carapace and many pairs of leaflike appendages used for swimming as well as respiration and feeding
+101997455	water fleas
+101997564	minute freshwater crustacean having a round body enclosed in a transparent shell; moves about like a flea by means of hairy branched antennae
+101997791	small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps
+101997977	fairy shrimp; brine shrimp
+101998168	small freshwater branchiopod having a transparent body with many appendages; swims on its back
+101998340	common to saline lakes
+101998457	small freshwater crustaceans with a shield-shaped carapace
+101998629	a family of Notostraca
+101998745	type genus of the family Triopidae: small crustaceans with a small third median eye
+101998934	a kind of branchiopod crustacean
+101999046	minute planktonic or parasitic crustaceans
+101999239	minute marine or freshwater crustaceans usually having six pairs of limbs on the thorax; some abundant in plankton and others parasitic on fish
+101999549	minute crustaceans forming food for right whales
+101999656	copepod water fleas
+101999773	minute free-swimming freshwater copepod having a large median eye and pear-shaped body and long antennae used in swimming; important in some food chains and as intermediate hosts of parasitic worms that affect man e.g. Guinea worms
+102000090	copepods with suctorial mouthparts; parasitic on fishes
+102000259	a kind of copepod
+102000352	seed shrimps
+102000479	tiny marine and freshwater crustaceans with a shrimp-like body enclosed in a bivalve shell
+102000673	barnacles
+102000837	marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces
+102001121	stalkless barnacles
+102001253	type genus of the family Balanidae
+102001395	barnacle that attaches to rocks especially in intertidal zones
+102001574	goose barnacles
+102001702	type genus of the family Lepadidae
+102001840	stalked barnacle that attaches to ship bottoms or floating timbers
+102002028	enigmatic small elongated wormlike terrestrial invertebrates of damp dark habitats in warm regions; distinct from the phylum Annelida; resemble slugs with legs and are sometimes described as the missing link between arthropods and annelids
+102002421	any of numerous velvety-skinned wormlike carnivorous animals common in tropical forests having characteristics of both arthropods and annelid worms
+102002690	a family of Onychophora
+102002849	type genus of Peripatidae; onychophorans of chiefly New World tropical regions
+102003008	a genus of Peripatidae
+102003156	a kind of onychophoran
+102003272	a family of Onychophora
+102003418	type genus of Peripatopsidae; onychophorans of chiefly Asiatic and African tropical regions
+102003608	any of many long-legged birds that wade in water in search of food
+102004082	order of chiefly tropical marsh-dwelling fish-eating wading birds with long legs and bills and (except for flamingos) unwebbed feet: herons; storks; spoonbills; flamingos; ibises
+102004475	storks
+102004729	large mostly Old World wading birds typically having white-and-black plumage
+102005038	type genus of the Ciconiidae: European storks
+102005210	the common stork of Europe; white with black wing feathers and a red bill
+102005378	Old World stork that is glossy black above and white below
+102005529	adjutant birds and marabous
+102005691	large Indian stork with a military gait
+102005858	large African black-and-white carrion-eating stork; its downy underwing feathers are used to trim garments
+102006110	openbills
+102006231	stork with a grooved bill whose upper and lower parts touch only at the base and tip
+102006389	jabirus
+102006493	large white stork of warm regions of the world especially America
+102006648	saddlebills
+102006785	large black-and-white stork of tropical Africa; its red bill has a black band around the middle
+102006997	East Indian and Australian storks
+102007146	large mostly white Australian stork
+102007315	a genus of storks of the family Ciconiidae now including only the American wood ibis
+102007509	an American stork that resembles the true ibises in having a downward-curved bill; inhabits wooded swamps of New World tropics
+102007756	shoebills
+102007892	type genus of the Balaenicipitidae: shoebills
+102008053	large stork-like bird of the valley of the White Nile with a broad bill suggesting a wooden shoe
+102008252	ibises
+102008444	wading birds of warm regions having long slender down-curved bills
+102008616	ibises
+102008717	any of several Old World birds of the genus Ibis
+102008865	type genus of the Threskiornithidae
+102009018	African ibis venerated by ancient Egyptians
+102009164	spoonbills
+102009310	wading birds having a long flat bill with a tip like a spoon
+102009481	type genus of the Plataleidae
+102009639	pure white crested spoonbill of southern Eurasia and northeastern Africa
+102009815	a genus of Platalea
+102009938	tropical rose-colored New World spoonbill
+102010076	flamingos
+102010212	large pink to scarlet web-footed wading bird with down-bent bill; inhabits brackish lakes
+102010375	herons; egrets; night herons; bitterns
+102010695	grey or white wading bird with long neck and long legs and (usually) long bill
+102010970	type genus of the Ardeidae: large New and Old World herons
+102011151	large American heron having bluish-grey plumage
+102011297	large white heron of Florida and the Florida Keys
+102011450	any of various usually white herons having long plumes during breeding season
+102011669	small Old and New World herons
+102011883	small bluish-grey heron of the western hemisphere
+102012034	small New World egret
+102012162	Old World egret
+102012274	a white egrets
+102012404	widely distributed Old World white egret
+102012566	a common egret of the genus Egretta found in America; it is a variety of the Old World white egret Casmerodius albus
+102012798	small white egrets
+102012926	small white egret widely distributed in warm regions often found around grazing animals
+102013107	nocturnal or crepuscular herons
+102013246	Old World night herons
+102013382	night heron of both Old and New Worlds
+102013535	American night herons
+102013670	North American night heron
+102013810	boatbills
+102013935	tropical American heron related to night herons
+102014114	relatively small compact tawny-brown heron with nocturnal habits and a booming cry; found in marshes
+102014322	bitterns
+102014459	a kind of bittern
+102014597	a kind of bittern
+102014717	bitterns
+102014839	small American bittern
+102014960	inland marsh-dwelling birds with long legs and necks and bills that wade in water in search of food: cranes; rails; bustards
+102015369	cranes
+102015503	large long-necked wading bird of marshes and plains in many parts of the world
+102015688	type genus of the Gruidae: typical cranes
+102015831	rare North American crane having black-and-white plumage and a trumpeting call
+102016016	genus of large brown long-billed wading birds found in warm swampy regions of the western hemisphere: courlan; limpkin
+102016221	wading bird of South America and Central America
+102016360	wading bird of Florida, Cuba and Jamaica having a drooping bill and a distinctive wailing call
+102016543	crane-like South American wading birds
+102016715	the type genus of the Cariamidae comprising only the crested cariama
+102016891	Brazilian Cariama; sole representative of the genus Cariama
+102017060	a genus of Cariamidae
+102017178	Argentinian Cariama
+102017300	rails; crakes; gallinules; coots
+102017595	any of numerous widely distributed small wading birds of the family Rallidae having short wings and very long toes for running on soft mud
+102017875	rails of New Zealand
+102018011	flightless New Zealand rail of thievish disposition having short wings each with a spur used in fighting
+102018208	any of several short-billed Old World rails
+102018339	corncrakes
+102018451	common Eurasian rail that frequents grain fields
+102018598	spotted crakes
+102018720	Eurasian rail of swamps and marshes
+102018852	gallinules
+102019012	any of various small aquatic birds of the genus Gallinula distinguished from rails by a frontal shield and a resemblance to domestic hens
+102019313	North American dark bluish-grey gallinule
+102019470	black gallinule that inhabits ponds and lakes
+102019610	gallinules with showy purplish plumage
+102019747	Old World purple gallinules
+102019867	purple gallinule of southern Europe
+102019989	American purple gallinules
+102020129	American purple gallinule
+102020261	a genus of Rallidae
+102020379	flightless New Zealand birds similar to gallinules
+102020532	coots
+102020681	slate-black slow-flying birds somewhat resembling ducks
+102020861	a coot found in North America
+102021022	a coot found in Eurasia
+102021139	terrestrial game birds of the Old World and Australia: bustards
+102021292	bustards
+102021449	large heavy-bodied chiefly terrestrial game bird capable of powerful swift flight; classified with wading birds but frequents grassy steppes
+102021698	type genus of the Otididae: European bustard
+102021844	largest European land bird
+102021962	Australian bustard
+102022092	popular Australian game bird
+102022220	small Old World birds resembling but not related to true quail
+102022416	type genus of the Turnicidae: button quail
+102022583	small quail-like terrestrial bird of southern Eurasia and northern Africa that lacks a hind toe; classified with wading birds but inhabits grassy plains
+102022873	a variety of button quail having stripes
+102022999	any of several East Indian birds
+102023104	plain wanderer
+102023232	small Australian bird related to the button quail; classified as wading bird but inhabits plains
+102023431	trumpeters
+102023556	type genus of the Psophiidae: trumpeters
+102023704	large gregarious crane-like bird of the forests of South America having glossy black plumage and a loud prolonged cry; easily domesticated
+102023935	trumpeter of Brazil and Guiana; often kept to protect poultry in Brazil
+102024092	large diverse order of aquatic birds found along seacoasts and inland waters: shorebirds and coastal diving birds; most feed on anima life
+102024449	a bird that frequents coastal waters and the open ocean: gulls; pelicans; gannets; cormorants; albatrosses; petrels; etc.
+102024789	shorebirds: plovers; sandpipers; avocets; phalaropes; coursers; stone curlews
+102025152	term used in some classifications for migratory shorebirds; coextensive with the Charadrii
+102025338	any of numerous wading birds that frequent mostly seashores and estuaries
+102025787	plover family
+102025995	any of numerous chiefly shorebirds of relatively compact build having straight bills and large pointed wings; closely related to the sandpipers
+102026318	type genus of the Charadriidae: plovers
+102026509	small plover of eastern North America
+102026646	American plover of inland waters and fields having a distinctive cry
+102026839	rare plover of upland areas of Eurasia
+102027007	golden plovers
+102027133	plovers of Europe and America having the backs marked with golden-yellow spots
+102027290	Eurasian lapwings
+102027417	large crested Old World plover having wattles and spurs
+102027577	turnstones
+102027697	migratory shorebirds of the plover family that turn over stones in searching for food
+102027893	common Arctic turnstone that winters in South America and Australia
+102028043	common turnstone of the Pacific coast of North America
+102028184	sandpiper family: sandpipers; woodcocks; snipes; tattlers; curlews; godwits; dowitchers
+102028713	any of numerous usually small wading birds having a slender bill and piping call; closely related to the plovers
+102029152	a genus of Scolopacidae
+102029283	sandpiper-like shorebird of Pacific coasts of North America and South America
+102029452	a genus of Scolopacidae
+102029602	a variety of sandpiper
+102029729	common North American sandpiper
+102029863	a genus of Scolopacidae
+102030011	smallest American sandpiper
+102030146	small common sandpiper that breeds in northern or Arctic regions and winters in southern United States or Mediterranean regions
+102030384	a genus of Scolopacidae
+102030551	large European sandpiper with greenish legs
+102030689	a common Old World wading bird with long red legs
+102030829	either of two North American shorebird with yellow legs
+102030996	a variety of yellowlegs
+102031105	a variety of yellowlegs
+102031210	a genus of Scolopacidae
+102031381	American sandpiper that inflates its chest when courting
+102031554	a sandpiper that breeds in the Arctic and winters in the southern hemisphere
+102031741	Old World sandpiper with a curved bill like a curlew
+102031897	a genus of Scolopacidae
+102032032	small sandpiper that breeds in the Arctic and migrates southward along sandy coasts in most of world
+102032225	a genus of Scolopacidae
+102032360	large plover-like sandpiper of North American fields and uplands
+102032568	ruffs
+102032689	common Eurasian sandpiper; the male has an erectile neck ruff in breeding season
+102032878	female ruff
+102032941	any of several long-legged shorebirds having a loud whistling cry
+102033096	tattlers
+102033222	tattler of Pacific coastal regions
+102033363	willet
+102033491	large North American shorebird of eastern and Gulf Coasts
+102033650	game bird of the sandpiper family that resembles a snipe
+102033797	type of the Scolopacidae: Old World woodcocks
+102033952	short-legged long-billed migratory Old World woodcock
+102034109	American woodcocks
+102034239	small long-billed woodcock; prized as a game bird
+102034406	snipes
+102034588	Old or New World straight-billed game bird of the sandpiper family; of marshy areas; similar to the woodcocks
+102034876	common snipe of Eurasia and Africa
+102035009	American snipe
+102035134	Old World snipe larger and darker than the whole snipe
+102035300	snipe
+102035423	a small short-billed Old World snipe
+102035569	dowitchers
+102035695	shorebird of the sandpiper family that resembles a snipe
+102035862	a dowitcher with a grey back
+102035978	a dowitcher with a red breast
+102036098	curlews
+102036215	large migratory shorebirds of the sandpiper family; closely related to woodcocks but having a down-curved bill
+102036433	common Eurasian curlew
+102036536	New World curlew that breeds in northern North America
+102036670	godwits
+102036783	large wading bird that resembles a curlew; has a long slightly upturned bill
+102036949	New World godwit
+102037048	major one of two genera of stilts; similar to avocets but with straight bills
+102037315	long-legged three-toed black-and-white wading bird of inland ponds and marshes or brackish lagoons
+102037625	stilt of southwestern United States to northern South America having black plumage extending from the head down the back of the neck
+102037864	stilt of Europe and Africa and Asia having mostly white plumage but with black wings
+102038056	stilt of the southwest Pacific including Australia and New Zealand having mostly white plumage but with black wings and nape of neck
+102038310	blackish stilt of New Zealand sometimes considered a color phase of the white-headed stilt
+102038499	one of two genera of stilts; similar to avocets but with straight bills
+102038707	long-legged three-toed wading bird of brackish marshes of Australia
+102038882	web-footed Australian stilt with reddish-brown pectoral markings
+102039053	long-legged shorebirds
+102039202	type genus of the Recurvirostridae: avocets
+102039365	long-legged web-footed black-and-white shorebird with slender upward-curving bill
+102039518	oystercatchers
+102039636	oystercatchers
+102039764	black-and-white shorebird with stout legs and bill; feed on oysters etc.
+102039932	phalaropes
+102040118	small sandpiper-like shorebird having lobate toes and being good swimmers; breed in the Arctic and winter in the tropics
+102040367	type genus of the Phalaropidae: phalaropes
+102040523	phalarope of northern oceans and lakes
+102040664	a genus of Phalaropidae
+102040795	breeds in Arctic regions of Old and New Worlds; large flocks often seen far out at sea
+102040983	a genus of Phalaropidae
+102041120	breeds on the northern great plains of Canada
+102041271	Old World shorebirds: pratincoles and coursers
+102041491	type genus of the Glareolidae: the pratincoles
+102041647	Old World shorebird with long pointed wings and short legs; closely related to the coursers
+102041825	swift-footed terrestrial plover-like bird of southern Asia and Africa; related to the pratincoles
+102042031	coursers
+102042151	courser of desert and semidesert regions of the Old World
+102042314	coursers
+102042434	African courser that feeds on insect parasites on crocodiles
+102042596	large wading birds resembling the plovers: stone curlews
+102042767	type genus of the Burhinidae: stone curlews
+102042920	large-headed large-eyed crepuscular or nocturnal shorebird of the Old World and tropical America having a thickened knee joint
+102043159	gull family; skimmer family; jaeger family; auk family
+102043352	gulls; terns; jaegers; skimmers
+102043526	gull family: gulls and terns
+102043739	long-winged web-footed aquatic bird of the gull family
+102043900	mostly white aquatic bird having long pointed wings and short legs
+102044146	type genus of the Laridae
+102044332	the common gull of Eurasia and northeastern North America
+102044529	white gull having a black back and wings
+102044700	large gull of the northern hemisphere
+102044834	small black-headed European gull
+102044996	a genus of Laridae
+102045126	white Arctic gull; migrates as far south as England and New Brunswick
+102045291	a genus of Laridae
+102045413	small pearl-grey gull of northern regions; nests on cliffs and has a rudimentary hind toe
+102045577	terns
+102045717	small slender gull having narrow wings and a forked tail
+102045861	a genus of Sterninae
+102045987	common tern of Eurasia and America having white black and grey plumage
+102046151	coextensive with the genus Rynchops: skimmers
+102046313	type genus of the Rynchopidae: skimmers
+102046462	gull-like seabird that flies along the surface of the water with an elongated lower mandible immersed to skim out food
+102046653	jaegers and skuas:
+102046832	rapacious seabird that pursues weaker birds to make them drop their prey
+102047012	type genus of the Stercorariidae: jaegers
+102047171	a variety of jaeger
+102047313	skuas
+102047432	gull-like jaeger of northern seas
+102047562	large brown skua of the northern Atlantic
+102047678	web-footed diving seabirds of northern seas: auks; puffins; guillemots; murres; etc.
+102048023	black-and-white short-necked web-footed diving bird of northern seas
+102048250	any of several small auks of the northern Pacific coasts
+102048359	type genus of the Alcidae comprising solely the razorbill
+102048518	black-and-white northern Atlantic auk having a compressed sharp-edged bill
+102048699	a genus of Alcidae
+102048825	small short-billed auk abundant in Arctic regions
+102048975	great auk
+102049096	large flightless auk of rocky islands off northern Atlantic coasts; extinct
+102049267	a genus of birds including: guillemots
+102049413	small black or brown speckled auks of northern seas
+102049593	northern Atlantic guillemot
+102049699	northern Pacific guillemot
+102049806	murres
+102049914	black-and-white diving bird of northern seas
+102050065	the most frequent variety of murre
+102050171	a variety of murre
+102050268	any of two genera of northern seabirds having short necks and brightly colored compressed bills
+102050489	puffins
+102050629	common puffin of the northern Atlantic
+102050769	northern Pacific puffin
+102050896	puffins
+102051007	northern Pacific puffin having a large yellow plume over each eye
+102051168	large aquatic birds: loons and some extinct forms
+102051352	seabirds of the order Gaviiformes
+102051486	loon family
+102051606	type genus of the Gavidae: loons
+102051742	large somewhat primitive fish-eating diving bird of the northern hemisphere having webbed feet placed far back; related to the grebes
+102051953	grebes
+102052186	aquatic birds related to the loons
+102052326	coextensive with the order Podicipitiformes
+102052509	type genus of the Podicipedidae: grebes
+102052658	small compact-bodied almost completely aquatic bird that builds floating nests; similar to loons but smaller and with lobate rather than webbed feet
+102052967	large Old World grebe with black ear tufts
+102053096	large stocky grebe of circumpolar regions having a dark neck
+102053240	small grebe with yellow ear tufts and a black neck; found in Eurasia and southern Africa as well as western United States
+102053463	small European grebe
+102053575	a genus of Podicipedidae
+102053713	American grebe having a black-banded whitish bill
+102053867	pelicans; frigate birds; gannets; cormorants
+102054128	large fish-eating seabird with four-toed webbed feet
+102054355	pelicans
+102054499	large long-winged warm-water seabird having a large bill with a distensible pouch for fish
+102054698	type genus of the Pelecanidae
+102054858	large American pelican; white with black wing feathers
+102055019	similar to American white pelican
+102055165	frigate birds
+102055293	type genus of the Fregatidae
+102055429	long-billed warm-water seabird with wide wingspan and forked tail
+102055590	gannets and boobies
+102055737	large heavily built seabird with a long stout bill noted for its plunging dives for fish
+102055933	type genus of the Sulidae
+102056079	very large white gannet with black wing tips
+102056238	small tropical gannet having a bright bill or bright feet or both
+102056374	cormorants
+102056513	type genus: coextensive with the family Phalacrocoracidae
+102056690	large voracious dark-colored long-necked seabird with a distensible pouch for holding fish; used in Asia to catch fish
+102056905	snakebirds
+102057030	type genus of the Anhingidae
+102057156	fish-eating bird of warm inland waters having a long flexible neck and slender sharp-pointed bill
+102057365	blackish New World snakebird of swampy regions
+102057488	tropicbirds
+102057620	type genus of the Phaethontidae
+102057761	mostly white web-footed tropical seabird often found far from land
+102057934	penguins
+102058085	comprising all existing penguins
+102058312	flightless cold-water seabirds: penguins
+102058457	short-legged flightless birds of cold southern especially Antarctic regions having webbed feet and wings modified as flippers
+102058745	a genus of Spheniscidae
+102058882	medium-sized penguins occurring in large colonies on the Adelie Coast of Antarctica
+102059075	large penguins
+102059224	large penguin on islands bordering the Antarctic Circle
+102059382	the largest penguin; an Antarctic penguin
+102059527	type genus of the Spheniscidae: jackass penguins
+102059689	small penguin of South America and southern Africa with a braying call
+102059862	rock hoppers
+102059984	small penguin of the Falkland Islands and New Zealand
+102060132	petrels; albatrosses; shearwaters; diving petrels
+102060385	bird of the open seas
+102060552	large long-winged bird with hooked bill and tubular nostrils that wanders the open seas
+102060728	albatrosses
+102060875	large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight
+102061107	type of the Diomedeidae
+102061248	very large albatross; white with wide black wings
+102061401	a variety of albatross with black feet
+102061587	petrels; fulmars; shearwaters
+102061815	relatively small long-winged tube-nosed bird that flies far from land
+102062046	type genus of the Procellariidae
+102062194	large black petrel of southern seas having a white mark on the chin
+102062376	giant petrels
+102062505	large brownish petrel chiefly of Antarctic seas
+102062669	fulmars
+102062786	heavy short-tailed oceanic bird of polar regions
+102062943	shearwaters
+102063064	long-winged oceanic bird that in flight skims close to the waves
+102063222	small black-and-white shearwater common in the northeastern Atlantic
+102063372	storm petrels
+102063542	any of various small petrels having dark plumage with paler underparts
+102063726	type genus of the Hydrobatidae
+102063870	sooty black petrel with white markings; of the northern Atlantic and Mediterranean
+102064078	a genus of Hydrobatidae
+102064213	medium-sized storm petrel
+102064369	diving petrels
+102064506	any of several small diving birds of southern hemisphere seas; somewhat resemble auks
+102064670	whales and dolphins; manatees and dugongs; walruses; seals
+102064862	an order of Eutheria
+102065083	large aquatic carnivorous mammal with fin-like forelimbs no hind limbs, including: whales; dolphins; porpoises; narwhals
+102065397	any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head
+102065644	baleen whales: right whales; rorquals; blue whales; humpbacks
+102065877	whale with plates of whalebone along the upper jaw for filtering plankton from the water
+102066169	right whales
+102066315	large Arctic whalebone whale; allegedly the right' whale to hunt because of its valuable whalebone and oil
+102066499	type genus of the Balaenidae: Greenland whales
+102066653	large-mouthed Arctic whale
+102066807	rorquals; blue whales
+102066991	any of several baleen whales of the family Balaenopteridae having longitudinal grooves on the throat and a small pointed dorsal fin
+102067261	type genus of the Balaenopteridae
+102067469	largest mammal ever known; bluish-grey migratory whalebone whale mostly of southern hemisphere
+102067679	large flat-headed whalebone whale having deep furrows along the throat; of Atlantic and Pacific
+102067916	similar to but smaller than the finback whale
+102068060	small finback of coastal waters of Atlantic and Pacific
+102068252	humpback whales
+102068379	large whalebone whale with long flippers noted for arching or humping its back as it dives
+102068585	comprising only the grey whales
+102068739	type and sole genus of the Eschrichtiidae
+102068898	medium-sized greyish-black whale of the northern Pacific
+102069103	toothed whales: dolphins; porpoises; sperm whales; beaked whales
+102069360	any of several whales having simple conical teeth and feeding on fish etc.
+102069603	sperm whales
+102069753	type genus of the Physeteridae
+102069893	large whale with a large cavity in the head containing spermaceti and oil; also a source of ambergris
+102070115	pygmy sperm whales
+102070256	small sperm whale of warm waters of both coasts of North America
+102070421	very small (to 8 feet) sperm whale of central coasts of Atlantic and Pacific
+102070594	beaked whales; in some especially former classifications included in the family Physeteridae
+102070859	any of several whales inhabiting all oceans and having beaklike jaws with vestigial teeth in the upper jaw
+102071061	bottle-nosed whales
+102071194	northern Atlantic beaked whale with a bulbous forehead
+102071388	dolphins
+102071627	any of various small toothed whales with a beaklike snout; larger than porpoises
+102071924	type genus of the Delphinidae
+102072065	black-and-white dolphin that leaps high out of the water
+102072221	a genus of Delphinidae
+102072353	any of several dolphins with rounded forehead and well-developed beak; chiefly of northern Atlantic and Mediterranean
+102072626	the most common dolphin of northern Atlantic and Mediterranean; often kept captive and trained to perform
+102072826	a bottlenose dolphin found in the Pacific Ocean
+102072963	porpoises
+102073082	any of several small gregarious cetacean mammals having a blunt snout and many teeth
+102073276	the common porpoise of the northern Atlantic and Pacific
+102073428	a short porpoise that lives in the Gulf of California; an endangered species
+102073575	grampus
+102073680	slaty-grey blunt-nosed dolphin common in northern seas
+102073825	killer whales
+102073946	predatory black-and-white toothed whale with large dorsal fin; common in cold seas
+102074158	pilot whales
+102074288	small dark-colored whale of the Atlantic coast of the United States; the largest male acts as pilot or leader for the school
+102074557	river dolphins
+102074692	any of several long-snouted usually freshwater dolphins of South America and southern Asia
+102074861	narwhals
+102075007	type genus of the Monodontidae
+102075145	small Arctic whale the male having a long spiral ivory tusk
+102075317	white whale
+102075450	small northern whale that is white when adult
+102075605	a spouting whale
+102075693	an animal order including: manatees; dugongs; Steller's sea cow
+102075902	any of two families of large herbivorous aquatic mammals with paddle-shaped tails and flipper-like forelimbs and no hind limbs
+102076184	comprising only the manatees
+102076331	type and sole genus of the Trichechidae
+102076483	sirenian mammal of tropical coastal waters of America; the flat tail is rounded
+102076656	a family of mammals of order Sirenia including dugongs and Steller's sea cow
+102076866	type genus of the Dugongidae comprising only the dugongs
+102077019	sirenian tusked mammal found from eastern Africa to Australia; the flat tail is bilobate
+102077194	a genus of the family Dugongidae comprising only Steller's sea cow
+102077378	extinct large sirenian mammal formerly found near the Asiatic coast of the Bering Sea
+102077567	cats; lions; tigers; panthers; dogs; wolves; jackals; bears; raccoons; skunks; and members of the suborder Pinnipedia
+102077948	a terrestrial or aquatic flesh-eating mammal
+102078264	an animal that feeds on both animal and vegetable substances
+102078379	seals; sea lions; walruses
+102078579	aquatic carnivorous mammal having a streamlined body specialized for swimming with limbs modified as flippers
+102078848	any of numerous marine mammals that come on shore to breed; chiefly of cold regions
+102079054	silvery grey Antarctic seal subsisting on crustaceans
+102079187	eared seals: sea lions and fur seals
+102079431	pinniped mammal having external ear flaps and hind limbs used for locomotion on land; valued for its soft underfur
+102079675	fur seals
+102079804	eared seal of the southern hemisphere; the thick soft underfur is the source of sealskin
+102080036	a fur seal of the Pacific coast of California and southward
+102080185	fur seals
+102080310	an eared seal of the northern Pacific
+102080439	of Pacific coast from Alaska southward to California
+102080575	any of several large eared seals of the northern Pacific related to fur seals but lacking their valuable coat
+102080811	type genus of the Otariidae
+102080944	of the southern coast of South America
+102081088	sea lions
+102081226	often trained as a show animal
+102081390	a variety of sea lion found in Australia
+102081534	sea lions
+102081657	largest sea lion; of the northern Pacific
+102081822	earless seals
+102082041	any of several seals lacking external ear flaps and having a stiff hairlike coat with hind limbs reduced to swimming flippers
+102082358	type genus of the Phocidae: earless seals
+102082503	small spotted seal of coastal waters of the northern hemisphere
+102082674	harp seals
+102082798	common Arctic seal; the young are all white
+102082943	elephant seals
+102083067	either of two large northern Atlantic earless seals having snouts like trunks
+102083238	bearded seals
+102083365	medium-sized greyish to yellow seal with bristles each side of muzzle; of the Arctic Ocean
+102083586	hooded seals
+102083712	medium-sized blackish-grey seal with large inflatable sac on the head; of Arctic and northern Atlantic waters
+102083934	walruses and extinct forms
+102084075	type genus of the Odobenidae: walruses
+102084223	either of two large northern marine mammals having ivory tusks and tough hide over thick blubber
+102084450	a walrus of northern Atlantic and Arctic waters
+102084579	a walrus of the Bering Sea and northern Pacific
+102084708	in some classifications considered a suborder of Carnivora
+102084842	terrestrial carnivores; having toes separated to the base: dogs; cats; bears; badgers; raccoons
+102085010	an order of Eutheria
+102085150	aardvarks
+102085284	coextensive with the family Orycteropodidae
+102085443	nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata
+102085690	dogs; wolves; jackals; foxes
+102085998	any of various fissiped mammals with nonretractile claws and typically long muzzles
+102086324	female of any member of the dog family
+102086432	a bitch used for breeding
+102086515	type genus of the Canidae: domestic and wild dogs; wolves; jackals
+102086723	a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+102087384	informal terms for dogs
+102087513	an inferior dog or one of mixed breed
+102087671	a nervous belligerent little mongrel dog
+102087770	ownerless half-wild mongrel dog common around Asian villages especially India
+102087924	a dog small and tame enough to be held in the lap
+102088026	any of several breeds of very small dogs kept purely as pets
+102088272	an old breed of tiny short-haired dog with protruding eyes from Mexico held to antedate Aztec civilization
+102088434	breed of toy dogs originating in Japan having a silky black-and-white or red-and-white coat
+102088588	breed of toy dogs having a long straight silky white coat
+102088731	a Chinese breed of small short-legged dogs with a long silky coat and broad flat muzzle
+102088892	a Chinese breed of small dog similar to a Pekingese
+102088998	a very small spaniel
+102089130	British breed having a long silky coat and rounded head with a short upturned muzzle
+102089298	red-and-white variety of English toy spaniel
+102089405	a toy English spaniel with a black-and-tan coat; named after Charles II who popularized it
+102089562	small slender toy spaniel with erect ears and a black-spotted brown to white coat
+102089698	a small active dog
+102089774	a dog used in hunting game
+102089966	a dog trained for coursing
+102090046	a powerful short-haired African hunting dog having a crest of reversed hair along the spine
+102090203	any of several breeds of dog used for hunting typically having large drooping ears
+102090746	tall graceful breed of hound with a long silky coat; native to the Near East
+102090890	smooth-haired breed of hound with short legs and long ears
+102091016	a small short-legged smooth-coated breed of hound
+102091118	a breed of large powerful hound of European origin having very acute smell and used in tracking
+102091284	a very fast American hound; white mottled with bluish grey
+102091397	large hound used in hunting wild boars
+102091491	any of several breeds of hound developed for hunting raccoons
+102091644	any dog trained to hunt raccoons
+102091730	American breed of large powerful hound dogs used for hunting raccoons and other game
+102091884	small long-bodied short-legged German breed of dog having a short sleek coat and long drooping ears; suited for following game into burrows
+102092120	informal term
+102092207	medium-sized glossy-coated hounds developed for hunting foxes
+102092377	an American breed of foxhounds used for hunting both in packs and individually
+102092519	an American breed of foxhound
+102092625	an English breed slightly larger than the American foxhounds originally used to hunt in packs
+102092781	a hound that resembles a foxhound but is smaller; used to hunt rabbits
+102092905	a brindle-coated American hound used in hunting bears and wild boars
+102093031	a speedy red or red-and-tan American hound
+102093127	the largest breed of dogs; formerly used to hunt wolves
+102093274	tall fast-moving dog breed
+102093373	large breed of hound with a rough thick coat
+102093479	a tall slender dog of an ancient breed noted for swiftness and keen sight; used as a racing dog
+102093684	a toy dog developed from the greyhound
+102093786	small slender dog of greyhound type developed in England
+102093896	breed of slender agile medium-sized hound found chiefly in the Balearic Islands; said to have been bred originally by the Pharaohs of ancient Egypt
+102094119	breed of compact medium-sized dog with a heavy grey coat developed in Norway for hunting elk
+102094287	hardy British hound having long pendulous ears and a thick coarse shaggy coat with an oily undercoat; bred for hunting otters
+102094483	old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from Egypt and southwestern Asia
+102094654	very large and tall rough-coated dog bred for hunting deer; known as the royal dog of Scotland
+102094825	a large heavy hound formerly used in hunting stags and other large game; similar to but larger than a foxhound
+102094991	large breed of hound having a smooth greyish coat; originated in Germany
+102095120	any of several usually small short-bodied breeds originally trained to hunt animals living underground
+102095708	a powerful short-haired terrier originated in England by crossing the bulldog with terriers
+102095908	English breed of strong stocky dog having a broad skull and smooth coat
+102096080	American breed of muscular terriers with a short close-lying stiff coat
+102096299	a light terrier groomed to resemble a lamb
+102096406	small rough-coated terrier of British origin
+102096511	an Irish breed of medium-sized terriers with a silky blue-grey coat
+102096643	medium-sized breed with a wiry brown coat; developed in Ireland
+102096766	English breed of small terrier with a straight wiry grizzled coat and dropped ears
+102096910	English breed of small short-legged terrier with a straight wiry red or grey or black-and-tan coat and erect ears
+102097085	very small breed having a long glossy coat of bluish-grey and tan
+102097214	any of several breeds of terrier developed to catch rats
+102097373	a breed of short-haired rat terrier with a black-and-tan coat that was developed in Manchester, England
+102097583	breed of small Manchester terrier
+102097702	small lively black-and-white terriers formerly used to dig out foxes
+102097864	a fox terrier with smooth hair
+102097966	a fox terrier with wiry hair
+102098064	a terrier with wiry hair
+102098222	breed of wire-haired terrier originally from the Lake District of England and used for hunting
+102098379	wire-haired terrier resembling Airedales but smaller; developed in Wales for hunting
+102098541	a wire-haired terrier with short legs that was first bred in Sealyham
+102098703	breed of large wiry-coated terrier bred in Yorkshire
+102098829	small rough-haired breed of terrier from Scotland
+102098946	small greyish wire-haired breed of terrier from Australia similar to the cairn
+102099089	a breed of small terrier with long wiry coat and drooping ears
+102099237	small pug-faced American terrier breed having a smooth brindle or black coat with white markings
+102099408	old German breed of sturdy black or greyish wire-haired terriers having a blunt muzzle ranging in size from fairly small to very large; used as ratters and guard dogs or police dogs
+102099699	a small schnauzer
+102099782	a large schnauzer
+102099861	a medium-sized schnauzer
+102099950	old Scottish breed of small long-haired usually black terrier with erect tail and ears
+102100126	breed of medium-sized terriers bred in Tibet resembling Old English sheepdogs with fluffy curled tails
+102100310	Australian breed of toy dogs having a silky blue coat
+102100438	Scottish breed of terrier with shaggy hair and long low body with short legs; native to the Isle of Skye
+102100619	selectively bred small Skye terrier with erect ears and a long silky coat
+102100757	Irish breed of medium-sized terrier with an abundant coat any shade of wheat and very hairy head and muzzle
+102100938	small white long-coated terrier developed in Scotland
+102101065	a breed of terrier having a long heavy coat raised in Tibet as watchdogs
+102101202	a dog trained to work with sportsmen when they hunt with guns
+102101458	a gun dog trained to locate or retrieve birds
+102101558	a dog accustomed to water and usually trained to retrieve waterfowl
+102101681	a dog with heavy water-resistant coat that can be trained to retrieve game
+102101919	an English breed having a shiny black or liver-colored coat; retrieves game from land or water
+102102081	an English breed having a tightly curled black or liver-colored coat; retrieves game from land or water
+102102253	an English breed having a long silky golden coat
+102102364	breed originally from Labrador having a short black or golden-brown coat
+102102501	American breed having a short thick oily coat ranging from brown to light tan
+102102649	a strong slender smooth-haired dog of Spanish origin having a white coat with brown or black patches; scents out and points to game
+102102888	liver or liver-and-white hunting dog developed in Germany; 3/4 pointer and 1/4 bloodhound
+102103051	a long-haired dog formerly trained to crouch on finding game but now to point
+102103235	Hungarian hunting dog resembling the Weimaraner but having a rich deep red coat
+102103387	an English breed having a plumed tail and a soft silky coat that is chiefly white
+102103529	an Irish breed with a chestnut-brown or mahogany-red coat
+102103658	a Scottish breed with a black-and-tan coat
+102103760	any of several breeds of small to medium-sized gun dogs with a long silky coat and long frilled ears
+102104040	tall active short-tailed French breed of bird dog having a usually smooth orange- or liver-and-white coat
+102104208	a thickset spaniel with longish silky hair
+102104322	large usually black hunting and retrieving spaniel with a dense flat or slightly wavy coat; cross between cocker and Sussex spaniel
+102104513	a large spaniel with wavy silky coat usually black or liver and white
+102104692	a breed having typically a black-and-white coat
+102104829	a red-and-white breed slightly smaller than the English springer spaniel
+102104970	a small breed with wavy silky hair; originally developed in England
+102105132	an English breed with short legs and a golden liver-colored coat
+102105257	any dog of two large curly-coated breeds used for hunting waterfowl
+102105458	breed of medium-sized spaniels originating in America having chocolate or liver-colored curly coat
+102105625	breed of large spaniels developed in Ireland having a heavy coat of liver-colored curls and a topknot of long curls and a nearly hairless tail
+102105833	breed of medium-sized long-headed dogs with downy undercoat and harsh wiry outer coat; originated in Holland but largely developed in France
+102106058	any of several breeds of usually large powerful dogs bred to work as draft animals and guard and guide dogs
+102106493	a dog trained to guard property
+102106681	long-established Hungarian breed of tall light-footed but sturdy white dog; used also as a hunting dog
+102106836	a watchdog trained to attack on command
+102106932	a dog trained to guard a house
+102107017	breed of small stocky black dogs originally used as watchdogs on boats in the Netherlands and Belgium
+102107175	any of various usually long-haired breeds of dog reared to herd and guard sheep
+102107534	hardy working dog developed in Belgium for herding sheep
+102107708	black-coated sheepdog with a heavily plumed tail
+102107814	fawn-colored short-haired sheepdog
+102107903	old French breed of large strong usually black dogs having a long tail and long wavy and slightly stiff coat
+102108064	an Australian sheepdog with pointed ears
+102108157	Hungarian breed of large powerful shaggy-coated white dog; used also as guard dog
+102108293	large sheepdog with a profuse shaggy bluish-grey-and-white coat and short tail; believed to trace back to the Roman occupation of Britain
+102108507	a small sheepdog resembling a collie that was developed in the Shetland Islands
+102108682	a silky-coated sheepdog with a long ruff and long narrow head developed in Scotland
+102108818	developed in the area between Scotland and England usually having a black coat with white on the head and tip of tail used for herding both sheep and cattle
+102109034	rough-coated breed used originally in Belgium for herding and guarding cattle
+102109202	German breed of large vigorous short-haired cattle dogs
+102109314	breed of large shepherd dogs used in police work and as a guide for the blind
+102109506	any dog trained to assist police especially in tracking
+102109618	any of three breeds of dogs whose ears and tail are usually cropped
+102109794	medium large breed of dog of German origin with a glossy black and tan coat; used as a watchdog
+102109964	small German version of a Doberman pinscher
+102110072	any of four Swiss breeds
+102110226	the largest of the four Swiss breeds
+102110335	large powerful long-haired black-coated Swiss dog with deep tan or russet markings on legs and white blaze and feet and chest marking; formerly used for draft
+102110560	a smaller of the four Swiss breeds
+102110652	the smallest of the Sennenhunde
+102110741	a breed of stocky medium-sized short-haired dog with a brindled coat and square-jawed muzzle developed in Germany
+102110906	an old breed of powerful deep-chested smooth-coated dog used chiefly as a watchdog and guard dog
+102111074	large powerful breed developed by crossing the bulldog and the mastiff
+102111203	very large powerful rough-coated dog native to central Asia
+102111324	a sturdy thickset short-haired breed with a large head and strong undershot lower jaw; developed originally in England for bull baiting
+102111567	small stocky version of the bulldog having a sleek coat and square head
+102111699	very large powerful smooth-coated breed of dog
+102111802	a dog trained to guide the blind
+102111908	(trademark) a guide dog trained to guide a blind person
+102112043	dog trained to assist the deaf by signaling the occurrence of certain sounds
+102112177	a Swiss alpine breed of large powerful dog with a thick coat of hair used as a rescue dog
+102112339	a dog that can alert or assist people with seizure disorders
+102112463	a dog trained to draw a sled usually in a team
+102112613	breed of heavy-coated Arctic sled dog
+102112715	breed of sled dog developed in Alaska
+102112837	breed of sled dog developed in northeastern Siberia; they resemble the larger Alaskan malamutes
+102112993	a large breed having a smooth white coat with black or brown spots; originated in Dalmatia
+102113184	a brown-spotted dalmatian
+102113279	European breed of small dog resembling a terrier with dark wiry hair and a tufted muzzle
+102113458	small smooth-haired breed of African origin having a tightly curled tail and the inability to bark
+102113610	small compact smooth-coated breed of Asiatic origin having a tightly curled tail and broad flat wrinkled muzzle
+102113781	a large dog (usually with a golden coat) produced by crossing a St Bernard and a Newfoundland
+102113929	a breed of very large heavy dogs with a thick coarse usually black coat; highly intelligent dogs and vigorous swimmers; developed in Newfoundland
+102114152	bred of large heavy-coated white dogs resembling the Newfoundland
+102114278	any of various stocky heavy-coated breeds of dogs native to northern regions having pointed muzzles and erect ears with a curled furry tail
+102114541	Siberian breed of white or cream-colored dog of the spitz family
+102114670	breed of very small compact long-haired dogs of the spitz type
+102114789	breed of medium-sized dogs with a thick coat and fluffy curled tails and distinctive blue-black tongues; believed to have originated in northern China

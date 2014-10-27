@@ -1,0 +1,1000 @@
+301652117	two years of age
+301652192	three years of age
+301652271	four years of age
+301652348	five years of age
+301652425	being of the age 13 through 19
+301652631	being or befitting or characteristic of an infant
+301652755	befitting or characteristic of a young boy
+301652933	befitting a young child
+301653059	very young
+301653140	befitting or characteristic of a young girl
+301653333	including or intended for youthful persons
+301653473	(of children and animals) young, immature
+301653626	recently born
+301653713	of or relating to or designed for children between the ages of 9 and 12
+301653911	characteristic of a puppy
+301654003	young and immature
+301654093	somewhat young
+301654162	suggestive of youth; vigorous and fresh
+301654318	(of clothing) consisting of or fashioned in a single whole piece
+301654479	(of clothing) made in or consisting of two parts or pieces
+301654635	(of clothing) made in or consisting of three parts or pieces
+301654843	connected to a computer network or accessible by computer
+301655023	stored in, controlled by, or in direct communication with a central computer
+301655194	not connected to a computer network
+301655325	on a regular route of a railroad or bus or airline system
+301655486	not on a regular route of a transportation system
+301655638	in operation or operational
+301655788	plugged in
+301655911	not in operation or operational
+301656051	not plugged in or connected to a power source
+301656183	(of events) planned or scheduled
+301656338	(of events) no longer planned or scheduled
+301656475	not offside; being within the prescribed area of play
+301656600	illegally beyond a prescribed line or area or ahead of the ball or puck
+301656822	affording unobstructed entrance and exit; not shut or closed
+301657043	slightly open
+301657131	open wide
+301657224	not open
+301657344	affording free passage or access
+301657577	made open or clear
+301657673	(of a container) having the stopper removed
+301657821	gaping open as if threatening to engulf someone or something
+301657980	not open or affording passage or access
+301658299	closed to traffic
+301658418	having the curtains or draperies closed or pulled shut
+301658588	(of a container) having a stopper in the opening
+301658725	not open; not opening
+301658803	used of mouth or eyes
+301659008	with the mouth wide open as in wonder or awe
+301659195	(used of eyes) open and fixed as if in fear or wonder
+301659326	(used of eyes) fully open or extended
+301659451	with the mouth wide open indicating boredom or sleepiness
+301659588	used especially of mouth or eyes
+301659812	closing the eyes intermittently and rapidly
+301659964	pressed tightly together
+301660077	having eyes half closed in order to see better
+301660209	arranged with spaces between; often used as a combining form
+301660398	(of type or print) having a blank line between lines of type
+301660555	having thin strips of lead between the lines of type
+301660679	(of type or print) not having a blank space between lines
+301660842	arranged without spaces between
+301660946	not having leads between the lines
+301661054	closed in or surrounded or included within
+301661482	enclosed in a basin
+301661555	surrounded by hostile forces
+301661659	enclosed in or as if in a box
+301661846	used of seeds or spores that are enclosed in a capsule
+301661988	designating or relating to a compound in which one component is physically enclosed within the crystal structure of another
+301662186	blocked against entry
+301662293	(of an insect pupa) enclosed in a rigid case
+301662393	enclosed firmly in a surrounding mass
+301662621	resembling a fence
+301662695	enclosed in the same envelope or package
+301662812	enveloped
+301662959	of self-imposed enclosure or confinement
+301663092	confined on all sides
+301663240	not closed in our surrounded or included
+301663440	partly or entirely open to the sky
+301663543	having no protecting cover or enclosure
+301663703	not enclosed by a fence
+301663781	converted to leather by a tanning agent
+301663873	not converted to leather by a tanning agent
+301664003	in a condition for letting out liquid drawn out as by piercing or drawing a plug
+301664188	of a cask or barrel
+301664300	not subjected to tapping
+301664425	(set theory) of an interval that contains neither of its endpoints
+301664561	(set theory) of an interval that contains both its endpoints
+301664693	(military) of or intended for or involved in military operations
+301664870	engaged in or ready for military or naval operations
+301665138	ready for service
+301665283	(military) not involved in military operations
+301665420	suitable or at a time that is suitable or advantageous especially for a particular purpose
+301665754	most suitable or right for a particular purpose
+301665994	done or happening at the appropriate or proper time
+301666379	not opportune
+301666584	badly timed
+301666849	not conveniently timed
+301666975	capable of being placed opposite to something
+301667150	not opposable
+301667221	being in opposition or having an opponent
+301667377	on bad terms
+301667514	not having opposition or an opponent
+301667666	of leaves etc; growing in pairs on either side of a stem
+301667824	of leaves and branches etc; first on one side and then on the other in two ranks along an axis; not paired
+301668036	expecting the best in this best of all possible worlds
+301668381	expecting a rise in prices
+301668480	pleasantly (even unrealistically) optimistic
+301668621	reflecting optimism
+301668775	unrealistically or naively optimistic
+301668920	confidently optimistic and cheerful
+301669060	expecting the worst possible outcome
+301669262	expecting prices to fall
+301669359	made less hopeful or enthusiastic
+301669663	of or involving the mouth or mouth region or the surface on which the mouth is located
+301669927	opposite to or away from the mouth
+301670069	(of radiate organisms) located on the surface or end on which the mouth is situated
+301670225	(of radiate animals) located on the surface or end opposite to that on which the mouth is situated
+301670379	devoid of violence or disruption
+301670528	undisciplined and unruly
+301670742	noisy and lacking in restraint or discipline
+301671180	characteristic of a mob; disorderly or lawless
+301671363	disturbing the public peace; loud and rough
+301671524	characterized by disorderly action and disregard for rules
+301671772	having a systematic arrangement; especially having elements succeeding in order according to rule
+301671982	in regular succession without gaps
+301672264	(of a card game or a dance) involving a series of sections for which the participants successively change place or relative position
+301672503	not arranged in order
+301672593	methodical and efficient in arrangement or function
+301672820	characterized by method and orderliness
+301672976	characterized by good organization and control
+301673111	lacking order or methodical arrangement or function
+301673499	thrown into a state of disarray or confusion
+301673760	lacking a visible order or organization
+301673870	snarled or stalled in complete confusion
+301674027	thrown together in a disorderly fashion
+301674152	not efficient or methodical
+301674290	thrown into a state of disorganization or incoherence
+301674474	formed into a structured or coherent whole, particularly on a large scale
+301674733	planned in advance
+301674830	organized so as to give configuration to
+301674975	organized and maintained as a legal corporation
+301675162	formed again or anew
+301675288	organized again
+301675401	not having or belonging to a structured whole
+301675642	lacking in cooperative planning and organization
+301675814	not formed or organized
+301675925	not organized and maintained as a legal corporation
+301676037	having definite and highly organized structure
+301676186	lacking definite structure or organization
+301676562	having no intrinsic or objective meaning; not organized in conventional patterns
+301676810	(of a group of people or an organization) unorganized or unfocused
+301677042	without regulation or discipline
+301677162	not exceptional in any way especially in quality or ability or size or degree
+301677616	lacking exceptional quality or ability
+301677989	(formal) ordinary and not refined
+301678145	lacking distinct or individual characteristics; dull and uninteresting
+301678370	to be expected; standard
+301678501	completely ordinary and unremarkable
+301678689	according to ordinary expectations
+301678797	found in the ordinary course of events
+301679159	being neither good nor bad
+301679481	not special in any way; lacking distinction
+301679784	beyond what is ordinary or usual; highly unusual or exceptional or remarkable
+301680525	remarkable or wonderful
+301680620	far beyond what is usual in magnitude or degree
+301680944	extraordinary in a particular capacity
+301681111	extraordinarily good or great; used especially as intensifiers
+301681586	exceedingly or unbelievably great
+301681792	extreme in degree or extent or amount or impact
+301682025	remarkable or out of the ordinary in degree or magnitude or effect
+301682215	(informal) very; used informally as an intensifier
+301682392	surpassing the ordinary or normal
+301682616	suggestive of fireworks
+301682771	marked by an uncommon quality; especially superlative or extreme of its kind
+301683076	unusual or striking
+301683245	remarkable
+301683388	for a special service or occasion
+301683605	performing or able to perform wonders or miracles
+301683714	relating or belonging to the class of chemical compounds having a carbon basis
+301683903	relating or belonging to the class of compounds not having a carbon basis
+301684118	being or relating to or derived from or having properties characteristic of living organisms
+301684403	resembling a living organism in organization or development
+301684566	involving or derived from living organisms; free from chemical treatments or additives
+301684775	lacking the properties characteristic of living organisms
+301684942	lacking the system or structure characteristic of living bodies
+301685076	not arising from natural growth or characterized by vital processes
+301685218	composed of matter other than plant or animal
+301685348	emphasizing the organic or functional relation between parts and the whole
+301685495	divided into separate and often disparate elements
+301685687	disposed or placed in a particular kind of order
+301685966	set down according to a plan
+301686137	put in position in relation to other things
+301686267	having the arrangement disturbed; not in order
+301686449	in disarray
+301686542	having the place or position changed
+301686733	put in the wrong place or position
+301686889	adjusted or located in relation to surroundings or circumstances; sometimes used in combination
+301687337	having achieved a comfortable relation with your environment
+301687482	headed or intending to head in a certain direction; often used as a combining form as in college-bound students'
+301687721	(often used in combination) having a specified direction
+301687881	having a heading or course in a certain direction
+301688009	oriented toward home
+301688156	(used in combination) mentally oriented toward something specified
+301688327	not having position or goal definitely set or ascertained
+301688568	socially disoriented
+301688793	having lost your bearings; confused as to time or place or personal identity
+301689086	positioning with respect to a reference system or determining your bearings physically or intellectually
+301689471	causing to fall into line or into position
+301689582	indicating or determining size and position in space
+301689791	serving to make familiar
+301689891	orienting or directing homeward or to a destination
+301690037	causing loss of physical or intellectual bearings
+301690366	causing confusion or disorientation
+301690566	making one feel out of place or alienated
+301690696	causing or capable of causing bewilderment or shock or insensibility
+301690929	making physically stupid or dull or insensible
+301691099	being or productive of something fresh and unusual; or being as first made or thought of
+301691548	radically new or original
+301691672	done by hand without mechanical aids or devices
+301691809	original and of a kind not seen before
+301692005	containing seeds of later development
+301692228	being or producing something like nothing done or experienced or created before
+301692607	not derivative or imitative
+301692724	not original; not being or productive of something fresh and unusual
+301693210	repeated too often; overfamiliar through overuse
+301693676	dull and tiresome but with pretensions of significance or originality
+301693895	repeated regularly without thought or originality
+301694033	lacking originality or spontaneity; no longer new
+301694228	blindly imitative
+301694333	adhering to what is commonly accepted
+301694620	opposed to heresy
+301694697	conforming to orthodox or recognized rules
+301694901	adhering to established customs or doctrines (especially in religion)
+301695059	conforming with accepted standards
+301695220	pertaining to time-honored orthodox doctrines
+301695440	unaffected by the Reformation
+301695526	breaking with convention or tradition
+301695755	(of Catholics) refusing to attend services of the Church of England
+301695927	characterized by departure from accepted beliefs or standards
+301696140	characterized by attack on established beliefs or institutions
+301696279	not conforming to established customs or doctrines especially in religion
+301696428	of or relating to the body of Protestant Christianity arising during the Reformation; used of some Protestant churches especially Calvinist as distinct from Lutheran
+301696675	located, suited for, or taking place in the open air
+301696965	in the open air
+301697093	characteristic of or suitable to outdoor life
+301697239	located, suited for, or taking place within a building
+301697422	relating to or being on or near the outer side or limit
+301697642	outside regular school hours
+301697764	outside the regular duties of your job or profession
+301697878	outside the regular academic curriculum
+301698038	(of the side of cloth or clothing) facing or intended to face outward
+301698252	relating to or being on the side closer to the center or within a defined space
+301698534	used of the side of cloth or clothing intended to face inward
+301698676	overlaid or spread or topped with or enclosed within something; sometimes used as a combining form
+301699345	(of some seeds) having a fleshy and usually brightly colored cover
+301699494	covered with an awning
+301699613	covered with beads of liquid
+301699722	covered with (or as if with) a blanket
+301699816	covered with or as with a canopy
+301699958	covered with or as if with clothes or a wrap or cloak
+301700202	having a hardened crust as a covering
+301700344	covered with bright patches (often used in combination)
+301700618	abundantly covered or supplied with; often used in combination
+301700799	covered with a layer of dust
+301700955	splashed or covered patchily with moonlight
+301701085	overgrown with moss
+301701187	covered with or as if with mud
+301701308	wrapped up especially for protection or secrecy
+301701452	covered all over with uniformly distributed flagella
+301701582	(of walls) covered with a coat of plaster
+301701688	covered with growing plants
+301701771	covered with a waterproof coating
+301701878	completely covered
+301702045	covered with snow
+301702223	covered with patches of bright color
+301702331	covered with sunlight
+301702453	covered thickly
+301702556	covered or furnished with tiles
+301702684	marked by the presence of snow
+301702853	lacking its natural or customary covering
+301703063	without the natural or usual covering
+301703213	lacking any cover
+301703356	lacking drapery or draperies
+301703459	having no roof
+301703548	having a coating; covered with an outer layer or film; often used in combination
+301703863	used of film that is coated on the side opposite the emulsion with a substance to absorb light
+301704029	coated with black
+301704105	(of foods) covered with a shiny coating by applying e.g. beaten egg or a sugar or gelatin mixture
+301704291	coated or covered with oil
+301704435	not having a coating
+301704528	covered with a roof; having a roof as specified (often used in combination)
+301704746	not having a roof
+301704867	having or covered with leaves
+301705397	having two leaves
+301705470	like a bower; leafy and shady
+301705587	having curly leaves
+301705680	having fan-shaped leaves
+301705774	having fine leaves
+301705864	bearing numerous leaves
+301705965	(often used as a combining form) having or resembling a leaf or having a specified kind or number of leaves
+301706222	(often used as a combining form) having leaflets (compound leaves) or a specified kind or number of leaflets
+301706484	having leaves that resemble grass
+301706593	overgrown with ivy
+301706706	having relatively large leaves
+301706810	having leaves or leaves as specified; often used in combination
+301706996	resembling a leaf
+301707080	having leathery leaves
+301707180	resembling a petal
+301707267	having pinnate leaves
+301707366	having prickly leaves
+301707465	having glossy leaves
+301707559	having silvery leaves
+301707690	having spiny leaves
+301707783	having two leaves
+301707870	having a single leaf
+301707947	having no leaves
+301708072	having no leaves
+301708163	deprived of leaves
+301708250	resembling or consisting of a scape; having a bare leafless stalk growing directly from the ground
+301708526	having a lip or lips
+301708726	having two lips
+301708873	having lips or parts that resemble lips
+301708976	having thick lips
+301709052	having three lips
+301709128	without a lip or lips
+301709214	open and observable; not secret or hidden
+301709541	with no effort to conceal
+301709648	devoid of elaboration or diminution or concealment; bare and pure
+301709871	plain to see
+301709966	obvious to the eye
+301710108	secret or hidden; not openly practiced or engaged in or shown or avowed
+301710564	secret and sly or sordid
+301710794	(of intelligence operations) deliberately misleading
+301710918	conducted with or marked by hidden aims or methods
+301711439	indulging only covertly
+301711537	acting together in secret toward a fraudulent or illegal end
+301711683	having its true character concealed with the intent of misleading
+301711857	communicated covertly
+301711984	designed and carried out secretly or confidentially
+301712186	lying beyond what is openly revealed or avowed (especially being kept in the background or deliberately concealed)
+301712502	kept secret
+301712617	not made known
+301712702	marked by the reception of pay
+301713016	for which money has been paid
+301713116	for which money is paid
+301713351	receiving or eligible for compensation
+301713534	serving for wages in a foreign army
+301713698	paid in advance
+301713807	postpaid
+301713890	used especially of mail; paid in advance
+301713995	with cost of reply prepaid by sender
+301714134	leaving no balance
+301714268	not paid
+301714507	free of charge
+301714713	costing nothing
+301714874	paying nothing
+301714996	owed as a debt
+301715162	done for the public good without compensation
+301715262	complimentary; without payment of rent
+301715399	not paying a salary
+301715524	causing physical or psychological pain
+301715918	causing a dull and steady pain
+301716067	expressing pain or agony
+301716177	extremely painful
+301716363	causing a sharply painful or stinging sensation; used especially of cold
+301716529	painful from having the skin abraded
+301716627	keenly distressing to the mind or feelings
+301716780	causing an irritating cutaneous sensation; being affect with an itch
+301716982	causing great physical or mental suffering
+301717110	(of a rider) sore after riding a horse
+301717206	hurting
+301717393	psychologically painful
+301717548	not causing physical or psychological pain
+301717703	not accompanied by pain sensations
+301717826	coated with paint
+301718003	having a surface coating or finish applied
+301718166	having a coating of stain or varnish
+301718268	coated with whitewash
+301718378	not having a coat of paint or badly in need of a fresh coat
+301718610	lacking a surface finish such as paint
+301718767	not having oil rubbed into the surface
+301718859	not having a coating of stain or varnish
+301718969	having makeup applied
+301719086	marked by the use of various kinds of red makeup
+301719227	not having makeup on
+301719349	not wearing rouge
+301719438	represented accurately or precisely
+301719610	represented graphically by sketch or design or lines
+301719740	represented in words especially with sharpness and detail
+301719883	shown or represented by diagrams
+301720027	not represented accurately or precisely
+301720161	not pictured
+301720243	not represented in a drawing
+301720325	lending itself to being painted
+301720487	not paintable especially not suitable for artistic representation on canvas
+301720680	acceptable to the taste or mind
+301720944	not pleasant or acceptable to the taste or mind
+301721298	distasteful and unpleasant; spoiled by mixture
+301721424	not pleasing in odor or taste
+301721570	capable of being perceived; especially capable of being handled or touched or felt
+301721906	imperceptible to the senses or the mind
+301722138	difficult to detect or grasp by the mind or analyze
+301722394	being everywhere equidistant and not intersecting
+301722706	(especially of vectors) parallel but oppositely directed
+301722845	situated or running side by side
+301722968	(of lines, planes, or surfaces) never meeting or crossing
+301723103	slanting or inclined in direction or course or position--neither parallel nor perpendicular nor right-angled
+301723629	slanting diagonally across the grain of a fabric
+301723743	slanted across a polygon on a diagonal line
+301724015	(of movement) at an angle
+301724106	connecting two nonadjacent corners of a plane figure or any two corners of a solid that are not in the same face
+301724326	(of e.g. lines or paths) not parallel; converging
+301724433	having oblique angles
+301724515	intersecting at or forming right angles
+301724784	forming a right angle
+301724877	having a set of mutually perpendicular axes; meeting at right angles
+301725165	having the axis perpendicular to the base
+301725294	admitting of being pardoned
+301725432	easily excused or forgiven
+301725554	capable of being atoned for
+301725636	warranting only temporal punishment
+301725765	not admitting of pardon
+301725926	involving loss of divine grace or spiritual death
+301726102	not excusable
+301726188	incapable of being atoned for
+301726274	capable of being overlooked
+301726375	capable of being justified
+301726477	without excuse or justification
+301726584	incapable of being justified or explained
+301726746	relating to or characteristic of or befitting a parent
+301726916	relating to or characteristic of or befitting an offspring
+301727063	befitting a daughter
+301727182	showing favoritism
+301727308	favoring one person or side over another
+301727525	showing lack of favoritism
+301727760	unaffected by self-interest
+301727865	unaffected by strong emotion or prejudice
+301728073	characterized by a lack of partiality
+301728286	marked by no especial liking or dislike or preference for one thing over another
+301728582	composed of distinct particles
+301728670	not composed of distinct particles
+301728765	able to be passed or traversed or crossed
+301728957	able to be sailed on or through safely
+301729130	capable of being passed or negotiated
+301729245	capable of being surmounted
+301729343	capable of being traversed
+301729487	incapable of being passed
+301729636	incapable of being surmounted or climbed
+301729751	incapable of being navigated
+301729838	incapable of being traversed
+301729926	having or expressing strong emotions
+301730235	keenly excited (especially sexually) or indicating excitement
+301730449	characterized by intense emotion
+301730827	easily moved to anger
+301730989	as if possessed by demons
+301731073	marked by excessive enthusiasm for and intense devotion to a cause or idea
+301731365	vigorously passionate
+301731535	in a state of extreme emotion
+301731671	not passionate
+301731876	free from physical desire
+301731973	free from emotional appeal; marked by reasonableness
+301732158	earlier than the present time; no longer current
+301732708	gone by; or in the past
+301732846	belonging to times long past especially of the historical period before the fall of the Western Roman Empire
+301733151	well in the past; former
+301733389	characteristic of the time of chivalry and knighthood in the Middle Ages
+301733616	belonging to the distant past
+301733798	belonging to some prior time
+301734051	(used especially of persons) of the immediate past
+301734292	belonging to the past; of what is important or famous in the past
+301734561	immediately past
+301734676	of the immediate past or just previous to the present time
+301734977	relating to time long past
+301735069	recently past
+301735158	belonging to or existing in times before recorded history
+301735357	at a specific prior time
+301735457	in or of the month preceding the present one
+301735600	temporal sense; intermediate between past and future; now existing or happening or in consideration
+301736035	presently existing
+301736131	of the present time and place
+301736261	in or of the present month
+301736380	belonging to the present or recent times
+301736519	yet to be or coming
+301736850	of the relatively near future
+301737104	yet to come
+301737207	expected in the near future
+301737331	coming to maturity
+301737438	in readiness; awaiting
+301737579	in or of the next month after the present
+301737711	brought into existence
+301737837	emerged from an egg
+301737910	not yet brought into existence
+301738033	not yet emerged from an egg
+301738116	having a parent or parents or cared for by parent surrogates
+301738231	having no parent or parents or not cared for by parent surrogates
+301738420	deprived of parents by death or desertion
+301738516	having no living father
+301738596	having no living or known mother
+301738685	characteristic of a father
+301738856	like or befitting a father or fatherhood; kind and protective
+301739021	benevolent but sometimes intrusive
+301739133	characteristic of a mother
+301739379	showing maternal instincts
+301739501	suggestive of or acting like a mother
+301739595	befitting a mother; warm and nurturing
+301739724	befitting or characteristic of a wife
+301739871	befitting or characteristic of a husband
+301739985	enduring trying circumstances with even temper or characterized by such endurance
+301740371	quietly and steadily persevering especially in detail or exactness
+301740633	patiently bearing continual wrongs or trouble
+301740820	showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment
+301741132	showing the capacity for endurance
+301741333	capable of accepting delay with equanimity
+301741490	restless or short-tempered under delay or opposition
+301741752	impatient especially under restriction or delay
+301741947	unwilling to endure
+301742074	characteristic of a form of social organization in which the male is the family head and title is traced through the male line
+301742349	(of societies) being ruled by or having descent traced through the male line
+301742501	centered upon the father
+301742584	characteristic of a matriarchy
+301742744	(of societies or families) having a female as the family head or having descent traced through the female line
+301742912	centered upon the mother
+301742995	having patronage or clients
+301743144	having little patronage or few clients
+301743329	(of lawyers or barristers) lacking clients
+301743427	enclosed in a package or protective covering
+301743564	prepared and wrapped beforehand and ready for sale
+301743705	not packaged or put into packets
+301743831	not carefully arranged in a package
+301743942	covered with a firm surface
+301744057	having been paved
+301744147	having been paved
+301744236	not having a paved surface
+301744334	covered with caliche, a hard calcium-carbonate encrusted soil
+301744456	inspired by love for your country
+301744607	fanatically patriotic
+301744879	showing lack of love for your country
+301745021	considered contrary to the best interests of the United States
+301745141	not disturbed by strife or turmoil or war
+301745519	idyllically calm and peaceful; suggesting happy tranquillity
+301745657	conducive to peace
+301745812	not directly at war
+301745918	disposed to peace or of a peaceful nature
+301746202	opposed to war
+301746368	inclined or disposed to peace
+301746545	not peaceful
+301746786	engaged in war
+301746964	disposed to warfare or hard-line policies
+301747161	characterized by violent emotions or behavior
+301747387	not disposed to peace
+301747466	feeling or expressing remorse for misdeeds
+301747755	feeling or expressing pain or sorrow for sins or offenses
+301747953	showing or constituting penance
+301748158	not penitent or remorseful
+301748360	having the ability to perceive or understand; keen in discernment
+301748764	having or demonstrating ability to recognize or draw fine distinctions
+301749276	quick to understand
+301749440	able to relate new percepts to past experience
+301749545	exhibiting insight or clear and deep perception
+301749766	quick to notice; showing quick and keen perception
+301749902	keenly perceptive or alert
+301750095	able to make fine distinctions
+301750195	characterized by understanding based on comprehension and discernment and empathy
+301750363	lacking perception
+301750559	without comprehension
+301750714	unable or unwilling to perceive or understand
+301750886	not consciously observing
+301751027	capable of being perceived by the mind or senses
+301751468	capable of being detected
+301751668	capable of being perceived clearly
+301751837	deficient in magnitude; barely perceptible; lacking clarity or brightness or loudness etc
+301752186	(medicine) can be felt by palpation
+301752333	capable of being perceived especially by sight or hearing
+301752480	easily perceived; easy to become aware of
+301752636	readily perceived by the senses
+301752802	impossible or difficult to perceive by the mind or senses
+301753200	not perceptible to the touch
+301753308	incapable of being perceived or known
+301753420	barely able to be perceived
+301753609	below the threshold of conscious perception
+301753709	not accessible to direct observation
+301753804	being complete of its kind and without defect or blemish
+301754399	(of a record) having no marks of discredit or offense
+301754557	free from flaw or blemish or impurity
+301754740	marked by errorless familiarity
+301754870	perfect and complete in every respect; having all necessary qualities
+301755101	understood perfectly
+301755230	free from error
+301755331	without fault or error
+301755578	without a flaw
+301755699	conforming to an ultimate standard of perfection or excellence; embodying an ideal
+301755851	exalted to an ideal perfection or excellence
+301755963	excellent and delightful in all respects
+301756107	as if new
+301756191	capable of becoming or being made perfect
+301756326	more than perfect
+301756438	(of language) not having its purity or excellence debased
+301756665	not perfect; defective or inadequate
+301757051	having a blemish or flaw
+301757160	imperfectly spoken or written
+301757260	containing errors or alterations
+301757421	having a defect
+301757608	capable of being made imperfect
+301757717	failing to meet a standard of manufacture due to an imperfection
+301757867	liable to perish; subject to destruction or death or decay
+301758154	capable of being decomposed by e.g. bacteria
+301758287	liable to decay or spoil or become putrid
+301758424	not perishable
+301758551	very long lasting
+301758843	not subject to decay
+301758923	continuing or enduring without marked change in status or condition or place
+301759375	lasting a long time
+301759536	continuing forever or indefinitely
+301759930	used of decisions and contracts
+301760020	not created for a particular occasion
+301760139	not permanent; not lasting
+301760678	serving temporarily especially as a substitute
+301760804	lasting a very short time
+301761270	limited in duration to a single episode
+301761452	tending to vanish like vapor
+301761594	ephemeral
+301761723	done or made using whatever is available
+301761995	serving during an intermediate interval of time
+301762120	for the time being
+301762294	casual or ephemeral as if taking place on board a ship
+301762426	not eternal
+301762550	capable of being terminated after a designated time
+301762706	adopted as a temporary basis for further work
+301762851	retained; not shed
+301763094	shed at an early stage of development
+301763302	(of teeth, antlers, etc.) being shed at the end of a period of growth
+301763446	capable of reversing or being reversed
+301763604	capable of being returned to the original condition; not necessarily permanent
+301763763	capable of being recharged
+301763874	incapable of being reversed
+301764039	not capable of being reversed or returned to the original condition
+301764188	capable of being reversed or used with either side out
+301764388	(of fabrics) having faces on both sides
+301764521	not reversible or capable of having either side out
+301764644	capable of being revoked or annulled
+301764805	capable of being rescinded or voided
+301765000	capable of being reversed
+301765182	incapable of being retracted or revoked
+301765359	determined irrevocably
+301765456	that may be permitted especially as according to rule
+301765698	not permitted
+301765887	excluded from use or mention
+301766121	unsuitable or forbidden as a topic of conversation
+301766254	forbidden to the touch
+301766383	deserving to be admitted
+301766577	deserving to be allowed to enter
+301766769	deserving to be allowed or considered
+301766916	that may be accepted or conceded
+301767094	not deserving to be admitted
+301767260	not allowable
+301767351	granting or inclined or able to grant permission; not strict in discipline
+301767671	tolerant or lenient
+301767957	not inclined to grant permission; severe in discipline
+301768106	not preventive
+301768195	admitting of bail
+301768325	tending to prevent or hinder
+301768695	blocking entrance to and exit from seaports and harbors
+301768863	preventing movement
+301769055	tending to deter
+301769257	preventing realization or attainment of a desire
+301769407	taken in advance to protect against possible danger or failure
+301769644	made impossible
+301769749	designed or having the power to deter or prevent an anticipated situation or occurrence
+301770010	tending to discourage (especially of prices)
+301770155	full of difficulty or confusion or bewilderment
+301770438	filled with bewilderment
+301770645	perplexed by many conflicting situations or statements; filled with bewilderment
+301771062	totally perplexed and mixed up
+301771296	perplexed (as if being expected to know something that you do not know)
+301771470	baffled
+301771588	experiencing no difficulty or confusion or bewilderment
+301771719	not perplexed by conflicting situations or statements
+301771841	concerning or affecting a particular person or his or her private life and personality
+301772338	appealing to personal considerations (rather than to fact or reason)
+301772487	in each other's presence
+301772598	concerning one person exclusively
+301772764	made for or directed or adjusted to a particular individual
+301772978	an appearance carried out personally in someone else's physical presence
+301773236	belonging to or on behalf of a specified person (especially yourself); preceded by a possessive
+301773481	pointedly referring to or concerning a person's individual personality or intimate affairs especially offensively
+301773691	involving direct communication or contact between persons or parties
+301773890	concerning things deeply private and personal
+301774089	not relating to or responsive to individual persons
+301774268	lacking personality
+301774367	intended or having the power to induce action or belief
+301774701	pleasingly persuasive or intended to persuade
+301774916	powerfully persuasive
+301775115	tending to persuade by forcefulness of argument
+301775250	artfully persuasive in speech
+301775427	deterring from action
+301775648	serving to warn
+301775905	expressing disapproval in order to dissuade
+301776007	admitting of penetration or passage into or through
+301776177	not admitting of penetration or passage into or through
+301776384	hard to pass through because of dense growth
+301776577	allowing fluids or gases to pass or diffuse through
+301776850	able to absorb fluids
+301777057	(of a membrane) selectively permeable
+301777154	preventing especially liquids to pass or diffuse through
+301777459	having the power, capacity, or quality of retaining water
+301777639	hindering the penetration of water
+301777779	admitting of passage or entrance
+301777965	open to arguments, ideas, or change
+301778210	not admitting of passage or capable of being affected
+301778636	resistant to destruction or fading
+301778736	not easily decolorized by acid solutions; pertains to micro-organisms (especially the tubercle bacillus that causes tuberculosis)
+301778921	having color that is resistant to fading or running
+301779028	resistant to penetration by grease or oil or wax
+301779164	resistant to damage by moths
+301779265	(used in combination or as a suffix) able to withstand
+301779414	impervious to being affected
+301779579	impervious to corrosion
+301779745	resistant to rotting
+301779825	(of hosiery) resistant to runs or (in Britain) ladders
+301779965	impervious to, or not penetrable by, sound
+301780085	(of flowers) having petals
+301780313	(of flowers) having four petals
+301780419	(of flowers) having five petals
+301780525	having a corolla composed of partially or wholly fused petals forming a corolla shaped like a tube or funnel
+301780706	having a corolla composed of many separated or distinct petals
+301780827	of or concerning a gamopetalous that has a slender tube and an abruptly expanded tip
+301780968	(of flowers) having three petals
+301781077	(of flowers) having no petals
+301781174	capable of being punctured
+301781258	being without punctures or incapable of being punctured
+301781390	capable of sealing itself as after being pierced
+301781519	affecting the mind or mood or other mental processes
+301781757	capable of producing hallucinations
+301781912	producing mood changes or distorted perception
+301782071	(of hallucinogenic drugs) giving a sense of heightened or broader awareness
+301782207	intensely affecting the mind especially in producing hallucinations
+301782367	producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis
+301782618	not affecting the mind or mental processes
+301782757	involving the body as distinguished from the mind or spirit
+301783117	marked by the appetites and passions of the body
+301783480	affecting or characteristic of the body as opposed to the mind or spirit
+301783738	concerned with or affecting physical as distinct from intellectual or psychological well-being
+301783973	intimately concerning a person's body or physical being
+301784103	of or consistent with an organism's normal functioning
+301784337	of or arising from physiological causes rather than being psychogenic in origin
+301784531	involving the mind or an intellectual process
+301784888	of or associated with or requiring the use of the mind
+301785141	psychological rather than physical or tangible in effect
+301785285	affecting or influenced by the human mind
+301785482	mental or emotional rather than physiological in origin
+301785621	mental or emotional as opposed to physical in nature
+301785788	believing that there is only one god
+301785901	worshipping or believing in more than one god
+301786023	having or showing or expressing reverence for a deity
+301786326	relating to worship
+301786427	showing great reverence for god
+301786645	excessively or hypocritically pious
+301786971	disposed to pray or appearing to pray
+301787064	lacking piety or reverence for a god
+301787262	not revering god
+301787381	of or relating to clergy not bound by monastic vows
+301787508	of or relating to clergy bound by monastic vows
+301787685	having or showing belief in and reverence for a deity
+301787961	actively practicing a religion
+301788049	resembling or suggesting or appropriate to a church
+301788237	deeply religious
+301788390	involving persons of different religious faiths
+301788544	hostile or indifferent to religion
+301788744	rejecting any belief in gods
+301788910	not acknowledging the God of Christianity and Judaism and Islam
+301789111	no longer active or practicing
+301789232	failing or refusing to observe religious customs
+301789339	easily calmed or pacified
+301789455	capable of being pacified
+301789588	capable of being alleviated
+301789689	incapable of being placated
+301789850	not to be placated or appeased or moved by entreaty
+301790292	incapable of being mitigated
+301790415	lacking patterns especially in color
+301790535	having the same color all over
+301790642	having patterns (especially colorful patterns)
+301791518	marked with bands or strips of contrasting color or texture
+301791647	having a pattern of black and tan
+301791740	having a pattern consisting of black bars
+301791840	having black marks
+301791917	marked with irregularly shaped spots or blots
+301792057	having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats
+301792249	having brown speckles
+301792351	having brown stripes
+301792450	(of wood) have a pattern from the grain of a tree burl
+301792557	patterned with alternating squares of color
+301792678	(of snakes) having crossing bands on the back
+301792782	having spots or patches of color
+301792878	having dark spots
+301792954	having a pattern of dots
+301793073	(of e.g. fabric design) adorned with patterns
+301793214	resembling or made of or suggestive of flowers
+301793352	relating to or covered with or resembling freckles
+301793503	edged or streaked with color
+301793626	patterned with veins or streaks or color resembling marble
+301793788	having maroon spots
+301793868	(of silk fabric) having a wavelike pattern
+301793990	having spots or patches (small areas of contrasting color or texture)
+301794243	of or relating to pointillism
+301794382	having very thin stripes
+301794463	(of flowers) showing purple markings that resemble veins
+301794579	having purple spots
+301794659	having red stripes
+301794768	having colored rings around the body
+301794857	patterned by having color applied with sweeping strokes
+301795016	decorated with designs of sprigs
+301795122	marked with or as if with stripes or linear discolorations
+301795316	marked or decorated with stripes
+301795447	having a checkered or mottled appearance
+301795545	having stripes resembling those of a tiger
+301795647	having or showing markings that resemble veins
+301795766	having streaks of violet color
+301795858	having blotches of white
+301795943	having white ribs
+301796019	having white streaks
+301796100	having yellow bands
+301796179	having yellow marks
+301796258	having yellow spots
+301796338	having yellow stripes
+301796420	not elaborate or elaborated; simple
+301796896	severely simple
+301797082	apart from anything else; without additions or modifications
+301797330	pure and simple in design or style
+301797482	(of food) eaten without a spread or sauce or other garnish
+301797615	having no adornment or coloration
+301797763	lacking distinguishing characteristics or features
+301797914	plain and unpretentious
+301798066	not elaborate; lacking rich or complex detail
+301798183	avoiding embellishment or exaggeration (used for emphasis)
+301798321	unornamented
+301798494	severely simple in line or design
+301798634	plain and without any extras or adornments
+301798849	not plain; decorative or ornamented
+301799280	elaborately or excessively ornamented
+301799504	having elaborate symmetrical ornamentation
+301799712	overcrowded or cluttered with detail
+301799862	in fancy clothing
+301799969	having the surface decorated with a network of fine cracks, as in crackleware
+301800119	(of metals) decorated or inlaid with a wavy pattern of different (especially precious) metals
+301800308	having a woven pattern
+301800442	marked by complexity and richness of detail
+301800618	having or resembling repeated square indentations like those in a battlement
+301800813	having a curiously intricate quality
+301800961	extravagantly fanciful in design, construction, appearance
+301801109	made of or resembling lace
+301801245	gathered for protruding fullness
+301801353	having excessive asymmetrical ornamentation
+301801486	decorated with wormlike tracery or markings
+301801657	designed or carried out according to a plan
+301801903	showing effects of planning or manipulation
+301802037	secretly and carefully planned
+301802142	set in advance
+301802279	planned secretly
+301802371	without apparent forethought or prompting or planning
+301802671	occurring or appearing or singled out by chance
+301802880	often improvised or impromptu
+301802993	without or seeming to be without plan or method; offhand
+301803206	not prepared or planned in advance
+301803337	produced or marked by conscious design or premeditation
+301803544	not by design or artifice; unforced and impromptu
+301803806	informal or natural; especially caught off guard or unprepared
+301803966	apparently reasonable and credible, and therefore convincing
+301804194	capable of being supported by argument
+301804305	having only superficial plausibility
+301804481	having a quality that provokes disbelief
+301804729	informal term for ridiculous and implausible
+301804909	(of an idea or story) so exaggerated or ludicrous as to be improbable
+301805119	having a probability too low to inspire belief
+301805299	affording pleasure; being in harmony with your taste or likings
+301805768	(of weather) highly enjoyable
+301805877	extremely pleasant in a gentle way
+301806033	affording satisfaction or pleasure
+301806331	affording comfort or pleasure
+301806450	suggestive of an idyll; charmingly simple and serene
+301806604	pleasant or agreeable to the senses
+301806732	offensive or disagreeable; causing discomfort or unhappiness
+301807340	harsh or corrosive in tone
+301807949	(informal) very unpleasant
+301808137	harshly uninviting or formidable in manner or appearance
+301808452	causing to feel shame or chagrin or vexation
+301808700	unpleasantly stern
+301808909	unpleasantly rough or jarring to the senses
+301809168	very unpleasant or even dangerous
+301809309	causing misery or pain or distress
+301809556	serving or tending to repel
+301809862	harsh
+301810040	disagreeable
+301810198	causing discomfort
+301810291	unpleasant or disagreeable to the senses
+301810406	experiencing or manifesting pleasure
+301810604	pleasantly occupied
+301810738	inspired with confidence
+301810867	very pleased
+301810979	greatly pleased
+301811050	having received what was desired
+301811138	not pleased; experiencing or manifesting displeasure
+301811355	aroused to impatience or anger
+301811732	greatly annoyed; out of patience
+301811926	having a strong distaste from surfeit
+301812241	showing displeasure or anger
+301812324	emotionally hurt or upset or annoyed
+301812521	giving pleasure and satisfaction
+301812870	inspiring admiration or approval
+301813064	pleasing or delighting
+301813229	greatly pleasing or entertaining
+301813404	affording pleasure
+301813492	extremely pleasing
+301813594	capable of pleasing
+301813678	pleasing to the mind or feeling
+301813809	capable of winning favor
+301813936	pleasing to the senses
+301814087	causing displeasure or lacking pleasing qualities
+301814304	causing an emotional disturbance
+301814530	extremely annoying or displeasing
+301814826	causing annoyance or repugnance
+301814940	having a point
+301815296	shaped like a spine or thorn
+301815474	ending in a sharp point
+301815633	(of an arrow) tapered toward both ends
+301815738	pointed like bristles
+301815821	having five points
+301815898	tapering at each end
+301816005	(used of pens) having a writing point or nib especially of a certain kind
+301816153	having or rising to a peak
+301816283	resembling a pyramid
+301816457	having the point made sharp
+301816562	having six points
+301816637	having a long sharp point
+301816715	resembling a spike
+301816789	not having a point especially a sharp point
+301816968	having a broad or rounded end
+301817105	of an angle; less than 90 degrees
+301817190	of an angle; between 90 and 180 degrees
+301817282	perfected or made shiny and smooth
+301817522	made smooth and bright by or as if by rubbing; reflecting a sheen or glow
+301817915	(of skills or the products of skills) brought to or having the greatest excellence; perfected
+301818131	not carefully reworked or perfected or made smooth by polishing
+301818366	untempered and unrefined
+301818468	not perfected
+301818574	of metals e.g.; not made shiny and smooth by friction
+301818685	marked by artful prudence, expedience, and shrewdness
+301819018	appropriate to a purpose; practical
+301819205	skillful in statecraft or management
+301819370	not politic
+301819537	not appropriate to the purpose
+301819670	involving or characteristic of politics or parties or politicians
+301819996	relating to or dealing with the affairs or structure of government or politics or the state
+301820214	concerned with policy, not administration
+301820315	political in some (but not all) aspects
+301820414	not political
+301820504	politically neutral
+301820594	capable of being weighed or considered
+301820825	capable of being considered carefully
+301820954	difficult or impossible to evaluate with precision
+301821123	regarded with great favor, approval, or affection especially by the general public
+301821480	selling in great numbers
+301821590	popular and considered appealing or fashionable at the time
+301821720	appealing to the general public
+301821869	very popular or successful
+301822040	visited by throngs of tourists
+301822300	regarded with disfavor or lacking general approval
+301822517	not visited by many travelers
+301822663	unpopular and considered unappealing or unfashionable at the time
+301822805	in favor of (an action or proposal etc.)
+301822909	not in favor of (an action or proposal etc.)
+301823004	characterized by or displaying affirmation or acceptance or certainty etc.
+301823412	expecting the best
+301823581	emphasizing what is laudable or hopeful or to the good
+301823738	characterized by or displaying negation or denial or opposition or resistance; having no positive features
+301824184	indicating opposition or resistance
+301824324	marked by a disposition to oppose and contradict
+301824496	possessing no distinctive quality or characteristics
+301824656	made neutral in some respect; deprived of distinctive characteristics
+301824797	not having or expressing opinions or views
+301824894	on the positive side or higher end of a scale
+301825096	either positive or zero
+301825196	greater than zero
+301825325	on the negative side or lower end of a scale
+301825480	less than zero
+301825607	reckoned, situated or tending in the direction which naturally or arbitrarily is taken to indicate increase or progress or onward motion
+301825842	reckoned in a direction opposite to that regarded as positive
+301825985	indicating existence or presence of a suspected condition or pathogen
+301826188	(of bacteria) being or relating to a bacterium that retains the violet stain used in Gram's method
+301826365	not indicating the presence of microorganisms or disease or a specific condition
+301826582	(of bacteria) being of or relating to a bacterium that does not retain the violet stain used in Gram's method
+301826770	capable of happening or existing
+301827194	capable of existing or taking place or proving true; possible to do
+301827424	capable of being affirmed or asserted
+301827657	capable of being attained or accomplished
+301827915	possible but not certain to occur
+301828067	capable of being done with means at hand and circumstances as they are
+301828419	statistically possible though highly improbable
+301828578	not capable of occurring or being accomplished or dealt with
+301828961	certain to fail
+301829060	not capable of being carried out or put into practice

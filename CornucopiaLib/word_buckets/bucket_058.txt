@@ -1,0 +1,1000 @@
+genus uropsilus	101893359
+genus urosaurus	101684154
+genus ursinia	112050398
+genus ursus	102134594
+genus urtica	112412902
+genus usnea	113010499
+genus ustilaginoidea	113101810
+genus ustilago	113087563
+genus uta	101683841
+genus utahraptor	101720917
+genus utricularia	112893017
+genus uvularia	112495333
+genus vaccaria	111838984
+genus vaccinium	112265989
+genus valeriana	112970715
+genus valerianella	112971261
+genus vallisneria	112635858
+genus vanda	112106357
+genus vanellus	102027290
+genus vanessa	102278573
+genus vangueria	112691319
+genus vanilla	112106879
+genus varanus	101697199
+genus vedalia	102169326
+genus velociraptor	101719976
+genus venus	101960380
+genus veratrum	112484783
+genus verbascum	112909493
+genus verbena	112935491
+genus verbesina	112050734
+genus vernonia	112052208
+genus veronica	112910769
+genus verticillium	113098571
+genus vesicaria	111920064
+genus vespa	102215463
+genus vespertilio	102148419
+genus vespula	102216014
+genus vibrio	101366649
+genus viburnum	112700886
+genus vicia	112595594
+genus vicugna	102441083
+genus vidua	101545913
+genus vigna	112597505
+genus viminaria	112599990
+genus vinca	111798248
+genus vincetoxicum	113260369
+genus viola	112407995
+genus vipera	101755074
+genus vireo	101605147
+genus virgilia	112600341
+genus viscum	112759832
+genus vitis	113165288
+genus vittaria	113200546
+genus viverra	102138138
+genus viverricula	102138378
+genus volvaria	113039509
+genus volvariella	113040771
+genus volvox	101411885
+genus vorticella	101399417
+genus vulpes	102121506
+genus vultur	101622316
+genus weigela	112702529
+genus welwitchia	111619616
+genus welwitschia	111619616
+genus wintera	111760677
+genus wisteria	112600952
+genus wolffia	111816243
+genus wolffiella	111816787
+genus woodsia	113222623
+genus woodwardia	113207098
+genus wyethia	112052684
+genus wynnea	113055191
+genus xanthium	112053408
+genus xanthomonas	101364106
+genus xanthorroea	112486539
+genus xanthosoma	111813721
+genus xenicus	101591230
+genus xenopus	101657070
+genus xenorhyncus	102006997
+genus xenosaurus	101693498
+genus xeranthemum	112053779
+genus xerobates	101673953
+genus xerophyllum	112485826
+genus xiphias	102632211
+genus xylaria	112987341
+genus xylocopa	102211882
+genus xylomelum	112244467
+genus xylopia	111717245
+genus xylosma	112401443
+genus xyphophorus	101450806
+genus xyris	112626280
+genus yucca	112502311
+genus zaglossus	101875276
+genus zalophus	102081088
+genus zamia	111622208
+genus zannichellia	112638711
+genus zantedeschia	111814120
+genus zanthoxylum	112735310
+genus zapus	102353864
+genus zea	112164089
+genus zenaidura	101816732
+genus zerumbet	112377185
+genus zeus	101455595
+genus zigadenus	112486955
+genus zingiber	112376111
+genus zinjanthropus	102479818
+genus zinnia	112054408
+genus zizania	112166319
+genus ziziphus	113163874
+genus zoarces	102620032
+genus zoisia	112166617
+genus zonotrichia	101537951
+genus zostera	112639285
+genus zoysia	112166617
+genus zygnema	101412971
+genus zygocactus	111874701
+genus zygophyllum	112741653
+genus-fenusa	102221564
+genus-megapodius	101803604
+genus-milvus	101611326
+genyonemus	102601068
+genyonemus lineatus	102601203
+geocentric	301122331
+geocentric parallax	111549390
+geochelone	101673314
+geochemistry	106099892
+geococcyx	101826553
+geococcyx californianus	101826676
+geode	109310723
+geodesic	113893053 303004870
+geodesic dome	103440503
+geodesic line	113893053
+geodesical	303004870
+geodesy	106130488
+geodetic	303004870
+geoduck	101961172
+geoffrey chaucer	110913817
+geoffrey of monmouth	111014656
+geoffroea	112551649
+geoffroea decorticans	112551833
+geogia holly	112779159
+geoglossaceae	113247424
+geoglossum	113247596
+geographer	110147092
+geographic	301473411 303033057
+geographic area	108591861
+geographic expedition	100310889
+geographic point	108596234
+geographic region	108591861
+geographical	301473411 303033057
+geographical area	108591861
+geographical indication	106346843
+geographical mile	113682724
+geographical point	108596234
+geographical region	108591861
+geographical zone	108559404
+geographically	400233903
+geographics	106131785
+geography	106131785
+geologic	302916904
+geologic process	113508041
+geologic time	115140868
+geological	302916904
+geological dating	100994417
+geological era	115272831
+geological fault	109301443
+geological formation	109310874
+geological horizon	108676549
+geological period	115272329
+geological phenomenon	111437786
+geological process	113508041
+geological time	115140868
+geologically	400349513
+geologist	110147226
+geology	106125308
+geomancer	110147453
+geomancy	105784872
+geometer	110147553
+geometric	301988074 302745944
+geometric mean	106033839
+geometric pace	113677408
+geometric progression	108478183
+geometric series	105872064
+geometrical	301988074 302745944
+geometrical irregularity	105073181
+geometrical regularity	105072380
+geometrically	400090591 400142809
+geometrician	110147553
+geometrid	102289656
+geometrid moth	102289656
+geometridae	102289467
+geometry	106014015
+geometry teacher	110147700
+geomorphologic	302960848
+geomorphological	302960848
+geomorphology	106127462
+geomyidae	102356181
+geomys	102356361
+geomys bursarius	102356814
+geomys pinetis	102356972
+geophagia	100842559
+geophagy	100842559
+geophilidae	101788689
+geophilomorpha	101788472
+geophilus	101788860
+geophysical	302919548
+geophysical science	106127169
+geophysicist	110148056
+geophysics	106127169
+geophyte	113141717
+geophytic	302746111
+geopolitical	302919248
+geopolitics	106158199
+geordie	106960911 109723679
+georg friedrich bernhard riemann	111282158
+georg friedrich handel	111047627
+georg meissner	111191503
+georg philipp telemann	111354920
+georg simon ohm	111233084
+georg wilhelm friedrich hegel	111058080
+georg wilhelm steller	111336136
+george	111014902 111015111 111015288 111015588 111015846 111016086 111016281
+george armstrong custer	110938813
+george balanchine	110851252
+george beadle	110858727
+george berkeley	110866721
+george bernard shaw	111315926
+george boole	110876867
+george bryan brummell	110887984
+george burns	110893370
+george bush	110895055 110895517
+george c. scott	111309699
+george catlett marshall	111178972
+george charles hevesy de hevesy	111068384
+george dewey	110952835
+george dibdin pitt	111256653
+george dibdin-pitt	111256653
+george du maurier	110965040
+george eastman	110967620
+george edward moore	111209699
+george edward pickett	111254462
+george eliot	110976875
+george ellery hale	111043438
+george enescu	110979066
+george f. kennan	111120788
+george fox	110996858
+george frederick handel	111047627
+george frideric handel	111047627
+george frost kennan	111120788
+george gamow	111009095
+george gershwin	111016872
+george gilbert aime murphy	111217407
+george gordon meade	111190428
+george guess	111313147
+george h. w. bush	110895055
+george h.w. bush	110895055
+george harrison	111051838
+george herbert hitchings	111072493
+george herbert mead	111190113
+george herbert walker bush	110895055
+george herman ruth	111296090
+george hubert wilkins	111407534
+george huntington	111087594
+george i	111014902
+george ii	111015111
+george iii	111015288
+george iv	111015588
+george louis palmella busson du maurier	110965040
+george lucas	111163448
+george m. cohan	110924215
+george macaulay trevelyan	111368579
+george marshall	111178972
+george mason	111183150
+george meany	111190754
+george meredith	111195865
+george michael cohan	110924215
+george orson welles	111400763
+george orwell	111237469
+george otto trevelyan	111368351
+george paget thomson	111360406
+george percy aldridge grainger	111030693
+george pitt	111256653
+george s. kaufman	111117615
+george sand	111300003
+george segal	111311169
+george simon kaufman	111117615
+george stephenson	111336664
+george stevens	111337304
+george szell	111347959
+george town	108727426
+george v	111015846
+george vancouver	111378858
+george vi	111016086
+george w. bush	110895517
+george walker bush	110895517
+george washington	111395413
+george washington bridge	103440735
+george washington carver	110905355
+george washington goethals	111023914
+george wells beadle	110858727
+george westinghouse	111402550
+george william russell	111295025
+georges bizet	110871461
+georges braque	110882595
+georges clemenceau	110920276
+georges cuvier	110939030
+georges de la tour	111138471
+georges enesco	110979066
+georges eugene benjamin clemenceau	110920276
+georges gilles de la tourette	111366563
+georges henri lemaitre	111145636
+georges jacques danton	110942253
+georges joseph christian simenon	111320673
+georges leopold chretien frederic dagobert cuvier	110939030
+georges pierre seurat	111314192
+georges seurat	111314192
+georges simenon	111320673
+georgetown	108968477 109094069
+georgette	103440653
+georgi konstantinovich zhukov	111426456
+georgi zhukov	111426456
+georgia	109041218 109098347 109098932
+georgia bark	112690123
+georgia home boy	104260861
+georgia okeeffe	111233206
+georgia pine	111636418
+georgian	106991426 109748498 109761774 303078934 303079140 303079385 303079626
+georgian monetary unit	113722638
+georgiana barrymore	110855046
+georgiana emma barrymore	110855046
+geosphere	109362716
+geostationary	301063610
+geostationary orbit	108630201
+geostrategic	302746212
+geostrategy	106158366
+geosynchronous	301063809
+geosynchronous orbit	108630055
+geothermal	302746405
+geothermal energy	111486736
+geothermally	400128836
+geothermic	302746405
+geothlypis	101573190
+geothlypis trichas	101573480
+geotropism	100863668
+geraint	111016529
+gerald ford	110994732
+gerald r. ford	110994732
+gerald rudolph ford	110994732
+geraniaceae	112705975
+geraniales	112705401
+geranium	112706192
+geranium family	112705975
+geranium maculatum	112706838
+geranium molle	112707805
+geranium pratense	112707035
+geranium richardsonii	112707257
+geranium robertianum	112707437
+geranium viscosissimum	112707638
+gerard depardieu	110950810
+gerard kuiper	111132618
+gerard manley hopkins	111079767
+gerard peter kuiper	111132618
+gerardia	112904388
+gerardia pedicularia	112899544
+gerardia virginica	112899828
+gerardus mercator	111195233
+gerbera	111992069
+gerbera jamesonii	111992396
+gerbert	111347393
+gerbil	102346424
+gerbille	102346424
+gerbillinae	102346139
+gerbillus	102346285
+gerea	111992610
+gerea canescens	111992760
+gerenuk	102423474
+gerfalcon	101614441
+gerhard gerhards	110979849
+gerhard herzberg	111067134
+gerhard kremer	111195233
+geriatric	302927852 302928043
+geriatrician	110147918
+geriatrics	106060181
+germ	101387132 105237135 105843082
+germ cell	105464308
+germ layer	101466160
+germ plasm	105443298
+germ pore	111700746
+germ theory	106118094
+germ tube	111700926
+germ warfare	100998142
+german	106963290 109767053 302969015
+german american	109761646
+german bee	102211500
+german capital	108787478
+german chamomile	112015561
+german cockroach	102237500
+german democratic republic	108786480
+german iris	112434385 112434664
+german ivy	111981142
+german language	106963290
+german lesson	100731029
+german luftwaffe	108212169
+german mark	113710138
+german measles	114146741
+german millet	112156246
+german monetary unit	113710011
+german nazi	110369951
+german pancake	107656989
+german police dog	102109314
+german rampion	112365000
+german shepherd	102109314
+german shepherd dog	102109314
+german short-haired pointer	102102888
+german silver	114986526
+german tamarisk	112407462
+german-american	302928165
+german-speaking	300499762
+germander	112890238
+germander speedwell	112912065
+germane	301982735
+germaneness	113817254
+germanic	106959259 302969672 303079758
+germanic language	106959259
+germanism	100415084
+germanist	110147791
+germanite	114700769
+germanium	114662695
+germany	108784821
+germfree	302123898
+germicidal	302123334
+germicide	103212950
+germinal	115201984 301692005
+germinal area	101462121
+germinal disc	101462121
+germinate	200357986 200358321 201742478
+germination	107338835 113508410
+germy	302124214
+geronimo	111016673
+gerontocracy	108378647
+gerontological	302927852
+gerontologist	110147918
+gerontology	106060181
+gerreidae	102639296
+gerres	102639676
+gerres cinereus	102639809
+gerrhonotus	101692319
+gerridae	102246003 102639296
+gerrididae	102246003
+gerris	102246396
+gerris lacustris	102246530
+gerrymander	100755936 202472939
+gershwin	111016872 111017064
+gertrude caroline ederle	110968790
+gertrude ederle	110968790
+gertrude lawrence	111140520
+gertrude stein	111334661
+gerund	106329345
+gerundial	303132728
+geryon	109518082
+gesell	111017230
+gesner	111017401
+gesneria	112850735
+gesneria family	112849859
+gesneriaceae	112849859
+gesneriad	112850342
+gesso	114700917
+gestalt	105940127
+gestalt law of organization	105887047
+gestalt principle of organization	105887047
+gestalt psychology	106150775
+gestapo	108228681
+gestate	200058790 201636885
+gestation	105780212 114069684 115251010
+gestation period	115251010
+gestational	302994529
+gestational age	104932241
+gesticulate	200994073
+gesticulating	300499853
+gesticulation	106889821
+gestural	300500009 300500206
+gesture	100335335 101230869 106889359 200994073
+get	100568933 200054345 200065410 200087488 200094214 200120124 200120604 200149403 200346415 200523831 200591299 200624056 200641511 200772482 201028984 201068058 201156413 201217985 201403769 201435927 201508590 201567992 201646839 201741988 201774960 201775115 202009962 202010587 202014716 202112480 202113108 202114099 202193844 202213047 202215637 202360592 202364339
+get a line	200600349
+get a load	202136242
+get a look	202134344
+get a noseful	202130734
+get a whiff	202130734
+get about	201846830
+get across	200593150 200746890 201916152
+get ahead	201113439
+get along	200249545 202463998 202623620
+get along with	202463998
+get around	200812833 200938019 201846830 202394957
+get around to	202433163
+get at	201791774 202011431 202592463
+get away	200812391 202078906 202605001
+get back	201094539 201113995 201156228
+get behind	202062680
+get by	200812391 202053912 202593624
+get cracking	200349195
+get down	200346415 201022365 201204494 201818363 201962311 201977139 201977500
+get dressed	200046251
+get even	201117829 201156228
+get going	200349195 201868216
+get hitched with	202494483
+get hold	202218118
+get hold of	200739661 200745330 201216829
+get in	202019236 202020375 202244187 202591952
+get in touch	202394488
+get into	200050369 200876531 202020375 202244187 202642894
+get it	200591761 202506046
+get it on	201429048
+get laid	201429048
+get married	202494483
+get moving	200349195
+get off	200812391 200907012 200943887 201064577 201203572 201440525 201927685 201962311 202019914 202201764 202417219
+get off the ground	201868424
+get on	200248912 200249545 200425290 201853950 201927367 202021901 202463998
+get on with	202463998
+get one's lumps	200740164
+get onto	200591761
+get out	200812391 200938019 201012013 201217161 201999243 202019020 202019450
+get over	200268897 201111038 201644883 201916152
+get rid of	200472642 202228837 202432181
+get rolling	200349195
+get started	200349195
+get stuck	201838838
+get the best	201106429
+get the better of	201110559
+get the goods	200600829
+get the hang	200599029
+get the jump	201106787
+get the picture	200589616
+get through	200485823 200593150 200745330 202025773 202715151
+get to	200347930 201791774 202026014
+get to grips	202442004
+get together	108327319 202421408 202439823 202492581 202604140
+get under one's skin	201775115
+get up	200018151 200018398 200043880 200096402 200607178 201654986 201978076 201987278
+get used to	200394655
+get weaving	200349195
+get well	200268897
+get wind	200600349
+get wise	200591761
+get word	200600349
+get worse	200269051
+get-at-able	300019543
+get-go	115290329
+get-up-and-go	104843914
+get-well card	106639864
+geta	103051675
+getable	300185663
+getatable	300019543
+getaway	100061021 105068172
+gettable	300185663
+getting	100042637
+getting even	101237294
+gettysburg	101282108 109158291
+gettysburg address	107254210
+getulio dornelles vargas	111380739
+getup	103865478
+geum	112651985
+geum alleppicum strictum	112652398
+geum canadense	112652574
+geum macrophyllum	112652693
+geum rivale	112652833
+geum strictum	112652398
+geum triflorum	112653096
+geum urbanum	112653287
+geum virginianum	112653494
+gewgaw	102790458
+geyser	109311541 202076322
+ghana	108965960
+ghanaian	303079901
+ghanese	303079901
+ghanian	109768220 303079901
+ghanian monetary unit	113689027
+gharry	103440901
+ghastliness	104789874
+ghastly	300197276 301629673
+ghat	103440985
+ghatti	114902995
+ghatti gum	114902995
+ghb	103419724
+ghedda wax	115119581
+ghee	107864912
+gheg	106955181
+gheg dialect	106955181
+ghent	108870492
+gherkin	107734416 107774558
+ghetto	108566867 108596479 113986678
+ghetto blaster	103441092
+ghettoise	200495816
+ghettoize	200495816
+ghillie	103441200
+ghost	105906778 107178814 109569105 110148285 201708611 201787033 201843749
+ghost dance	100543360
+ghost gum	112357244
+ghost town	108689247
+ghost weed	112940163
+ghost word	106311048
+ghostfish	102619027
+ghostlike	301579318
+ghostliness	104805269
+ghostly	301579318
+ghostwrite	201708611
+ghostwriter	110148285
+ghoul	109566802 110164091
+ghoulish	301630621
+ghq	103080108
+ghrelin	105417006
+ghrf	115048104
+ghz	115303677
+gi	106346843 113663479 201536503 302987242
+gi hormones	105416027
+gi series	105749523
+gi tract	105539858
+gia	108032788
+giacometti	111017549
+giacomo della chiesa	110863827
+giacomo meyerbeer	111197685
+giacomo puccini	111268067
+giambattista lulli	111164850
+giambattista marini	111176802
+giambattista marino	111176802
+gian carlo menotti	111194891
+gianbattista bodoni	110873861
+giannangelo braschi	111257265
+gianni versace	111384130
+giant	101326422 108073223 109311675 109511841 109958449 110148446 110148670 301388707
+giant anteater	102463082
+giant armadillo	102458639
+giant bamboo	112169274
+giant buttercup	111756831
+giant cane	112168770
+giant chinkapin	112285303
+giant clam	101962133
+giant cockroach	102237857
+giant conch	101946759
+giant coreopsis	111977786
+giant crab	101984988
+giant eland	102429829
+giant fern	113236484
+giant fir	111642819
+giant foxtail	112155212
+giant fulmar	102062505
+giant garlic	112455490
+giant granadilla	112404554
+giant helleborine	112083282
+giant hives	114143792
+giant hornet	102215891
+giant hyssop	112860739
+giant kangaroo	101880247
+giant lizard	101697701
+giant moa	101525889
+giant northwest shipworm	101970158
+giant panda	102513086
+giant perch	102563177
+giant petrel	102062505
+giant pigfish	102610914
+giant potato creeper	112918548
+giant puffball	113065135
+giant red paintbrush	112901222
+giant reed	112130015
+giant ryegrass	112139907
+giant salamander	101636422
+giant scallop	101969227
+giant schnauzer	102099782
+giant scrambling fern	113191738
+giant seaperch	102563177
+giant sequoia	111661945
+giant silkworm	102305272
+giant silkworm moth	102305111
+giant squid	101974772
+giant star	109311675
+giant star grass	112136575
+giant stock bean	112531744
+giant sunflower	111999430
+giant taro	111802735
+giant timber bamboo	112170038
+giant tortoise	101673443
+giant water bug	102244789
+giant willowherb	112363015
+giantess	109513887
+giantism	105113520 114391693
+giardia	101422529
+giardiasis	114200692
+gib	102125462 113650222
+gibber	106621081 200778891 201038676
+gibberellic acid	114769547
+gibberellin	114769401
+gibberish	106621081
+gibbet	103418034 202489530 202491349
+gibbon	102485993 111017738
+gibbose	300540394
+gibbosity	113917127
+gibbous	300540394 301022592
+gibbousness	113917127
+gibbs	111017884
+gibbsite	114701104
+gibe	106780713 200851872 202663315
+gibelike	302002696
+gibibit	113650770
+gibibyte	113650222
+gibingly	400349656
+gibit	113650770
+giblet	107664705
+giblets	107664705
+gibraltar	109051211
+gibraltar fever	114151511
+gibraltarian	109768342 303080165
+gibran	111017993
+gibson	111018113 111018301 111018470
+gibson desert	109192454
+gibson girl	110148875
+gidar	106997518
+giddily	400083273
+giddiness	104655797 114395918
+giddy	302128108 302554818
+gide	111018647
+gideon algernon mantell	111175003
+gidgee	111777486
+gielgud	111018856
+gift	101088005 105631825 113285910 202205200 202479662
+gift horse	113293883
+gift shop	103441327
+gift tax	113334210
+gift wrap	114903398
+gift wrapping	103441459
+gift-wrap	201286763
+gifted	301122955
+gig	100271999 103441566 103441682 103441801 103441900 104278258
+gigabit	113650593
+gigabyte	113650222 113650416
+gigacycle	115303677
+gigacycle per second	115303677
+gigahertz	115303677
+gigantic	301389472
+gigantism	105113520 114391693
+gigartinaceae	101417000
+giggle	107142401 200030135
+giggler	110732773
+gigo	106668672
+gigolo	110149001
+gigot	107684333
+gigue	107069845
+gikuyu	107005675
+gila	109311852
+gila desert	109192587
+gila monster	101694974
+gila river	109311852
+gilbert	111019044 111019198 111019406 111019580 113663479
+gilbert and ellice islands	108860067
+gilbert and sullivan	107293070
+gilbert charles stuart	111342753
+gilbert islands	108858908
+gilbert keith chesterton	110915026
+gilbert murray	111217407
+gilbert stuart	111342753
+gilbertian	301269759 303080337
+gild	108244135 201686996
+gild the lily	200183386 201681137
+gilded	300371003 301532849 302032205 302189932
+gilded flicker	101842590
+gilder	110149122
+gildhall	103442094
+gilding	103442340
+gilding metal	114903507
+giles lytton strachey	111340626
+gilgai soil	114903643
+gilgamesh	111019869
+gilgamish	109545972
+gill	102513400 113032439 113640309 113642941
+gill arch	102513934
+gill bar	102513934
+gill cleft	102513738
+gill fungus	113032355
+gill net	103442205
+gill slit	102513738
+gill-less	301110787
+gill-over-the-ground	112868134
+gilled	301110682
+gilles de la tourette	111366563
+gilles de la tourette syndrome	114334544
+gillespie	111020008
+gillette	111020168
+gillie	103441200 110149256
+gillyflower	111828937 111913106
+gilman	111020345
+gilmer	111020465
+giloacchino antonio rossini	111291710
+gilt	103442340 300371003
+gilt-edged	300059188 302351544
+gimbal	103442491
+gimbaled	302359785
+gimcrack	103381284 302402358
+gimcrackery	103381284
+gimel	106849979
+gimlet	102761495 107931235
+gimmick	100172070 103223248 105172200
+gimmickry	107976477
+gimp	114573529 201921237
+gimpiness	114573529
+gimpy	301022380
+gin	100497888 103120176 104255961 107920635 201483657 201560299
+gin and it	107932423
+gin and tonic	107931334
+gin mill	104024793
+gin rickey	107949002
+gin rummy	100497888
+gin sling	107934114
+ginep	112765610
+ginger	104642190 107830901 107831139 112376277 202197264 300399036
+ginger ale	107944607
+ginger beer	107907284
+ginger family	112375837
+ginger nut	107651993
+ginger pop	107944607
+ginger rogers	111288657
+ginger snap	107651993
+ginger up	200193003
+ginger-scented	301060101
+gingerbread	107648755
+gingerbread man	107654183
+gingerly	300326893 400349786
+gingerol	115057630
+gingerroot	107830901
+gingersnap	107651993
+gingery	300399036 302406229
+gingham	103442651
+gingiva	105312431
+gingival	302746548
+gingivitis	114104698
+gingko	111684869
+ginglymoid joint	105588047
+ginglymostoma	101489347
+ginglymostoma cirratum	101489479
+ginglymus	105588047
+ginkgo	111684869
+ginkgo biloba	111684869
+ginkgo family	111684541
+ginkgoaceae	111684541
+ginkgoales	111684264
+ginkgophytina	111683900
+ginkgopsida	111683900
+ginmill	102800154
+ginsberg	111020656
+ginseng	111820201 111820705
+ginzo	109735835
+gioacchino pecci	111147986
+giordano bruno	110888325
+giorgio de chirico	110916007
+giorgio vasari	111381283
+giosue carducci	110902045
+giotto	111020782
+giotto di bondone	111020782
+giovanni angelo braschi	111257265
+giovanni battista cibo	111092179
+giovanni battista montini	111246417
+giovanni battista tiepolo	111362186
+giovanni boccaccio	110873742
+giovanni cabato	110897336
+giovanni cimabue	110917885
+giovanni da verrazano	111383925
+giovanni da verrazzano	111383925
+giovanni de'medici	111147742
+giovanni di bernardone	110998094
+giovanni francesco albani	110921172
+giovanni jacopo casanova	110905746
+giovanni jacopo casanova de seingalt	110905746
+giovanni lorenzo bernini	110867718
+giovanni maria mastai-ferretti	111257858
+giovanni mastai-ferretti	111257858
+giovanni pierluigi da palestrina	111241258
+giovanni vincenzo pecci	111147986
+giovanni virginio schiaparelli	111304206
+gip	100781071 202578494
+gipsy	109642482 110173755 110237501
+gipsy moth	102288741
+gipsywort	112873330
+giraffa	102441528
+giraffa camelopardalis	102441664
+giraffe	102441664
+giraffidae	102441405
+girandola	103442739
+girandole	103442739
+girard	111021049
+girasol	112000184 114893067
+giraudoux	111021207
+gird	201089608 201305514 201470546
+girder	103442851
+girdle	103117520 103442981 105586542 201470546 201611026
+giriama	107005768
+girl	110012375 110104064 110149362 110149967 110150206
+girl friday	110150104
+girl scout	110150536
+girl scouts	108488196
+girl wonder	110150671
+girlfriend	110150206 110150397
+girlhood	115172290
+girlish	301653140
+girlishly	400108663
+girlishness	104675390
+giro	108072073 113403939
+giro account	113381114
+giro cheque	113403939
+girolamo savonarola	111302792
+gironde	108277141
+girondin	110150788
+girondism	105971033
+girondist	110150788
+girru	109541441
+girth	103035741 105108669 201305642
+gish	111021418
+gismo	102732963 103223248
+gist	105929717 106616419
+git	110559272
+gita	106442826
+gitana	110151035
+gitano	110151110
+gittern	103039817
+giulio de' medici	110920944
+giulio natta	111221254
+giuseppe balsamo	110898424
+giuseppe garibaldi	111010959
+giuseppe mazzini	111187408
+giuseppe melchiorre sarto	111258082
+giuseppe sarto	111258082
+giuseppe verdi	111383015
+give	105028317 200108408 200108551 200341976 200675490 200734247 200750622 200750978 200773851 200880397 200888984 200889530 200946279 201062189 201062366 201062618 201071660 201178107 201180862 201452389 201632192 201632595 201651214 201719971 201720142 201737358 201852407 201993067 202204104 202205012 202205200 202235554 202240624 202301114 202313721 202314145 202314354 202321848 202322074 202344167 202348591 202363033 202364552 202568816 202569967
+give a damn	201827099
+give a hang	201827099
+give a hoot	201827099
+give and take	201038060
+give away	200843665 200935783 202206637 202298876
+give back	202289796
+give birth	200056644 201635501
+give care	202555993
+give chase	202005890
+give ear	202174871
+give forth	200004605
+give full measure	202569035
+give in	200806138 200879879
+give it a try	202536436 202538124
+give it a whirl	202538124
+give it the deep six	202227776
+give notice	200875364 202407967
+give off	202637086 202773266
+give one's best	202569035
+give or take	400258220
+give out	200435327 200561324 202206426 202773266
+give rise	201756692
+give suck	201188961
+give thanks	200893836
+give the axe	200354293 202407967
+give the bounce	200354293
+give the eye	202172319
+give the gate	200354293
+give the glad eye	202168617
+give the once over	202172319
+give the sack	202407967
+give tongue to	200942415
+give up	200614907 201085437 201118003 201199057 202232523 202240011 202308311 202321284 202350643 202372031 202428446 202686624
+give vent	200946580
+give voice	200982485
+give way	200435327 200436056 201852407 201993067
+give-and-go	100565035
+give-and-take	100040890 106790633 107155367
+give-up the ghost	200359085
+giveaway	106633568 107229554 113293735
+given	105901963 300028393 301295534
+given name	106348677
+givenness	104762885
+giver	110045455 110151183
+giving	100091599 101088005 106697943 301115129
+giving birth	113554089
+giving medication	100696243
+giving up	100206392 107269695
+giza	108919376
+gizeh	108919376
+gizmo	102732963 103223248
+gizzard	101976870
+gjellerup	111021563
+glabella	105240021
+glabellar	302746647
+glabrescent	300213036
+glabrous	300213156
+glace	301075629
+glacial	301255223 301261336 302746751
+glacial boulder	109312083
+glacial epoch	115149816 115280006
+glacial period	115280006
+glacially	400142936
+glaciate	200375046 201211328
+glaciated	301082620
+glaciation	113508612 114543275
+glacier	109312237
+glacier lily	112471904
+glacier mill	103033532

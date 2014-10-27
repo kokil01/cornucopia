@@ -1,0 +1,1000 @@
+105642612	originality by virtue of introducing new ideas
+105642755	originality by virtue of being unconventional
+105642900	originality by virtue of being new and surprising
+105643033	the art of operating aircraft
+105643166	the art of logical disputation (especially if specious)
+105643293	the art of training falcons to hunt and return
+105643469	the art or science of strengthening defenses
+105643609	the art of preaching
+105643686	the art of designing and making clocks
+105643815	the art of a minstrel
+105643893	artistry in performing music
+105644016	the art of wine making
+105644139	the art of making puppets and presenting puppet shows
+105644247	the art of mounting the skins of animals so that they have lifelike appearance
+105644399	the art of making and using telescopes
+105644511	the art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)
+105644732	ability to produce solutions in some problem domain
+105644951	a natural skill
+105645067	technical skill or fluency or style exhibited by a virtuoso
+105645201	brilliant and showy technical skill
+105645403	an ability that has been acquired by training
+105645810	ability
+105645908	skill in an occupation or trade
+105646219	skill in handling and riding horses
+105646331	the ability to read and write
+105646451	skill in shooting
+105646545	the skill of a master
+105646623	skill in preparing mixed drinks
+105646727	more than ordinary ability
+105646832	a superior skill that you can learn by study and practice and observation
+105647276	skill with numbers and mathematics
+105647401	skill as an oarsman
+105647496	skill in selling; skill in persuading people to buy
+105647677	skill in sailing
+105647786	skill in handling boats
+105647885	the ability to present something (especially theatrical shows) in an attractive manner
+105648029	skills that are required for the life of soldier
+105648184	skill in fencing
+105648278	the state of being cognitively skillful
+105648574	skillfulness by virtue of possessing special knowledge
+105648769	skillfulness with the hands
+105648934	the expertness characteristic of a professional person
+105649050	being expert or having knowledge of some technical subject
+105649277	being of coordinate importance, rank, or degree
+105649401	the skillful and effective interaction of movements
+105649565	a lack of coordination of movements
+105649679	having a wide variety of skills
+105649804	great skillfulness and knowledge of some subject or activity
+105650020	skillful performance or ability without difficulty
+105650398	deftness in handling matters
+105650523	a final touch; a crowning achievement; a culmination
+105650660	adroitness in using the hands
+105650792	skillfulness in speaking or writing
+105650917	lack of skillfulness in speaking or writing
+105651035	skillfulness in the command of fundamentals deriving from practice and familiarity
+105651336	an artist's distinctive technique of applying paint with a brush
+105651456	the technique of using small arms (especially in battle)
+105651567	skill in domestic management
+105651652	the skills involved in the work of a priest
+105651753	skill in writing or staging plays
+105651861	skill acquired through experience in a trade; often used to discuss skill in espionage
+105652179	skill in the management of boats
+105652268	skill in carving or fashioning objects from wood
+105652372	skillfulness in avoiding wasted time and effort
+105652572	the efficient use of resources
+105652767	lack of ability (especially mental ability) to do something
+105653044	an inability to remember or think of something you normally can do; often caused by emotional tension
+105653310	an inability to write
+105653442	a poor ability to understand or to profit from experience
+105653699	the quality of being mentally slow and limited
+105653884	the quality of being slow to understand
+105654063	lack of normal development of intellectual capacities
+105654380	retardation sufficient to fall outside the normal range of intelligence
+105654568	severe mental deficiency
+105654673	mild mental retardation
+105654771	extreme mental retardation
+105654860	retardation more severe than a moron but not as severe as an idiot
+105655001	the quality of being rash and foolish
+105655296	indicative of or marked by mental vacuity and an absence of ideas
+105655488	a lack of aptitude
+105655617	a lack of talent
+105655712	lack of potential for development
+105655856	the capability of becoming imperfect
+105655991	lack of intellectual power
+105656092	a lack of cognitive skill
+105656304	unskillfulness resulting from a lack of training
+105656601	ineptitude or awkwardness as a consequence of age or lack of practice
+105656798	unskillfulness resulting from a lack of efficiency
+105656961	something that demonstrates a lack of professional competency
+105657101	an inability to read
+105657230	a lack of creativity
+105657383	a lack of creative imagination
+105657473	uncreativeness due to a lack of originality
+105657630	unoriginality as a result of being dull and hackneyed
+105657805	something that is considered amusing not because of its originality but because of its unoriginality
+105658025	unoriginality as a result of being too conventional
+105658174	one of the inherent cognitive or perceptual powers of the mind
+105658424	the faculty or power of mental concentration
+105658665	the mental faculty or power of vocal communication
+105658913	all of the words in a language; all word forms having meaning or grammatical function
+105659087	a language user's knowledge of words
+105659244	the power of retaining and recalling past experience
+105659525	the capacity for rational thought or inference or discrimination
+105659816	the faculty through which the external world is apprehended
+105660241	a particular sense
+105660438	the capability of conscious choice and decision and intention
+105660688	volition in its weakest form
+105660771	(physiology) responsiveness to external stimuli; the faculty of sensation
+105661172	a sensitivity that is keen and highly developed
+105661320	extreme sensitivity
+105661420	responsive to stimulation
+105661555	excessive sensitivity of an organ or body part
+105661693	sensitivity to stimuli originating outside of the body
+105661897	sensitivity to stimuli originating inside of the body
+105662046	sensitivity to the action of radiant energy
+105662207	the ability to see; the visual faculty
+105662628	normal eyesight
+105662718	any of the sensory systems that mediate sensations of pressure and tickle and warmth and cold and vibration and limb position and limb movement and pain
+105662964	the faculty by which external objects or forces are perceived through contact with the body (especially the hands)
+105663327	vision using the rods
+105663412	sharpness of vision; the visual ability to resolve fine detail (usually measured by a Snellen chart)
+105663655	normal visual acuity, as measured by the ability to read charts at a distance of 20 feet
+105663811	unusually acute vision
+105663887	vision involving the use of both eyes
+105664005	vision using the fovea and parafovea; the middle part of the visual field
+105664139	the normal ability to see colors
+105664263	vision for objects that a 20 feet or more from the viewer
+105664382	normal use of the faculty of vision
+105664567	vision with the fovea
+105664648	vision with only one eye
+105664735	vision for objects 2 feet or closer to the viewer
+105664842	the ability to see in reduced illumination (as in moonlight)
+105665011	normal vision in daylight; vision with sufficient illumination that the cones are active and hue is perceived
+105665218	vision at the edges of the visual field using only the periphery of the retina
+105665360	three-dimensional vision produced by the fusion of two slightly different views of a scene on each retina
+105665563	the ability to hear; the auditory faculty
+105665844	good hearing
+105665951	the ability to identify the pitch of a tone
+105666071	the faculty of distinguishing sweet, sour, bitter, and salty properties in the mouth
+105666448	the faculty that enables us to distinguish scents
+105666671	the sense of smell (especially in animals)
+105666830	the ability to feel movements of the limbs and body
+105667105	inability to sense movement
+105667210	a sensory system located in structures of the inner ear that registers the orientation of the head
+105667466	the ability to sense the position and location and orientation and movement of the body and its parts
+105667701	the faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs
+105668113	a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)
+105668476	a method of investigation involving observation and theory to test scientific hypotheses
+105668646	the use of controlled observations and measurements to test hypotheses
+105668782	the principles and methods of instruction
+105668963	a method of teaching by question and answer; used by Socrates to elicit truths from his students
+105669139	the best method to achieve a desired result
+105669245	the system of methods followed in a particular discipline
+105669396	a method or system for improving the memory
+105669513	a method for solving a problem
+105669670	a simple guaranteed solution for a difficult problem
+105669841	a complex of methods or rules governing behavior
+105670377	a system that provides quantitative information about finances
+105670721	a system of rules of conduct or method of practice
+105670948	a system of assumptions and standards that sanction behavior and give it meaning
+105671119	the system of techniques or symbols serving as a means of expression (as in arts or crafts)
+105671335	a system of rules for placing bets that is believed to lead to winning
+105671515	(government) the system or form by which a community or other political unit is governed
+105671722	a system of conduct in which participants are trusted not to take unfair advantage of others
+105671913	a system of reasoning
+105672188	the syllogistic logic of Aristotle as developed by Boethius in the Middle Ages
+105672331	the system of employing and promoting civil servants on the basis of ability
+105672484	a system of evaluation based on awarding points according to rules
+105672647	the system of employing and promoting civil servants who are friends and supporters of the group in power
+105672830	a system of principles for philosophic or scientific investigations; an instrument for acquiring knowledge
+105672990	a practical method or art applied to some particular task
+105673265	(computer graphics) a technique that is used to smooth jagged distortions in curves and diagonal lines so they appear smoother
+105673469	a photoengraving technique for adding shading or texture or tone to a printed image
+105673613	(dentistry) a technique for repairing a tooth; resinous material is applied to the surface of the tooth where it adheres to the tooth's enamel
+105673828	(computer science) technique of one machine obtaining the same results as another
+105674020	(computer science) having a computer act exactly like a terminal
+105674168	(immunology) a technique that uses antibodies linked to a fluorescent dye in order to study antigens in a sample of tissue
+105674374	the technique of using photomechanical methods to make photographs into plates for printing
+105674544	(computer science) the technique of representing the real world by a computer program
+105674930	a trademarked method of making color motion pictures
+105675040	knowledge of how something is usually done
+105675248	a specific practice of long standing
+105675457	something regarded as a normative example
+105675795	(sociology) the conventions that embody the fundamental values of a group
+105675939	a set of conventional principles and expectations that are considered binding on any person who is a member of a particular group
+105676203	a behavioral convention or pattern characteristic of all members of a particular culture or of all human beings
+105676425	(Middle Ages) a highly conventionalized code of conduct for lovers
+105676569	(Middle Ages) the code of conduct observed by a knight errant who is wandering in search of deeds of chivalry
+105676759	code of correct conduct
+105676878	an established custom
+105677025	(Islam) a tradition based on reports of the sayings and activities of Muhammad and his companions
+105677194	a custom that for a long time has been an important feature of some group or society
+105677462	the biblical institution whereby a man must marry the widow of his childless brother in order to maintain the brother's line
+105677641	practices that are handed down from the past by tradition
+105677778	the state of a person's cognitive processes
+105678187	a lively interest
+105678356	an excessive enthusiasm for all things English
+105678459	extraordinary enthusiasm for ballets
+105678554	something that interests you because it is important or affects you
+105678816	the concerns of this life as distinguished from heaven and the afterlife
+105679061	the state of being interested
+105679169	a vaguely specified concern
+105679370	something that is of no importance
+105679520	matters of personal concern
+105679686	personal matters that could be embarrassing if made public
+105679818	that which concerns a person with regard to a particular role or situation
+105680022	a concern that seriously reflects on your honor
+105680130	intense devotion to a particular person
+105680235	partial or total loss of memory
+105680542	(psychiatry) a disorder of memory in which dreams or fantasies are confused with reality
+105680706	loss of memory for events immediately following a trauma; sometimes in effect for events during and for a long time following the trauma
+105680932	loss of memory for events immediately preceding a trauma
+105681053	tendency to forget
+105681167	a momentary lapse of memory (especially in older people)
+105681283	amnesia about particular events that is very convenient for the person who cannot remember
+105681554	selective amnesia after being in a hypnotic state of events occurring during hypnosis or of information designated by the hypnotist
+105681752	unawareness caused by neglectful or heedless failure to remember
+105681978	total forgetfulness
+105682163	memory disorder seen in middle aged and elderly persons; characterized by an episode of amnesia and bewilderment that lasts for several hours; person is otherwise alert and intellectually active
+105682428	(psychology) being temporarily ready to respond in a particular way
+105682771	a state of mind that is discussed as if it were a place
+105682974	an alert cognitive state in which you are aware of yourself and your situation
+105683281	the continuous flow of ideas and feelings that constitute an individual's conscious experience
+105683445	your consciousness of your own identity
+105683559	(Jungian psychology) the inner self (not the external persona) that is in touch with the unconscious
+105683749	having knowledge of
+105684320	a lack of knowledge or recognition
+105684449	awareness of your own individuality
+105684599	a person's awareness of self with regard to position and time and place and personal relationships
+105684755	self-awareness plus the additional realization that others are similarly aware of you
+105684941	the quality of being not self-conscious; unawareness of yourself or of others' views of yourself
+105685184	an intuitive awareness
+105685345	a general conscious awareness
+105685585	an awareness of your orientation in space
+105685691	an awareness of your obligations
+105685793	state of elementary or undifferentiated consciousness
+105685989	mental responsiveness and awareness
+105686141	the state of remaining awake
+105686315	a periodic state during which you are conscious and aware of the world
+105686586	awakening from sleep
+105686696	a period of sleeplessness
+105686773	a state lacking normal awareness of the self or environment
+105687146	a cognitive state in which you act without self-awareness
+105687452	unconsciousness resulting from lack of knowledge or attention
+105687641	a momentary loss of consciousness
+105687747	marginal consciousness
+105688034	a state of deep and often prolonged unconsciousness; usually the result of disease or injury
+105688264	coma that can develop in inadequately treated cases of diabetes mellitus
+105688414	coma that can occur in severe cases of liver disease
+105688525	unconsciousness brought about by the passage of a low voltage electric current through the brain
+105688680	a mild comatose state; a coma from which the person can be roused by appropriate stimuli
+105688823	a lack of sensibility
+105688958	the state of being asleep
+105689093	mental lethargy or dullness
+105689175	a state of mind in which consciousness is fragile and voluntary action is poor or missing; a state resembling deep sleep
+105689384	a trancelike state in which the person can follow instructions but voluntary action is weak or absent
+105689542	a trance induced by the use of hypnosis; the person accepts the suggestions of the hypnotist
+105689696	a trance induced by intense religious devotion; does not show reduced bodily functions that are typical of other trances
+105689896	unconsciousness induced by narcotics or anesthesia
+105690037	confused or stuporous state caused by high levels of dissolved nitrogen in the blood
+105690272	a state of mind not immediately available to consciousness
+105690411	a state in which you want to learn more about something
+105690621	curiosity that motivates investigation and study
+105690773	a sense of concern with and curiosity about someone or something
+105691020	a state of active curiosity
+105691195	offensive inquisitiveness
+105691387	a mental state characterized by a lack of clear and orderly thought and behavior
+105691808	confusion (usually transient) about where you are and how to proceed; uncertainty as to direction
+105692054	a condition of disorientation affecting someone who is suddenly exposed to an unfamiliar culture or way of life or set of attitudes
+105692245	mental turmoil
+105692366	confusion characterized by lack of clarity
+105692544	confusion resulting from lack of preparation
+105692644	the experience of being unfamiliar with a person or situation that is actually very familiar; associated with certain types of epilepsy
+105692835	confusion resulting from failure to understand
+105693168	trouble or confusion resulting from complexity
+105693343	something that baffles understanding and cannot be explained
+105693684	something jumbled or confused
+105693891	state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options
+105694077	(psychology) an unresolvable dilemma; situation in which a person receives contradictory messages from a person who is very powerful
+105694286	something immaterial (as a circumstance or influence) that contributes to producing a result
+105694495	(theology) a special influence of a divinity on the minds of human beings
+105694760	a factor causing trouble in achieving a positive result or tending to produce a negative result
+105695143	a source of difficulty
+105695459	where problems or difficulties are likely to occur
+105695637	a source of unpredictable trouble and complexity
+105695763	serious trouble
+105695835	problems that arise in enlarging an enterprise (especially in the early stages)
+105695974	trouble that cannot be overcome by a single effort because of its many aspects or its persistent and pervasive quality
+105696202	a problem
+105696291	(a dated Briticism) a serious difficulty with which one is suddenly faced
+105696435	a difficulty that is hard to deal with
+105696575	a difficulty or flaw in a plan or operation
+105696712	a very disagreeable difficulty
+105696795	an unforeseen or unexpected or surprising difficulty
+105696914	something outstandingly difficult
+105697054	something immaterial that interferes with or delays action or progress
+105697450	(figurative) something that hinders or handicaps
+105697606	something that hinders as if with bonds
+105697714	(canon law) an impediment that invalidates a marriage (such as the existence of a prior marriage)
+105697896	something that slows or delays progress
+105698074	something immaterial that stands in the way and must be circumvented or surmounted
+105698489	anything immaterial that severely hinders or confines
+105698721	any condition that makes it difficult to make progress or to achieve an objective
+105698967	the barrier preventing Blacks from participating in various activities with whites
+105699109	an unforeseen obstacle
+105699206	an obstacle that you are expected to overcome
+105699341	a thwarting and distressing situation
+105699457	a barrier to cooperation or interaction resulting from conflicting ideologies
+105699654	an impenetrable barrier to communication or information especially as imposed by rigid censorship and secrecy; used by Winston Churchill in 1946 to describe the demarcation between democratic and communist countries
+105699928	barrier to communication resulting from speaking different languages
+105700059	an ideological barrier around communist China especially in the 1950s and 1960s
+105700199	barrier preventing blacks from participating in various activities with whites
+105700384	a determining or causal element or factor
+105700723	a point or fact or remark that settles something conclusively
+105700875	a cognitive factor that tends to have an effect on what you do
+105701171	a factor whose effects cannot be accurately assessed
+105701348	a distinctive influence
+105701502	something or someone who influences by building or strengthening morale
+105701634	a pernicious and malign influence that is hard to get rid of
+105701884	something providing immaterial assistance to a person or cause or interest
+105702197	a central cohesive source of support and stability
+105702492	support that enables people to survive or to continue doing something (often by providing an essential connection)
+105702756	something that seduces or has the quality to seduce
+105702967	originally an apple from the tree of knowledge of good and evil in the Garden of Eden; it is now used to refer to anything that is tempting but dangerous (as sexuality)
+105703197	anything that serves as an enticement
+105703411	attractiveness
+105703519	a person or thing equal to another in value or measure or force or effect or significance etc
+105703771	a person or thing having the same function or characteristics as another
+105703985	something that resembles or harmonizes with
+105704164	a bad or unsuitable match
+105704262	either of two parts that mutually complete each other
+105704390	a person or thing that takes or can take the place of another
+105704666	an artificial or inferior substitute or imitation
+105704768	a thing or person that immediately replaces something or someone
+105704906	(medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another)
+105705100	the state of being certain
+105705328	freedom from doubt; belief in yourself and your abilities
+105705754	total certainty or greater certainty than circumstances warrant
+105705941	certainty based on past experience
+105706212	the state of being unsure of something
+105706585	an unstated doubt that prevents you from accepting something wholeheartedly
+105706756	doubt about someone's honesty
+105706947	doubt about the truth of something
+105707137	doubt concerning two or more possible alternatives or courses of action
+105707399	indecision in speech or action
+105707565	doubt or uncertainty as to whether something is the case
+105707735	an uncertain cognitive state
+105707871	an abnormally gloomy or unhealthy state of mind
+105708052	the mental state of being preoccupied by something
+105708366	an unhealthy and compulsive preoccupation with something or someone
+105708590	preoccupation with something to the exclusion of all else
+105708758	an abstracted state of absorption
+105708890	a state of mind characterized by abstraction and release from reality
+105709072	a state of deep absorption or thoughtfulness
+105709174	preoccupation so great that the ordinary demands on attention are ignored
+105709328	(psychology) the performance of some composite cognitive activity; an operation that affects mental contents
+105709685	a mental process that you are not directly aware of
+105709891	cognitive processes involved in obtaining and storing knowledge
+105710222	the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others
+105710549	the length of time you can concentrate on some idea or activity
+105710673	paying particular notice (as to children or helpless people)
+105711017	paying excessive attention to the clock (in anticipation of stopping work)
+105711152	attention to what is said
+105711254	attention to what is seen
+105711376	the act of noticing or paying attention
+105711750	polite or favorable attention
+105711903	attention
+105712043	the process of being heedful
+105712213	complete attention; intense mental effort
+105712497	special attention with intent to remember
+105712641	the concentration of attention or energy on something
+105713022	a focus on something particular
+105713131	the concentration of your efforts on a particular field of study or occupation
+105713302	a state of deep mental absorption
+105713431	an emotional preoccupation
+105713530	a topic to which one constantly reverts
+105713669	the process of paying close and continuous attention
+105714023	zealous vigilance
+105714175	lack of attention
+105714322	a lack of attentiveness (as to children or helpless people)
+105714494	an obstacle to attention
+105714576	lack of attention and due care
+105714762	an unintentional omission resulting from failure to notice something
+105714901	neglecting to do something; leaving out or passing over something
+105715093	letting pass without notice
+105715216	a deliberate act of omission
+105715442	instinctive knowing (without the use of rational processes)
+105715665	an intuitive understanding of something
+105715832	an intuitive feeling for the natural idiom of a language
+105715977	intuitive knowledge of spiritual truths; said to have been possessed by ancient Gnostics
+105716154	grasping the inner nature of things intuitively
+105716269	immediate intuitive awareness
+105716379	the process of perceiving
+105716605	the process whereby perceived qualities of an object are related to past experience
+105716765	(psychology) the tendency for perceived objects to give rise to very similar perceptual experiences in spite of wide variations in the conditions of observation
+105717095	the tendency for a visual object to be perceived as having the same brightness under widely different conditions of illumination
+105717290	the tendency for a color to look the same under widely different viewing conditions
+105717454	the tendency to perceive the shape of a rigid object as constant despite differences in the viewing angle (and consequent differences in the shape of the pattern projected on the retina of the eye)
+105717713	the tendency to perceive the veridical size of a familiar object despite differences in their distance (and consequent differences in the size of the pattern projected on the retina of the eye)
+105717967	knowledge gained by perceiving
+105718157	perception of that which is obscure
+105718303	clear or deep perception of a situation
+105718428	range or scope of what is perceived
+105718520	explicit notice
+105718634	the perception that something has occurred or some state exists
+105718807	perception by means of the eyes
+105719031	the perceptual effect of the juxtaposition of very different colors
+105719153	the visual perception of familiar faces
+105719255	the visual perception of familiar objects
+105719361	the visual perception of space
+105719450	the perception of sound as a meaningful phenomenon
+105719621	the auditory perception (and comprehension) of speech
+105719738	the auditory perception of musical sounds
+105719862	the perception of pleasant arrangements of musical notes
+105720023	an unelaborated elementary awareness of stimulation
+105720373	the smallest detectable sensation
+105720506	the lowest level of stimulation that a person can detect
+105720645	the lowest intensity of stimulation at which pain is experienced
+105720839	the smallest change in stimulation that a person can detect
+105721048	(psychophysics) the difference between two stimuli that (under properly controlled experimental conditions) is detected as often as it is undetected
+105721294	the blocking of one sensation resulting from the presence of another sensation
+105721471	the perceptual experience of seeing
+105721684	the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form
+105722108	an odor left in passing by which a person or animal can be traced
+105722279	the scent of a greasy glandular secretion from the male musk deer
+105722413	a distinctive odor that is pleasant
+105722692	the pleasing scent produced when incense is burned
+105722841	a distinctive odor that is offensively unpleasant
+105723097	an unpleasant smell
+105723230	the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus
+105723811	the taste experience when a savoury condiment is taken into the mouth
+105724289	a distinctive tart flavor characteristic of lemons
+105724409	a distinctive fragrant flavor characteristic of vanilla beans
+105724524	the taste experience when sugar dissolves in the mouth
+105724691	the taste experience when vinegar or lemon juice is taken into the mouth
+105724908	the taste experience when something acidic is taken into the mouth
+105725062	the taste experience when quinine or coffee is taken into the mouth
+105725213	having an acrid smell
+105725289	the taste experience when common salt is taken into the mouth
+105725496	a sharp astringent taste; the taste experience when a substance causes the mouth to pucker
+105725694	(wine tasting) the taste of a wine on the back of the tongue (as it is swallowed)
+105725900	a deficiency in flavor
+105726065	a taste (especially of fruit) that is ripe and of full flavor
+105726201	the subjective sensation of hearing something
+105726503	any agreeable (pleasing and harmonious) sounds
+105726882	(music) the sounds produced by singers or musical instruments (or reproductions of such sounds)
+105727272	the sound of music produced by a piano
+105727413	an inaudible music that Pythagoras thought was produced by the celestial
+105727552	a steady sound without overtones
+105727751	a tone that is a component of a complex sound
+105727905	the lowest tone of a harmonic series
+105728040	a harmonic with a frequency that is a multiple of the fundamental frequency
+105728195	the auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience
+105728468	the new sounds added by dubbing
+105728549	a sensation that normally occurs in one sense modality occurs when another modality is stimulated
+105728773	a form of synesthesia in which nonvisual stimulation results in the experience of color sensations
+105728966	a form of chromesthesia in which experiences of color accompany auditory stimuli
+105729127	the perception of tactual or proprioceptive or gut sensations
+105729447	a physical sensation that you experience
+105729675	a tight feeling in some part of the body
+105729937	the faculty of perceiving (via the skin) pressure or heat or pain
+105730155	the perception of body position and movement and muscular tensions etc
+105730374	the sensation produced by pressure receptors in the skin
+105730701	a sharp tingling sensation from lack of circulation
+105730815	a somatic sensation as from many tiny stings
+105731025	an uneasy sensation as of insects creeping on your skin
+105731155	a sensation localized on the skin
+105731362	a cutaneous sensation often resulting from light stroking
+105731508	an irritating cutaneous sensation that produces a desire to scratch
+105731756	an intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.)
+105731964	chronic itching of the skin around the anus
+105732066	persistent itching of the external female genitalia
+105732179	recognition of the location of a stimulus on the skin
+105732302	a sensation of having been stung by nettles
+105732420	the somatic sensation that results from applying force to an area of skin
+105732639	a somatic sensation of acute discomfort
+105732910	pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle)
+105733082	pain felt by an amputee that seems to be located in the missing limb
+105733214	a sharp stab of pain
+105733323	the somatic sensation of cold or heat
+105733472	the sensation caused by heat energy
+105733621	the sensation produced by low temperatures
+105733824	the temperature range (between 28 and 30 degrees Centigrade) at which the naked human body is able to maintain a heat balance without shivering or sweating
+105734038	the cognitive process that leads to convictions
+105734182	believing two contradictory ideas at the same time
+105734290	the complex composition of knowledge as elements and their combinations
+105734541	an organized structure for arranging or classifying
+105735165	a system for classifying things
+105735372	a system used by libraries to classify nonfictional publications into subject categories; the subject is indicated by a three-digit numeral and further specification is given by numerals following a decimal point; publications are shelved by number
+105735753	an artificial or unnatural or obviously contrived arrangement of details or parts etc.
+105735969	a system that uses coordinates to establish position
+105736216	a coordinate system for which the coordinates of a point are its distances from a set perpendicular lines that intersect at the origin of the system
+105736438	(computer science) the organization of data (and its storage allocations in a computer)
+105736623	an arrangement scheme
+105736981	(statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence
+105737307	a flat distribution having equal frequencies of occurrence
+105737428	graphical representation of the arrangement of genes on a chromosome
+105737554	(anthropology) the system of social relationships that constitute kinship in a particular culture, including the terminology that is used and the reciprocal obligations that are entailed
+105737820	an arrangement of points or particles or objects in a regular periodic pattern in 2 or 3 dimensions
+105737991	an arrangement to allow people (or ideas) to coexist
+105738108	(electronics) a system design that duplicates components to provide alternatives in case one component fails
+105738310	the configuration of a communication network
+105738536	the topology of a network whose components are connected by a busbar
+105738669	the topology of a network whose components are serially connected in such a way that the last component is connected to the first component
+105738875	the topology of a network whose components are connected to a hub
+105739007	the topology of a network whose components are all connected directly to every other component
+105739168	the appearance of the network
+105739350	the way the network works
+105739513	(psychology) the configuration of smaller units of information into large coordinated units
+105739724	an arrangement of parts or elements
+105740031	a 3-dimensional geometric arrangement of the atoms or molecules or ions composing a crystal
+105740218	a structure of data having several levels arranged in a treelike structure
+105740391	a classification system where entries are arranged based on some hierarchical structure
+105740559	a system of classifying into files (usually arranged alphabetically)
+105740701	the basic cognitive process of arranging into classes or categories
+105741035	a system for classifying things into groups
+105741166	a system of classifying according to quality or merit or amount
+105741306	a classification system for the antigens of human blood; used in blood transfusion therapy; four groups are A and B and AB and O
+105741528	the classification of someone or something with respect to its worth
+105741809	an appraisal based on careful analytical evaluation
+105741963	a serious examination and judgment of something
+105742233	a critical study (as of a writer's work)
+105742326	negative criticism
+105742422	criticism of yourself
+105742504	assigning to a cause or source
+105742854	assigning some quality or character to a person or thing
+105743090	the attribution of animal forms or qualities to a god
+105743201	the attribution of consciousness and personality to natural phenomena such as thunderstorms and earthquakes and to objects such as plants and stones
+105743423	the attribution to a source or cause
+105743625	attributing to outside causes
+105743734	classification according to more than one attribute at the same time
+105743947	incorporating something under a more general category
+105744094	an appraisal of the value of something
+105744413	too high a value or price assigned to something
+105744538	too low a value or price assigned to something
+105744681	the evaluation of something in terms of its price
+105744838	pricing above the market price when no alternative retailer is available
+105744970	the evaluation of something a second time (or more)
+105745098	a number or letter indicating quality (especially of a student's performance)
+105745477	a numerical value assigned to a letter grade received in a course taken at a college or university multiplied by the number of credit hours awarded for the course
+105745697	(statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total
+105745927	(statistics) any of nine points that divided a distribution of ranked scores into equal intervals where each interval contains one-tenth of the scores
+105746149	(statistics) any of three points that divide an ordered distribution into four parts each containing one quarter of the scores
+105746349	an evaluation by a rating company of the probability that a particular bond issue will default
+105746570	an appraisal of the state of affairs
+105746839	something that checks the correctness of a previous check
+105746988	an assay conducted for diagnostic purposes
+105747345	an assessment of the physical condition of a newborn infant; involves heart rate and muscle tone and respiratory effort and color and reflex responsiveness
+105747558	a blood test used to identify unknown antigens; blood with the unknown antigen is mixed with a known antibody and whether or not agglutination occurs helps to identify the antigen; used in tissue matching and blood grouping and diagnosis of infections
+105747910	a blood test to detect heterophil antibodies that agglutinate sheep red blood cells; positive result indicates infectious mononucleosis
+105748107	a test for detecting typhoid fever and other salmonella infections
+105748245	appraisal of the biological activity of a substance by testing its effect on an organism and comparing the result with some agreed standard
+105748505	identification of a substance (especially a protein) by its action as an antigen
+105748749	immunoassay of a substance that has been radioactively labeled
+105748874	examination of tissues or liquids from the living body to determine the existence or cause of a disease
+105749084	a test for diagnosing reading ability; words are deleted from a prose passage and the reader is required to fill in the blanks
+105749285	a test performed at home in which you collect specimens of your stool that are tested for traces of blood; used to detect colorectal cancers
+105749523	diagnostic tests of the alimentary canal; usually involves inserting a contrast medium (such as barium sulfate) and taking an X-ray
+105749710	test of the body's ability to metabolize carbohydrates; used in the diagnosis of hypoglycemia and diabetes mellitus
+105749894	a blood test in which a sample of serum is exposed to a particular antigen and complement in order to determine whether or not antibodies to that particular antigen are present; used as a diagnostic test
+105750186	a blood test to detect syphilis; a complement fixation test is used to detect antibodies to the syphilis organism treponema; a positive reaction indicates the presence of antibodies and therefore syphilis infection
+105750496	a serologic analysis of a sample of blood
+105750648	a blood test that measures levels of a protein called prostate specific antigen that is manufactured exclusively by the prostate gland; men with prostate problems usually have elevated levels of PSA
+105750907	a prenatal test to detect birth defects at an early stage of pregnancy; tissue from the chorionic villi is assayed
+105751119	biopsy of deep tissue that is obtained through a hollow needle
+105751241	a method of examining stained cells in a cervical smear for early diagnosis of uterine cancer
+105751441	a test based on blood groups to determine whether a particular man could be the biological father of a particular child; negative results prove he was not the father but positive results show only that he could be
+105751715	a test of newborn infants for phenylketonuria
+105751815	a physiological test to determine whether a woman is pregnant
+105751955	pregnancy test that involves injecting some of the woman's urine into an unmated female rabbit and later examining the ovaries of the rabbit; presence of corpora lutea indicates that the woman is pregnant
+105752233	a test to determine whether there is a blockage of the spinal canal
+105752366	test of thyroid function in which the patient is given an oral dose of radioactive iodine-131
+105752565	radioactive iodine test that measures the amount of radioactive iodine excreted in the urine
+105752737	radioactive iodine test that measures the amount of radioactive iodine taken up by the thyroid gland
+105752921	test to determine the patency or occlusion of the Fallopian tubes
+105753043	any test to determine immunity or sensitivity to a disease by introducing small amounts on or into the skin
+105753314	a skin test to determine your susceptibility to scarlet fever
+105753431	a test to determine allergic sensitivity by applying small pads soaked with allergen to the unbroken skin
+105753593	a skin test for immunity to diphtheria
+105753689	a test to determine allergic sensitivity to various substances by applying them to scratches in the skin
+105753852	a skin test to determine past or present infection with the tuberculosis bacterium; based on hypersensitivity of the skin to tuberculin
+105754108	tuberculin (a derivative of tubercle bacillus) is injected intradermally; a red area appearing 1-3 days later signifies an exposure (past or present) to tubercle bacilli and the need for further testing
+105754369	a tuberculin test in which a disk with several tines bearing tuberculin antigen is used to puncture the skin; development of a hard red area indicates past or present exposure to tubercle bacilli and the need for further testing
+105754653	a form of skin test in which the suspected allergen is injected into the skin
+105754813	a series of diagnostic tests before an organ transplant to determine whether the tissues of a donor and recipient are compatible
+105755001	a test of visual acuity using a Snellen chart
+105755105	a test measuring how a system functions when subjected to controlled amounts of stress
+105755267	a stress test in which the patient walks on a moving treadmill while the heart and breathing rates are monitored
+105755440	a rigorous or crucial appraisal
+105755527	a new appraisal or evaluation
+105755760	reappraisal of a situation or position or outlook
+105755882	an appraisal that underestimates the value of something
+105755999	the cognitive process whereby two or more stimuli are distinguished
+105756230	a discrimination between things as different and distinct on the basis of their characteristics or attributes
+105756611	a distinction drawn on the basis of contrast
+105756783	a conceptual separation or distinction
+105757039	a line that when crossed permits of no return and typically results in irrevocable commitment
+105757207	making too fine distinctions of little importance
+105757399	discriminating the individual from the generic group or species
+105757616	delicate discrimination (especially of aesthetic values)
+105758024	love of or taste for fine objects of art
+105758160	the popular taste at a given time
+105758468	a style of women's clothing created by Christian Dior in 1947; involved a tight bodice and narrow waist and a flowing pleated skirt
+105758654	the latest and most admired style in clothes and cosmetics and behavior
+105758945	the style in which a garment is cut
+105759060	trend-setting fashions
+105759170	an interest followed with exaggerated zeal
+105759427	a fashion reminiscent of the past
+105759530	a popular trend that attracts growing support
+105759704	refined taste; tact
+105759791	the tastes in art and manners that are favored by a social group
+105760017	a culture with lifestyles and values opposed to those of the established culture
+105760176	the culture that is widely disseminated via the mass media
+105760293	a counterculture of young people in the US during the 1960s and 70s
+105760419	the literary culture
+105760541	the cognitive process of acquiring skill or knowledge
+105760918	a learning process in which an organism's behavior becomes dependent on the occurrence of a stimulus in its environment
+105761204	learning that takes place as a normal part of cognitive development
+105761376	learning and coming to understand ideas and information
+105761561	the gradual process of acquiring knowledge
+105761951	learning (of values or attitudes etc.) that is incorporated within yourself
+105762194	(psychology) unconscious internalization of aspects of the world (especially aspects of persons) within the self in such a way that the internalized representation takes over the psychological functions of the external objects
+105762516	(psychoanalysis) the internalization of the parent figures and their values; leads to the formation of the superego
+105762727	a learning process in early life whereby species specific patterns of behavior are established
+105762896	learning to use a language
+105763004	system of language acquisition focusing intensively on listening and speaking
+105763153	learning so as to be able to remember verbatim
+105763390	memorization by repetition
+105763483	in the theories of Jean Piaget: the modification of internal representations in order to accommodate a changing knowledge of reality
+105763711	in the theories of Jean Piaget: the application of a general schema to a particular instance
+105763880	applying the mind to learning and understanding a subject (especially by reading)
+105764200	application of a skill learned in one situation to a different but similar situation
+105764411	(psychology) transfer of a response learned to one stimulus to a similar stimulus
+105764695	(Pavolvian conditioning) the elicitation of a conditioned response by stimulation similar but not identical to the original stimulus
+105764885	training in the development of and care for the human body; stresses athletics; includes hygiene
+105765046	the process of assimilating new ideas into an existing cognitive structure
+105765231	becoming proficient in the use of something; having mastery of
+105765420	the process of educating yourself
+105765533	the process of being formally educated at a school
+105765728	education of physically or mentally handicapped children whose needs cannot be met in an ordinary classroom
+105765899	training for a specific vocation in industry or agriculture or trade
+105766056	the accumulation of knowledge or skill that results from direct participation in events or activities
+105766379	the experience of becoming familiar with something
+105766545	skill and experience in matters relating to the woods (as hunting or fishing or camping)
+105766689	a conditioning process in which the reinforcer is removed and a conditioned response becomes independent of the conditioned stimulus
+105766904	conditioning to avoid an aversive stimulus
+105767014	an emotional response that has been acquired by conditioning
+105767179	conditioning that pairs a neutral stimulus with a stimulus that evokes a reflex; the stimulus that evokes the reflex is given whether or not the conditioned response occurs until eventually the neutral stimulus comes to evoke the reflex
+105767484	operant conditioning that pairs a response with a reinforcement in discrete trials; reinforcement occurs only after the response is given
+105767693	conditioning in which an operant response is brought under stimulus control by virtue of presenting reinforcement contingent upon the occurrence of the operant response
+105767946	conditioning in which a second incompatible response is conditioned to an already conditioned stimulus
+105768199	the cognitive processes whereby past experience is remembered
+105768608	what you can repeat immediately after perceiving it
+105768748	memory for intermediate results that must be held during thinking
+105768874	your general store of remembered information
+105769041	memory for episodes in your own life
+105769157	your memory for meanings and general (impersonal) facts
+105769274	your memory for motor skills
+105769377	the cognitive operation of accessing information in memory
+105769556	the process of remembering (especially the process of recovering information by mental effort)
+105769915	the ability to recall past occurrences
+105770146	recall or remembrance
+105770255	recall that is hypothesized to work by storing abstract features which are then used to construct the memory during recall
+105770480	recall that is hypothesized to work by storing the original stimulus input and reproducing it during recall
+105770668	recall after rote memorization
+105770845	a mental impression retained and recalled from the past
+105770995	the process of recognizing something or someone by remembering
+105771409	the individual characteristics by which a thing or person is recognized or known
+105771764	identification of a person from the sound of their voice
+105771913	the process of bringing ideas or events together in memory or imagination
+105772194	the connection of isolated facts by a general hypothesis
+105772362	a representation of common ground between theories or phenomena
+105772610	a point where a choice must be made
+105772776	the overlap where two theories or phenomena affect each other or have links with each other
+105772970	memory for experiences that are past
+105773156	any basic cognitive process in which some entity comes to stand for or represent something else
+105773412	something visible that by association or convention represents something else that is invisible
+105773898	a representational or typifying form or model
+105774074	a typical example of some state or quality
+105774244	an explanation of something that is not immediately obvious
+105774695	an interpretation of the U.S. constitution holding that the spirit of the times and the needs of the nation can legitimately influence judicial decisions (particularly decisions of the Supreme Court)
+105774981	a representation by picture or portraiture
+105775242	a faithful depiction or reflection
+105775383	the representation of objects (especially a god) as having human form or traits
+105775577	(theology) the doctrine that Jesus was a union of the human and the divine
+105775730	the ability to form mental images of things or events
+105776104	the imaging of remembered or invented scenes
+105776249	a vivid mental image
+105776412	visual imagery
+105776550	a series of mental images and emotions occurring during sleep
+105776803	imaginative thoughts indulged in while awake
+105777059	a terrifying or deeply upsetting dream
+105777153	an erotic dream (usually at night) accompanied by the (nocturnal) emission of semen
+105777311	a grotesque product of the imagination
+105777468	absentminded dreaming while awake
+105777723	an idle indulgence in fantasy
+105777830	imaginative re-creation
+105777927	imaginative intellectual play
+105778055	the examination of alternative hypotheses
+105778254	an instance of searching for something
+105778388	a search for an alternative that meets cognitive criteria
+105778661	cognitive processes that presuppose the availability of knowledge and put it to use
+105778923	the process of using your mind to consider something carefully
+105779529	a thought process in which ideas (words or images) suggest other ideas in a sequence
+105779676	the sequential mental process in which one thought leads to another by association
+105779833	the creation of a construct; the process of combining ideas into a congruous object of thought
+105780041	a mental synthesis that becomes fixed or concrete by a process resembling crystal formation
+105780212	the conception and development of an idea or plan
+105780353	thinking that is coherent and logical
+105780664	the abstract separation of a whole into its constituent parts in order to study the parts and their relations
+105781046	a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning
+105781404	a particular way of thinking that is characteristic of some individual or group
+105781545	the connections that link the various parts of an event or argument together
+105781773	an ordering of questions so as to develop a particular argument
+105781920	reasoning that involves the formation of conclusions from incomplete evidence
+105782126	reasoning from the general to the particular (or from cause to effect)
+105782412	reasoning from detailed facts to general principles
+105782611	the reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation
+105783078	the act of predicting (as by reasoning about the future)
+105783290	a prediction made by extrapolating from past observations
+105783404	knowledge of the future (usually said to be obtained from a divine source)
+105783692	staring into a crystal ball to arouse visions of future or distant events
+105783826	a prophetic vision (as in a dream)
+105783916	a vision of events in the distant past
+105784012	the act of providing vague advance indications; representing beforehand
+105784209	the art or gift of prophecy (or the pretense of prophecy) by supernatural means
+105784589	divination by means of numbers
+105784676	searching for underground water or minerals by using a dowsing rod
+105784872	divination by means of signs connected with the earth (as points taken at random or the arrangement of particles thrown down at random or from the configuration of a region and its relation to another)
+105785146	divination by water (as by patterns seen in the ebb and flow of the tides)
+105785295	divination by means of stones or stone talismans
+105785436	conjuring up the dead, especially for prophesying
+105785596	divination through the interpretation of dreams
+105785719	divination by the letters of a name
+105785827	telling fortunes by lines on the palm of the hand
+105786026	divination by fire or flames
+105786128	a pseudoscience claiming divination by the positions of the planets and sun and moon
+105786643	the drawing up and interpretation of horoscopes
+105786746	a pseudoscientific forerunner of chemistry in medieval times
+105786951	an activity resembling science but based on fallacious assumptions
+105787113	deductive reasoning in which a conclusion is derived from two premises
+105787368	the production or use of theories
+105787565	imaginary or visionary theorization
+105787709	the cognitive process of supposing
+105787920	the act of presupposing; a supposition made prior to having knowledge (as for the purpose of argument)
+105788101	the process of formulating general concepts by abstracting common properties of instances
+105788336	an inference that if things agree in some respects they probably agree in others
+105788560	(logic) an inference that follows directly from the proof of another proposition
+105788715	a line of reasoning that shows how a conclusion follows logically from accepted propositions
+105788882	something that is inferred (deduced or entailed or implied)
+105789142	an inference about the future (or about some hypothetical situation) based on known facts and observations
+105789344	(law) an inference of the truth of a fact from other facts proved or admitted or judicially noticed
+105789538	an intuitive assumption
+105789660	(logic) a conclusion that does not follow from the premises
+105789797	an analysis into mutually exclusive categories
+105789950	an analysis of the cost effectiveness of different alternatives in order to see whether the benefits outweigh the costs
+105790137	a minute and critical analysis
+105790242	analysis of a problem into alternative possibilities followed by the systematic rejection of unacceptable alternatives
+105790445	the analysis of complex things into simpler constituents
+105790560	a theory that all complex systems can be completely understood in terms of their components
+105790710	analysis of all aspects of a project along with ways to collect information about the operation of its parts
+105790881	analysis into clear-cut components
+105791038	(mathematics) the resolution of an expression into factors such that when multiplied together they give the original expression
+105791362	changing a square matrix to diagonal form (with all non-zero elements on the principal diagonal)
+105791663	logical and methodical reasoning
+105791773	the reasoning involved when you assume the conclusion is true and reason backward to the evidence
+105791945	the combination of ideas into a complex whole
+105792157	analysis of changes over time
+105792247	attentive consideration and meditation
+105792487	laborious cogitation
+105792565	obscure or irrational thought
+105792704	the process of forming and relating ideas
+105792836	the process of giving careful thought to something
+105793072	careful consideration
+105793316	a systematic consideration
+105793513	a calm, lengthy, intent consideration
+105793890	continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature
+105794189	(religion) contemplation of spiritual matters (usually on religious or philosophical subjects)
+105794377	an instance of deliberate thinking
+105794660	the contemplation of your own thoughts and desires and conduct
+105794876	a penetrating examination of your own beliefs and motives
+105795010	a detailed inspection of your conscience (as done daily by Jesuits)
+105795180	preoccupation especially with one's attitudes and ethical or ideological values
+105795503	concern with outward things or material objects as opposed to the mind and spirit
+105795853	literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption
+105796034	contemplation of things past
+105796154	the cognitive process of reaching a decision
+105796557	deciding or controlling something's outcome or nature
+105796718	making decisions on the basis of what seems best instead of following some single doctrine or style
+105796929	decision making by a group (especially in a manner that discourages creativity or individual responsibility)
+105797094	something settled or resolved; the outcome of decision making
+105797437	the cognitive process of reaching a decision or drawing conclusions
+105797671	a judgment reached before the evidence is available
+105797813	a decision to reverse an earlier decision
+105798017	thinking again about a choice previously made
+105798247	the person or thing chosen or selected
+105798457	a formal expression
+105798577	the person or thing that is rejected or set aside as inferior in quality
+105798763	something regarded with special favor or liking
+105798949	one of a number of things from which only one can be chosen
+105799319	the more conspicuous of two alternatives or cases or sides
+105799460	the right or chance to choose
+105799610	the particular preference that you have
+105799772	doing as one pleases or chooses
+105799872	an option that is selected automatically unless an alternative is specified
+105800018	a possible alternative
+105800200	something that can be done
+105800320	an alternative that is not available
+105800454	something that cannot be done
+105800583	the choice of taking what is offered or nothing at all
+105800699	an easier alternative
+105800850	thinking something out with care in order to achieve complete understanding of it
+105801008	thought that makes something comprehensible
+105801218	(law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature)
+105801562	the fundamental assumptions from which something is begun or developed or calculated or explained
+105801915	the fundamental part
+105802065	something crucial for explaining
+105802197	the scientific study of plants or animals (more observational than experimental) usually published in popular magazines rather than in academic journals
+105802411	the cognitive process of making something seem consistent with or based on reason
+105802626	reason for being
+105802702	the cognitive process of thinking about what you will do in the event of something happening
+105803052	the thing arranged or agreed to
+105803252	secret agreement
+105803342	something arranged in advance
+105803468	something reserved in advance (as a hotel accommodation or a seat on a plane etc.)
+105803662	a reservation that is improved
+105803843	the planning that is disrupted when someone upsets the applecart'
+105803965	(law) criminal intent; the thoughts and intentions behind a wrongful act (including knowledge that the act is illegal); often at issue in murder trials
+105804230	(law) thought and intention to commit a crime well in advance of the crime; goes to show criminal intent
+105804431	planning something carefully and intentionally
+105804625	planning or plotting in advance of acting
+105804758	the thought processes involved in solving a problem
+105804945	thinking that brings together information focussed on solving a problem (especially solving problems that have a single correct solution)
+105805185	thinking that moves away in diverging directions so as to involve a variety of aspects and which sometimes lead to novel ideas and solutions; associated with creativity
+105805481	a sudden intuition as part of solving a problem
+105805605	a search for knowledge
+105805907	the study of animals and plants in the natural world (usually at an elementary level)
+105806051	the testing of an idea
+105806323	an empirical search for knowledge
+105806421	an experiment designed to control for variables affecting the results of another experiment
+105806577	a standard against which other conditions can be compared in a scientific experiment
+105806871	the procedure that is varied in order to estimate a variable's effect by comparison with a control condition
+105807079	a preliminary experiment whose outcome can lead to a more extensive experiment
+105807220	trying something to find out about it
+105807589	a test of the performance of some new product under the conditions in which it will be used
+105807769	(computer science) a first test of an experimental product (such as computer software) carried out by the developer
+105807960	(computer science) a second test of an experimental product (such as computer software) carried out by an outside organization
+105808161	a test to insure that a vehicle is roadworthy
+105808280	a profession of belief
+105808395	test of the roadworthiness of a vehicle one is considering buying
+105808535	a test of public opinion
+105808619	an inquiry into unfamiliar or questionable activities
+105808846	an investigation undertaken in the hope (but not the stated purpose) of discovering information
+105809006	an inquiry into public opinion conducted by interviewing a random sample of people
+105809294	a poll of voters as they leave the voting place; usually taken by news media in order to predict the outcome of an election
+105809473	an unofficial vote taken to determine opinion on some issue
+105809602	the study and classification of armorial bearings and the tracing of genealogies
+105810193	problem solving that involves numbers or quantities
+105810555	(mathematics) calculation of the value of a function outside the range of known values
+105810738	(mathematics) calculation of the value of a function between the values already known
+105810920	a change in the units or form of an expression:
+105811103	conversion from one way of encoding data to another way
+105811220	conversion of analog information into digital information
+105811387	an approximate calculation of quantity or degree or worth
+105811755	an estimate, based on previous dealings, of a person's or an organization's ability to fulfill their financial commitments
+105811946	an estimate based on little or no information
+105812144	an estimate that combines reasoning with guessing
+105812282	a calculation that results in an estimate that is too high
+105812499	an estimation that is too low; an estimate that is less than the true or actual value
+105812801	a clear and certain mental apprehension
+105813020	the fact of being aware of information that is known to few people
+105813165	range of what one can know or understand
+105813285	seeing ahead; knowing in advance; foreseeing
+105813483	the cognitive condition of someone who understands
+105813910	an ability to understand the meaning or importance of something (or the knowledge acquired as a result)
+105814239	an inability to understand
+105814388	an understanding of yourself and your goals and abilities
+105814506	a slight or superficial understanding of a subject
+105814631	understanding of the nature or meaning or quality or magnitude of something
+105814863	understanding with difficulty
+105815020	a natural appreciation or ability
+105815155	understanding the nature of an event after it has happened
+105815314	the clear (and often sudden) understanding of a complex situation
+105815548	coming to understand something clearly and distinctly
+105815941	mental understanding as an enlightening experience
+105816110	an enlightening or astonishing disclosure
+105816226	a productive insight
+105816450	a sudden brilliant understanding
+105816565	the cognitive processes involved in producing and understanding linguistic communication
+105816802	the cognitive process of understanding a written linguistic message
+105817090	reading at speeds significantly faster than normal
+105817200	the sum or range of what has been perceived, discovered, or learned
+105817771	an inherited pattern of thought or action
+105817904	all of your experiences that determine how things appear to you
+105818169	an abstract spiritual world beyond earthly reality
+105818276	the practical world as opposed to the academic world
+105818466	the experience of thinking that a new situation had occurred before
+105818587	the experience of being alive; the course of human events and activities
+105818794	a recurrence of a prior experience
+105818974	the focus of cognitions or feelings
+105819240	anything that provides mental stimulus for thinking
+105819406	insipid intellectual nourishment
+105819492	the object of a feeling of intense aversion; something to be avoided
+105819688	an object of dread or apprehension
+105819910	the object of cursing or detestation; that which is execrated
+105820064	the object upon which interest and attention focuses
+105820472	something interesting that stimulates conversation
+105820587	a center of interest
+105820748	something that strongly attracts attention and admiration
+105820915	a striking person or thing that attracts attention
+105821023	an object perceived during a hallucinatory episode
+105821211	an object of extravagant short-lived passion
+105821331	any object of warm affection or devotion
+105821558	the intellectual conception of a thing as it is in itself, not as it is known through perception
+105821727	an experience that causes you to remember something
+105821923	a reminder of past events
+105822013	a reminder (as a death's head) of your mortality
+105822120	(plural) something that reminds you of someone or something
+105822288	everything stated or assumed in a given discussion
+105822417	some situation or event that is thought about
+105822776	an important question that is in dispute and must be settled
+105823078	an issue that elicits strong emotional reactions
+105823201	an issue whose settlement is more important than anything else; and issue that must be settled before anything else can be settled
+105823393	an issue whose settlement will affect financial resources
+105823538	an issue that is presented for formal disputation
+105823643	a subject of study
+105823817	a subject about which you are ignorant or prejudiced and fail to exercise good judgment
+105824016	the topic that a person, committee, or piece of research is expected to deal with or has authority to deal with
+105824280	a matter already settled in court; cannot be raised again
+105824413	knowledge acquired through study or experience or instruction
+105824748	an item of factual information derived from measurement or research
+105824916	a datum about some physical state that is presented to a user by a meter or similar instrument
+105825271	personal knowledge or information about someone or something
+105825522	a piece of information about circumstances that exist or events that have occurred
+105825869	the actual state of things
+105825971	an isolated fact that is considered separately from the whole
+105826326	a fact about some part (as opposed to general)
+105826532	a fact about the whole (as opposed to particular)
+105826764	a matter that is an actual fact or is demonstrable as a fact
+105826885	facts learned by observing
+105827122	an observation that has been confirmed repeatedly and is accepted as true (although its truth is never final)
+105827293	a fact that logically justifies some premise or conclusion
+105827482	the facts about an actual situation
+105827597	a fact that has been verified
+105827788	an important truth that is unpleasant to acknowledge (as about yourself)
+105827917	an enduring or necessary ethical or religious or aesthetic truth
+105828034	a small or minor detail
+105828167	something remote
+105828314	(usually preceded by in') a detail or point
+105828469	a point at which an impasse arises in progress toward an agreement or a goal
+105828606	a detail that is considered insignificant
+105828731	a specific detail in a set of rules or terms belonging to a particular field
+105828980	an item of information that is typical of a class or group
+105829462	a poor example
+105829606	an instance that does not conform to a rule or generalization
+105829846	an example that is used to justify similar occurrences at a later time
+105830006	the most typical example or representative of a type
+105830135	a small part of something intended as representative of the whole
+105830361	a test sample of some substance
+105830445	a sample meant to be representative of a whole population
+105830599	an example regarded as typical of its class
+105830697	a single sample or measurement taken at a specific time or over as short a period as feasible
+105830867	a sample grabbed at random
+105830972	a small amount (especially of food or wine)
+105831106	information that should be kept in mind when making a decision
+105831414	something (such as a fact or circumstance) that shows an action to be reasonable or necessary
+105831641	(law) a circumstance that does not exonerate a person but which reduces the penalty associated with the offense
+105831841	information that is essential to understanding a situation or problem
+105832071	a piece of stored information that is used to identify an item in an information storage and retrieval system
+105832256	your basis for belief or disbelief; knowledge on which to base belief
+105832637	information that supports a probabilistic estimate of future events
+105832838	(law) evidence sufficient to warrant an arrest or search and seizure
+105833063	any factual evidence that helps to establish the truth of something
+105833309	(reduction to the absurd) a disproof by showing that the consequences of the proposition are absurd; or a proof of a proposition by showing that its negation leads to a contradiction
+105833569	additional proof that something that was believed (some fact or hypothesis or theory) is correct
+105834012	a check that everyone is in bed by the time they should be
+105834126	an instance of confirming something by considering information from several sources
+105834266	a system of checking for errors in computer functioning
+105834416	a digit representing the sum of the digits in an instance of digital data; used to check whether errors have occurred in transmission or storage
+105834615	the cognitive process of establishing a valid proof
+105834793	any evidence that helps to establish the falsity of something
+105835046	evidence that refutes conclusively
+105835156	refutation by example
+105835238	evidence pointing to a possible solution
+105835453	inside information that something is going to happen
+105835577	stimulation that calls up (draws forth) a particular class of behaviors
+105835833	the sudden stimulation provided by strong drink (or certain drugs)
+105836008	any stimulating information or event; acts to arouse action
+105836426	something causing excitement or stimulating interest
+105836587	something causing antagonism or loss of interest
+105836749	the stimulus that is the occasion for a conditioned response
+105836876	(psychology) a stimulus that strengthens or weakens the behavior that produced it
+105837144	a reinforcing stimulus that serves to increase the likelihood of the response that produces it
+105837336	a reinforcing stimulus whose removal serves to decrease the likelihood of the response that produced it
+105837537	a stimulus that provides information about what to do
+105837666	a stimulus with desirable consequences
+105837804	a stimulus with undesirable consequences
+105837980	anything that tends to arouse
+105838106	something or someone that provides a source of happiness
+105838383	something or someone that causes trouble; a source of unhappiness

@@ -1,0 +1,1000 @@
+cynodon	112136080
+cynodon dactylon	112136265
+cynodon plectostachyum	112136575
+cynodont	101723408
+cynodontia	101723137
+cynoglossidae	102665982
+cynoglossum	112839502
+cynoglossum amabile	112839726
+cynoglossum officinale	112839901
+cynoglossum virginaticum	112840114
+cynomys	102361856
+cynomys gunnisoni	102362319
+cynomys ludovicianus	102362208
+cynophobia	114408487
+cynopterus	102143371
+cynopterus sphinx	102143510
+cynoscephalae	101279558 108808051
+cynoscion	102601837
+cynoscion nebulosus	102602187
+cynoscion regalis	102601977
+cynosure	105820748 106663890
+cynthia	109579826
+cynthia moth	102306237
+cynwulf	110939248
+cyon	102118427
+cyperaceae	112170268
+cyperus	112170964
+cyperus alternifolius	112171239
+cyperus esculentus	112171486
+cyperus longus	112171687
+cyperus papyrus	112171882
+cyperus rotundus	112172132
+cypher	106264369 106366714 109942876 113762308 113764498 200638921 200996121
+cyphomandra	112923647
+cypraea	101955838
+cypraea moneta	101956235
+cypraea tigris	101956403
+cypraeidae	101955673
+cypre	112839106
+cypress	111650940 111651341
+cypress family	111649952
+cypress pine	111654084
+cypress sedge	112172768
+cypress spurge	112940406
+cypress tree	111650940
+cypress vine	112848030
+cyprian	109718416 110505025 300362800 303070159
+cyprinid	101441762 302857053
+cyprinid fish	101441762
+cyprinidae	101441361
+cypriniform fish	101440849
+cypriniformes	101440446
+cyprinodont	101449230
+cyprinodontidae	101448924
+cyprinoid	302857053
+cyprinus	101442298
+cyprinus carpio	101442449
+cypriot	109718416 303070159
+cypriot monetary unit	113715619
+cypriot pound	113715746
+cypriote	109718416 303070159
+cypripedia	112076568
+cypripedium	112076308
+cypripedium acaule	112077102
+cypripedium album	112077259
+cypripedium arietinum	112077491
+cypripedium calceolus	112077712
+cypripedium calceolus pubescens	112077948
+cypripedium californicum	112078161
+cypripedium fasciculatum	112078396
+cypripedium montanum	112078693
+cypripedium parviflorum	112077712
+cypripedium reginae	112077259
+cyproheptadine	103162248
+cyprus	108774568 108774717
+cyrano de bergerac	110939350
+cyril	110939638
+cyril burt	110894508
+cyril lodowic burt	110894508
+cyril northcote parkinson	111243109
+cyrilla	112771527
+cyrilla family	112771066
+cyrilla racemiflora	112771527
+cyrilliaceae	112771066
+cyrillic	106511787 303070438
+cyrillic alphabet	106511787
+cyrtomium	113216049
+cyrtomium aculeatum	113216239
+cyrus	110939803
+cyrus hall mccormick	111188635
+cyrus ii	110939959
+cyrus mccormick	111188635
+cyrus the elder	110939959
+cyrus the great	110939959
+cyrus the younger	110939803
+cyst	105525229 114226478
+cysteine	114628632
+cystic	302719926 302720035
+cystic artery	105351898
+cystic breast disease	114221862
+cystic fibrosis	114178988
+cystic fibrosis transport regulator	105447386
+cystic mastitis	114221862
+cystic vein	105372607
+cystine	114628794
+cystitis	114212184
+cystocele	114320468
+cystoid macular edema	114278408
+cystolith	109246394
+cystoparalysis	114109518
+cystophora	102083586
+cystophora cristata	102083712
+cystoplegia	114109518
+cystopteris	113216445
+cystopteris bulbifera	113217267
+cystopteris fragilis	113216901
+cystopteris montana	113217132
+cytesis proliferus	112535097
+cytherea	109577261
+cytidine	115097714
+cytisus	112541166
+cytisus albus	112541691
+cytisus multiflorus	112541691
+cytisus ramentaceus	112518962
+cytisus scoparius	112541899
+cytoarchitectonic	302719070
+cytoarchitectonics	104940374
+cytoarchitectural	302719070
+cytoarchitecture	104940374
+cytochrome	115050138
+cytochrome c	115050382
+cytogenesis	113476123
+cytogenetic	302720177
+cytogenetical	302720177
+cytogeneticist	110006442
+cytogenetics	106080288
+cytogeny	113476123
+cytokine	114852363
+cytokinesis	113525700
+cytokinetic	302720335
+cytokinin	114769656
+cytol	105440524
+cytologic	302720488
+cytologic smear	105272638
+cytologic specimen	105274572
+cytological	302720488
+cytologist	110006583
+cytology	106080053
+cytolysin	114852566
+cytolysis	113476259
+cytolytic	302719242
+cytomegalic	301179483
+cytomegalovirus	101342442
+cytomembrane	105320307
+cytopathogenic	301171859
+cytopenia	113996937
+cytophotometer	103162417
+cytophotometric	302719385
+cytophotometrically	400292076
+cytophotometry	101005377
+cytoplasm	105440524
+cytoplasmatic	302719512
+cytoplasmic	302719512
+cytoplasmically	400292166
+cytoplast	105440976
+cytoplastic	302719667
+cytosine	114852681
+cytoskeleton	105441072
+cytosmear	105272638
+cytosol	105441285
+cytostome	101460651
+cytotoxic	302720653
+cytotoxic drug	103162653
+cytotoxic t cell	105460092
+cytotoxicity	113604814
+cytotoxin	115059934
+czar	110006699 110006777
+czar alexander i	110832154
+czar alexander ii	110832404
+czar alexander iii	110832653
+czar nicholas i	111225965
+czar peter i	111251423
+czarina	110007111
+czarist	302720779
+czaristic	302720779
+czaritza	110007111
+czech	106957673 109718596 109718799 302973233
+czech capital	108775759
+czech monetary unit	113703247
+czech republic	108775097
+czechoslovak	109718596
+czechoslovakia	108775402
+czechoslovakian	109718596 302973233
+czerny	110940118
+czestochowa	109005926
+d	106844548 113772852 115116794 302206300
+d and c	100671493
+d region	108599685
+d'holbach	110955318
+d'oyly carte	110962465
+d-day	115187570
+d-layer	108599685
+d. h. lawrence	111140136
+d. w. griffith	111036370
+d.a.	106716597
+d.c.	109092985
+d.j.	110036990
+d.o.a.	300097766
+d.p.r.k.	108974855
+da	110038797
+da gamma	110940334
+da vinci	111148384
+da'wah	100732434
+dab	100126256 113783311 201235591 201235758
+daba	106997106
+dabble	201869561 201980398 202421160 202424713
+dabbled	301700344
+dabbler	101850048 110007234
+dabbling duck	101850048
+dabchick	102053463
+daboecia	112255030
+daboecia cantabrica	112255186
+dacca	108868218
+dace	101443758
+dacelo	101830908
+dacelo gigas	101831197
+dacha	103162852
+dachau	103162925
+dachshund	102091884
+dachsie	102091884
+dacite	114751002
+dacitic	303070603
+dacninae	101541416
+dacoit	110007465
+dacoity	100784581
+dacridium laxifolius	111677222
+dacron	103163080
+dacrycarpus	111674179
+dacrycarpus dacrydioides	111674355
+dacrydium	111674575
+dacrydium bidwilli	111676043
+dacrydium colensoi	111674889
+dacrydium cupressinum	111674744
+dacrydium franklinii	111676574
+dacrymyces	113083628
+dacrymycetaceae	113083390
+dacryocyst	105339536
+dacryocystitis	114365174
+dacryon	105239675
+dactyl	105573730 107109814
+dactylic	303070745
+dactylis	112136784
+dactylis glomerata	112136946
+dactyloctenium	112137100
+dactyloctenium aegypticum	112137251
+dactylomegaly	114390654
+dactylopiidae	102252647
+dactylopius	102252785
+dactylopius coccus	102252932
+dactylopteridae	102654476
+dactylopterus	102654635
+dactylorhiza	112078930
+dactylorhiza fuchsii	112079323
+dactylorhiza maculata fuchsii	112079323
+dactyloscopidae	102614676
+dad	110007601
+dada	108483423 110007601
+dadaism	108483423
+daddy	110007601
+daddy longlegs	101772722 102207871
+dado	103163208 103163334 104551424 201460339 202231341
+dado plane	103163462
+dae-han-min-gook	108974384
+daedal	109583325 302185736
+daedalus	109583325
+daemon	109529348 109565450
+daffo	106995774
+daffodil	112442188
+daffodil garlic	112454988
+dafla	106946601
+daft	302082059
+daftly	400305302
+daftness	114421293
+dag	103597088 113746460
+dag hammarskjold	111046368
+dag hjalmar agne carl hammarskjold	111046368
+dagame	112682835
+dagan	109540344
+dagda	109531798
+dagestani	108500661
+dagga	112871666
+dagger	103163551 106841579
+dagger fern	113220615
+dagger-like	300805110
+daggerboard	103163842
+dago	109735835
+dagon	109540192
+daguerre	110940584
+daguerreotype	103163997
+dah	106818820
+dahl	107742206 112531279
+dahlia	111980714
+dahlia pinnata	111980714
+dahna	109195008
+dahomey	108777253
+daikon	111915561
+dail	108336469
+dail eireann	108336469
+daily	106278217 301048256 301975230 400081836 400179304
+daily dew	112803290
+daily double	100507930
+daily round	100416111
+daily variation	107458878
+daimler	110940761
+daimon	109565450
+daintily	400305545 400305669
+daintiness	104820315
+dainty	107572730 300709755 300987524 302405164
+daiquiri	107930653
+dairen	108744836
+dairy	103164201
+dairy cattle	102408826
+dairy cow	102408826
+dairy farm	103164201
+dairy farmer	110007930
+dairy farming	100920103
+dairy product	107859751
+dairying	100920103
+dairymaid	110007754
+dairyman	110007849 110007930
+dais	103164306
+daishiki	103168047
+daisy	111959960
+daisy bush	112018438
+daisy chain	103164494 108393554
+daisy cutter	100132167 103395173
+daisy fleabane	111986552
+daisy print wheel	103164667
+daisy wheel	103164667
+daisy-bush	112018438
+daisy-chain	201357979
+daisy-leaved grape fern	112982002
+daisybush	112018438
+daisyleaf grape fern	112982002
+daisylike	303070882
+daisywheel printer	103164852
+dak	112530848
+dakar	109018488
+dakoit	110007465
+dakoity	100784581
+dakota	106922254 109075475 109674079
+dal	113645904
+dalai lama	110008031
+dalasi	113690266
+dalbergia	112542352
+dalbergia cearensis	112543646
+dalbergia latifolia	112543183
+dalbergia nigra	112543980
+dalbergia retusa	112544355
+dalbergia sissoo	112543399
+dalbergia stevensonii	112544203
+dale	109285596
+dale carnegie	110902954
+dalea	112545023
+dalea spinosa	112545138
+dalesman	110008135
+daleth	106850087
+dali	110940970
+dalian	108744836
+dall sheep	102417899
+dall's sheep	102417899
+dallas	109166523
+dalliance	100513533 101069743
+dallier	110008241
+dallis grass	112148588
+dallisgrass	112148588
+dally	200713761 201039782 202015537 202442312
+dalmane	103376209
+dalmatia	108837075
+dalmatia pyrethrum	112042851
+dalmatian	102112993 110008456 303070956
+dalmatian iris	112434834
+dalmatian laburnum	112518962
+dalmatian pyrethrum	112042851
+dalo	111807008
+dalton	110941076
+dalton trumbo	111370054
+dalton's law	105885076 105890833
+dalton's law of partial pressures	105885076
+daltonism	114177650
+dam	101326134 103164975 113681341 201479854
+dam up	201479854
+dama	102435836
+dama dama	102435949
+damage	100403900 100745429 107354253 107435370 113324337 200259743 200589255
+damage control	100805932
+damaged	300682414 301991317
+damages	113311699
+damaging	300590583 301165528
+damaliscus	102424895
+damaliscus lunatus	102425037
+damar	114919958
+damaraland mole rat	102372789
+damascene	103165259 109753012 201686341 301800119 303071093
+damascus	109056411
+damascus steel	114827608
+damask	103165406 103165560 301800308
+damask rose	112642171
+damask steel	114827608
+damask violet	111909269
+dame	110008583 110008828
+dame agatha mary clarissa christie	110916739
+dame alice ellen terry	111356539
+dame alicia markova	111177130
+dame barbara hepworth	111064163
+dame daphne du maurier	110965255
+dame edith louisa sitwell	111324006
+dame edith sitwell	111324006
+dame ellen terry	111356539
+dame jean iris murdoch	111216754
+dame joan sutherland	111345862
+dame kiri janette te kanawa	111354768
+dame kiri te kanawa	111354768
+dame margot fonteyn	110994447
+dame muriel spark	111329608
+dame myra hess	111068104
+dame nellie melba	111192035
+dame rebecca west	111402393
+dame sybil thorndike	111361262
+dame's violet	111909269
+damgalnunna	109540477
+daminozide	114732692
+damkina	109540477
+dammar	114919958
+dammar pine	111667757
+dammar resin	114919958
+damn	105148040 200867622 300673178 300673766 400025503
+damnable	300673871
+damnably	400298819
+damnation	107248202 114482041
+damnatory	300928418
+damned	107962076 300673178 301454004 400298819
+damning	300928418
+damocles	110941323
+damoiselle	110008706
+damon	110941631
+damon and pythias	109583555
+damon runyon	111293897
+damosel	110008706
+damourite	114697830
+damozel	110008706
+damp	114559507 200390886 200391231 200574162 202195757 302559590
+damp course	103165894
+damp-proof course	103165894
+dampen	200218382 200390886 200391130 200391231 200391513 200392255 202195757
+dampener	103165682
+dampening	100278884
+damper	101148418 103166116 103166391
+damper block	103166559
+damping off	114303653
+damping off fungus	113003350
+dampish	302559590
+damply	400298995
+dampness	114559507
+damsel	110008706
+damselfish	102609014
+damselfly	102271505
+damson	107767713
+damson plum	107767713 112660671 112794677
+damson plum tree	112660671
+dana	109531941
+danaea	113236697
+danaid	102282289
+danaid butterfly	102282289
+danaidae	102282094
+danau	109285993
+danaus	102282471
+danaus plexippus	102282624
+dance	100429255 107033652 107463317 108270062 201712535 201898642 202103353
+dance band	108266881
+dance floor	103166746
+dance hall	102786347
+dance lesson	100891360
+dance master	110010315
+dance music	107068473 107074737
+dance of death	100543186
+dance orchestra	108266881
+dance palace	102786347
+dance school	108428440
+dance step	100534959
+danceable	302027018
+dancer	110009040 110009953
+danceroom music	107074737
+dancing	100429255
+dancing lady orchid	112094909
+dancing partner	110010442
+dancing school	108295743
+dancing-master	110010315
+dandelion	112044645
+dandelion green	107749193 112045159
+dander	107533239 109285704
+dandie dinmont	102099089
+dandie dinmont terrier	102099089
+dandified	300853318
+dandify	200051659
+dandily	400505761
+dandle	201214145 201869712
+dandle board	104174820
+dandruff	109285861 114254689
+dandy	104619730 110010564 301127641
+dandy fever	114153266
+dandyish	300853318
+dandyism	104918025
+dane	109719038
+danewort	112699784
+dangaleat	106998233
+danger	100803899 108661788 114564367 114564646
+danger line	108661902
+danger zone	108707611
+dangerous	300654061 302066198
+dangerous undertaking	100797976
+dangerously	400090716
+dangerousness	104863691
+dangla	106998233
+dangle	201484915 202723347
+dangle-berry	112257494
+dangleberry	112257494
+dangling	101019643
+dangling modifier	106334815
+dangling participle	106335079
+daniel	106450665 110010823 110941771
+daniel bernoulli	110868237
+daniel boone	110877014
+daniel chester french	111001746
+daniel defoe	110947021
+daniel garrison brinton	110884024
+daniel hudson burnham	110893092
+daniel jones	111110126
+daniel morgan	111210582
+daniel ortega	111237172
+daniel ortega saavedra	111237172
+daniel patrick moynihan	111214195
+daniel rutherford	111296539
+daniel webster	111399212
+danish	106966788 107709335 302971884
+danish blue	107868428
+danish capital	108779701
+danish krone	113704845
+danish monetary unit	113704736
+danish pastry	107709335
+dank	302559389
+dankness	114559687
+danmark	108779077
+dano-norwegian	106967201
+danse du ventre	100531591
+danse macabre	100543186
+danseur	110010944
+danseur noble	110010944
+danseuse	109853980
+dante	110941991
+dante alighieri	110941991
+dante gabriel rossetti	111291553
+dantean	303041878
+dantesque	303041878
+danton	110942253
+danton true young	111423452
+danu	109531941
+danube	109285993
+danube river	109285993
+danzig	109006112
+daoism	105986207
+daphne	109573407 112367095
+daphne cneorum	112367330
+daphne du maurier	110965255
+daphne family	112366696
+daphne laureola	112367503
+daphne mezereum	112367675
+daphnia	101997564
+dapper	300975112
+dapperness	104821256
+dapple	104689819 200511445
+dapple-gray	104969572
+dapple-grey	104969572
+dappled	301792782
+dappled-gray	104969572
+dappled-grey	104969572
+dapsang	109345607
+dapsone	103166837
+dar al-harb	109201493
+dar al-islam	109201378
+dar es salaam	109057442
+daraf	113659467
+dard	106984971
+dardan	109769855
+dardanelles	101279781 109063846
+dardanelles campaign	101279781
+dardanian	109769855
+dardanus	109517411
+dardic	106984971
+dardic language	106984971
+dare	107246192 200869761 202380015 202550742
+daredevil	110011068 300251349
+daredevilry	104866554
+daredeviltry	104866554
+darfur	109052254
+dari	106986943
+dari persian	106986943
+daricon	103874900
+darier's disease	114252194
+daring	104866016 107246192 300066755 301691548
+daringly	400305811 400305947
+darius i	110942524
+darius iii	110942720
+darius milhaud	111199114
+darius the great	110942524
+darjeeling	107951040
+dark	105997383 108663881 114007000 114587156 115192074 300036876 300246056 300273948 300365961 300410517 300536470 300887743 301135435 301140878 302096028
+dark adaptation	100194471
+dark ages	115284095
+dark blue	104976880
+dark bread	107698061
+dark chocolate	107619331
+dark comedy	107029212
+dark field illumination	100646865
+dark glasses	104363134
+dark ground illumination	100646865
+dark horse	102388232 110011278
+dark lantern	103166963
+dark matter	114606400
+dark meat	107666246
+dark red	104970917
+dark-blue	300375539
+dark-brown	300373173
+dark-coated	300215108
+dark-colored	300398375
+dark-coloured	300398375
+dark-eyed junco	101537223
+dark-field microscope	104513983
+dark-fruited	301084951
+dark-gray	300391786
+dark-green	300377031
+dark-grey	300391786
+dark-haired	300215108 300246175
+dark-skinned	300246314
+dark-spotted	301792878
+darken	200312341 200313162 201540617
+darkened	300275564 301649594
+darkening	100275281 300275699
+darkish	300410745
+darkling	300275837 300275972
+darkling beetle	102183887
+darkling groung beetle	102183887
+darkly	400207471 400207598
+darkness	104985483 104987119 105997383 108663881 114007000 114587156
+darkroom	103167126
+darling	109286385 110011405 301465246
+darling pea	111772234
+darling river	109286385
+darlingtonia	112801612
+darlingtonia californica	112801767
+darmera	112817973
+darmera peltata	112818128
+darmstadtium	114660570
+darn	103750776 105148040 201333358
+darned	300673178
+darnel	112145700
+darner	110011676
+darning	100268061
+darning needle	102271095 103167222
+darpa	108149028
+darrow	110942898
+darryl francis zanuck	111424967
+darryl zanuck	111424967
+darsana	106248172
+dart	100335182 103167380 103167484 201903701 201903884 202065423
+dart board	103167606
+dart player	110011776
+dart thrower	104437292
+dartboard	103167606
+darter	101317401 102057156
+dartmouth	103167747
+dartmouth college	103167747
+darts	100505220
+darvon	104019228
+darwin	108854050 110943065
+darwin tulip	112475454
+darwinian	110011869 303025063
+darwinism	106119698
+daryacheh-ye orumiyeh	109356612
+das	102375236
+das kapital	107297634
+dash	100295296 100557020 104820120 106818820 106856198 107484183 200184522 200336733 201510039 201789567 202065423 202564529
+dash down	201022603
+dash off	201022603 201704514
+dash-pot	103168154
+dashboard	103167888 104288513
+dashed	300291349
+dasheen	107752789 111807008 111807312
+dashiell hammett	111046812
+dashiki	103168047
+dashing	300975112 302287356
+dashing hopes	100069575
+dashingly	400306058
+dasht-e-kavir	109191935
+dasht-e-lut	109192085
+dassie	102375236
+dastard	110011967 300266631
+dastardliness	104868452
+dastardly	300266631
+dasyatidae	101500519
+dasyatis	101500909
+dasyatis centroura	101501047
+dasymeter	103168315
+dasypodidae	102456750
+dasyprocta	102368500
+dasyprocta aguti	102368654
+dasyproctidae	102368324
+dasypus	102457288
+dasypus novemcinctus	102457425
+dasyure	101886561
+dasyurid	101886154
+dasyurid marsupial	101886154
+dasyuridae	101885853
+dasyurus	101886403
+dasyurus quoll	101886745
+dasyurus viverrinus	101886844
+dat	103200643
+data	108479331
+data communication	106289483
+data conversion	105811103
+data converter	103168464
+data encryption	100618047
+data file	106520807
+data format	106649331
+data formatting	106649331
+data hierarchy	108394911
+data input device	103168639
+data link	103679596
+data mining	113476407
+data multiplexer	103168858
+data point	105824748
+data processing	113476660
+data processor	103086983
+data rate	115301945
+data structure	105736438
+data system	103169010
+data track	104471446
+data-based	300863136
+data-storage medium	106274415
+database	106650349
+database management	101136254
+database management system	106601066
+datable	300684686
+date	107781049 108401740 110012076 115145165 115184543 115184779 115185626 200620873 200736950 200737394 202491462 202491850
+date back	202729826
+date bar	107653648
+date bread	107700776
+date from	202729826
+date line	108617348
+date of reference	115321930
+date palm	112614755
+date plum	112792650
+date rape	100775170
+date stamp	200737394
+date-mark	200737229
+date-nut bread	107700863
+dateable	300684686
+dated	300977595
+dateless	300354532 300684950 300685054 301011536
+dateline	106360400 108617348 200737229
+datemark	200737229
+dating	100994417
+dative	106322713
+dative bond	111458071
+dative case	106322713
+datril	102677336
+datum	105824748
+datura	112924010
+datura arborea	112920297
+datura sanguinea	112920731
+datura stramonium	112924263
+datura suaveolens	112920512
+daub	103169198 104701789 114852853 201235951 201315909 201363602
+daubentonia	102500614
+daubentonia madagascariensis	102500784
+daubentoniidae	102500463
+dauber	110012284
+daubing	100720067
+daucus	112957759
+daucus carota	112957890
+daucus carota sativa	112958148
+daugavpils	109036094
+daughter	110012375
+daughter cell	111709021
+daughter-in-law	110012578
+daughterly	301727063
+daumier	110943273
+daunt	201789567
+daunted	300534367
+daunting	300870828
+dauntingly	400299197
+dauntless	300250985
+dauntlessly	400201116
+dauntlessness	104865320
+dauphin	110012660
+davalia bullata	113209665
+davalia bullata mariesii	113209665
+davallia	113208994
+davallia canariensis	113209360
+davallia mariesii	113209665
+davallia pyxidata	113209517
+davalliaceae	113208502
+davenport	103169271 103169388 109109186
+david	110943452 110943824 110943983
+david alfaro siqueiros	111322957
+david barnard steinman	111335374
+david ben gurion	110864401
+david bruce	110887295
+david bushnell	110895912
+david crockett	110935318
+david garrick	111011411
+david glasgow farragut	110986974
+david grun	110864401
+david hartley	111052999
+david herbert lawrence	111140136
+david hilbert	111069830
+david hubel	111083939
+david hume	111086420
+david john moore cornwell	111142815
+david lewelyn wark griffith	111036370
+david livingstone	111155787
+david low	111162145
+david mamet	111173084
+david o. selznick	111312197
+david oliver selznick	111312197
+david ricardo	111279447
+david riesman	111282330
+david riesman jr.	111282330
+david rittenhouse	111283327
+david roland smith	111326170
+david sarnoff	111301985
+david siqueiros	111322957
+david smith	111326170
+davidson's penstemon	112906716
+daviesia	112545449
+davis	110944099 110944204 110944401 110944580 110944739 110945154
+davis cup	103169475
+davis' birthday	115214519
+davit	103169595
+davy	110944884
+davy crockett	110935318
+davy jones	109399438
+davy jones's locker	109399438
+davy lamp	104133953
+davy's gray	114947198
+davy's grey	114947198
+davys	110945154
+daw	101582219
+dawah	100732434
+dawdle	202001894 202015537 202062514
+dawdler	110012790
+dawdling	101069743
+dawes	110945336
+dawn	107340708 115193837 115292774 200529916 200593150 202615649
+dawn horse	102378514
+dawn redwood	111660583
+dawning	115193837
+dawson	108849248
+dawson river salmon	102547784
+dawson's encephalitis	114367594
+day	110945524 114508100 115148032 115161405 115180180 115182185 115190004 115233129 115233336 115274047
+day after day	400179412
+day bed	104351951
+day blindness	114577937
+day boarder	110013189
+day book	106514849
+day by day	400179304
+day camp	103170009
+day care	101212929
+day care center	103170132
+day game	100457489
+day in and day out	400158123
+day in day out	400179412
+day jessamine	112923226
+day laborer	110013938
+day labourer	110013938
+day lily	112477350 112478276
+day nursery	103170132
+day of atonement	115210306
+day of judgement	115196354
+day of judgment	115196354
+day of reckoning	107348806 115196354
+day of remembrance	115274610
+day of rest	115161999
+day of the month	115184543
+day of the week	115188052
+day off	115162508
+day return	106532083
+day school	103170282 108428542 108428806
+day shift	108235513 115317965
+day watch	108235513
+day-after-day	301975230
+day-and-night	300597829
+day-by-day	301975230
+day-old	301073363
+day-to-day	301975230
+dayan	110945691
+daybed	103006315 103169762
+daybook	103169877 113426339
+dayboy	110013360
+daybreak	115193837
+daycare	101212929
+daydream	105777468 201641175 202423305
+daydreamer	110013439
+daydreaming	105777468
+dayflower	112627306
+dayfly	102265101
+daygirl	110013857
+daylight	111464134 115190004
+daylight saving	115141831
+daylight savings	115141831
+daylight vision	105665011
+daylight-saving time	115141831
+daylight-savings time	115141831
+daylily	112477350
+daylong	301441946 400306173
+daypro	103873193
+days	115166019
+dayspring	115193837
+daystar	109382368
+daytime	115190004
+dayton	109153885
+dayton ax	103081446
+dayton axe	103081446
+daytona beach	109095116
+daze	105692366 107525864 202119913 202166865
+dazed	300438360 300879271
+dazedly	400299316
+dazzle	104959998 200727008 202166865
+dazzled	300438635 302167027
+dazzling	300281710 301286879
+dazzlingly	400082389
+db	113735738 114660701
+dba	106345523
+dbms	106601066
+dc	109092985 111467249
+dccp	108319178
+dci	110035352
+dd	106715877
+ddc	103195447
+ddi	103195581
+dds	106715765
+ddt	114624118
+de	109092353
+de bakey	110945990
+de broglie	110884916
+de facto	300697192 400060735
+de facto segregation	108396361
+de forest	110947175
+de gaulle	110947575
+de jure	300697410 400253289
+de jure segregation	108396513
+de kooning	110948050
+de l'orme	110949188
+de la mare	110948396
+de luxe	300853459
+de mille	110949637
+de niro	110950664
+de novo	400113930
+de quincey	110950918
+de rigueur	300852103
+de sade	111298110
+de saussure	110951385
+de sica	110951891
+de spinoza	111331445
+de valera	110951995
+de vries	110952246
+de-access	202252557
+de-aerate	202368971
+de-emphasise	200515811
+de-emphasize	200515811
+de-energise	200023237
+de-energize	200023237
+de-escalate	200291502 200291745
+de-escalation	100356078
+de-ice	200377478
+de-iodinase	114853243
+de-iodinate	200522113
+de-iodinating	301234978
+de-iodination	113482066
+de-ionate	200521840
+de-nazification	113482925
+de-stalinisation	113484859
+de-stalinization	113484859
+dea	108158374
+deaccession	202248749
+deacon	110014058 110014211
+deaconess	110014346
+deactivate	200191849 200192060
+deactivation	100234481 100234662

@@ -1,0 +1,1000 @@
+105838851	(law) a broad legal concept including anything that disturbs the reasonable use of your property or endangers life and health or is offensive
+105839156	a nuisance that can remedied (suppressed or extinguished or rendered harmless)
+105839381	anything on your premises that might attract children into danger or harm
+105839594	a nuisance that is both a public nuisance and a private nuisance at the same time
+105839736	a nuisance that interferes with your interest in and private use and enjoyment of your land
+105839890	a nuisance that unreasonably interferes with a right that is common to the general public
+105840108	something that causes irritation and annoyance
+105840263	an annoyance
+105840437	any negative stimulus to which an organism will learn to make a response that avoids it
+105840588	something or someone that causes anxiety; a source of unhappiness
+105840945	a source of concern
+105841069	an onerous or difficult concern
+105841346	a rightful concern or responsibility
+105841493	an oppressive encumbrance
+105841576	a burden (figuratively in the form of a bundle)
+105841695	an uncalled-for burden
+105841835	something unpleasant or offensive that must be tolerated or endured
+105842007	something that causes great unhappiness
+105842164	the content of cognition; the main thing you are thinking about
+105842891	arousal of the mind to special unusual activity or creativity
+105843082	anything that provides inspiration for later work
+105843270	something that provides an important central source for growth or development
+105843486	the source of an artist's inspiration
+105843616	a condition that is the inspiration for an activity or situation
+105843773	a strong creative impulse; divine inspiration
+105843892	a carefully considered thought about something
+105844071	an abstract or general idea inferred or derived from specific instances
+105844599	an elaborated concept
+105844792	a way of conceiving something
+105844922	a general inclusive concept
+105845038	a traditional notion that is obstinately held although it is unreasonable
+105845245	an idea that preoccupies the mind and holds the attention
+105845452	preoccupation with yourself to the exclusion of everything else
+105845595	a plan or design of something that is laid out
+105845694	something (often something deceptively attractive) that catches you unawares
+105845975	a trap from which there is no escape
+105846067	a trap arranged on a roadway for catching speeders
+105846174	a personal view
+105846299	an individual's idea as assessment of his or her own body
+105846466	an opinion formed by judging something
+105846685	a position or opinion or judgment reached after consideration
+105847039	a mental determination or resolve in advance; an antecedent intention to do something
+105847274	a general concept that marks divisions or coordinations in a conceptual scheme
+105847533	a category of things distinguished by some common characteristic or quality
+105848056	a special type
+105848172	a specific (often simplistic) category
+105848285	category name
+105848419	a general category of things; used in the expression in the way of'
+105848585	sort or variety
+105848697	a subdivision of a particular kind of thing
+105848940	a particular type of thing
+105849159	something a little different from others of the same type
+105849538	an opposite or contrasting type
+105849678	(architecture) a form of artistic expression (such as writing or painting or architecture)
+105849878	architecture as a kind of art form
+105850151	a German style of architecture begun by Walter Gropius in 1918
+105850267	the style of architecture developed in the Byzantine Empire developed after the 5th century; massive domes with square bases and round arches and spires and much use of mosaics
+105850512	architecture influenced by the ancient Greeks or Romans
+105850718	the architecture of ancient Greece
+105850817	the architecture of ancient Rome
+105850914	a style of architecture developed in northern France that spread throughout Europe between the 12th and 16th centuries; characterized by slender vertical piers and counterbalancing buttresses and by vaulting and pointed arches
+105851233	a style of architecture developed in Italy and western Europe between the Roman and the Gothic styles after 1000 AD; characterized by round arches and vaults and by the substitution of piers for columns and profuse ornament and arcades
+105851569	a Romanesque style first appearing in Normandy around 950 AD and used in Britain from the Norman Conquest until the 12th century
+105851763	a Gothic style in 14th and 15th century England; characterized by vertical lines and a four-centered (Tudor) arch and fan vaulting
+105852040	a style of English-Gothic architecture popular during the Tudor period; characterized by half-timbered houses
+105852214	a style of architecture common in Spain from the 13th to 16th centuries; characterized by horseshoe-shaped arches
+105852422	a style of architecture used in Britain during the reign of Queen Victoria; characterized by massive construction and elaborate ornamentation
+105852632	a particular kind (as to appearance)
+105852809	(physics) the six kinds of quarks
+105852960	(physics) one of the six flavors of quark
+105853072	(physics) one of the six flavors of quark
+105853190	(physics) the characteristic of quarks that determines their role in the strong interaction
+105853408	a specific kind of something
+105853540	a general kind of something
+105853667	a recognizable kind
+105853859	a kind of literary or artistic work
+105853946	a kind of person
+105854089	a kind
+105854179	a type of product
+105854276	a kind or category
+105854415	a similar kind
+105854581	a principle or condition that customarily governs behavior
+105854882	a principle that limits the extent of something
+105855153	a restriction of range or scope
+105855459	(mathematics) a standard procedure for solving a class of mathematical problems
+105855847	a rule that describes how other rules should be used (as in AI)
+105855965	a precise rule (or set of rules) specifying how to solve some problem
+105856185	an algorithm for sorting a list
+105856280	an algorithm for removing inflectional and derivational endings in order to reduce word forms to a common stem
+105856483	a commonsense rule (or set of rules) intended to increase the probability of solving some problem
+105856709	a heuristic for solving problems; you try to look at the problem from many angles instead of tackling it head-on
+105856884	(mathematics) an expression such that each term is generated by repeating a particular mathematical operation
+105857068	a rule or principle that provides guidance to appropriate behavior
+105857218	a rule that when literal compliance is impossible the intention of a donor or testator should be carried out as nearly as possible
+105857439	a rule that is adequate to permit work to be done
+105857567	a construct whereby objects or individuals can be distinguished
+105857811	a characteristic property that defines the apparent individual nature of something
+105858194	the essential quality of something
+105858316	a prominent attribute or aspect of something
+105858739	(linguistics) a distinctive characteristic of a linguistic unit that serves to distinguish it from other units of the same kind
+105858959	a feature (quantity or property or function) that remains unchanged when a particular transformation is applied to it
+105859151	a distinct feature or element in a problem
+105859350	a characteristic that provides pleasure and attracts
+105859658	any feature that is regarded as a sign of status (a particular power or quality or rank)
+105859857	the central or most important feature
+105860082	a feature (or the order or arrangement of features) of anything having a complex structure
+105860309	an outstanding feature; something in which something or someone excels
+105860572	outward features
+105860690	an odd or unusual characteristic
+105860852	a distinguishing characteristic or behavior
+105860995	feature of an artifact that is added to insure a user's safety
+105861118	an aspect of something (as contrasted with some other implied aspect)
+105861384	a negative aspect of something that is generally positive
+105861538	one of two sides of an issue
+105861665	a particular aspect of life or activity
+105861838	a specialized sphere of knowledge
+105862014	a superficial aspect as opposed to the real nature of something
+105862201	a general interest that leads people to want to know more
+105862385	a characteristic that attracts tourists
+105862489	anything that serves by contrast to call attention to another thing's good qualities
+105862715	a concept or idea not associated with any specific instance
+105863039	something that is conceived or that exists independently and not in relation to other things; something that does not depend on anything else and is beyond human control; something that is not relative
+105863377	a personified abstraction that teaches
+105863569	a special abstraction
+105863690	the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable
+105864101	(physics) the smallest discrete quantity of some physical property that a system can possess (according to quantum theory)
+105864332	a discrete amount of something that is analogous to the quantities in quantum theory
+105864488	any distinct quantity contained in a polynomial
+105864650	a quantity expressed as a number
+105864801	the point on a scale from which positive or negative numerical quantities can be measured
+105864972	a numerical quantity measured or assigned or computed
+105865173	(mathematics) any number such that a given square matrix minus that number times the identity matrix has a zero determinant
+105865451	a value on some scale of measurement
+105865563	an intermediate scale value regarded as normal or usual
+105865749	the total number of voters who participated
+105865930	a quantity upon which a mathematical operation is performed
+105866043	a quantity that can assume any of a set of values
+105866365	a variable in a logical or mathematical expression whose value determines the dependent variable; if f(x)=y, x is the independent variable
+105866558	the number of arguments that a function can take
+105866677	(statistics) a variable whose values are independent of changes in the values of other variables
+105866901	an independent variable in statistics
+105866991	either of two or more related or complementary variables
+105867135	(statistics) an unrestricted variable in a frequency distribution
+105867283	(statistics) a variable in a logical or mathematical expression whose value depends on the independent variable
+105867520	a quantity that does not vary
+105867655	a constant in the equation of a curve that can be varied to yield a family of similar curves
+105867861	a quantity (such as the mean or variance) that characterizes a statistical population and that can be estimated by calculations from sample data
+105868061	one of the minimum number of parameters needed to describe the state of a physical system
+105868214	a quantity obtained by multiplication
+105868395	the product of all the integers up to and including a given integer
+105868575	the product of a quantity by an integer
+105868784	a quantity that is twice as great as another
+105868961	a quantity that is three times as great as another
+105869082	a quantity that is four times as great as another
+105869223	the smallest multiple that is exactly divisible by every member of a set of numbers
+105869453	the sum of the sums of several groups of numbers
+105869559	the sum of part of a group of numbers
+105869651	a quantity obtained by the addition of a group of numbers
+105869901	the highest power of a term or variable
+105870047	the sum of the exponents of the variables in the term
+105870163	the degree of the term in the polynomial that has the highest degree
+105870300	a degree of one
+105870439	a mathematical function that is the sum of a number of terms
+105870697	a polynomial of the fourth degree
+105870852	a polynomial consisting of terms all of the same degree
+105870994	a polynomial in one variable
+105871085	a polynomial of the second degree
+105871197	a homogeneous polynomial having at least two variables
+105871305	(mathematics) the sum of a finite or infinite sequence of expressions
+105871554	the sum of terms containing successively higher integral powers of a variable
+105871690	the approach of an infinite series to a finite limit
+105871886	an infinite series that has no limit
+105872064	a geometric progression written as a sum
+105872167	the sum of a series of trigonometric expressions; used in the analysis of periodic functions
+105872320	a variable that can be used to predict the value of another variable (as in statistical regression)
+105872503	one of the quantities in a mathematical proportion
+105872631	(mathematics) a variable that has zero as its limit
+105872761	a variable quantity that is random
+105872935	a variable quantity that cannot be resolved into components
+105873065	a generalization of the concept of a vector
+105873161	a variable quantity that can be resolved into components
+105873342	a vector that is the product of two other vectors
+105873468	a real number (a scalar) that is the product of two vectors
+105873618	a vector that is the sum of two or more other vectors
+105873758	a line connecting a point in space to the origin of a polar coordinate system
+105873895	a line connecting a satellite to the center of the body around which it is rotating
+105874038	the essential factor; the all-important element; the supreme aim
+105874236	a component or element of the plot of a story
+105874358	(film) a plot element that catches the viewers' attention or drives the plot
+105874582	a geometric element that has position but no extension
+105874783	(physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting conditions of the system
+105875073	an attractor for which the approach to its final point in phase space is chaotic
+105875237	a point where lines intersect
+105875406	(shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship
+105875905	the point of intersection of lines or the point opposite the base of a figure
+105876035	one of the portions into which something is regarded as divided and which together constitute a whole
+105876673	the first part or section of something
+105876894	an intermediate part or section
+105877099	a final part or section
+105877401	the most enjoyable part of a given experience
+105877576	an abstract part of something
+105878029	an influence that works subtly to lighten or modify something
+105878206	all of something including all its component elements or parts
+105878479	a single undivided whole
+105878677	a single person or thing
+105878802	a whole formed by a union of two or more elements or parts
+105878987	a conceptual whole made up of complicated and related parts
+105879237	a composite of mixed origin
+105879412	a complex of concurrent things
+105879538	a rule or body of rules of conduct inherent in human nature and essential to or binding upon human society
+105879762	a law that is believed to come directly from God
+105879867	a guiding principle
+105879984	principles from which other truths can be derived
+105880240	the principles that guide reasoning within a given field or situation
+105880414	(psychoanalysis) the governing principle of the id; the principle that an infant seeks gratification and fails to distinguish fantasy from reality
+105880720	(psychoanalysis) the governing principle of the ego; the principle that as a child grows it becomes aware of the real environment and the need to accommodate to it
+105880984	the principle of revolt against constituted authority
+105881099	a basic truth or law or assumption
+105881364	the elementary stages of any subject (usually plural)
+105881589	a generalization that describes recurring facts or events in nature
+105882491	a concept that is expressed by a word (in some particular language)
+105882624	(neurophysiology) a nerve impulse resulting from a weak stimulus is just as strong as a nerve impulse resulting from a strong stimulus
+105882839	a rule or law concerning a natural phenomenon or the function of a complex system
+105883323	(hydrostatics) the apparent loss in weight of a body immersed in a fluid is equal to the weight of the displaced fluid
+105883548	the principle that equal volumes of all gases (given the same temperature and pressure) contain equal numbers of molecules
+105883755	(statistics) law stating that a large number of items taken at random from a population will (on the average) have the population statistics
+105883999	a law used by auditors to identify fictitious populations of numbers; applies to any population of numbers derived from other numbers
+105884330	(physics) statistical law obeyed by a system of particles whose wave function is not changed when two particles are interchanged (the Pauli exclusion principle does not apply)
+105884595	the pressure of an ideal gas at constant temperature varies inversely with the volume
+105884755	a fundamental principle of electrostatics; the force of attraction or repulsion between two charged particles is directly proportional to the product of the charges and inversely proportional to the distance between them; principle also holds for magnetic poles
+105885076	(chemistry and physics) law stating that the pressure exerted by a mixture of gases equals the sum of the partial pressures of the gases in the mixture; the pressure of a gas in a mixture equals the pressure it would exert if it occupied the same volume alone at the same temperature
+105885519	(chemistry) the total energy in an assembly of molecules is not distributed equally but is distributed around an average value according to a statistical distribution
+105885785	(physics) a law expressing the distribution of energy among the molecules of a gas in thermal equilibrium
+105886019	(chemistry) the principle that (at chemical equilibrium) in a reversible reaction the ratio of the rate of the forward reaction to the rate of the reverse reaction is a constant for that reaction
+105886325	(psychophysics) the concept that the magnitude of a subjective sensation increases proportional to the logarithm of the stimulus intensity; based on early work by E. H. Weber
+105886598	(physics) law obeyed by a systems of particles whose wave function changes when two particles are interchanged (the Pauli exclusion principle applies)
+105886836	(physics) the density of an ideal gas at constant pressure varies inversely with the temperature
+105887047	a principle of Gestalt psychology that identifies factors leading to particular forms of perceptual organization
+105887378	(chemistry) law formulated by the English chemist William Henry; the amount of a gas that will be absorbed by water increases as the gas pressure increases
+105887610	(physics) the principle that (within the elastic limit) the stress applied to a solid is proportional to the strain produced
+105887811	(astronomy) the generalization that the speed of recession of distant galaxies (the red shift) is proportional to their distance from the observer
+105888048	(astronomy) one of three empirical laws of planetary motion stated by Johannes Kepler
+105888300	a law stating that the orbit of each planet is an ellipse with the sun at one focus of the ellipse
+105888463	a law concerning the speed at which planets travel; a line connecting a planet to the sun will sweep out equal areas in equal times
+105888794	a law stating that the ratio of the square of the revolutionary period (in years) to the cube of the orbital axis (in astronomical units) is the same for all planets
+105889039	(physics) two laws governing electric networks in which steady currents flow: the sum of all the currents at a point is zero and the sum of the voltage gains and drops around any closed circuit is zero
+105889322	a law affirming that in the long run probabilities will determine performance
+105889461	(chemistry) law stating that every pure substance always contains the same elements combined in the same proportions by weight
+105889709	a law affirming that to continue after a certain level of performance has been reached will result in a decline in effectiveness
+105889910	(psychology) the principle that behaviors are selected by their consequences; behavior having good consequences tends to be repeated whereas behavior that leads to bad consequences is not repeated
+105890185	(chemistry) law stating that the proportions in which two elements separately combine with a third element are also the proportions in which they combine together
+105890474	(physics) the law that states any two bodies attract each other with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them
+105890833	(chemistry) law stating that when two elements can combine to form more than one compound the amounts of one of them that combines with a fixed amount of the other will exhibit a simple multiple relation
+105891144	(chemistry) the law that states the following principle: the rate of a chemical reaction is directly proportional to the molecular concentrations of the reacting substances
+105891400	(physics) a law governing the relations between states of energy in a closed system
+105891642	a law stating that mechanical work can be derived from a body only when that body interacts with another at a lower temperature; any spontaneous process results in an increase of entropy
+105891903	law stating that the entropy of a substance approaches zero as its temperature approaches absolute zero
+105892080	the law that if two bodies are in thermal equilibrium with a third body then the first two bodies are in thermal equilibrium with each other
+105892295	the principle that if any change is imposed on a system that is in equilibrium then the system tends to adjust to a new equilibrium counteracting the change
+105892599	(economics) the principle that when two kinds of money having the same denominational value are in circulation the intrinsically more valuable money will be hoarded and the money of lower intrinsic value will circulate more freely until the intrinsically more valuable money is driven out of circulation; bad money drives out good; credited to Sir Thomas Gresham
+105893040	(genetics) one of two principles of heredity formulated by Gregor Mendel on the basis of his experiments with plants; the principles were limited and modified by subsequent genetic research
+105893343	members of a pair of homologous chromosomes separate during the formation of gametes and are distributed to different gametes so that every gamete receives only one member of the pair
+105893591	each member of a pair of homologous chromosomes separates independently of the members of other pairs so the results are random
+105893794	(physics) the principle that a measured quantity of mass is equivalent (according to relativity theory) to a measured quantity of energy
+105894019	rule for calculating an expected delivery date; subtract three months from the first day of the last menstrual period and add seven days to that date
+105894229	one of three basic laws of classical mechanics
+105894429	a body remains at rest or in motion with a constant velocity unless acted upon by an external force
+105894646	the rate of change of momentum is proportional to the imposed force and goes in the direction of the force
+105894873	action and reaction are equal and opposite
+105895062	electric current is directly proportional to voltage and inversely proportional to resistance; I = E/R
+105895220	pressure applied anywhere to a body of fluid causes a force to be transmitted equally in all directions; the force acts at right angles to any surface in contact with the fluid
+105895546	no two electrons or protons or neutrons in a given system can be in states characterized by the same set of quantum numbers
+105895763	(chemistry) the principle that chemical properties of the elements are periodic functions of their atomic numbers
+105895972	(physics) the basis of quantum theory; the energy of electromagnetic waves is contained in indivisible quanta that have to be radiated or absorbed as a whole; the magnitude is proportional to frequency where the constant of proportionality is given by Planck's constant
+105896319	(physics) an equation that expresses the distribution of energy in the radiated spectrum of an ideal black body
+105896518	(cosmology) the theory that the universe originated sometime between 10 billion and 20 billion years ago from the cataclysmic explosion of a small volume of matter at extremely high density and temperature
+105896822	(cosmology) the theory that the solar system evolved from a hot gaseous nebula
+105896984	(cosmology) the theory that the solar system was formed by the gravitational accumulation of planetesimals
+105897179	(cosmology) the theory that the universe maintains a constant average density with matter created to fill the void left by galaxies that are receding from each other
+105897536	a tentative insight into the natural world; a concept that is not yet verified but that if true would explain certain facts or phenomena
+105898182	a hypothetical possibility, circumstance, statement, proposal, situation, etc.
+105898369	the physically discrete element that Darwin proposed as responsible for heredity
+105898503	a concept whose truth can be proved
+105898628	a theoretical sun that moves along the celestial equator at a constant speed and completes its annual course in the same amount of time the real sun takes at variable speeds
+105898856	a hypothetical description of a complex entity or process
+105899249	(astronomy) Copernicus' astronomical model in which the Earth rotates around the sun
+105899416	(astronomy) Ptolemy's model of the universe with the Earth at the center
+105899570	(particle physics) a theory that involves an eleven-dimensional universe in which the weak and strong forces and gravity are unified and to which all the string theories belong
+105899839	(particle physics) a theory that postulates that subatomic particles are one-dimensional strings
+105900033	a listing of audit procedures to be performed in completing an audit
+105900179	a schematic or preliminary plan
+105900390	a hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence)
+105900703	a hypothesis that is taken for granted
+105901034	something that is required in advance
+105901258	required activity
+105901487	a condition that is a prerequisite
+105901598	a requirement for admission to or completion of an academic program
+105901750	a requirement that a student know certain languages
+105901868	a prerequisite
+105901963	an assumption that is taken for granted
+105902119	an assumption that is basic to an argument
+105902260	an incorrect conception
+105902523	a misconception resulting from incorrect reasoning
+105902750	a fallacy in logical argumentation
+105902918	the logical fallacy of using as a true premise a proposition that is yet to be proved
+105903067	the logical fallacy of supposing that an argument proving an irrelevant point has proved the point at issue
+105903238	the fallacy of attributing human feelings to inanimate objects; the friendly sun' is an example of the pathetic fallacy
+105903421	the logical fallacy of assuming the conclusion in the premises; begging the question
+105903579	the logical fallacy of believing that temporal succession implies a causal relation
+105903745	a deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone
+105903980	an unintentionally invalid argument
+105904072	a misconception resulting from incorrect information
+105904195	a misconception that is favorable to the person who holds it
+105904330	an understanding of something that is not correct
+105904666	something many people believe that is false
+105904986	an impracticable and illusory idea
+105905122	an illusion that misleads
+105905225	the illusion that what you wish for is actually true
+105905340	a mistaken or unfounded opinion or idea
+105905605	(psychiatry) an abnormal absorption with the self; marked by communication disorders and short attention span and inability to treat others as people
+105905862	a rare but serious syndrome of childhood characterized by withdrawal and lack of social responsiveness or interest in others and serious linguistic deficits
+105906160	something existing in perception only
+105906432	an (apparently) flying object whose nature is unknown; especially those considered to have extraterrestrial origins
+105906642	a phantom ship that is said to appear in storms near the Cape of Good Hope
+105906778	a mental representation of some haunting experience
+105907037	a wild delusion (especially one induced by a hallucinogenic drug)
+105907175	a series of steps to be carried out or goals to be accomplished
+105907694	a system of projects or services intended to meet a public need
+105908049	a long-term outline of a project or government function
+105908228	a program of space flights undertaken by US to land a man on the Moon
+105908438	a program of space flights undertaken by US in 1965 and 1966
+105908617	a program of rocket-powered flights undertaken by US between 1961 and 1963 with the goal of putting a man in orbit around the earth
+105908870	a program for defending a country against its enemies
+105909037	a program for providing education
+105909190	a program for restoring someone to good health
+105909323	a technological program intended to explore outer space
+105909495	the federal government's program to locate and investigate and clean up the worst uncontrolled and abandoned toxic waste sites nationwide; administered by the Environmental Protection Agency
+105909855	a program of rehabilitation through job training with an eye to gainful employment
+105910017	a program for setting taxes
+105910115	a plan of action adopted by an individual or social group
+105910447	a policy of taking direct action to achieve a political or social goal
+105910608	a policy of promoting oneself at the expense of others; used especially of national policy
+105910921	something intended as a guide for making something else
+105911139	a plan for actively doing something
+105911380	plan for conducting a battle
+105911466	a procedure or process for obtaining an objective
+105911706	a system for allowing people to purchase things on credit
+105911823	a system for interpreting and enforcing the laws
+105912039	the legal system that allows an accused person to be temporarily released from custody (usually on condition that a sum of money guarantees their appearance at trial)
+105912332	a legal system for determining the facts at issue in a law suit
+105912472	a legal system for protecting the rights of inventors
+105912604	a legal system for assessing and collecting taxes
+105912729	a legal system for making democratic choices
+105912907	based on the principle of having only one member (as of a legislature) selected from each electoral district
+105913210	based on the principle of proportional representation; voters choose between party lists, the number elected from each list being determined by the percentage cast for each list out of the total vote
+105913512	a system for setting prices on goods or services
+105913621	a system for advancing participants to higher-status positions
+105913746	a plan for attaining a particular goal
+105913942	an elaborate and systematic plan of action
+105914300	a proposed route of travel
+105914396	an elaborate or deceitful scheme contrived to deceive or evade
+105914674	something planted secretly for discovery by another
+105914899	an illegal scheme for making money by manipulating stock prices; the schemer persuades other people to buy the stock and then sells it himself as soon as the price of the stock rises
+105915148	an instance of accomplishing something by scheming or trickery
+105915328	a strategy intended to prevent or counter terrorism
+105915461	(sports) a plan for achieving an objective in some sport
+105915592	(figurative) a carefully thought out strategy for achieving an objective in war or politics or business or personal affairs
+105915845	a speculative scheme that depends on unstable factors that the planner cannot control
+105916073	a scheme or set of strategies for conducting a business campaign or a political campaign
+105916276	a secret scheme to do something (especially something underhand or illegal)
+105916594	a fraudulent scheme in which people are recruited to make payments to the person who recruited them while expecting to receive payments from the persons they recruit; when the number of new recruits fails to sustain the hierarchical payment structure the scheme collapses with most of the participants losing the money they put in
+105916985	a plot intended to subvert another plot
+105917114	a crafty and involved plot to achieve your (usually sinister) ends
+105917321	a derogatory reference to priests who use their influence to control secular or political affairs
+105917476	a plot to carry out some harmful or illegal act (especially a political plot)
+105917691	a conspiracy in 1605 in England to blow up James I and the Houses of Parliament to avenge the persecution of Catholics in England; led by Guy Fawkes
+105917900	a strategy of delay
+105917978	(Briticism) a clever or amusing scheme or trick
+105918179	(medicine) a systematic plan for therapy (often including diet)
+105918324	(education) a program of education in liberal arts and sciences (usually in preparation for higher education)
+105918515	a program designed for training in specific skills
+105918664	a training program in which a person is given information about physiological processes (heart rate or blood pressure) that is not normally available with the goal of gaining conscious control of them
+105918922	a training program to prepare you for employment
+105919047	a planned undertaking
+105919171	a project that generates a continuous flow of money
+105919306	a program of vocational education
+105919404	a program to provide jobs on public works paid for by government funds
+105919534	a temporally organized plan for matters to be attended to
+105919718	an agenda of things to do
+105919849	a plan for setting aside money to be spent after retirement
+105920154	a retirement savings plan that is funded by employee contributions and (often) matching contributions from the employer; contributions are made from your salary before taxes and the funds grow tax-free until they are withdrawn, at which point they can be converted into an IRA; funds can be transferred if you change employers and you can (to some extent) manage the investments yourself
+105920606	a retirement plan that allows you to contribute a limited yearly sum toward your retirement; taxes on the interest earned in the account are deferred
+105920837	a tax-deferred pension plan for employees of unincorporated businesses or for self-employed persons
+105920993	a plan that allows employees to contribute to an investment pool managed the employer
+105921146	a detailed plan or explanation to guide you in setting standards or determining a course of action
+105921408	an organized plan for employees of a company to buy shares of its stock
+105921563	a program under which employees regularly accumulate shares and may ultimately assume control of the company
+105921754	a contrived or fantastic idea
+105921869	an idea or conclusion having general application
+105922132	a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct
+105922436	a fundamental principle or practice
+105922588	(Islam) one of the five religious obligations accepted by all Muslims
+105922828	the first pillar of Islam is an affirmation of faith
+105922953	the second pillar of Islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward Mecca
+105923185	the third pillar of Islam is fasting (primarily during the month of Ramadan); Muslims abstain from food and drink and gambling and all sensuous pleasures from sunrise to sunset during Ramadan
+105923445	the fourth pillar of Islam is almsgiving as an act of worship
+105923628	the fifth pillar of Islam is a pilgrimage to Mecca during the month of Dhu al-Hijja; at least once in a lifetime a Muslim is expected to make a religious journey to Mecca and the Kaaba
+105923950	the bright positive masculine principle in Chinese dualistic cosmology
+105924178	the dark negative feminine principle in Chinese dualistic cosmology
+105924405	rules in Chinese philosophy that govern spatial arrangement and orientation in relation to patterns of yin and yang and the flow of energy (qi); the favorable or unfavorable effects are taken into consideration in designing and siting buildings and graves and furniture
+105924749	an idea that is suggested
+105924900	a slight suggestion or vague understanding
+105925114	a suggestion that is made to a person who is hypnotized that specifies an action he will perform (usually in response to a cue) after he has awakened
+105925333	a vague idea in which some confidence is placed
+105925768	the impression that something is present
+105925922	an idea evoked by some experience
+105926071	an impression (especially one that is artificial or contrived)
+105926269	at the first glimpse or impression
+105926463	an effect that imitates a sound called for in the script of a play
+105926588	an effect used to produce scenes that cannot be achieved by normal techniques (especially on film)
+105926765	a special effect created on the stage
+105926861	an idea accepted as a demonstrable truth
+105926973	(statistics) a theorem describing how the conditional probability of a set of possible causes for a given observed event can be computed from knowledge of the probability of each cause and the conditional probability of the outcome of each cause
+105927298	(statistics) the difficulty of applying Bayes' theorem is that the probabilities of the different causes are seldom known, in which case it may be postulated that they are all equal (sometimes known as postulating the equidistribution of ignorance)
+105927628	an impression that something might be the case
+105927857	the locus of feelings and intuitions
+105928025	the power to foresee the future
+105928143	an odd or fanciful or capricious idea
+105928460	the idea that is intended
+105928753	the central idea that is expanded in a document or discourse
+105928866	a unifying idea that is a recurrent element in literary or artistic work
+105929076	a traditional theme or motif or literary convention
+105929245	the meaning of a word, phrase, sentence, or text
+105929385	a meaning that is not expressly stated but can be inferred
+105929717	the choicest or most essential or most vital part of some idea or experience
+105930317	(plural) the most basic facts or elements
+105930500	(metaphysics) essential nature or underlying reality
+105930646	the essence that makes something the kind of thing it is and makes it different from any other
+105930807	the purest and most concentrated essence of something
+105930937	a critically important or characteristic component
+105931082	the general meaning or substance of an utterance
+105931283	the pervading meaning or tenor
+105931441	a subdued emotional quality underlying an utterance; implicit meaning
+105931581	the most direct or specific meaning of a word or expression; the class of objects that an expression refers to
+105931946	the relation between a word or phrase and the object or idea it refers to
+105932198	an idea that is implied or suggested
+105932328	the idea of something that is perfect; something that one hopes to attain
+105932615	an ideal accepted by some individual or group
+105932797	(psychoanalysis) parental figures (and their values) that you introjected as a child; the voice of conscience is usually a parent's voice internalized
+105933040	something that exists only as an idea
+105933151	an ideal instance; a perfect embodiment of a concept
+105933362	a paragon of excellence
+105933552	the ideal in terms of which something can be judged
+105933809	criteria that designers should meet in designing some system or device
+105933998	something to be imitated
+105934334	an outstanding example of its kind
+105934494	(psychoanalysis) the part of the ego that contains an ideal of personal excellence toward which a person strives
+105934681	a fundamental or central idea
+105934782	an eccentric idea
+105934868	accumulated knowledge or erudition or enlightenment
+105934990	wisdom that is recondite and abstruse and profound
+105935308	a presentation to the mind in the form of an idea or image
+105935801	a representation of an idea in the form of an instance of it
+105935996	a person or thing represented or foreshadowed by an earlier type or symbol; especially a figure or event in the New Testament having a counterpart in the Old Testament
+105936372	a conventional or formulaic conception or image
+105936599	an internal representation of the world; an organization of concepts and actions that can be revised by new information about the world
+105936904	an iconic mental representation
+105937177	a mental image produced by the imagination
+105937299	a mental representation of the meaning or significance of something
+105937519	a new or different meaning
+105937626	a constantly changing medley of real or imagined images (as in a dream)
+105937794	an actor's portrayal of someone in a play
+105938149	a small role
+105938247	a minor female role as a pert flirtatious lady's maid in a comedy
+105938368	a serious (or tragic) role in a play
+105938456	the principal character in a play or movie or novel or poem
+105938566	the role of an innocent artless young woman in a play
+105938673	the role of the character after whom the play is named
+105938796	the mental representation of sexual activities
+105938922	the representation of what is perceived; basic component in the formation of a concept
+105939172	a unitary percept having structure and coherence that is the object of attention and that stands out against a ground
+105939360	a relatively homogeneous percept extending back of the figure on which attention is focused
+105939522	a perceptual structure
+105939938	(mathematics) a geometric pattern that is repeated at every scale and so cannot be represented by classical geometry
+105940127	a configuration or pattern of elements so unified as a whole that it cannot be described merely as a sum of its parts
+105940298	a pattern of regularly spaced horizontal and vertical lines
+105940444	a pattern of small boxes that is used for self-monitoring by patients who have age-related macular degeneration
+105940613	a complex pattern of constantly changing colors and shapes
+105940766	a pattern resembling a mosaic
+105940848	a pattern forming a unity within a larger structural whole
+105941068	the form of a movement, which consists of exposition and development and recapitulation
+105941213	a percept that arises from the eyes; an image in the visual system
+105941445	visual images that are pleasing to see but are intellectually undemanding
+105941627	the area that is visible (as through an optical instrument)
+105941790	an instance of visual perception
+105941982	the visual percept of a region
+105942374	all of the points of the physical environment that can be perceived by a stable eye at a given moment
+105942570	the part of a scene (or picture) that lies behind objects in the foreground
+105942765	the area within view
+105942859	aspect resulting from the direction a building or window faces
+105943014	the part of a scene that is near the viewer
+105943132	a brief or incomplete view
+105943286	the part of a scene between the foreground and the background
+105943409	a view from the side of something
+105943498	any dramatic scene
+105943570	the areas that is visible through a microscope
+105943680	the area that is open during surgery
+105943778	something that is remembered
+105944010	something recalled to the mind
+105944099	a postulated biochemical change (presumably in neural tissue) that represents a memory
+105944253	(psychiatry) a plausible but imagined memory that fills in gaps in what is remembered
+105944435	an imagined memory of a childhood experience; hides another memory of distressing significance
+105944589	a mental image of something previously experienced
+105944734	a memory image that is similar to a visual perception
+105944848	an image (usually a negative image) that persists after stimulation has ceased
+105945018	an afterimage of a taste
+105945099	a mental image that is similar to a visual perception
+105945279	the combining of images from the two eyes to form a single visual percept
+105945422	a clear and telling mental image
+105945713	a mental image that is similar to an auditory perception
+105945830	a representative form or pattern
+105946135	something that serves as a model or guide
+105946242	a standard or typical example
+105946596	a concentrated example of something
+105946732	(psychoanalysis) an idealized image of someone (usually a parent) formed in childhood
+105946888	the original specimen from which the description of a new species is made
+105947032	a miniature model of something
+105947118	something that serves as a model or a basis for making copies
+105947351	a leading instance in its field
+105947513	a model considered worthy of imitation
+105947694	a model or standard for making comparisons
+105947827	an example that prefigures or foreshadows what is to come
+105947962	an impressive or wonderful example of a particular quality
+105948150	a mental representation
+105948354	an erroneous mental representation
+105948527	the apparent enlargement of a bright object when viewed against a dark background
+105948666	having a three-dimensional form or appearance
+105948808	the illusion that a limb still exists after it has been amputated
+105948932	something illusory and unattainable
+105949020	the outward appearance of a person
+105949132	a hazy or indistinct representation
+105949406	a misconception that is fallacious and not true or valid
+105949587	a representation having no reference to concrete objects or specific examples
+105949755	a representation of an abstract idea in concrete terms
+105949928	a concrete representation of an otherwise nebulous concept
+105950141	any cognitive content held as true
+105950822	the religious belief that God cannot be known but is completely other' and must be described in negative terms (in terms of what God is not)
+105951056	the concept of emptying one's own will and receive God's will, in Catholicism
+105951187	the religious belief that God has given enough clues to be known to humans positively and affirmatively (e.g., God created Adam in his own image')
+105951428	the religious belief that between creature and creator no similarity can be found so great but that the dissimilarity is always greater; any analogy between God and humans will always be inadequate
+105951737	an unshakable belief in something without need for proof or evidence
+105951915	complete confidence in a person or plan etc
+105952149	a belief (or system of beliefs) accepted as authoritative by some group or school
+105953535	any personal belief about how to live or how to deal with a situation
+105953807	belief about (or mental picture of) the future
+105954076	a belief in the magical power of fetishes (or the worship of a fetish)
+105954232	the belief that all human characteristics are determined genetically
+105954357	the belief that the world can be made better by human effort
+105954491	a personal belief or judgment that is not founded on proof or certainty
+105954938	belief that a work of art is an end in itself or its own justification
+105955083	the belief that the United States Constitution should be interpreted in the way the authors originally intended it
+105955255	the belief that all international disputes can be settled by arbitration
+105955431	the belief or doctrine of predestinarians
+105955536	a strong belief in a supernatural power or powers that control human destiny
+105957131	a system of religious beliefs and rituals
+105957404	a religion or sect that is generally considered to be unorthodox, extremist, or false
+105957583	religion appropriate to a church and to ecclesiastical principles and practices
+105957724	a religion based on mystical communion with an ultimate reality
+105957955	a form of religious mysticism requiring withdrawal from all human effort and passive contemplation of God
+105958133	Islamic mysticism
+105958203	a system of religion that deifies and worships natural forces and phenomena
+105958339	a religion founded primarily on the revelations of God to humankind
+105958470	opinion or judgment
+105958593	a belief or sentiment shared by most people; the voice of the people
+105958804	an opinion formed beforehand without adequate evidence
+105959101	a prejudice (especially in Polynesia and other South Pacific islands) that prohibits the use or mention of something because of its sacred nature
+105959342	extreme prejudice
+105959426	one of two divergent or mutually exclusive opinions
+105959600	grounds for feeling hopeful about the future
+105959849	an illusory hope
+105959939	an early limited awareness of something yet to occur
+105960047	a future prospect or potential
+105960190	something expected (as on the basis of a norm)
+105960433	painful expectation
+105960559	a belief in the spread of revolutionary principles
+105960687	a belief that priests can act as mediators between human beings and God
+105960836	the belief that the spirits of dead people can communicate with people who are still alive (especially via a medium)
+105961066	a belief that there is a realm controlled by a divine spirit
+105961234	the belief that the right to vote should be extended (as to women)
+105961357	a belief in forces beyond ordinary human understanding
+105961545	an irrational belief arising from ignorance or fear
+105961696	the belief that some particular group or race is superior to all others
+105961846	a belief that can guide behavior
+105962130	(ethics) the theory that the pursuit of your own welfare in the basis of morality
+105962283	a theory or argument made up of miscellaneous or incongruous ideas
+105962481	a system of belief based on mystical insight into the nature of God and the soul
+105962671	belief in theosophy
+105962748	a system of beliefs and practices based on the philosophy of Rudolf Steiner; it claims to integrate the practical and psychological in child-centered education
+105962967	an esoteric theosophy of rabbinical origin based on the Hebrew scriptures and developed between the 7th and 18th centuries
+105963233	the doctrines of the Kabbalah
+105963348	the organized beliefs of a period or group or individual
+105963539	belief in the kinship of a group of people with a common totem
+105963674	the beliefs of a tribal society
+105963761	beliefs of a person or social group in which they have an emotional investment (either for or against something)
+105963962	belief in the existence of vampires
+105964053	the prevailing current of thought
+105964190	a rule or standard especially of good behavior
+105964460	a principle that governs current accounting practice and that is used as a reference to determine the appropriate treatment of complex transactions
+105964715	the medieval principles governing knighthood and knightly conduct
+105964886	the principles of right and wrong that are accepted by an individual or a social group
+105965154	the principles of a body of 19th century English reformers who advocated better social and economic conditions for working people
+105965356	the principles and ideals associated with classical Greek civilization
+105965518	(law) a principle underlying the formulation of jurisprudence
+105965773	the principle that a person's nationality at birth is the same as that of his natural parents
+105965945	the principle that a person's nationality at birth is determined by the place of birth
+105966105	the judicial principle asserting the supremacy of federal over state legislation on the same subject
+105966295	(law) the principle that an act done at a later time is deemed by law to have occurred at an earlier time
+105966604	an ethical or moral principle that inhibits action
+105966780	a command based on Jesus' words in the Sermon on the Mount
+105966981	a Christian profession of faith
+105967075	the doctrine that calls for the abolition of slavery
+105967204	the doctrine of an absolute being
+105967294	the doctrine that moral distinctions are invalid
+105967416	the doctrine that human beings are purely animal in nature and lacking a spiritual nature
+105967579	the doctrine that all natural objects and the universe itself have souls
+105967786	the doctrine of opposition to the social and political establishment
+105967949	the doctrine that through renunciation of worldly pleasures it is possible to achieve a high spiritual or intellectual state
+105968130	the predominant philosophical tradition in Great Britain since the 17th century
+105968274	any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms
+105968445	the literal belief in the account of Creation given in the Book of Genesis
+105968652	an effort to give scientific support for the truth of the account of Creation given in the Book of Genesis
+105968821	any system of principles or beliefs
+105968988	the doctrine that kings derive their right to rule directly from God and are not accountable to their subjects; rebellion is the worst of political crimes
+105969331	a doctrine or code of beliefs accepted as authoritative
+105969565	the doctrine that reality consists of two basic opposing elements, often taken to be mind and matter (or mind and body), or good and evil
+105969792	any of the various theories or doctrines or philosophical systems that attempt to explain the phenomena of the universe in terms of some immanent force or energy
+105970008	a doctrine of hedonism that was defended by several ancient Greek philosophers
+105970145	the doctrine of supporting the social or political establishment
+105970296	a doctrine that ethics and ethical ideas are valid and important
+105970475	the doctrine of expanding the territory or the economic influence of a country
+105970612	an empirical doctrine that advocates experimental principles
+105970734	the doctrine that formal structure rather than content is what should be represented
+105970910	any doctrine that stresses utility or purpose
+105971033	the doctrine of the Girondists
+105971119	a doctrine that is believed to be of great importance
+105971281	the doctrine of a sect of Hindu philosophers who practiced nudity and asceticism and meditation
+105971469	the doctrine that representations of nature or human behavior should be accurate imitations
+105971652	the imitative representation of nature and human behavior in art and literature
+105971803	the doctrine that government should not interfere in commercial affairs
+105971968	a belief in the importance of the individual and the virtue of self-reliance and personal independence
+105972166	individualism in social and economic affairs; belief not only in personal liberty and self-reliance but also in free competition
+105972361	the doctrine that nations should cooperate because their common interests are more important than their differences
+105972611	the doctrine that nations should conduct their foreign affairs individualistically without the advice or involvement of other nations
+105972840	unilateral interaction
+105972965	the doctrine that irredenta should be controlled by the country to which they are ethnically or historically related
+105973189	the doctrine of realistic (literal) portrayal in art or literature
+105973312	the doctrine that the numerical majority of an organized group can make decisions binding on the whole group
+105973510	the doctrine that reality consists of a single basic substance or element
+105973672	the doctrine that several different cultures (rather than one national culture) can coexist peacefully and equitably in a single country
+105973889	the doctrine that your national culture and interests are superior to any other
+105974062	the doctrine that nations should act independently (rather than collectively) to attain their goals
+105974255	a revolutionary doctrine that advocates destruction of the social system for its own sake
+105974453	the doctrine that all violence is unjustifiable
+105974616	the doctrine that reality consists of several basic substances or elements
+105974800	the political doctrine that supports the rights and powers of the common people in their struggle with the privileged elite
+105974996	(theology) being determined in advance; especially the doctrine (usually associated with Calvin) that God has foreordained every event throughout eternity (including the final salvation of mankind)
+105975469	the doctrine that the Scripture prophecies of the Apocalypse (as in the Book of Revelations) are presently in the course of being fulfilled
+105975665	the predestination of some individuals as objects of divine mercy (especially as conceived by Calvinists)
+105975825	the doctrine that reason is the right basis for regulating conduct
+105975964	a doctrine of reform
+105976058	the doctrine emphasizing a person's capacity for self-realization through reason; rejects religion and the supernatural
+105976269	the doctrine that people's duty is to promote human welfare
+105976455	the doctrine of the equality of mankind and the desirability of political and economic and social equality
+105976640	a doctrine that advocates equal rights for women
+105976761	the power associated with a juju
+105976844	any art that invokes supernatural powers
+105977076	a magic power or magic spell
+105977155	a belief in supernatural powers and the possibility of bringing them under human control
+105977317	the study of the supernatural
+105977420	a doctrine that on the death of the body the soul migrates to or is born again in another body
+105977577	a doctrine that maintains the right of secession
+105977702	a doctrine that rejects religion and religious considerations
+105977838	(philosophy) a philosophical theory as to what is beautiful
+105978061	(philosophy) the philosophy of Aristotle that deals with logic and metaphysics and ethics and poetics and politics and natural science
+105978404	the doctrine that the application of a general term to various objects indicates the existence of a mental entity that mediates the application
+105978625	the teachings of Confucius emphasizing love for humanity; high value given to learning and to devotion to family (including ancestors); peace; justice; influenced the traditional culture of China
+105978879	a philosophical theory of criticism (usually of literature or film) that seeks to expose deep-seated contradictions in a work by delving below its surface meaning
+105979178	(philosophy) the doctrine that knowledge derives from experience
+105979431	the philosophical doctrine that environment is more important than heredity in determining intellectual growth
+105979622	(philosophy) a 20th-century philosophical movement chiefly in Europe; assumes that people are entirely free and thus responsible for what they make of themselves
+105979953	(philosophy) a philosophical theory holding that all events are inevitable consequences of antecedent sufficient causes; often understood as denying the possibility of free will
+105980261	a philosophical doctrine holding that all events are predetermined in advance for all time and human beings are powerless to change them
+105980488	(philosophy) the philosophical theory that formal (logical or mathematical) statements have no meaning but that its symbols (regarded as physical entities) exhibit a form that has useful applications
+105980780	the philosophical doctrine that heredity is more important than environment in determining intellectual growth
+105980970	(philosophy) the philosophical theory that ideas are the only reality
+105981131	(philosophy) the doctrine that knowledge is acquired primarily by intuition
+105981284	(philosophy) the philosophical theory that all of mathematics can be derived from formal logic
+105981452	(philosophy) the philosophical theory that matter is the only reality
+105981648	(philosophy) the philosophical theory that all phenomena can be explained in terms of physical or biological causes
+105981874	(philosophy) a doctrine that mind is the true reality and that objects exist only as aspects of the mind's awareness
+105982065	(philosophy) the philosophical theory that some ideas are innate
+105982239	(philosophy) the doctrine that the world can be understood in scientific terms without recourse to spiritual or supernatural explanations
+105982470	a system of philosophical and theological doctrines composed of elements of Platonism and Aristotelianism and oriental mysticism; its most distinctive doctrine holds that the first principle and source of reality transcends being and thought and is naturally unknowable
+105983023	(philosophy) the doctrine that the various objects labeled by the same term have nothing in common but their name
+105983230	(philosophy) the doctrine that the meaning of a proposition consists of the operations involved in proving or applying it
+105983431	(philosophy) the philosophical doctrine that abstract concepts exist independent of their names
+105983665	(philosophy) the doctrine that practical consequences are the criteria of knowledge and meaning and value
+105983918	a system of pragmatic philosophy that considers idea to be instruments that should guide our actions and their value is measured by their success
+105984125	(philosophy) the doctrine that (since certainty is unattainable) probability is a sufficient basis for belief and action
+105984340	(philosophy) the doctrine that knowledge is acquired by reason without resort to experience
+105984526	(philosophy) the philosophical doctrine that physical objects continue to exist when not perceived
+105984713	(philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved
+105984932	the system of philosophy dominant in medieval Europe; based on Aristotle and the Church Fathers
+105985124	(philosophy) a philosophical theory of the functions of signs and symbols
+105985338	(philosophy) the ethical doctrine that feeling is the only criterion for what is good
+105985516	(philosophy) the philosophical theory that the self is all that you know to exist
+105985672	(theology) any doctrine that asserts the separate existence of God
+105985815	(philosophy) the philosophical system of the Stoics following the teachings of the ancient Greek philosopher Zeno
+105986002	(philosophy) the doctrine that knowledge and value are dependent on and limited by your subjective experience
+105986207	philosophical system developed by Lao-tzu and Chuang-tzu advocating a simple honest life and noninterference with the course of natural events
+105986486	(philosophy) a doctrine explaining phenomena by their ends or purposes
+105986667	the doctrine that all knowledge was originally derived by divine revelation and that it is transmitted by traditions
+105986844	(philosophy) a doctrine that life is a vital principle distinct from physics and chemistry
+105987026	calling up a spirit or devil
+105987237	a bit of lore passed on by word of mouth
+105987339	freeing from evil spirits
+105987490	calling up supposed supernatural forces by spells and incantations
+105987679	the belief in magical spells that harness occult forces or evil spirits to produce unnatural effects in the world
+105988065	white magic performed with the help of beneficent spirits (as formerly practiced by Neoplatonists)
+105988217	the art of sorcery
+105988321	a magical spell
+105988462	a belief in and reverence for devils (especially Satan)
+105988667	magic used only for good purposes
+105988776	a rejection of belief
+105988918	the disbelief in any claims of ultimate knowledge
+105989123	a lack of belief in the existence of God or gods
+105989297	a belief that rejects the orthodox tenets of a religion
+105989635	the orientation of an iconoclast
+105989760	the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it
+105990115	the goal intended to be attained (and which is believed to be attainable)
+105990431	an archaic term for a goal or destination
+105990533	the ultimate goal
+105990653	the ultimate goal for which something is done
+105990821	the object of any prolonged endeavor
+105990909	a nonexistent goal
+105991037	an anticipated outcome that is intended or that guides your planned actions
+105991605	(usually plural) the goal with respect to a marriage proposal
+105991800	your intention; what you intend to do
+105992007	a contrary aim
+105992102	(philosophy) the end or purpose of a thing or process
+105992232	the purpose of achieving or obtaining
+105992348	purpose; the phrase with a view to' means with the intention of' or for the purpose of'
+105992539	a fixed and persistent intent or purpose
+105992686	an immediate objective
+105992828	something you have to do
+105992951	the object of an activity
+105993067	a special objective
+105993172	knowledge acquired by learning and instruction
+105993469	the content of direct observation or participation in an event
+105993821	all the knowledge and values shared by a society
+105994011	a cultural unit (an idea or value or pattern of behavior) that is passed from one person to another by non-genetic means (as by imitation)
+105994266	knowledge gained through tradition or anecdote
+105994487	the unwritten lore (stories and proverbs and riddles and songs) of a culture
+105994884	profound scholarly knowledge
+105995180	scholarly attainment
+105995280	education that results in understanding and the spread of knowledge
+105995479	education or instruction in the fundamentals of a field of knowledge
+105995707	the political policy of concentrating power in a central organization
+105995833	a policy of creating strategic alliances in order to check the expansion of a hostile power or ideology or to force it to negotiate peacefully
+105996168	the policy of being moderate or acting with moderation
+105996282	a policy of opposition to enlightenment or the spread of knowledge
+105996407	(England) the political policy of Margaret Thatcher
+105996535	(Roman Catholic Church) the policy that the absolute authority of the church should be vested in the pope
+105996720	uplifting enlightenment
+105996854	(Zen Buddhism) a state of sudden spiritual enlightenment
+105996982	freeing from false belief or illusions
+105997167	the lack of knowledge or education
+105997383	an unenlightened state
+105997628	ignorance (especially of orthodox beliefs)
+105997841	lack of experience and the knowledge and understanding derived from experience
+105998150	a lack of understanding
+105998271	ignorance resulting from not reading
+105998364	a well-substantiated explanation of some aspect of the natural world; an organized system of accepted knowledge that applies in a variety of circumstances to explain a specific set of phenomena
+105998974	(physics) the theory that any two particles of matter attract one another with a force directly proportional to the product of their masses and inversely proportional to the square of the distance between them
+105999365	(physics) a universal law that states that the laws of mechanics are not affected by a uniform rectilinear motion of the system of coordinates to which they are referred
+105999623	the principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred
+105999866	(physics) the principle that an observer has no way of distinguishing whether his laboratory is in a uniform gravitational field or is in an accelerated frame of reference
+106000127	(hydrostatics) the volume of a body immersed in a fluid is equal to the volume of the displaced fluid
+106000326	the displacement of any point due to the superposition of wave systems is equal to the sum of the displacements of the individual waves at that point
+106000661	(geology) the principle that in a series of stratified sedimentary rocks the lowest stratum is the oldest
+106000900	(neurology) the principle that the cortex of the brain operates as a coordinated system with large masses of neural tissue involved in all complex functioning
+106001159	(physiology) the principle that specific functions have relatively circumscribed locations in some particular part or organ of the body
+106001509	localization of function on either the right or left sides of the brain
+106001689	theory that inherited characteristics are transmitted by germ plasm
+106001834	a theory (popular in the 18th century and now discredited) that an individual develops by simple enlargement of a tiny fully formed organism (a homunculus) that exists in the germ cell
+106002120	the materialistic philosophy of Karl Marx and Friedrich Engels
+106002252	the form of empiricism that bases all knowledge on perceptual experience (not on intuition or revelation)
+106002507	Auguste Comte's positivistic philosophy that metaphysics and theology should be replaced by a hierarchy of sciences from mathematics at the base to sociology at the top
+106002729	a theory that explains scientific observations
+106003369	(physics) a theory that explains a physical phenomenon in terms of a field and the manner in which it interacts with matter or with other fields
+106003591	theory that the total organization of an organism rather than the functioning of individual organs is the determinant of life processes
+106003820	(economics) a theory of commercial activities (such as the production and consumption of goods)
+106004123	the theory that an increasing consumption of goods is economically beneficial
+106004258	the economic theories of John Maynard Keynes who advocated government monetary and fiscal programs intended to stimulate business activity and increase employment
+106004479	an economic theory advocating free competition and a self-regulating market
+106004629	Malthus' theory that population increase would outpace increases in the means of subsistence
+106004801	an economic theory holding that variations in unemployment and the rate of inflation are usually caused by changes in the supply of money
+106005013	(economics) the theory that a person or firm seeks to make money by manipulating the economic environment rather than by making a profit through production or trade
+106005270	(psychophysics) the concept that the magnitude of a subjective sensation increases proportional to a power of the stimulus intensity
+106005513	(psychophysics) the concept that a just-noticeable difference in a stimulus is proportional to the magnitude of the original stimulus
+106005806	a branch of knowledge
+106006539	the discipline that studies the principles of transmiting information and the methods by which it is delivered (as print or radio or television etc.)
+106006837	the principal field of study of a student at a university
+106006992	a knowledge domain that you are interested in or are communicating about
+106007230	an undeveloped field of study; a topic inviting research and development
+106007403	the study or investigation of ancestry and family history
+106007534	the study of the relative growth of a part of an organism in relation to the growth of the whole
+106007704	the scientific study of documents and handwriting etc. especially to determine authorship or authenticity
+106007902	an informal word (abstracted from words with this ending) for some unidentified branch of knowledge
+106008071	the study or the use of symbols and symbolism
+106008172	an intermediate area; a topic that is not clearly one thing or the other
+106008312	an area of knowledge or interest
+106008444	the content of a particular field of knowledge
+106008633	knowledge about knowledge
+106008718	knowledge accumulated by systematic study and organized by general principles
+106008975	a particular branch of scientific knowledge
+106009578	the sciences involved in the study of the physical world and its phenomena
+106009822	a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement
+106013012	the branches of mathematics that study and develop the principles of mathematics for their own sake rather than for their immediate usefulness
+106013397	the branch of pure mathematics dealing with the theory of numerical calculations
+106013929	computation with Arabic figures
+106014015	the pure mathematics of points and lines and curves and surfaces
+106014748	the geometry of affine transformations
+106014867	(mathematics) geometry based on Euclid's axioms
+106015041	(mathematics) any of five axioms that are generally recognized as the basis for Euclidean geometry
+106015348	a straight line can be drawn between any two points
+106015466	any terminated straight line can be projected indefinitely
+106015592	a circle with any radius can be drawn around any point
+106015713	all right angles are equal
+106015807	only one line can be drawn through a point parallel to another line
+106015958	(mathematics) the geometry of fractals
+106016126	(mathematics) geometry based on axioms different from Euclid's
+106016395	(mathematics) a non-Euclidean geometry in which the parallel axiom is replaced by the assumption that through any point in a plane there are two or more lines that do not intersect a given line in the plane
+106016730	(mathematics) a non-Euclidean geometry that regards space as like a sphere and a line as like a great circle
+106016991	(mathematics) the branch of mathematics that studies algorithms for approximating solutions to problems in the infinitesimal calculus
+106017208	(mathematics) the geometry of figures on the surface of a sphere
+106017356	(mathematics) the trigonometry of spherical triangles
+106017497	a trigonometric method of determining the position of a fixed point from the angles to it from two fixed points a known distance apart; useful in navigation
+106017731	the use of algebra to study geometric properties; operates on symbols defined in a coordinate system
+106017958	a straight line through a body or figure that satisfies certain conditions
+106018245	one of the fixed reference lines of a coordinate system
+106018435	the point of intersection of coordinate axes; where the values of the coordinates are all zero
+106018582	the horizontal axis in a plane coordinate system
+106018683	the vertical axis in a plane coordinate system
+106018782	the third axis in a 3-dimensional coordinate system
+106018886	the longest axis of an ellipse or ellipsoid; passes through the two foci
+106019034	one-half the major axis of an ellipse; the distance from the center of an ellipse to one end
+106019206	the shorter or shortest axis of an ellipse or ellipsoid
+106019337	one-half the minor axis of an ellipse
+106019454	a line that passes through the center of curvature of a lens so that light is neither reflected nor refracted
+106019730	in a doubly refracting crystal, the line in the direction of which no double refraction occurs
+106019932	a coordinate system in which Newton's first law of motion is valid
+106020086	the four-dimensional coordinate system (3 dimensions of space and 1 of time) in which physical events are located
+106020279	a number that identifies a position relative to an axis
+106020441	one of the coordinates in a system of coordinates that locates a point on a plane or in space by its distance from two lines or three planes respectively; the two lines or the intersections of the three planes are the coordinate axes
+106020795	one of three Cartesian coordinates that determine a position in space
+106020938	the value of a coordinate on the horizontal axis
+106021041	the value of a coordinate on the vertical axis
+106021142	the point at which a line intersects a coordinate axis
+106021252	either of two values that locate a point on a plane by its distance from a fixed pole and its angle from a fixed line passing through the pole
+106021457	the geometry of 2-dimensional figures
+106021574	the geometry of 3-dimensional space
+106021689	the geometry of properties that remain invariant under projection
+106021862	the mathematics of triangles and trigonometric functions
+106022075	the mathematics of generalized arithmetical operations
+106022347	a branch of algebra dealing with quadratic equations
+106022475	the part of algebra that deals with the theory of linear equations and linear transformation
+106022647	the part of algebra that deals with the theory of vectors and vector spaces
+106022820	the analysis of a vector field
+106022933	the part of algebra that deals with the theory of matrices
+106023090	the branch of mathematics that is concerned with limits and with the differentiation and integration of functions
+106023392	a branch of mathematics involving calculus and the theory of limits; sequences and series and integration and differentiation
+106023627	analysis of a periodic function into a sum of simple sinusoidal components
+106023784	the part of calculus that deals with the variation of a function with respect to changes in the independent variable (or variables) by means of the concepts of derivative and differential
+106024079	the result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx
+106024402	the derivative of a function of two or more variables with respect to a single variable while the other variables are considered to be constant
+106024620	the part of calculus that deals with integration and its application in the solution of differential equations and in determining areas or volumes etc.
+106024854	the result of a mathematical integration; F(x) is the integral of f(x) if dF/dx = f(x)
+106025049	the set of functions F(x) + C, where C is any real number, such that F(x) is the integral of f(x)
+106025212	the integral of a function over a definite interval
+106025327	the calculus of maxima and minima of definite integrals
+106025470	the branch of pure mathematics that deals with the nature and relations of sets
+106025625	a set containing all points (or all real numbers) between two given endpoints
+106025811	an interval that includes its endpoints
+106025949	an interval that does not include its endpoints
+106026095	an interval that is included in another interval
+106026202	a set that is closed, associative, has an identity element and every element has an inverse
+106026402	(mathematics) a subset (that is not empty) of a mathematical group
+106026542	the branch of mathematics dealing with groups
+106026683	group theory applied to the solution of algebraic equations
+106026821	a group that satisfies the commutative law
+106026943	the branch of pure mathematics that deals only with the properties of a figure X that hold for every figure into which X can be transformed with a one-to-one correspondence that is continuous in both directions
+106027244	the logical analysis of mathematical reasoning
+106027371	the branches of mathematics that are involved in the study of the physical or biological or sociological world
+106027616	a mathematical technique used in economics; finds the maximum or minimum of linear functions in many variables subject to constraints
+106027814	a branch of applied mathematics concerned with the collection and interpretation of quantitative data and the use of probability theory to estimate population parameters
+106030086	a method of analyzing or representing statistical data; a procedure for calculating a statistic
+106030362	a method of fitting a curve to data points so as to minimize the sum of the squares of the distances of the points from the curve
+106030596	a generic term for any statistical technique used to analyze data from more than one variable
+106030848	a datum that can be represented numerically
+106031110	a statistic describing the location of a distribution
+106031425	a statistic characterizing human populations (or segments of human populations broken down by age or sex or income etc.)
+106031640	the difference between an observed value and the expected value of a variable or function
+106031858	the n-th moment of a distribution is the expected value of the n-th power of the deviations from a fixed value
+106032076	a statistic computed without knowledge of the form or the parameters of the distribution from which observations are drawn
+106032371	any statistic computed by procedures that assume the data were drawn from a particular distribution
+106032592	the average age at which particular performances are expected to appear
+106032718	an extreme deviation from the mean
+106032825	the arithmetic mean of the absolute values of deviations from the mean of a distribution
+106033024	the most frequent value of a random variable
+106033170	the number midway between the two middle numbers in a series containing an even or odd number of items
+106033377	an average of n numbers computed by adding some function of the numbers and dividing by some function of n
+106033638	the sum of the values of a random variable divided by the number of values
+106033839	the mean of n numbers expressed as the n-th root of their product
+106033984	the mean of n numbers expressed as the reciprocal of the arithmetic mean of the reciprocals of the numbers
+106034169	the expected value of the square of the deviations of a random variable from the point of origin
+106034344	the second moment around the mean; the expected value of the square of the deviations of a random variable from its mean value
+106034580	the square root of the variance
+106034695	(statistics) the mean value of the product of the deviations of two variates from their respective means
+106034929	a distribution of observed frequencies of occurrence of the values of a variable
+106035097	a theoretical distribution with finite mean and variance
+106035262	a theoretical distribution that is a good approximation to the binomial distribution when the probability is small and the number of trials is large
+106035496	a symmetrical curve representing the normal distribution
+106035684	(statistics) the entire aggregation of items from which samples can be drawn
+106035916	a population that is part of a larger population
+106036061	items selected at random from a population and used to test hypotheses about the population
+106036311	a sample in which every element in the population has an equal chance of being selected
+106036477	the population is divided into strata and a random sample is taken from each stratum
+106036690	a subpopulation divided into a stratified sampling
+106036794	the relation between selected values of x and observed values of y (from which the most probable value of y can be predicted for any value of x)
+106037143	a statistical technique that predicts values of one variable on the basis of two or more other variables
+106037373	a case of multiple regression in which the predictor variables are themselves highly correlated
+106037551	the use of regression to make quantitative predictions of one variable from the values of another
+106037790	the equation representing the relation between selected values of one variable (x) and observed values of the other (y); it permits the prediction of the most probable values of y
+106038096	when the regression line is linear (y = ax + b) the regression coefficient is the constant (a) that represents the rate of change of one variable (y) as a function of changes in the other (x); it is the slope of the regression line
+106038434	the relation between variables when the regression equation is linear: e.g., y = ax + b
+106038648	the relation between variables when the regression equation is nonlinear (quadratic or higher order)
+106038836	a smooth curve fitted to the set of paired data in regression analysis; for linear regression the curve is a straight line
+106039077	a series of values of a variable at successive times
+106039206	data relating to births and deaths and health and diseases and marriages
+106039360	the use of statistical correlation to evaluate the strength of the relations between variables
+106039579	a matrix giving the correlations between all pairs of data sets
+106039726	any of several methods for reducing correlational data to a smaller number of dimensions or factors; beginning with a correlation matrix a small number of components or factors are extracted that are regarded as the basic variables that account for the interrelations observed in the data
+106040131	a statistical method for making simultaneous comparisons between two or more means; a statistical method that yields values that can be tested to determine whether a significant relation exists between variables
+106040436	a two-way tabulation of the relations between correlates; row headings are the scores on one variable and column headings are the scores on the second variables and a cell shows how many times the score on that row was associated with the score in that column
+106040778	a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the other
+106041187	any correlation in which the rates of change of the variables is not constant
+106041396	a correlation between two variables when the effects of one or more related variables are removed
+106041596	a partial correlation in which the effects of only one variable are removed (held constant)
+106041776	a statistic representing how closely two variables co-vary; it can vary from -1 (perfect negative correlation) through 0 (no correlation) to +1 (perfect positive correlation)
+106042282	(statistics) correlated variation
+106042428	a correlation in which large values of one variable are associated with large values of the other and small with small; the correlation coefficient is between 0 and +1
+106042702	a correlation in which large values of one variable are associated with small values of the other; the correlation coefficient is between 0 and -1
+106042957	the most commonly used method of computing a correlation coefficient between variables that are linearly related
+106043222	an estimate of the combined influence of two or more variables on the observed (dependent) variable
+106043419	a correlation coefficient in which one variable is many-valued and the other is dichotomous
+106043631	the branch of statistics dealing with variables without making assumptions about the form or the parameters of their distribution
+106043831	the most commonly used method of computing a correlation coefficient between the ranks of scores on two variables
+106044141	any of several nonparametric measures of correlation (used when the assumptions of standard correlational analysis are not met)
+106044400	a nonparametric measure of partial correlation
+106044544	a coefficient of agreement (concordance) between different sets of rank orderings of the same set of things
+106044743	a nonparametric measure of the agreement between two rankings
+106044943	an index of the relation between any two sets of scores that can both be represented on ordered binary dimensions (e.g., male-female)
+106045204	a correlation coefficient calculated between scores on two halves of a test; taken as an indication of the reliability of the test
+106045448	a correlation coefficient computed for two normally distributed variables that are both expressed as a dichotomy
+106045687	a correlation between two variables (e.g., between the number of electric motors in the home and grades at school) that does not result from any direct relation between them (buying electric motors will not raise grades) but from their relation to other variables
+106046036	(mathematics) a quantity expressed as a sum or difference of two terms; a polynomial with two terms
+106046209	a theoretical distribution of the number of successes in a finite set of independent trials with a constant probability of success
+106046451	a theorem giving the expansion of a binomial raised to a given power
+106046620	the branch of applied mathematics that deals with probabilities
+106046810	any of the branches of natural science dealing with the structure and behavior of living organisms
+106047178	the science that studies living organisms
+106050997	the application of the principles of the natural sciences to medicine
+106051131	a branch of biology that studies biological phenomena and observations by means of statistical analysis
+106051336	the scientific study of the skulls of various human races
+106051486	the study of the whorls and loops and arches in the fingertips and on the palms of the hand and the soles of the feet
+106051718	the scientific study of food preparation and intake
+106051843	the theory of promoting health and longevity by means of diet (especially whole beans and grains)
+106052017	the study of methods of improving genetic qualities by selective breeding (especially as applied to human mating)
+106052221	the study of the operation of factors causing degeneration in the type of offspring produced
+106052436	the study of methods of improving human well-being and efficient functioning by improving environmental conditions
+106052606	the branches of medical science that deal with nonsurgical techniques
+106055093	the science of dealing with the maintenance of health and the prevention and treatment of disease
+106055378	a now abandoned study of the shape of skull as indicative of the strengths of different faculties
+106055568	the study and treatment of disorders associated with flight (especially with space flight)
+106055776	the branch of medical science that studies the causes and treatment of allergies
+106055914	the branch of medical science that studies and applies anesthetics
+106056059	the branch of medical science that studies the blood and lymph vessels and their disorders
+106056223	the branch of medical science that studies bacteria in relation to disease
+106056429	the branch of medical science that studies the ability of organisms to withstand environmental stress (as in space travel)

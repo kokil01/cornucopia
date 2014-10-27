@@ -1,0 +1,1000 @@
+c compiler	106586110
+c horizon	108676407
+c major	106879492
+c major scale	106879492
+c program	106915607
+c-clamp	102991521
+c-horizon	108676407
+c-note	113416247
+c-ration	107581796
+c-reactive protein	114756478
+c-section	100186627
+c. d. gibson	111018470
+c. diphtheriae	101369341
+c. h. best	110869645
+c. k. ogden	111232776
+c. northcote parkinson	111243109
+c. p. snow	111327077
+c. psittaci	101375585
+c. s. forester	110995400
+c. s. lewis	111150281
+c. trachomatis	101375731
+c. vann woodward	111416530
+c. w. post	111263552
+c.e.	400002029
+c.o.d.	400255418
+c.p.u.	102998952
+c2h6	114875013
+ca	109083238 114656826
+ca-ca	200073791
+caaba	103611932
+cab	102934150 102934397 102934532 201952866
+cab fare	113329565
+cabal	105917476 108258719 200708804
+cabala	105962967 106686515
+cabalism	101215896 105963233
+cabalist	109904868 109904986 109905128
+cabalistic	300903031
+cabana	102934678
+cabaret	100521728 102934801
+cabasset	103791254
+cabassous	102458059
+cabassous unicinctus	102458059
+cabbage	107729640 111896160 113406389 202281711
+cabbage bark	112526846
+cabbage butterfly	102283301
+cabbage palm	112611778 112612112 112617610 112617895
+cabbage palmetto	112617895
+cabbage tree	112499273 112526846 112612112
+cabbage-bark tree	112526846
+cabbageworm	102313237
+cabbala	105962967 106686515
+cabbalah	105962967 106686515
+cabby	110713142
+cabdriver	110713142
+cabell	110897208
+caber	102935220
+cabernet	107911685
+cabernet sauvignon	107911685
+cabernet sauvignon grape	113167517
+cabg	100677051
+cabin	102935403 102935611 102935784 201305237
+cabin boy	109905221
+cabin car	102935907
+cabin class	102936077
+cabin cruiser	102936275
+cabin liner	102937134
+cabinet	102936496 102936724 102936846 108398551
+cabinet minister	100587001 109905462
+cabinet wood	114811986
+cabinetmaker	109905318
+cabinetmaking	100618841
+cabinetry	100608657
+cabinetwork	100608657 102937033
+cable	102937226 102937374 102937552 106285748 106288991 113674504 201009249 201291524
+cable car	102937835
+cable length	113674504
+cable railway	102938025
+cable system	102937374
+cable television	102937374 106288991
+cable television service	102937374
+cable tramway	104477048
+cable's length	113674504
+cablegram	106285748
+cabman	110713142
+cabochon	114724207
+cabomba	111738565
+cabomba caroliniana	111738765
+cabombaceae	111738289
+caboodle	107971317
+caboose	102935907 103417130
+cabot	110897336 110897593
+cabotage	100316133 105183298
+cabriolet	102934397
+cabstand	108535244
+cacajao	102495740
+cacalia	111963344
+cacalia javanica	111983774
+cacalia lutea	111983774
+cacao	112222097
+cacao bean	107770870
+cacao moth	102292992
+cacao tree	112222097
+cacatua	101821600
+cacatua galerita	101821954
+cachalot	102069893
+cache	102938272 102938401 113388085 202310836
+cachectic	302683328
+cachet	102938700 106560101 106718747
+cachexia	114571697
+cachexy	114571697
+cachi	109253407
+cachinnate	200032407
+cachinnation	107142058
+cachou	107623441
+cacicus	101576124
+cacique	101576268
+cackel	201057974
+cackle	107142159 107151648 107393037 200031411 201058241 201058426
+cackler	101569286 101795449
+cackly	300300010
+cacodaemon	109565670
+cacodaemonic	302683466
+cacodemon	109565670
+cacodemonic	302683466
+cacodyl	114812884 114813045
+cacodyl group	114812884
+cacodyl radical	114812884
+cacodylic	302683623
+cacoethes	109204454
+cacogenesis	114069317
+cacogenic	302726101
+cacogenics	106052221
+cacography	106415790
+cacomistle	102511373
+cacomixle	102511373
+cacophonic	300299633
+cacophonous	300299633
+cacophony	104992187 107392073
+cactaceae	111861998
+cactus	111862673
+cactus euphorbia	112942420
+cactus family	111861998
+cactus mouse	102339823
+cactus wren	101589015
+cacuminal	300203394
+cad	106579865 109905672
+cadaster	106514183
+cadastral	302683759
+cadastre	106514183
+cadaver	105225393
+cadaveric	302683876
+cadaverine	115120338
+cadaverous	300992194 302683876
+caddice fly	102271992
+caddice-fly	102271992
+caddie	109905855 201099271
+caddis fly	102271992
+caddis-fly	102271992
+caddish	300643953
+caddisworm	102272309
+caddo	106928377 109670828
+caddoan	106928377
+caddoan language	106928377
+caddy	102938771 201099271
+cadence	104999057 107059986 107108759
+cadenced	302026848
+cadency	104999057
+cadent	302026848
+cadenza	107060276
+cadet	109905992
+cadetship	100590633
+cadge	202275010 202275249
+cadger	110349902
+cadiz	109047821
+cadmium	114656622
+cadmium cell	104580665
+cadmium orange	115120898
+cadmium sulfide	115120493
+cadmium sulphide	114701771
+cadmium yellow	115120615
+cadmium yellow pale	115120800
+cadmus	109513184
+cadra	102293173
+cadra cautella	102293316
+cadra figulilella	102293522
+cadre	108259021 108375521
+caducean	302684082
+caduceus	106897570
+caducous	301763094
+caecal	302695479
+caeciliadae	101657757
+caecilian	101657985 302684183
+caeciliidae	101657757
+caecum	105544003
+caelum	109253553
+caenogenesis	113466113
+caenolestes	101878521
+caenolestidae	101878358
+caesalpinia	112508626
+caesalpinia bonduc	112508959
+caesalpinia bonducella	112508959
+caesalpinia coriaria	112509214
+caesalpinia decapetala	112509551
+caesalpinia echinata	112509773
+caesalpinia ferrea	112510181
+caesalpinia gilliesii	112510320
+caesalpinia pulcherrima	112510559
+caesalpinia sepiaria	112509551
+caesalpiniaceae	112507899
+caesalpinioideae	112508152
+caesar	110897913 110898127
+caesar salad	107822855
+caesar's agaric	113023510
+caesarea	108813344
+caesarean	100186627 303040914 303041087
+caesarean delivery	100186627
+caesarean section	100186627
+caesarian	100186627 303040914 303041087
+caesarian delivery	100186627
+caesarian section	100186627
+caesarism	108457622
+caesaropapism	106198456
+caesium	114658410
+caesium clock	102938874
+caespitose	302261573
+caesura	107099264 115296718
+caesural	302684331
+cafe	102939042
+cafe au lait	107935812
+cafe noir	107935905
+cafe royale	107946180
+cafeteria	102939275
+cafeteria facility	102939404
+cafeteria tray	102939560
+caff	102939665
+caffe latte	107936462
+caffein	114785301
+caffein addict	109906152
+caffein addiction	114088638
+caffeine	114785301
+caffeine addict	109906152
+caffeine intoxication	114533849
+caffeinic	302684449
+caffeinism	114533849
+caffer	110248534
+caffer cat	102128524
+caffre	110248534
+caftan	102939786 102939954
+cage	102814194 102940098 102940305 110898282 114022451 202501685
+cage in	202501685
+cager	109861435
+cagey	300326517 300440992
+cagily	400282667
+cagliostro	110898424
+cagney	110898596
+cagoule	102940394
+cagy	300326517 300440992
+cahita	106931708 109690120
+cahoot	107191771
+caiman	101701681
+caiman lizard	101689931
+caiman sclerops	101701895
+caimitillo	112794677
+caimito	112794411
+cain	109610169
+cainogenesis	113466113
+cairene	109906259
+cairina	101855185
+cairina moschata	101855312
+cairn	102098829 107288507
+cairn terrier	102098829
+cairned	302684547
+cairngorm	114718732
+cairo	108918860 109105526
+caisson	102940477 102940621 102940720 103068446
+caisson disease	114091826
+caitiff	109906363 300266080
+caitra	115244490
+cajan pea	107742206 112531279
+cajanus	112531074
+cajanus cajan	112531279
+cajole	200770823
+cajolery	106708607
+cajolingly	400287580
+cajun	109696676
+cakchiquel	106938889 109671123
+cake	102940853 107644479 107679644 201264885
+cake mix	107609637
+cakehole	105309806
+cakewalk	100037301 100531911 201900650
+cakile	111900687
+cakile maritima	111900880
+calaba	112385457
+calabar bean	112507563
+calabar-bean vine	112507387
+calabash	102940998 103454395 112186645 112836428 112836598
+calabash pipe	102940998
+calabash tree	112836428
+calabazilla	112182942
+calabria	108822814
+calabur tree	112214664
+calabura	112214664
+caladenia	112068868
+caladenia cairnsiana	112069006
+caladium	111806137
+caladium bicolor	111806344
+calais	108954641
+calamagrostic quadriseta	112133840
+calamagrostis	112133306
+calamagrostis acutiflora	112133712
+calamari	107797777
+calamary	107797777
+calamine	114702567
+calamine lotion	102941150
+calamint	112863647
+calamintha	112863525
+calamintha grandiflora	112864076
+calamintha nepeta	112864317
+calamintha nepeta glantulosa	112864317
+calamintha sylvatica	112863904
+calamitous	301053787
+calamity	107329438
+calamity jane	110892426
+calamus	102471248 102595237 111801399 111801645 112607059
+calamus australis	112607486
+calamus oil	111801770
+calamus penna	102595364
+calamus rotang	112607260
+calan	104535103
+calando	302548958
+calandrinia	111878875
+calandrinia ciliata	111879283
+calanthe	112069397
+calapooya	109677959
+calapuya	109677959
+calash	102941342 102941479
+calash top	102941342
+calathian violet	112315550
+calc-tufa	114955461
+calcaneal	302684617
+calcaneus	105282307
+calcareous	302684706
+calcarine fissure	105231878
+calcarine sulcus	105231878
+calced	302164349
+calcedony	114830503
+calceiform	302684885
+calceolaria	112900287
+calceolate	302684885
+calceus	102941602
+calcic	302685040
+calcicolous	302605386
+calciferol	115116794
+calciferous	302685135
+calcific	303021204
+calcification	113463485 114034879 114388385
+calcifugous	302605482
+calcify	200499611 200499743 200500069 200573439
+calcimine	102941705 201272552
+calcination	113463649
+calcine	200372904
+calcined lime	114814055
+calcite	114959889
+calcitic	302685267
+calcitonin	105420808
+calcium	114656826
+calcium bicarbonate	114960928
+calcium blocker	102941898
+calcium carbide	114813257
+calcium carbonate	114961043
+calcium chloride	114961363
+calcium hydrate	114960148
+calcium hydride	114961504
+calcium hydroxide	114960148
+calcium hypochlorite	114813535
+calcium ion	115095796
+calcium lactate	114813674
+calcium light	103674991
+calcium nitrate	114813894
+calcium octadecanoate	114814429
+calcium oxide	114814055
+calcium phosphate	114814307
+calcium stearate	114814429
+calcium sulfate	114961659
+calcium sulphate	114961659
+calcium-channel blocker	102941898
+calcium-cyanamide	114813390
+calculable	300302053
+calculate	200638921 200713964 200714537 200714920 200928443 202270039
+calculated	301340892
+calculating	301159105
+calculating machine	102942270
+calculatingly	400508512
+calculation	100870588 105804431 105810193
+calculative	301159105
+calculator	102942270 109906486
+calculous	302685379
+calculus	106023090 109253675 109478055
+calculus of variations	106025327
+calcutta	108923604
+calcuttan	302990040
+calder	110898761
+caldera	109254024
+calderon	110898907
+calderon de la barca	110898907
+caldron	102942602
+caldwell	110899116
+calean	103538194
+caleche	102941342 102941479
+caledonia	108911642
+caledonian canal	102942708
+calefacient	301251232
+calefaction	105023635
+calefactive	301251392
+calefactory	301251392
+calendar	106499232 108283770 115198526 200680900
+calendar day	115182001
+calendar method	100854775
+calendar method of birth control	100854775
+calendar month	115234209
+calendar week	115161099
+calendar year	115227430
+calender	102942982 201393749
+calendered	301123773
+calendric	302685509
+calendrical	302685509
+calendula	111963876
+calendula officinalis	111964129
+caley pea	112560069
+calf	101890537 101890686 105581963 114785513
+calf bone	105601956
+calf love	107559739
+calf roping	100301032
+calf's brain	107668305
+calf's liver	107667816
+calf's tongue	107668826
+calf's-foot jelly	107610622
+calfskin	114785513
+calgary	108841538
+cali	108750996
+cali cartel	108254321
+caliber	104735326 105110583
+calibrate	200296478 200741541 201592418
+calibrated	303159654
+calibration	101001187
+calibre	104735326 105110583
+caliche	114723602 114869748
+caliche-topped	301744334
+calico	102943180 300400039 302685792
+calico aster	111957571
+calico bush	112258158
+calico cat	102125894
+calico crab	101982167
+calicular	302686783
+caliculus	102158100
+calidris	102031210
+calidris canutus	102031554
+calidris ferruginea	102031741
+calidris melanotos	102031381
+calif	109906948
+calif.	109083238
+california	109083238
+california allspice	111721771
+california bay tree	111728296
+california beauty	112219310
+california black oak	112293861
+california black walnut	112339299
+california bluebell	112857812 112858019
+california box elder	112776147
+california buckthorn	113162959
+california buckwheat	112623373
+california coffee	113162959
+california condor	101622776
+california dandelion	112004613
+california false morel	113058345
+california fern	112956369
+california four o'clock	111860536
+california fuchsia	112363369
+california lady's slipper	112078161
+california laurel	111728296
+california live oak	112289923
+california newt	101634153
+california nutmeg	111669601
+california olive	111728296
+california personality inventory	106486643
+california pitcher plant	112801767
+california pompano	102636307
+california poppy	111925861
+california privet	112329569
+california quail	101809488
+california redbud	112534643
+california redwood	111661485
+california romero	112892244
+california sage	111950349
+california sagebrush	111950349
+california sea lion	102081226
+california single-leaf pinyon	111631053
+california sycamore	112828533
+california tree poppy	111928158
+california whipsnake	101734582
+california white fir	111642178
+california white oak	112294456
+california wine	107912035
+california yellow bells	112856091
+california yew	111682579
+californian	109760943 303063808
+californium	114657215
+caliginous	300275157
+caligula	110899303
+caliper	102943283 200649423
+caliph	109906948
+caliphate	100590728 108568341 115273623
+caliphate state	108045376
+calisaya	112684948
+calisthenic	302685933
+calisthenics	100628677 100628904
+calixtus ii	110899541
+calixtus iii	110899776
+calk	102943560 200070507 201357268 201360894
+calkin	102943560
+call	100081563 100165622 101057417 101057878 106208240 106283456 106594937 106809500 107135232 107205353 107206789 107207171 107207321 200107035 200693282 200740588 200740752 200755926 200756201 200785570 200791110 200794133 200824407 200871057 200875684 200915018 200919743 200973047 200977068 201030757 201064761 201070017 201070815 201903010 202305021 202364060 202434657 202493222 202493550 202607453 202649505
+call at	202021151
+call attention	200926583
+call back	200609334 200793168 200793426 202317458
+call box	103996568 104408815
+call center	102943802
+call centre	102943802
+call down	200826456 201633150
+call fire	100990642
+call for	200754770 201065717 202310566 202634015
+call forth	201633150 201650408
+call forwarding	106284067
+call girl	109908517
+call in	200791797 200793673 201472589 202317458 202364060 202410262 202493222
+call into question	200869073
+call it a day	202687145
+call it quits	202687145
+call loan	113420448
+call mark	106831297
+call number	106831297
+call off	201903010 202483178
+call on	200796302
+call on the carpet	200826456
+call one's bluff	200869934
+call option	100081563 113263308
+call out	200870643 200914001 200977616
+call the shots	202607268
+call the tune	202607268
+call to order	202430610
+call up	107184004 200609334 200791110 201027464 201100371 201633724
+call waiting	106284396
+call-back	101220703 106283860
+call-board	102943706
+call-in	106284208
+call-out	107246500
+calla	111806486 111814248
+calla lily	111814248
+calla palustris	111806600
+callable	300137678
+callas	110899941
+callathump	107068162 108445580
+callback	107294777
+caller	109907302 109907469 109907721 109907881 109908087 109908284 109908430 301071719 302540879
+caller id	102944025
+caller-out	109908087
+caller-up	109907469
+calliandra	111781254
+callicebus	102496021
+calligraph	201695555
+calligrapher	109908622
+calligraphic	302920964
+calligraphical	302920964
+calligraphist	109908622
+calligraphy	106415612
+callimorpha	102308451
+callimorpha jacobeae	102308581
+callinectes	101982379
+callinectes sapidus	101982515
+calling	100584283
+calling card	105860852 106645712 113397685
+calling into question	107246713
+calling together	101233339
+callionymidae	102621327
+calliope	102944161 109589449
+calliophis	101749206
+calliopsis	111978147
+calliper	102943283 200649423
+calliphora	102194269
+calliphora vicina	102194631
+calliphoridae	102194101
+callipygian	302146818
+callipygous	302146818
+callirhoe	112195259
+callirhoe digitata	112195698
+callirhoe involucrata	112195887
+callirhoe triangulata	112196115
+callisaurus	101681163
+callisaurus draconoides	101681298
+callistephus	111964293
+callistephus chinensis	111964461
+callisthenics	100628677 100628904
+callisto	109254170
+callithricidae	102492661
+callithrix	102493066
+callithump	107068162 108445580
+callithump parade	108445580
+callithumpian	302686057
+callitrichaceae	112714351
+callitriche	112714495
+callitris	111653910
+callitris calcarata	111654450
+callitris cupressiformis	111654314
+callitris endlicheri	111654450
+callitris glauca	111654694
+callitris glaucophylla	111654694
+callitris parlatorei	111654844
+callitris quadrivalvis	111663473
+callophis	101749206
+callorhinus	102080185
+callorhinus ursinus	102080439
+callosectomy	100685168
+callosity	104851856 114387971
+callosotomy	100685168
+callous	200273913 302114442 302456642
+calloused	302456642
+callously	400240256
+callousness	104851856
+callow	300940267
+callowness	114449972
+calluna	112253927
+calluna vulgaris	112254046
+callus	113109448 114387190 114387971 200256638 200256766
+calm	104910990 111451731 200022309 200417496 201767681 201768652 300303560 300531862
+calm air	111451731
+calm down	200559138 201767681 201768652
+calming	101153433
+calmly	400188268 400449959
+calmness	104910990 107530207 114545867
+calnada pea	112596317
+calocarpum	112794094
+calocarpum zapota	112796679
+calocedrus	111654977
+calocedrus decurrens	111655187
+calochortus	112466353
+calochortus albus	112467413
+calochortus amabilis	112467626
+calochortus amoenus	112467851
+calochortus elegans	112468086
+calochortus kennedyi	112468396
+calochortus luteus	112468641
+calochortus macrocarpus	112468866
+calochortus nuttallii	112469205
+calomel	114975076
+caloocan	109004292
+caloosahatchee	109254268
+caloosahatchee canal	102944333
+caloosahatchee river	109254268
+calophyllum	112384896
+calophyllum calaba	112385457
+calophyllum candidissimum	112385802
+calophyllum inophyllum	112385979
+calophyllum longifolium	112385675
+calopogon	112069603
+calopogon pulchellum	112069751
+calopogon tuberosum	112069751
+caloric	302686183 302825392
+calorie	113748406 113748672
+calorie chart	106499447
+calorie-free	300996467
+calorifacient	301251511
+calorific	301251639
+calorimeter	102944550
+calorimetric	302686475
+calorimetry	101003756
+caloscypha fulgens	113050370
+calosoma	102170472
+calosoma scrutator	102170596
+calostoma cinnabarina	113062894
+calostoma lutescens	113062703
+calostoma ravenelii	113063076
+calostomataceae	113062485
+calpac	102944683
+calpack	102944683
+calpe	109051211
+calque	106312435
+calque formation	106312435
+caltha	111748445
+caltha palustris	111748568
+caltrop	111968513 112368811 112744370
+calumet	102944863
+calumniate	200848188
+calumniation	106732328
+calumniatory	301164777
+calumnious	301164777
+calumniously	400459088
+calumny	101222825 106732328
+calvados	107919883
+calvaria	105548040
+calvary	107320650 108814071
+calvary clover	112569510
+calvary cross	102945060
+calvatia	113064909
+calvatia gigantea	113065135
+calve	200058651 201217581
+calvert vaux	111381752
+calves' feet	107682048
+calves' liver	107667816
+calvin	110900150 110900421
+calvin coolidge	110928671
+calvin klein	111126933
+calvin richard klein	111126933
+calving	113463812
+calvinism	106239966
+calvinist	109908798 302964312
+calvinistic	302964312
+calvinistic baptist	108107295
+calvinistical	302964312
+calvino	110900593
+calx	114814055
+calycanthaceae	111720870
+calycanthus	111721145
+calycanthus family	111720870
+calycanthus floridus	111721535
+calycanthus occidentalis	111721771
+calyceal	302686593
+calycinal	302686593
+calycine	302686593
+calycle	102158100 111712577
+calycled	302686942
+calycophyllum	112682634
+calycophyllum candidissimum	112682835
+calycular	302686783
+calyculate	302686942
+calyculus	102158100 111712577
+calymmatobacterium	101367763
+calymmatobacterium granulomatis	101367963
+calypso	109513340 112070031
+calypso bulbosa	112070031
+calypter	102193117
+calyptra	111552998
+calyptrate	302687046 302687120
+calyptridium umbellatum	111882769
+calystegia	112845669
+calystegia sepium	112845821
+calyx	111711992
+calyx tube	111710723
+cam	102945171 109254494
+cam river	109254494
+cam stroke	107365795
+camachile	111784947
+camail	102945300
+camaraderie	104660984
+camarilla	108258719
+camas	112469801
+camash	112469801
+camass	112469801
+camassia	112469529
+camassia leichtlinii	112470289
+camassia quamash	112470031
+camassia scilloides	112470439
+cambarus	101988308
+camber	101003286 109236735 113887044 202039270
+camber arch	102945470
+camberwell beauty	102278212
+cambial	302687193
+cambium	105293911 113118097
+cambodia	108734571
+cambodian	109715676 302980373
+cambodian capital	108734892
+cambodian monetary unit	113719832
+cambria	108914683
+cambrian	109766660 115153501 303141741
+cambrian mountains	109254668
+cambrian period	115153501
+cambric	102945602
+cambric tea	107949892
+cambridge	102945682 108898243 109119256
+cambridge university	102945682
+camcorder	102945804
+camden	109135986
+camel	102439767
+camel cavalry	108406649
+camel racing	100450877
+camel's hair	102945915
+camelhair	102945915
+camelia	112950163
+camelidae	102439444
+camelina	111901079
+camelina sativa	111901260
+camellia	112950163
+camellia japonica	112950360
+camellia sinensis	112950543
+camellia state	109075641
+camelopard	102441664
+camelot	108575826
+camelpox	114285655
+camelus	102439624
+camelus bactrianus	102440113
+camelus dromedarius	102439943
+camembert	107868809
+cameo	102946032
+camera	102946154 104412132
+camera angle	105083553
+camera care	100268665
+camera lens	102946696
+camera lucida	102946920
+camera obscura	102947141
+camera operator	109908991
+camera tripod	102947326
+cameraman	109908991
+cameroon	108735042 109196520
+cameroon franc	113699327
+cameroonian	109715852 303063993
+cameroun	108735042
+camillo golgi	111025776
+camion	103240682 103695799
+camise	102947419
+camisole	102947530 102947601
+camlan	108524130
+camlet	102947711 102947830
+camo	102948034
+camomile	111969871
+camomile tea	107950392
+camorra	108263106
+camosh	112469801
+camouflage	101051190 102947914 102948034 104686431 202163326
+camouflaged	302527770
+camp	102948281 102948616 102948834 102949049 102949268 105657805 108257554 108495029 200526885 201516880 202660091 302403054
+camp bed	103119155
+camp chair	102949725
+camp david	108661074
+camp down	201516880
+camp follower	109909644 109909748
+camp meeting	108325086
+camp out	202660091
+camp robber	101583807
+camp-made	300676930
+campaign	100310732 100799906 100970259 107488069 201096197 201096497 202595732
+campaign for governor	107488347
+campaign hat	102949419
+campaigner	109909143
+campaigning	100801198
+campana	113908953
+campania	108822974
+campanile	102949582
+campanula	112057408
+campanula americana	112058507
+campanula aparinoides	112058677
+campanula carpatica	112059786
+campanula divaricata	112058333
+campanula glomerata	112058875
+campanula medium	112058160
+campanula persicifolia	112059054
+campanula pyramidalis	112059229
+campanula rapunculoides	112057968
+campanula rapunculus	112059367
+campanula rotundifolia	112057797
+campanula trachelium	112059591
+campanulaceae	112057002
+campanulales	111931743
+campanular	302687347
+campanulate	302687347
+campanulated	302687347
+campbell	110900733
+campeachy	112517454
+campeche	108758316 108758450
+campephilus	101842919
+campephilus principalis	101843053
+camper	102949803 109909393
+camper trailer	102949964
+campestral	302058929
+campfire	107318203
+campfire girl	109909524
+campground	108535449
+camphor	114815149
+camphor ball	103794236
+camphor daisy	111996783
+camphor dune tansy	112042351
+camphor ice	102950088
+camphor oil	114815372
+camphor tree	111725089
+camphoraceous	302687562
+camphorate	200187057
+camphorated	300306929
+camphorated tincture of opium	103895671
+camphoric	302687703
+camphorweed	112892456
+camping	101057089
+camping area	108535449
+camping bus	102949803
+camping ground	108535449
+camping site	108535449
+campion	111835960
+campmate	109909863
+campong	108690777
+camponotus	102223328
+campsis radicans	112834995
+campsite	108535449
+campstool	102950208
+camptosorus	113202514
+camptosorus rhizophyllus	113202709
+campus	108535652
+campy	302403054
+campyloneurum	113195413
+campyloneurum augustifolium	113195972
+campylorhynchus	101588811
+campylotropous	301033014
+campylotropous ovule	111700230
+camshaft	102950279
+camus	110900844
+camwood	112529614
+can	102950393 104453410 104453655 105566889 107281481 113788130 200214220 202407967
+can buoy	107281481
+can of worms	105695637
+can opener	102955021
+can-do	300812184
+canaan	108816234
+canaanite	107001985 109909959
+canaanitic	107001806
+canaanitic language	107001806
+canachites	101799821
+canachites canadensis	101799948
+canada	108837973
+canada anemone	111745949
+canada balsam	111642401 114921315
+canada garlic	112453079
+canada ginger	111822879
+canada goose	101860273
+canada jay	101583807
+canada lily	112447254
+canada lynx	102130033
+canada moonseed	111733839
+canada plum	112661045
+canada porcupine	102350825
+canada thistle	111974630
+canada violet	112409169
+canada wild rye	112140234
+canadian	109254797 109715981 302993905
+canadian aspen	112754975
+canadian bacon	107686740
+canadian capital	108846478
+canadian dollar	113694899
+canadian falls	109255072
+canadian fleabane	111976817
+canadian french	106978741
+canadian goldenrod	112037036
+canadian goose	101860273
+canadian hemlock	111647963
+canadian maritime provinces	108840570
+canadian pondweed	112635386
+canadian province	108840877
+canadian red pine	111636937
+canadian river	109254797
+canadian security intelligence service	108359346
+canadian shield	108840311
+canafistola	112512611
+canafistula	112512611
+canakkale bogazi	109063846
+canal	102950684 105258141 109255224 202341011
+canal boat	102951096
+canal of schlemm	105259253
+canal zone	108757662
+canalicular	302687849
+canaliculate	302251809
+canaliculus	105259119
+canalis cervicis uteri	105527210
+canalis inguinalis	105393887
+canalis vertebralis	105256575
+canalisation	101144840 101145128
+canalise	202341011
+canalization	101144840 101145128
+canalize	202341011
+canandaigua lake	109255433
+cananga	111716282
+cananga odorata	111716443
+canangium	111716282
+canape	107597172
+canara	108922911
+canard	106770846
+canarese	109694116
+canaries	109047342
+canary	101535980 104973291 109910114 110110781 300373715
+canary bird	101535980
+canary creeper	112741114
+canary grass	112150503
+canary island hare's foot fern	113209360
+canary islands	109047342
+canary seed	107822096
+canary whitewood	111732751
+canary wine	107910426
+canary yellow	104973291
+canary-yellow	300373715
+canarybird flower	112741114
+canarybird vine	112741114
+canasta	100498071
+canavalia	112531551
+canavalia ensiformis	112531744
+canavalia gladiata	112531993
+canavanine	114627321
+canberra	108851261

@@ -1,0 +1,1000 @@
+100001740	that which is perceived or known or inferred to have its own distinct existence (living or nonliving)
+100001930	an entity that has physical existence
+100002137	a general concept formed by extracting common features from specific examples
+100002452	a separate and self-contained entity
+100002684	a tangible and visible entity; an entity that can cast a shadow
+100003553	an assemblage of parts that is regarded as a single entity
+100003993	a whole (a thing or person) of the same kind or category as another
+100004258	a living (or once living) entity
+100004475	a living thing that has (or can develop) the ability to act or function independently
+100005787	organisms (plants and animals) that live at or near the bottom of a sea
+100005930	a plant or animal that is atypically small
+100006024	an organism that depends on complex organic substances for nutrition
+100006150	an organism (plant or animal) from which younger ones are obtained
+100006269	living things collectively
+100006400	a discrete unit of living matter
+100006484	(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals
+100007347	any entity that produces an effect or is responsible for events or results
+100007846	a human being
+100015568	a living organism characterized by voluntary movement
+100017402	(botany) a living organism lacking the power of locomotion
+100019226	indigenous plants and animals
+100019308	an object occurring naturally; not made by man
+100019793	the real physical matter of which a person or thing consists
+100020270	a particular kind or species of matter with uniform properties
+100021007	that which has mass and occupies space
+100021445	any substance that can be metabolized by an animal to give energy and build tissue
+100021914	any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis
+100022119	a man-made object taken as a whole
+100023083	one of a class of artifacts
+100023280	a feature of the mental life of a living organism
+100023451	the psychological result of perception and learning and reasoning
+100023953	the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior
+100024444	an abstraction belonging to or characteristic of an entity
+100024900	the way something is with respect to its main attributes
+100026390	the experiencing of affective and emotional states
+100027365	a point or extent in space
+100028005	the spatial arrangement of something as distinct from its substance
+100028468	the continuum of experience in which events pass from the future through the present to the past
+100028950	the unlimited expanse in which everything is located
+100029306	physical space independent of what occupies it
+100029413	(physics) an ideal space in which the coordinate dimensions represent the variables that are required to describe a system or substance
+100029677	something that happens at a given place and time
+100029976	a sustained phenomenon or one marked by gradual changes through a series of states
+100030657	something that people do or cause to happen
+100031563	any number of entities (members) considered as a unit
+100032220	an abstraction belonging to or characteristic of two entities or parts together
+100032912	anything owned or possessed
+100033122	a relation between living organisms (especially between people)
+100033319	something that is communicated by or to or between people or groups
+100033914	how much there is or how many there are of something that you can quantify
+100034512	any state or process known through the senses rather than by intuition or reasoning
+100034778	an action
+100034873	an action, often used negatively and without consequences
+100035041	a kind act
+100035244	the act of bringing someone or something up to date
+100035498	cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach
+100035660	the act of terminating a project or procedure before it is completed
+100035910	the action of accomplishing something
+100036418	a festivity in ancient Greece at which competitors contended for prizes
+100036612	the action of alienating; the action of causing to become unfriendly
+100036782	the action of putting something into operation
+100037020	an initial accomplishment that opens the way for further developments
+100037301	an easy accomplishment
+100037483	a notable achievement
+100037727	an outstanding achievement
+100037811	an achievement demonstrating great skill or mastery
+100037921	used in the phrase to your credit' in order to indicate an achievement deserving praise
+100038116	something done (usually as opposed to something said)
+100038913	things done
+100039000	a mode of action
+100039311	(figurative) a course of action that is unproductive and offers no hope of improvement
+100039601	a course of action (following a given idea) that will lead to conflict if it continues unabated
+100039759	a mutual or reciprocal action; interacting
+100039949	reciprocal action and reaction
+100040035	close interaction
+100040283	contact with something dangerous or undesirable
+100040478	contact that occurs when two people look directly at each other
+100040654	the action of fetching
+100040728	contact established between applicants and prospective employees
+100040890	mutual interaction; the activity of reciprocating or exchanging (especially information)
+100041158	mutual exchange of commercial or other privileges
+100041283	interchange between different cultures or different ways of thinking that is mutually productive and beneficial
+100041542	social or verbal interchange (usually followed by with')
+100041700	(usually plural) mutual dealings or connections among persons or groups
+100041926	the action of taking part in a game or sport or other recreation
+100042206	the act using a sword (or other weapon) vigorously and skillfully
+100042352	work of little or no value done merely to look busy
+100042478	the playing of a game of tenpins or duckpins etc
+100042637	the act of acquiring something
+100043049	the act of causing something to happen
+100043279	the act of delivering a child
+100043495	the act of departing
+100043854	brave and heroic feats
+100043933	the act of discovering something
+100044347	the act or means of getting rid of something
+100044640	(baseball) a successful stroke in an athletic contest (especially in baseball)
+100044888	the act of implementing (providing a practical means for accomplishing something); carrying into effect
+100045193	the act of coming (or going) out; becoming apparent
+100045411	the act of making equal or uniform
+100045638	the act of digging something up out of the ground (especially a corpse) where it has been buried
+100045855	(Judaism) a good deed performed out of religious duty
+100045991	the act of propelling
+100046387	the feat of mustering strength for a renewed effort
+100046648	the act of regaining or saving something lost (or in danger of becoming lost)
+100046918	the act of leaving (without permission) the place you are expected to be
+100047085	a difficult or unusual or dangerous feat; usually done to gain attention
+100047263	the act of putting two things together with no space between them
+100047759	a masterly or brilliant feat
+100047847	any recognized accomplishment
+100048097	better than expected performance (better than might have been predicted from intelligence tests)
+100048291	poorer than expected performance (poorer than might have been predicted from intelligence tests)
+100048486	the sum of recognized accomplishments
+100048682	an irreversible accomplishment
+100048792	advancing toward a goal
+100048966	accomplishment of an objective
+100049115	the act of arriving at a certain place
+100049397	arrival at a new stage
+100049569	arrival that has been awaited (especially of something momentous)
+100049744	the act of entering
+100050103	the act of entering some territory or domain (often in large numbers)
+100050289	entrance by force or without permission or welcome
+100050395	a sudden violent entrance; a bursting in
+100050548	an entrance, especially a theatrical entrance onto a stage or as if onto a stage
+100050729	the act of entailing property; the creation of a fee tail from a fee simple
+100050857	the act of enrolling
+100051015	the act of appearing in public view
+100051304	an act of appearing or becoming visible unexpectedly
+100051513	the act of emerging
+100051707	the act of someone appearing again
+100051897	return by a celebrity to some previously successful activity
+100052012	a coming to or returning home
+100052205	the act of returning to the country of origin
+100052345	the act of entering into or through something
+100052532	mutual penetration; diffusion of each through the other
+100052717	the extent to which a product is recognized and bought by customers in a particular market
+100052872	the act of anchoring
+100052966	the act of securing an arriving vessel with ropes
+100053154	the act of coming to land after a voyage
+100053320	the act of coming down to the earth (or other surface)
+100053611	an unscheduled airplane landing that is made under circumstances (engine failure or adverse weather) not under the pilot's control
+100053840	departing hastily
+100053917	the act of departing politely
+100054225	an abrupt and unannounced departure (without saying farewell)
+100054345	the act of saying farewell
+100054429	the act of leaving secretly or without explanation
+100054626	a sudden disappearance from sight
+100054733	the act of withdrawing
+100055148	withdrawing into the background; making yourself inconspicuous
+100055303	the act of withdrawing or going backward (especially to escape something hazardous or unpleasant)
+100055472	withdrawal for prayer and study and meditation
+100055641	the act of evacuating; leaving a place in an orderly fashion; especially for protection
+100055858	the evacuation of persons (usually by air transportation) to a place where they can receive medical care
+100056047	breaking camp
+100056135	withdrawing support or help despite allegiance or responsibility
+100056453	the act of running away secretly (as to avoid arrest)
+100056613	unauthorized military absence
+100056752	ideological defection from the party line (especially from orthodox communism)
+100056907	migration from a place (especially migration from your native country in order to settle in another)
+100057131	migration into a place (especially migration to a country of which you are not a native in order to settle there)
+100057371	(Judaism) immigration of Jews to Israel
+100057508	(military) the act of pulling back (especially an orderly withdrawal of troops)
+100057732	(military) withdrawal of troops to a more favorable position to escape the enemy's superior forces or after a defeat
+100057982	(military) a temporary stop of offensive military action
+100058126	to break off a military action with an enemy
+100058306	the act of becoming more distant
+100058477	the departure of a vessel from a port
+100058568	a military action of coordinated land, sea, and air forces organized for an invasion
+100058822	the act of passengers and crew getting off of a ship or aircraft
+100059067	debarkation from a boat or ship
+100059157	the act of passengers and crew getting aboard a ship or aircraft
+100059339	the act of going out
+100059428	the act of running away with a lover (usually to get married)
+100059563	the act of escaping physically
+100059947	the act of physically escaping from something (an opponent or a pursuer or an unpleasant situation) by some adroit maneuver
+100060196	the act of avoiding capture (especially by cunning)
+100060372	an action aimed at evading an opponent
+100060548	(boxing) the act of one boxer holding onto the other to avoid being hit and to rest momentarily
+100060715	a quick evasive movement
+100060809	an escape from jail
+100061021	a rapid escape (as by criminals)
+100061234	a journey by a large group to escape from a hostile environment
+100061368	the flight of Muhammad from Mecca to Medina in 622 which marked the beginning of the Muslim era; the Muslim calendar begins in that year
+100061567	a hasty flight
+100061637	secret aid to escaping slaves that was provided by abolitionists in the years before the American Civil War
+100061834	something achieved (or escaped) by a narrow margin
+100061991	emerging to the surface and becoming apparent
+100062110	the act of sending off something
+100062273	the act of shipping again (especially by transferring to another ship)
+100062418	the act of bringing to completion or fruition
+100062612	the completion of marriage by sexual intercourse
+100062737	something that is made real or concrete
+100062953	the moment of most intense pleasure in sexual intercourse
+100063151	an orgasm accompanied by the sensation of ejaculation of semen
+100063271	the act of consummating something (a desire or promise etc)
+100063491	the fulfillment of your capacities
+100063626	the act of achieving an aim
+100063834	an extreme attainment; the best (or worst) performance ever attested (as in a sport)
+100064130	the fastest time ever recorded for a specific distance at a particular racetrack
+100064379	the best record in the whole world
+100064472	an attainment that is successful
+100064838	succeeding with great difficulty
+100064971	an unusually successful hit with widespread popularity and huge sales (especially a movie or play or recording or novel)
+100065190	an unexpected hit
+100065324	a conspicuous success
+100065609	something that exactly succeeds in achieving its goal
+100065918	the act of raising someone to the nobility
+100066036	success in mastering something difficult
+100066156	a brilliant and notable success
+100066238	complete success
+100066395	success in satisfying a test or requirement
+100066675	recognition by a college or university that a course of studies has been successfully completed; typically measured in semester hours
+100066895	a unit of academic credit; one hour a week for an academic semester
+100067036	an act that does not achieve its intended goal
+100067217	an unexpected omission
+100067456	an act that fails
+100067721	failure to reach a minimum required performance
+100067973	complete failure
+100068074	an unexcused absence from class
+100068217	loss due to not showing up
+100068346	the act of losing someone or something
+100068527	the act of surrendering (usually under agreed conditions)
+100068810	an act of hindering someone's plans or efforts
+100068990	an improbable and unexpected victory
+100069153	a failure to maintain a higher state
+100069437	habitual relapse into crime
+100069575	an act (or failure to act) that disappoints someone
+100069721	a failure to perform some promised act or obligation
+100069880	a failure to face some difficulty squarely
+100069993	a breach of a legal duty; failure to do something that is required in a contract
+100070264	a breach of contract committed prior to the time of required performance
+100070424	a breach of due care
+100070505	a failure of the seller's guarantee of good title
+100070635	failure to keep a promise (of marriage)
+100070738	violation (either through fraud or negligence) by a trustee of a duty that equity requires of him
+100070897	larceny after trust rather than after unlawful taking
+100071035	a breach that occurs when an item is deficient according to the terms of a warranty
+100071183	the act of deviating from a vertical position
+100071282	a breach serious enough to destroy the value of the contract and to give a basis for an action for breach of contract
+100071461	the act of motivating; providing incentive
+100071627	a breach that does not destroy the value of the contract but can give rise to a claim for damages
+100071785	a wrong action attributable to bad judgment or ignorance or inattention
+100072366	(tennis) two successive faults in serving resulting in the loss of the point
+100072520	a fault that occurs when the server in tennis fails to keep both feet behind the baseline
+100072684	the momentary juggling of a batted or thrown baseball
+100072888	(baseball) a failure of a defensive player to make an out when normal play would have sufficed
+100073081	an act that brings discredit to the person who does it
+100073293	a mistake that results from taking one thing to be another
+100073511	the mistake of incurring liability or blame
+100073628	a mistake in calculating
+100073852	a miscalculation that recoils on its maker
+100073997	(mathematics) a miscalculation that results from rounding off numbers to a convenient number of decimals
+100074345	(mathematics) a miscalculation that results from cutting off a numerical calculation before it is finished
+100074533	the mistake of misrepresenting the facts
+100074648	a minor inadvertent mistake usually observed in speech or writing or in small accidents or memory lapses etc.
+100074912	a slip-up that (according to Sigmund Freud) results from the operation of unconscious wishes or conflicts and can reveal unconscious processes in normal healthy individuals
+100075144	(sport) the mistake of occupying an illegal position on the playing field (in football, soccer, ice hockey, field hockey, etc.)
+100075344	a mistake resulting from inattention
+100075444	a mistake resulting from neglect
+100075610	an embarrassing mistake
+100076103	an acronym often used by soldiers in World War II: situation normal all fucked up
+100076291	a blunder that makes you look ridiculous; used in the phrase make a spectacle of' yourself
+100076438	something badly botched or muddled
+100076610	a serious and ludicrous blunder
+100076732	(sports) dropping the ball
+100076892	a blunder (especially an actor's forgetting the lines)
+100077016	a socially awkward or tactless act
+100077143	a glaring blunder
+100077213	a conspicuous mistake whose effects seem to reverberate
+100077383	an unintentional but embarrassing blunder
+100077704	a sudden drop from an upright position
+100077989	a fall onto your buttocks
+100078069	a spill in some sport (as a fall from a bicycle or while skiing or being capsized on a surfboard)
+100078239	the act of contracting or assuming or acquiring possession of something
+100078676	the act of obtaining
+100078801	becoming infected
+100079037	acquiring or coming into something (usually undesirable)
+100079213	the act of making money (and accumulating wealth)
+100079356	the formal act of acquiring something (especially territory) by conquest or occupation
+100079641	acquisition of government money for benefits to a specific locale
+100079838	the acquisition of something for payment
+100080032	the act of purchasing back something previously sold
+100080218	buying or selling securities or commodities
+100080423	trading in bonds (usually by a broker on the floor of an exchange)
+100080572	a trading technique involving large blocks of stock with trades triggered by computer programs
+100080728	sale of securities or commodity futures not owned by the seller (who hopes to buy them back later at a lower price)
+100080916	the purchase of securities or commodities by a short seller to close out a short sale
+100081062	buying or selling corporate stock by a corporate officer or other insider on the basis of information that has not been made public and is supposed to remain confidential
+100081294	a put or call option for which the seller or buyer has no underlying security position
+100081439	a put or call option backed by the shares underlying the option
+100081563	the option to buy a given stock (or stock index or commodity future) at a given price before a given date
+100081788	the option to sell a given stock (or stock index or commodity future) at a given price before a given date
+100081994	the option to buy or sell a given stock (or stock index or commodity future) at a given price before a given date; consists of an equal number of put and call options
+100082215	an option granted to corporate executives if the company achieves certain financial goals
+100082392	the act of buying
+100082656	searching for or buying goods or services
+100082901	shopping at a market
+100083043	buying goods to be shipped through the mail
+100083167	purchasing insurance policies for cash from terminally ill policy holders
+100083345	the act of taking something that is offered
+100083574	acquisition of property by descent or by will
+100083690	the act of taking possession of or power over something
+100084080	the act of assuming or taking for granted
+100084268	the act of positing; an assumption taken as a postulate or axiom
+100084405	hereditary succession to a title or an office or property
+100084549	the act of getting possession of something
+100084795	a deliberate act of acquisition of something, often without the permission of the owner
+100085191	the appropriation (of ideas or words etc) from another source
+100085462	changing the pronunciation of a borrowed word to agree with the borrowers' phonology
+100085715	wrongful borrowing
+100085861	a prior appropriation of something
+100086039	the taking possession of something by legal process
+100086252	wrongfully seizing and holding (an office or powers) by force (especially the seizure of a throne or supreme authority)
+100086498	seizure by the government
+100086649	the seizure and holding of property as security for payment of a debt or satisfaction of a claim
+100086960	taking out of an owner's hands (especially taking property by public authority)
+100087117	placing private property in the custody of an officer of the law
+100087367	seizure of illegal drugs by the police
+100087474	the act of coercing someone into government service
+100087629	the act of occupying or taking possession of a building
+100087893	the act of taking occupancy before someone else does
+100088038	seizing property that belongs to someone else and holding it until profits pay the demand for which it was seized
+100088243	the act of providing a subsidy
+100088483	a grant made by a law court
+100088669	(Roman law) a formal award by a magistrate of a thing or person to another person (as the award of a debtor to his creditor); a surrender to a master
+100088974	a grant of federal money to state and local governments to support social welfare programs
+100089187	a grant from a central government to a local government
+100089301	the act of forcibly dispossessing an owner of property
+100089545	the act of apprehending (especially apprehending a criminal)
+100089847	the act of conquering
+100090054	the act of making slaves of your captives
+100090171	getting something back again
+100090477	finding a way to take money back from people that they were given in another way
+100090711	the action of regaining possession (especially the seizure of collateral securing a loan that is in default)
+100090896	the legal proceedings initiated by a creditor to repossess the collateral for loan that is in default
+100091073	the act of receiving
+100091213	(law) the act of disposing of property by virtue of the power of appointment
+100091430	the act of carefully weeding out unwanted things or people
+100091599	disposing of property by voluntary transfer without receiving value in return
+100091833	the voluntary surrender of property (or a right to property) without attempting to reclaim it or give it away
+100092054	getting rid something that is regarded as useless or undesirable
+100092224	getting rid of a stage of a multistage rocket
+100092323	(cards) the act of throwing out a useless card or of failing to follow suit
+100092490	the disposal of explosive mines
+100092599	the activity of detecting and disposing of marine mines
+100092713	the disposal of sewage
+100092797	a deceptive way of selling that involves advertising a product at a very low price in order to attract customers who are then persuaded to switch to a more expensive product
+100093032	a sale of property at a price agreed on by the seller and buyer without an intervening agency
+100093186	the public sale of something to the highest bidder
+100093483	the act of making or transporting alcoholic liquor for sale illegally
+100093667	the act of selling illegally or without permission
+100093826	the sale of capital stock
+100093947	(business) too much capitalization (the sale of more stock than the business warrants)
+100094174	the recovery of useful substances from waste products
+100094303	recovery or preservation from loss or danger
+100094694	saving the lives of drowning persons
+100094821	(theology) the act of delivering from sin or saving from evil
+100095060	the act of absolving or remitting; formal redemption as pronounced by a priest in the sacrament of penance
+100095320	the remission by the pope of the temporal punishment in purgatory that is still due for sins even after absolution
+100095608	a spiritual enlightenment causing a person to lead a new life
+100095774	the state of being a proselyte; spiritual rebirth resulting from the zeal of crusading advocacy of the gospel
+100095941	the act of atoning for sin or wrongdoing (especially appeasing a deity)
+100096149	something done or paid in expiation of a wrong
+100096322	the act of liberating someone or something
+100096693	the use of force to liberate prisoners
+100096791	rescuing from error and returning to a rightful course
+100097031	the act of rescuing a ship or its crew or its cargo from a shipwreck or a fire
+100097163	the act of saving goods or property that were in danger of damage or destruction
+100097333	saving someone or something from harm or from an unpleasant situation
+100097540	a rescue mission to search for survivors and to rescue them
+100097671	the act of freeing from captivity or punishment
+100097789	the act of taking something back
+100097942	a legal seizure by the government of profits beyond a fixed amount
+100098064	the act of appealing for help
+100098168	the act of providing or using the instruments needed for some implementation
+100098324	the act of performing; of doing something successfully; using knowledge as distinguished from merely possessing it
+100098743	the performance of a legal contract as specified by its terms
+100098871	(linguistics) a speaker's actual use of language in real situations; what the speaker actually says, including grammatical errors and other non-linguistic features such as hesitations and other disfluencies (contrasted with linguistic competence)
+100099205	the technical aspects of doing something
+100099445	the performance of duties by a waiter or servant
+100099642	service provided to customers who remain in their vehicles
+100099759	the practice of serving yourself (as in a grocery or cafeteria)
+100099881	a service provided (at a club or restaurant or airport etc.) whereby a patron leaves a car at the entrance and an attendant parks and retrieves it
+100100087	the act of performing a drama
+100100259	an extra or repeated performance; usually given in response to audience demand
+100100408	a performance given extempore without planning or preparation
+100100619	throwing and catching several objects simultaneously
+100100771	an illusory feat; considered magical by naive observers
+100101073	the act of performing music
+100101257	a performance in one place on one night only
+100101363	the act of interpreting something as expressed in an artistic performance
+100101709	a new or different interpretation
+100101823	a distinctive interpretation (especially as used by politicians to sway public opinion)
+100102011	the act of playing a musical instrument
+100102230	managing the bow in playing a stringed instrument
+100102390	bowing in such a way that the bow bounces lightly off the strings
+100102528	playing a pipe or the bagpipes
+100102629	the kind of playing that involves pressing the fingers on the strings of a stringed instrument to control the pitch
+100102859	stopping two strings and producing two notes at the same time
+100102982	(music) playing in a different key from the key intended; moving the pitch of a piece of music upwards or downwards
+100103194	an impromptu jazz concert
+100103277	the act of implementing the control of equipment with advanced technology; usually involving electronic hardware
+100103599	the control of processes by computer
+100103747	the act of motorizing (equiping with motors or with motor vehicles)
+100103960	the act of propelling with force
+100104111	the act of moving a newly built vessel into the water for the first time
+100104239	the launching of a rocket or missile under its own power
+100104410	the launching of a missile or spacecraft to a specified destination
+100104557	the launching of a spacecraft to the moon
+100104654	the act of applying force to propel something
+100104908	(colloquial) the application of maximum thrust
+100105069	the act of applying force suddenly
+100105229	the act of rolling something (as the ball in bowling)
+100105359	the act of throwing (propelling something with a rapid movement of the arm and wrist)
+100105796	(cricket) the act of delivering a cricket ball to the batsman
+100105984	the act of flinging
+100106091	throwing something heavy (with great effort)
+100106299	a violent throw
+100106444	(horseshoes) the throw of a horseshoe so as to lean against (but not encircle) the stake
+100106640	(sports) the act of throwing the ball to another member of your team
+100106924	the action or manner of throwing something
+100107092	(baseball) the act of throwing a baseball by a pitcher to a batter
+100107546	(horseshoes) the successful throw of a horseshoe or quoit so as to encircle a stake or peg
+100107708	a quick throw
+100107836	throwing with a wide motion (as if with a sling)
+100107957	(rugby) an act or instance of throwing a ball in to put it into play
+100108099	an illegal pitching motion while runners are on base
+100108220	a pitch that is not in the strike zone
+100108371	a baseball deliberately thrown at the batter's head
+100108504	a baseball thrown with little velocity when the batter is expecting a fastball
+100108695	a pitch of a baseball that is thrown with spin so that its path curves as it approaches the batter
+100108901	a pitch thrown deliberately close to the batter
+100109001	(baseball) a pitch thrown with maximum velocity
+100109247	a baseball pitch thrown with little speed or spin
+100109365	a baseball pitch in which the hand moves above the shoulder
+100109485	a pitch that the catcher should have caught but did not; allows a base runner to advance a base
+100109638	a pitch with reverse spin that curves toward the side of the plate from which it was thrown
+100109785	a pitch that curves downward rapidly as it approaches the plate
+100109901	a fastball that curves slightly away from the side from which it was thrown
+100110047	an illegal pitch in which a foreign substance (spit or Vaseline) is applied to the ball by the pitcher before he throws it
+100110234	(baseball) a pitch that the batter swings at and misses, or that the batter hits into foul territory, or that the batter does not swing at but the umpire judges to be in the area over home plate and between the batter's knees and shoulders
+100110591	a pitch thrown sidearm instead of overhead
+100110712	an errant pitch that the catcher cannot be expected to catch and that allows a base runner to advance a base
+100110877	throwing the basketball toward the hoop
+100111235	a basketball shot that bounces off of the backboard before passing through the hoop
+100111374	a basketball shot in which the basketball is propelled downward into the basket
+100111565	a forceful dunk
+100111654	a basketball shot that rolls off the tips of the fingers into the basket
+100111784	an unhindered basketball shot from the foul line; given to penalize the other team for committing a foul
+100112042	a foul shot that must be made in order to earn the right to a second foul shot
+100112178	a basketball shot made over the head with the hand that is farther from the basket
+100112323	(basketball) a player releases the basketball at the high point of a jump
+100112480	a basketball shot made with one hand from a position under or beside the basket (and usually banked off the backboard)
+100112659	a one-handed basketball shot made while whirling on the pivot foot
+100112782	a two-handed basketball shot from a stationary position
+100112892	a basketball shot made with an underhand scooping motion
+100113005	a basketball shot made by tapping the rebounding ball back into the basket
+100113132	the act of applying force in order to move something away
+100113494	pushing down
+100113648	depression of a button on a computer mouse
+100113817	a slight push or shake
+100113933	the act of pressing; the exertion of pressure
+100114352	the act of pressing one thing on or into the surface of another
+100114546	the act of shoving (giving a push to someone or something)
+100114774	the act of shoving hastily
+100114915	the act of jostling (forcing your way by pushing)
+100115118	jostling with the elbows
+100115251	the act of pulling; applying force to move something toward or with you
+100115691	the act of dragging (pulling with force)
+100115856	the act of drawing or hauling something
+100116112	the act of hauling something (as a vehicle) by means of a hitch or rope
+100116320	a sudden abrupt pull
+100116487	the act of moving a load by drawing or pulling
+100116623	the act of pulling up or out; uprooting; cutting off from existence
+100116828	the act of pulling and releasing a taut cord
+100116942	(orthopedics) the act of pulling on a bone or limb (as in a fracture) to relieve pressure or align parts in a special way during healing
+100117196	the act of raising something
+100117507	the act of expelling or projecting or ejecting
+100117809	the act of throwing someone or something out of a window
+100117944	reflex changes in the eyes that enable an object to be focused on the retina
+100118087	extension upward of the toes when the sole of the foot is stroked firmly on the outer side from the heel to the front; normal in infants under the age of two years but a sign of brain or spinal cord injury in older persons
+100118398	a reflex that expels gas noisily from the stomach through the mouth
+100118630	the forceful expulsion of something from inside
+100118779	a reflex that closes and opens the eyes rapidly
+100119088	sudden reddening of the face (as from embarrassment or guilt or shame or modesty)
+100119265	the act of expelling (food or phlegm) by coughing
+100119372	the act of spitting (forcefully expelling saliva)
+100119553	the reflex act of ejecting the contents of the stomach through the mouth
+100119899	regurgitation of small amounts of food; seen in some infants after feeding
+100120030	vomiting blood
+100120117	severe and excessive vomiting
+100120222	hyperemesis during pregnancy; if severe it can result in damage to the brain and liver and kidney
+100120388	the act of jumping; propelling yourself off the ground
+100120713	a headlong jump (or fall)
+100120830	the act of hopping; jumping upward or forward (especially on one foot)
+100121022	a light, self-propelled movement upwards or forwards
+100121335	the act of jumping over an obstacle
+100121467	jumping in one spot (as in excitement)
+100121624	the act of propelling something (as a ball or shell etc.) in a high arc
+100121763	(American football) putting the ball in play by passing it (between the legs) to a back
+100121986	the act of causing something to go (especially messages)
+100122186	the act of sending a message; causing a message to be transmitted
+100122465	the act of sending on to another destination
+100122724	the act of referring (as forwarding an applicant for employment or referring a matter to an appropriate agency)
+100122926	(law) the act of remitting (especially the referral of a law case to another court)
+100123158	the transmission of a letter
+100123350	propelling something on wheels
+100123481	the act of firing a projectile
+100123774	the act of shooting at targets
+100123963	a return shot; a retaliatory shot
+100124054	the act of discharging a gun
+100124250	the discharge of a firearm as signal or as a salute in military ceremonies
+100124472	preparation for the delivery of shellfire on a target
+100124603	the act of shooting a gun
+100124828	gunfire directed along the length rather than the breadth of a formation
+100124971	a gunshot from a concealed location
+100125076	a shot aimed at a person's head
+100125162	the sport of shooting at clay pigeons that are hurled upward in such a way as to simulate the flight of a bird
+100125356	shooting artillery shells
+100125437	a fight involving shooting small arms with the intent to kill or frighten
+100125586	a shot taken at an easy or casual target (as by a pothunter)
+100125700	the act of touching physically
+100125946	the act of rubbing or wiping
+100126135	the act of scuffing (scraping or dragging the feet)
+100126256	a light touch or stroke
+100126449	the act of contacting one thing with another
+100126920	the action of bruising
+100127056	the act of colliding with something
+100127267	a sharp collision produced by striking or dashing against something
+100127404	(baseball) the batter's attempt to get on base
+100127541	(baseball) handling the ball while playing in the field
+100127706	(baseball) playing the position of catcher on a baseball team
+100127841	playing golf
+100127971	(baseball) playing the position of pitcher on a baseball team
+100128106	(baseball) an advance to first base by a batter who receives four balls
+100128351	the supreme effort one can make
+100128492	the weakest effort or poorest achievement one is capable of
+100128686	(baseball) a ball struck with the bat so that it stays between the lines (the foul lines) that define the width of the playing field
+100128911	(baseball) a ball struck with the bat so that it does not stay between the lines (the foul lines) that define the width of the playing field
+100129144	a glancing contact with the ball off the edge of the cricket bat
+100129297	(baseball) the act of hitting a baseball lightly without swinging the bat
+100129458	(baseball) a hit that flies up in the air
+100129687	a very long fly ball
+100129796	a short high fly ball
+100129909	(baseball) a hit that travels along the ground
+100130137	a grounder that bounces high in the air
+100130255	a grounder that rolls along the infield
+100130347	(baseball) a failure by a batter or runner to reach a base safely in baseball
+100130563	a putout of a base runner who is required to run; the putout is accomplished by holding the ball while touching the base to which the runner must advance before the runner reaches that base
+100130913	an out resulting from a fielding play (not a strikeout)
+100131167	an out resulting from the batter getting three strikes
+100131332	a strikeout resulting from the batter swinging at and missing the ball for the third strike
+100131493	a play made on a ground ball in which the fielder chooses to put out an advancing runner instead of the batter
+100131666	(baseball) an out that advances the base runners
+100131807	a sacrifice made by hitting a long fly ball
+100131910	(baseball) the successful act of striking a baseball in such a way that the batter reaches base safely
+100132167	a batted or served ball that skims along close to the ground
+100132305	(soccer) the act of hitting the ball with your head
+100132428	(baseball) a hit that flies straight out from the batter
+100132611	a very hard hit ball
+100132697	a single resulting from a line drive
+100132811	a double resulting from a line drive
+100132925	a triple resulting from a line drive
+100133039	(baseball) hitting a baseball so that it drops suddenly
+100133175	a base hit on which the batter scores a run
+100133317	a home run with no runners on base
+100133421	a base hit on which the batter stops safely at first base
+100133576	a base hit on which the batter stops safely at second base
+100133802	a base hit at which the batter stops safely at third base
+100133980	a backhanded blow
+100134054	a sharp slanting blow
+100134158	the act of hitting vigorously
+100134387	a hard blow with a flat object
+100134488	the act of smacking something; a blow delivered with an open hand
+100134695	a very powerful blow with the fist
+100134801	a blow that knocks the opponent off his feet
+100134919	a blow that renders the opponent unconscious
+100135066	a knockout declared by the referee who judges one boxer unable to continue
+100135211	a sharp blow
+100135292	a slap with the flat of the hand
+100135394	a quick blow delivered with a whip or whiplike object
+100135600	(boxing) a blow with the fist
+100135968	a blow with the hand (usually on the ear)
+100136131	the act of touching someone suddenly with your finger or elbow
+100136324	a return punch (especially by a boxer)
+100136457	a hard punch that renders the opponent unable to continue boxing
+100136619	a short swinging punch delivered from the side with the elbow bent
+100136772	a quick short straight punch
+100136868	a short chopping blow to the back of the neck
+100136972	an unexpected punch
+100137050	a hook delivered with an exaggerated swing
+100137149	the act of delivering a blow with the foot
+100137511	(association football) a kick by the defending side after the attacking side sends the ball over the goal-line
+100137696	(rugby) an attempt to kick a goal
+100137804	(football) a kick in which the football is dropped from the hands and kicked before it touches the ground
+100138099	(sports) a kick in which the ball is placed on the ground before kicking
+100138354	(soccer) a place kick that is allowed for a foul or infringement by the other team
+100138529	a free kick from the corner awarded to the other side when a player has sent the ball behind his own goal line
+100138697	(football) kicking (as for a field goal) in which the football is dropped and kicked as it touches the ground
+100138898	a light glancing touch
+100139041	the act of caressing with the lips (or an instance thereof)
+100139261	the act of contacting something with your hand
+100139419	an enthusiastic kiss
+100139554	a loud kiss
+100139619	an openmouthed kiss in which your tongue is inserted into the other's mouth
+100139776	the act of catching an object with the hands
+100140364	(American football) a catch of a punt on the fly by a defensive player who has signalled that he will not run and so should not be tackled
+100140578	(American football) the act of catching a football by a player on the opposing team
+100140739	(American football) the act of catching a pass in football
+100140932	the act of securing possession of the rebounding basketball after a missed shot
+100141084	(baseball) a running catch made near the ground
+100141213	the act of interlocking or meshing
+100141472	the action of touching with the hands (or the skillful use of the hands) or by the use of mechanical means
+100141720	touching something with the fingers
+100141847	the act of groping; and instance of groping
+100141996	a methodical examination or review of a condition or situation
+100142216	an examination and dissection of a dead body to determine cause of death or the changes produced by disease
+100142489	the act of reporting your presence (as at an airport or a hotel)
+100142626	the act of inspecting or verifying
+100142960	a check on work performance or product quality made at random times without warning
+100143181	a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person
+100143485	the act of examining resemblances
+100143877	a method of examining in minute detail
+100144071	a subsequent examination of a patient for the purpose of monitoring earlier treatment
+100144356	a careful and thorough inspection
+100144446	a swift cursory examination or inspection
+100144583	examination of the interior of an eye using an ophthalmoscope
+100144705	a method of examination in which the examiner feels the size or shape or firmness or location of something (of body parts when the examiner is a health professional)
+100145002	a palpatory technique for feeling a floating object in the body (especially for determining the position of a fetus by feeling the rebound of the fetus after a quick digital tap on the wall of the uterus)
+100145265	the act of tickling
+100145452	a light touch with the hands
+100145598	a gentle affectionate stroking (or something resembling it)
+100145844	(sports) the act of touching a player in a game (which changes their status in the game)
+100146038	the act of bringing two things into contact (especially for communication)
+100146599	a connection made via the internet to another website
+100146749	(computer science) the act of interconnecting (wires or computers or theories etc.)
+100146931	the act of intersecting (as joining by causing your path to intersect your target's path)
+100147097	the act of bringing near or bringing together especially the cut edges of tissue
+100147263	the act of linking together as in a series or chain
+100147392	the act of converging (coming closer)
+100147676	the act of joining together as one
+100147911	a coming together of people
+100148007	a casual meeting with a person or thing
+100148134	the act of joining things in such a way that motion is possible
+100148274	an act of joining or adjoining things
+100148415	the act of fastening things together
+100148682	the act of making something less tight
+100148877	the act of making something tighter
+100149062	(surgery) tying a duct or blood vessel with a ligature (as to prevent bleeding during surgery)
+100149266	a sterilization procedure with women; both Fallopian tubes are tied in two places and the tubes removed in between the ligations
+100149473	fastening firmly together
+100149582	fastening by dowels
+100149656	fastening electrical equipment to earth
+100149798	the act of linking things together
+100149904	the act of tying or binding things together
+100150082	loosening the ties that fasten something
+100150328	fastening two pieces of metal together by softening with heat and applying pressure
+100150519	creating a butt joint by welding
+100150715	creating an overlapping joint by welding at small points
+100150917	(baseball) a fly ball hit a short distance into the outfield
+100151048	(baseball) a fly ball that falls between and infielder and an outfielder
+100151199	butt welding by creating an electric arc between the two pieces which melts and joins them; used for joining segments of metal pipe
+100151411	touching with the tongue
+100151582	the act of brushing against while passing
+100151752	the discovery and description of the course of development of something
+100151907	the act of detecting something; catching sight of something
+100152134	discovering your own individuality
+100152229	making an important discovery
+100152317	the act of determining the properties of something, usually by research or calculation
+100152734	the act of discovering again
+100152838	the act of designating or identifying something
+100153050	a system or procedure for identifying persons
+100153158	the procedure of taking inked impressions of a person's fingerprints for the purpose of identification
+100153339	the procedure of analyzing the DNA in samples of a person's body tissue or body fluid for the purpose of identification
+100153547	identifying the nature or cause of some phenomenon
+100153810	determining a person's blood type by serological methods
+100153925	identification of a disease from its symptoms
+100154108	any of the diagnostic procedures used to determine whether a fetus has a genetic abnormality
+100154319	a systematic method of diagnosing a disorder (e.g., headache) that lacks unique symptoms or signs
+100154485	a prediction of the course of a disease
+100154629	finding a solution to a problem
+100154781	the act of validating; finding or testing the truth of something
+100155053	validating the authenticity of something or someone
+100155253	documentary validation
+100155509	establishing something (e.g. gold or silver) as the legal tender of a country
+100155714	the act of proving that an instrument purporting to be a will was signed and executed in accord with legal requirements
+100155905	ending something (e.g. gold or silver) as no longer the legal tender of a country
+100156118	the act of determining that something is false
+100156307	a determination of the place where something is
+100156617	determining the location of something by measuring the time it takes for an echo to return from it
+100156790	the act of determining or ordaining in advance what is to take place
+100156939	determination of the length of a curve; finding a straight line equal in length to a given curve
+100157113	determining again
+100157210	an act that sets in motion some course of events
+100157445	deliberate and intentional triggering (of trouble or discord)
+100157632	using force to cause something to occur
+100157901	causing something without any direct or apparent effort
+100158138	stimulating influence among diverse elements
+100158283	the act of subjecting someone to an influencing experience
+100158507	the act of exposing someone excessively to an influencing experience
+100158697	inadequate publicity
+100158777	influencing strongly
+100159005	exerting shrewd or devious influence especially for one's own advantage
+100159263	deliberate actions of calculated psychological manipulation intended to intimidate or confuse (usually for competitive advantage)
+100159625	a system for self-improvement developed by Emile Coue which was popular in the 1920s and 1930s
+100159816	the act of inducing hypnosis
+100159997	act of bringing about a desired result
+100160216	inducement (as of a public official) by improper means (as bribery) to violate duty (as by commiting a felony)
+100160440	the act of influencing by exciting hope or desire
+100160719	the act of urging by means of teasing or flattery
+100160893	the act of gaining acceptance or affection for yourself by persuasive and subtle blandishments
+100161117	the act of enticing others into sinful ways
+100161235	enticing someone astray from right behavior
+100161352	an act of winning the love or sexual favor of someone
+100161508	a seduction culminating in sexual intercourse
+100161742	the practice of making cuckolds; sexual conquests of married women
+100161864	the act of enticing a person to do something wrong (as an offer of sex in return for money)
+100162063	the act of choosing or selecting
+100162423	the choice of actors to play particular roles in a play or movie
+100162559	choice and use of colors (as by an artist)
+100162708	(statistics) the selection of a suitable sample for study
+100162875	the selection of a random sample; each element of the population has an equal chance of being selected
+100163057	a selection or decision purely at random
+100163238	the population is divided into subpopulations (strata) and random samples are taken of each stratum
+100163453	the act of making up your mind about something
+100163868	the act of making a choice
+100164054	an act of intending; a volition that you intend to carry out
+100164227	a major change in attitude or principle or point of view
+100164451	the act of adulterating (especially the illicit substitution of one substance for another)
+100164600	the act of putting a person into a non-elective position
+100164973	the act of officially naming a candidate
+100165166	the act of distributing something to designated places or persons
+100165400	(computer science) the assignment of particular areas of a magnetic disk to particular data or instructions
+100165622	(sports) the decision made by an umpire or referee
+100165820	the act of appointing summarily (with or without the appointee's consent)
+100165999	the appointment of a delegate
+100166119	the act of ordaining; the act of conferring (or receiving) holy orders
+100166384	designation by the chair granting a person the right to speak in a deliberative body
+100166614	laying hands on a person's head to invoke spiritual blessing in Christian ordination
+100166763	the act of deciding to do something
+100166993	(game) a player's turn to take some action permitted by the rules of the game
+100167176	the act of moving a chess piece
+100167373	interchanging the positions of the king and a rook
+100167523	the removal of an opponent's piece from the chess board
+100167686	(chess) a chess pawn that is moved two squares can be captured by an opponent's pawn commanding the square that was passed
+100167884	(chess) the capture by both players (usually on consecutive moves) of pieces of equal value
+100168099	(chess) gaining (or losing) a rook in return for a knight or bishop
+100168267	(chess) a direct attack on an opponent's king
+100168401	a check on the opponent's king that is delivered by moving a piece out of the line of attack by a queen or rook or bishop
+100168585	a chess move constituting an inescapable and indefensible attack on the opponent's king
+100168771	a chess move early in the game in which the player sacrifices minor pieces in order to obtain an advantageous position
+100168942	a move or step or maneuver in political or diplomatic affairs
+100169058	a move made to gain a tactical end
+100169326	the act of maneuvering a vehicle into a location where it can be left temporarily
+100169479	the act of changing your residence or place of business
+100169732	a secret move (to avoid paying debts)
+100169868	a change to a lower gear in a car or bicycle
+100169968	a change from a financially rewarding but stressful career to a less well paid but more fulfilling one
+100170126	a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning)
+100170343	a bank so steep that the plane's lateral axis approaches the vertical
+100170472	a flight maneuver consisting of a steep climbing turn executed to gain altitude while changing direction
+100170632	a flight maneuver; aircraft flies a complete circle in the vertical plane
+100170826	a loop consisting of a climb followed by inverted flight followed by a dive that returns to horizontal flight
+100170993	a loop consisting of a dive followed by inverted flight followed by a climb that returns to horizontal flight
+100171161	a flight maneuver; aircraft rotates about its longitudinal axis without changing direction or losing altitude
+100171357	a roll in which the plane follows a spiral course
+100171464	a fast roll
+100171531	a flight maneuver; aircraft slides sideways in the air
+100171665	a maneuver executed by an aircraft
+100171871	(American football) the act of warding off a tackler by holding the arm fully extended with the hand against the opponent
+100172070	any clever maneuver
+100172328	a device (such as a rhyme or acronym) used to aid recall
+100172439	a cunning or deceitful action or device
+100172703	(Yiddish) a devious trick; a bit of cheating
+100172894	any distracting or deceptive maneuver (as a mock attack)
+100173038	(football) a deceptive move made by a football player
+100173168	skillful maneuvering or dealing
+100173311	a maneuver in a game or conversation
+100173419	a deceptive maneuver (especially to avoid capture)
+100173531	thing or person that acts to produce a particular effect or achieve an end
+100174021	interchangeable with means' in the expression by means of'
+100174132	a means or way of escaping
+100174336	a rapid means of achieving a goal
+100174610	the means whereby some act is accomplished
+100174852	a way or means to achieve something
+100174976	an auspicious way or means to achieve something
+100175109	any means of advancement
+100175261	any maneuver made as part of progress toward a goal
+100175512	an action taken to offset another action
+100175631	a takeover bid so attractive that the directors of the target company must approve it or risk shareholder protest
+100175799	a measure used by an acquirer to gain control of a takeover target; acquirer tries to persuade other shareholders that the management of the target should be replaced
+100176023	a buyout using borrowed money; the target company's assets are usually security for the loan
+100176282	a leveraged buyout in which the target company's assets are sold to repay the loan that financed the takeover
+100176454	a measure undertaken by a corporation to discourage unwanted takeover attempts
+100176724	giving top executives lucrative benefits that must be paid by the acquirer if they are discharged after a takeover
+100176901	(corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business
+100177161	the target company defends itself by threatening to take over its acquirer
+100177298	the target company defends itself by making its stock less attractive to an acquirer
+100177458	a poison pill with potentially catastrophic implications for the company it is intended to protect
+100177615	the target company defends itself by acquiring a company so onerously regulated that it makes the target less attractive
+100177843	the target company defends itself by selling off its crown jewels
+100177976	a procedure followed in making a medical diagnosis
+100178297	a means to an end; not necessarily a principled or ethical one
+100178487	a precaution in case of an emergency
+100178632	(medicine) a procedure adopted to meet an emergency (especially a medical emergency)
+100178873	the specific techniques used in conducting a particular experiment
+100179026	an experimental procedure in which neither the subjects of the experiment nor the persons administering the experiment know the critical aspects of the experiment
+100179400	something contrived to meet an urgent need or emergency
+100179549	anything that serves as an expedient
+100179681	an unplanned expedient
+100179821	an expedient adopted only in desperation
+100179974	desperate actions taken as a means to an end
+100180124	any very successful means of achieving a result
+100180229	a means of preserving from harm or unpleasantness
+100180425	a means of enforcement
+100180532	a means or agency by which something is expressed or communicated
+100180765	a means of flight or ascent
+100180903	making a chance decision by using lots (straws or pebbles etc.) that are thrown or drawn
+100181077	a decision to do something or to behave in a certain manner
+100181262	the act of accepting with approval; favorable reception
+100181619	a close affectionate and protective acceptance
+100181811	the act of selecting someone or something; the exercise of deliberate choice
+100182040	the selection of a new member (usually by a vote of the existing membership)
+100182222	election again
+100182344	a vote by the electorate determining public opinion on a question of national importance
+100182489	a legislative act is referred for final approval to a popular vote by the electorate
+100182630	a vote to select the winner of a position or political office
+100183062	the opinion of a group as determined by voting
+100183284	a national or state election; candidates are chosen in all constituencies
+100183420	a preliminary election where delegates or nominees are chosen
+100183572	a primary where voters directly select the candidates who will run for office
+100183746	a primary in which only registered members of a particular political party can vote
+100183933	a primary in which any registered voter can vote (but must vote for candidates of only one party)
+100184089	a special election between regular elections
+100184206	a final election to resolve an earlier election that did not produce a winner
+100184354	a choice that is made by counting the number of people in favor of each alternative
+100184844	a vote proportional in magnitude to the number of people that a delegate represents
+100184984	an election in which each person has as many votes as there are positions to be filled and they can all be cast for one candidate or can be distributed in any manner
+100185211	a vote in which each person's choice is secret but the totaled votes are public
+100185350	a ballot cast by a voter who votes for candidates from more than one party
+100185501	a ballot cast by a voter who votes for all the candidates of one party
+100185651	the act of voting in more than one place by the same person at the same election (illegal in U.S.)
+100185830	the deciding vote cast by the presiding officer to resolve a tie
+100185953	getting two things to correspond
+100186156	the act of regarding as equal
+100186287	delivery of an infant whose feet or buttocks appear first
+100186461	position of a fetus in which the buttocks are present at the maternal pelvic outlet
+100186627	the delivery of a fetus by surgical incision through the abdominal wall and uterus (from the belief that Julius Caesar was born that way)
+100187100	delivery in which forceps are inserted through the vagina and used to grasp the head of the fetus and pull it through the birth canal; since the forceps can injure the fetus this procedure has generally given way to cesarean deliveries
+100187398	assisting women at childbirth
+100187483	the act of scoring in a game or sport
+100187905	the score in a bowling match
+100187993	in target shooting: a score made by hitting the center of the target
+100188186	a successful attempt at scoring
+100188348	(soccer) a goal that results when a player inadvertently knocks the ball into the goal he is defending
+100188559	a score in tenpins: knocking down all ten with the first ball
+100188739	a score in tenpins; knocking down all ten after rolling two balls
+100188856	any frame in which a bowler fails to make a strike or spare
+100189032	a football play is changed orally after both teams have assumed their positions at the line of scrimmage
+100189190	the score in a football game
+100189298	(American football) a play in which the opposing team has kicked the football into your end zone
+100189469	a score in American football; a player is tackled behind his own goal line
+100189615	a score in American football; being in possession of the ball across the opponents' goal line
+100189783	a score in American football; a score made by kicking the ball between the opponents' goal posts
+100189955	a successful free throw or try for point after a touchdown
+100190106	in American football a point awarded for a successful place kick following a touchdown
+100190325	the score of a baseball game
+100190414	a score in baseball made by a runner touching all four bases safely
+100190745	a run that was not scored as the result of an error by the other team
+100190889	a run that was scored as a result of an error by the other team
+100191029	a run that is the result of the batter's performance
+100191187	the score in a basketball game
+100191280	a score in basketball made by throwing the ball through the hoop
+100191428	(sports) three consecutive scores by one player or three scores in one game (as in cricket or ice hockey etc.)
+100191632	the successful action of solving a problem
+100191780	a stunt in which you spin the cylinder of a revolver that is loaded with only one bullet and then point the muzzle at your head and pull the trigger
+100191991	the action of changing something
+100192829	the act of changing a fluid by passing it through a filter
+100192998	the filtration of a liquid for extraction or purification
+100193149	the act of reducing complexity
+100193306	the act of reducing to a scheme or formula
+100193462	an act of economizing; reduction in cost
+100193759	the reduction of expenditures in order to become financially stable
+100193948	the saving in cost of production that is due to mass production
+100194074	(physiology) the automatic adjustment in focal length of the natural lens of the eye
+100194255	(physiology) the responsive adjustment of a sense organ (as the eye) to varying conditions (as of light)
+100194471	the process of adjusting the eyes to low levels of illumination; cones adapt first; rods continue to adapt for up to four hours
+100194660	the process of adjusting the eyes to relatively high levels of illumination; the pupil constricts and the cones system is operative
+100194854	the action of taking up as by tightening or absorption or reeling in
+100194976	the act of adjusting again (to changed circumstances)
+100195106	accommodation to domestic life
+100195263	the act of changing to a decimal system
+100195494	the act of changing from imperial units of measurement to metric units: meters, grams, seconds
+100195680	a general accommodation to unchanging environmental conditions
+100195818	an activity that varies from a norm or standard
+100196043	the act of changing or altering something slightly but noticeably from the norm or standard
+100196264	act of changing in practice or custom
+100196418	the act of introducing variety (especially in investments or in the variety of goods and services offered)
+100196787	in constant change
+100196933	the act of changing one thing or position for another
+100197251	a sudden unexpected switch
+100197334	the act of putting one thing or person in the place of another:
+100197697	(law) the replacement of one obligation by another by mutual agreement of both parties; usually the replacement of one of the original parties to a contract with the consent of the remaining party
+100197985	replacing a pitcher in baseball
+100198078	the act of discharging someone because of age (especially to cause someone to retire from service on a pension)
+100198268	act of replacing one person or thing by another especially one held to be superior
+100198459	act of taking the place of another especially using underhanded tactics
+100198621	the act of furnishing an equivalent person or thing in the place of another
+100198967	(law) the act of substituting of one creditor for another
+100199119	the act of substituting other food for the mother's milk in the diet of a child or young mammal
+100199300	act of raising in rank or position
+100199480	the act of preferring
+100199642	act of lowering in rank or position
+100199768	the ceremonial act of clothing someone in the insignia of an office; the formal promotion of a person to an office or rank
+100199979	the act of changing something into something different in essential characteristics
+100200556	the act of making something different (as e.g. the size of a garment)
+100200890	the act of distracting; drawing someone's attention away from something
+100201093	the act of charging a liquid with a gas making it effervescent
+100201228	the act of modifying or adjusting according to due measure and proportion (as with regard to artistic effect)
+100201412	the act of modifying or changing the strength of some idea
+100201617	an extensive alteration of the structure of a corporation or government
+100201907	the act of passing from one state or place to the next
+100202118	becoming inflexible or out of date
+100202246	the act of changing smoothly from one state or situation to another
+100202365	the act of altering something secretly or improperly
+100202520	the act of transfering something from one form to another
+100202772	the action of prohibiting or inhibiting or forbidding (or an instance thereof)
+100203133	the action of opposing something that you disapprove or disagree with
+100203469	a management action resisting employee's demands; employees are barred from entering the workplace until they agree to terms
+100203665	doing something in opposition to another way of doing it that you don't like
+100203869	an adverse reaction to some political or social occurrence
+100204057	backlash by white racists against black civil rights advances
+100204191	the act of rejecting something
+100204498	a curt or disdainful rejection
+100204602	deliberately avoiding; keeping away from or preventing from happening
+100204871	the act of turning yourself (or your gaze) away
+100205048	an avoidance of danger or difficulty
+100205183	something that barely avoids failure or disaster
+100205288	the act of giving something up
+100205508	abandoning without shelter or protection (as by leaving an infant out in the open)
+100205663	the act of abandoning a party for cause
+100205792	a sudden abandonment (as from a political party)
+100205928	the act of renouncing; sacrificing or giving up or surrendering (a possession or right or title or privilege etc.)
+100206198	the act of refusing an offer
+100206392	the act of forsaking
+100206498	renunciation of your own interests in favor of the interests of others
+100206740	the act of losing or surrendering something as a penalty for a mistake or fault or failure to perform etc.
+100206979	a group's refusal to have commercial dealings with some organization in protest against its policies
+100207151	rejection by means of an act of banishing or proscribing someone
+100207449	the formal act of pronouncing (someone or something) accursed
+100207628	the act of expelling a lawyer from the practice of law
+100207776	the act of forcing out someone or something
+100208155	the expulsion from a country of an undesirable alien
+100208283	the act of excluding someone from society by general consent
+100208471	the act of excluding someone by a negative vote or veto
+100208610	the act of expelling a person from their native land
+100208990	the deportation of the Jews to Babylonia by Nebuchadnezzar in 586 BC
+100209126	the act of banishing a member of a church from the communion of believers and the privileges of the church; cutting a person off from a religious society
+100209370	mild banishment; consignment to an inferior position
+100209543	banishment into the country
+100209646	the act of ejecting someone or forcing them out
+100209792	the act of deposing someone; removing a powerful person from a position or office
+100209981	a temporary debarment (from a privilege or position etc)
+100210150	temporary dismissal of a student from a university
+100210295	act of removing from office or employment
+100210395	a vote that blocks a decision
+100210529	indirect veto of legislation by refusing to sign it
+100210638	a vote cast by writing in the name of a candidate who is not listed on the ballot
+100210792	the act of ending something
+100211367	the act of finishing
+100211646	the concluding part of any performance
+100211789	(music) the act or manner of terminating a musical phrase or tone
+100211959	a concluding action
+100212311	the act of finalizing
+100212442	carrying some project or intention to full completion
+100212625	the act of carrying a stroke to its natural completion
+100212914	the successful completion of a program of study
+100213054	withdrawal from your position or occupation
+100213226	the act of retiring into inactivity
+100213400	the action of retiring to and living in the country
+100213527	a final performance or effort (especially before retirement)
+100213657	the act of giving up and abandoning a struggle or task etc.
+100213901	the act of ceding
+100214035	act of relinquishing property or authority etc
+100214192	the delivery of a principal into lawful custody
+100214349	the surrender of an accused or convicted person by one state or country to another (usually under the provisions of a statute or treaty)
+100214561	a formal written statement of relinquishment
+100214770	an act exempting someone
+100215015	an exemption granted after influence (e.g., money) is brought to bear
+100215182	personal immunity accorded to a public official from liability to anyone injured by actions that are the consequence of exerting official authority
+100215393	an exemption that precludes bringing a suit against the sovereign government without the government's consent
+100215661	a broader form of use immunity that also protects the witness from any prosecution brought about relating to transactions to which they gave testimony
+100215880	an exemption that displaces the privilege against self-incrimination; neither compelled testimony or any fruits of it can be used against the witness who therefore can no longer fear self-incrimination
+100216181	the termination or disintegration of a relationship (between persons or nations)
+100216401	separation or breakup or divorce
+100216550	the termination of a ruler or institution (especially by force)
+100216705	the act of subverting; as overthrowing or destroying a legally constituted government
+100216905	the termination of a meeting
+100217041	the termination of someone's employment (leaving them free to depart)
+100217474	an abrupt and unceremonious dismissal
+100217590	dismissal from office

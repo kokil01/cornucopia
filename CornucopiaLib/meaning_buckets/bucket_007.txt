@@ -1,0 +1,1000 @@
+101173303	coming into conflict with
+101173452	the act of fighting; any contest or struggle
+101174134	the art or sport of fighting with swords (especially the use of foils or epees or sabres to score points under a set of rules)
+101174521	conflict between members of the same organization (usually concealed from outsiders)
+101174663	a brief but vigorous fight
+101174742	the violent interaction of individuals or groups entering into combat
+101174931	disorderly fighting
+101175088	(informal British usage) aggravation or aggression
+101175274	a prearranged fight with deadly weapons by two people (accompanied by seconds) in order to settle a quarrel over a point of honor
+101175528	a powerful stroke with the fist or a weapon
+101176059	a return blow; a retaliatory blow
+101176150	a sweeping blow or stroke
+101176316	a fight with bare fists
+101176455	a strong blow with a knife or other sharp pointed instrument
+101176741	(fencing) an attacking thrust made with one foot forward and the back leg straight and with the sword arm outstretched forward
+101176985	(fencing) blocking a lunge or deflecting it with a circular motion of the sword
+101177135	(fencing) a second thrust made on the same lunge (as when your opponent fails to riposte)
+101177315	(fencing) a counterattack made immediately after successfully parrying the opponents lunge
+101177478	a sharp stinging blow
+101177589	a heavy blow with the hand
+101177685	a swinging blow directed upward (especially at an opponent's chin)
+101177806	the act of pounding (delivering repeated heavy blows)
+101178123	a blow hard enough to cause injury
+101178321	an illegal and unsportsmanlike act of unnecessary violence
+101178521	a severe blow
+101178605	the act of subjecting to strong attack
+101178709	the act of overcoming or outdoing
+101178825	a noisy fight
+101178921	a noisy fight in a crowd
+101179030	fighting with knives
+101179139	a fight between rival gangs of adolescents
+101179247	a fight between two people
+101179421	deliberate interference
+101179523	the act of protesting; a public (often organized) manifestation of dissent
+101179817	refusal to accept some authority or code or convention
+101180073	a fistfight
+101180193	a public display of group feelings (usually of a political nature)
+101180480	a demonstration held in opposition to another demonstration
+101180685	the act of walking out (of a meeting or organization) as a sign of protest
+101180905	demonstration (1773) by citizens of Boston who (disguised as Indians) raided three British ships in Boston harbor and dumped hundreds of chests of tea into the harbor; organized as a protest against taxes on tea
+101181218	a protest march against (a particular) war and in favor of peace
+101181340	a form of civil disobedience in which demonstrators occupy seats and refuse to move
+101181494	occasion when workers continue to work as a protest against e.g. proposed dismissal or closure of the factory
+101181657	occasion when you can express opposition by marching (usually on some government institution) without a license
+101181883	an insubordinate act
+101182054	obstinate rebelliousness and insubordination; resistance to authority
+101182197	the failure to obey
+101182417	a group's refusal to obey a law because they believe the law is immoral (as in protest against discrimination)
+101182690	a willful disobedience to or disrespect for the authority of a court or legislative body
+101182888	deliberate obstruction of the operation of the federal legislative branch
+101183047	disrespect for the rules of a court of law
+101183208	a failure to follow a court order that benefits someone else
+101183348	willful refusal to appear before a court or comply with a court order; can result in a finding of contempt of court
+101183556	an act of disrespect that impedes the administration of justice
+101183702	impeding those who seek justice in a court (as by trying to influence or intimidate any juror or witness or officer of the court); can result in a finding of contempt of court
+101183965	(law) the administration of justice according to established rules and principles; based on the principle that a person cannot be deprived of life or liberty or property without appropriate legal procedures and safeguards
+101184392	a judicial proceeding brought by one party against another; one party prosecutes another for a wrong done or for protection of a right or for prevention of a wrong
+101184802	an act by a government body or supranational organization
+101185144	a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy
+101185521	a lawsuit alleging violations of civil law by the defendant
+101185656	a lawsuit brought by a representative member of a large group of people on behalf of all members of the group
+101185863	a suit brought against someone who has sued you
+101185987	a lawsuit alleging violations of criminal law by the defendant
+101186128	a hypothetical case that law students argue as an exercise
+101186288	a lawsuit filed to determine the father of a child born out of wedlock (and to provide for the support of the child once paternity is determined)
+101186535	a legal action brought against parties who are charged with limiting free competition in the market place
+101186720	legal action to protect a private civil right or to compel a civil remedy (as distinguished from criminal prosecution)
+101186897	a claim filed in opposition to another claim in a legal action
+101187055	a legal action to determine custody (usually of children following a divorce)
+101187210	a pending lawsuit
+101187304	(law) the institution of a sequence of steps by which legal judgments are invoked
+101187782	a legal proceeding that creates a parent-child relation between persons not related by blood; the adopted child is entitled to all privileges belonging to a natural child of the adoptive parents (including the right to inherit)
+101188101	(law) a legal proceeding in which the appellant resorts to a higher court for the purpose of obtaining a review of a lower court decision and a reversal of the lower court's judgment or the granting of a new trial
+101188471	a judgment by a higher court that the judgment of a lower court was incorrect and should be set aside
+101188682	a judgment by a higher court that the judgment of a lower court was correct and should stand
+101188887	a legal process intended to insure equality among the creditors of a corporation declared to be insolvent
+101189068	a court action that places property under the control of a receiver during litigation so that it can be preserved for the benefit of all
+101189300	a legal proceeding in a court; a judicial contest to determine and enforce legal rights
+101189575	litigation to settle custody of the children of a divorced couple
+101189720	litigation shown to have been instituted maliciously and without probable cause
+101189953	an accusation of crime made by a grand jury on its own initiative
+101190110	the proceeding whereby a foreigner is granted citizenship
+101190300	(law) the determination by a court of competent jurisdiction on matters submitted to it
+101190763	a judgment entered after a written confession by the debtor without the expense of ordinary legal proceedings
+101191027	a judgment entered in favor of the plaintiff when the defendant defaults (fails to appear in court)
+101191273	a judgment entered in favor of the defendant when the plaintiff has not continued his action (e.g., has not appeared in court)
+101191491	a judgment disposing of the case before the court; after the judgment (or an appeal from it) is rendered all that remains is to enforce the judgment
+101191772	(criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed
+101192140	a judgment rendered against an individual (or corporation) for the payment of money damages
+101192419	a judgment pronounced on the status of some particular subject or property or thing (as opposed to one pronounced on persons)
+101192662	a judgment disposing of the matter without a trial
+101192854	judgment rendered through analysis and adjudication of the factual issues presented
+101193051	a judgment rendered by the court prior to a verdict because no material issue of fact exists and one party or the other is entitled to a judgment as a matter of law
+101193374	the act of deciding as an arbiter; giving authoritative judgment
+101193648	the reason for a court's judgment (as opposed to the decision itself)
+101193854	a ruling by the Supreme Court on affirmative action; the Court ruled in 1978 that medical schools are entitled to consider race as a factor in their admission policy
+101194100	a ruling on a point of Islamic law that is given by a recognized authority
+101194245	the act of umpiring
+101194465	the decision of a court on issues of fact or law
+101194640	(law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment
+101194953	a finding as to the applicability of a rule of law to particular facts
+101195123	a verdict resulting from improper compromises between jurors on material issues
+101195304	a verdict entered by the court in a jury trial without consideration by the jury
+101195534	a manifestly unjust verdict; not true to the evidence
+101195666	an ordinary verdict declaring which party prevails without any special findings of fact
+101195852	(criminal law) a finding that the defendant is guilty of some charges but innocent of others
+101196025	an improper and unacceptable kind of compromise verdict
+101196162	a verdict rendered on certain specific factual issues posed by the court without finding for one party or the other
+101196376	a judgment of not guilty
+101196511	conviction for murder
+101196615	conviction for rape
+101196715	conviction for robbery
+101196821	the expulsion of someone (such as a tenant) from the possession of land by process of law
+101197105	a wrongful dispossession
+101197201	the physical ouster of a tenant from the leased premises; the tenant is relieved of any further duty to pay rent
+101197394	action by a landlord that compels a tenant to leave the premises (as by rendering the premises unfit for occupancy); no physical expulsion or legal process is involved
+101197677	an eviction in reprisal for the tenant's good-faith complaints against the landlord; illegal in many states
+101197870	the act of making lawful
+101198074	the act of rendering a person legitimate
+101198357	(law) the determination of a person's innocence or guilt by due process of law
+101198806	a trial that is conducted by a military court
+101198967	a primitive method of determining a person's guilt or innocence by subjecting the accused person to dangerous or painful tests believed to be under divine control; escape was usually taken as a sign of innocence
+101199249	a highly publicized trial in 1925 when John Thomas Scopes violated a Tennessee state law by teaching evolution in high school; Scopes was prosecuted by William Jennings Bryan and defended by Clarence Darrow; Scopes was convicted but the verdict was later reversed
+101199609	a trial held for show; the guilt of the accused person has been decided in advance
+101199748	(law) a judicial reexamination of the proceedings of a court (especially by an appellate court)
+101199969	a proceeding brought to obtain an explanation or an alteration or a reversal of a decree by the court that rendered it
+101200148	review by a court of law of actions of a government official or entity or of some other legally appointed person or body or the review by an appellate court of the decision of a trial court
+101200418	an answer indicating why a suit should be dismissed
+101200558	the prosecution of a defendant for a criminal offense for which he has already been tried; prohibited in the fifth amendment to the United States Constitution
+101200797	the institution and conduct of legal proceedings against a defendant for criminal behavior
+101201078	a representative legal action whose outcome is likely to become a precedent
+101201240	a defendant's answer or plea denying the truth of the charges against him
+101201525	a defense that claims the defendant would not have broken the law if not tricked into doing it by law enforcement officials
+101201742	a trial that is invalid or inconclusive
+101201855	a new trial in which issues already litigated and to which the court has already rendered a verdict or decision are reexamined by the same court; occurs when the initial trial is found to have been improper or unfair due to procedural errors
+101202187	(law) a proceeding (usually by a court) where evidence is taken for the purpose of determining an issue of fact and reaching a decision based on that evidence
+101202490	a hearing that takes place outside the judicial process before hearing examiners who have been granted judicial authority specifically for the purpose of conducting such hearings
+101202756	a hearing to determine legal capacity (to determine whether the defendant can understand the charges and cooperate with a lawyer in preparing a defense)
+101202992	a hearing that is granted in extraordinary situations where the normal judicial process would be inadequate to secure due process because the person would be harmed or denied their rights before a judicial remedy became available (as in deportation or loss of welfare benefits)
+101203347	a hearing to determine by what authority someone has an office or franchise or liberty
+101203511	the social act of separating or parting company
+101203761	the legal dissolution of a marriage
+101203919	(law) the cessation of cohabitation of man and wife (either by mutual agreement or under a court order)
+101204135	isolation to prevent the spread of infectious disease
+101204263	the act of secluding yourself from others
+101204396	retreating to the seclusion of your home (as for privacy or escape)
+101204519	the act of isolating something; setting something apart from others
+101204674	the act of segregating or sequestering
+101204905	the action of incorporating a racial or religious group into a community
+101205155	advocacy of a policy of strict separation of church and state
+101205289	the act of ceasing to participate in an activity
+101205394	joint operation or action
+101205767	a group problem-solving technique in which members spontaneously share ideas and solutions
+101205984	cooperative work done by a team (especially when it is effective)
+101206166	acting according to certain accepted standards
+101206545	compliance with formal rules
+101206784	acting in conformity
+101206909	conformity with law or custom or practice etc.
+101207113	strict observance of formalities
+101207201	a lack of conformity with law or custom or practice etc.
+101207335	failure to conform to accepted standards of behavior
+101207500	conformity or harmony
+101207646	act of working jointly
+101207831	act of cooperating traitorously with an enemy that is occupying your country
+101208054	a middle way between two extremes
+101208192	acting together, as agents or circumstances or events
+101208317	the reestablishing of cordial relations
+101208451	acting with less concern for yourself than for the success of the joint activity
+101208643	the act of binding yourself (intellectually or emotionally) to a course of action
+101209043	commitment to some purpose
+101209264	devotion to the doctrine or a cult or to the practices of a cult
+101209400	a devotion to hobbies
+101209476	the act of enlisting (as in a military service)
+101209598	a renewed enlistment
+101209677	loyalty or allegiance to a cause or a person
+101209832	excessive or irrational devotion to some activity
+101210011	devotion to a political party
+101210099	the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose
+101210781	act of assisting or making easier the progress or improvement of something
+101210950	physical assistance
+101211087	act of turning to for assistance
+101211287	with the help of or owing to
+101211414	any of various services designed to aid the poor and aged and to increase the welfare of children
+101211569	close sociological study of a maladjusted person or family for diagnosis and treatment
+101211710	assistance in time of difficulty
+101211977	the act of giving temporary assistance
+101212066	an act of help or assistance
+101212281	an act intended to help that turns out badly
+101212453	a service involving care for other people's children
+101212592	an unpaid service for the benefit of the public that is performed by lawbreakers as part (or all) of their sentence
+101212771	a service that is performed for the benefit of the public or its institutions
+101212929	childcare during the day while parents work
+101213037	a service that provides information and assistance to the users of a computer network
+101213189	the service of ushering people to their seats
+101213306	the act of providing something (lodging or seat or food) to meet a need
+101213509	the act of giving hope or support to someone
+101213675	assistance, such as that provided to an enemy or to a known criminal
+101213829	the act of giving a push
+101213979	anything that serves to increase morale
+101214157	the act of consoling; giving relief in affliction
+101214378	elimination of superfluous details
+101214527	an act of excessive simplification; the act of making something seem simpler than it really is
+101214715	(mathematics) the simplification of an expression or equation by eliminating radicals without changing the value of the expression or the roots of the equation
+101215009	aiding the cause or policy or interests of
+101215372	faithful support for a cause or political party or religion
+101215724	excessive adherence to ecclesiastical forms and activities
+101215896	adherence to some extreme traditional theological concept or interpretation
+101216038	adherence or attachment to a monarchy or to the principle of monarchal government
+101216192	adherence to tradition (especially in cultural or religious matters)
+101216376	the act of providing approval and support
+101216661	active support of an idea or cause etc.; especially the act of pleading or arguing for something
+101216898	a vehement and vociferous advocacy of a cause
+101217047	the act of insisting on something
+101217236	the act of earnestly supporting or encouraging
+101217353	kindly endorsement and guidance
+101217526	the act of sponsoring (either officially or financially)
+101217658	the act of endorsing
+101217882	the formal act of approving
+101218209	the act of reassuring; restoring someone's confidence
+101218392	the activity of providing for or maintaining by supplying with money or necessities
+101218681	the act of sustaining life by food or providing a means of subsistence
+101219005	assistance between and within military commands
+101219228	the pooling of specific resources by subscribing nations for the support of some joint operation
+101219398	arrangements made between nations to assist each other
+101219542	provision of logistic (or administrative) support by one or more of the military services to one or more departments or agencies of the United States government
+101219796	action by one military service to provide logistic (or administrative) support to another military service
+101219989	the act of representing; standing in for someone or some group and speaking with authority in their behalf
+101220210	representation of all parties in proportion to their popular vote
+101220349	the act of giving someone a job
+101220540	a way of hiring longshoremen by the day; applicants gather around a union boss who selects those to be hired
+101220703	the recall of an employee after a layoff
+101220817	the act of reserving (a place or passage) or engaging the services of (a person or group)
+101221083	a favorable judgment
+101221256	the act of admiring strongly
+101221422	the act of glorifying (as in worship)
+101221565	a portrayal of something as ideal
+101221796	the act of indulging in sentiment
+101222041	an act performed to strengthen approved behavior
+101222212	promise of reward as in
+101222382	the act of speaking contemptuously of
+101222563	the act of belittling
+101222641	the act of expressing disapproval (especially of yourself)
+101222825	an abusive attack on a person's character or good name
+101223108	strong criticism
+101223243	the act of discrediting or detracting from someone's reputation (especially by slander)
+101223473	manner of acting or controlling yourself
+101223743	(psychology) the aggregate of the responses or reactions or movements made by an organism in any situation
+101223953	the behavior of a male animal that defines and defends its territory
+101224100	deliberately unfriendly behavior
+101224279	unfriendly behavior that causes anger or resentment
+101224523	the final irritation that stretches your patience beyond the limit
+101224646	violent and bitter exasperation
+101224822	aggressive remarks and behavior like that of a spiteful malicious woman
+101224966	the act of intimidating a weaker person to make them do something
+101225155	the act of inspiring with fear
+101225348	aggravation by deriding or mocking or criticizing
+101225521	making trouble just for the fun of it
+101225632	the act of asserting yourself in an aggressive manner
+101225746	(law) the act of condemning (as land forfeited for public use) or judging to be unfit for use (as a food product or an unsafe building)
+101225977	the act of stigmatizing
+101226161	conduct characteristic of a bohemian
+101226255	conduct that is unfair or unethical or unsportsmanlike
+101226366	underhand commercial or political behavior designed to discredit an opponent
+101226520	a lack of politeness; a failure to show regard for others; wounding the feelings or others
+101226835	the quality of being easy in behavior or style
+101227006	the act of deriding or treating with contempt
+101227189	the act of mocking or ridiculing
+101227317	an impolite act or expression
+101227403	an offensive disrespectful impudent act
+101227516	a deliberately offensive act or something producing the effect of deliberate disrespect
+101227788	an affront to one's dignity or self-esteem
+101227886	the act of scandalizing
+101228051	a kind of discourtesy in the form of an act of presuming
+101228272	a deliberate discourteous act (usually as an expression of anger or disapproval)
+101228486	a refusal to recognize someone you know
+101228670	an aloof refusal to speak to someone you know
+101228778	the manner in which people typically behave or things typically happen
+101229168	an act intending or showing kindness and good will
+101229326	a show of affection motivated by selfishness
+101229430	an act of gracious kindness
+101229572	a favor for someone
+101229679	the act of excusing a mistake or offense
+101229840	a pardon by treating the offender as if the offense had not occurred
+101229984	alleviation of distress; showing great kindness toward the distressed
+101230180	the act of freeing from guilt or blame
+101230294	the act of showing affection
+101230397	the act of showing regard for others
+101230591	an act showing respect (especially a bow or curtsy)
+101230734	a courteous or respectful or considerate act
+101230869	something done as an indication of intention
+101231033	a gracious (but usually meaningless) gesture
+101231134	a courteous act indicating affection
+101231281	polite attentiveness to women
+101231366	a courteous expression (by word or deed) of esteem or regard
+101231712	respectful deference
+101231839	the act of expressing respect for someone who has died
+101232038	proper respect
+101232201	formal expression of respect
+101232282	a considerate and thoughtful act
+101232427	the social act of assembling
+101232772	act of marshaling and organizing and making ready for use or action
+101233055	mobilization of the economy
+101233174	the act of mobilizing for a common purpose
+101233339	the act of convoking
+101233454	the social act of assembling for some common purpose
+101233861	a trip made by a repairman to visit the location of something in need of service
+101234000	a secret rendezvous (especially between lovers)
+101234113	a meeting planned at a certain time and place
+101234251	the act of congregating
+101234384	the act of convening
+101234545	bringing together military forces
+101234656	a meeting devoted to a particular activity
+101234811	a regularly scheduled session as part of a course of study
+101234977	the act of meeting for social purposes
+101235249	the act of going to see some person in a professional capacity
+101235407	the act of visiting in an official capacity (as for an inspection)
+101235543	a visit that last for only a very short time
+101235721	the act of going to see some person or place or thing for a short time
+101235962	the act of being present (at a meeting or event etc.)
+101236192	formal attendance (in court or at a hearing) of a party in an action
+101236367	the act of being present
+101236482	attendance for a particular event or purpose (as to vote in an election)
+101236655	the failure to attend
+101236808	failure to appear (especially as at court)
+101236910	failure to be present
+101237093	habitual absence from work
+101237177	failure to attend (especially school)
+101237294	a reciprocal group action
+101237517	a nonverbal reaction
+101237702	an act of requiting; returning in kind
+101237823	action taken in return for an injury or offense
+101238028	the act of taking revenge (harming someone in retaliation for something harmful that they have done) especially in the next life
+101238511	a retaliatory action against an enemy in wartime
+101238614	the act of making or doing something in return
+101238738	a bitter quarrel between two parties
+101238861	an active struggle between competing entities
+101239056	conflict between law enforcement and those who deal in illegal drugs
+101239198	a struggle (usually prolonged) between competing entities in which neither side is able to win
+101239512	a feud in which members of the opposing parties murder each other
+101239645	an equivalent given in return
+101239732	the act of initiating hostilities
+101239859	the action of making something democratic
+101239980	the act of combining into an integral whole
+101240437	the act of consolidating power under a central control
+101240623	the spread of power away from the center to local branches or governments
+101240832	consolidating two or more things; union in (or into) one body
+101240989	the combination of two or more commercial companies
+101241172	absorption into a single firm of several firms involved in all aspects of a product's manufacture from raw materials to distribution
+101241412	absorption into a single firm of several firms involved in the same level of production and sharing resources at that level
+101241629	the act of sharing in the activities of a group
+101242052	withdrawing from the activities of a group
+101242282	a country's withdrawal from international politics
+101242433	an engagement by contract involving financial obligation
+101242629	the act of incurring (making yourself subject to something undesirable)
+101242775	the act of intervening (as to mediate a dispute, etc.)
+101242997	the act of intervening for the purpose of bringing about a settlement
+101243193	mediation in order to bring about a marriage between others
+101243310	participation by all members of a group
+101243415	nonparticipation in a dispute or war
+101243544	(law) a formal termination (of a relationship or a judicial proceeding etc)
+101243781	an annulment of a marriage
+101243896	the act of vindicating or defending against criticism or censure etc.
+101244159	a specious or deceptive clearing that attempts to gloss over failings and defects
+101244332	the act of defending or explaining or making excuses for by reasoning
+101244544	vindication of a person's character and the re-establishment of that person's reputation
+101244711	a temporary action by workers to protest management decision or to make demands
+101244901	a form of protest by workers in which they deliberately slow down in order to cause problem from their employers
+101245086	a job action in which workers cause a slowdown by doing only the minimum amount required by the rules of the workplace
+101245263	peaceful resistance to a government by fasting or refusing to cooperate
+101245509	a voluntary fast undertaken as a means of protest
+101245636	(Islam) a fast (held from sunrise to sunset) that is carried out during the Islamic month of Ramadan
+101245809	the form of nonviolent resistance initiated in India by Mahatma Gandhi in order to oppose British rule and to hasten political reforms
+101246000	refusal to submit to established authority; originally the refusal of Roman Catholics to attend services of the Church of England
+101246221	a group's refusal to work in protest against low pay or bad work conditions
+101246516	a strike in which workers refuse to leave the workplace until a settlement is reached
+101246674	a strike in support of other workers who are on strike; a strike not resulting from direct grievances against the workers' employer
+101246888	a strike in which the workers walk out
+101246998	a strike undertaken by workers without approval from the officials of their union
+101247140	the act of releasing from a snarled or tangled condition
+101247442	a deliberate act of destruction or disruption in which equipment is damaged
+101247608	the act of exterminating
+101247706	systematic killing of a racial or cultural group
+101247865	an act of mass destruction and loss of life (especially in war or by fire)
+101248018	the mass murder of Jews under the German Nazi regime from 1941 until 1945
+101248165	casting an object in order to determine an outcome randomly
+101248360	the act of throwing dice
+101248497	(craps) a first roll of 7 or 11 that immediately wins the stake
+101248633	the act of flipping a coin
+101248753	a sudden, quick movement
+101248881	an attack of machine-gun fire or cannon fire from a low flying airplane
+101249088	an attack without warning
+101249244	a surprise attack involving the deliberate use of violence against civilians in the hope of attaining political or religious aims
+101249473	the act of concealing yourself and lying in wait to attack by surprise
+101249703	a surprise attack that is launched in order to prevent the enemy from doing it to you
+101249853	the act of killing from ambush
+101249960	freeing someone from the control of another; especially a parent's relinquishing authority and control over a minor child
+101250194	the act of freeing from suspicion
+101250354	the formal act of freeing from slavery
+101250516	an observation made with a radio telescope
+101250622	a stupid mistake
+101250738	the act of admitting someone to enter
+101250965	the act of admitting someone again
+101251155	admission to a group (especially a college or university)
+101251299	the act of marrying again
+101251399	the act of renewing
+101251508	the act of renewing yourself (or itself)
+101251607	the repetition of an experiment in order to test the validity of its conclusion
+101251862	the formal act of liberating someone
+101252030	the act of demolishing
+101252203	(law) the intentional destruction of a document or an alteration of it that destroys its value as evidence
+101252403	willful wanton and malicious destruction of the property of others
+101252578	the act of ceding back
+101252688	the act of amending or correcting
+101252795	a correction by emending; a correction resulting from critical editing
+101252922	a murder carried out by an underworld syndicate
+101253079	murdering an infant
+101253156	murder by shooting someone down in cold blood
+101253258	killing a tyrant
+101253332	murder and robbery by thugs
+101253413	an act that changes the form or character or substance of something
+101253597	electronic jamming over a wide range of frequencies simultaneously
+101253725	electronic jamming of a specific channel or frequency
+101253857	the deliberate use of electromagnetic energy in a manner intended to convey misleading information
+101254076	actions to eliminate revealing telltale indicators that could be used by the enemy (or to convey misleading indicators)
+101254311	actions to represent friendly notional or actual capabilities to mislead hostile forces
+101254510	the introduction of electromagnetic energy into enemy systems that imitates enemy emissions
+101254711	(law) reduction in the value of an estate caused by act or neglect
+101254867	the act of colonizing; the establishment of colonies
+101255153	the transportation of people (as a family or colony) to a new settlement (as after an upheaval of some kind)
+101255387	the act of dismounting (a horse or bike etc.)
+101255505	the act of spreading outward from a central source
+101255647	the act of emitting; causing to flow forth
+101255864	the act of venting
+101255966	deliberate radiation or reflection of electromagnetic energy for the purpose of disrupting enemy use of electronic devices or systems
+101256252	the act of making something legally void
+101256365	singing in harmony
+101256531	the act of singing with closed lips
+101256638	the act of separating grain from chaff
+101256840	sorting one thing from others
+101257060	a hypothetical mode of instantaneous transportation; matter is dematerialized at one place and recreated at another
+101257272	the act of singing in a monotonous tone
+101257469	liturgical chanting
+101257565	singing by a soloist of the opening piece of plainsong
+101257712	the intonation of keyboard instruments where the pitch of each note is fixed and cannot be varied by the performer
+101257889	singing popular songs accompanied by a recording of an orchestra (usually in bars or nightclubs)
+101258039	singing with three or more voice parts
+101258136	the act of singing psalms or hymns
+101258235	informal group singing of popular songs
+101258395	a voice exercise; singing scales or runs to the same syllable
+101258522	singing using solfa syllables to denote the notes of the scale of C major
+101258711	singing by changing back and forth between the chest voice and a falsetto
+101258857	the playing of a card to start a trick in bridge
+101259004	the activity of leading
+101259202	(figurative) a position of leadership
+101259362	a position of being the initiator of something and an example that others will follow (especially in the phrase take the lead')
+101259713	the initiating or popularizing of a trend or fashion
+101259825	the act of preceding in time or order or rank (as in a ceremony)
+101260098	any activity that is performed alone without assistance
+101260222	the act of flooding; filling to overflowing
+101260381	(law) a conditional release from imprisonment that entitles the person to serve the remainder of the sentence outside the prison as long as the terms of release are complied with
+101260649	the act of populating (causing to live in a place)
+101260841	the act of pouncing
+101260931	(law) a way of dealing with offenders without imprisoning them; a defendant found guilty of a crime is released by the court without imprisonment subject to conditions imposed by the court
+101261259	clemency or mercy shown to a defeated opponent
+101261399	the act of removing an official by petition
+101261532	the act (by someone having the authority) of annulling something previously done
+101261714	the act of reprieving; postponing or remitting punishment
+101261891	the mistake of not following suit when able to do so
+101262060	(card games) the act of taking a trick with a trump when unable to follow suit
+101262274	(card games) in a single round, the sequence of cards played by all the players; the high card is the winner
+101262453	the act of waking
+101262688	a confusion of activity and gossip
+101262862	the activity of fastening something firmly in position
+101262989	fixation (as by a plaster cast) of a body part in order to promote proper healing
+101263236	violent and excited activity
+101263360	something that agitates and arouses
+101263606	excitation that makes your hair stand up or that chills your bones
+101263786	something that causes you to experience a sudden intense feeling or sensation
+101263983	an act of urging on or spurring on or rousing to action or instigating
+101264205	arousal to violent emotion
+101264338	arousing to a particular emotion or action
+101264467	the act of arousing an organism to action
+101264602	stimulation that arouses a person to lively action
+101264838	an agreeable arousal
+101264934	the removal of trees
+101265067	the act of removing floating material from the surface of a liquid
+101265206	the act of taking out money or other capital
+101265361	the act of withdrawing blood, tumors, etc.
+101265511	the act of spoiling something by causing damage to it
+101265750	the act of turning aside suddenly
+101265911	the act of turning a vehicle around in a limited space by moving in a series of back and forward arcs
+101266075	an act that avoids a loss of face (of dignity or prestige)
+101266204	the act of getting recruits; enlisting people for the army (or for a job or a cause etc.)
+101266417	the act of smoothing
+101266543	the act of referring or consulting
+101266736	the act of giving special importance or significance to something
+101266940	activity that frees or expresses creative energy or emotion
+101267160	a person's dying act; the final thing a person can do
+101267288	a fast shot made with a short powerful swing of the hockey stick
+101267426	an attempt to put the soccer ball into the net by using the head
+101267564	the act of removing the husks from ears of corn
+101267669	repeated blinking or winking (especially if uncontrolled and persistent)
+101267818	an examination of the affairs and records of a bank by a state or federal bank examiner
+101267968	the action of rendering supremely blessed and extremely happy
+101268125	stabilization by bringing into equilibrium
+101268227	the mass expulsion and killing of one ethnic or religious group in an area by another ethnic or religious group in that area
+101268414	starting an automobile engine that has a weak battery by means of jumper cables to another car
+101268645	the activity of obscuring people's understanding, leaving them baffled or bewildered
+101268857	the activity or business of negotiating an agreement; coming to terms
+101268984	the formal act of proclaiming; giving public notice
+101269238	the action of establishing on a socialist basis
+101269438	the act of making something (as a vessel or aircraft) less likely to overturn
+101269628	the action of stupefying; making dull or lethargic
+101269837	reaction of the body to a transfusion of blood that is not compatible with its own blood; an adverse reaction can range from fever and hives to renal failure and shock and death
+101270081	the act of improving something (especially machinery) by raising it to a higher grade (as by adding or replacing components)
+101270301	the actions or practices of a vampire
+101270394	manual turning of a fetus in the uterus (usually to aid delivery)
+101270513	the act of rendering something coarse and unrefined
+101270676	the use or practice of witchcraft
+101270764	a surgical procedure in which tissue or whole organs are transfered from one species to another species
+101270950	the naval battle in which Antony and Cleopatra were defeated by Octavian's fleet under Agrippa in 31 BC
+101271126	islands west of Sicily (now known as the Egadi Islands) where the Romans won a naval victory over the Carthaginians that ended the first Punic War in 241 BC
+101271379	a river in ancient Thrace (now Turkey); in the mouth of this river the Spartan fleet under Lysander destroyed the Athenian fleet in the final battle of the Peloponnesian War (404 BC)
+101271654	a battle in northern France in which English longbowmen under Henry V decisively defeated a much larger French army in 1415
+101271853	a siege and massacre at a mission in San Antonio in 1836; Mexican forces under Santa Anna besieged and massacred American rebels who were fighting to make Texas independent of Mexico
+101272126	a siege in which Federal troops under Sherman cut off the railroads supplying the city and then burned it; 1864
+101272350	a decisive battle during the Napoleonic campaigns (1805); the French under Napoleon defeated the Russian armies of Czar Alexander I and the Austrian armies of Emperor Francis II
+101272646	a battle in which the Scots under Robert the Bruce defeated the English and assured the independence of Scotland
+101272836	the peninsula and island in the Philippines where Japanese forces besieged American forces in World War II; United States forces surrendered in 1942 and recaptured the area in 1945
+101273121	the prolonged bombardment of British cities by the German Luftwaffe during World War II and the aerial combat that accompanied it
+101273353	a battle in 680 in which the grandson of Mohammed and his followers were killed
+101273600	a battle during World War II; in December 1944 von Rundstedt launched a powerful counteroffensive in the forest at Ardennes and caught the Allies by surprise
+101273921	a World War I battle in northwestern France where the Allies defeated the Germans in 1918
+101274162	a naval battle in World War II; Allied land-based bombers destroyed a Japanese convoy in the Bismarck Sea in March 1943
+101274408	the First Duke of Marlborough and Prince Eugene of Savoy defeated the French in 1704 during the War of the Spanish Succession
+101274627	Napoleon defeated the Russians in 1812 in a pitched battle at a village in western Russia west of Moscow, but irreparably weakened his army
+101274860	the battle that ended the Wars of the Roses (1485); Richard III was killed and Henry Tudor was crowned as Henry VII
+101275075	in 1214 the French under Philip Augustus defeated a coalition formed against him in one of the greatest battles of the middle ages
+101275280	a battle in the War of the Grand Alliance in Ireland in 1690; William III defeated the deposed James II and so ended the Catholicism that had been reintroduced in England by the Stuarts
+101275574	a battle in 937 when Athelstan defeated the Scots
+101275723	a pitched battle in the Mexican War in 1847; United States forces under Zachary Taylor defeated the Mexican forces under Santa Anna at a locality in northern Mexico
+101275984	either of two battles during the American Civil War (1861 and 1862); Confederate forces defeated the Federal army in both battles
+101276228	the first important battle of the American War of Independence (1775) which was fought at Breed's Hill; the British defeated the colonial forces
+101276493	ancient city is southeastern Italy where Hannibal defeated the Romans in 216 BC
+101276664	battle of World War I (1917); Italians were defeated by the Austrian and German forces
+101276867	a battle in the Apennines in 321 BC in which the Samnites defeated the Romans
+101277024	a battle in which Philip II of Macedon defeated the Athenians and Thebans (338 BC) and also Sulla defeated Mithridates (86 BC)
+101277226	the battle in which Attila the Hun was defeated by the Romans and Visigoths in 451
+101277402	a major battle in the American Civil War (1863); the Confederates under Robert E. Lee defeated the Union forces under Joseph Hooker
+101277635	a pitched battle in the Mexican War that resulted in a major victory for American forces over Mexican forces at a locality south of Mexico City (1847)
+101277882	in the American Civil War (1863) the Union armies of Hooker, Thomas, and Sherman under the command of Ulysses S. Grant won a decisive victory over the Confederate Army under Braxton Bragg
+101278190	a Confederate victory in the American Civil War (1863); Confederate forces under Braxton Bragg defeated Union forces
+101278427	a war between China and Japan (1894 and 1895) over the control of the Korean Peninsula; China was overwhelmingly defeated at Port Arthur
+101278687	a Japanese defeat in World War II (May 1942); the first naval battle fought entirely by planes based on aircraft carriers
+101278929	battle in the American Revolution; Americans under Daniel Morgan defeated the British
+101279127	the first decisive battle of the Hundred Years' War; in 1346 the English under Edward III defeated the French under Philip of Valois
+101279368	battle in 401 BC when the Artaxerxes II defeated his younger brother who tried to usurp the throne
+101279558	the battle that ended the second Macedonian War (197 BC); the Romans defeated Philip V who lost his control of Greece
+101279781	the unsuccessful campaign in World War I (1915) by the English and French to open a passage for aid to Russia; defeated by the Turks
+101280033	the French military base fell after a siege by Vietnam troops that lasted 56 days; ended the involvement of France in Indochina in 1954
+101280248	in 1649 the place was captured by Oliver Cromwell, who massacred the Catholic inhabitants
+101280431	an amphibious evacuation in World War II (1940) when 330,000 Allied troops had to be evacuated from the beaches in northern France in a desperate retreat under enemy fire
+101280725	a pitched battle in World War II (1942) resulting in a decisive Allied victory by British troops under Montgomery over German troops under Rommel
+101281002	World War II (February 1944); American infantry landed and captured a Japanese stronghold
+101281185	a battle in 1513; the English defeated the invading Scots and James IV was killed
+101281366	a battle in 1745 in which the French army under Marshal Saxe defeated the English army and their allies under the duke of Cumberland
+101281613	a pitched battle in which American revolutionary troops captured Fort Ticonderoga from the British in 1775
+101281835	an important battle in the American Civil War (1862); the Union Army under A. E. Burnside was defeated by the Confederate Army under Robert E. Lee
+101282108	a battle of the American Civil War (1863); the defeat of Robert E. Lee's invading Confederate Army was a major victory for the Union
+101282359	the battle in which Alexander won his first major victory against the Persians (334 BC)
+101282548	a battle in World War II in the Pacific (1942-1943); the island was occupied by the Japanese and later recaptured by American forces
+101282801	a naval battle of the American Civil War (1862); the indecisive battle between the Monitor and the Merrimac
+101283007	the decisive battle in which William the Conqueror (duke of Normandy) defeated the Saxons under Harold II (1066) and thus left England open for the Norman Conquest
+101283285	a battle during the Napoleonic Wars (1800); the French defeated the Austrians
+101283483	a battle in the Korean War (1950); United States forces landed at Inchon
+101283647	discontent with British administration in India led to numerous mutinies in 1857 and 1858; the revolt was put down after several battles and sieges (notably the siege at Lucknow)
+101283920	a battle between the successors of Alexander the Great (301 BC); Lysimachus and Seleucus defeated Antigonus and Demetrius
+101284131	a battle (333 BC) in which Alexander the Great defeated the Persians under Darius III
+101284306	a battle (1590) in which the Huguenots under Henry IV defeated the Catholics under the duke of Mayenne
+101284515	a bloody and prolonged operation on the island of Iwo Jima in which American marines landed and defeated Japanese defenders (February and March 1945)
+101284782	the battle in 1806 in which Napoleon decisively defeated the Prussians
+101284959	an indecisive naval battle in World War I (1916); fought between the British and German fleets off the northwestern coast of Denmark
+101285204	battle of the American Civil War (1864); Union forces under William Tecumseh Sherman were repulsed by Confederate troops under Joseph Eggleston Johnston
+101285459	an amphibious assault in the Pacific in World War II (January 1944); American forces landed and captured a Japanese air base
+101285678	a battle in 217 BC in which Hannibal ambushed a Roman army led by Flaminius
+101285882	(1568) Catholic forces supporting Mary Queen of Scots were routed by Protestants
+101286058	Turkish sea power was destroyed in 1571 by a league of Christian nations organized by the Pope
+101286246	Thebes defeated Sparta in 371 BC; the battle ended Sparta's military supremacy in Greece
+101286428	the first battle of the American Revolution (April 19, 1775)
+101286617	a battle in World War II; the return of United States troops to the Philippines began with landings on Leyte Island in October 1944; the battle marked first use of kamikaze aircraft by the Japanese
+101286937	a battle in Montana near the Little Bighorn River between United States cavalry under Custer and several groups of Native Americans (1876); Custer was pursuing Sioux led by Sitting Bull; Custer underestimated the size of the Sioux forces (which were supported by Cheyenne warriors) and was killed along with all his command
+101287421	the British residents of Lucknow were besieged by Indian insurgents during the Indian Mutiny (1857)
+101287594	the principal battle of the Balkan Wars (1912); Bulgarian forces defeated the Turks
+101287798	a battle in the Thirty Years' War (1632); Swedes under Gustavus Adolphus defeated the Holy Roman Empire under Wallenstein; Gustavus Adolphus was killed
+101288060	one the four wars between Macedonia and Rome in the 3rd and 2nd centuries BC, which ended in the defeat of Macedonia and its annexation as a Roman province
+101288277	a battle in 1859 in which the French and Sardinian forces under Napoleon III defeated the Austrians under Francis Joseph I
+101288493	a battle in which the Danes defeated the Saxons in 991; celebrated in an old English poem
+101288674	a naval battle in the Spanish-American War (1898); the American fleet under Admiral Dewey defeated the Spanish fleet
+101288886	the site of three famous battles among Greek city-states: in 418 BC and 362 BC and 207 BC
+101289062	a battle in 490 BC in which the Athenians and their allies defeated the Persians
+101289238	a battle in 1800 in which the French under Napoleon Bonaparte won a great victory over the Austrians
+101289431	a battle in 1644 in which the Parliamentarians under the earl of Manchester defeated the Royalists under Prince Rupert
+101289672	a battle during the second Punic War (207 BC); Hannibal's brother Hasdrubal was defeated by the Romans which ended Hannibal's hopes for success in Italy
+101289924	an American operation in World War I (1918); American troops under Pershing drove back the German armies which were saved only by the armistice on November 11
+101290275	naval battle of World War II (June 1942); American planes based on land and on carriers decisively defeated a Japanese fleet on its way to invade the Midway Islands
+101290550	a battle in the Seven Years' War (1759) in which the English forces and their allies defeated the French
+101290765	a pitched battle in New Jersey during the American Revolution (1778) that ended with the withdrawal of British forces
+101291042	a battle in 1645 that settled the outcome of the first English Civil War as the Parliamentarians won a major victory over the Royalists
+101291288	a decisive naval battle in the War of Greek Independence (1827); the Turkish and Egyptian fleet was defeated by an allied fleet of British and French and Russian warships
+101291554	a campaign in the closing days of World War II in the Pacific (April to June 1945); in savage close-quarter fighting United States marines and regular army troops took the island from the Japanese; considered the greatest victory of the Pacific campaign for the Americans
+101291937	a battle (1898) in which an English and Egyptian army under Kitchener defeated the Sudanese
+101292124	the United States and its allies defeated Iraq in a ground war that lasted 100 hours (1991)
+101292323	a long siege of Orleans by the English was relieved by Joan of Arc in 1429
+101292490	battle in which the ruler of Afghanistan defeated the Mahrattas in 1761
+101292655	a naval battle in the Mediterranean Sea off Cape Passero in which the Spanish navy was destroyed by France and England while attempting to recover Sicily and Sardinia from Italy (1719)
+101292928	the final campaign of the American Civil War (1864-65); Union forces under Grant besieged and finally defeated Confederate forces under Lee
+101293204	Caesar defeated Pompey in 48 BC
+101293333	Octavian and Mark Antony defeated Brutus and Cassius in 42 BC
+101293490	a naval battle in World War II (1944); a decisive naval victory for the United States fleet over the Japanese who were trying to block supplies from reaching American troops on Leyte
+101293803	the victory in 1757 by the British under Clive over Siraj-ud-daula that established British supremacy over Bengal
+101294010	a defeat of the Persian army by the Greeks at Plataea in 479 BC
+101294167	the town was taken from the Turks by the Russians in 1877 after a siege of 143 days
+101294332	the battle in 1356 in which the English under the Black Prince defeated the French
+101294510	a battle in the Chino-Japanese War (1894); Japanese captured the port and fortifications from the Chinese
+101294693	a battle in which Mexican forces defeated the French in 1862
+101294836	a major victory by the Romans over the Macedonians in 168 BC; resulted in the downfall of the ancient Macedonian kingdom
+101295046	a battle between the French and an alliance of Spaniards and Swiss and Venetians in 1512
+101295228	a battle in the Thirty Years' War (1643); the French defeated the Spanish invaders
+101295421	a battle in the Seven Years' War (1757); Prussian forces under Frederick the Great defeated the armies of France and Austria
+101295660	a battle in the Meuse-Argonne operation in World War I (1918); the battle in which American troops launched their first offensive in France
+101295931	US forces captured the island from the Japanese in July 1944; it was an important air base until the end of World War II
+101296143	a battle in World War II; the port was captured by United States troops in September 1943
+101296325	a naval battle in the Spanish-American War (1898); the United States fleet bottled up the Spanish ships in the harbor of Santiago de Cuba and destroyed them when they tried to escape
+101296620	a battle during the American Revolution (1777); the British under Burgoyne were defeated
+101296823	the Swiss Confederation escaped Hapsburg domination by their victory in 1386
+101296993	the second great battle of the American Civil War (1862); the battle ended with the withdrawal of Confederate troops but it was not a Union victory
+101297282	a battle in World War I (May 1918); the Germans tried to attack before the American numbers were too great to defeat; the tactical success of the Germans proved to be a strategic failure
+101297644	an indecisive battle in 1859 between the French and Sardinians under Napoleon III and the Austrians under Francis Joseph I
+101297864	battle in World War I (1916)
+101298019	battle of World War II (1944)
+101298175	in the English Channel a small fleet of British ships successfully defeated the large armada sent from Spain by Philip II to invade England
+101298409	a battle between the armies of Grant and Lee during the Wilderness Campaign
+101298618	the Athenian siege of Syracuse (415-413 BC) was eventually won by Syracuse
+101298787	the Roman siege of Syracuse (214-212 BC) was eventually won by the Romans who sacked the city (killing Archimedes)
+101298996	a battle in World War I (1914); decisive German victory over the Russians
+101299188	battles in World War II in the Pacific (November 1943); United States Marines took the islands from the Japanese after bitter fighting
+101299437	a battle in France in 687 among the descendants of Clovis
+101299586	a battle in 9 AD in which the Germans under Arminius annihilated three Roman Legions
+101299782	the final battle of the War of the Roses in 1471 in which Edward IV defeated the Lancastrians
+101299975	a famous battle in 480 BC; a Greek army under Leonidas was annihilated by the Persians who were trying to conquer Greece
+101300197	a naval battle in 1805 off the southwest coast of Spain; the French and Spanish fleets were defeated by the English under Nelson (who was mortally wounded)
+101300469	a battle in central Italy where Hannibal defeated the Romans under Flaminius in 217 BC
+101300653	a naval battle in the Russo-Japanese War (1905); the Japanese fleet defeated the Russian fleet in the Korean Strait
+101300862	the French defeated the Austrian and Prussian troops in 1792 (with a famous cannonade from the French artillery)
+101301064	a battle in World War I (1916); in some of the bloodiest fighting in World War I the German offensive was stopped
+101301288	a decisive battle in the American Civil War (1863); after being besieged for nearly seven weeks the Confederates surrendered
+101301528	a battle in the Napoleonic campaigns (1809); Napoleon defeated the Austrians
+101301715	in December 1941 the island was captured by the Japanese after a gallant last-ditch stand by a few hundred United States marines
+101301967	the battle on 18 June 1815 in which Prussian and British forces under Blucher and the Duke of Wellington routed the French forces under Napoleon
+101302226	American Civil War; a series of indecisive battles in Grant's campaign (1864) against Lee in which both armies suffered terrible losses
+101302485	a battle in the Korean War (November 1950); when UN troops advanced north to the Yalu River 200,000 Chinese troops crossed the river and drove them back
+101302733	in 1781 the British under Cornwallis surrendered after a siege of three weeks by American and French troops; the surrender ended the American Revolution
+101302999	battle in World War I (1914); heavy but indecisive fighting as the Allies and the Germans both tried to break through the lines of the others
+101303273	battle in World War I (1915); Germans wanted to try chlorine (a toxic yellow gas) as a weapon and succeeded in taking considerable territory from the Allied salient
+101303571	battle in World War I (1917); an Allied offensive which eventually failed because tanks bogged down in the waterlogged soil of Flanders; Germans introduced mustard gas which interfered with the Allied artillery
+101303914	the battle in 202 BC in which Scipio decisively defeated Hannibal at the end of the second Punic War
+101304121	civil war in the United States between the North and the South; 1861-1865
+101304577	the revolution of the American Colonies against Great Britain; 1775-1783
+101304940	tension between Arabs and Israeli erupted into a brief war in June 1967; Israel emerged as a major power in the Middle East
+101305174	Egypt and Syria attacked Israel in October 1973 (on Yom Kippur); Israel counterattacked and drove the Syrians back and crossed the Suez Canal into Egypt
+101305426	two wars (1912-1913) that were fought over the last of the European territories of the Ottoman Empire and that left the area around Constantinople (now Istanbul) as the only Ottoman territory in Europe
+101305743	either of two wars: the first when the Boers fought England in order to regain the independence they had given up to obtain British help against the Zulus (1880-1881); the second when the Orange Free State and Transvaal declared war on Britain (1899-1902)
+101306073	the republican revolution against the Manchu dynasty in China; 1911-1912
+101306230	a war in Crimea between Russia and a group of nations including England and France and Turkey and Sardinia; 1853-1856
+101306425	the revolution led by Fidel Castro and a small band of guerrilla fighters against a corrupt dictatorship in Cuba; 1956-1959
+101306612	civil war in England between the Parliamentarians and the Royalists under Charles I; 1644-1648
+101306847	the revolution against James II; there was little armed resistance to William and Mary in England although battles were fought in Scotland and Ireland (1688-1689)
+101307120	a war between France and Prussia that ended the Second Empire in France and led to the founding of modern Germany; 1870-1871
+101307311	a war in North America between France and Britain (both aided by American Indian tribes); 1755-1760
+101307498	the revolution in France against the Bourbons; 1789-1799
+101307638	the series of wars fought intermittently between France and England; 1337-1453
+101307801	a dispute over control of the waterway between Iraq and Iran broke out into open fighting in 1980 and continued until 1988, when they accepted a UN cease-fire resolution
+101308042	a war between North and South Korea; South Korea was aided by the United States and other members of the United Nations; 1950-1953
+101308287	a revolution for agrarian reforms led in northern Mexico by Pancho Villa and in southern Mexico by Emiliano Zapata (1910-1911)
+101308498	after disputes over Texas lands that were settled by Mexicans the United States declared war on Mexico in 1846 and by treaty in 1848 took Texas and California and Arizona and New Mexico and Nevada and Utah and part of Colorado and paid Mexico $15,000,000
+101308849	a series of wars fought between France (led by Napoleon Bonaparte) and alliances involving England and Prussia and Russia and Austria at different times; 1799-1815
+101309227	the invasion and settlement of England by the Normans following the battle of Hastings (1066)
+101309402	a war in which Athens and its allies were defeated by the league centered on Sparta; 431-404 BC
+101309581	a war fought between Iraq and a coalition led by the United States that freed Kuwait from Iraqi invaders; 1990-1991
+101309790	one of the three wars between Carthage and Rome that resulted in the destruction of Carthage and its annexation by Rome; 264-241 BC, 218-201 BC, 149-146 BC
+101310097	the re-establishment of the British monarchy in 1660
+101310245	the revolution against the czarist government which led to the abdication of Nicholas II and the creation of a provisional government in March 1917
+101310499	the coup d'etat by the Bolsheviks under Lenin in November 1917 that led to a period of civil war which ended in victory for the Bolsheviks in 1922
+101310751	Japanese victory in the war with Russia (1904-1905) gave Japan power over Korea and Manchuria
+101310929	a war of England and Prussia against France and Austria (1756-1763); Britain and Prussia got the better of it
+101311159	a war between the United States and Spain in 1898
+101311328	civil war in Spain in which Franco succeeded in overthrowing the republican government; during the war Spain became a battleground for fascists and socialists from all countries; 1936-1939
+101311600	a series of conflicts (1618-1648) between Protestants and Catholics starting in Germany and spreading until France and Denmark and Sweden were opposing the Holy Roman Empire and Spain
+101311886	(Greek mythology) a great war fought between Greece and Troy; the Greeks sailed to Troy to recover Helen of Troy, the beautiful wife of Menelaus who had been abducted by Paris; after ten years the Greeks (via the Trojan Horse) achieved final victory and burned Troy to the ground
+101312298	a prolonged war (1954-1975) between the communist armies of North Vietnam who were supported by the Chinese and the armies of South Vietnam who were supported by the United States
+101312565	the Greeks rebelled against Turkish rule in 1821; with the support of England and France and Russia they won independence in 1828 at Navarino (although the country included only half its present size)
+101312838	Prussia and Austria fought over Silesia and most of the rest of Europe took sides; 1740-1748
+101313027	an aggressive war waged by Louis XIV against Spain and the Holy Roman Empire and England and Holland and other states (1689-1697)
+101313280	a general war in Europe (1701-1714) that broke out when Louis XIV installed his grandson on the throne of Spain; England and Holland hoped to limit Louis' power
+101313536	struggle for the English throne (1455-1485) between the house of York (white rose) and the house of Lancaster (red rose) ending with the accession of the Tudor monarch Henry VII
+101313835	a war (1812-1814) between the United States and England which was trying to interfere with American trade with France
+101314011	a war between the allies (Russia, France, British Empire, Italy, United States, Japan, Rumania, Serbia, Belgium, Greece, Portugal, Montenegro) and the Central Powers (Germany, Austria-Hungary, Turkey, Bulgaria) from 1914 to 1918
+101314587	a war between the Allies (Australia, Belgium, Bolivia, Brazil, Canada, China, Colombia, Costa Rica, Cuba, Czechoslovakia, Dominican Republic, El Salvador, Ethiopia, France, Greece, Guatemala, Haiti, Honduras, India, Iran, Iraq, Luxembourg, Mexico, Netherlands, New Zealand, Nicaragua, Norway, Panama, Philippines, Poland, South Africa, United Kingdom, United States, USSR, Yugoslavia) and the Axis (Albania, Bulgaria, Finland, Germany, Hungary, Italy, Japan, Rumania, Slovakia, Thailand) from 1939 to 1945
+101315584	taxonomic kingdom comprising all living or extinct animals
+101316379	a cell or organism in which genetic recombination has occurred
+101316517	an organism belonging to the same species as another organism
+101316636	(genetics) an organism that possesses a recessive gene whose effect is masked by a dominant allele; the associated trait is not apparent but can be passed on to offspring
+101316879	any unwanted and destructive insect or other animal that attacks food or crops or livestock etc.
+101317154	a regional term for creature' (especially for domestic animals)
+101317272	an animal that creeps or crawls (such as worms or spiders or insects)
+101317401	a person or other animal that moves abruptly and rapidly
+101317553	a plant or animal naturalized in a region
+101317704	an animal that makes short high-pitched sounds
+101317821	an animal that has a body temperature that is relatively constant and independent of the environmental temperature
+101318072	an animal whose body temperature varies with the temperature of its surroundings; any animal except birds and mammals
+101318296	any animal that lives and grazes in the grassy open land of western North America (especially horses, cattle, sheep)
+101318471	any of various small animals or insects that are pests; e.g. cockroaches or rats
+101318779	any usually predatory wild animal considered undesirable; e.g., coyote
+101318913	any animal that feeds on refuse and other decaying organic matter
+101319070	a fish that lives and feeds on the bottom of a body of water
+101319225	a scavenger that feeds low on the food chain
+101319329	a fish that lurks on the bottom of a body of water
+101319440	an animal trained for and used for heavy labor
+101319580	an animal such as a donkey or ox or elephant used for transporting loads or doing other heavy work
+101319785	an animal used for pulling heavy loads
+101319882	an animal (such as a mule or burro or horse) used to carry loads
+101320032	any of various animals that have been tamed and made fit for a human environment
+101320304	an animal being fattened or suitable for fattening
+101320407	an animal that feeds on a particular source of food
+101320544	a domestic animal (especially a young steer or heifer) kept as stock until fattened or matured and suitable for a breeding establishment
+101320770	any recently hatched animal (especially birds)
+101320872	a single domestic animal
+101320969	an animal (especially birds and fish) that travels between different habitats at particular times of the year
+101321151	an animal (especially birds and arthropods and reptiles) that periodically shed their outer layer (feathers or cuticle or skin or hair)
+101321385	a domesticated animal kept for companionship or amusement
+101321492	a person or other animal having powers of endurance or perseverance
+101321678	a creature (especially a whale) that has been prevented from attaining full growth
+101321830	a usually horned animal that has either shed its horns or had them removed
+101321958	any of numerous animals inhabiting the sea including e.g. fishes and molluscs and many mammals
+101322176	unwanted marine creatures that are caught in the nets while fishing for another species
+101322423	(genetics) an organism or cell having a diploid set of chromosomes from each parent
+101322584	(genetics) an organism or cell having the normal amount of DNA per cell; i.e., two sets of chromosomes or twice the haploid number
+101322805	(genetics) an organism or cell having only one complete set of chromosomes
+101322970	(genetics) an organism or cell having a chromosome number that is not an even multiple of the haploid chromosome number for that species
+101323183	(genetics) an organism or cell having more than twice the haploid number of chromosomes
+101323363	an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)
+101323614	female of certain aquatic animals e.g. octopus or lobster
+101323721	an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)
+101323947	any mature animal
+101324070	any immature animal
+101324261	a young animal without a mother
+101324345	any immature mammal
+101324712	a very young mammal
+101324834	young of any of various canines such as a dog or wolf
+101324999	a young wolf
+101325095	a young dog
+101325176	the young of certain carnivorous mammals such as the bear or wolf or lion
+101325389	a young lion
+101325474	a young bear
+101325559	a young tiger
+101325646	young of any of various fur-bearing animals
+101325752	the body of an animal, or bodies of animals, killed by a person or another animal
+101325902	a young mammal that has not been weaned
+101325996	male parent of an animal especially a domestic animal such as a horse
+101326134	female parent of an animal especially domestic livestock
+101326240	a pedigreed animal of unmixed lineage; used especially of horses
+101326422	any creature of exceptional size
+101326542	external opening of urinary or genital system of a lower vertebrate
+101326660	microscopic organism such as an amoeba or paramecium
+101326783	an animal that survives in spite of adversity
+101326946	an animal that has undergone mutation
+101327072	any animal that feeds on flesh
+101327251	any animal that feeds chiefly on grass and other plants
+101327440	any organism that feeds mainly on insects
+101327557	an animal having teeth consolidated with the summit of the alveolar ridge without sockets
+101327701	an animal having teeth fused with the inner surface of the alveolar ridge without sockets
+101327847	an artificial taxonomic category established on the basis of morphological resemblance for organisms of obscure true relationships especially fossil forms
+101328058	one of the bony outgrowths on the heads of certain ungulates
+101328299	deciduous horn of a member of the deer family
+101328416	a bunch of feathers or hair
+101328494	any hard protuberance from the head of an organism that is similar to or suggestive of a horn
+101328656	a showy growth of e.g. feathers or skin on the head of a bird or other animal
+101328839	showy crest or knot of hair or feathers
+101328932	any organism of microscopic size
+101329392	(biology) a single-celled microorganism (especially a flagellate protozoan)
+101329538	an organism (especially a bacterium) that requires air or free oxygen for life
+101329669	an organism (especially a bacterium) that does not require air or free oxygen to live
+101329845	an organism that cannot grow in the presence of oxygen
+101329963	(genetics) an organism that is the offspring of genetically dissimilar parents or stock; especially offspring produced by breeding plants or animals of different varieties or breeds or species
+101330406	a hybrid produced by parents that differ only at two gene loci that have two alleles each
+101330550	a hybrid produced by crossing parents that are homozygous except for a single gene locus that has two alleles (as in Mendel's experiments with garden peas)
+101330762	an organism that can assume more than one adult form as in the castes of ants or termites
+101330943	an animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus)
+101331156	harmless microorganisms (as Escherichia coli) that inhabit the intestinal tract and are essential for its normal functioning
+101331343	(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein
+101331827	a large heterogeneous group of RNA viruses divisible into groups on the basis of the virions; they have been recovered from arthropods, bats, and rodents; most are borne by arthropods; they are linked by the epidemiologic concept of transmission between vertebrate hosts by arthropod vectors (mosquitoes, ticks, sandflies, midges, etc.) that feed on blood; they can cause mild fevers, hepatitis, hemorrhagic fever, and encephalitis
+101332435	the outer covering of protein surrounding the nucleic acid of a virus
+101332576	(virology) a complete viral particle; nucleic acid and capsid (and a lipid envelope in some viruses)
+101332767	any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye
+101332955	a virus that causes upper respiratory infection (including the common cold and bronchiolitis); most often in children
+101333138	animal viruses belonging to the family Arenaviridae
+101333337	the RNA virus that causes Argentine hemorrhagic fever; carried by rats and mice
+101333493	the RNA virus that causes Lassa fever
+101333607	the RNA virus that causes lymphocytic choriomeningitis; infects mice and monkeys and dogs and guinea pigs and human beings
+101333829	the RNA virus that causes Bolivian hemorrhagic fever; carried by rats and mice
+101333986	a large family of arboviruses that affect a wide range of hosts (mainly vertebrates and arthropods)
+101334163	an animal virus belonging to the family Bunyaviridae; can be used as a bioweapon
+101334300	a family of threadlike RNA viruses that cause diseases in humans and nonhuman primates (monkeys and chimpanzees)
+101334508	animal viruses belonging to the family Filoviridae
+101334650	a filovirus that causes Ebola hemorrhagic fever; carried by animals; can be used as a bioweapon
+101334822	a filovirus that causes Marburg disease; carried by animals; can be used as a bioweapon
+101334988	a family of arboviruses carried by arthropods
+101335129	an arbovirus of the family Togaviridae that can cause a variety of encephalitis in horses
+101335294	a family of arboviruses carried by arthropods
+101335436	animal viruses belonging to the family Flaviviridae
+101335581	the flavivirus that causes West Nile encephalitis
+101335723	a family of arborviruses carried by arthropods
+101335942	a family of arborviruses carried by arthropods
+101336124	an animal virus that causes vesicular stomatitis
+101336251	a family of arboviruses carried by arthropods
+101336372	any of a group of viruses that can cause pox diseases in vertebrates
+101336531	a poxvirus closely related to smallpox virus; causes benign gelatinous tumors in humans
+101336677	the virus that causes smallpox in humans; can be used as a bioweapon
+101336858	a type of smallpox virus that has a fatality rate of up to 25 percent
+101337009	a type of smallpox virus that has a fatality rate of about 1 percent
+101337159	the widely studied plant virus that causes tobacco mosaic; it was the first virus discovered (1892)
+101337331	the smallest of viruses; a plant virus with its RNA arranged in a circular chromosome without a protein coat
+101337503	a virus that is parasitic (reproduces itself) in bacteria
+101337859	a bacteriophage that infects the bacterium Escherichia coli
+101337974	a bacteriophage specific for the bacterium Salmonella typhi
+101338101	a plant pathogen that is a virus consisting of a single strand of RNA
+101338300	an animal pathogen that is a virus
+101338717	a group of animal DNA viruses including viruses of ducks and woodchucks and squirrels and others as well as the virus causing hepatitis B in humans
+101338923	any of a group of viruses that contain two single-strand linear RNA molecules per virion and reverse transcriptase (RNA to DNA); the virus transcribes its RNA into a cDNA provirus that is then incorporated into the host cell
+101339240	retrovirus causing T-cell leukemia
+101339359	the virus that causes acquired immune deficiency syndrome (AIDS); it replicates in and kills the helper T cells
+101339551	any of a group of RNA viruses including those that cause influenza and mumps
+101339719	a group of viruses including those causing influenza
+101339832	a group of viruses including those causing mumps and measles
+101339970	a paramyxovirus that forms syncytia in tissue culture and that is responsible for severe respiratory diseases such as bronchiolitis and bronchial pneumonia (especially in children)
+101340224	a group of single-strand RNA viruses with a protein coat
+101340375	the virus causing poliomyelitis
+101340463	the virus causing hepatitis A
+101340556	any of a group of picornaviruses that infect the gastrointestinal tract and can spread to other areas (especially the nervous system)
+101340819	enterovirus causing a disease resembling poliomyelitis but without paralysis
+101340974	any of a group of viruses associated with various diseases including viral meningitis and mild respiratory disorders and diarrhea in newborn infants
+101341178	any of a group of picornaviruses that are responsible for many upper respiratory infections
+101341326	any of the animal viruses that cause painful blisters on the skin
+101341549	a herpes virus that affects the skin and nervous system
+101341724	a herpes virus that causes oral herpes
+101341847	a herpes virus that can cause genital herpes
+101341977	a herpes virus that causes shingles
+101342112	a herpes virus that causes chickenpox and shingles
+101342264	the herpes virus that causes infectious mononucleosis; associated with specific cancers in Africa and China
+101342442	any of a group of herpes viruses that enlarge epithelial cells and can cause birth defects; can affect humans with impaired immunological systems
+101342655	the member of the herpes virus family that is responsible for chickenpox
+101342796	any of a group of animal viruses associated with or causing papillomas or polyomas
+101342972	any of a group of papovaviruses associated with genital or oral carcinomas or a group associated with benign genital tumors
+101343163	a virus the can initiate various kinds of tumors in mice
+101343289	any of a group of arboviruses including those causing rabies
+101343426	a neurotropic non-arbovirus of the family Rhabdoviridae that causes rabies
+101343576	any of a group of non-arboviruses including the rotavirus causing infant enteritis
+101343731	the reovirus causing infant enteritis
+101343824	any of a group of viruses containing DNA in an icosahedral protein shell and causing disease in dogs and cattle; not known to be associated with any human disease
+101344051	a virus that remains dormant in the body for a long time before symptoms appear
+101344221	the virus that produces stunting and yellowing of the leaves of onion plants
+101344368	the virus that produces stunting and yellowing of the leaves of potato plants
+101344517	prokaryotic bacteria and blue-green algae and various primitive pathogens; because of lack of consensus on how to divide the organisms into phyla informal names are used for the major divisions
+101344910	organisms that typically reproduce by asexual budding or fission and whose nutritional mode is absorption or photosynthesis or chemosynthesis
+101345170	the order of animals
+101349840	the order of protoctists
+101350072	in some classifications considered a kingdom
+101350224	considered ancient life forms that evolved separately from bacteria and blue-green algae
+101350499	archaebacteria found in anaerobic environments such as animal intestinal tracts or sediments or sewage and capable of producing methane; a source of natural gas
+101350716	archaebacteria requiring a salt-rich environment for growth and survival
+101350873	halophiles in saline environments such as the Dead Sea or salt flats
+101351029	archaebacteria that thrive in strongly acidic environments at high temperatures
+101351171	(microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants
+101351974	an organism that thrives in a relatively acid environment
+101352136	a beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant
+101352376	a rodlike bacterium (especially any of the rod-shaped or branched bacteria in the root nodules of nitrogen-fixing plants)
+101352589	aerobic rod-shaped spore-producing bacterium; often occurring in chainlike formations; found primarily in soil
+101352867	a species of bacillus that causes anthrax in humans and in animals (cattle and swine and sheep and rabbits and mice and guinea pigs); can be used a bioweapon
+101353126	a species of bacillus found in soil and decomposing organic matter; some strains produce antibiotics
+101353342	a bacillus bacterium that causes the plague; aerosolized bacteria can be used as a bioweapon
+101353496	any spherical or nearly spherical bacteria
+101353635	a bacterial cell intermediate in morphology between a coccus and a bacillus; a very short bacillus
+101353811	an aerobic Gram-negative coccobacillus that causes brucellosis; can be used as a bioweapon
+101353956	any flagellated aerobic bacteria having a spirally twisted rodlike form
+101354094	a genus of helical or curved or straight aerobic bacteria with rounded ends and multiple flagella; found in the gastric mucosa of primates (including humans)
+101354329	the type species of genus Heliobacter; produces urease and is associated with several gastroduodenal diseases (including gastritis and gastric ulcers and duodenal ulcers and other peptic ulcers)
+101354600	an order of bacteria
+101354700	a family of bacteria
+101355215	a genus of bacteria
+101356052	a species of bacteria
+101356299	a species of aerobic bacteria
+101356414	aerobic bacteria widely distributed in nature
+101356573	a species of Gram-negative aerobic bacteria that produce gas and acid from sugars and are sometimes involved in the souring of milk
+101356790	a small family of rod-shaped bacteria
+101356965	the type genus of Rhizobiaceae; usually occur in the root nodules of legumes; can fix atmospheric oxygen
+101357162	small motile bacterial rods that can reduce nitrates and cause galls on plant stems
+101357365	the bacteria that produce crown gall disease in plants
+101357510	one-celled monerans having simple cells with rigid walls and (in motile types) flagella
+101357967	a large group of bacteria having rigid cell walls; motile types have flagella
+101358727	one of two usually recognized orders of true bacteria; Gram-positive spherical or rod-shaped forms; some are motile; in some classifications considered an order of Schizomycetes
+101359100	typically rod-shaped usually Gram-positive bacteria that produce endospores
+101359311	type genus of the Bacillaceae; includes many saprophytes important in decay of organic matter and a number of parasites
+101359529	anaerobic or micro-aerophilic rod-shaped or spindle-shaped saprophytes; nearly cosmopolitan in soil, animal intestines, and dung
+101359797	spindle-shaped bacterial cell especially one swollen at the center by an endospore
+101359969	anaerobic bacterium producing botulin the toxin that causes botulism
+101360148	anaerobic Gram-positive rod bacterium that produces epsilon toxin; can be used as a bioweapon
+101360348	prokaryotic organisms sometimes considered a class or phylum or subkingdom; coextensive with the Cyanophyceae: cyanobacteria (blue-green algae)
+101360608	former term for the Cyanophyta
+101360776	a former classification
+101360900	photosynthetic bacteria found in fresh and salt water, having chlorophyll a and phycobilins; once thought to be algae: blue-green algae
+101361213	predominantly photosynthetic prokaryotic organisms containing a blue pigment in addition to chlorophyll; occur singly or in colonies in diverse habitats; important as phytoplankton
+101361545	former terms for Cyanophyceae
+101361711	blue-green algae
+101361844	type genus of the family Nostocaceae: freshwater blue-green algae
+101362006	found in moist places as rounded jellylike colonies
+101362129	blue green algae
+101362272	a genus of blue-green algae
+101362403	large colonial bacterium common in tropical open-ocean waters; important in carbon and nitrogen fixation
+101362586	green and purple bacteria; energy for growth is derived from sunlight; carbon is derived from carbon dioxide or organic carbon
+101362821	free-living Gram-negative pink to purplish-brown bacteria containing bacteriochlorophyll
+101362971	one of two usually recognized orders of true bacteria; Gram-negative spiral or spherical or rod-shaped bacteria usually motile by polar flagella; some contain photosynthetic pigments
+101363353	rod-shaped Gram-negative bacteria; include important plant and animal pathogens
+101363578	type genus of the family Pseudomonodaceae
+101363754	causes brown rot in tomatoes and potatoes and tobacco etc
+101363902	bacteria usually producing greenish fluorescent water-soluble pigment; some pathogenic for plants and animals
+101364106	a genus of bacteria similar to Pseudomonas but producing a yellow pigment that is not soluble in water
+101364324	bacteria producing yellow non-water-soluble pigments; some pathogenic for plants
+101364481	small motile sulphur bacteria
+101364614	usually rod-shaped bacteria that oxidize ammonia or nitrites: nitrobacteria
+101364837	rod-shaped soil bacteria
+101364977	soil bacteria that convert nitrites to nitrates
+101365121	ellipsoidal soil bacteria
+101365264	soil bacteria that oxidize ammonia to nitrites
+101365410	free-living coccoid to rod-shaped bacteria that derive energy from oxidizing sulfur or sulfur compounds
+101365640	a genus of bacteria
+101365762	small rod-shaped bacteria living in sewage or soil and oxidizing sulfur
+101365929	any bacterium of the genus Thiobacillus
+101366064	rigid spirally curved elongate bacteria
+101366241	a genus of bacteria
+101366360	spirally twisted elongate rodlike bacteria usually living in stagnant water
+101366528	a bacterium causing ratbite fever
+101366649	a genus of bacteria
+101366803	curved rodlike motile bacterium
+101366970	comma-shaped bacteria that cause Asiatic cholera
+101367113	bacteria that cause abortion in sheep
+101367228	family of bacteria living usually in the alimentary canal or on mucous surfaces of warm-blooded animals; sometimes associated with acute infective processes
+101367507	type genus of Bacteroidaceae; genus of Gram-negative rodlike anaerobic bacteria producing no endospores and no pigment and living in the gut of man and animals
+101367763	a genus of bacterial rods containing only the one species that causes granuloma inguinale
+101367963	the species of bacteria that causes granuloma inguinale
+101368115	a genus of Gram-negative aerobic bacteria that occur as pathogens and parasite in many animals (including humans)
+101368325	the type species of the genus Francisella and the causal agent of tularemia in humans; can be used as a bioweapon
+101368526	the pus-producing bacterium that causes gonorrhea
+101368656	a large family of mostly Gram-positive and aerobic and nonmotile rod-shaped bacteria of the order Eubacteriales
+101368917	any species of the genus Corynebacterium
+101369056	the type genus of the family Corynebacteriaceae which is widely distributed in nature; the best known are parasites and pathogens of humans and domestic animals
+101369341	a species of bacterium that causes diphtheria
+101369522	a genus of aerobic motile bacteria of the family Corynebacteriaceae containing small Gram-positive rods
+101369724	any species of the genus Listeria
+101369849	the type species of the genus Listeria; can cause meningitis, encephalitis, septicemia, endocarditis, abortion, abscesses, listeriosis
+101370071	a large family of Gram-negative rod-shaped bacteria of the order Eubacteriales
+101370413	rod-shaped Gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals
+101370736	a genus of bacteria
+101370857	a genus of enteric bacteria
+101370979	a species of bacterium normally present in intestinal tract of humans and other animals; sometimes pathogenic; can be a threat to food safety
+101371193	a genus of bacteria
+101371313	a genus of nonmotile rod-shaped Gram-negative enterobacteria; some cause respiratory and other infections
+101371494	a genus of bacteria
+101371614	rod-shaped Gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon
+101371851	a form of salmonella that causes gastroenteritis in humans
+101371999	a form of salmonella that causes food poisoning in humans
+101372125	a form of salmonella that causes typhoid fever
+101372274	a genus of motile peritrichous bacteria that contain small Gram-negative rod
+101372460	the type species of the genus Serratia; a species found in water and soil and milk and foods and insects; can cause infections of the endocardium and blood and wounds and urinary tract and respiratory tract; has been tested as a bioweapon
+101372783	a genus of bacteria
+101372901	rod-shaped Gram-negative enterobacteria; some are pathogenic for warm-blooded animals; can be used as a bioweapon
+101373106	a bacillus that causes dysentery
+101373222	a genus of bacteria
+101373339	rod-shaped motile bacteria that attack plants
+101373457	a group of true bacteria
+101373554	pleomorphic Gram-negative microorganisms
+101373733	microorganism resembling bacteria inhabiting arthropod tissues but capable of causing disease in vertebrates
+101373983	can cause typhus and Rocky Mountain spotted fever in humans
+101374124	any of a group of very small rod-shaped bacteria that live in biting arthropods (as ticks and mites) and cause disease in vertebrate hosts; they cause typhus and other febrile diseases in human beings
+101374418	a cell-free filtrate held to be a virus responsible for a specific neoplasm
+101374569	a tumor virus transmitted by leafhoppers
+101374679	(genetics) a virus or other agent that is used to deliver DNA to a cell
+101374840	(genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments
+101375013	Gram-negative parasites in warm-blooded vertebrates
+101375185	type genus of the family Chlamydiaceae: disease-causing parasites
+101375350	coccoid rickettsia infesting birds and mammals; cause infections of eyes and lungs and genitourinary tract

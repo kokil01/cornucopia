@@ -1,0 +1,1000 @@
+106490659	an official document issued by a government and conferring on the recipient the rank of an officer in the armed forces
+106490875	a certificate saying that a departing ship's company is healthy (to be presented at the next port of arrival)
+106491045	a document certifying an act of registering
+106491165	a certificate saying that the holder is qualified to teach in the public schools
+106491336	(law) a document that states some contractual relationship or grants some right
+106492177	a financial instrument whose value is based on another security
+106492394	an agreement to buy or sell a specific amount of a commodity or financial instrument at a particular price on a stipulated future date; the contract can be sold before the settlement date
+106492662	a futures contract based on a stock index; a bet on the future price of the indexed group of stocks
+106492827	an unconditional order or promise to pay an amount of money
+106492991	a database containing an ordered array of items (names or topics)
+106494090	a distinct part that can be specified separately in a group of things that could be enumerated on a list
+106494557	one of the items to be considered
+106494667	an item that is incidental
+106494750	an item listed in an inventory
+106494860	an item in an appropriation bill
+106495028	an item in a newspaper
+106495143	an item on a list or in a sequence
+106495391	(linguistics) the placing of one linguistic element after another (as placing a modifier after the word that it modifies in a sentence or placing an affix after the base to which it is attached)
+106495681	(linguistics) the placing of one linguistic element before another (as placing a modifier before the word it modifies in a sentence or placing an affix before the base to which it is attached)
+106495968	(linguistics) emphasis placed on the topic or focus of a sentence by preposing it to the beginning of the sentence; placing the topic at the beginning of the sentence is typical for English
+106496385	information that can be used to attack or defend a claim or argument or viewpoint
+106496576	a brief (usually one sentence and usually trivial) news item
+106496690	something resembling a fact; unverified (often invented) information that is given credibility because it appeared in print
+106496867	a document written on papyrus
+106496950	a list of matters to be taken up (as at a meeting)
+106497120	a list of names of specially favored people
+106497282	(law) the calendar of a court; the list of cases to be tried or a summary of the court's activities
+106497489	the order of business for an assembly on a given day
+106497622	a printed copy of the order of the day
+106497731	the schedule of programs to be broadcast on a network
+106497868	the schedule of programs for a particular period
+106497998	(baseball) a list of batters in the order in which they will bat
+106498242	(baseball) the fourth position in the batting order (usually filled by the best batter on the team)
+106498467	a list of writings with time and place of publication (such as the writings of a single author or the works referred to in preparing a document etc.)
+106498711	a list of particulars (as a playbill or bill of fare)
+106498887	a list of goods received at a customhouse for export or import
+106499009	a consignment of merchandise
+106499097	a list of people who are out of favor
+106499232	a list or register of events (appointments or social events or court cases etc)
+106499447	a list of foods and information about their caloric content
+106499566	a complete list of saints that have been recognized by the Roman Catholic Church
+106499734	a complete list of things; usually arranged systematically
+106500061	a descriptive catalog of musical recordings
+106500162	an enumeration of all the resources of a library
+106500310	a library catalog in which each publication is described on a separate file card
+106500466	a list advertising parts for machinery along with prices
+106500600	a list advertising seeds and their prices
+106500717	an ordered list of characters that are used together in writing or printing
+106500907	(usually plural) a listing of best-selling recorded music
+106501061	a list of items (names or tasks etc.) to be checked or consulted
+106501181	a list issued by examiners that categorizes students according to the class of honours they achieved in their degree examinations
+106501401	a policy of supporting the influence and power of the clergy in secular or political matters
+106501551	an official list of chemicals or medicines etc.
+106501650	a list of divisions (chapters or articles) and the pages on which they start
+106501838	a list of printing errors in a book along with their corrections
+106501959	a list of acknowledgements of those who contributed to the creation of a film (usually run at the end of the film)
+106502164	a list of crimes for which an accused person has been previously convicted
+106502442	(computer science) a listing of the files stored in memory (usually on a hard disk)
+106502618	list of names to whom a communication should be sent
+106502734	(computer science) a directory that is listed in another directory
+106502878	a numbered list
+106503017	a list of questions that are frequently asked (about a given topic) along with their answers
+106503159	a list of commodities that are not subject to tariffs
+106503268	a list of groceries to be purchased
+106503362	a list of heterogenous items that someone wants
+106503552	a list of victims to be eliminated (as by murder)
+106503656	a ranked list of the songs that are most popular at a given time
+106503777	an alphabetical listing of names and topics along with page numbers where they are discussed
+106504031	an index of all main words in a book along with their immediate contexts
+106504179	a list of words or phrases that explain symbols or abbreviations
+106504311	a word that is used as a pattern to decode an encrypted message
+106504429	a list of answers to a test
+106504560	an inventory of replacement parts
+106504655	a detailed list of all the items in stock
+106504802	a list of names and addresses to which advertising material is mailed
+106504930	a list of dishes available at a restaurant
+106505149	a listing printed in all issues of a newspaper or magazine (usually on the editorial page) that gives the name of the publication and the names of the editorial staff, etc.
+106505383	(computer science) a list of options available to a computer user
+106505570	a menu of options that appears below the item when the computer user clicks on it
+106505712	a secondary menu that appears while you are holding the cursor over an item on the primary menu
+106505917	a list of people who died recently
+106506007	a list of musical selections for performance or for broadcast by radio
+106506144	a list of the financial assets held by an individual or a bank or other financial institution
+106506364	(bookkeeping) a listing on the company's records
+106506529	a listing of prices for different goods or services
+106506637	a list in which the next item to be removed is the item most recently stored (LIFO)
+106506807	(information processing) an ordered list of tasks to be performed or messages to be transmitted
+106506991	a list of names
+106507211	a list of persons killed in a war or other disaster
+106507319	an ordered list of times at which things are planned to occur
+106507507	a list of items to be purchased
+106507616	a list of applicants winnowed from a longer list who have been deemed suitable and from which the successful person will be chosen
+106507815	a list of those who are ill (e.g. on a warship or in a regiment etc)
+106507939	a list of candidates nominated by a political party to run for election to public offices
+106508107	an ordered listing of scores or results showing the relative positions of competitors (individuals or teams) in a sporting event
+106508290	a list of events that you wish would occur
+106508388	a schedule of times of arrivals and departures
+106508490	a schedule listing events and the times at which they will take place
+106508615	a list of names of officers and men in a military unit or ship's company
+106508764	a list of the members of church
+106508853	a roster of names showing the order in which people should perform certain duties
+106509004	a roster of those waiting to obtain something
+106509108	a menu having individual dishes listed with separate prices
+106509224	a menu listing fixed meals at fixed prices
+106509322	a menu offering a complete meal with limited choices at a fixed price
+106509450	a character set that includes letters and is used to write a language
+106509863	the alphabet evolved by the ancient Romans which serves for writing most of the languages of western Europe
+106510560	a Semitic alphabet used since the 5th century BC for writing the Hebrew language (and later for writing Yiddish and Ladino)
+106511235	the alphabet used by ancient Greeks
+106511787	an alphabet derived from the Greek alphabet and used for writing Slavic languages (Russian, Bulgarian, Serbian, Ukrainian, and some other Slavic languages)
+106512053	the alphabet of 28 characters derived from Aramaic and used for writing Arabic languages (and borrowed for writing Urdu)
+106512253	a character set that includes letters and digits and punctuation
+106512439	an alphabet of characters intended to represent specific sounds of speech
+106512630	a phonetic alphabet invented by Melville Bell in the 19th century
+106512756	an alphabet used by the deaf; letters are represented by finger positions
+106512928	a document issued by a country to a citizen allowing that person to travel abroad and re-enter the home country
+106513132	a document granting an inventor sole rights to an invention
+106513302	a document stating the aims and principles of a political party
+106513613	an endorsed policy in the platform of a political party
+106513739	official papers which a ship is legally required to have; related to ownership, cargo, etc.
+106513909	a customs document listing the contents put on a ship or plane
+106514045	a queue in which the last item to go in is the first item to come out (LIFO)
+106514183	a public register showing the details of ownership and value of land; made for the purpose of taxation
+106514369	a written document preserving knowledge of facts or events
+106514849	the daily written record of events (as arrests) in a police station
+106515025	a book in which detailed written records of a case are kept and which are a source of information for subsequent work
+106515215	a record of events in the order of their occurrence
+106515377	record of a British census and land survey in 1085-1086 ordered by William the Conqueror
+106515542	a collection of papers containing detailed information about a particular person or subject (usually a person's record)
+106515715	an item inserted in a written record
+106515875	a written record of events on a voyage (of a ship or plane)
+106516040	a book in which the log is written
+106516146	a written record of messages sent or received
+106516317	a logbook in which all orders concerning the main engines of a ship are recorded
+106516453	a brief written record
+106516653	the written evidence of someone's activities
+106516829	a card recording an employee's starting and quitting times each work day
+106516956	a sequence of related events arranged in chronological order and displayed along a line (usually drawn left to right or top to bottom)
+106517145	a record of the hours worked by employees
+106517243	an entry in the court record to the effect that the plaintiff or prosecutor will not proceed
+106517425	an entry in a notebook
+106517508	a reproduction of a written record (e.g. of a legal or school record)
+106517696	a record of things worth remembering
+106517790	a brief (and hurriedly handwritten) note
+106517926	notes written in the margin
+106518028	a marginal note written by a scholiast (a commentator on ancient or classical literature)
+106518182	a written proposal or reminder
+106518306	a short note
+106518421	a memorandum summarizing the items of an agreement (used especially in diplomatic communications)
+106518594	(dated slang) a remarkable or excellent thing or person
+106518748	a message that helps you remember something
+106518917	a register of checks issued (usually in numeric order)
+106519032	an official written record of names or events or transactions
+106519321	official record of the pedigree of purebred animals especially horses
+106519445	a register of rents; includes the names of tenants and the amount of rent they pay
+106519583	(sports) a record of win versus losses
+106519702	a register of persons who are socially prominent
+106519806	the part of a check that is retained as a record
+106519932	(golf) a record of scores (as in golf)
+106520103	a written account of what transpired at a meeting
+106520290	a book in which minutes have been written
+106520408	a published written account of the speeches and debates and votes of the United States Congress
+106520570	the official published verbatim report of the proceedings of a parliamentary body; originally of the British Parliament
+106520807	a set of related records (either written or electronic) kept together
+106521066	the DNA file maintained by the Federal Bureau of Investigation
+106521201	(computer science) a file maintained in computer-readable form
+106521504	(computer science) a computer file dedicated to storing and updating computer backups
+106521666	(computer science) a computer file containing machine-readable information that must be read by an application; characters use all 8 bits of each byte
+106521893	(computer science) a computer file that is used as the authority in a given job and that is relatively permanent
+106522094	(computer science) a computer file stored on a magnetic disk and identified by a unique label
+106522262	(computer science) a computer file containing relatively transient data about a particular data processing task
+106522469	(computer science) a computer file that contains data that serve as input to a device or program
+106522654	(computer science) a computer file that contains data that are the output of a device or program
+106522827	(computer science) a file that you can read but cannot change
+106522968	(computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters
+106523233	a text file that contains only ASCII characters without special formatting
+106523387	a file of mug shots (pictures of criminals that are kept on file by the police)
+106523551	a formal document giving notice of your intention to resign
+106523753	the act of abdicating
+106523865	a formal expression by a meeting; agreed to by a vote
+106524090	the document recording the proclamation of the second Continental Congress (4 July 1776) asserting the independence of the Colonies from Great Britain
+106524315	a resolution passed by both houses of Congress which becomes legally binding when signed by the Chief Executive (or passed over the Chief Executive's veto)
+106524571	a verbal or written request for assistance or employment or admission to a school
+106524848	an application for a job
+106524934	an application for a line of credit
+106525034	an application to borrow money
+106525145	an application for a mortgage loan
+106525246	an application for sole rights to an invention
+106525357	a formal message requesting something that is submitted to an authority
+106525615	a written statement of facts submitted in conjunction with a petition to an authority
+106525755	request for a sum of money
+106525944	(British) solicitation of money usually for a benevolent purpose
+106526084	a record or narrative description of past events
+106526520	a history of the ancient world
+106526612	a history of a word
+106526777	a popular but erroneous etymology
+106526871	detailed record of the background of a person or group under study or treatment
+106527045	part of a patient's medical history in which questions are asked in an attempt to find out whether the patient has hereditary tendencies toward particular diseases
+106527288	the case history of a medical patient as recalled by the patient
+106527480	writing having historical value (as opposed to fiction or myth etc.)
+106527653	a chronological account of events in successive years
+106527818	an account of the series of events making up a person's life
+106528078	a biography of yourself
+106528233	a biography that idealizes or idolizes the person (especially a person who is a saint)
+106528395	biographical sketch
+106528486	an account of the author's personal experiences
+106528586	a document showing credits and debits
+106528773	a periodic statement prepared by a bank for each client
+106528946	an itemized statement of money owed for goods shipped or services rendered
+106529336	a bill for money owed for electricity used
+106529438	statement of charges for staying in a hotel
+106529538	statement of charges for medical services
+106529654	statement of charges for telephone service
+106529770	a bill for an amount due
+106529858	money owed for taxes
+106529933	the bill in a restaurant
+106530059	a negotiable certificate that can be detached and redeemed as needed
+106530244	a gift voucher that can be exchanged for books costing up to an amount given on the voucher
+106530411	coupon redeemable at a restaurant and entitling the holder to a meal
+106530556	a coupon that allows the holder to purchase two items (as two tickets to a play) for the price of one
+106530710	a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)
+106531068	a ticket good for several trips or to attend a season of entertainments; sold at a reduced rate
+106531244	a ticket good for a trip on an airplane
+106531360	a complimentary ticket
+106531471	a ticket that allows a passenger to change conveyances
+106531598	a ticket good for a ride on a railroad train
+106531719	a ticket good for admission to a theater
+106531837	a ticket good for a ride on a bus
+106531927	a ticket to a place and back (usually over the same route)
+106532083	a return ticket (at reduced fare) for traveling both ways in the same day
+106532213	an acknowledgment (usually tangible) that payment has been made
+106532420	a torn part of a ticket returned to the holder as a receipt
+106532562	a ticket stub entitling the holder to admission to a future event if the scheduled event was cancelled due to rain
+106532733	a receipt given by the carrier to the shipper acknowledging receipt of the goods being shipped and specifying the terms of delivery
+106532935	a binding agreement between two or more persons that is enforceable by law
+106533869	a contract that heavily restricts one party while leaving the other free (as some standard form printed contracts); implies inequality in bargaining power
+106534110	a contract whose performance by one party depends on the occurrence of an uncertain contingent event (but if it is contingent on the outcome of a wager it is not enforceable)
+106534348	a contract involving mutual promises (each party is both promisor and promisee)
+106534492	a contract to hire or lease transportation
+106534624	a contract whose performance depends on a fact or event that affects legal relations
+106534775	a contract in which the contractor is paid his total cost plus a stated percentage of profit
+106534932	a contract whose performance by one party is contingent on the outcome of a bet; unenforceable by statute in most jurisdictions
+106535123	a contract granting use or occupation of property during a specified time for a specified payment
+106535344	a prenuptial agreement or contract
+106535464	a contract in which you promise to deliver your entire output to the other party who promises to accept it
+106535632	written contract or certificate of insurance
+106535833	a contract stating the terms of a purchase
+106535960	a contract created by law for reasons of justice without any expression of assent
+106536102	a contract in which you agree to purchase all your requirements of a particular sort from one party
+106536269	a contract that is signed and has the (wax) seal of the signer attached
+106536445	a contract for maintenance services
+106536543	a contract which, in the event of a breach by one of the parties, can be considered as several independent agreements expressed in a single instrument
+106536758	a contract assigning to another party some obligations of a prior contract
+106536926	a secret agreement between two or more people to perform an unlawful act
+106537123	an agreement (illegal in the United States) between the manufacturer of a trademarked item of merchandise and its retail distributors to sell the item at a price at or above the price set by the manufacturer
+106537397	a conspiracy not to talk about some situation or event
+106537579	(Bible) an agreement between God and his people in which God makes certain promises and requires certain behavior from them in return
+106537804	a one-sided agreement whereby you promise to do (or refrain from doing) something in return for a performance (not a promise)
+106537995	a certificate or voucher acknowledging a debt
+106538115	an insurance policy covering loss of movable property (e.g. jewelry) regardless of its location
+106538282	a contract between two or more persons who agree to pool talent and money and share profits or losses
+106538477	a contract between crew and captain of a ship
+106538610	a contract granting the right to operate a subsidiary business
+106538802	an authorization to sell a company's goods or services in a particular place
+106538952	contract between labor and management governing wages and benefits and working conditions
+106539161	a labor contract (now illegal) whereby the employee agrees not to join a trade union
+106539311	contract between employer and employee
+106539438	a contract governing the marketing of an item of merchandise
+106539567	contract giving someone the legal right to use a patent or trademark
+106539701	contract governing the merger of two or more companies
+106539842	an agreement (or contract) in which property is transferred from the seller (vendor) to the buyer (vendee) for a fixed price in money (paid or agreed to be paid by the buyer)
+106540182	a sale in which the buyer receives title to the property only upon the performance of some condition (usually the full payment of the purchase price)
+106540394	a sale of a tract of land as a whole without a warranty as to the acreage
+106540548	a sale of property by the sheriff under authority of a court's writ of execution in order satisfy an unpaid obligation
+106540774	a document appraising the value of something (as for insurance or taxation)
+106540983	an appraisal that is too high
+106541210	a commercial document used to request someone to supply something in return for payment and providing specifications and quantities
+106541621	an order that is received without payment; requires billing at a later date
+106541789	an unpaid credit order
+106541870	an order for goods to be exported or imported
+106541987	an order to a broker to sell or buy stocks or commodities at the prevailing market price
+106542134	an order that initiates the manufacturing process
+106542246	a repeated order for the same merchandise
+106542403	an order to a broker to sell (buy) when the price of a security falls (rises) to a designated level
+106542577	a depositor's order to a bank to refuse payment on a check
+106542694	a purchase negotiated by mail
+106542780	a legal instrument authorizing someone to act as the grantor's agent
+106542967	a power of attorney document to transfer ownership of a registered security from the owner to another party
+106543132	a power of attorney document given by shareholders of a corporation authorizing a specific vote on their behalf at a corporate meeting
+106543318	the letters used to identify listed companies on the securities exchanges where they are traded
+106543472	legal document naming someone to administer an estate when no executor has been named
+106543648	a legal document from a probate court or court officer informing you of your appointment as executor of a will and empowering you to discharge those responsibilities
+106543899	a legal document giving information required for employment of certain people in certain countries
+106544086	a legal document codifying the result of deliberations of a committee or society or legislative body
+106544321	legal document setting forth rules governing a particular kind of activity
+106544754	something that is null (especially an enactment that has no legal validity)
+106544901	a law forbidding the sale or use of narcotic drugs
+106545030	law intended to eradicate organized crime by establishing strong sanctions and forfeiture provisions
+106545288	law intended to promote free competition in the market place by outlawing monopolies
+106545475	a statute prescribing the time period during which legal action can be taken
+106545639	law determining the fundamental political principles of a government
+106545854	a written agreement ratified in 1781 by the thirteen original states; it provided a legal symbol of their union by giving the central government no coercive power over the states or their citizens
+106546123	the constitution written at the Constitutional Convention in Philadelphia in 1787 and subsequently ratified by the original thirteen states
+106546539	a law affecting the public at large
+106546650	the legal code of ancient Rome; codified under Justinian; the basis for many modern systems of civil law
+106546909	the code of laws of the Salian Franks and other German tribes
+106547026	(civil law) a law established by following earlier judicial decisions
+106547213	law enacted by a legislative body
+106547467	legislation that gives appropriate officials the authority to implement or enforce the law
+106547643	a law passed by the United States Congress that created the Occupational Safety and Health Administration to prevent employees from being injured or contracting diseases in the course of their employment
+106547971	a legal expression in the United States Constitution that allows the Senate to constrain the President's powers of appointment and treaty-making
+106548218	a record of the whole body of legislation in a given jurisdiction
+106548380	a written communication in a second language having the same meaning as the written communication in a first language
+106548728	a piece of paper recording work planned or done on a project
+106548844	a statute in draft before it becomes law
+106549115	a legislative act proposing to authorize the expenditure of public funds for a specified purpose
+106549314	a legislative act finding a person guilty of treason or felony without a trial
+106549553	a statute that would require merchants to reclaim used bottles
+106549692	a statute that would regulate farm production and prices
+106549823	a statute that would regulate foreign trade
+106549942	a rule adopted by an organization in order to regulate its own affairs and the behavior of its members
+106550096	a statute regulating work on Sundays
+106550206	a state law regulating the sale of securities in an attempt to control the sale of securities in fraudulent enterprises
+106550403	any law that limits freedom of the press
+106550516	a regulation intended to manage or preserve game animals
+106550646	a law conferring privileges on owners of homesteads
+106550776	a law providing support for the poor
+106550886	a former English law requiring mobs to disperse after a magistrate reads the law to them
+106551067	a vigorous reprimand
+106551169	the body of law dealing with crimes and their punishment
+106551493	a writ issued by a court of law requiring a person to do something or to refrain from doing something
+106551761	a legally binding command or decision entered on the court record (as if issued by a court or judge)
+106552275	an agreement between two parties that is sanctioned by the court; for example, a company might agree to stop certain questionable practices without admitting guilt
+106552518	an order that after a specific time certain activities (as being outside on the streets) are prohibited
+106552693	a decree issued on a first petition for divorce; becomes absolute at some later date
+106552854	an order to an offending party to rid itself of property; it has the purpose of depriving the defendant of the gains of wrongful behavior
+106553158	a decree issued by a sovereign ruler
+106553292	an edict of the Russian tsar
+106553372	a judicial decree regulating the rights and responsibilities of a married couple living apart
+106553569	an imperial decree that becomes part of the fundamental law of the land
+106553717	an edict that has been publicly posted
+106553811	a law forbidding the sale of alcoholic beverages
+106554038	a decree that prohibits something
+106554258	a judicial order forbidding some action until an event occurs or the order is lifted
+106554560	an order whereby a judgment is precluded from being executed for a specific period of time
+106554733	an order that bans something
+106554821	(law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity
+106555237	injunction requiring the performance of some specific act
+106555380	injunction issued on completion of a trial
+106555527	injunction issued during a trial to maintain the status quo or preserve the subject matter of the litigation until the trial is over
+106555772	a document stating the facts and points of law of a client's case
+106555940	a brief presented by someone interested in influencing the outcome of a lawsuit but who is not a party to it
+106556133	a legal document declaring a person's wishes regarding the disposal of their property when they die
+106556423	a judicial certificate saying that a will is genuine and conferring on the executors the power to administer the estate
+106556648	a supplement to a will; a testamentary instrument intended to alter an already executed will
+106556832	a document written by someone still legally capable requesting that he should be allowed to die if subsequently severely disabled or suffering terminal illness
+106557128	a legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it
+106557519	the instrument by which a claim or right or interest or property is transferred from one person to another
+106557719	a deed transferring personal property
+106557834	a deed made and executed by only one party
+106557951	under the feudal system, the deed by which a person was given land in exchange for a pledge of service
+106558148	deed embodying a mortgage
+106558252	a legal document proving a person's right to property
+106558399	a written instrument legally conveying property to a trustee often used to secure an obligation such as a mortgage or promissory note
+106558624	document effecting a property transfer
+106558774	document transferring title or right or claim to another
+106558922	deeds and other documentary evidence of title to land
+106559050	a writ from a court commanding police to perform specified acts
+106559312	a warrant authorizing law enforcement officials to search for objects or people involved in the commission of a crime and to produce them in court; the warrant describes the locations where the officials may search
+106559606	a warrant authorizing law enforcement officials to apprehend an offender and bring that person to court
+106559823	a warrant to take someone into custody
+106559983	a warrant to execute the death sentence
+106560101	a warrant formerly issued by a French king who could warrant imprisonment or death in a signed letter under his seal
+106560308	a warrant granting postponement (usually to postpone the execution of the death sentence)
+106560489	a warrant substituting a lesser punishment for a greater one
+106560662	document giving the tax collector information about the taxpayer's tax liability
+106560982	a tax return that corrects the information in an earlier return
+106561106	return required of a taxpayer whose tax withheld from income does not meet the tax liability for the year
+106561309	an incorrect income tax return
+106561398	a return that provides information to the tax collector but does not compute the tax liability
+106561557	a return filed by a husband and wife
+106561652	a legal document giving official permission to do something
+106562037	a document authorizing the holder to construct a building of a particular kind on a particular lot
+106562197	a license authorizing the bearer to drive a motor vehicle
+106562372	a license authorizing the bearer to fish during a specified period of time
+106562543	a license authorizing the bearer to kill a certain type of animal during a specified period of time
+106562754	a document authorizing the bearer to learn to drive an automobile
+106562882	a license to a private citizen to seize property of another nation
+106563061	a license authorizing the holder to sell alcoholic beverages
+106563217	a license to sell liquor for consumption on the premises
+106563330	a license authorizing two people to marry
+106563489	a license to pursue a particular occupation
+106563618	an official document granting a right or privilege
+106563775	the legal document stating the reasons for a judicial decision
+106564107	an opinion that agrees with the court's disposition of the case but is written to express a particular judge's reasoning
+106564311	an opinion that disagrees with the court's disposition of the case
+106564461	the opinion joined by a majority of the court (generally known simply as the opinion')
+106564630	a warrant granting release from punishment for an offense
+106564805	a legal document evidencing the discharge of a debt or obligation
+106564975	(law) a legal document issued by a court or judicial officer
+106565463	an ancient writ issued by a court of assize to the sheriff for the recovery of property
+106565622	a common law writ issued by a superior court to one of inferior jurisdiction demanding the record of a particular case
+106565837	a routine court order that attempts to enforce the judgment that has been granted to a plaintiff by authorizing a sheriff to carry it out
+106566069	(law) the completion of a legal instrument (such as a contract or deed) by signing it (and perhaps sealing and delivering it) so that it becomes legally binding and enforceable
+106566364	a writ ordering a prisoner to be brought before a judge
+106566522	a judicial writ ordering a sheriff to summon people for jury duty
+106566666	an extraordinary writ commanding an official to perform a ministerial act that the law recognizes as an absolute duty and not a matter for the official's discretion; used only when all other judicial remedies fail
+106566972	a writ authorizing the seizure of property that may be needed for the payment of a judgment in a judicial proceeding
+106567182	a writ ordering a levy on the belongings of a debtor to satisfy the debt
+106567332	a judicial writ based on some record and requiring the party against whom it is brought to show cause why the record should not be enforced or annulled
+106567561	a writ that authorizes the seizure of property
+106567686	a writ ordering the release of goods that have been unlawfully detained
+106567838	a writ ordering the holding of an election
+106567962	a judicial writ from an appellate court ordering the court of record to produce the records of trial
+106568141	a judicial writ from a higher court ordering a lower court not to exercise jurisdiction in a particular case
+106568334	a writ ordering that land be restored to its rightful owner
+106568472	a document giving an official instruction or command
+106568683	a writ issued by authority of law; usually compels the defendant's attendance in a civil suit; failure to appear results in a default judgment against the defendant
+106569038	a writ issued by court authority to compel the attendance of a witness at a judicial proceeding; disobedience may be punishable as a contempt of court
+106569308	a writ issued by a court at the request of one of the parties to a suit; it requires a witness to bring to court or to a deposition any relevant documents under the witness's control
+106569576	a court order restricting information or comment by the participants involved in a lawsuit
+106569818	a court order to an employer to withhold all or part of an employee's wages and to send the money to the court or to the person who won a lawsuit against the employee
+106570079	a court order prohibiting a party from doing a certain activity
+106570268	a summons that commands the appearance of a party at a proceeding
+106570425	a summons issued after the filing of a libel or claim directing all parties concerned to show cause why the judgment asked for should not be granted
+106570669	a summons issued to an offender (especially to someone who violates a traffic regulation)
+106570884	a ticket issued for driving above the speed limit
+106570995	a ticket issued for parking in a restricted place
+106571105	the particular events to be dealt with in a criminal trial; advises the defendant and the court of the facts the defendant will be required to meet
+106571356	(law) a statement in legal and logical form stating something on behalf of a party to a legal proceeding
+106571823	any defensive pleading that affirms facts rather than merely denying the facts alleged by the plaintiff
+106572012	a pleading that alleges facts so separate that it is difficult to determine which facts the person intends to rely on
+106572245	the principal pleading by the defendant in response to plaintiff's complaint; in criminal law it consists of the defendant's plea of guilty' or not guilty' (or nolo contendere); in civil law it must contain denials of all allegations in the plaintiff's complaint that the defendant hopes to controvert and it can contain affirmative defenses or counterclaims
+106572749	(law) an answer by a defendant that fails to admit or deny the allegations set forth in the complaint
+106572930	(law) an answer of no contest' by a defendant who does not admit guilt but that subjects him to conviction
+106573129	(law) a defendant's answer by a factual matter (as distinguished from a demurrer)
+106573334	a plaintiff's reply to a defendant's plea
+106573452	a plea that delays the action without settling the cause of action; it can challenge the jurisdiction or claim disability of the defendant etc. (such defenses are usually raised in the defendant's answer)
+106573735	(criminal law) a plea in which the defendant claims innocence due to mental incompetence at the time
+106573933	(criminal law) a pleading describing some wrong or offense
+106574208	(civil law) the first pleading of the plaintiff setting out the facts on which the claim for relief is based
+106574427	the written statement of a plaintiff explaining the cause of action (the defamation) and any relief he seeks
+106574606	any pleading that fails to conform in form or substance to minimum standards of accuracy or sufficiency
+106574793	(law) any pleading that attacks the legal sufficiency of the opponent's pleadings
+106574984	(law) a pleading by the defendant in reply to a plaintiff's surrejoinder
+106575159	(law) a pleading made by a plaintiff in reply to the defendant's plea or answer
+106575315	(law) a pleading made by a defendant in response to the plaintiff's replication
+106575469	(law) a pleading that alleges new facts in avoidance of the opposing allegations
+106575631	(law) a pleading by the plaintiff in reply to the defendant's rebutter
+106575792	(law) a pleading by the plaintiff in reply to the defendant's rejoinder
+106575941	(criminal law) a negotiation in which the defendant agrees to enter a plea of guilty to a lesser charge and the prosecutor agrees to drop a more serious charge
+106576378	an act passed by a legislative body
+106576631	formerly a state law that protected manufacturers from price-cutting by allowing them to set minimum retail prices for their merchandise; eliminated by the United States Congress in 1975
+106576878	an act passed by the British Parliament in 1756 that raised revenue from the American Colonies by a duty in the form of a stamp required on all newspapers and legal or commercial documents; opposition by the Colonies resulted in the repeal of the act in 1766
+106577192	a provision in a law that confers on appropriate officials the power to implement or enforce the law
+106577388	an act passed by Congress in 1978 to establish procedures for requesting judicial authorization for foreign intelligence surveillance and to create the Foreign Intelligence Surveillance Court; intended to increase United States counterintelligence; separate from ordinary law enforcement surveillance
+106577779	a statute enacted by a city government
+106577910	a legislative act that applies only to a particular person or particular district
+106578068	(computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory
+106578832	a software module that extends or enhances the capabilities of an existing application
+106578981	a first release of a software product that is usually tested only by the developers
+106579125	software that can be used to develop interactive computer programs without the technically demanding task of computer programming
+106579319	software that has not yet been released but has received an alpha test and still has more bugs than a regular release
+106579576	software that can run on different computers without modification
+106579707	application software programs that share common conventions so they can be utilized together
+106579865	software used in art and architecture and engineering and manufacturing to assist in precision drawing
+106580041	software that is provided without charge
+106580136	software that can be used by a group of people who are working on the same information but may be distributed in space
+106580310	(computer science) software that controls the execution of computer programs and may provide various services
+106580598	an operating system that is on a disk
+106580728	an operating system developed by Bill Gates for personal computers
+106580882	trademark for a powerful operating system
+106581031	an open-source version of the UNIX operating system
+106581154	(computer science) a sequence of instructions that a computer can interpret and execute
+106582142	a computer program that checks a computer for viruses and prevents their spread
+106582286	a program that gives a computer instructions that provide the user with tools to accomplish a task
+106582696	an application that is currently running and in the foreground
+106582823	a Java application; an application program that uses the client's web browser to provide a user interface
+106582981	an application that divides the user's display into two or more windows that can be scrolled independently
+106583139	a pre-compiled, pre-linked program that is ready to run under a given operating system; a binary for one operating system will not run on a different operating system
+106583477	a program used to view HTML documents
+106583714	a commercial browser
+106583815	a freeware browser for Linux
+106583900	a text browser
+106583966	a freeware browser
+106584038	a commercial browser
+106584114	a commercial browser
+106584187	an application program that deals with natural language text
+106584380	(computer science) a natural language processing application that tries to determine the intended meaning of a word or phrase by examining the linguistic context in which it is used
+106584658	(computer science) a program application that may consist of several steps but is a single logical unit
+106584830	an application that provides the user with tools needed to write and edit and format text and to send it to a printer
+106585033	a computer program that performs a series of instructions repeatedly until some specified condition is satisfied
+106585196	a computer program designed to have undesirable or harmful effects
+106585399	a short set of commands to correct a bug in a computer program
+106585513	a program to convert assembly language into machine language
+106585648	a program that examines other computer programs for syntax errors
+106585776	(computer science) a program that decodes instructions written in a higher order language and produces an assembly language program
+106586110	a compiler for programs written in C
+106586203	a compiler for programs written in FORTRAN
+106586308	a compiler for programs written in LISP
+106586407	a compiler for programs written in Pascal
+106586510	a program that helps in locating and correcting programming errors
+106586649	(computer science) a program that determines how a computer will communicate with a peripheral device
+106586856	a program that recognizes and explains faults in the equipment or mistakes in a computer program
+106587017	(computer science) a program designed to perform such editorial functions as rearrangement or modification or deletion of data
+106587268	a utility program that organizes the input to a computer
+106587403	(computer science) a program that controls a display for the user (usually on a computer monitor) and that allows the user to interact with the system
+106587681	a user interface in which you type commands instead of choosing them from a menu or selecting an icon
+106587857	a user interface based on graphics (icons and pictures and menus) instead of text; uses a mouse as well as a keyboard as an input device
+106588108	(computer science) a program that translates and executes source language statements one line at a time
+106588329	a program that is called to prepare each job to be run
+106588441	a program in a program library
+106588552	an editor program that creates one module from several by resolving cross-references among the modules
+106588715	a program that observes and regulates and controls or verifies the operations of a data-processing system
+106588903	(computer science) an application that can be used to create and view and edit text files
+106589069	a fully compiled or assembled program ready to be loaded into the computer
+106589239	a program written in a language from which statements are translated into machine language
+106589408	a utility program that organizes the output of a computer
+106589545	a computer program that divides code up into functional components
+106589761	a computer program that attaches labels to the grammatical constituents of textual matter
+106589957	a tagging program whose labels indicate the meanings of words or expressions
+106590092	a tagging program whose labels indicate a word's part of speech
+106590236	a program that can be located in different parts of memory at different times
+106590379	a program that can be loaded once and executed repeatedly
+106590499	a computer program that produces maps of spatially referenced data dynamically from geographic information
+106590703	a free, widely-used Web Map Server
+106590830	a computer program that retrieves documents or files or data from a database or from a computer network (especially from the internet)
+106591081	a widely used search engine that uses text-matching techniques to find web pages that are important and relevant to a user's search
+106591303	a widely used search engine for the web that finds information, news, images, products, finance
+106591470	a widely used search engine accepting plain English questions or phrases or terms
+106591628	a program that can change its performance in response to its environment
+106591768	a trace program that produces output for selected conditions
+106591891	a computer program that prowls the internet looking for publicly accessible resources that can be added to a database; the database can then be searched with a search engine
+106592128	a screen-oriented interactive program enabling a user to lay out financial data on the screen
+106592279	a utility program that sorts data items
+106592395	a program that is stored in the memory of the computer that executes it
+106592527	a program that controls the execution of other programs
+106592719	a program to check natural language syntax
+106592822	a program (as an operating system or compiler or utility program) that controls some aspect of the operation of a computer
+106593042	a utility program that exhibits the sequence and results of executing the instructions in another program
+106593244	a computer program that looks for text that matches a given text
+106593444	a program that translates one programming language into another
+106593586	(computer science) a program designed for general support of the processes of a computer
+106593999	(trademark) an operating system with a graphical user interface
+106594135	a table of all contingencies and the actions to be taken for each
+106594261	a diagram of the sequence of operations in a computer program or an accounting system
+106594443	a graphical representation of a program using formal logic
+106594579	a set sequence of steps, part of larger computer program
+106594937	an instruction that interrupts the program being executed
+106595162	a call that passes control to a subroutine; after the subroutine is executed control returns to the next instruction in main program
+106595354	a set of control statements that have been placed in a library and can be retrieved by name
+106595530	an alternative to the normal procedure; triggered if an unusual but anticipated situation arises
+106595694	a routine that writes from an internal store to some external medium
+106595821	a routine that writes from an external source to an internal store
+106595966	a debugged routine that is maintained in a program library
+106596105	a routine that controls an output device
+106596225	a routine designed to yield a random number
+106596338	a routine that can call itself
+106596432	a routine that can be loaded once and executed repeatedly
+106596552	a routine that coordinates the operation of subroutines
+106596712	a routine that provides a chronological record of the execution of a computer program
+106596878	a routine that can be used as needed
+106597067	(computer science) a line of code written as part of a computer program
+106597379	a set of instructions inserted into a program that are designed to execute (or explode') if a particular condition is satisfied; when exploded it may delete or corrupt data, or print a spurious message, or have other harmful effects
+106597728	a program that appears desirable but actually contains something harmful
+106597992	a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer
+106598274	a software program capable of reproducing itself that can spread from one computer to the next over a network
+106598531	commands that a user types in order to run an application
+106598647	(computing) an instruction that connects one part of a program or an element on a list to another program or list
+106598848	a link from a hypertext file to another location or file; typically activated by clicking on a highlighted word or icon at a particular location on the screen
+106599062	a single computer instruction that results in a series of instructions in machine language
+106599224	an instruction that is either not recognized by an operating system or is in violation of the procedural rules
+106599393	an instruction that interrupts the program being executed and passes control to the supervisor
+106599575	any instruction that works first one way and then the other; it turns something on the first time it is used and then turns it off the next time
+106599772	software that is available free of charge; may be distributed for evaluation with a fee requested for additional features or a manual etc.
+106599966	software on CD-ROMs that are boxed and shrink-wrapped and sold in stores (implying a widely supported standard platform)
+106600156	computer software that obtains information from a user's computer without the user's knowledge or consent
+106600315	malicious software, designed to break into a system
+106600420	specialized programs that reside permanently in the computer's main memory and control the processing of user's programs
+106600607	program listings or technical manuals describing the operation and use of programs
+106600792	(computer science) a database that can be accessed by computers
+106601066	a software system that facilitates the creation and maintenance and use of an electronic database
+106601279	a database management system designed to manage a relational database
+106601432	a database management system designed to manage an object-oriented database
+106601633	a database management system that allows strings of text (objects') to be processed as a complex network of nodes that are linked together in an arbitrary way
+106601855	a copy of a printed work offered for distribution
+106602346	something that is read
+106602491	all the copies of a work printed at one time
+106602727	the form in which a text (especially a printed book) is published
+106602882	an edition that is restricted to a specific number of copies
+106603004	an edition containing various versions of a text or notes by various scholars or editors
+106603166	(printing) an impression made to check for errors
+106603389	a proof taken before the type is broken up to print pages
+106603505	a proof taken from a form before duplicate plates are made
+106603623	a printed impression that is blurred or doubled
+106603723	a publication containing a variety of works
+106603890	a collection of selected literary passages
+106604096	one or more recordings issued together; originally released on 12-inch phonograph records (usually with attractive record covers) and later on cassette audiotape and compact disc
+106604359	an album whose recordings are unified by some theme (instrumental or lyrical or narrative or compositional)
+106604544	an opera with rock music
+106604625	concept album compiling a performer's work or work supporting some worthy cause
+106604780	a collection of Persian or Arabic poems (usually by one author)
+106604903	an anthology of short literary pieces and poems and ballads etc.
+106605048	an anthology of articles on a related subject or an anthology of the works of a single author
+106605195	collection of records especially about an institution
+106605303	something that is compiled (as into a single book or file)
+106605500	a publication that appears at fixed intervals
+106605746	a periodical that summarizes the news
+106605872	a periodical (magazine or newspaper) containing many pictures
+106606007	a periodical that appears at scheduled times
+106606334	a periodical that is published twice each week (or 104 issues per year)
+106606462	a periodical that is published every week (or 52 issues per year)
+106606580	a periodical that is published twice each month (or 24 issues per year)
+106606709	a periodical that is published every month (or 12 issues per year)
+106606829	a periodical that is published every quarter (or four issues per year)
+106606955	a periodical that is published twice a month or every two months (either 24 or 6 issues per year)
+106607108	a periodical that is published twice a week or every two weeks (either 104 or 26 issues per year)
+106607260	a periodical that is published by a special interest group
+106607424	a periodical published by a business firm for its employees and customers
+106607555	a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it
+106608001	a publication containing the latest information or tips or predictions for a particular business or stock market information or horse racing results, etc.
+106608229	a racing publication giving information on horses and the outcomes of horse races
+106608383	(British) a magazine that is printed in color and circulated with a newspaper (especially on weekends)
+106608568	a magazine devoted to comic strips
+106608678	a magazine devoted to reports of current events; usually published weekly
+106608811	an inexpensive magazine printed on poor quality paper
+106608931	a magazine printed on good quality paper
+106609049	a magazine published for and read by members of a particular trade group
+106609182	one of a series published periodically
+106609408	a numbered item in a series
+106609557	an issue of a newspaper
+106609702	an additional edition of a newspaper (usually to report a crisis)
+106609819	a periodical dedicated to a particular subject
+106609970	reports of the work of a society or learned body etc
+106610111	a periodical that publishes critical essays on current affairs or literature or art
+106610283	a review devoted to literary criticism
+106610383	written material intended to be read
+106610597	reading materials (documents, written information) that you must read and deal with but that you think are extremely boring
+106610798	reading carefully with intent to remember
+106611001	reading superficially or at random
+106611099	reading or glancing through quickly
+106611268	what a communication that is about something is about
+106612008	(psychoanalysis) hidden meaning of a fantasy or dream
+106612141	the subject matter of a conversation or discussion
+106612492	the subject of a dispute
+106612635	a subject mentioned earlier (preceding in time)
+106612774	communication that is suitable for or intended to be instructive
+106613037	a message that departs from the main subject
+106613256	a sentence (in the indicative mood) that makes a declaration
+106613406	an ungrammatical sentence in which two or more independent clauses are conjoined without a conjunction
+106613570	a sentence that states the topic of its paragraph
+106613680	the message that is intended or expressed or signified
+106614326	the meaning of a content word that depends on the nonlinguistic concepts it is used to express
+106614501	the meaning of a word that depends on its role in a sentence; varies with inflectional form
+106614677	the use of symbols to convey meaning
+106614825	the meaning of a word or expression; the way in which a word or expression or situation can be interpreted
+106615154	the accepted meaning of a word
+106615288	what you must know in order to determine the reference of an expression
+106615483	something that refers; a term that refers to another term
+106615595	the first term in a proposition; the term to which other terms relate
+106615719	a term in a proposition that is related to the referent of the proposition
+106615847	something referred to; the object of a reference
+106616004	the referent of an anaphor; a phrase or clause that is referred to by an anaphoric pronoun
+106616169	an actual object referred to by a linguistic expression
+106616280	something (whether existing or not) that is referred to by a linguistic expression
+106616419	the central meaning or theme of a speech or literary work
+106616562	the basic meaning of something; the crucial part
+106616672	an expression whose meaning cannot be determined from its context
+106616901	an ambiguity (especially one in the text of a law or contract) that makes it possible to evade a difficulty or obligation
+106617096	an ambiguous grammatical construction; e.g., they are flying planes' can mean either that someone is flying planes or that something is flying planes
+106617316	the use of ambiguous words
+106617399	an inoffensive or indirect expression that is substituted for one that is considered offensive or too harsh
+106617749	an offensive or disparaging expression that is substituted for an inoffensive one
+106618035	an expression of disappointment or irritation
+106618133	an ambiguity with one interpretation that is indelicate
+106618250	the intended meaning of a communication
+106618397	the significance of a story or event
+106618544	a subtle difference in meaning or opinion or attitude
+106618817	(usually plural) an ulterior implicit meaning or quality
+106618971	the decisive point
+106619047	the most important point
+106619161	a brief version of the essential meaning of something
+106619420	a point or principle on which scattered or opposing groups can come together
+106619557	an especially persuasive point helping to support an argument or discussion
+106619692	a message that seems to convey no meaning
+106620162	a message whose content is at variance with reason
+106620388	nonsensical writing (usually verse)
+106620496	trivial nonsense
+106620630	stock phrases that have become nonsense through endless repetition
+106620758	nonsense
+106620878	nonsense; foolish talk
+106620970	meaningless syllables in the refrain of a partsong
+106621081	unintelligible talking
+106621330	nonsense that is simply incoherent and unintelligible
+106621529	jumble of incoherent speech as sometimes heard in schizophrenia
+106621649	nonsensical language (according to Lewis Carroll)
+106621756	meaningless ceremonies and flattery
+106621856	loud and confused and empty talk
+106622025	a set of confused and meaningless statements
+106622138	(Yiddish) baloney; hot air; nonsense
+106622262	senseless talk
+106622416	gibberish and nonsense
+106622496	gibberish resembling the sounds of a baby
+106622685	foolish gibberish
+106622789	an incomprehensible talk
+106622910	communication (written or spoken) that persuades someone to accept something untrue or undesirable
+106623132	communication (written or spoken) intended to deceive
+106623250	deliberately unintelligible gibberish
+106623345	rapid and indistinct speech
+106623500	pretentious or silly talk or writing
+106623729	obscene words for unacceptable behavior
+106624034	unacceptable behavior (especially ludicrously false statements)
+106624209	a false statement that is considered to indicate timidity or fear
+106624351	nonsensical talk or writing
+106624527	worthless or oversimplified ideas
+106624619	a worthless message
+106624773	language or ritual causing, or intending to cause, confusion
+106624891	a collection of excerpts from a literary work
+106625002	an excerpt cut from a newspaper or magazine
+106625218	a distinct selection of music from a recording or a compact disc
+106625409	a passage or expression that is quoted or cited
+106625693	a quotation at the beginning of some piece of writing
+106625801	the representation of another person's words in a speech
+106625929	an incorrect quotation
+106626039	a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement
+106626981	a movie that is made to be shown on television
+106627082	a consecutive series of pictures that constitutes a unit of action in a film
+106627254	a scene that is filmed but is not used in the final editing of the film
+106627379	the principal (full-length) film in a program at a movie theater
+106627569	the final edited version of a movie as approved by the director and producer
+106627701	a film or illustrated lecture on traveling
+106627811	a film made at home by an amateur photographer
+106627914	an entertainment that is offered to the public
+106628089	a rival attraction
+106628171	a movie that juxtaposes different kinds of footage
+106628280	a movie that is advertised to draw customers
+106628388	a film about life in the western United States during the period of exploration and development
+106628569	a movie featuring shooting and violence
+106628667	a brief film; often shown prior to showing the feature
+106628817	a film made by photographing a series of cartoon drawings to give the illusion of movement when projected in rapid sequence
+106629056	a style of animation developed in Japan, characterized by stylized colorful art and often adult themes
+106629210	a short film and commentary about current events
+106629313	a film or TV program presenting the facts about a person or event
+106629518	a movie that shows ordinary people in actual activities without being controlled by a director
+106629672	a movie that is marked by a mood of pessimism, fatalism, menace, and cynical characters
+106629920	a pornographic movie
+106630034	a short pornographic film shown in a small coin-operated booth
+106630151	the first print of a movie after preliminary editing
+106630259	a movie without a soundtrack
+106630373	a movie that apparently takes place at a slower than normal speed; achieved by taking the film at a faster rate
+106630542	(film) a gradual transition from one scene to the next; the next scene is gradually superimposed as the former scene fades out
+106630741	(film) an immediate transition from one shot to the next
+106630934	(film) an abrupt transition from one scene to another
+106631056	an immediate transition from one scene to another
+106631160	a low-budget Western movie produced by a European (especially an Italian) film company
+106631329	a movie with synchronized speech and singing
+106631444	a movie with images having three dimensional form or appearance
+106631572	a social event involving a public performance or entertainment
+106631935	a radio or television show
+106632258	a broadcast that repeated at a later time
+106632357	a program devoted to current events, often using interviews and commentary
+106632570	a program that is broadcast again
+106632734	a program during which well-known people discuss a topic or answer questions telephoned in by the audience
+106632974	a program in which the audience participates by telephone
+106633086	a program broadcast by television
+106633297	a television program that is broadcast in color
+106633413	a program exemplifying a contemplated series; intended to attract sponsors
+106633568	a television or radio program in which contestants compete for awards
+106633722	a game show in which contestants answer questions
+106633830	a strip of motion picture film used in a telecast
+106633954	a serialized set of programs
+106634188	an episode that ends in suspense
+106634278	a part of a broadcast serial
+106634424	a program without a commercial sponsor
+106634527	a serialized program usually dealing with sentimentalized family matters that is broadcast on radio or television (frequently sponsored by a company advertising soap products)
+106634759	a series of four related works (plays or operas or novels)
+106634873	a broadcast via radio
+106634956	a broadcast that is carried simultaneously by radio and television (or by FM and AM radio)
+106635102	a television broadcast
+106635216	a message transmitted by telegraph
+106635384	a cheaper form of telegram sent for delivery the next day
+106635500	letters and packages that are transported by aircraft
+106635607	mail that is sent by air transport
+106635714	mail that is sent by land or sea
+106635823	mail that is registered by the post office when sent in order to assure safe delivery
+106635988	mail that is delivered by a special carrier (for an additional charge)
+106636121	communication by the exchange of letters
+106636295	(Hinduism) an ancient Sanskrit text giving rules for sensuous and sensual pleasure and love and marriage in accordance with Hindu law
+106636504	a rule or aphorism in Sanskrit literature or a group of aphoristic doctrinal summaries prepared for memorization
+106636668	a written message addressed to a person or organization
+106637231	a letter dealing with business
+106637323	a letter sent along with other documents to provide additional information
+106637474	a hostile (usually anonymous) letter
+106637569	a letter from the pope sent to all Roman Catholic bishops throughout the world
+106637724	a letter that is a piece of fan mail
+106637836	a letter dealing with personal affairs
+106637972	a letter that is printed in multiple copies and mailed to a list of recipients
+106638108	a letter of protest; addressed to one person but intended for the general public
+106638246	a letter that is sent successively to several people
+106638357	a letter from a pastor to the congregation
+106638472	a letter signed by a number of people
+106638567	a letter sent by air mail
+106638690	a specially long, formal letter
+106638793	a short personal letter
+106638953	a note explaining an absence
+106639125	a personal letter to a loved one expressing affection
+106639250	mail that can neither be delivered nor returned
+106639367	any letter expressing an intention to take (or forgo) some action
+106639513	a rectangular piece of stiff paper used to send messages (may have printed greetings or pictures)
+106639767	a card expressing a birthday greeting
+106639864	a card expressing get-well wishes
+106639957	a card sent to express personal greetings
+106640130	a card expressing a Christmas greeting
+106640229	a card expressing an Easter greeting
+106640323	a card sent or given (as to a sweetheart) on Saint Valentine's Day
+106640445	a card for sending messages by post without an envelope
+106640632	a postcard that folds so the message is inside
+106640735	a postcard with a picture on one side
+106640835	a card expressing sympathy
+106640957	(Roman Catholic Church) a card sent to a bereaved family that says the sender has arranged for a Mass to be said in memory of the deceased
+106641170	(Roman Catholic Church) a card indicating that the sender will perform certain devotional acts on behalf of another
+106641368	a statement acknowledging something or someone
+106641899	an acknowledgment or expression of goodwill at parting
+106642117	a farewell remark
+106642365	an organized expression of goodwill at the start of a trip or new venture
+106642524	(usually plural) an acknowledgment or expression of good will (especially on meeting)
+106642966	an expression of good will from one person to another
+106643134	(usually plural) a polite expression of desire for someone's welfare
+106643359	the manner in which something is greeted
+106643557	enthusiastic greeting
+106643647	(Roman Catholic Church) a greeting signifying Christian love for those assisting at the Eucharist
+106643829	a greeting or reception
+106644013	kindness in welcoming guests or strangers
+106644168	unkind and inconsiderate welcome
+106644340	a warm welcome; may be insincere
+106644428	an acknowledgment that can be used to say hello or goodbye (aloha is Hawaiian and ciao is Italian)
+106644604	grasping and shaking a person's hand (as to acknowledge an introduction or to agree on a contract)
+106644865	an act of greeting with friendly words and gestures like bowing or lifting the hat
+106645018	an expression of greeting
+106645178	a conventional expression of greeting or farewell
+106645314	a conventional expression of greeting or farewell
+106645454	a conventional expression of farewell
+106645548	a formal military gesture of respect
+106645712	a printed or written greeting that is left to indicate that you have visited
+106645870	an expression of regret at having caused trouble for someone
+106646103	an acknowledgment of your error or guilt
+106646199	an expression of sympathy with another's grief
+106646403	the act of acknowledging that someone has an occasion for celebration
+106646602	a message refusing to accept something that is offered
+106646746	a polite refusal of an invitation
+106646883	a message received and understood
+106647485	information that is incorrect
+106647629	misinformation resulting from the recirculation into the source country of disinformation previously planted abroad by that country's intelligence service
+106647838	misinformation that is deliberately disseminated in order to influence or confuse rivals (foreign enemies or business competitors etc.)
+106648034	information (data or ideas or observations) that can be used or reworked into a finished form
+106648284	old material that is slightly reworked and used again
+106648469	true confidential information
+106648638	slang terms for inside information
+106648784	a statement or assertion of verified information about something that is the case or has happened
+106649049	a compilation of the known facts regarding something or someone
+106649331	the organization of information according to preset specifications (usually for computer processing)
+106649674	(computer science) the format for the root directory and the file allocation tables and other basic configurations
+106649875	(computer science) the format of sectors on the surface of a hard disk drive so that the operating system can access them and setting a starting position
+106650202	informal term for information
+106650349	an organized body of related information
+106650498	a database in which relations between information items are explicitly specified as accessible attributes
+106650779	relational database of the United States National Library of Medicine for the storage and retrieval of bibliographical information concerning the biomedical literature
+106651052	a database in which the operations carried out on information items (data objects) are considered part of their definition
+106651264	a subset of data in a database that are used in a specific application
+106651393	a database of information about words
+106651548	a machine-readable version of a standard dictionary; organized alphabetically
+106651729	a machine-readable lexical database organized by meanings; developed at Princeton University
+106651972	the latest publicly released version of WordNet
+106652077	any of the machine-readable lexical databases modeled after the Princeton WordNet
+106652212	a statement of fundamental facts or principles
+106652323	a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time
+106652665	a measure of someone's weight in relation to height; to calculate one's BMI, multiply one's weight in pounds and divide that by the square of one's height in inches; overweight is a BMI greater than 25; obese is a BMI greater than 30
+106652966	a statistical compilation that provides a context for economic or financial conditions
+106653182	an indicator of stock market prices; based on the share values of 30 blue-chip stocks listed on the New York Stock Exchange
+106653497	a broadly based stock market index
+106653626	one of 11 indicators for different sections of the economy; used by the Department of Commerce to predict economic trends in the near future
+106653830	an index that traces the relative changes in the price of an individual good (or a market basket of goods) over time
+106654072	an index of changes in retail prices
+106654173	an index of changes in wholesale prices
+106654303	an index of the cost of all goods and services to a typical consumer
+106654467	the aggregate of short sales on an open market
+106654573	index based on a statistical compilation of the share prices of a number of representative stocks
+106654787	information about recent and important events
+106654987	informal information of any kind that is not previously known to someone
+106655149	detailed practical information about how something works or how something can be accomplished
+106655303	secret information about an enemy (or potential enemy)
+106655530	information about the armed forces of another country that is useful in planning and conducting military policy or military operations
+106655751	good news
+106655816	the most recent news or development
+106655934	information or data that updates
+106656171	an indication that makes something evident
+106656526	evidence that helps to solve a problem
+106656646	biometric identification obtained by examining a person's unique sequence of DNA base pairs; often used for evidence in criminal law cases
+106656868	biometric identification by scanning a person's face and matching it against a library of known faces
+106657156	a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations
+106657421	biometric identification by automatically scanning a person's fingerprints electronically
+106657586	the basic pattern of the human fingerprint
+106657679	fingerprint made by the thumb (especially by the pad of the thumb)
+106657802	a mark of a foot or shoe on a surface
+106658029	evidence in the form of footprints
+106658221	biometric identification by scanning the iris of the eye
+106658386	biometric identification by automatically scanning a person's signature and matching it electronically against a library of known signatures
+106658594	biometric identification by scanning the retina of the eye
+106658785	biometric identification by electronically recording and graphically representing a person's voice
+106659006	a perceptible indication of something not immediately apparent (as a visible clue that something has happened)
+106659294	something serving as a sign of something else
+106659391	an indication that something has been present
+106659617	a trace suggesting that something was once present or felt or otherwise important
+106659799	a visible mark (as a footprint) left by the passage of person or animal or vehicle
+106659969	anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events
+106660359	a formal series of statements showing that if one thing is true something else necessarily follows from it
+106660609	proof of a mathematical theorem
+106660705	proof of a logical theorem
+106660791	proof by a process of argument or a series of proposition proving an asserted conclusion
+106660952	something that serves as evidence
+106661207	testimony by someone who should know
+106661335	strong evidence for something
+106661469	a fact or assertion offered as evidence that something is true
+106661853	an argument offered in opposition to another argument
+106661968	an argument in favor of a proposal
+106662070	an argument opposed to a proposal
+106662171	a statement of facts and reasons used to support an argument
+106662312	an argument that is conclusive
+106662449	citing as evidence or proof
+106662531	the final statement in a verbal argument
+106662660	the evidence by which something is attested
+106662815	information that confirms or verifies
+106662983	information that makes more forcible or convincing
+106663176	confirmation that some fact or statement is true through the use of documentary evidence
+106663446	something that provides direction or advice as to a decision or course of action
+106663792	counseling on career opportunities
+106663890	something that provides guidance (as Polaris guides mariners)
+106664047	guidance for prospective parents on the likelihood of genetic disorders in their future children
+106664208	counseling on marital problems and disagreements
+106664322	an indication of potential opportunity
+106664599	important information about the plans or condition of a corporation that has not been released to the public; use for personal profit is illegal
+106664809	any one of a systematic body of regulations defining the way of life of members of a religious order
+106664987	prescribed guide for conduct or action
+106665359	an authoritative rule of conduct or procedure
+106665457	directions for the conduct of Christian church services (often printed in red in a prayer book)
+106665623	a body of rules followed by an assembly
+106665905	(parliament) a parliamentary procedure of demanding that a government official explain some act or policy
+106666108	(law) a rule of law whereby any alleged matter of fact that is submitted for investigation at a judicial trial is established or disproved
+106666472	a rule of evidence requiring that to prove the content of a writing or recording or photograph the original is required
+106666656	a rule of evidence whereby a person is barred from denying the truth of a fact that has already been settled
+106666819	a rule that provides that otherwise admissible evidence cannot be used in a criminal trial if it was the result of illegal police conduct
+106667020	a rule that once primary evidence is determined to have been illegally obtained any secondary evidence following from it may also not be used
+106667235	a rule that declares not admissible as evidence any statement other than that by a witness
+106667384	a rule that oral evidence cannot be used to contradict the terms of a written contract
+106667536	a rule of evidence whereby the negligence of an alleged wrongdoer can be inferred from the fact that the accident happened
+106667722	a rule of order permanently in force
+106667819	the rule that police (when interrogating you after an arrest) are obliged to warn you that anything you say may be used as evidence and to read you your constitutional rights (the right to a lawyer and the right to remain silent until advised by a lawyer)
+106668133	rule of personal conduct
+106668314	a principle that takes precedent over the laws of society
+106668428	the principle that conduct should be moral
+106668550	any important rule
+106668672	(computer science) a rule stating that the quality of the output is a function of the quality of the input; put garbage in and you get garbage out
+106668888	the moral principle that behavior should be determined by duty
+106669019	a principle stating the action required to attain a desired goal
+106669153	a line of argument rationalizing the course of action of a government
+106669486	a government policy for maintaining economic growth and tax revenues
+106669706	a government policy for dealing with the budget (especially with taxation and borrowing)
+106669854	the economic policy of F. D. Roosevelt
+106669947	the economic policy of controlling or limiting or curbing prices or wages etc.
+106670209	restriction on maximum prices that is established and maintained by the government (as during periods of war or inflation)
+106670391	an upper limit on what is allowed
+106670658	a ceiling based on attitudinal or organizational bias in the work force that prevents minorities and women from advancing to leadership positions
+106670863	a lower limit
+106671014	floor below which prices are not allowed to fall
+106671186	floor below which wages are not allowed to fall
+106671290	an economic policy adopted in the former Soviet Union; intended to increase automation and labor efficiency but it led eventually to the end of central planning in the Russian economy
+106671531	the policy of imposing duties or quotas on imports in order to protect home industries from overseas competition
+106671739	a policy of for dealing with social issues
+106671913	a social policy or racial segregation involving political and economic and legal discrimination against people who are not Whites; the former official policy in South Africa
+106672142	a policy of the Soviet government allowing freer discussion of social problems
+106672275	a social policy of reform (especially socioeconomic reform)
+106672430	a policy designed to redress past discrimination against women and minority groups through measures to improve their economic and educational opportunities
+106672754	social action to improve poor relations (especially in politics)
+106672969	any regulation or policy that restricts international trade
+106673141	a limitation on imports
+106673265	a government order imposing a trade barrier
+106673413	the policy of perpetuating native cultures (in opposition to acculturation)
+106673561	the policy of a political group
+106673687	a policy governing international relations
+106673988	the policy of pushing a dangerous situation to the brink of disaster (to the limits of safety)
+106674141	a policy of extending your rule over foreign countries
+106674307	a policy of intervening in the affairs of other countries
+106674492	a foreign policy of staying out of other countries' disputes
+106674668	a policy of not initiating hostilities
+106674802	a policy of imperialism rationalized as inevitable (as if granted by God)
+106674938	a policy of nonparticipation in international economic and political relations
+106675111	an American foreign policy opposing interference in the western hemisphere from outside powers
+106675267	President Truman's policy of providing economic and military aid to any country threatened by communism or totalitarian ideology
+106675457	a policy of neutrality or nonalignment in international affairs
+106675595	a foreign policy that defines the international interests of a country in terms of particular geographic areas

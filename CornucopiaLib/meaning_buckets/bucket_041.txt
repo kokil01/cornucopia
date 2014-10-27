@@ -1,0 +1,1000 @@
+107397014	the sound of something crunching
+107397172	the characteristic utterance of an animal
+107397692	the crackling or breaking up of certain crystals when they are heated
+107397857	a ringing sound
+107397923	the sound of a liquid falling drop by drop
+107398075	the sound of a drum
+107398216	the noise made by a bell
+107398296	the noise caused by an explosion
+107398423	the sound of a step of someone walking
+107398623	the sound produced while gargling
+107398727	the characteristic sound made by a turkey cock
+107398844	a harsh rasping sound made by scraping something
+107398944	a harsh and strident sound (as of the grinding of gears)
+107399073	the sound of growling (as made by animals)
+107399214	the short low gruff noise of the kind made by hogs
+107399341	the bubbling sound of water flowing from a bottle with a narrow neck
+107399498	a fricative sound (especially as an expression of disapproval)
+107399849	the cry of a goose (or any sound resembling this)
+107399967	a loud sustained noise resembling the cry of a hound
+107400148	the long plaintive cry of a hound or a wolf
+107400260	loud confused noise from many sources
+107400403	a humming noise
+107400598	a metallic sound
+107400794	the sound of a bell rung slowly to announce a death or a funeral or the end of something
+107400970	the sound of knocking (as on a door or in an engine or bearing)
+107401214	the sound made by a cat (or any sound resembling this)
+107401421	the sound made by a cow or bull
+107401520	a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech
+107401916	the characteristic sounds made by a horse
+107402109	sound of any kind (especially unintelligible or dissonant sound)
+107403306	the noise made by a short puff of steam (as from an engine)
+107403416	the sound of a drum (especially a snare drum) beaten rapidly and continuously
+107403587	the sound made by a gentle blow
+107403770	a quick succession of light rapid sounds
+107403930	a deep prolonged sound (as of thunder or large bells)
+107404169	a sharp high-pitched resonant sound (as of a sonar echo or a bullet striking metal)
+107404357	a series of rapid tapping sounds
+107404531	the noise of something dropping (as into liquid)
+107404649	the noise of a rounded object dropping into a liquid without a splash
+107404805	the sound of a sudden heavy fall
+107404907	a hollow twanging sound
+107405000	a sharp explosive sound as from a gunshot or drawing a cork
+107405245	a low vibrating sound typical of a contented cat
+107405362	the harsh sound of a duck
+107405457	a tremulous sound
+107405545	a loud and disturbing noise
+107405679	a series of short sharp taps (as made by strokes on a drum or knocks on a door)
+107405840	a rapid series of short loud sounds (as might be heard with a stethoscope in some types of respiratory disorders)
+107406116	a sharp explosive sound (especially the sound of a gun firing)
+107406282	a sound like whistling or snoring that is heard with a stethoscope during expiration as air passes through obstructed channels
+107406463	the sound of a bell ringing
+107406880	the sound made by a lion
+107406973	the sound made by beating a drum
+107407083	a loud low dull continuous noise
+107407383	a light noise, like the noise of silk clothing or leaves blowing in the wind
+107407582	a harsh noise made by scraping
+107407761	a high-pitched noise resembling a human cry
+107408100	a crunching noise
+107408189	a continuing shrill noise
+107408356	a sound like a person sighing
+107408519	a sizzling noise
+107408588	the sound of (the chanter of) a bagpipe
+107408715	the noise made by the forceful impact of two objects
+107408836	the noise produced by the rapid movement of a finger from the tip to the base of the thumb on the same hand
+107409078	the rattling noise produced when snoring
+107409188	a distinctive or characteristic sound
+107409414	the noise of something spattering or sputtering explosively
+107409704	the sound like water splashing
+107409903	a single splash
+107410046	the noise of squawking
+107410223	a short high-pitched noise
+107410377	a high-pitched howl
+107410467	the noise of soft mud being walked on
+107410557	a shrill grating or chirping noise made by some insects by rubbing body parts together
+107410720	sound of strumming
+107410833	the indistinct sound of people whispering
+107411014	a brushing or rustling sound
+107411130	the noise produced by the sudden rush of a fluid (a gas or liquid)
+107411258	the sound of light blow or knock
+107411422	a sound with a strong rhythmic beat
+107411545	a heavy dull sound (as made by impact of heavy objects)
+107411830	a thrumming sound
+107411955	a booming or crashing noise caused by air expanding along the path of a bolt of lightning
+107412152	a single sharp crash of thunder
+107412241	a dull hollow sound
+107412361	a metallic tapping sound
+107412555	steady recurrent ticking sound as made by a clock
+107412697	a light clear metallic sound as of a small bell
+107412876	a blast of a horn
+107412962	the sound of casual playing on a musical instrument
+107413160	a heavy footfall
+107413259	the sound of heavy treading or stomping
+107413473	a sharp vibrating sound (as of a plucked string)
+107413627	a weak chirping sound as of a small bird
+107413737	(music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch
+107413936	vocal vibrato especially an excessive or poorly controlled one
+107414052	a sound suggestive of a vocal utterance
+107414220	the roaring sound made by a motor that is running at high speed
+107414335	the banging sound of steam in pipes
+107414429	the sound made by a sharp swift blow
+107414517	sound of something in rapid motion
+107414756	the sound made by something moving rapidly or by steam coming out of a small aperture
+107414961	a buzzing or hissing sound as of something traveling rapidly through the air
+107415152	a sharp high-pitched cry (especially by a dog)
+107415301	a brief high-pitched buzzing or humming sound
+107415431	a newsworthy event
+107415506	the rhythmic contraction and expansion of the arteries with each beat of the heart
+107415836	the widening of the chambers of the heart between two contractions when the chambers fill with blood
+107416009	the contraction of the chambers of the heart (especially the ventricles) to drive blood into the aorta and pulmonary artery
+107416204	a premature systole resulting in a momentary cardiac arrhythmia
+107416326	an instance of rapid strong pulsation (of the heart)
+107416560	the tide when the water is highest
+107416747	the outward flow of the tide
+107416871	the lowest (farthest) ebb of the tide
+107416993	the tide while water is flowing out
+107417119	the periodic rise and fall of the sea level under the gravitational pull of the moon
+107417473	the occurrence of high tide on one side of the earth coinciding with high tide on the opposite side
+107417630	the occurrence of incoming water (between a low tide and the following high tide)
+107417900	a less than average tide occurring at the first and third quarters of the moon
+107418059	a greater than average tide occurring during the new and full moons
+107418201	a tide that runs in the same direction as the wind is blowing
+107418379	the occurrence of relatively still water at the turn of the (low) tide
+107418520	a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)
+107418714	the water current caused by the tides
+107418861	the seaward undercurrent created after waves have broken on the shore
+107419043	a strong surface current flowing outwards from a shore
+107419184	a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current
+107419398	a current below the surface of a fluid
+107419544	(geology) the descent of a large mass of earth or rocks or snow etc.
+107419737	a slide of large masses of snow and ice and mud down a mountain
+107419892	an avalanche of volcanic water and mud down the slopes of a volcano
+107420011	a slide of a large mass of dirt and rock down a mountain or cliff
+107420179	a landslide of mud
+107420252	a volcanic eruption in which a stream of gas and ash is violently ejected to a height of several miles
+107420417	a landslide of rocks
+107420493	the motion characteristic of fluids (liquids or gases)
+107420950	a flow that returns toward its source
+107421074	backflow of blood through a defective heart valve
+107421201	the flow of air
+107421365	a steady flow of a fluid (usually from natural causes)
+107421737	the occurrence of a water flow resulting from sudden rain or melting snow
+107421872	the occurrence of surplus liquid (as water) exceeding the limit or capacity
+107422059	a liquid (as water) that flows in drops (as from the eaves of house)
+107422193	a violently fast stream of water (or other liquid)
+107422377	the pouring forth of a fluid
+107422570	a flow or discharge
+107422686	an explosion in the atmosphere
+107422771	an explosion (as of dynamite)
+107422888	the explosion of a bomb
+107422986	the explosion of an atomic bomb
+107423119	backfire from a recoilless weapon
+107423221	a loud noise made by the explosion of fuel in the manifold or exhaust of an internal combustion engine
+107423396	(cosmology) the cosmic explosion that is hypothesized to have marked the origin of the universe
+107423565	the backward escape of gases and unburned gunpowder after a gun is fired
+107423721	the scattering of bomb fragments after the bomb explodes
+107423855	(cosmology) a brief exponential expansion of the universe (faster than the speed of light) postulated to have occurred shortly after the big bang
+107424075	a glancing rebound
+107424192	the event of something coming in contact with the body
+107424530	any violent blow
+107424621	a gentle blow
+107424807	a vigorous blow
+107425126	repeated heavy blows
+107425213	a glancing blow from or on the side of something (especially motor vehicles)
+107425345	a blow from a flat object (as an open hand)
+107425483	the amount by which a propagating wave is bent
+107425611	periodic motion in which the restoring force is proportional to the displacement
+107425760	turning in an opposite direction or position
+107425950	an erratic deflection from an intended course
+107426090	injury to the brain caused by a blow; usually resulting in loss of consciousness
+107426245	a rapid change in brightness; a brief spark or flash
+107426451	a weak and tremulous light
+107426692	a sudden intense burst of radiant energy
+107426910	a momentary flash of light
+107427078	a flash of light (especially reflected light)
+107427268	the occurrence of a small flash or spark
+107427476	a flash of intense heat (as released by an atomic explosion)
+107427593	the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash); can scintillate for a second or more
+107427837	bright flashes of light near the horizon without thunder (especially on hot evenings); usually attributed to distant lightning that is reflected by clouds
+107428052	lightning that appears as a broad sheet; due to reflections of more distant lightning and to diffusion by the clouds
+107428229	a sudden flash (as of lightning)
+107428314	momentary contact
+107428415	a light touch
+107428499	increase in density
+107428668	a sudden great increase
+107428822	a sudden and decisive increase
+107428970	a substantial increase over a relatively short period of time
+107429166	a gradual increase in magnitude or extent
+107429340	the occurrence of two or more things coming together
+107429522	a casual or unexpected convergence
+107429767	(astronomy) apparent meeting or passing of two or more celestial bodies in the same degree of the zodiac
+107429996	(astronomy) the alignment of the Earth and a planet on the same side of the sun
+107430161	(astronomy) the alignment of the Earth and a planet on the opposite side of the sun
+107430330	an event that results in a transformation
+107430562	the conversion of glucose to glycogen when the glucose in the blood exceeds the demand
+107430707	the conversion of a compound into an isomer of itself
+107430908	the conversion of alternating current to direct current
+107431041	(physics) the change of one chemical element into another (as by nuclear decay or radioactive bombardment)
+107431314	an event that occurs at a critical time
+107431643	the highest point of anything conceived of as growing or developing or unfolding
+107431898	a critical combination of events or circumstances
+107432005	a sudden unforeseen crisis (usually involving danger) that requires immediate action
+107432244	a crucial stage or turning point in the course of something
+107432451	an event marking a unique or important historical change of course or one on which important developments depend
+107432746	(Judeo-Christian mythology) when Adam and Eve ate of the fruit of the tree of knowledge of good and evil in the Garden of Eden, God punished them by driving them out of the Garden of Eden and into the world where they would be subject to sickness and pain and eventual death
+107433097	a sudden turning point in a person's life (similar to the sudden conversion of the Apostle Paul on the road from Jerusalem to Damascus of arrest Christians)
+107433316	a significant event in your life (or in a project)
+107433422	a difficult juncture
+107433563	an occasion on which one is reminded of the nature of things in the real world
+107433833	an increase in the density of something
+107434008	a decrease in the density of something
+107434199	an occurrence of improvement by virtue of preventing loss or injury or other change
+107434392	return to an original state
+107434560	an abatement in intensity or degree (as in the manifestations of a disease)
+107434817	the subsidence of swelling or other signs of inflammation (especially in a lung)
+107434954	a severe affliction
+107435035	a severe trial
+107435138	a damage or loss
+107435271	a detriment or sacrifice
+107435370	the occurrence of a change for the worse
+107435591	(electronics) a sharp transient wave in the normal electrical state (or a series of such transients)
+107435916	a cessation of normal operation
+107436180	brakes fail to stop a vehicle
+107436269	engine does not run
+107436349	an explosion that fails to occur
+107436459	a temporary suspension of operation (as of computers)
+107436636	equipment failure resulting when the supply of power fails
+107436844	(electronics) equipment failure attributable to some defect in a circuit (loose connection or insulation failure or short circuit etc.)
+107437106	the failure of electric power for a general region
+107437229	the failure of a jet engine caused by an interruption of the fuel supply or by faulty combustion
+107437400	a becoming gradually less
+107437601	a gradual decrease in magnitude or extent
+107437848	gradually diminishing in brightness or loudness or strength
+107437965	an unforeseen development
+107438160	a recent event that has some relevance for the present situation
+107438418	a remarkable development
+107438499	a development that complicates a situation
+107438709	a drastic and far-reaching change in ways of thinking and behaving
+107439036	a radical reform in China initiated by Mao Zedong in 1965 and carried out largely by the Red Guard; intended to eliminate counterrevolutionary elements in the government it resulted in purges of the intellectuals and socioeconomic chaos
+107439397	the introduction of pesticides and high-yield grains and better management during the 1960s and 1970s which greatly increased agricultural productivity
+107439611	(genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism
+107440027	a change in a person's physical sexual characteristics (as by surgery and hormone treatments)
+107440177	(genetics) the loss or absence of one or more nucleotides from a chromosome
+107440326	(genetics) a kind of mutation in which the order of the genes in a section of a chromosome is reversed
+107440503	(genetics) a kind of mutation in which a chromosomal segment is transfered to a new position on the same or another chromosome
+107440708	an event capable of causing a mutation
+107440841	(genetics) a mutation caused by the insertion of exogenous DNA into a genome
+107441006	(genetics) a mutation due to an intramolecular reorganization of a gene
+107441173	(genetics) a return to a normal phenotype (usually resulting from a second mutation)
+107441332	(genetics) a mutation that drastically changes the phenotype of an organism or species
+107441493	passing from a more complex to a simpler biological form
+107441660	any weakening or degeneration (especially through lack of use)
+107441824	becoming stronger
+107441937	becoming weaker
+107442134	weakening in force or intensity
+107442328	a sudden decline in strength or number or importance
+107442551	a disappointing decline after a previous rise
+107442711	a loss of vitality and a degeneration of cells and tissues not due to any apparent injury
+107442857	(biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form
+107443050	activity that is a malfunction, intrusion, or interruption
+107443397	a sudden disturbance of the earth's magnetic field; caused by emission of particles from the sun
+107443554	shaking and vibration at the surface of the earth resulting from underground movement along a fault plane or from volcanic activity
+107443876	an instance of agitation of the earth's crust
+107444084	a small earthquake
+107444237	a tremor (or one of a series of tremors) occurring after the main shock of an earthquake
+107444382	a tremor preceding an earthquake
+107444470	an earthquake at the sea bed
+107444576	any entry into an area not previously occupied
+107444811	electrical or acoustic activity that can disturb communication
+107445080	extraneous signals that can be confused with the phenomenon to be observed or measured
+107445370	extraneous noise contaminating sound measurements that cannot be separated from the desired signal
+107445564	noise produced by the friction of the stylus of a record player moving over the rotating record
+107445719	radiation coming from sources other than those being observed
+107445847	the presence of an unwanted signal via an accidental coupling
+107445969	a gradual temporary loss of a transmitted signal due to electrical disturbances
+107446102	small rapid variations in a waveform resulting from fluctuations in the voltage supply or mechanical vibrations or other sources
+107446283	a crackling or hissing noise caused by electrical interference
+107446452	a noise produced by a stimulus containing all of the audible frequencies of vibration
+107446634	static at radio wavelengths
+107446719	the process of seeping
+107446937	the process of exuding; the slow escape of liquids from blood vessels through pores or breaks in the cell membranes
+107447159	flowing in drops; the formation and falling of drops of liquid
+107447435	slow continuous drip introducing solutions intravenously (a drop at a time)
+107447573	a miniature whirlpool or whirlwind resulting when the current of a fluid doubles back on itself
+107447745	a powerful circular current of water (usually the result of conflicting tides)
+107447936	(Greek mythology) a ship-devouring whirlpool lying on the other side of a narrow strait from Scylla
+107448110	the removal of limbs; being cut to pieces
+107448262	an injury that causes disfigurement or that deprives you of a limb or other important body part
+107448468	the occurrence of a flow of water (as from a pipe)
+107448573	a change for the worse
+107448702	a moral or mental distortion
+107448809	a steep and rapid fall
+107448920	the act of casting down or falling headlong from a height
+107449073	making fertile as by applying fertilizer or manure
+107449278	a layer of fertilizer or manure not plowed in
+107449382	the emergence of seeds as seed pods burst open when they are ripe
+107449542	a sudden intense happening
+107449749	an outburst resembling the discharge of firearms or the release of bombs
+107449873	a sudden violent spontaneous occurrence (usually of some undesirable condition)
+107450133	a widespread outbreak of an infectious disease; many people are infected at the same time
+107450313	an epidemic that is geographically widespread; occurring throughout a region or even throughout the world
+107450491	a return of something after a period of abatement
+107450700	the occurrence of a sudden discharge (as of liquid)
+107450952	a sudden burst of activity
+107451075	the sudden occurrence of a violent discharge of steam and volcanic material
+107451261	the discharge of a fluid from some container
+107451586	creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant
+107451972	transfer of pollen from the anther to the stigma of a plant
+107452175	fertilization by the union of male and female gametes from different individual of the same species
+107452470	cross-fertilization in plants
+107452590	fertilization by the union of male and female gametes from the same individual
+107452790	fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males)
+107452996	fertilization of a second ovum after a pregnancy has begun; results in two fetuses of different ages in the uterus at the same time
+107453255	self-fertilization in plants
+107453392	fertilization by transfer of pollen from the anthers of one flower to the stigma of another
+107453583	fertilization by transfer of pollen from the anthers to the stigma of the same flower
+107453767	the production of small nonopening self-pollinating flowers
+107453884	the motion made by flapping up and down
+107454170	a sudden rapid flow (as of water)
+107454483	the spread of a group of organisms into new habitats
+107454645	the development of many different forms from an originally homogeneous group of organisms as they fill different ecological niches
+107454840	a sudden forceful flow
+107455011	the sudden spread of dust and debris from a collapsing building
+107455217	a forceful forward rush or flow
+107455452	a swelling rush of anything
+107455579	a single complete turn (axial or orbital)
+107455973	rotation to the right
+107456094	rotation to the left
+107456219	rotary motion of an object around its own axis
+107456502	motion of an object in an orbit around a fixed point
+107456668	confused movement
+107456888	a swift whirling motion (usually of a missile)
+107457039	spin (usually of a moving ball) that retards or reverses the forward motion
+107457169	(sports) the spin given to a ball by striking it on one side or releasing it with a sharp twist
+107457344	forward spin (usually of a moving ball) that is imparted by an upward stroke
+107457474	an indolent or clumsy rolling about
+107457610	a row of unravelled stitches
+107457810	an occurrence of control or strength weakening
+107458139	a relaxation or slackening of tensions or reserve; becoming less hostile
+107458361	an event in which one thing is substituted for another
+107458700	recurring fluctuations in economic activity consisting of recession and recovery and growth and decline
+107458878	fluctuations that occur between one day and the next
+107458992	fluctuations that occur during each day
+107459095	something that may increase or decrease (like the tides of the sea)
+107459268	an event in which something is displaced without rotation
+107459482	(physics) the maximum displacement of a periodic wave
+107459610	displacement or misalignment of a joint or organ
+107459749	partial displacement of a joint or organ
+107459865	a movement forward
+107460080	a movement upward
+107460496	process or result of distributing or extending over a wide expanse of space
+107460870	a wild headlong rush of frightened animals (horses or cattle)
+107461004	a uniform movement without rotation
+107461133	a jet of vapor
+107461199	a quick squirt of some liquid (usually carbonated water)
+107461344	the sound of a bell rung in Roman Catholic churches to announce the time when the Angelus should be recited
+107461520	the sound of someone playing a set of bells
+107461622	the occurrence of a change in direction back in the opposite direction
+107461777	a rolling or revolving motion
+107461861	a vaguely specified social event
+107462241	an occasion on which people can assemble for social interaction and entertainment
+107462638	an uproarious party
+107462721	a party held on the anniversary of someone's birth
+107462832	(Briticism) a grand formal party on an important occasion
+107462994	an informal social gathering at which there is Scottish or Irish folk music and singing and folk dancing and story telling
+107463208	an afternoon party at which cocktails are served
+107463317	a party for social dancing
+107463485	a lavish dance requiring formal attire
+107463637	a ball at which young ladies are presented to society
+107463757	a ball at which guests wear costumes and masks
+107463916	a formal ball held for a school class toward the end of the academic year
+107464052	a dance party featuring country dancing
+107464148	an informal dance where popular music is played
+107464276	a dance party that lasts all night and electronically synthesized music is played
+107464462	an elaborate party (often outdoors)
+107464655	an elaborate Hawaiian feast or party (especially one accompanied by traditional foods and entertainment)
+107464829	a party lasting over one or more nights at a large house
+107464943	a happy party
+107465063	a party at which tea is served
+107465149	a progressive whist party
+107465251	a joyful occasion for special festivities to mark some happy event
+107465442	a formal event performed on a special occasion
+107465938	formal ceremony about important occasions
+107466063	a ceremony at which a dead person is buried or cremated
+107466297	the ritual placing of a corpse in a grave
+107466513	a traditional Tibetan funeral ritual in which the corpse is exposed to the open air to be eaten by sacred vultures
+107466684	the social event at which the ceremony of marriage is performed
+107466861	a rich and spectacular ceremony
+107466958	a ceremony in which something (as a building) is dedicated to some goal or purpose
+107467169	a new dedication
+107467309	a ceremony accompanying the start of some enterprise
+107467451	a ceremony to honor the memory of someone or something
+107467673	a formal ceremony performed by military personnel
+107467805	a formal entry into an organization or position or office
+107468248	the ceremony of installing a new monarch
+107468534	(Judaism) an initiation ceremony marking the 13th birthday of a Jewish boy and signifying the beginning of religious responsibility
+107468806	(Judaism) an initiation ceremony marking the 12th birthday of a Jewish girl and signifying the beginning of religious responsibility
+107469062	(usually plural) a ceremony that involves processions and speeches
+107469242	the ceremony of walking barefoot over hot stones or a bed of embers
+107469368	an academic exercise in which diplomas are conferred
+107469617	a requirement of etiquette or custom
+107469761	a public ceremony on Maundy Thursday when the monarch distributes Maundy money
+107469911	a ceremonial feast held by some Indians of the northwestern coast of North America (as in celebrating a marriage or a new accession) in which the host gives gifts to tribesmen and others to display his superior wealth (sometimes, formerly, to his own impoverishment)
+107470250	a social function that is held for the purpose of raising money
+107470370	an occasion that lends itself to (or is deliberately arranged for) taking photographs that provide favorable publicity for those who are photographed
+107470594	an occasion of spending a night away from home or having a guest spend the night in your home (especially as a party for children)
+107470798	an event for which all tickets are sold
+107470961	an occasion on which a winner is selected from among two or more contestants
+107471429	a contest between athletes
+107471697	a contest or fight (especially between boxers or wrestlers)
+107471807	an athletic contest consisting of ten different events
+107471917	the modern revival of the ancient games held once every 4 years in a selected country
+107472102	an athletic contest modeled after the Olympic Games but intended for mentally or physically handicapped persons
+107472276	an Olympics for winter sports
+107472390	a minor match preceding the main event
+107472513	an athletic contest consisting of five different events
+107472625	a competition at which a champion is chosen
+107472727	a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops
+107472890	a contest whose outcome is uncertain up to the very end
+107473003	a fiercely disputed contest
+107473244	a contest of speed
+107473683	a race between (usually high-performance) automobiles
+107473857	one of several international races
+107473948	an automobile race run over public roads
+107474040	a race between people riding bicycles
+107474184	a French bicycle race for professional cyclists that lasts three weeks and covers about 3,000 miles
+107474344	a bicycle race held on a short course (usually less than 5 km or 3 miles)
+107474480	a race between people rowing or driving boats
+107474599	a high-speed motorcycle race on a public road
+107474735	a race between ancient chariots
+107474825	a race between dogs; usually an occasion for betting on the outcome
+107474949	a race between crews of people in yachts
+107475061	a race run on foot
+107475360	a footrace run for fun (often including runners who are sponsored for a charity)
+107475503	a footrace of 26 miles 385 yards
+107475608	a race (as in swimming) in which each contestant has a free choice of the style to use
+107475750	a long race run over open country
+107475861	an important dogsled race run annually on the Iditarod Trail
+107476007	an equestrian competition; the first day is dressage; the second is cross-country jumping; the third is stadium jumping
+107476245	a preliminary race in which the winner advances to a more important race
+107476368	a contest of speed between horses; usually held for the purpose of betting
+107476607	a horse race in which each owner declares before the race at what price his horse will be offered for sale after the race
+107476788	a horse race in which the winning horse must be put up for auction
+107476913	a horse race between people riding in sulkies behind horses that are trotting or pacing
+107477076	an annual race for three-year-old horses; held at Churchill Downs in Louisville, Kentucky
+107477226	an annual race for three-year-old horses; held at Pimlico in Baltimore, Maryland
+107477362	an annual race for three-year-old horses; held on Long Island at Elmont, New York
+107477504	a horse race in which part of the prize is put up by the owners of the horses in the race
+107477650	a horse race over an obstructed course
+107477765	an annual steeplechase run in Liverpool, England
+107477874	a race in which competitors must negotiate obstacles
+107477986	a footrace of usually 3000 meters over a closed track with hurdles and a water jump
+107478128	a race between thoroughbred horses
+107478280	a novelty race in which competitors move potatoes from one place to another one at a time
+107478427	a novelty race in which competitors jump ahead with their feet confined in a sack
+107478564	a race in which all contestants start from scratch (on equal terms)
+107478690	a race between people wearing skis
+107478829	a ski race down a trail
+107478907	a downhill race over a winding course defined by upright poles
+107479040	a race between teams; each member runs or swims part of the distance
+107479191	a race (especially in rowing) in which runners-up in the eliminating heats compete for a place in the final race
+107479359	(ancient Greece) in which a torch is passed from one runner to the next
+107479525	a soccer tournament held every four years between national soccer teams to determine a world champion
+107479682	a sporting competition in which contestants play a series of games to decide the winner
+107479926	a tournament in which losers are eliminated in successive rounds
+107480116	a tournament in which both professionals and amateurs may play
+107480247	any final competition to determine a championship
+107480405	a contest consisting of a series of successive matches between the same sides
+107480588	(sports) several contests played successively by the same teams
+107480797	a series of successive games played at a team's home field or court
+107480921	series that constitutes the playoff for the baseball championship
+107481100	a match between boxers; usually held in a boxing ring
+107481248	a match between chess players
+107481335	a match in a cockpit between two fighting cocks heeled with metal gaffs
+107481462	a match between two cricket teams
+107481555	an athletic competition that involves diving into water
+107481697	a competition that takes place on a field rather than on a running track
+107481972	the final match between the winners of all previous matches in an elimination tournament
+107482167	the final match of any cup competition (such as the annual final of the English soccer competition at Wembley)
+107482352	one of the four competitions in an elimination tournament whose winners go on to play in the semifinals
+107482533	one of the two competitions in the next to the last round of an elimination tournament
+107482719	a tournament in which every contestant plays every other contestant
+107482844	a contest between gun dogs to determine their proficiency in pointing and retrieving
+107482986	a meeting at which a number of athletic contests are held
+107483256	a meet at which riders and horses display a range of skills and aptitudes
+107483384	a regular occasion on which a number of horse races are held on the same track
+107483596	a meeting for boat races
+107483674	a swimming competition between two or more teams
+107483832	a track and field competition between two or more teams
+107484001	a footrace performed on a track (indoor or outdoor)
+107484183	a footrace run at top speed
+107484302	a footrace in which contestants must negotiate a series of hurdles
+107484465	a footrace extending one mile
+107484616	a competition that involves jumping as high as possible over a horizontal bar
+107484749	a competition that involves jumping as far as possible from a running start
+107484912	a competition that involves jumping over a high crossbar with the aid of a long pole
+107485115	an athletic competition in which a heavy metal ball is hurled as far as possible
+107485250	an athletic competition in which a heavy metal ball that is attached to a flexible wire is hurled as far as possible
+107485425	an athletic competition in which a disk-shaped object is thrown as far as possible
+107485560	an athletic competition in which a javelin is thrown as far as possible
+107485685	an athletic competition that involves swimming
+107485811	a formal contest in which two or more persons or teams compete
+107486177	a match between tennis players
+107486266	an international championship match
+107486386	a match between wrestlers
+107486511	when a wrestler's shoulders are forced to the mat
+107486654	(amateur wrestling) being brought to the mat from a standing position
+107486848	a practice or exhibition boxing match
+107486946	a boxing match between professional boxers for a cash prize
+107487112	an athletic contest in which a competitor must perform successively a hop and a step and a jump in continuous movement
+107487308	a contest in which teams pull of opposite ends of a rope; the team dragged across a central line loses
+107487467	a series of jousts between knights contesting for a prize
+107487600	a combat between two mounted knights tilting against each other with blunted lances
+107487797	any competition
+107487948	a competition between nations to have the most powerful armaments
+107488069	a race between candidates for elective office
+107488347	a race for election to the governorship
+107488472	a race for election to the senate
+107488581	a successful ending of a struggle or contest
+107489146	the successful ending of the American Revolution
+107489325	an overwhelming electoral victory
+107489458	ultimate success achieved after a near failure (inspired by the saying he laughs best who laughs last')
+107489673	a victory that is won by incurring terrible losses
+107489785	winning all or all but one of the tricks in bridge
+107489949	winning all of the tricks in a hand of bridge
+107490051	winning all but one of the tricks in a hand of bridge
+107490175	complete victory
+107490247	an easy victory
+107490382	a tennis game won on the opponent's service
+107490504	an unsuccessful ending to a struggle or contest
+107490902	an assured victory (especially in an election)
+107491010	an unfortunate happening that hinders or impedes; something that is thwarting or frustrating
+107491232	a serious or devastating setback
+107491317	a narrow defeat or a defeat at the last minute
+107491422	a decisive defeat in a game (especially in cribbage)
+107491544	an overwhelming defeat
+107491635	a defeat in a game where one side fails to score
+107491763	a sound defeat
+107491991	a final crushing defeat
+107492092	a defeat in which the losing person or team fails to score
+107492206	a contest in which you are eliminated if you fail to spell a word correctly
+107492371	(sports) a preliminary competition to determine qualifications
+107492553	(angling) an instance of a fish taking the bait
+107492727	a sudden happening that brings good fortune (as a sudden opportunity to make money)
+107493085	a sudden large decline of business or the prices of stocks (especially one that causes additional failures)
+107493309	the occurrence of a loss of the ability to perceive and respond
+107493458	a spontaneous loss of consciousness caused by insufficient blood to the brain
+107493671	the lapse of mankind into sinfulness because of the sin of Adam and Eve
+107493858	an irretrievable loss
+107494014	(computer science) an event that causes a computer system to become inoperative
+107494284	(computer science) a crash of a read/write head in a hard disk drive (usually caused by contact of the head with the surface of the magnetic disk)
+107494506	a sharp rise followed by a sharp decline
+107494665	a following on in addition
+107494768	a sudden event that imparts energy or excitement, usually with a dramatic impact
+107494939	a buzzing or whizzing sound
+107495066	the conscious subjective aspect of feeling or emotion
+107495208	any strong feeling
+107495496	a persistent illogical feeling of desire or aversion
+107495661	a feeling of considerable warmth
+107495806	a feeling of faintness and of being ready to swoon
+107495930	deep feeling or emotion
+107496036	a strong feeling or emotion
+107496224	a foolish and usually extravagant passion or love or admiration
+107496363	a feeling of extreme emotional intensity
+107496515	feelings of great warmth and intensity
+107496765	violent passion in speech or action
+107496925	excessive fervor to do something or accomplish some end
+107497091	tender, romantic, or nostalgic feeling or emotion
+107497268	extravagant or affected feeling or emotion
+107497407	insincere pathos
+107497508	the sentimental feeling you have about someone you once loved but no longer do
+107497661	(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior
+107497922	a complex of males; desire to possess the mother sexually and to exclude the father; said to be a source of personality disorders if unresolved
+107498145	a complex of females; sexual attraction to the father
+107498260	a sense of personal inferiority arising from conflict between the desire to be noticed and the fear of being humiliated
+107498445	mixed feelings or emotions
+107498579	opposition between two simultaneous but incompatible feelings
+107498762	an absence of emotion or enthusiasm
+107498922	apathy demonstrated by an absence of emotional reactions
+107499249	a feeling of lack of interest or energy
+107499405	the feeling that accompanies an unsatisfied state
+107499687	a cherished desire
+107499932	the widespread aspiration of Americans to live better than their parents did
+107500069	ambition to equal or excel
+107500187	the aspiration for national independence felt by people under foreign domination
+107500343	a desire for bloodshed
+107500421	the desire to have or do something that you know you should avoid
+107500615	an intense desire for some particular thing
+107500766	a feeling of craving something
+107501056	an appetite for food
+107501195	a strong appetite for sweet food
+107501285	an abnormally strong craving
+107501369	a specific feeling of desire
+107501667	a mere wish, unaccompanied by effort to obtain
+107501768	prolonged unfulfilled desire or need
+107502062	a yearning for something or to do something
+107502203	a feeling of deep longing
+107502317	an unrealistic yearning
+107502416	a sadly pensive longing
+107502515	longing for something past
+107502633	a pining for a loved one
+107502734	a longing to return home
+107502835	all of the feelings resulting from the urge to gratify sexual impulses
+107503095	a desire for sexual intimacy
+107503480	a deep feeling of sexual desire and attraction
+107503707	a desire for heterosexual intimacy
+107503816	decline or absence of sexual desire
+107503928	a feeling of strong sexual desire
+107504015	desire for sensual pleasures
+107504199	the arousal of feelings of sexual desire
+107504434	a form of sexual desire in which gratification depends to an abnormal degree on some object or item of clothing or part of the body
+107504688	(psychoanalysis) a Freudian term for sexual urge or desire
+107504854	a strong sexual desire
+107505065	abnormally intense sexual desire in women
+107505182	abnormally intense sexual desire in men
+107505278	intense sexual desire
+107505354	feeling morbid sexual desire or a propensity to lewdness
+107505591	a strong restless desire
+107505719	a sudden desire
+107505853	a fundamental feeling that is hard to define but that people desire to experience
+107506178	a feeling of extreme pleasure or satisfaction
+107506426	a feeling of delight at being filled with wonder and enchantment
+107506616	a feeling of delight at being entertained
+107506731	delight in another person's misfortune
+107506848	the pleasure felt when having a good time
+107507035	a keen enjoyment of living
+107507121	vigorous and enthusiastic enjoyment
+107507310	the feeling caused by agreeable stimuli; one pole of a continuum of states of feeling
+107507508	the pleasure of remembering some pleasant event
+107507656	a feeling of freedom from worry or disappointment
+107507795	the comfort you feel when consoled in times of disappointment
+107508068	very limited consolation or empathy
+107508235	a consoling aspect of a difficult situation
+107508420	the feeling that comes when something burdensome is removed or reduced
+107508667	pleasure derived from sexual activities
+107508822	sexual pleasure derived from inflicting or experiencing pain
+107508970	sexual pleasure obtained by inflicting harm (physical or psychological) on others
+107509158	sadism and masochism combined in one person
+107509315	sexual pleasure obtained from receiving punishment (physical or psychological)
+107509503	emotional distress; a fundamental feeling that people try to avoid
+107509822	emotional distress arising during adolescence
+107509927	the feeling caused by disagreeable stimuli; one pole of a continuum of states of feeling
+107510112	a sudden sharp feeling
+107510296	pangs of feeling guilty
+107510376	sustained dull painful emotion
+107510467	feelings of mental or physical pain
+107510691	intense feelings of suffering; acute mental or physical pain
+107511018	violent pangs of suffering
+107511113	an uncomfortable feeling of mental painfulness or distress
+107511306	soreness or irritation of the skin caused by friction
+107511431	chafing between two skin surfaces that are in contact (as in the armpit or under the breasts or between the thighs)
+107511603	psychological suffering
+107511895	extreme mental distress
+107512064	self-imposed distress
+107512159	(Yiddish) trouble and suffering
+107512262	a figurative injury (to your feelings or pride)
+107512613	a feeling of pleasure and enjoyment
+107512937	a predisposition to like something
+107513215	a feeling of great liking for something wonderful and unusual
+107513449	a strong liking
+107513694	a preference that is only acquired after considerable experience
+107513853	a penchant for something even though it might not be good for you
+107514008	abnormal attraction to filth
+107514093	that toward which you are inclined to feel a liking
+107514352	an inclination to do something
+107514515	an inclination or liking for things involving conflict or difficulty or unpleasantness
+107514688	an inclination contrary to the strongest or prevailing feeling
+107514854	a feeling of liking for another person; enjoyment in their company
+107515069	a disinclination to quarrel
+107515169	the friendly hope that something will succeed
+107515281	the feeling that men should treat one another like brothers
+107515398	a feeling of liking something or someone good
+107515653	a feeling of favorable regard
+107515851	official approval
+107515980	a feeling of delighted approval and liking
+107516196	admiration for Britain and British customs
+107516332	admiration for great men (or their memory)
+107516433	admiration for Greece and the Greeks and Greek customs
+107516565	admiration for women
+107516659	a feeling of profound love and admiration
+107516784	a feeling of aversion or antipathy
+107517161	that toward which you are inclined to feel dislike
+107517338	dislike (or fear) of Britain and British customs
+107517480	dislike experienced as an absence of friendliness
+107517626	the feeling of being alienated from other people
+107517815	a feeling of being disliked and alone
+107517908	a feeling of intense dislike
+107518068	a feeling of disliking something or what someone is doing
+107518219	lack of respect accompanied by a feeling of intense dislike
+107518499	strong feelings of dislike
+107518669	hate coupled with disgust
+107518955	feelings of dislike and anxiety
+107519088	a strong dislike
+107519226	intense aversion
+107519350	disgust so strong it makes you feel sick
+107519497	dislike for new technology
+107519582	a feeling of thankfulness and appreciation
+107519768	warm friendly feelings of gratitude
+107519950	a lack of gratitude
+107520080	a feeling of sympathy for someone or something
+107520286	a cause for feeling concern
+107520446	a feeling of excessive concern
+107520586	a feeling of concern for the welfare of someone (especially someone defenseless)
+107520777	a feeling of lack of concern
+107520915	unbiased impartial unconcern
+107521110	indifference by personal withdrawal
+107521270	avoiding emotional involvement
+107521388	an absence of concern for the welfare of others
+107521621	feelings of extreme heartlessness
+107521808	a painful emotion resulting from an awareness of inadequacy or guilt
+107522036	a feeling of shame when you do something immoral
+107522201	shame resulting from strong dislike of yourself or your actions
+107522337	the shame you feel when your inadequacy or guilt is made public
+107522568	embarrassment deriving from the feeling that others are critically aware of you
+107522799	feeling embarrassed about yourself
+107522981	strong feelings of embarrassment
+107523151	a feeling of embarrassment that leaves you confused
+107523331	feeling embarrassed due to modesty
+107523471	anxious embarrassment
+107523725	a feeling of self-respect and personal worth
+107523944	a feeling of pride in yourself
+107524045	an inflated feeling of pride in your superiority to others
+107524235	feelings of excessive pride
+107524370	a humble feeling
+107524564	the feeling of patient, submissive humbleness
+107524713	a feeling of being of little worth
+107524811	the feeling that accompanies something extremely surprising
+107525066	the feeling of being confounded or overwhelmed
+107525235	the feeling aroused by something strange and surprising
+107525423	an overwhelming feeling of wonder or admiration
+107525587	the astonishment you feel when something totally unexpected happens to you
+107525734	a feeling of stupefied astonishment
+107525864	the feeling of distress and disbelief that you have when something bad happens accidentally
+107526162	the feeling that something is about to happen
+107526319	an expectation
+107526477	excited anticipation of an approaching climax
+107526619	intense nervous anticipation
+107526763	nervous excitement of an inexperienced hunter
+107526865	greed and the contagious excitement of a gold rush
+107526972	a specific instance of feeling hopeful
+107527145	feeling an inappropriate lack of seriousness
+107527278	a festive merry feeling
+107527386	a solemn and dignified feeling
+107527554	an earnest and sincere feeling
+107527704	sensitivity to emotional feelings (of self and others)
+107527958	sensitivity leading to easy irritation or upset
+107528087	refined sensitivity to pleasurable or painful impressions
+107528274	emotional or moral sensitivity (especially in relation to personal principles or dignity)
+107528486	a feeling of understanding
+107528652	a sensuous feeling
+107528747	the feeling of being agitated; not calm
+107528950	a feeling of restless agitation
+107529034	a feeling of agitation expressed in continual motion
+107529310	a restless desire for change and excitement
+107529428	an extreme state of worry and agitation
+107529584	emotional agitation and excitement
+107529759	violent agitation
+107529839	keen and shared excitement
+107530021	a general feeling of excitement and heightened interest
+107530207	a feeling of calm; an absence of agitation or excitement
+107530408	a feeling of calmness; a quiet and undisturbed feeling
+107530567	calm and unruffled self-assurance
+107530799	a state of peace and quiet
+107531029	the absence of mental stress or anxiety
+107531213	a feeling of refreshing tranquility and an absence of tension or worry
+107531461	a relaxed comfortable feeling
+107531593	a strong emotion; a feeling that is oriented toward some real or supposed grievance
+107531995	a feeling of intense indignation (now used only in the phrase in high dudgeon')
+107532144	intense anger (usually on an epic scale)
+107532236	a feeling of intense anger
+107532531	a state of fury so great the face becomes discolored
+107532656	a feeling of intense anger
+107532789	a feeling of anger caused by being offended
+107532976	a feeling of righteous anger
+107533108	a passing state of anger and resentment
+107533239	a feeling of anger and animosity
+107533371	a persisting angry mood
+107533500	anger produced by some annoying irritation
+107533707	a sudden outburst of anger
+107533902	a feeling of annoyance at being hindered or criticized
+107534117	an exasperated feeling of annoyance
+107534279	a feeling of intense annoyance caused by being tormented
+107534492	an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+107535012	fear resulting from the awareness of danger
+107535222	a feeling of fear and revulsion
+107535351	an almost pleasurable sensation of fright
+107535650	intense and profound fear
+107535746	excessive or uncontrollable fear
+107535851	an overwhelming feeling of fear and anxiety
+107536164	a panic or extreme discomposure
+107536278	a feeling of profound respect for someone or something
+107536676	a sudden attack of fear
+107536802	fear that affects a person about to face an audience
+107536913	fearful expectation or anticipation
+107537282	a feeling of alarm or dread
+107537367	a feeling of evil to come
+107537657	a premonition of something adverse
+107537775	a foreboding about what is about to happen
+107537871	apprehension about what is going to happen
+107537968	fear of the unknown or unfamiliar or fear of making decisions
+107538255	timidity that prevents the continuation of a course of action
+107538419	a feeling of fear of embarrassment
+107538525	lack of self-confidence
+107538724	a feeling of diffidence and indecision about doing something
+107538888	diffidence about self promotion
+107538999	the feeling of being intimidated; being made to feel afraid or timid
+107539144	a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune
+107539481	a strong feeling of anxiety
+107539768	an anxious feeling
+107539999	a feeling of mild anxiety about possible developments
+107540157	the anxiety you experience when you feel vulnerable and insecure
+107540296	feelings of anxiety that make you tense and irritable
+107540498	feelings of uneasiness
+107540606	a feeling caused by uneasiness or apprehension
+107540794	uneasiness about the fitness of an action
+107540999	the anxious feeling you have when you have the jitters
+107541241	an acute but unspecific feeling of anxiety; usually reserved for philosophical anxiety about the world or about personal freedom
+107541421	feeling no fear
+107541577	freedom from anxiety or fear
+107541744	a feeling of trust (in someone or something)
+107541996	emotions experienced when in a state of well-being
+107542300	(French) happiness and good humor
+107542406	experiencing joy and pleasure
+107542591	the emotion of great happiness
+107542913	an enthusiastic expression of emotion
+107543044	a feeling of joy and pride
+107543205	a feeling of extreme joy
+107543485	the exultation of victory
+107543600	the feeling of lively and cheerful joy
+107543858	the swift release of a store of affective force
+107544195	excitement and elation beyond the bounds of sobriety
+107544364	a tingling feeling of excitement (as from teasing or tickling)
+107544484	a feeling of great (usually exaggerated) elation
+107544633	a gay feeling
+107544765	great merriment
+107544951	a feeling of great happiness
+107545071	a feeling facetious merriment
+107545205	happiness felt in a secure relationship
+107545388	a feeling of being at ease in a relationship
+107545512	a feeling of being intimate and belonging together
+107545710	affectionate closeness
+107545866	a feeling of spontaneous good spirits
+107546111	cheerfulness that bubbles to the surface
+107546254	the cheerful feeling you have when nothing is troubling you
+107546493	happiness with one's situation in life
+107546643	the contentment one feels when one has fulfilled a desire, need, or expectation
+107546924	satisfaction with your (or another's) achievements
+107547101	the feeling you have when you are satisfied with yourself
+107547386	an excessive feeling of self-satisfaction
+107547500	a feeling of satisfaction at having achieved your desires
+107547664	malicious satisfaction
+107547828	emotions experienced when not in a state of well-being
+107548220	sadness caused by grief or affliction
+107548333	persisting sadness
+107548485	a feeling of thoughtful sadness
+107548645	a feeling of melancholy apprehension
+107548880	a feeling of dispirited melancholy
+107548995	persistent morbid meditation on a problem
+107549123	sadness on thinking about the evils of the world
+107549265	intense mournfulness
+107549366	a feeling of intense unhappiness
+107549496	sadness resulting from being forsaken or abandoned
+107549666	sadness expressed by weeping
+107549818	an emotion of great sadness associated with loss or bereavement
+107550088	sorrow for sin arising from fear of damnation
+107550235	devastating sorrow and despair
+107550398	intense sorrow caused by loss of a loved one (especially by death)
+107550597	a state of gloomy sorrow
+107550818	expressing sorrowfulness
+107550920	(poetry) painful grief
+107551058	sadness associated with some wrong done or some disappointment
+107551462	a feeling of deep regret (usually for some misdeed)
+107551633	remorse caused by feeling responsible for some offense
+107551825	a deep feeling of guilt often experienced by those who have survived some catastrophe that took the lives of many others; derives in part from a feeling that they did not do enough to save the others who perished and in part from feelings of being unworthy relative to those who died
+107552258	remorse for your past conduct
+107552456	a feeling of dreary or pessimistic sadness
+107552647	a sudden numbing dread
+107552764	a feeling of dismal cheerlessness
+107552873	sad feelings of gloom and inadequacy
+107553056	a feeling of low spirits
+107553361	depression resulting from an undermining of your morale
+107553530	a feeling of being unable to manage
+107553660	a feeling of sorrow (often self-indulgent) over your own sufferings
+107553783	feeling downcast and disheartened and hopeless
+107554062	a feeling of being oppressed
+107554200	an oppressive feeling of heavy force
+107554353	a longing for something better than the present situation
+107554647	a feeling of sulky discontent
+107554755	abnormal depression and discontent
+107554899	the feeling of being displeased and discontent
+107555178	the feeling of being bored by something tedious
+107555350	a general feeling of boredom and dissatisfaction
+107555469	(always used with a modifier) boredom resulting from overexposure to something
+107555812	the feeling of being displeased or annoyed or dissatisfied with someone or something
+107555990	a feeling of dissatisfaction that results when your expectations are not realized
+107556254	the feeling that accompanies an experience of being thwarted in attaining your goals
+107556441	the general feeling that some desire will be fulfilled
+107556704	the feeling you have when you have hope
+107556837	the feeling of being encouraged
+107556946	the optimistic feeling that all is going to turn out well
+107557148	feeling sanguine; optimistically cheerful and confident
+107557311	the feeling that everything is wrong and nothing will turn out well
+107557637	the despair you feel when you have abandoned hope of comfort or success
+107557821	acceptance of despair
+107557948	acceptance of the inevitability of defeat
+107558063	the feeling of despair in the face of obstacles
+107558269	the feeling of discouragement in the face of someone's superior fame or wealth or status etc.
+107558421	the feeling that things will turn out badly
+107558592	a cynical feeling of distrust
+107558676	a strong positive emotion of regard and affection
+107559120	selfless love of one person for another without sexual implications (especially love that is spiritual in nature)
+107559298	(Christian theology) the love of God or Christ for mankind
+107559427	the love of a child for a parent
+107559517	intense feeling of love
+107559601	a feeling of love or fondness
+107559739	temporary love of an adolescent
+107559879	feelings of ardent love
+107560035	a positive feeling of liking
+107560531	a feeling of affection for a person or an institution
+107560673	a feeling of protective affection
+107560785	a feeling of friendship and esteem
+107560964	a sentimental affection
+107561087	disposition to do good
+107561203	doing good; feeling beneficent
+107561327	your deepest feelings of love and compassion
+107561495	a loving feeling
+107561649	a warmhearted feeling
+107561759	feelings of allegiance
+107561835	the emotion of intense dislike; a feeling of dislike so strong that it demands action
+107562232	hatred of mankind
+107562361	hatred of marriage
+107562452	hatred of women
+107562607	hatred for men or boys
+107562685	hatred of reasoning
+107562759	hatred of change or innovation
+107562863	hatred of new ideas
+107562939	hatred of children
+107563013	a bloodthirsty hatred arousing murderous impulses
+107563140	a feeling of scornful hatred
+107563271	the feeling of a hostile person
+107563566	a feeling of ill will arousing active hostility
+107563690	feelings of envy and resentment of one social or economic class for toward another
+107563832	an actively expressed feeling of dislike and hostility
+107564033	a feeling of hostility that arouses thoughts of attack
+107564161	hostile or warlike attitude or nature
+107564326	hostile or belligerent mood
+107564444	a feeling of deep and bitter anger and ill-will
+107564731	intense resentment
+107564867	a feeling of sulky resentment
+107565002	a resentment strong enough to justify retaliation
+107565182	a feeling of grudging admiration and desire to have something that is possessed by another
+107565445	an envious eagerness to possess something
+107565545	a feeling of jealous envy (especially of a rival)
+107565670	(psychoanalysis) a female's presumed envy of the male's penis; said to explain femininity
+107565835	wishing evil to others
+107566017	doing or causing evil
+107566132	feeling a need to see others suffer
+107566357	a malevolent desire for revenge
+107566518	a characteristic (habitual or relatively temporary) state of feeling
+107566884	an annoyed or irritated mood
+107566964	a mood or display of sullen aloofness or withdrawal
+107567157	a cheerful and agreeable mood
+107567356	feeling jolly and jovial and full of good humor
+107567553	an angry and disagreeable mood
+107567718	a sullen gloomy feeling
+107567833	a gloomy ill-tempered feeling
+107568015	a feeling of resentful anger
+107568195	an irritable petulant feeling
+107568482	feeling easily irritated
+107568642	a fit of petulance or sulkiness (especially at what is felt to be a slight)
+107568767	sharing the feelings of others (especially feelings of sorrow or anguish)
+107569056	sympathy arising from a kind heart
+107569189	a deep awareness of and sympathy for another's suffering
+107569430	a feeling of sympathy and sorrow for the misfortunes of others
+107569690	a feeling of good humor and sympathy through maturity or intoxication or a relaxed state
+107569907	warm compassionate feelings
+107570065	the feeling that motivates compassion
+107570205	compassionate feelings that support a willingness to forgive
+107570323	a feeling of sympathetic understanding
+107570421	understanding and entering into another's feelings
+107570579	a feeling of excitement
+107570749	a positive feeling of wanting to push ahead with something
+107570967	a feeling of strong eagerness (usually in favor of a person or cause)
+107571212	joyful enthusiasm
+107571340	enthusiasm for new technology
+107571428	any solid substance (as opposed to liquid) that is used as a source of nourishment
+107571971	food that is simply prepared and gives a sense of wellbeing; typically food with a high sugar or carbohydrate content that is associated with childhood or with home cooking
+107572202	any substance that can be used as food
+107572437	eatables (especially sweets)
+107572535	part of a meal served at one time
+107572730	something considered choice to eat
+107572999	a particular item of prepared food
+107575758	inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly
+107575896	food to be eaten with the fingers
+107575987	solid and liquid nourishment taken into the body through the mouth
+107576107	food that fulfills the requirements of Jewish dietary law
+107576217	the food and drink that are regularly served or consumed
+107576468	the usual food and drink consumed by an organism (person or animal)
+107576677	a prescribed selection of foods
+107577155	a regulated daily food allowance
+107577295	a diet designed to avoid the foods that you are allergic to

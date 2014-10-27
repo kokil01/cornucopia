@@ -1,0 +1,1000 @@
+108678801	the target of a projectile (as a bomb or missile)
+108678908	a country or independent region where taxes are low
+108679015	the starting place for each hole on a golf course
+108679205	a site where toxic wastes have been dumped and the Environmental Protection Agency has designated them to be cleaned up
+108679435	a toxic waste area where the polluter could not be identified or the polluter refused to take action or pay for the cleanup
+108679616	the part of the Earth's surface between the Arctic Circle and the Tropic of Cancer or between the Antarctic Circle and the Tropic of Capricorn; characterized by temperate climate
+108679893	Temperate Zone between the Arctic Circle and the Tropic of Cancer
+108680026	Temperate Zone between the Antarctic Circle and the Tropic of Capricorn
+108680165	level space where heavy guns can be mounted behind the parapet at the top of a rampart
+108680308	a region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation
+108680652	an amusement park that is organized around some theme (as the world of tomorrow)
+108680789	the limit of a nation's territorial waters
+108680894	the extreme end of something; especially something pointed
+108681092	the highest or uppermost side of anything
+108681441	the top of a desk
+108681512	the top of a (usually flat) roof
+108681598	the upper part of anything
+108681922	the top of something
+108682103	the extreme top or summit
+108682181	a point located with respect to surface features of some region
+108682839	something resembling a pool of liquid
+108683019	the part of the Earth's surface between the Tropic of Cancer and the Tropic of Capricorn; characterized by a hot climate
+108683242	an urban area with a fixed boundary that is smaller than a city
+108688906	colloquial American term for a town
+108689031	a town enjoying sudden prosperity
+108689120	a small town in a cattle-raising area of western North America
+108689247	a deserted settlement (especially in western United States)
+108689382	the town (or city) where you grew up or where you have your principal residence
+108689560	any small town (or the people who inhabit it); generally used to represent parochialism and materialism (after a novel by Sinclair Lewis)
+108689811	a (usually small) town where a public market is held at stated times
+108689937	an administrative division of a county
+108690135	a district into which a city or town is divided for the purpose of administration and elections
+108690300	an area where a group of families live together
+108690476	a settlement smaller than a town
+108690777	a native village in Malaysia
+108690869	a village of huts for native Africans in southern Africa; usually surrounded by a stockade
+108691011	a communal village built by Indians in the southwestern United States
+108691133	an extended area of land
+108691989	an area composed of subdivided lots
+108692082	regions adjacent to the tropics
+108692202	a tract of land containing explosive mines
+108692301	a piece of ground having specific characteristics or military potential
+108692477	a small area of ground covered by specific vegetation
+108692708	a parcel of land having fixed boundaries
+108692883	either of two parallels of latitude about 23.5 degrees to the north and south of the equator representing the points farthest north and south at which the sun can shine directly overhead and constituting the boundaries of the Torrid Zone or tropics
+108693276	a line of latitude about 23 degrees to the north of the equator
+108693403	a line of latitude about 23 degrees to the south of the equator
+108693533	a dependent country; administered by another country under the supervision of the United Nations
+108693705	a geographical area constituting a city or town
+108693991	an urban area in a Spanish-speaking country
+108694087	a Spanish-speaking quarter in a town or city (especially in the United States)
+108694237	a parking lot where a dealer in used-cars displays cars for sale
+108694360	a lot on which there are no permanent buildings
+108694498	a belt of charged particles (resulting from cosmic rays) above the Earth trapped by the Earth's magnetic field
+108694689	the point beyond which something disappears or ceases to exist
+108694813	place or situation affording some advantage (especially a comprehensive view or commanding perspective)
+108694988	a place from which something can be viewed
+108695162	elevated open grassland in southern Africa
+108695263	in law: the jurisdiction where a trial will be held
+108695366	the scene of any event or action (especially the place of a meeting)
+108695539	the highest point (of something)
+108695729	a great circle on the celestial sphere passing through the zenith and perpendicular to the horizon
+108695889	a district or province governed by a viceroy
+108695991	a mountainous area of Antarctica bounded by the Ross Sea and Wilkes Land
+108696143	a village park consisting of a plot of grassy land
+108696253	an overcrowded residential area
+108696353	a health resort near a spring or at the seaside
+108696521	a line corresponding to the surface of the water when the vessel is afloat on an even keel; often painted on the hull of a ship
+108696749	a line marking the level reached by a body of water
+108696905	a line marking the highest level reached
+108697007	a line marking the lowest level reached
+108697107	a ridge of land that separates two adjacent river systems
+108697300	the watershed of a continent (especially the watershed of North America formed by a series of mountain ridges extending from Alaska to Mexico)
+108697545	that part of the continental divide formed by the Rocky Mountains in the United States
+108697710	a line leading to a place or point
+108697975	a route followed by traders (usually in caravans)
+108698101	an ancient trade route between China and the Mediterranean (4,000 miles); followed by Marco Polo in the 13th century to reach Cathay
+108698309	a water route between the Atlantic Ocean and the Pacific Ocean along the northern coast of North America; Europeans since the 16th century had searched for a short route to the Far East before it was successfully traversed by Roald Amundsen (1903-1906)
+108698626	the direction or path along which something moves or along which it lies
+108698822	the heading or position of a vessel relative to the trim of its sails
+108698960	general line of orientation
+108699160	in a direction parallel with lines of latitude
+108699272	in a direction parallel with lines of longitude
+108699387	the direction of the Kaaba toward which Muslims turn for their daily prayers
+108699515	a general direction in which something tends to move
+108699704	(physics) an imaginary surface joining all points in space that are reached at the same instant by a wave propagating through a medium
+108699926	a coastal region of Antarctica on the Indian Ocean to the south of Australia; most of the territory is claimed by Australia
+108700127	the hemisphere that includes North America and South America
+108700313	the countries of (originally) Europe and (now including) North America and South America
+108700557	the region of the United States lying to the west of the Mississippi River
+108700915	the western United States during its frontier period
+108701024	a field planted with wheat
+108701121	the general location where something is
+108701286	a wild and uninhabited area left in its natural condition
+108701579	a small area at a racecourse where awards are given to the owners of winning horses
+108701724	the finishing line for a foot race
+108701845	the finishing line on a racetrack
+108701929	space allocated for your work (as in an office)
+108702032	a tract of land enclosed for particular activities (sometimes paved and usually associated with buildings)
+108702310	(formerly) an enclosed field for tilting contests
+108702414	a tract of land where logs are accumulated
+108702507	the point above the observer that is directly opposite the nadir on the imaginary sphere against which celestial bodies appear to be projected
+108702757	the location of a planet in the zodiac at which it is believed to exert its maximum influence
+108702926	a belt-shaped region in the heavens on either side to the ecliptic; divided into 12 constellations or signs for astrological purposes
+108703415	(astrology) one of 12 equal areas into which the zodiac is divided
+108703867	the first sign of the zodiac which the sun enters at the vernal equinox; the sun is in this sign from about March 21 to April 19
+108704070	the second sign of the zodiac; the sun is in this sign from about April 20 to May 20
+108704233	the third sign of the zodiac; the sun is in this sign from about May 21 to June 20
+108704396	the fourth sign of the zodiac; the sun is in this sign from about June 21 to July 22
+108704559	the fifth sign of the zodiac; the sun is in this sign from about July 23 to August 22
+108704717	the sixth sign of the zodiac; the sun is in this sign from about August 23 to September 22
+108704888	the seventh sign of the zodiac; the sun is in this sign from about September 23 to October 22
+108705083	the eighth sign of the zodiac; the sun is in this sign from about October 23 to November 21
+108705263	the ninth sign of the zodiac; the sun is in this sign from about November 22 to December 21
+108705447	the tenth sign of the zodiac; the sun is in this sign from about December 22 to January 19
+108705622	the eleventh sign of the zodiac; the sun is in this sign from about January 20 to February 18
+108705814	the twelfth sign of the zodiac; the sun is in this sign from about February 19 to March 20
+108705985	a locally circumscribed place characterized by some distinctive features
+108706162	a neutral zone between two rival powers that is created in order to diminish the danger of conflict
+108706328	a military area where combat forces operate
+108706517	a combat zone where military operations are coordinated (especially a designated area in international waters where the rights of neutrals are not respected by nations at war)
+108706766	an area in hostile territory that has been captured and is held awaiting further troops and supplies
+108707095	a bridgehead seized by airborne troops
+108707187	a bridgehead on the enemy's shoreline seized by an amphibious operation
+108707384	a city district known for its vice and high crime rate
+108707509	the territory claimed by a juvenile gang as its own
+108707611	a dangerous area
+108707685	a zone from which military forces or operations or installations are prohibited
+108707932	an agreed area where military supplies are dropped to ground troops
+108708090	an area where a battle has occurred with many fatalities
+108708217	(usually plural) an area where many people have died (usually by massacre or genocide during war or violent civil disturbance)
+108708403	a city district where development receives special tax advantages
+108708530	a part of the city far removed from the center
+108708712	(baseball) the area over home plate between a batter's knees and shoulders through which a pitch must pass in order to be called a strike
+108708926	an area subject to tidal action
+108709014	any of the 24 regions of the globe (loosely divided by longitude) throughout which the same standard time is used
+108709183	a six million square mile area that includes the Caribbean and the Gulf of Mexico and the eastern Pacific Ocean; includes the principal routes used by drug smugglers
+108709407	the capital city of a nation
+108713012	the capital city of a province
+108713353	the capital city of a political subdivision of a country
+108714551	the European mainland
+108714745	any one of the countries occupying the European continent
+108715641	any one of the countries occupying Scandinavia
+108715852	the Balkan countries collectively
+108715940	any one of the countries on the Balkan Peninsula
+108716193	any one of the countries occupying the African continent
+108717240	a geographical area in eastern Africa
+108717468	a republic in southwestern Africa on the south Atlantic coast (formerly called South West Africa); achieved independence from South Africa in 1990; the greater part of Namibia forms part of the high Namibian plateau of South Africa
+108717947	capital of Namibia in the center of the country
+108718069	any one of the nations occupying the Asian continent
+108718975	an ancient country is eastern Asia Minor
+108719110	an ancient country in central Asia Minor
+108719224	an ancient country in western and central Asia Minor
+108719369	an ancient city in south western Phrygia in Asia Minor; site of an early Christian Church
+108719533	an ancient region of northern Asia Minor on the Black Sea; it reached its height under Mithridates VI but was later incorporated into the Roman Empire
+108719756	a peninsula in southwestern Asia that forms the Asian part of Turkey
+108720216	any one of the countries occupying the South American continent
+108720619	any country on the North American continent
+108720849	any one of the countries occupying Central America; these countries (except for Belize and Costa Rica) are characterized by low per capita income and unstable governments
+108721268	a mountainous landlocked country in central Asia; bordered by Iran to the west and Russia to the north and Pakistan to the east and south
+108721786	a city in northwestern Afghanistan on the site of several ancient cities
+108721930	a town in eastern Afghanistan (east of Kabul)
+108722051	the capital and largest city of Afghanistan; located in eastern Afghanistan
+108722223	a city in southern Afghanistan; an important trading center
+108722368	a city in northern Afghanistan
+108722479	an uncertain region on the east shore of the Adriatic where an ancient Indo-European people once lived
+108722636	a republic in southeastern Europe on the Adriatic coast of the Balkan Peninsula
+108722905	the capital and largest city of Albania in the center of the country
+108723065	port city in western Albania on the Adriatic
+108723211	a republic in northwestern Africa on the Mediterranean Sea with a population that is predominantly Sunni Muslim; colonized by France in the 19th century but gained autonomy in the early 1960s
+108723872	an ancient port on the Mediterranean; the capital and largest city of Algeria
+108724061	a port city of northeastern Algeria near the Tunisian border
+108724213	a town in north central Algeria
+108724316	a city in northern Algeria at the foot of the Atlas Mountains to the southwest of Algiers
+108724477	a port city in northwestern Algeria and the country's 2nd largest city
+108724637	a walled city in northeastern Algeria to the east of Algiers; was destroyed in warfare in the 4th century and rebuilt by Constantine I
+108724849	a desert town in southeastern Algeria
+108724959	an ancient Numidian town in northwestern Africa adjoining present-day Annaba in northeastern Algeria
+108725146	a town in central Algeria
+108725245	an ancient town founded by the Romans; noted for extensive and well-preserved ruins
+108725401	a town in central Algeria in the Atlas Mountains
+108725524	an ancient kingdom (later a Roman province) in North Africa in an area corresponding roughly to present-day Algeria
+108725731	a republic in southwestern Africa on the Atlantic Ocean; achieved independence from Portugal in 1975 and was the scene of civil war until 1990
+108726137	port city on Atlantic coast; the capital and largest city of Angola
+108726314	a city in the mountains in western Angola
+108726442	a seaport on the Atlantic coast of Angola
+108726575	a British colony in the West Indies
+108726703	three small islands belonging to Ireland at the entrance to Galway Bay
+108726871	region including the Caribbean Islands
+108727232	a British colony in the Caribbean to the northwest of Jamaica; an international banking center
+108727426	the capital of the Cayman Islands
+108727537	a country in the northern Leeward Islands
+108727778	the largest of the islands comprising Antigua and Barbuda
+108727946	an island in Antigua and Barbuda
+108728052	an island in Antigua and Barbuda
+108728158	the capital and largest city of Antigua and Barbuda; located on the island of Antigua
+108728368	a region whose eastern part is now Bangladesh and whose western part is included in India
+108728511	a group of islands in the Atlantic off the Carolina coast; British colony; a popular resort
+108728706	the capital of Bermuda
+108728784	an area in the western Atlantic Ocean where many ships and planes are supposed to have been mysteriously lost
+108728976	an island belonging to Norway in the South Atlantic near the Antarctic Circle
+108729133	a volcanic island in the Caribbean; in the West Indies
+108729301	region in southern South America between the Andes and the South Atlantic
+108729488	the border area where Argentina and Brazil and Paraguay meet; an active South American center for contraband and drug trafficking and money laundering; a suspected locale for Islamic extremist groups
+108729807	a republic in southern South America; second largest country in South America
+108730531	a port city in eastern Argentina to the southwest of Buenos Aires on an inlet of the Atlantic Ocean
+108730709	capital and largest city of Argentina; located in eastern Argentina near Uruguay; Argentina's chief port and industrial and cultural center
+108730969	a city in central Argentina; site of a university founded in 1613
+108731118	a city in Argentina, to the west of Buenos Aires
+108731238	a port city on the Parana River in eastern central Argentina
+108731372	an industrial suburb of Buenos Aires
+108731488	the vast grassy plains of northern Argentina
+108731605	a large peninsula in southeastern Europe containing the Balkan Mountain Range
+108731965	a republic in the eastern part of the Balkan Peninsula in southeastern Europe
+108732291	capital and largest city of Bulgaria located in western Bulgaria
+108732457	a city in northeastern Bulgaria (north of Varna) that is the commercial center of an agricultural region
+108732628	an ancient city in southern Bulgaria; commercial center of an agricultural region
+108732799	a port city in northeastern Bulgaria on the Black Sea
+108732943	a geographical division of Asia that includes Indochina plus Indonesia and the Philippines and Singapore
+108733223	a mountainous republic in southeastern Asia on the Bay of Bengal
+108733610	the capital and largest city of Myanmar; located in the south near the Irrawaddy river delta
+108733785	a city in central Myanmar to the north of Rangoon
+108733909	a port city of southern Myanmar on the Gulf of Martaban
+108734052	a landlocked republic in east central Africa on the northeastern shore of Lake Tanganyika
+108734350	the capital and largest city of Burundi
+108734571	a nation in southeastern Asia; was part of Indochina under French rule until 1946
+108734892	the capital and largest city of Kampuchea
+108735042	a republic on the western coast of central Africa; was under French and British control until 1960
+108735343	the capital of Cameroon
+108735462	the largest city of Cameroon
+108735563	a group of islands in the Atlantic off of the coast of Senegal
+108735748	an island country in the Atlantic off the coast of Senegal
+108735927	the capital of Cape Verde on Sao Tiago Island
+108736086	largest of the Cape Verde Islands in the Atlantic Ocean
+108736224	a group of over 100 islands in the southern Atlantic off the coast of Argentina; a British Crown Colony
+108736410	a landlocked country in central Africa; formerly under French control; became independent in 1960
+108736634	the capital and largest city of the Central African Republic
+108736795	an island in the Indian Ocean off the southeastern coast of India
+108736933	a republic on the island of Ceylon; became independent of the United Kingdom in 1948
+108737298	the capital and largest city of Sri Lanka; has one of the largest harbors in the world; is located on the western coast of the island of Ceylon
+108737538	a city of central Sri Lanka that was the last capital of the ancient kings of Ceylon; a resort and religious center
+108737725	the independent state that the Tamil Tigers have fought for
+108737870	a landlocked desert republic in north-central Africa; was under French control until 1960
+108738113	the capital and largest city of Chad; located in the southwestern on the Shari river
+108738314	a republic in southern South America on the western slopes of the Andes on the south Pacific coast
+108738978	a port city on the Pacific in northern Chile
+108739119	the largest Chilean island and the only one to be settled; located off south-central Chile
+108739282	an industrial city in Chile to the south of Santiago
+108739392	the capital and largest city of Chile; located in central Chile; one of the largest cities in South America
+108739629	a city in southern Chile on the Strait of Magellan; the southernmost city in the world
+108739794	a city in central Chile to the south of Concepcion
+108739917	the chief port and second largest city of Chile; located on a wide harbor in central Chile
+108740103	a resort city on the Pacific in central Chile
+108740227	an archipelago off southern South America; separated from the continent by the Strait of Magellan; islands are administered by Chile and by Argentina
+108740478	a rocky headland belonging to Chile at the southernmost tip of South America (south of Tierra del Fuego)
+108740677	a region in northeastern China
+108740839	a communist nation that covers a vast territory in eastern Asia; the most populous country in the world
+108742378	a historical region of central Asia that was a center for trade between the East and the West
+108742559	capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city
+108742805	a walled section of Beijing that encloses the palace that was formerly the residence of the emperor of China
+108742994	a city in south-central China on the Chang Jiang; a commercial center for western China
+108743169	a province in southern China
+108743287	a city on the Zhu Jiang delta in southern China; the capital of Guangdong province and a major deep-water port
+108743525	a province in north-central China; formerly part of the Silk Road to Turkistan and India and Persia
+108743759	a populous province in northeastern China
+108743905	a province in southeastern central China between the Nan Ling mountains and the Chang Jiang; noted for its timber and valuable mineral resources
+108744138	a populous province of south central China
+108744296	a province of southern China
+108744415	the capital city of the Chinese province of Gansu on the Yellow River
+108744578	an industrial conurbation in northeastern China on the southern end of the Liaodong Peninsula; it now includes the cities of Dalian and Lushun
+108744836	a port and shipbuilding center in northeastern China on the Liaodong Peninsula; now a part of Luda
+108745063	a city in east central China; the capital of ancient China during several dynasties
+108745229	a major port city in northeastern China on the Liaodong Peninsula; now a part of Luda
+108745439	a city of eastern China on Hangzhou Bay; regarded by Marco Polo as the finest city in the world
+108745639	a walled city in southeastern China on the Gan Jiang
+108745778	an industrial city in southern China
+108745899	a city in eastern China on the Yangtze River; a former capital of China; the scene of a Japanese massacre in the 1930s
+108746101	the largest city of China; located in the east on the Pacific; one of the largest ports in the world
+108746295	a city in northeastern China
+108746428	an ancient city in northeastern China noted for coal mining and steel production
+108746582	an industrial city of northeastern China in Hebei province
+108746715	a major industrial center in northeastern China on the Grand Canal near the Yellow Sea; 3rd largest city in China
+108746927	an inland waterway 1000 miles long in eastern China; extends from Tianjin in the north to Hangzhou in the south
+108747116	a city of central China on the Chang Jiang; the commercial and industrial center of central China
+108747285	a city of central China; capital of ancient Chinese empire 221-206 BC
+108747459	an autonomous province in far northwestern China on the border with Mongolia and Kazakhstan; the largest province in the People's Republic of China and the homeland of the Uighur people
+108747804	an autonomous region of northeastern China that was annexed by the Manchu rulers in 1635 and became an integral part of China in 1911
+108748051	a northern industrial city of China to the northwest of Beijing
+108748187	an island in southeastern Asia 100 miles off the coast of mainland China in the South China Sea
+108748383	a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong
+108748728	the capital of Nationalist China; located in northern Taiwan
+108748890	a city in Taiwan
+108748981	formerly a Crown Colony on the coast of southern China in Guangdong province; leased by China to Britain in 1842 and returned in 1997; one of the world's leading commercial centers
+108749256	a former Portuguese province on the south coast of China and two islands in the South China Sea; reverted to China in 1999
+108749439	a peninsula of southeastern Asia that includes Myanmar and Cambodia and Laos and Malaysia and Thailand and Vietnam
+108749786	the French colonies of the territory now occupied by Cambodia, Laos, and Vietnam
+108749949	a republic in northwestern South America with a coastline on the Pacific Ocean and the Caribbean Sea; achieved independence from Spain in 1821 under the leadership of Simon Bolivar; Spanish is the official language
+108750640	a port city of northern Colombia near the Caribbean on the Magdalena River
+108750812	capital and largest city of Colombia; located in central Colombia on a high fertile plain
+108750996	city in southwestern Colombia in a rich agricultural area
+108751124	city in western Colombia; important coffee center
+108751248	a port city in northwestern Colombia on the Caribbean
+108751396	a city in northern Colombia; a suburb of Barranquilla
+108751523	three main islands and numerous islets in the Indian Ocean between Mozambique and Madagascar
+108751730	a country on the Comoro Islands
+108751877	a republic in west-central Africa; achieved independence from France in 1960
+108752083	the capital and largest city of the Republic of the Congo
+108752218	a republic in central Africa; achieved independence from Belgium in 1960
+108752686	a city in eastern Congo at the northern end of Lake Kivu near the border with Rwanda
+108752841	a city in southwestern Congo; former name (until 1966) was Luluabourg
+108752997	the capital of the Democratic Republic of the Congo on the Congo river opposite Brazzaville
+108753178	a city in southeastern Congo near the border with Zambia; a copper mining center; former name (until 1966) was Elisabethville
+108753397	Mexico and Central America
+108753538	the isthmus joining North America and South America; extends from the southern border of Mexico to the northern border of Colombia
+108753940	a republic in Central America; one of the most politically stable countries in Latin America
+108754209	the capital and largest city of Costa Rica
+108754350	a republic in western Africa on the Gulf of Guinea; one of the most prosperous and politically stable countries in Africa
+108754612	city recognized by the United States as the capital of the Ivory Coast; largest city of the Ivory Coast
+108754789	capital of the Ivory Coast
+108754874	a republic in Central America; achieved independence from Spain in 1821; noted for low per capita income and illiteracy; politically unstable
+108755209	the capital and largest city of Guatemala
+108755354	a country on the northeastern coast of Central America on the Caribbean; formerly under British control
+108755549	a republic in Central America; achieved independence from Spain in 1821; an early center of Mayan culture
+108755847	the capital and largest city of Honduras
+108755984	industrial city in northwestern Honduras
+108756105	a republic on the Pacific coast of Central America
+108756364	the capital and largest city of El Salvador; has suffered from recurrent earthquakes
+108756548	a city in western El Salvador
+108756653	a republic in Central America; achieved independence from Spain in 1821
+108756880	the capital and largest city of Nicaragua
+108757039	a republic on the Isthmus of Panama; achieved independence from Colombia in 1903
+108757345	the capital and largest city of Panama
+108757502	a port city at the Caribbean entrance to the Panama Canal
+108757662	a zone consisting of a strip of land across the Isthmus of Panama that contains the Panama Canal
+108757855	a peninsula in Central America extending into the Gulf of Mexico between the Bay of Campeche and the Caribbean Sea
+108758063	a state of Mexico on the northern part of the Yucatan Peninsula
+108758200	the capital of the Mexican state of Yucatan
+108758316	a Mexican state on the eastern part of the Gulf of Campeche
+108758450	a Mexican city on the Bay of Campeche
+108758562	a popular island resort off the northeastern tip of the Yucatan peninsula
+108758708	a republic in southern North America; became independent from Spain in 1810
+108760038	a port and fashionable resort city on the Pacific coast of southern Mexico; known for beaches and water sports (including cliff diving)
+108760288	a state in northern Mexico; mostly high plateau
+108760411	a city in northern Mexico in the state of Chihuahua; commercial center of northern Mexico
+108760576	a city in northern Mexico on the Rio Grande opposite El Paso
+108760725	a city in east central Mexico
+108760836	a state in northern Mexico; mostly high plateau
+108760958	a city in northwestern Mexico
+108761062	a city in north central Mexico; mining center
+108761203	a city in southwestern Mexico; a popular health resort and site of architecture from the Spanish colonial era
+108761390	a city in northwestern Mexico near the Gulf of California
+108761524	a city in central Mexico
+108761619	a city in northeastern Mexico opposite Brownsville near the mouth of the Rio Grande
+108761778	a port city in western Mexico on the Pacific Ocean; tourist center
+108761938	a city in northwestern Mexico near the California border
+108762069	the capital and largest city of Mexico is a political and cultural and commercial and industrial center; one of the world's largest cities
+108762342	an industrial city in northeastern Mexico
+108762459	a town in northern Mexico on the border of Arizona
+108762583	a city of southeastern Mexico
+108762704	a city of east central Mexico (west of Veracruz); a popular resort
+108762844	a city in south central Mexico (southeast of Mexico City) on the edge of central Mexican plateau
+108763082	a Mexican state on the eastern side of the Yucatan Peninsula
+108763240	a city in central Mexico
+108763346	a town in southeastern Mexico near Oaxaca; site of Ahuehuete, a giant Montezuma cypress
+108763520	a Mexican state on the Gulf of Campeche
+108763633	a city in west central Mexico
+108763734	a port city in eastern Mexico
+108763856	a city in northern Mexico to the west of Monterrey
+108763980	a Mexican city just to the south of San Diego on the Lower California peninsula; popular among American tourists for racetracks and bullfights
+108764196	a city in southeastern Mexico
+108764308	a major Mexican port on the Gulf of Mexico in the state of Veracruz
+108764469	a city in southeastern Mexico; the capital of the state of Tabasco
+108764630	a Mexican island in the Pacific to the west of Baja California
+108764775	an island in the Caribbean Sea
+108764887	the string of islands between North America and South America; a popular resort area
+108765327	the islands in the West Indies that were formerly under British control, including the Bahamas, Saint Lucia, Antigua, Grenada, Jamaica, Barbados, and Trinidad
+108765570	a group of islands in the West Indies
+108765720	the islands in the Lesser Antilles that are administered by France
+108765909	a group of islands in the western West Indies
+108766113	a group of islands in the southeastern West Indies
+108766332	a group of islands in the Lesser Antilles just to the north of Venezuela that are administered by The Netherlands
+108766627	a popular island resort in the Netherlands Antilles
+108766750	a popular island resort in the Netherlands Antilles
+108766875	a popular island resort in the Netherlands Antilles
+108767000	a island in the Netherlands Antilles that is the top of an extinct volcano
+108767145	an island in the Netherlands Antilles
+108767280	a group of islands in the eastern West Indies
+108767483	an island in the western Leeward Islands; administered jointly by France and the Netherlands
+108767697	a group of islands in the southeastern West Indies; the southern part of the Lesser Antilles
+108767984	the largest island in the West Indies
+108768167	a communist state in the Caribbean on the island of Cuba
+108768445	the capital and largest city of Cuba; located in western Cuba; one of the oldest cities in the Americas
+108768655	a port city in southeastern Cuba; industrial center
+108768819	a city in southeastern Cuba; site of a United States naval base
+108768959	an island territory of France located in the eastern West Indies; tourism is the major industry
+108769150	an island in the West Indies
+108769327	a republic in the West Indies on the western part of the island of Hispaniola; achieved independence from France in 1804; the poorest and most illiterate nation in the western hemisphere
+108769718	the capital and largest city of Haiti
+108769854	a republic in the West Indies; located on the eastern two-thirds of the island of Hispaniola
+108770126	the capital and largest city of the Dominican Republic
+108770504	city in the northern Dominican Republic
+108770647	the smallest and easternmost of the Greater Antilles in the Caribbean
+108770807	a self-governing commonwealth associated with the United States occupying the island of Puerto Rico
+108771127	the capital and largest city of Puerto Rico
+108771245	a small island off the coast of Puerto Rico with miles of beautiful beaches
+108771394	a small island off the coast of Puerto Rico used for target practice by the United States Navy
+108771562	an island in the West Indies to the south of Cuba and to the west of Haiti
+108771766	a country on the island of Jamaica; became independent of England in 1962; much poverty; the major industry is tourism
+108772071	capital and largest city of Jamaica
+108772221	port and resort city in northwestern Jamaica
+108772362	a group of islands in northeastern West Indies (east of Puerto Rico) discovered by Christopher Columbus in 1493; owned by United States and Britain
+108772647	more than 40 northeastern Virgin Islands (15 inhabited); a dependent territory of the United Kingdom
+108772836	more than 130 southeastern Virgin Islands; a dependent territory of the United States
+108773047	easternmost of the West Indies about 300 miles to the north of Venezuela
+108773269	a parliamentary democracy on the island of Barbados; former British colony; a popular resort area
+108773497	capital of Barbados; a port city on the southwestern coast of Barbados
+108773685	an island in West Indies just off the northeastern coast of Venezuela
+108773885	island in West Indies
+108774035	an island republic in the West Indies off the northeastern coast of Venezuela; achieved independence from the United Kingdom in 1962
+108774344	the capital and largest city of Trinidad and Tobago on the west coast of the island of Trinidad
+108774568	an island in the eastern Mediterranean
+108774717	a country on the island of Cyprus; 80% of the people are of Greek origin and 20% or Turkish origin
+108774965	the capital and largest city of Cyprus
+108775097	a landlocked republic in central Europe; separated from Slovakia in 1993
+108775402	a former republic in central Europe; divided into Czech Republic and Slovakia in 1993
+108775624	a town in Czech Republic where Pilsner beer originated
+108775759	the capital and largest city of the Czech Republic in the western part of the country; a cultural and commercial center since the 14th century
+108776005	a town in Czech Republic; site of the battle of Austerlitz in 1805
+108776167	an industrial city in Moravia in Czech Republic to the southeast of Prague
+108776320	an industrial city in northwestern Czech Republic in the Moravian lowlands; located in the coal mining area of Silesia
+108776512	a region in the central and eastern part of the Czech Republic; it lies to the east of Bohemia and to the west of the Carpathians
+108776715	a historical area and former kingdom in the Czech Republic
+108776846	a landlocked republic in central Europe; separated from the Czech Republic in 1993
+108777096	capital and largest city of Slovakia
+108777253	a country on western coast of Africa; formerly under French control
+108777517	the capital of Benin in southwestern part of country on a coastal lagoon
+108777685	chief port of Benin on the Bight of Benin
+108777819	a republic on the western coast of Africa on the Gulf of Guinea; formerly under French control
+108778061	capital and largest city of Togo; located in the south on the Gulf of Guinea
+108778226	the northernmost countries of Europe
+108778343	a group of culturally related countries in northern Europe; Finland and Iceland are sometimes considered Scandinavian
+108778689	the peninsula in northern Europe occupied by Norway and Sweden
+108778872	peninsula in northern Europe that forms the continental part of Denmark and a northern part of Germany
+108779077	a constitutional monarchy in northern Europe; consists of the mainland of Jutland and many islands between the North Sea and the Baltic Sea
+108779530	the largest island of Denmark and the site of Copenhagen
+108779701	the capital and largest city of Denmark; located on the island of Zealand
+108779937	port city of Denmark in eastern Jutland
+108780076	a city and port in northern Jutland
+108780213	a town of Denmark in north central Jutland
+108780328	a country in northeastern Africa on the Somali peninsula; formerly under French control but became independent in 1997
+108780656	port city on the Gulf of Aden; the capital and largest city of Djibouti
+108780843	a volcanic island in the Windward Islands that was once a stronghold of the Carib Indians
+108781026	a country on the island of Dominica
+108781220	the capital and largest city of Dominica
+108781333	a country of west central Africa (including islands in the Gulf of Guinea); became independent from Spain in 1968
+108781598	the capital and largest city of Equatorial Guinea on the island of Bioko in the Gulf of Guinea
+108781765	an island in the Gulf of Guinea that is part of Equatorial Guinea
+108781940	a constitutional monarchy in northern Europe on the western side of the Scandinavian Peninsula; achieved independence from Sweden in 1905
+108782394	a Norwegian archipelago in the Arctic Ocean
+108782550	islands in the Svalbard archipelago to the east of northern Greenland; belonging to Norway
+108782732	a string of islands off the northwestern coast of Norway in the Norwegian Sea
+108782902	the capital and largest city of Norway; the country's main port; located at the head of a fjord on Norway's southern coast
+108783148	a port city in southwestern Norway
+108783293	a port city in southwestern Norway; center for shipbuilding industry
+108783456	a port in central Norway on Trondheim Fjord
+108783604	a cape at the southern tip of Norway
+108783723	a Scandinavian kingdom in the eastern part of the Scandinavian Peninsula
+108784069	the capital and largest city of Sweden; located in southern Sweden on the Baltic
+108784288	a port in southern Sweden
+108784404	a city in southern Sweden
+108784500	a port in southwestern Sweden; second largest city in Sweden
+108784679	a city in east central Sweden to the northwest of Stockholm
+108784821	a republic in central Europe; split into East Germany and West Germany after World War II and reunited in 1990
+108786480	a republic in north central Europe on the Baltic; established by the Soviet Union in 1954; reunified with West Germany in 1990
+108786714	a republic in north central Europe on the North Sea; established in 1949 from the zones of Germany occupied by the British and French and Americans after the German defeat; reunified with East Germany in 1990
+108787012	an area in Germany around the upper Elbe river; the original home of the Saxons
+108787162	a state in northwestern Germany
+108787272	a city in western Germany near the Dutch and Belgian borders; formerly it was Charlemagne's northern capital
+108787478	capital of Germany located in eastern Germany
+108787669	the part of Berlin under United States and British and French control until 1989
+108787846	a city of northwestern Germany linked by the Weser River to the port of Bremerhaven and the North Sea; in the Middle Ages it was a leading member of the Hanseatic League
+108788107	a port city in northwestern Germany at the mouth of the Weser River on the North Sea; has a deep natural harbor and is an important shipping center
+108788351	a city in east central Germany; formerly called Karl-Marx-Stadt until 1990; noted for textile manufacturing
+108788551	an industrial city in northwestern Germany; flourished from the 13th to 17th century as a member of the Hanseatic League
+108788765	a city in southeastern Germany on the Elbe River; it was almost totally destroyed by British air raids in 1945
+108788949	a city in southeastern Germany famous for fairs; formerly a music and publishing center
+108789110	a city in west central Germany noted for cutlery
+108789233	a German city near Leipzig; scene of the adoption in 1919 of the constitution of the Weimar Republic that lasted until 1933
+108789429	a state in southern Germany famous for its beer; site of an automobile factory
+108789674	a town in northern Germany (near Hanover) that is famous as the setting for the legend of the Pied Piper
+108789861	a town in Bavaria (near Munich)
+108789970	a city in western Germany on the Rhine River; was the capital of West Germany between 1949 and 1989
+108790140	a commercial center and river port in western Germany on the Rhine River; flourished during the 15th century as a member of the Hanseatic League
+108790384	a city in central Germany
+108790500	an industrial city in western Germany on the Rhine
+108790627	a city in western Germany; industrial center of the Ruhr
+108790755	a German city; an industrial and commercial and financial center
+108790931	a city in the Saxony region of Germany on the Saale River; a member of the Hanseatic League during the 13th and 14th centuries
+108791169	a port city in northern Germany on the Elbe River that was founded by Charlemagne in the 9th century and is today the largest port in Germany; in 1241 it formed an alliance with Lubeck that became the basis for the Hanseatic League
+108791512	a port city in northwestern Germany; formerly a member of the Hanseatic League
+108791713	a city in northwestern Germany and an important Baltic port; a leading member of the Hanseatic League
+108791906	a city in southwestern Germany at the confluence of the Rhine and Neckar rivers
+108792060	the capital and largest city of Bavaria in southwestern Germany
+108792207	a city in southeastern Germany; site of Allied trials of Nazi war criminals (1945-46)
+108792379	a city in northeastern Germany; site of the Potsdam Conference in the summer of 1945
+108792537	a city in northeastern Germany near the Baltic sea; an important member of the Hanseatic League in the 14th century
+108792745	a city in southwestern Germany famous for innovative architecture
+108792886	a city in western Germany; a spa since Roman times
+108793012	a city of south central Germany
+108793130	a picturesque region of Germany around the Rhine river
+108793272	a territory in southwestern Germany formerly ruled by the counts palatine
+108793430	the territory of an Elector (of the Holy Roman Empire) that expanded to become the kingdom of Prussia in 1701
+108793617	a former kingdom in north-central Europe including present-day northern Germany and northern Poland
+108793971	a major industrial and coal mining region in the valley of the Ruhr river in northwestern Germany
+108794153	a historical region of southern Germany
+108794268	a former Portuguese colony that was annexed by Indonesia in 1976; voted for independence from Indonesia in 1999 and in May 2002 became an independent nation
+108794520	a republic in northwestern South America; became independent from Spain in 1822; the landscape is dominated by the Andes
+108794982	the largest city of Ecuador
+108795085	the capital of Ecuador
+108795200	a group of islands in the Pacific off South America; owned by Ecuador; known for unusual animal life
+108795396	an African country to the north of Ethiopia on the Red Sea; achieved independence from Ethiopia in 1993
+108795667	the capital of Eritrea
+108795771	a port town in Eritrea on an inlet of the Red Sea
+108795913	Ethiopia is a republic in northeastern Africa on the Red Sea; formerly called Abyssinia
+108796253	the capital of Ethiopia and the country's largest city; located in central Ethiopia
+108796449	a group of more than 800 islands (100 inhabited) in the southwestern Pacific; larger islands (Viti Levu and Vanua Levu) are of volcanic origin surrounded by coral reefs; smaller islands are coral
+108796788	a volcanic island in the Fijis
+108796894	a volcanic island in the Fijis
+108797001	an independent state within the British Commonwealth located on the Fiji Islands
+108797227	the capital and largest city of Fiji (on Viti Levu island)
+108797356	republic in northern Europe; achieved independence from Russia in 1917
+108797682	a region in Finland and Russia between the Gulf of Finland and the White Sea
+108797870	the capital and largest city of Finland; located in southern Finland; a major port and commercial and cultural center
+108798134	a city in southern Finland
+108798232	an industrial city in south central Finland
+108798362	an archipelago of some 6,000 islands in the Gulf of Bothnia under Finnish control
+108798572	a town that is the chief port of the Aland islands
+108798733	a republic in southeastern Europe on the southern part of the Balkan peninsula; known for grapes and olives and olive oil
+108800171	ancient Greece; a country of city-states (especially Athens and Sparta) that reached its peak in the fifth century BCE
+108800342	a region of ancient Greece on the north coast of the Peloponnese
+108800479	an island in the Aegean Sea
+108800699	an island in the Aegean Sea in the Saronic Gulf
+108800828	an island in the Aegean Sea off the west coast of Turkey; belongs to Greece
+108801001	a group of over 200 islands in the southern Aegean
+108801138	a group of islands in the southeast Aegean Sea
+108801296	a small region of ancient Greece where the Doric dialect was spoken
+108801435	an island of eastern Greece in the eastern Aegean Sea; in antiquity it was famous for lyric poetry
+108801664	a Greek island in the southeast Aegean Sea 10 miles off the Turkish coast; the largest of the Dodecanese; it was colonized before 1000 BC by Dorians from Argos; site of the Colossus of Rhodes
+108801956	an ancient coastal region of northwestern Asia Minor (including Lesbos) where the Aeolians founded several cities around 1100 BC
+108802185	the largest Greek island in the Mediterranean; site of the Minoan civilization that reached its peak in 1600 BC
+108802433	an ancient town on Crete where Bronze Age culture flourished from about 2000 BC to 1400 BC
+108802598	a Greek island to the west of Greece; in Homeric legend Odysseus was its king
+108802757	a group of islands off the west coast of Sicily in the Mediterranean
+108802984	an autonomous area in northeastern Greece that is the site of several Greek Orthodox monasteries founded in the tenth century
+108803195	the capital and largest city of Greece; named after Athena (its patron goddess)
+108803595	a hill to the to the west of the Athenian acropolis where met the highest governmental council of ancient Athens and later a judicial court
+108803810	a gateway to the west of ancient Athens near which a distinctive style of pottery has been found
+108804013	an ancient town on a promontory in western Greece
+108804135	the territory of Athens in ancient Greece where the Ionic dialect was spoken
+108804284	the modern Greek port near the site of the ancient city that was second only to Athens
+108804512	an ancient city in southeastern Greece; dominated the Peloponnese in the 7th century BC
+108804707	an ancient Greek city on the slopes of Mount Parnassus; site of the oracle of Delphi
+108804901	an ancient city is southern Greece; center of the Mycenaean civilization during the late Bronze Age
+108805092	an ancient Greek city famous for military prowess; the dominant city of the Peloponnesus prior to the 4th century BC
+108805318	an ancient area on the Ionian Sea that flourished as a kingdom in the 3rd century BC; located in northwestern Greece and southern Albania
+108805547	an ancient region of southern Greece in the southeastern Peloponnesus; dominated by Sparta
+108805730	an ancient region on the coast of southwest Asia Minor
+108805856	an ancient region on the coast of western Asia Minor; a powerful kingdom until conquered by the Persians in 546 BC
+108806042	a valley in southeastern Greece where the Nemean Games were held
+108806178	an ancient Greek city on the western shore of Asia Minor in what is now Turkey; site of the Temple of Artemis; was a major trading center and played an important role in early Christianity
+108806440	a port city in western Greece in the northwestern Peloponnese on an inlet of the Ionian Sea; was a major trade center from the 5th century BC to the 3rd century BC; commercial importance revived during the Middle Ages
+108806739	an ancient city in Asia Minor that was the site of the Trojan War
+108806928	an ancient Greek city in Boeotia destroyed by Alexander the Great in 336 BC
+108807095	a district of ancient Greece to the northwest of Athens
+108807299	a former town in Boeotia; site of a battle between the Greeks and Persians in 479 BC
+108807457	a port city in northeastern Greece on an inlet of the Aegean Sea; second largest city of Greece
+108807687	an ancient town of Greece where Aristotle was born
+108807822	a fertile plain on the Aegean Sea in east central Greece; Thessaly was a former region of ancient Greece
+108808051	the fields in Thessaly where in 197 BC the Romans defeated the Macedonians
+108808205	a department of Greece in the central Peloponnese
+108808347	the southern peninsula of Greece; dominated by Sparta until the 4th century BC
+108808600	a Greek island in the northern Aegean Sea; famous for a reddish-brown clay that has medicinal properties
+108808805	a plain in Greece in the northwestern Peloponnese; the chief sanctuary of Zeus and the site of the original Olympian Games
+108809019	the area around the eastern Mediterranean; from Turkey to northern Africa and eastward to Iran; the site of such ancient civilizations as Phoenicia and Babylon and Egypt and the birthplace of Judaism and Christianity and Islam; had continuous economic and political turmoil in the 20th century
+108809830	Arabic name for the Middle East
+108809935	a geographical area of fertile land in the Middle East stretching in a broad semicircle from the Nile to the Tigris and Euphrates
+108810147	an ancient kingdom of the Hebrew tribes at the southeastern end of the Mediterranean Sea; founded by Saul around 1025 BC and destroyed by the Assyrians in 721 BC
+108810400	Jewish republic in southwestern Asia at eastern end of Mediterranean; formerly part of Palestine
+108811162	a town and port in northwestern Israel in the eastern Mediterranean
+108811341	an area between Israel and Jordan on the west bank of the Jordan river; populated largely by Palestinians
+108811598	an ancient city in the West Bank to the north of Jerusalem; the home of Jacob in biblical times
+108811766	an area of northern Israel; formerly the northern part of Palestine and the ancient kingdom of Israel; the scene of Jesus's ministry
+108812045	a historic town in northern Israel that is mentioned in the Gospels as the home of Joseph and Mary
+108812218	a coastal region at the southeastern corner of the Mediterranean bordering Israel and Egypt
+108812426	a fortified hilly area between southern Lebanon and southern Syria
+108812650	capital and largest city of the modern state of Israel (although its status as capital is disputed); it was captured from Jordan in 1967 in the Six Day War; a holy city for Jews and Christians and Muslims; was the capital of an ancient kingdom
+108813084	a small town near Jerusalem on the West Bank of the Jordan River; early home of David and regarded as the place where Jesus was born
+108813344	an ancient seaport in northwestern Israel; an important Roman city in ancient Palestine
+108813506	(Old Testament) an ancient city near the Dead Sea that (along with Gomorrah) was destroyed by God for the wickedness of its inhabitants
+108813732	any location known for vice and corruption
+108813826	(Old Testament) an ancient city near the Dead Sea that (along with Sodom) was destroyed by God for the vice and depravity of its inhabitants
+108814071	a hill near Jerusalem where Jesus was crucified
+108814203	originally a stronghold captured by David (the 2nd king of the Israelites); above it was built a temple and later the name extended to the whole hill; finally it became a synonym for the city of Jerusalem
+108814559	a range of low hills in southwestern England
+108814696	a range of hills on the border between England and Scotland
+108814865	a system of hills in Britain that extend from the Scottish border in the north to the Trent River in the south; forms the watershed for English rivers
+108815106	the hills on which the ancient city of Rome was built
+108815264	the most important of the Seven Hills of Rome; supposedly the location of the first settlement and the site of many imperial palaces
+108815471	a wall in Jerusalem; sacred to Jews as a place of prayer and lamentation; its stones are believed to have formed part of the Temple of Solomon
+108815692	the largest city and financial center of Israel; located in western Israel on the Mediterranean
+108815914	a major port in northwestern Israel
+108816047	a port in western Israel on the Mediterranean; incorporated into Tel Aviv in 1950
+108816234	an ancient country in southwestern Asia on the east coast of the Mediterranean Sea; a place of pilgrimage for Christianity and Islam and Judaism
+108816623	a former British mandate on the east coast of the Mediterranean; divided between Jordan and Israel in 1948
+108816975	an ancient kingdom of southern Palestine with Jerusalem as its center
+108817123	the southern part of ancient Palestine succeeding the kingdom of Judah; a Roman province at the time of Christ
+108817314	an ancient city in central Palestine founded in the 9th century BC as the capital of the northern Hebrew kingdom of Israel; the site is in present-day northwestern Jordan
+108817558	an ancient region on the coast of southwestern Palestine that was strategically located on a trade route between Syria and Egypt; important in biblical times
+108817810	the ancient Roman state from 509 BC until Augustus assumed power in 27 BC; was governed by an elected Senate but dissatisfaction with the Senate led to civil wars that culminated in a brief dictatorship by Julius Caesar
+108818110	an empire established by Augustus in 27 BC and divided in AD 395 into the Western Roman Empire and the eastern or Byzantine Empire; at its peak lands in Europe and Africa and Asia were ruled by ancient Rome
+108818528	a continuation of the Roman Empire in the Middle East after its division in 395
+108818763	the western part after the Roman Empire was divided in 395; it lasted only until 476
+108818951	an ancient city on the Bosporus founded by the Greeks; site of modern Istanbul; in 330 Constantine I rebuilt the city and called it Constantinople and made it his capital
+108819216	a boot-shaped peninsula in southern Europe extending into the Mediterranean Sea
+108819398	an Italian-speaking region of southern Switzerland
+108819530	a republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD
+108821234	Italy is divided into 20 regions for administrative purposes
+108821735	ancient city to the southeast of Naples that was buried by a volcanic eruption from Vesuvius
+108821901	ancient city; now destroyed
+108822006	a mountainous region of central Italy on the Adriatic
+108822171	the provincial capital of the Abruzzi region in central Italy
+108822339	a region of southern Italy (forming the instep of the Italian boot')
+108822514	an Italian city in Trentino-Alto Adige near the Austrian border; noted as a resort and for its Alpine scenery
+108822697	an ancient Italian city in central Lombardy
+108822814	a region of southern Italy (forming the toe of the Italian boot')
+108822974	a region of southwestern Italy on the Tyrrhenian Sea including the islands of Capri and Ischia
+108823238	a city in northern Italy
+108823417	a port and tourist center in southwestern Italy; capital of the Campania region
+108823653	a port city in northeastern Sicily on the Strait of Messina
+108823805	an island (part of Campania) in the Bay of Naples in southern Italy; a tourist attraction noted for beautiful scenery
+108823994	a volcanic island (part of Campania) in the Tyrrhenian Sea at the north end of the Bay of Naples
+108824163	a region of north central Italy on the Adriatic
+108824310	the capital of Emilia-Romagna; located in northern Italy to the east of the Apennines
+108824469	a region in northeastern Italy
+108824587	an ancient region of west central Italy (southeast of Rome) on the Tyrrhenian Sea
+108824749	capital and largest city of Italy; on the Tiber; seat of the Roman Catholic Church; formerly the capital of the Roman Republic and the Roman Empire
+108825406	the site in Rome containing the church of Rome and the Lateran Palace
+108825568	a town of central Italy on the Tyrrhenian Sea; the Allies established a beachhead at Anzio in World War II
+108825746	a port city in southeastern Apulia in Italy; a center for the Crusades in the Middle Ages
+108825929	a town twenty miles to the east of Rome (Tibur is the ancient name); a summer resort during the Roman empire; noted for its waterfalls
+108826144	region of northwestern Italy on the Ligurian Sea
+108826304	a seaport in northwestern Italy; provincial capital of Liguria
+108826466	a region of north central Italy bordering Switzerland
+108826644	a city in Lombardy on the Po River; noted for the manufacture of fine violins from the 16th to the 18th centuries
+108826831	a port city in Liguria on an arm of the Ligurian Sea; a major seaport and year-round resort
+108827017	the capital of Lombardy in northern Italy; has been an international center of trade and industry since the Middle Ages
+108827236	a region in central Italy
+108827344	a region of south central Italy
+108827448	the temporal dominions belonging to the pope (especially in central Italy)
+108827601	the region of northwestern Italy; includes the Po valley
+108827762	a city in Tuscany; site of the famous Leaning Tower
+108827903	a city in southeastern Sicily that was founded by Corinthians in the 8th century BC
+108828072	capital city of the Piemonte region of northwestern Italy
+108828210	a region in southeastern Italy on the Adriatic
+108828357	capital city of the Apulia region on the Adriatic coast
+108828483	an island in the Mediterranean to the west of Italy
+108828638	the Italian region on the island of Sardinia; the kingdom of Sardinia was the nucleus for uniting Italy during the 19th century
+108828851	the largest island in the Mediterranean
+108829067	the Italian region on the island of Sicily
+108829325	the capital of Sicily; located in northwestern Sicily; an important port for 3000 years
+108829505	a cape that forms the southeastern corner of the island of Sicily
+108829664	a town in Italy in southwestern Sicily near the coast; the site of six Greek temples
+108829834	a region in central Italy
+108830018	a city in central Italy on the Arno; provincial capital of Tuscany; center of the Italian Renaissance from 14th to 16th centuries
+108830251	a region of northeastern Italy bordering Austria
+108830404	a city in northern Italy (northwest of Venice) on the River Adige; the site of the Council of Trent
+108830584	a mountainous region in central Italy
+108830694	a region in northwestern Italy
+108830804	a region of northeastern Italy on the Adriatic
+108831008	a city in Veneto
+108831116	the provincial capital of Veneto; built on 118 islands within a lagoon in the Gulf of Venice; has canals instead of streets; one of Italy's major ports and a famous tourist attraction
+108831438	the major waterway in Venice, Italy
+108831551	a city in Veneto on the River Adige
+108831659	an ancient country in central Italy; assimilated by the Romans by about 200 BC
+108831830	a republic in southeastern Europe with a short coastline on the Black Sea
+108832185	a city in central Romania in the foothills of the Transylvanian Alps
+108832326	national capital and largest city of Romania in southeastern Romania
+108832516	a Romanian resort city on the Black Sea
+108832633	a historical plateau region in northwestern Romania that is separated from the rest of the country by the Transylvanian Alps; originally part of Hungary; incorporated into Romania at the end of World War I
+108832898	a landlocked republic in central Africa; formerly a German colony
+108833198	the national capital and largest city of Rwanda; located in central Rwanda
+108833365	a former country of southeastern Europe bordering the Adriatic Sea; formed in 1918 and named Yugoslavia in 1929; controlled by Marshal Tito as a communist state until his death in 1980
+108833710	a republic in the western Balkans in south-central Europe in the eastern Adriatic coastal area; formerly part of the Habsburg monarchy and Yugoslavia; became independent in 1991
+108834088	a mountainous republic in southeastern Europe bordering on the Adriatic Sea; formed from two of the six republics that made up Yugoslavia until 1992; Serbia and Montenegro were known as the Federal Republic of Yugoslavia until 2003 when they adopted the name of the Union of Serbia and Montenegro
+108834659	a Serbian province in southern Serbia and Montenegro populated predominantly by Albanians
+108834821	a historical region in central and northern Yugoslavia; Serbs settled the region in the 6th and 7th centuries
+108835087	a former country bordering on the Adriatic Sea; now part of the Union of Serbia and Montenegro
+108835270	capital and largest city of Serbia and Montenegro; situated on the Danube
+108835482	a mountainous republic of south-central Europe; formerly part of the Ottoman Empire and then a part of Yugoslavia; voted for independence in 1992 but the mostly Serbian army of Yugoslavia refused to accept the vote and began ethnic cleansing in order to rid Bosnia of its Croats and Muslims
+108835987	the northern part of Bosnia-Herzegovina
+108836099	capital and largest city of Bosnia; scene of the assassination of Francis Ferdinand in 1914 which precipitated World War I
+108836296	a mountainous republic in central Europe; formerly part of the Habsburg monarchy and Yugoslavia; achieved independence in 1991
+108836588	the capital of Slovenia
+108836687	a port city in southwestern Croatia on the Adriatic; a popular tourist center
+108836868	an old Croatian city on the Adriatic Sea
+108836980	the capital of Croatia
+108837075	a historical region of Croatia on the Adriatic Sea; mountainous with many islands
+108837249	the largest island in the world; lies between the North Atlantic and the Arctic Ocean; a self-governing province of Denmark
+108837535	the 5th largest island and the largest island of Arctic Canada; lies between Greenland and Hudson Bay
+108837735	the mainland part of the province of Newfoundland and Labrador in the eastern part of the large Labrador-Ungava Peninsula in northeastern Canada
+108837973	a nation in northern North America; the French were the first Europeans to settle in mainland Canada
+108840179	the French-speaking part of the Canadian Maritime Provinces
+108840311	a large plateau that occupies more than 40% of the land area of Canada; it extends from the Great Lakes northward to the Arctic Ocean
+108840570	the collective name for the Canadian provinces of New Brunswick and Nova Scotia and Prince Edward Island
+108840877	Canada is divided into 12 provinces for administrative purposes
+108841194	one of the three prairie provinces in western Canada; rich in oil and natural gas and minerals
+108841419	a popular vacation spot in the Canadian Rockies
+108841538	the largest city in southern Alberta; an oil and gas center and a technology center for Alberta and most of western Canada
+108841734	the capital of the province of Alberta
+108841847	a province in western Canada
+108842148	a town in southwestern British Columbia on Vancouver Island to the west of Vancouver
+108842306	capital of the Canadian province of British Columbia on Vancouver Island
+108842472	a port city in southwestern British Columbia on an arm of the Pacific Ocean opposite Vancouver Island; Canada's chief Pacific port and third largest city
+108842720	an island off southwestern Canada (off the southwestern coast of British Columbia); the largest island off the west coast of North America
+108842960	one of the three prairie provinces in central Canada
+108843144	the capital and largest city of Manitoba; located in southern Manitoba; known for severe winters
+108843315	a Canadian town in northern Manitoba on Hudson Bay; important port for shipping grain
+108843476	a province in southeastern Canada
+108843646	the provincial capital of New Brunswick
+108843763	a port in eastern Canada; the largest city in New Brunswick
+108843929	a Canadian province on the island of Newfoundland and on the mainland along the coast of the Labrador Sea; became Canada's 10th province in 1949
+108844203	an island in the north Atlantic
+108844313	a port and provincial capital of Newfoundland
+108844469	a large territory in northwestern Canada; part is now Nunavut
+108844656	an Arctic territory in northern Canada created in 1999 and governed solely by the Inuit; includes the eastern part of what was the Northwest Territories and most of the islands of the Arctic Archipelago
+108844979	all the islands that lie to the north of mainland Canada and the Arctic Circle
+108845142	a town in the Northwest Territories in northern Canada on the Great Slave Lake
+108845298	the Canadian province in the Maritimes consisting of the Nova Scotia peninsula and Cape Breton Island; French settlers who called the area Acadia were exiled to Louisiana by the British in the 1750s and their descendants are know as Cajuns
+108845691	an island that forms the northeastern part of Nova Scotia
+108845833	a peninsula in eastern Canada between the Bay of Fundy and the Saint Lawrence River
+108845994	provincial capital and largest city of Nova Scotia
+108846118	a prosperous and industrialized province in central Canada
+108846478	the capital of Canada (located in southeastern Ontario across the Ottawa river from Quebec)
+108846681	a port city in southeastern Ontario at the western end of Lake Ontario
+108846845	a town in southeast Ontario on Lake Ontario near the head of the Saint Lawrence River
+108847005	a town of southern Ontario opposite northern Michigan
+108847143	a city in south central Canada in Ontario; a major nickel mining center
+108847288	a port city in Ontario on Lake Superior
+108847424	the provincial capital and largest city in Ontario (and the largest city in Canada)
+108847619	a city in southeastern Ontario on the Detroit River opposite Detroit
+108847742	an island in the Gulf of Saint Lawrence; the smallest province of Canada
+108847920	the provincial capital and largest city of Prince Edward Island
+108848063	the largest province of Canada; a French colony from 1663 to 1759 when it was lost to the British
+108848309	the French-speaking capital of the province of Quebec; situated on the Saint Lawrence River
+108848525	a city in southern Quebec province on the Saint Lawrence River; the largest city in Quebec and 2nd largest in Canada; the 2nd largest French-speaking city in the world
+108848767	one of the three prairie provinces in west central Canada
+108848997	the provincial capital of Saskatchewan
+108849108	a city in central Saskatchewan; the largest city in the province
+108849248	a town in northwestern Canada in the Yukon on the Yukon River; a boom town around 1900 when gold was discovered in the Klondike
+108849448	a territory in northwestern Canada; site of the Klondike gold rush in the 1890s
+108849712	a region in northwestern Canada where gold was discovered in 1896 but exhausted by 1910
+108849874	the provincial capital of the Yukon Territory
+108849996	a nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago; first Europeans were British convicts sent there as a penal colony
+108851261	the capital of Australia; located in southeastern Australia
+108851439	one of the several states constituting Australia
+108851683	a state in northeastern Australia
+108851869	capital and largest city of Queensland state; located in the southeastern corner of Queensland on the Pacific; settled by British as a penal colony; 3rd largest city in Australia
+108852122	an Australian state in southeastern Australia
+108852287	the largest Australian city located in southeastern Australia on the Tasman Sea; state capital of New South Wales; Australia's chief port
+108852516	a town on the Murrumbidgee River in New South Wales; agricultural trading center
+108852674	a state in southeastern Australia
+108852801	the capital of Victoria state and 2nd largest Australian city; a financial and commercial center
+108852973	an island off the southeastern coast of Australia
+108853115	an Australian state on the island of Tasmania
+108853272	a port and state capital of Tasmania
+108853400	a state in south central Australia
+108853535	the state capital of South Australia
+108853646	a state containing the western third of Australia
+108853798	the state capital of Western Australia
+108853908	a territory in north central Australia
+108854050	provincial capital of the Northern Territory of Australia
+108854180	an island territory of Australia in the Pacific Ocean off the eastern coast of Australia; formerly a British penal colony
+108854382	a vast arid plain of southern Australia stretching inland from the Great Australian Bight; has sparse vegetation and no surface water and is almost uninhabited; the site of a major rocket research center
+108854667	an archipelago in the North Pacific extending southwest from Alaska
+108854867	a large group of islands in the south Pacific including Melanesia and Micronesia and Polynesia (and sometimes Australasia and the Malay Archipelago)
+108855157	Australia, New Zealand, and neighboring islands in the South Pacific
+108855321	islands of central and South Pacific (Indonesia and Melanesia and Micronesia and Polynesia)
+108855622	the islands in the southwestern part of Oceania
+108855878	the islands in the northwestern part of Oceania
+108856040	a country scattered over Micronesia with a constitutional government in free association with the United States; achieved independence in 1986
+108856449	capital of Micronesia
+108856544	a chain of coral and volcanic islands in Micronesia (including Guam and the Northern Marianas) halfway between New Guinea and Japan; discovered by Magellan in 1521
+108856856	a self-governing territory comprising all of the Mariana Islands except Guam
+108857062	the largest island in the Northern Marianas and the administrative center of the commonwealth of the Northern Mariana Islands in union with the United States
+108857311	the largest and southernmost island in the Marianas which is administered as a territory of the United States; it was ceded by Spain to the United States in 1898
+108857548	an island in the western Pacific between Guam and Hawaii
+108857708	a long archipelago of more than 500 islands in Micronesia to the east of the Philippines
+108857879	a group of coral islands in eastern Micronesia
+108858084	a republic (under United States protection) on the Marshall Islands
+108858288	an atoll in the Marshall Islands; formerly used by the United States as a site for testing nuclear weapons
+108858467	an atoll in the Marshall Islands; site of an amphibious assault in World War II; later used temporarily by the United States to test atomic bombs
+108858706	an atoll in the western Marshall Islands that was used as a Japanese air and naval base during World War II
+108858908	a group of islands in Micronesia to the southwest of Hawaii; formerly part of the British colony of Gilbert and Ellice Islands until it became part of the Republic of Kiribati in 1979
+108859192	a group of coral islands in Micronesia to the southwest of Hawaii
+108859366	a small island republic on the Tuvalu islands; formerly part of the British colony of Gilbert and Ellice Islands until it withdrew in 1975 and became independent of the United Kingdom in 1978
+108859649	capital of Tuvalu
+108859741	an island republic in the west central Pacific just to the south of the equator
+108859956	national capital of Kiribati
+108860067	a former British possession in Micronesia
+108860201	a small island in the central Pacific Ocean 2,800 miles to the southwest of Hawaii; in Micronesia to the west of the Gilbert Islands
+108860475	an island republic on Nauru Island; phosphate exports support the economy
+108860659	the islands in the eastern part of Oceania
+108860948	a group of islands in the Indian and Pacific Oceans between Asia and Australia
+108861250	a chain of islands in the western Malay Archipelago
+108861419	a chain of islands including Borneo and Celebes and Java and Sumatra
+108861575	a chain of islands forming a province of Indonesia to the east of Java; includes Bali and Timor
+108861811	a group of islands in the southwestern Pacific to the northeast of New Guinea; part of Papua New Guinea
+108862077	a group of islands in the Bismarck Archipelago
+108862207	3rd largest island in the world; in the western Pacific to the north of Java; largely covered by dense jungle and rain forest; part of the Malay Archipelago
+108862563	the largest of the Solomon Islands; a province of Papua New Guinea
+108862727	a mountainous island; the largest of the Solomon Islands in the independent state that is a member of the British Commonwealth
+108862950	the largest island in the Bismarck Archipelago; part of Papua New Guinea
+108863100	an island to the to the east of Australia and to the north of New Zealand
+108863271	a Pacific island to the north of Australia; the 2nd largest island in the world; the western part is governed by Indonesia and the eastern part is Papua New Guinea
+108863549	a parliamentary democracy on the eastern half of the island of New Guinea; in 1975 it became an independent state within the Commonwealth of Nations
+108863915	the southeastern part of Papua New Guinea
+108864045	the administrative capital and largest city of Papua New Guinea
+108864217	an island in the Bismarck Archipelago; part of Papua New Guinea
+108864358	a geographical area in central and eastern Europe; broken into separate countries at the end of World War I
+108864547	a mountainous republic in central Europe; under the Habsburgs (1278-1918) Austria maintained control of the Holy Roman Empire and was a leader in European politics until the 19th century
+108865127	a picturesque mountainous province of western Austria and northern Italy
+108865316	the capital and largest city of Austria; located on the Danube in northeastern Austria; was the home of Beethoven and Brahms and Haydn and Mozart and Schubert and Strauss
+108865618	an industrial city is southeastern Austria
+108865731	city in northern Austria on the Danube; noted as a cultural center
+108865877	city in western Austria; a music center and birthplace of Mozart
+108866016	city in southwestern Austria; known as a summer and winter resort
+108866157	a town in northeastern Austria
+108866260	island country in the Atlantic to the east of Florida and Cuba; a popular winter resort
+108866562	the capital of the Bahamas
+108866686	a peninsula between the Red Sea and the Persian Gulf; strategically important for its oil resources
+108867086	an island country in the Persian Gulf off the coast of Saudi Arabia; oil revenues funded progressive programs until reserves were exhausted in 1970s
+108867413	an island in the Persian Gulf
+108867560	the capital of Bahrain; located at the northern end of Bahrain Island
+108867723	a Muslim republic in southern Asia bordered by India to the north and west and east and the Bay of Bengal to the south; formerly part of India and then part of Pakistan; it achieved independence in 1971
+108868218	the capital and largest city of Bangladesh
+108868364	a port city and industrial center in southeastern Bangladesh on the Bay of Bengal
+108868541	a medieval country in northern Europe that included regions now parts of northern France and Belgium and southwestern Netherlands
+108868745	a monarchy in northwestern Europe; headquarters for the European Union and for the North Atlantic Treaty Organization
+108869442	the capital and largest city of Belgium; seat of the North Atlantic Treaty Organization
+108869655	a town in central Belgium
+108869733	a busy port and financial center in northern Belgium on the Scheldt river; it has long been a center for the diamond industry and the first stock exchange was opened there in 1460
+108870026	a city in northwestern Belgium that is connected by canal to the North Sea; in the 13th century it was a leading member of the Hanseatic League; the old city (known as the City of Bridges) is a popular tourist attraction
+108870356	city in southwestern Belgium; center of an industrial region
+108870492	port city in northwestern Belgium and industrial center; famous for cloth industry
+108870679	city in eastern Belgium; largest French-speaking city in Belgium
+108870822	a city in south central Belgium situated on a promontory between the Meuse River and the Sambre River; the site of intense fighting in World War I and World War II
+108871057	a town in central Belgium where in 1815 Napoleon met his final defeat
+108871201	a landlocked principality in the Himalayas to the northeast of India
+108871381	a landlocked republic in south-central Africa that became independent from British control in the 1960s
+108871677	capital and largest city of Botswana in the extreme southeast
+108871835	a landlocked republic in central South America; Simon Bolivar founded Bolivia in 1825 after winning independence from Spain
+108872300	capital city in western Bolivia and the administrative seat of Bolivia's government; largest city in Bolivia
+108872502	a city in central Bolivia
+108872604	the judicial capital and seat of the judiciary in Bolivia
+108872733	the largest Latin American country and the largest Portuguese speaking country in the world; located in the central and northeastern part of South America; world's leading coffee exporter
+108873717	a territory of western Brazil bordering on Bolivia and Peru
+108873847	port city in northern Brazil in the Amazon delta; main port and commercial center for the Amazon River basin
+108874118	city in southeastern Brazil to the north of Rio de Janeiro; the first of Brazil's planned communities
+108874300	the capital of Brazil; a city built on the central plateau and inaugurated in 1960
+108874497	a city in southeastern Brazil
+108874601	a city in northeastern Brazil near the Atlantic Ocean to the north of Recife
+108874755	a city in eastern Brazil to the northeast of Belo Horizonte
+108874901	a city of southeastern Brazil (northwest of Sao Paulo)
+108875029	a port city in northeastern Brazil
+108875154	a city in southeastern Brazil; suburb of Sao Paulo
+108875258	the former capital and 2nd largest city of Brazil; chief Brazilian port; famous as a tourist attraction
+108875467	a port city of northeastern Brazil on the Atlantic
+108875622	a port city in southwestern Brazil on an offshore island near Sao Paulo
+108875785	a city in southeastern Brazil; an industrial suburb of Sao Paulo
+108875937	an industrial city in southeastern Brazil across the bay from Rio de Janeiro
+108876091	a city in southeastern Brazil that is a residential suburb of Rio de Janeiro
+108876252	a city in southeastern Brazil to the northeast of Sao Paulo
+108876397	a city on an offshore island in northeast Brazil
+108876521	an ultramodern city in southeastern Brazil; the largest city in South America
+108876674	a former empire consisting of Great Britain and all the territories under its control; reached its greatest extent at the end of World War I; it included the British Isles, British West Indies, Canada, British Guiana; British West Africa, British East Africa, India, Australia, New Zealand
+108877240	Great Britain and Ireland and adjacent islands in the north Atlantic
+108877521	the former British territories of eastern Africa, including Kenya, Tanganyika, Uganda, and Zanzibar
+108877705	the former British territories of western Africa, including Nigeria, Cameroon, Gambia, Togo, Sierra Leone, and the Gold Coast
+108877934	an island comprising England and Scotland and Wales
+108878165	an island comprising the republic of Ireland and Northern Ireland
+108878993	an early name of Ireland that is now used in poetry
+108879115	a monarchy in northwestern Europe occupying most of the British Isles; divided into England and Scotland and Wales and Northern Ireland; Great Britain' is often used loosely to refer to the United Kingdom
+108891234	a division of the United Kingdom
+108893163	archaic name for England or Great Britain; used poetically
+108893294	the Latin name for England
+108893374	a slang term for Great Britain used by British troops serving abroad
+108893496	a city in northwestern England
+108893639	a popular tourist area in northwestern England including England's largest lake and highest mountain
+108893849	the capital and largest city of England; located on the Thames in southeastern England; financial and industrial and cultural center
+108894500	the part of London situated within the ancient boundaries; the commercial and financial center of London
+108894696	the English counties surrounding London into which Greater London has expanded
+108894930	a borough of Greater London on the Thames; zero degrees of longitude runs through Greenwich; time is measured relative to Greenwich Mean Time
+108895147	a city district of central London laid out in garden squares
+108895284	a city district of central London now noted for restaurants and nightclubs
+108895429	a southeastern part of Greater London that is the site of the English national soccer stadium
+108895596	the part of west central London containing the main entertainment and shopping areas
+108895774	a borough of Greater London on the Thames; contains Buckingham Palace and the Houses of Parliament and Westminster Abbey
+108896070	the London residence of the British sovereign
+108896199	a street of Westminster in London
+108896366	a fashionable street in London noted for its many private clubs
+108896505	the building in which the House of Commons and the House of Lords meet
+108896662	a famous Gothic church of St. Peter in Westminster, London on the site of a former Benedictine monastery
+108897000	a suburb of London and the headquarters of the club where annual international tennis championships are played on grass courts
+108897202	a city in northwestern England (30 miles to the east of Liverpool); heart of the most densely populated area of England
+108897435	a large fishing port in northeastern England
+108897609	a large city in northwestern England; its port is the country's major outlet for industrial exports
+108897840	a city in central England; 2nd largest English city and an important industrial and transportation center
+108898034	a city in southern England to the northwest of London; site of Oxford University
+108898243	a city in eastern England on the River Cam; site of Cambridge University
+108898429	a town in southwestern England on the River Avon; famous for its hot springs and Roman remains
+108898594	a resort town in Lancashire in northwestern England on the Irish Sea; famous for its tower
+108898760	a city in East Sussex in southern England that is a popular resort; site of the University of Sussex
+108898935	an industrial city and port in southwestern England near the mouth of the River Avon
+108899112	a village in southwestern England where cheddar cheese was first made
+108899255	a city on the River Aire in West Yorkshire in northern England; a center of the clothing industry
+108899424	an industrial city in Leicestershire in central England; built on the site of a Roman settlement
+108899615	a port city in northeastern England on the River Tyne; a center for coal exports (giving rise to the expression carry coals to Newcastle' meaning to do something unnecessary)
+108899907	a port city in southern England on the English Channel; Britain's major naval base
+108900094	an industrial city in central England; devastated by air raids during World War II; remembered as the home of Lady Godiva in the 11th century
+108900310	a city in southwestern England in Gloucestershire on the Severn
+108900450	a city on the River Thames in Berkshire in southern England
+108900602	a steel manufacturing city in northern England famous for its cutlery industry
+108900756	a town in central England on the River Avon; birthplace (and burial place) of William Shakespeare
+108900940	a port and industrial city in northeastern England
+108901086	a city in southern England; administrative center of Hampshire
+108901244	a cathedral city in west central England on the River Severn
+108901380	a county in southwestern England
+108901483	a county in southern England
+108901625	a hilly county in southwestern England
+108901776	a county of northwestern England
+108901901	a former Celtic kingdom in northwestern England; the name continued to be used for the hilly northwestern region of England including the Lake District and the northern Pennines
+108902171	a county in southwestern England
+108902288	a county in southeastern England on the North Sea and the Thames estuary
+108902451	a county in southwestern England in the lower Severn valley
+108902592	a county of southern England on the English Channel
+108902757	an area of woods and heathland in southern Hampshire that was set aside by William I as Crown property in 1079; originally a royal hunting ground but now administered as parkland; noted for its ponies
+108903034	a county in southern England
+108903161	a county in southeastern England on the English Channel; formerly an Anglo-Saxon kingdom, it was the first to be colonized by the Romans
+108903406	a county in southwestern England on the Bristol Channel
+108903536	a county in southern England on the English Channel
+108903703	a town in East Sussex just to the south of the place where the battle of Hastings took place
+108903870	a county in southern England on the English Channel
+108903999	a town in Kent in southeastern England; site of the cathedral where Thomas a Becket was martyred in 1170; seat of the archbishop and primate of the Anglican Church
+108904239	a largely agricultural county in central England
+108904418	an agricultural county of eastern England on the North Sea
+108904555	the northernmost county of England; has many Roman remains (including Hadrian's Wall)
+108904740	a hill in Northumberland where the invading Scots were defeated by the English in 1513
+108904900	a region of eastern England that was formerly a kingdom
+108905033	a historical area of northwestern England on the Irish Sea; noted for textiles
+108905188	a county in southeastern England on the Thames
+108905326	a former moor in northern England
+108905438	a former large county in northern England; in 1974 it was divided into three smaller counties
+108905607	a county in northern England
+108905717	a metropolitan county in northern England
+108905858	a metropolitan county in northern England
+108906000	a county is central England
+108906148	the principal city of Northamptonshire
+108906264	a village in western Northamptonshire
+108906374	an Anglo-Saxon kingdom in northern England until 876
+108906504	the southwestern part of England (including Cornwall and Devon and Somerset)
+108906659	a county in southern England on the English Channel; formerly an Anglo-Saxon kingdom that was captured by Wessex in the 9th century
+108906863	a Saxon kingdom in southwestern England that became the most powerful English kingdom by the 10th century
+108907041	an ancient Roman wall built by Hadrian in the 2nd century; marked the northern boundary of the Roman Empire in Britain
+108907240	any of a group of British islands in the English Channel off the northern coast of France
+108907465	the largest of the Channel Islands
+108907571	a Channel Island to the northwest of Jersey
+108907690	an archipelago of small islands off the southwestern coast of England near the entrance to the English Channel; formerly a haven for smugglers and pirates
+108907943	one of the British Isles in the Irish Sea
+108908068	a division of the United Kingdom located on the northern part of the island of Ireland
+108908408	a historic division of Ireland located in the northeastern part of the island; six of Ulster's nine counties are in Northern Ireland
+108908594	a town in southeastern Northern Ireland
+108908706	capital and largest city of Northern Ireland; the center of Protestantism in Northern Ireland
+108908903	a republic consisting of 26 of 32 counties comprising the island of Ireland; achieved independence from the United Kingdom in 1921
+108909418	capital and largest city and major port of the Irish Republic
+108909627	a port city in southern Ireland
+108909748	a port city in western Ireland on Galway Bay
+108909884	port city in southwestern Ireland
+108910011	a village in eastern Ireland (northwest of Dublin); seat of Irish kings until 6th century
+108910171	a port city in southern Ireland; famous for glass industry
+108910324	one of the four countries that make up the United Kingdom of Great Britain and Northern Ireland; located on the northern part of the island of Great Britain; famous for bagpipes and plaids and kilts
+108911642	the geographical area (in Roman times) to the north of the Antonine Wall; now a poetic name for Scotland
+108911822	a mountainous region of northern Scotland famous for its rugged beauty; known for the style of dress (the kilt and tartan) and the clan system (now in disuse)
+108912116	the southern part of Scotland that is not mountainous
+108912285	a district in southwestern Scotland
+108912413	a city in northeastern Scotland on the North Sea
+108912554	a port in southwestern Scotland
+108912655	a castle in northeastern Scotland that is a private residence of the British sovereign
+108912823	the capital of Scotland; located in the Lothian Region on the south side of the Firth of Forth
+108912993	a district in southeast central Scotland (south side of the Firth of Forth) and the location of Edinburgh
+108913198	largest city in Scotland; a port on the Clyde in west central Scotland; one of the great shipbuilding centers of the world

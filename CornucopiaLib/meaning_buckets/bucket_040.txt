@@ -1,0 +1,1000 @@
+107214474	a reply that has no relevance to what preceded it
+107214582	a quick reply to a question or remark (especially a witty or critical one)
+107214950	a reply that repeats what has just been said
+107215081	an infant's repetition of sounds uttered by others
+107215187	the speech act of replying to a question
+107215352	lots thrown to determine God's answers to yes-no questions
+107215473	the speech act of answering an attack on your assertions
+107215765	the speech act of refuting conclusively
+107215880	the speech act of refuting by offering a contrary contention or argument
+107216025	the act of describing something
+107216222	the act of describing distinctive characteristics or essential features
+107216464	a graphic or vivid verbal description
+107216971	descriptive word or phrase
+107217051	a word picture of a person's appearance and character
+107217239	a brief description given for purposes of identification
+107217472	an individualized description of a particular instance
+107217676	a brief literary description
+107217786	the act of affirming or asserting or stating something
+107218048	a factual statement made by one party in order to induce another party to enter into a contract
+107218273	one chap's arbitrary assertion
+107218356	a reply of affirmation
+107218560	an affirmative
+107218668	an affirmative
+107218770	a statement of taxable goods or of dutiable properties
+107218900	the act of asserting that something alleged is not true
+107219061	the act of refusing to comply (as with a request)
+107219325	the denial and rejection of a doctrine or belief
+107219482	the act of saying no to a request
+107219571	a reply of denial
+107219764	a negative
+107219870	a negative
+107219968	a grammatically substandard but emphatic negative
+107220099	an affirmative constructed from two negatives
+107220233	the act of refusing
+107220378	refusal to acknowledge or pay a debt or honor a contract (especially by public authorities)
+107220606	denial of any connection with or knowledge of
+107220756	a disavowal or taking back of a previous assertion
+107220962	a retraction of a previously held position
+107221121	the speech act of negating
+107221256	the speech act of contradicting someone
+107221460	contradicting yourself
+107221547	(logic) a statement that is necessarily false
+107221802	the speech act of revoking or annulling or making void
+107221933	the speech act of rejecting
+107222070	rejecting or disowning or disclaiming as invalid
+107222340	(law) a voluntary repudiation of a person's legal claim to something
+107222520	refusal to acknowledge as one's own
+107222660	an instance of driving away or warding off
+107222844	a brief and unsympathetic rejection
+107222998	the speech act of objecting
+107223225	a formal objection to the selection of a particular person as a juror
+107223368	an expression of grievance or resentment
+107223590	(formerly) a loud cry (or repeated cries) of pain or rage or sorrow
+107223749	(law) a formal objection to an opponent's pleadings
+107223965	(law) the difference of one judge's opinion from that of the majority
+107224193	grounds for adverse criticism
+107224351	taking exception; especially a quibble based on a captious argument
+107224528	a loud complaint or protest or reproach
+107224625	informal terms for objecting
+107224885	a formal and solemn declaration of objection
+107225213	the act of making a strong public expression of disagreement and disapproval
+107225461	a complaint about a (real or imaginary) wrong that causes resentment and is grounds for action
+107225611	a gruff or angry utterance (suggestive of the growling of an animal)
+107225752	a complaint uttered in a low and indistinct tone
+107226034	a long and mournful complaint
+107226163	(Yiddish) a nagging complaint
+107226264	an opportunity for complaint that is seldom missed
+107226412	a complaint uttered in a plaintive whining way
+107226610	a cry of sorrow and grief
+107226850	a speech act that conveys information
+107227084	informing by words
+107227272	advance notification (usually written) of the intention to withdraw from an arrangement of contract
+107227534	notification of something, usually in advance
+107227739	official notice that you have been fired from your job
+107227892	communication of knowledge to man by a divine or supernatural agency
+107228055	the speech act of making something evident
+107228377	behavior that makes your feelings public
+107228549	a deliberate display of emotion for effect
+107228649	a display that is exaggerated or unduly complicated
+107228810	a display of extreme remorse or repentance or grief
+107228927	the act of disclosing something that was secret or private
+107229092	something that is discovered
+107229302	(law) compulsory pretrial disclosure of documents relevant to a case; enables one side in a litigation to elicit information from the other side concerning the facts in the case
+107229554	an unintentional disclosure
+107229654	to furnish incriminating evidence to an officer of the law (usually in return for favors)
+107229845	unauthorized (especially deliberate) disclosure of confidential information
+107230037	the disclosure of something secret
+107230228	the exposure of an impostor or a fraud
+107230476	the exposure of scandal (especially about public figures)
+107230608	an acknowledgment of the truth of something
+107230743	an admission of misdeeds or faults
+107230888	an admission that you have failed to do or be something you know you should do or be
+107231072	a point conceded or yielded
+107231275	a concession given to mollify or placate
+107231421	(law) an agreement or concession made by parties in a judicial proceeding (or by their attorneys) relating to the business before the court; must be in writing unless they are part of the court record
+107231777	a concession made by a labor union to a company that is trying to lower its expenditures
+107231920	an agreement to raise wages
+107232009	formally making a person known to another or to the public
+107232239	the presentation of a debutante in society
+107232333	an act of renewed introduction
+107232442	detailed instructions, as for a military operation
+107232584	the act of informing by verbal report
+107232959	(Yiddish) a long boring tediously detailed account
+107233130	a written document describing the findings of some individual or group
+107233513	confidential information about a topic or person
+107233664	information in some unspecified form
+107233822	a written report of the results of an analysis of the composition of some substance
+107233957	a careful study of some social unit (as a corporation or division within a corporation) that attempts to determine what factors led to its success or failure
+107234190	a government report; bound in white
+107234296	a report published by the British government; bound in blue
+107234411	a preliminary report of government proposals that is published in order to stimulate discussion
+107234583	a report of work accomplished during a specified time period
+107234705	a report that explains or justifies or recommends some particular policy
+107234838	a report of the results of a medical examination of a patient
+107234960	a written evaluation of a student's scholarship and deportment
+107235126	report of a mission or task
+107235246	short account of an incident (especially a biographical one)
+107235433	the act of giving an account describing incidents or a course of events
+107235754	a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program
+107236283	an uncompleted series of tales written after 1387 by Geoffrey Chaucer
+107236416	a detailed account or description of something
+107236599	an improbable (unusual or incredible or fanciful) story
+107236710	a tale circulated by word of mouth among the common folk
+107236890	a collection of folktales in Arabic dating from the 10th century
+107237093	a sentimental story (or drama) of personal distress; designed to arouse sympathy
+107237241	a story about fairies; told to amuse children
+107237388	a tale in rhymed verse for children
+107237483	an act of narration
+107237754	an outpouring of gossip
+107237830	a report (often malicious) about the behavior of other people
+107238110	gossip (usually a mixture of truth and untruth) passed around by word of mouth
+107238295	gossip spread by spoken communication
+107238471	disgraceful gossip about the private lives of other people
+107238645	idle gossip or rumor
+107238811	a message informing of danger
+107239141	a warning to take action concerning something that was overlooked or neglected
+107239344	needless warnings
+107239434	a warning serves to make you more alert to danger
+107239583	a federal warning system that is activated by FEMA; enables the President to take over the United States airwaves to warn the whole country of major catastrophic events
+107239827	a warning against certain acts
+107239993	a warning that is given about something that fails to occur
+107240110	an early warning about a future event
+107240237	a warning message
+107240356	(military) a warning prior to the start of a threatening act
+107240517	(military) a warning after the initiation of a hostile act
+107240675	a warning that something unpleasant is imminent
+107240811	a warning to national policy makers that an enemy intends to launch an attack in the near future
+107240990	a warning to national policy makers that an enemy intends war or is preparing for war and is on a course that increases the risk of war
+107241205	a verbal commitment by one person to another agreeing to do (or not to do) something in the future
+107241501	a solemn promise, usually invoking a divine witness, regarding your future acts or behavior
+107241715	an oath of allegiance to an emir
+107241818	an oath taken by physicians to observe medical ethics deriving from Hippocrates
+107241961	a promise
+107242066	a statement intended to inspire confidence
+107242249	an assurance that someone is healthy or something is in good condition
+107242432	a binding commitment to do or give or refrain from something
+107242765	a solemn pledge of fidelity
+107242871	a mutual promise to marry
+107243009	a mutual promise of a couple not to date anyone else; on college campuses it was once signaled by the giving of a fraternity pin
+107243191	the giving of a ring as a token of engagement
+107243290	a promise that an unaccepted offer will be renewed in the future
+107243411	a solemn pledge (to oneself or to another or to a deity) to do something or to behave in a certain manner
+107243631	an acknowledgment of appreciation
+107243771	an expression of gratitude
+107243905	a conversational expression of gratitude
+107244001	an appearance by actors or performers at the end of the concert or play in order to acknowledge the applause of the audience
+107244190	speaking of yourself in superlatives
+107244407	an instance of boastful talk
+107244749	vain and empty boasting
+107244887	extravagant self-praise
+107244980	the act of putting forth your own opinions in a boastful or inconsiderate manner that implies you feel superior to others
+107245162	the verbal act of naming
+107245456	naming a letter of the alphabet by using a word whose initial sound is the sound represented by that letter
+107245619	naming numbers
+107245708	the act of indicating or pointing out by name
+107245859	naming explicitly
+107245954	a call to engage in a contest or fight
+107246192	a challenge to do something dangerous or foolhardy
+107246388	a bold challenge
+107246500	a challenge to a fight or duel
+107246603	a hostile challenge
+107246713	a challenge to defend what someone has said
+107246849	as by a sentry
+107246935	to offer or accept a challenge
+107247081	the act of explaining; making something plain or intelligible
+107247315	an act of explaining that serves to clear up and cast light on
+107247471	the act of making clear or removing obscurity from the meaning of a word or symbol or expression etc.
+107247648	a public act of denouncing
+107247874	severe censure
+107247964	thunderous verbal attack
+107248075	a speech of violent denunciation
+107248202	the act of damning
+107248294	an appeal to some supernatural power to inflict evil on someone or some group
+107248523	a formal ecclesiastical curse accompanied by excommunication
+107248656	the act of calling down a curse that invokes evil (and usually serves as an insult)
+107248890	a formal charge of wrongdoing brought against a person; the act of imputing blame or guilt
+107249317	mutual accusations
+107249395	a detailed statement giving facts and figures
+107249541	a public instance of reciting or repeating (from memory) something prepared in advance
+107249878	written matter that is recited from memory
+107249995	a formal document written for a prosecuting attorney charging a person with some offense
+107250234	an indictment charging someone with murder
+107250356	an indictment endorsed by a grand jury
+107250450	a formal document charging a public official with misconduct in office
+107250596	a legal document calling someone to court to answer an indictment
+107250737	(law) a formal accusation against somebody (often in a court of law)
+107250967	accusations exchanged among people who refuse to accept sole responsibility for some undesirable event
+107251126	an allegation that something imposes an illegal obligation or denies some legal right or causes injustice
+107251287	bringing a charge or accusation against someone
+107251419	(United Kingdom) a written statement of the grounds of complaint made to court of law asking for the grievance to be redressed
+107251617	a slanderous accusation
+107251698	a statement attributing something dishonest (especially a criminal offense)
+107251894	the imputation of blame
+107252069	an accusation of wrongdoing
+107252221	formal accusation of a crime
+107252307	the act of making accusations
+107252418	an accusation that you are responsible for some lapse or misdeed
+107252762	an accusation that brings into intimate and usually incriminating connection
+107252968	an accusation that is understood without needing to be spoken
+107253115	an indirect (and usually malicious) implication
+107253249	an accusation that incriminates yourself
+107253354	the act of delivering a formal spoken communication to an audience
+107253843	(rhetoric) a formal or authoritative address that advises or exhorts
+107253987	an address to an academic meeting or seminar
+107254088	a wildly enthusiastic speech or piece of writing
+107254210	a three-minute address by Abraham Lincoln during the American Civil War at the dedication of a national cemetery on the site of the Battle of Gettysburg (November 19, 1863)
+107254448	an extemporaneous speech or remark
+107254587	a short musical passage that seems to have been made spontaneously without advance preparation
+107254737	an address delivered at an inaugural ceremony (especially by a United States president)
+107254938	the principal theme in a speech or literary work
+107255077	a speech setting forth the keynote
+107255209	a speech that is open to the public
+107255423	any long and tedious address or recital
+107255585	an address (usually at a political convention) proposing the name of a candidate to run for election
+107255865	addressing an audience formally (usually a long and rhetorical address and often pompous)
+107256211	an instance of oratory
+107256383	a flowery and highly rhetorical oration
+107256497	delivering an address to a public audience
+107256764	the formal presentation of a stated proposition and the opposition to it (usually followed by a vote)
+107256984	vehement oratory
+107257130	recitation of a speech from memory with studied gestures and intonation as an exercise in elocution or rhetoric
+107257317	a type of oratory used to eulogize or condemn a person or group of people
+107257572	a loud bombastic declamation expressed with strong emotion
+107257774	a long monotonous harangue
+107257853	declaiming wildly
+107257966	political oratory
+107258042	an opening or welcoming statement (especially one delivered at graduation exercises)
+107258225	a farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class)
+107258497	an address of a religious nature (usually delivered during a church service)
+107258814	a farewell sermon to a graduating class at their commencement ceremonies
+107258965	preaching the gospel of Christ in the manner of the early church
+107259093	the first major discourse delivered by Jesus (Matthew 5-7 and Luke 6:20-49)
+107259273	zealous preaching and advocacy of the gospel
+107259482	evangelism at a distance by the use of television
+107259609	a sermon on a moral or religious topic
+107259785	the act of persuading (or attempting to persuade); communication intended to induce belief or action
+107260132	persuasion by the use of direct personal pressure
+107260346	persuading not to do or believe something; talking someone out of a belief or an intended course of action
+107260545	persuasion of voters in a political campaign
+107260696	the act of exhorting; an earnest attempt at persuasion
+107260875	a speech of exhortation attempting to instill enthusiasm and determination in a team or staff
+107261042	the practice of proselytizing
+107261129	persuasion by means of empty slogans
+107261242	persuasion formulated as a suggestion
+107261402	the act of expressing earnest opposition or protest
+107261592	a means of persuading or arguing
+107261731	a message issued in behalf of some product or cause or idea or person or institution
+107262119	highly favorable publicity and praise
+107262270	subject matter that is calculated to excite and please vulgar tastes
+107262471	a sensational message (in a film or play or novel)
+107262593	a promotion intended to create goodwill for a person or institution
+107262728	a promotional statement (as found on the dust jackets of books)
+107262988	a paper jacket for a book; a jacket on which promotional information is usually printed
+107263175	blatant or sensational promotion
+107263321	promotion by means of an argument and demonstration
+107263469	a public promotion of some product or service
+107263848	an advertisement that is written and presented in the style of an editorial or journalistic report
+107264004	an advertisement that is sent by mail
+107264094	a printed advertisement that is published in a newspaper
+107264253	a short ad in a newspaper or magazine (usually in small print) and appearing along with other ads of the same type
+107264485	promotion that supplements or coordinates advertising
+107264600	a newspaper advertisement stating what is wanted
+107264702	a commercially sponsored ad on radio or television
+107264866	a television commercial presented in the form of a short documentary
+107265007	an advertisement (usually printed on a page or in a leaflet) intended for wide distribution
+107265395	an advertising circular that is enclosed with other material and (usually) sent by mail
+107265536	an advertisement that offers something free in order to arouse customers' interest
+107265671	the advertisement of a star's name at the top of a theatrical poster
+107265816	a telephone directory or section of a directory (usually printed on white paper) where the names of people are listed alphabetically along with their telephone numbers
+107266041	a telephone directory or section of a directory (usually printed on yellow paper) where business products and services are listed alphabetically by field along with classified advertising
+107266287	the verbal act of urging on
+107266447	encouragement in the form of cheers from spectators
+107266652	encouragement of the progress or growth or acceptance of something
+107266874	encouragement; aiding the development of something
+107267046	a verbalization that encourages you to attempt something
+107267432	needed encouragement
+107267635	underhandedly or improperly inducing someone to do something improper or unlawful
+107267810	(law) inducing someone to make a false oath as part of a judicial proceeding
+107268150	an expression of approval and encouragement
+107268305	the expression of opposition and disapproval
+107268482	a communication that leaves you disheartened or daunted
+107268616	a communication that dissuades you
+107268725	a communication that makes you afraid to try something
+107268935	the act of giving up (a claim or office or possession etc.)
+107269124	a formal resignation and renunciation of powers
+107269262	an act (spoken or written) declaring that something is surrendered or disowned
+107269504	a verbal act of renouncing a claim or right or position etc.
+107269695	a verbal act of admitting defeat
+107269842	refusal to approve or assent to
+107269967	authoritative prohibition
+107270069	an official prohibition or edict against something
+107270296	a ban on the testing of nuclear weapons that is mutually agreed to by countries that possess nuclear weapons
+107270459	communication by paranormal means
+107270666	apparent communication from one mind to another without using sensory perceptions
+107270898	apparent knowledge of distant events without using sensory perceptions
+107271043	phenomena that appear to contradict physical laws and suggest the possibility of causation by mental processes
+107271363	apparent power to perceive things that are not present to the senses
+107271600	knowledge of an event before it occurs
+107271713	the power to move something by thinking about it without the application of physical force
+107271895	alleged form of communication with spirits of the dead
+107272061	manipulation of a table during a seance; attributed to spirits
+107272250	a truncated cloth cone mounted on a mast; used (e.g., at airports) to show the direction of the wind
+107272483	a pole or stake set up to mark something (as the start or end of a race track)
+107272777	a post marking the starting point of a race (especially a horse race)
+107272906	the post at the end of a racecourse
+107273000	an indicator that orients you generally
+107273332	a publication (or a passage from a publication) that is referred to
+107273632	something that has been published again; a fresh publication (as of a literary work)
+107273813	a surveyor's mark on a permanent object of predetermined position and elevation used as a reference point
+107273987	a mark showing the boundary of a piece of land
+107274106	an old term for a landmark that consisted of a pile of stones surmounted by an upright slab
+107274278	a fixed line on a ship's compass indicating its heading
+107274440	(linguistics) a rule describing (or prescribing) a linguistic practice
+107274652	(linguistics) a grammatical rule (or other linguistic feature) that is found in all languages
+107274843	a linguistic rule for the syntax of grammatical utterances
+107275000	a rule describing the conversion of one syntactic structure into another related syntactic structure
+107275161	a linguistic rule for the formation of words
+107275291	a basis for comparison; a reference point against which other things can be evaluated
+107275811	a standard by which something can be measured or judged
+107275968	(baseball) a measure of a pitcher's effectiveness; calculated as the average number of earned runs allowed by the pitcher for every nine innings pitched
+107276210	a measure of a student's academic achievement at a college or university; calculated by dividing the total number of grade points received by the total number attempted
+107276450	a standard that is enforced uniformly without regard to individuality
+107276623	a measure or standard used for comparison
+107276776	a reference point to shoot at
+107276946	a target used in archery
+107277022	a funnel-shaped device towed as a target by an airplane
+107277130	a white stripe in the middle of a road to mark traffic lanes
+107277247	a signal for attracting attention
+107277372	a blinking light on a motor vehicle that indicates the direction in which the vehicle is about to turn
+107277610	worn around arm as identification or to indicate mourning
+107277721	propels bright light high in the sky, or used to propel a lifesaving line or harpoon
+107277888	a signal generated by electronic means
+107278026	a radar echo displayed so as to show the position of a reflecting surface
+107278171	an electronic signal that has been reflected back to the radar antenna; contains information about the location and distance of the reflecting object
+107278413	unwanted echoes that interfere with the observation of signals on a radar screen
+107278565	a device that, on receiving radar signals, transmits coded signals in response to help navigators determine their position
+107278754	a characteristic signal emitted by a transmitter used for navigation
+107278881	a fire (usually on a hill or tower) that can be seen from a distance
+107279052	an artillery shell containing an illuminant
+107279152	a steady bright blue light; formerly used as a signal but now a firework
+107279283	a colored flare fired from a Very pistol
+107279393	a fire set as a signal
+107279488	signal going into an electronic system
+107279593	signal that comes out of an electronic system
+107279743	the output of a computer in printed form
+107279857	the output of a computer in readable form
+107279982	a shout or bell to warn that fire has broken out
+107280087	a loud low warning signal that can be heard by fogbound ships
+107280214	a noise made by the driver of an automobile to give warning
+107280324	a flag that serves as a warning signal
+107280494	a warning signal that is a loud wailing sound
+107280591	the sound of an alarm (usually a bell)
+107280695	a red light on the rear of a motor vehicle that signals when the brakes are applied to slow or stop
+107280883	bright-colored; a float attached by rope to the seabed to mark channels in a harbor or underwater hazards
+107281147	a buoy that can be heard (at night)
+107281278	a buoy with a bell on it
+107281370	a buoy that makes a whistling noise
+107281481	a buoy with a round bottom and conical top
+107281584	a buoy resembling a cone
+107281684	a buoy resembling a vertical log
+107281772	striped pole outside a barbershop
+107281865	a rod carried as a symbol
+107282014	a staff surmounted by a crook or cross carried by bishops as a symbol of pastoral office
+107282166	a ceremonial staff carried as a symbol of office or authority
+107282278	a ceremonial or emblematic staff
+107282407	a mock scepter carried by a court jester
+107282500	staff with a metal tip carried as a sign of office by e.g. a bailiff or constable
+107282636	cord or ribbon worn as an insignia of honor or rank
+107282740	stylized bird wings worn as an insignia by qualified pilots or air crew members
+107282871	a black sash worn to show expert standards in the martial arts (judo or karate)
+107283007	an honor or award gained for excellence
+107283118	a round flat badge displaying information and suitable for pinning onto a garment
+107283308	an annual award by the Academy of Television Arts and Sciences for outstanding achievements in television
+107283464	an annual award for outstanding contributions to chemistry or physics or physiology and medicine or literature or economics or peace
+107283672	an annual award by the Academy of Motion Picture Arts and Sciences for achievements in motion picture production and performance
+107283868	an annual prize awarded by the French government in a competition of painters and artists and sculptors and musicians and architects; the winner in each category receives support for a period of study in Rome
+107284135	an award given annually for contributions to French literature
+107284257	V-shaped sleeve badge indicating military rank and service
+107284463	a piece of braid, usually on the sleeve, indicating military rank or length of service
+107284621	(computer science) a graphic symbol (usually a simple picture) that denotes a program or a command or a data file or a concept in a graphical user interface
+107284884	a distinguishing symbol
+107285306	a symbol that establishes the identity of the one bearing it
+107285423	a cancellation mark stamped on mail by postal officials; indicates the post office and date of mailing
+107285598	a distinguishing mark impressed on paper during manufacture; visible when paper is held up to the light
+107285757	an arrowhead mark identifying British government property
+107285872	stone post at side of a road to show distances
+107285985	a symbol (like x or y) that is used in mathematical or logical expressions to represent a variable quantity
+107286183	a symbol in a logical or mathematical expression that can be replaced by the name of any member of specified set
+107286353	a variable whose values are solutions of an equation
+107286496	small markers inserted into a surface to mark scores or define locations etc.
+107286647	a mark on a die or on a playing card (shape depending on the suit)
+107286789	a company emblem or device
+107286877	an identifying or descriptive marker that is attached to an object
+107287121	a label identifying the owner of a book in which it is pasted
+107287250	an adhesive label
+107287399	metal plate on a dog collar bearing its registration number
+107287512	military identification tag worn on a chain around the neck
+107287625	a tag showing the name of the person who wears it
+107287729	a tag showing the price of the article it is attached to
+107287841	a label written or printed on paper, cardboard, or plastic that is attached to something to indicate its owner, nature, price, etc.
+107288121	a label associated with something for the purpose of identification
+107288321	(computer science) a horizontal label at the top of a window, bearing the name of the currently active document
+107288507	a mound of stones piled up as a memorial or to mark a boundary or path
+107288629	a gesture involving the shoulders
+107288732	the act of signaling by a movement of the hand
+107288902	a sign (for victory); making a V with the index and middle fingers
+107289021	a sign of assent or salutation or command
+107289130	bending the head or body or knee as a sign of reverence or submission or shame or greeting
+107289435	a gesture with the right hand moving to form a cross; used by Catholics as a profession of faith
+107289595	bending the knees; a gesture of respect made by women
+107289783	the act of bending the knees in worship or reverence
+107289980	a former Chinese custom of touching the ground with the forehead as a sign of respect or submission
+107290194	a deep bow with the foot drawn backwards (indicating excessive humility)
+107290418	a deep bow; a Muslim form of salutation
+107290528	(baseball) a special rule (as in baseball) dealing with situations that arise due to the nature of the playing grounds
+107290723	a fundamental linguistic unit linking a signifier to that which is signified
+107290947	a computer user's instruction (not part of a program) that calls for action by the computer's executive program
+107291119	(informal) a notice of dismissal or discharge
+107291243	a public announcement by a law enforcement agency that they desire to question or arrest some person
+107291437	an Interpol notice describing a wanted person and asking that he or she be arrested with a view to extradition; a wanted notice that is issued by Interpol at the request of an Interpol member country and distributed to all member countries
+107291863	a piece of writing that has been copied from someone else and is presented as being your own work
+107292089	something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech
+107292402	something suggestive of speech in being a medium of expression
+107292620	the music of Bach
+107292719	the music of Beethoven
+107292851	the music of Brahms
+107292961	the music of Chopin
+107293070	the music of Gilbert and Sullivan
+107293215	the music of Handel
+107293287	the music of Haydn
+107293357	the music of Mozart
+107293480	the music of Stravinsky
+107293630	the music of Wagner
+107293750	a system of linguistic units or elements used in a particular language
+107293990	a communicative interaction
+107294158	the amount of activity over a communication system during a given period of time
+107294392	a request for something to be made, supplied, or served
+107294673	an order for food that can be prepared quickly
+107294777	a request by the manufacturer of a defective product to return the product (as for replacement or repair)
+107295000	a transmission from Earth to a spacecraft or the path of such a transmission
+107295129	an instrumental composition that doesn't adhere to rules for any specific musical form and is played with improvisation
+107295304	a transmission that will trigger an answering transmission from a transponder
+107295459	an unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century
+107295646	a negative statement; a statement that is a refusal or denial of some other statement
+107295804	(computer science) a message or message fragment
+107295924	musical compositions intended to evoke images or remind the listener of events
+107296080	music composed to accompany the action of a drama or to fill intervals between scenes
+107296228	language characterized by excessive use of slang or cant
+107296340	(Islam) a form of Iranian musical pageant that is the theatrical expression of religious passion; based on the Battle of Kerbala and performed annually (in Farsi)
+107296576	a style of dramatic vocalization between singing and speaking
+107296711	music intended to be performed by one or more singers, usually with instrumental accompaniment
+107296871	the voice on an unseen commentator in a film of television program
+107296994	a thorough explanation (usually accompanied by a demonstration) of each step in a procedure or process
+107297202	a book published annually by the graduating class of a high school or college usually containing photographs of faculty and graduating students
+107297400	a striking or amusing or caustic remark
+107297634	a book written by Karl Marx (1867) describing his economic theories
+107297770	a satirical novel written by Samuel Butler (1872) describing a fictitious land
+107297903	a book written by Sir Thomas More (1516) describing the perfect society on an imaginary island
+107298069	an event that could have occurred but never did
+107298178	an anticipated event that turns out to be far less significant than was expected
+107298313	an event that happens
+107299259	an event or situation that happens at the same time as or in connection with another
+107299553	any event that usually accompanies or is closely connected with another
+107299741	a sudden appearance of an overwhelming number of things
+107299896	relatively unimportant or inconspicuous accompanying situation
+107300108	an event as apprehended
+107300577	an experience that appalls
+107300719	an event that is experienced as indicating important things to come
+107300983	an ominous sign that war threatens
+107301073	a sign of something about to happen
+107301504	a favorable omen
+107301610	an unfavorable omen
+107301704	an omen of death or destruction
+107301793	a short vivid experience
+107301993	a highly pleasurable or exciting experience
+107302177	the experience of losing a loved one
+107302315	the experience of being close to death but surviving
+107302435	a severe or trying experience
+107302517	the dissociative experience of observing yourself from an external perspective as though your mind or soul had left and was observing your body
+107302729	a brief experience of something
+107302920	a person's experience on a particular occasion
+107303090	an exciting or stimulating experience
+107303190	a religious or mystical experience of a supernatural appearance
+107303344	an event characteristic of persons forming groups
+107303524	a marvellous event manifesting a supernatural act of a divine agent
+107303737	an event causing distress or pain
+107304081	an occurrence that causes special pleasure or delight
+107304204	any amazing or wonderful occurrence
+107304311	something that causes feelings of wonder
+107304554	an event
+107304679	a happening that is distinctive in a series of related events
+107304867	something experienced with great delight
+107305001	an episode that is turbulent or highly emotional
+107305226	an emotional episode (usually in young children) in which the person awakens in terror with feelings of anxiety and fear but is unable to remember any incident that might have provoked those feelings
+107305484	a possible event or occurrence or result
+107305628	the event consisting of the start of something
+107305938	an event used to justify starting a war
+107306035	event whose occurrence ends something
+107306517	the final stage or concluding parts of an event or occurrence
+107306842	the final stages of a chess game after most of the pieces have been removed from the board
+107306997	the final stages of an extended process of negotiation
+107307142	the end of an enterprise
+107307301	the end of something
+107307418	something that results
+107307786	the outcome of a complex sequence of events
+107307886	the type of treatment received (especially as the result of an agreement)
+107308097	fair treatment
+107308181	unfair treatment
+107308252	the outcome of a game or contest
+107308384	(boxing) a victory won on points when no knockout has occurred
+107308609	a boxing decision in which the judges are not unanimous
+107308725	the outcome of an event especially as relative to an individual
+107308966	a practical consequence that follows naturally
+107309129	an outcome (good or bad) that is well deserved and fitting
+107309308	the consequence of some effort or action
+107309457	a secondary consequence
+107309535	a series of consequences wrought by an event
+107309665	something that comes into existence as a result
+107310009	the termination of employment (by resignation or dismissal)
+107310125	something that follows something else
+107310247	a recompense for worthy acts or retribution for wrongdoing
+107310468	an inevitable ending
+107310573	the least favorable outcome
+107310701	a happening that occurs only once and is not repeated
+107310808	an event that recurs at intervals
+107311046	an event that occurs when something passes from one state or phase to another
+107311994	an abrupt change in the course of a stream that forms the boundary between two parcels of land resulting in the loss of part of the land of one landowner and a consequent increase in the land of another
+107312251	an abrupt change in the tone or register of the voice (as at puberty or due to emotion)
+107312429	a change or alteration in form or qualities
+107312545	(psychology) modifying the natural expression of an impulse or instinct (especially a sexual one) to one that is socially acceptable
+107312772	a sudden unexpected event
+107313014	a shocking surprise
+107313161	a dramatic surprise
+107313242	something surprising and revealing
+107313333	a sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work)
+107313600	an unpleasant or disappointing surprise
+107313821	a sudden minor shock or meaningless interruption
+107314057	an unexpected and amazing event
+107314187	(computer science) the occurrence of an incorrect result produced by a computer
+107314408	error resulting from a malfunction of some physical component of the computer
+107314583	error resulting from malfunction of a magnetic disk
+107314710	error resulting from bad code in some program involved in producing the erroneous result
+107314934	an error in logic or arithmetic that must be detected at run time
+107315112	an error of language resulting from code that does not conform to the syntax of the programming language
+107315399	error resulting from the choice of the wrong algorithm or method for achieving the intended result
+107315578	anything that happens suddenly or by chance without an apparent cause
+107315954	an unfortunate mishap; especially one causing damage or injury
+107316161	an accident resulting from violent impact of a moving object
+107316464	an accidental collision that is narrowly avoided
+107316568	a serious accident (usually involving one or more vehicles)
+107316782	a crash involving a car or plane
+107316885	an accident in which a train runs off its track
+107317025	a sharp uncontrollable turn made by an airplane while moving along the ground
+107317160	(physics) a brief event in which two or more bodies come together
+107317454	the event of something burning (often destructive)
+107317771	a fire that is set intentionally in order to slow an approaching forest fire or grassfire by clearing a burned area in its path
+107317953	a large outdoor fire that is lighted as a signal or in celebration
+107318084	an uncontrolled fire that consumes brush and shrubs and bushes
+107318203	a small outdoor fire for warmth or cooking (as at a camp)
+107318315	a very intense and uncontrolled fire
+107318457	an uncontrolled fire in a wooded area
+107318606	an uncontrolled fire in a grassy area
+107318714	a fire that burns with thick smoke but no flame
+107318884	a smoky fire to drive away insects
+107318971	a forest fire that advances with great speed jumping from crown to crown ahead of the ground fire
+107319125	a forest fire that burns the humus; may not appear on the surface
+107319248	a forest fire that burns only the surface litter and undergrowth
+107319371	a raging and rapidly spreading conflagration
+107319470	unnecessary and unforeseen trouble resulting from an unfortunate event
+107319716	an unfortunate development
+107319852	a cause of great suffering and distress
+107320056	a physical disturbance such as an earthquake or upheaval
+107320169	some event that causes someone to be embarrassed
+107320378	something that extricates you from embarrassment
+107320525	a cause of difficulty and suffering
+107320650	any experience that causes intense suffering
+107320778	a sudden and severe onset of trouble
+107320870	a disgraceful event
+107321099	a scandal that is kept secret
+107321298	a government scandal involving a former United States Navy oil reserve in Wyoming that was secretly leased to a private oil company in 1921; became symbolic of the scandals of the Harding administration
+107321581	a political scandal involving abuse of power and bribery and obstruction of justice; led to the resignation of Richard Nixon in 1974
+107321790	a series of related events forming an episode
+107321915	an episode of such pastoral or romantic charm as to qualify as the subject of a poetic idyll
+107322095	a single distinct event
+107322264	an incident that attracts great public attention
+107322372	the sudden giving off of energy
+107322513	a discharge of electricity
+107322660	the electrical discharge that travels along a nerve fiber
+107322926	the local voltage change across the cell wall as a nerve impulse is transmitted
+107323068	a transient variation in voltage or current
+107323181	a violent release of energy caused by a chemical or nuclear reaction
+107323507	an occurrence of something
+107323841	an instance in which you are caused to lose your prestige or self-respect
+107324075	an instance of some kind
+107324217	an instance or single occasion for some event
+107324399	a natural event that involves a change in the position or location of something
+107324956	movement resulting from or causing deformation of the earth's crust
+107325125	the event of one object coming closer to another
+107325260	the motion of one object relative to another
+107325457	the movement of the pointer or pen of a measuring instrument from its zero position
+107325609	movement that causes the formation of a curve
+107325733	a movement through space that changes the location of something
+107326158	a collision between motor vehicles that produces minor damage
+107326279	(astronomy) the rising of a star above the horizon
+107326440	(New Testament) the rising of the body of Jesus into heaven on the 40th day after his Resurrection
+107326636	(New Testament) the rising of Christ on the third day after the Crucifixion
+107326839	free movement or passage (as of cytoplasm within a cell or sap through a plant)
+107327103	a slow longitudinal movement or deformation
+107327216	the periodic passage of groups of animals (especially birds or fishes) from one region to another for feeding or breeding
+107327429	(chemistry) the nonrandom movement of an atom or radical from one place to another within a molecule
+107327604	process or result of becoming less or smaller
+107327841	the process or result of becoming smaller or pressed together
+107328118	tight or narrow compression
+107328236	an accident that results in physical damage or hurt
+107328414	a personal or social separation (as between opposing factions)
+107328678	the formal separation of a church into two churches or the withdrawal of one group over doctrinal differences
+107328877	an accidental happening
+107329027	an instance of misfortune
+107329258	loss of air pressure in a tire when a hole is made by some sharp object
+107329438	an event resulting in great loss and misfortune
+107329950	a natural and unavoidable catastrophe that interrupts the expected course of events
+107330231	a cosmic cataclysm in which God destroys the ruling powers of evil
+107330390	a severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death
+107330565	a famine in Ireland resulting from a potato blight; between 1846 and 1851 a million people starved to death and 1.6 million emigrated (most to America)
+107330842	something that is ruinous
+107331003	a disaster comparable to a nuclear meltdown
+107331203	any large scale calamity (especially when thought to be sent by God)
+107331324	any disaster or catastrophe
+107331456	an unexpected piece of good luck
+107331599	an event that might have been arranged although it was really accidental
+107331744	something that is regarded as a chance event
+107331885	multiple collisions of vehicles
+107331969	a serious collision (especially of motor vehicles)
+107332119	an accidental misstep threatening (or causing) a fall
+107332364	an event that does not accomplish its intended purpose
+107332733	failure that results in a loss of position or reputation
+107332899	a complete or conspicuous failure
+107333076	a failure to function normally
+107333218	a sudden malfunction of a part or apparatus
+107333424	a malfunction in the flight of an aircraft in which there is a sudden loss of lift that results in a downward plunge
+107333703	an event that accomplishes its intended purpose
+107333999	an impressively successful event
+107334149	a successful journey
+107334252	failure of a plan
+107334374	a failure to hit (or meet or find etc)
+107334509	the becoming visible
+107334776	the emergence of a tooth as it breaks through the gum
+107334902	the event of being born
+107335222	the event of giving birth
+107335334	the birth of a living fetus (regardless of the length of gestation)
+107335494	the live birth of a child
+107335612	birth of a child by Caesarean section after the death of the mother
+107335742	birth of a child after the father has died
+107335847	a second or new birth
+107335987	the passing of a soul into another body after death
+107336117	(Hinduism) repeated rebirth in new forms
+107336257	(Hinduism) release from the cycle of rebirth
+107336372	the event of coming into sight
+107336567	the event of something appearing again
+107336738	(astronomy) the reappearance of a celestial body after an eclipse
+107336941	(astronomy) the disappearance of a celestial body prior to an eclipse
+107337150	(Christian theology) the reappearance of Jesus as judge for the Last Judgment
+107337369	an event that is substituted for a previously cancelled event
+107337624	an appearance in bodily form (as of a disembodied spirit)
+107337831	a clear appearance
+107338036	the appearance of a ghostlike figure
+107338205	a divine manifestation
+107338282	a visible (but not necessarily material) manifestation of a deity to a human person
+107338421	a manifestation of the mind and will of God
+107338522	an event that is a beginning; a first part or stage of subsequent events
+107338835	the origin of some development
+107338980	a coming into being
+107339102	becoming part of a venture at the beginning (regarded as position of advantage)
+107339273	the gradual beginning or coming forth
+107339517	a growth in strength or number or importance
+107339702	a sudden rise in the crime rate
+107339790	the beginning of anything
+107340239	the increase in activity of the adrenal glands just before puberty
+107340362	the first occurrence of menstruation in a woman
+107340464	the start of breast development in a woman at the beginning of puberty
+107340590	the beginning or early stages
+107340708	the earliest period
+107340862	a quick and auspicious beginning
+107340969	the first event in a series
+107341157	events that provide the generative force that is the origin of something
+107341480	a preceding occurrence or cause or event
+107341613	something that serves as a preceding event or introduces what follows
+107341888	(theology) the origination of the Holy Spirit at Pentecost
+107342208	the cause of a disease
+107342405	anything that contributes causally to a result
+107342658	any factor that could be considered important to the understanding of a particular business
+107342905	any factor that defines a system and determines (or limits) its performance
+107343036	a factor in a given situation whose bearing and importance is not apparent
+107343246	an unpredictable factor
+107343356	something that produces
+107343542	the event that occurred at the beginning of something
+107343769	the beginning of a series or sequence
+107343963	the first performance (as of a theatrical production)
+107344168	a start given to contestants
+107344337	the start of a race
+107344433	a racing start in which the contestants are already in full motion when they pass the starting line
+107344607	an event (or a course of events) that will inevitably happen in the future
+107344850	an unavoidable event
+107344962	(Hinduism and Buddhism) the effects of a person's actions that determine his destiny in his next incarnation
+107345160	(Islam) the will of Allah
+107345266	previous determination as if by destiny or fate
+107345428	total destruction
+107345613	the complete destruction of every trace of something
+107345810	serious weakening and loss of energy
+107346000	coming apart
+107346200	the spread of social institutions (and myths and skills) from one society to another
+107346359	spreading widely or driving off
+107346532	the dispersion of the Jews outside Israel; from the destruction of the temple in Jerusalem in 587-86 BC when they were exiled to Babylonia up to the present time
+107346748	breaking up and scattering by dispersion
+107346913	(pathology) the spread of pathogenic microorganisms or malignant cells to new sites in the body
+107347150	(physiology) the spread of sensory neural impulses in the cortex
+107347291	complete annihilation
+107347464	the death of Jesus by crucifixion
+107347556	a death resulting from an accident or a disaster
+107347762	the downfall of someone (as of persons on one side of a conflict)
+107347947	death that is imposed because of the person's adherence of a religious faith or cause
+107348106	the death of a million people
+107348249	euphemistic expressions for death
+107348571	a death that results from a wrongful act or from negligence; a death that can serve as the basis for a civil action for damages on behalf of the dead person's family or heirs
+107348806	an unpleasant or disastrous destiny
+107349090	an event (or the result of an event) that completely destroys something
+107349476	(usually plural) a destructive action
+107349697	the event of a structure being completely demolished and leveled
+107349843	an event that results in destruction
+107350014	an event that results in total destruction
+107350181	the destruction or collapse of something
+107350316	the event of passing out of sight
+107350517	the event of fading and gradually vanishing from sight
+107350704	a sudden or mysterious disappearance
+107350814	a slow or gradual disappearance
+107350946	ceasing to exist
+107351212	a stroke of ill fortune; a calamitous event
+107351363	something that causes or entails suffering
+107351599	a bad experience
+107351696	an unexpected and inexplicable change in something (in a situation or a person's behavior, etc.)
+107351990	an instance of change; the rate or magnitude of change
+107352294	a variation in circumstances or fortune at different times in your life or in the development of something
+107352535	(chemistry) variability in chemical composition without variation in crystalline form
+107352714	contact by fitting together
+107352958	a light sharp contact (usually with something flexible)
+107353152	the striking of one body against another
+107353281	an impact (as from a collision)
+107353570	a forceful impact that makes a loud noise
+107353698	a sudden jarring impact
+107353929	the physical coming together of two or more things
+107354253	loss of military equipment
+107354408	loss of military equipment in battle
+107354541	loss of military equipment in field operations
+107354694	a decrease of military personnel or equipment
+107354849	a casualty to military personnel resulting from combat
+107355053	a wound that would cause an English soldier to be sent home from service abroad
+107355192	a wound that does not damage important internal organs or shatter any bones
+107355325	military personnel lost by death or capture
+107355495	personnel that are sacrificed (e.g., surrendered or lost in order to gain an objective)
+107355638	a single complete execution of a periodically repeated phenomenon
+107355904	the complete cycle of events in the heart from the beginning of one heart beat to the beginning of the next; an electrical impulse conducted through the heart muscle that constricts the atria which is followed by constriction of the ventricles
+107356265	a cycle (of expansion and compression) of an idealized reversible heat engine that does work without loss of heat
+107356460	one complete cycle of operations (as by a computer)
+107356649	an event that repeats
+107356983	several repetitions of a melodic phrase in different keys
+107357095	a periodically repeated sequence of events
+107357372	a never-ending cycle of activities and events (especially when they seem to have little purpose)
+107357617	(Hinduism and Buddhism) the endless cycle of birth and suffering and death and rebirth
+107357795	something (especially a game) that is played again
+107357963	happening again (especially at regular intervals)
+107358174	a reappearance of an earlier characteristic
+107358313	an unexpected but vivid recurrence of a past experience (especially a recurrence of the effects of an hallucinogenic drug taken much earlier)
+107358510	the daily event of the sun rising above the horizon
+107358615	the daily event of the sun sinking below the horizon
+107358720	a broad and deep undulation of the ocean
+107358833	waves breaking on the shore
+107358968	the wave that spreads behind a boat as it moves forward
+107359128	the movement or sound of water
+107359263	a small wave on the surface of a liquid
+107359475	(physics) a wave that is hypothesized to propagate gravity and to travel at the speed of light
+107359666	a wave whose waveform resembles a sine curve
+107359766	(physics) a regular periodic variation in value about a mean
+107360041	(electronics) an oscillation of small amplitude imposed on top of a steady value
+107360193	(physics) a movement up and down or back and forth
+107360560	a small irregular movement
+107360657	a wave motion
+107360795	a wave on the surface of a lake or landlocked bay; caused by atmospheric or seismic disturbances
+107360944	(physics) a quantum of energy or quasiparticle that can be propagated as a traveling wave in nonlinear systems and is neither preceded nor followed by another such disturbance; does not obey the superposition principle and does not dissipate
+107361372	a wave (as a sound wave in a chamber or an electromagnetic wave in a transmission line) in which the ratio of its instantaneous amplitude at one point to that at any other point does not vary with time
+107361651	a wave in which the medium moves in the direction of propagation of the wave
+107361824	(acoustics) a wave that transmits sound
+107361973	a sound wave that is transmitted via air
+107362068	(physics) a short-lived oscillation in a system caused by a sudden change of voltage or current or load
+107362264	the shape of a wave illustrated graphically by plotting the values of the period quantity against time
+107362446	a region of high pressure travelling through a gas at a high velocity
+107362641	an explosive sound caused by the shock wave of an airplane traveling faster than the speed of sound
+107362858	the undulating movement of the surface of the open sea
+107362999	a wave that lifts the surface of the water or ground
+107363145	a large sea wave
+107363294	a wave resulting from the periodic flow of the tides that is caused by the gravitational attraction of the moon and sun
+107363470	an unusual (and often destructive) rise of water along the seashore caused by a storm or a combination of wind and high tide
+107363669	an overwhelming manifestation of some emotion or phenomenon
+107363899	a cataclysm resulting from a destructive sea wave caused by an earthquake or volcanic eruption
+107364132	a long heavy sea wave as it advances towards the shore
+107364279	motion that recurs over and over and the period of time required for each recurrence remains the same
+107364480	a periodic motion in which the displacement is either symmetrical about a point or is the sum of such motions
+107364669	(geology) a horizontal dislocation
+107364792	a movement back from an impact
+107365001	rebounding from an impact (or series of impacts)
+107365167	an occurrence of rebounding or springing back
+107365354	the backward jerk of a gun when it is fired
+107365493	the movement of a read/write head to a specific data track on a disk
+107365631	a twisting squeeze
+107365795	the maximum movement available to a pivoted or reciprocating piece by a cam
+107365980	the stroke of an engine piston moving away from the crankshaft
+107366097	the stroke of an engine piston moving toward the crankshaft
+107366212	a movement in a new direction
+107366509	a jerky pulling movement
+107366648	wavelike motion; a gentle rising and falling in the manner of waves
+107366790	one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)
+107367217	a long curling sea wave
+107367293	a wave that is blown by the wind so its crest is broken and appears white
+107367435	something that rises rapidly
+107367675	an accident that destroys a ship at sea
+107367832	(nautical) the event of a boat accidentally turning over in the water
+107367976	designated event that concludes a contest (especially a race)
+107368316	the finish of a contest in which the score is tied and the winner is undecided
+107368609	a tie in a race
+107368680	drawing position in chess: any of a player's possible moves would place his king in check
+107368843	in general, any very close finish; in particular, a finish of a race in which the contestants are so close together that the winner must be determined from a photograph taken at the instant of finishing
+107369104	a finish in second place (as in a race)
+107369228	a finish in third place (as in a race)
+107369331	a victory (as in a race or other competition)
+107369511	a finish in first place (as in a race)
+107369614	the ending of a series or sequence
+107369794	a change of religion
+107369947	conversion to Christianity
+107370091	the event of dying or departure from life
+107370487	a change downward
+107370866	a slow fall or decline (as for lack of strength)
+107371089	an event that causes a loss of equilibrium (as of a ship or aircraft)
+107371276	a change resulting in an increase
+107371570	a wearing down to weaken or destroy
+107371701	a change for the better
+107371853	a welcome relief
+107371988	a change for the better; progress in development
+107372279	the result of improving something
+107372466	(Christianity) the taking up of the body and soul of the Virgin Mary when her earthly life had ended
+107372660	alteration in the shape or dimensions of an object as a result of the application of stress to it
+107372977	(New Testament) the sudden emanation of radiance from the person of Jesus
+107373176	a change from one place or state or subject or stage to another
+107373368	an obvious change of public opinion or political sentiment that occurs without leadership or overt expression
+107373585	an abrupt transition
+107373784	a sudden large increase or advance
+107373977	(physics) an abrupt transition of an electron or atom or molecule from one quantum state to another with the emission or absorption of a quantum
+107374199	a qualitative change
+107374520	a change in the relative numbers of the different groups of individuals making up a population
+107374677	transformation of a substance produced by the action of heat
+107374811	a profound transformation
+107374893	(chemistry) a change directly from the solid to the gaseous state without becoming liquid
+107375077	the transformation of ordinary white tin into powdery grey tin at very cold temperatures
+107375247	an incident in which an infectious disease is transmitted
+107375441	an incident (real or imaginary)
+107375557	a subordinate incident of little importance relative to the main event
+107375728	a natural event caused by something suddenly falling down or caving in
+107376016	the sudden collapse of something into a hollow beneath it
+107376176	an event that causes someone to die
+107376317	an accident that causes someone to die
+107376463	(euphemism) inadvertent casualties and destruction inflicted on civilians in the course of military operations
+107376675	a stopping
+107376818	a gradual sinking to a lower level
+107376986	a free and rapid descent by the force of gravity
+107377299	the ideal falling motion of something subject only to a gravitational field
+107377430	movement downward resulting from gravitational attraction
+107377667	movement upward in virtue of lightness
+107377780	descent of the uterus into the pelvic cavity that occurs late in pregnancy; the fetus is said to have dropped
+107377946	a movement downward
+107378145	the descent of a heavenly body below the horizon
+107378268	a sudden downpour (as of tears or sparks etc) likened to a rain shower
+107378483	a descent as through liquid (especially through water)
+107378715	sinking until covered completely with water
+107379034	a brief immersion
+107379173	(of a ship) sinking
+107379300	an unsteady rocking motion
+107379451	an abnormal wobble in a motor vehicle (especially in the front wheels)
+107379624	a complete failure
+107379793	an event that fails badly or is totally ineffectual
+107380032	a sudden and violent collapse
+107380124	a sudden inward collapse
+107380273	the implosion of a star resulting from its own gravity; the result is a smaller and denser celestial object
+107380449	the event of something ending
+107380745	an interruption of normal activity
+107380889	a variation that deviates from the standard or norm
+107381227	an event that departs from expectations
+107381399	the deviation (by a vessel or aircraft) from its intended course due to drifting
+107381571	deviation from a straight or normal course
+107381691	something abnormal or anomalous
+107381831	something hideous or frightful
+107381985	an event that results in a displacement or discontinuity
+107382148	the occurrence of breaking
+107382308	a sudden breaking
+107382412	some abrupt occurrence that interrupts an ongoing activity
+107382730	something that makes repeated and regular interruptions or divisions
+107382856	an interruption in the intensity or amount of something
+107383082	abatement of a fever as indicated by a reduction in body temperature
+107383246	one celestial body obscures another
+107383477	the moon interrupts light from the sun
+107383593	the earth interrupts light shining on the moon
+107383699	only a thin outer disk of the sun can be seen
+107383806	an eclipse as seen from a place where the eclipsed body is completely obscured
+107383944	an eclipse in which the eclipsed body is only partially obscured
+107384070	the amount by which something increases
+107384204	making or becoming suitable; adjusting to circumstances
+107384522	initial adjustments to improve the functioning or the efficiency and to bring to a more satisfactory state
+107384725	a movement into or inward
+107384870	a movement downward
+107385010	an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)
+107385271	the event of something being raised upward
+107385568	an upward movement (especially a rhythmical rising and falling)
+107385768	the initial ascent of a rocket from its launching pad
+107385893	the sudden occurrence of an audible event
+107387165	an angry disturbance
+107387379	forward movement
+107387559	an annoying or frustrating or catastrophic event
+107387877	the occurrence of a uniting of separate parts
+107388081	union of sperm and egg in sexual reproduction
+107388202	an occurrence that involves the production of a union
+107388403	an occurrence that results in things being united
+107388752	(genetics) a combining of genes or characters different from what they were in the parents
+107388957	(physics) a combining of charges or transfer of electrons in a gas that results in the neutralization of ions; important for ions arising from the passage of high-energy particles
+107389233	combining into a solid mass
+107389356	an event that combines things in a mixture
+107389653	an occurrence of an unusual mixture
+107389814	an occurrence combining miscellaneous things into a (more or less) rounded mass
+107390005	an occurrence of thorough mixing
+107390125	a rapid rise
+107390235	the initial ascent of an airplane as it becomes airborne
+107390381	(geology) a rise of land to a higher elevation (as in the process of mountain building)
+107390608	the rise of something
+107390768	the cry made by sheep
+107390857	a sudden very loud noise
+107391054	a dull resonant sound as of a bell
+107391139	a continuing very loud noise
+107391221	the sound made by a dog
+107391331	a noise resembling the bark of a dog
+107391436	the sound of a hound on the scent
+107391537	the sound of stroke or blow
+107391682	a short high tone produced as a signal or warning
+107391844	the sound of a bell being struck
+107392073	a loud harsh or strident noise
+107392282	a deep prolonged loud noise
+107392531	the sound of sheep or goats (or any sound resembling this)
+107392659	the cry of an ass
+107392763	the bark of a dog
+107392834	sound of rapid vibration
+107393037	the sound made by a hen after laying an egg
+107393169	the yowling sound made by a cat in heat
+107393282	the sound made by corvine birds
+107393381	the high-pitched continuing noise made by animals (birds or monkeys)
+107393552	the rapid series of noises made by the parts of a machine
+107393694	the short weak cry of a young bird
+107393823	a short light metallic sound
+107394009	a sharp sound made by small birds or insects
+107394177	a series of chirps
+107394295	any utterance produced simultaneously by a group
+107394452	the dull explosive noise made by an engine
+107394563	a sharp abrupt noise as if two objects hit together; may be repeated
+107394744	a loud resonant repeating noise
+107395073	a rattling noise (often produced by rapid movement)
+107395286	a succession of clicks
+107395384	a fast and rhythmic click-clack
+107395534	the sound of a horse's hoofs hitting on a hard surface
+107395700	the sound made by a hen (as in calling her chicks)
+107395831	an imitation of the crow of a cock
+107395929	the sound made by a pigeon
+107396023	a sudden sharp noise
+107396278	the sharp sound of snapping noises
+107396464	a squeaking sound
+107396644	the crackling sound heard on auscultation when patients with respiratory diseases inhale; associated with tuberculosis and pneumonia and congestive heart failure
+107396886	the cry of a cock (or an imitation of it)

@@ -1,0 +1,1000 @@
+400131423	with regard to meaning
+400131535	in a limited manner
+400131610	with respect to language
+400131795	with respect to sociolinguistics
+400131928	with respect to the science of linguistics
+400132066	by comparing languages
+400132206	in financial matters
+400132327	in an algebraic manner
+400132437	in a polyphonic manner
+400132547	in a poetic manner
+400132646	by phonetics
+400132742	by phonemics
+400132870	as a person
+400132968	in the flesh; without involving anyone else
+400133132	concerning the speaker
+400133226	in a philosophic manner
+400133342	extremely
+400133483	with respect to pathology
+400133607	with respect to graphic aspects
+400133731	with unfortunate consequences
+400133851	in an optical manner
+400133950	with respect to vision
+400134031	in the viscera
+400134131	in the brain
+400134223	in an intellectual manner
+400134326	in a mystical manner
+400134423	with respect to biology
+400134529	with respect to sociobiology
+400134663	with respect to neurobiology
+400134797	with respect to biochemistry
+400134925	with respect to musicology
+400135013	with respect to moral principles
+400135104	with respect to the weather
+400135229	in a metaphysical manner
+400135342	in a metonymic manner
+400135423	with respect to melody
+400135537	with respect to harmony
+400135653	with respect to acoustics
+400135774	in an adulterous manner
+400135883	in a metaphorical manner
+400136008	in an allegorical manner
+400136124	by a particular locality
+400136228	to a restricted area of the body
+400136377	in a regional manner
+400136477	with regard to a nation taken as a whole
+400136606	with regard to a culture
+400136712	by race
+400136808	by a chorus
+400136898	below the skin
+400136998	with respect to the face
+400137077	with respect to syntax
+400137187	in the spine
+400137279	by sexual means
+400137371	with respect to sexuality
+400137473	by means of words
+400137571	without the use of words
+400137680	with respect to material aspects
+400137821	to a significant degree
+400137952	in a surgical manner; by means of surgery
+400138072	in a manner to produce an effect
+400138162	after the operation
+400138269	by means of a chromatographic process
+400138372	in an alternating sequence or position
+400138580	in a transverse manner
+400138725	in the order given
+400138870	in like or similar manner
+400139101	of secondary import
+400139220	of primary import
+400139421	with considerable certainty; without much doubt
+400139662	like a banner
+400139755	in a dramatic manner
+400139881	in an undramatic manner
+400139983	towards the shore from the water
+400140076	especially; in particular
+400140202	in an intensive manner
+400140318	in accordance with what is appropriate or suitable for the circumstances
+400140793	in an inappropriate manner
+400140964	in an inalienable manner
+400141083	away from shore; away from land
+400141202	on or toward the land
+400141305	by three orders of magnitude
+400141437	according to nature; by natural means; without artificial help
+400141600	not according to nature; not by natural means
+400141793	having a rapid onset
+400141918	in a slowly developing and long lasting manner
+400142067	in a habitual and longstanding manner
+400142180	in a contradictory manner
+400142296	in an electrostatic manner
+400142439	in an episodic manner
+400142519	in a feverish manner
+400142621	in a feudal manner
+400142726	in, at, or toward the front
+400142809	with respect to geometry
+400142936	by a glacier
+400143036	in a glaring manner
+400143139	with respect to gravitation
+400143261	in a guttural manner
+400143364	by means of hieroglyphs
+400143478	in a homeostatic manner
+400143610	by means of horticulture
+400143696	in the manner of human beings
+400143799	in an imperial manner
+400143899	by incest
+400143993	to an inconceivable degree
+400144102	in an insistent manner
+400144182	by an institution
+400144291	in a judicial manner
+400144401	in a nasal manner
+400144491	at night
+400144584	in a rural manner
+400144655	in a spherical manner
+400144756	in a superficial manner
+400144874	in or with syllables
+400144980	in a monosyllabic manner
+400145067	in a polysyllabic manner
+400145154	by symptoms
+400145227	peripherally
+400145328	by or like volcanoes
+400145441	for a short time
+400145622	in a wicked evil manner
+400145758	definitely or positively (sure' is sometimes used informally for surely')
+400146264	in a surprising manner
+400146377	by means of technology
+400146491	by temperament
+400146607	to a sufficient degree
+400146749	as much as necessary
+400146890	to an insufficient degree
+400147028	without hesitation
+400147156	with hesitation; in a hesitant manner
+400147317	from that time on
+400147423	at any time
+400147536	intentionally so written (used after a printed word or phrase)
+400147630	to a very great extent or degree
+400147799	(usually followed by that') to an extent or degree as expressed
+400147962	in such a condition or manner, especially as expressed or implied
+400148162	to a certain unspecified extent or degree
+400148308	in the same way; also
+400148422	to so extreme a degree
+400148538	in all ways possible
+400148633	clasping each other's hands
+400148729	at a tremendous rate
+400148821	with no difficulty
+400148912	with ease (easy' is sometimes used informally for easily')
+400149175	in a relaxed manner; or without hardship
+400149387	under control
+400149480	out of control
+400149598	from some points of view
+400149685	as a fact or based on fact
+400149927	in reality or actuality
+400150196	used to imply that one would expect the fact to be the opposite of that stated; surprisingly
+400150568	in actual fact
+400150802	as a sentence modifier to add slight emphasis
+400151061	at the present moment
+400151192	admittedly
+400151301	as supposed or expected
+400151409	an interjection expressing agreement
+400151490	in entirety
+400151616	to any extent at all
+400151729	above and beyond all other consideration
+400151882	while absent; although absent
+400151983	including all
+400152098	to some extent; not very well
+400152207	emphasizes something to be considered
+400152363	in spite of expectations
+400152484	not during regular hours
+400152579	as fast as possible; before a deadline
+400152713	in an advantageous position
+400152813	with everything considered (and neglecting details)
+400153015	without warning
+400153124	to the goal
+400153231	not stopping short of sexual intercourse
+400153344	completely
+400153403	an expression of emphatic agreement
+400153498	and considerably more in addition
+400153617	without stopping
+400153742	what is listed next
+400153834	as if it were really so
+400153940	in a manner of speaking
+400154056	by the shortest and most direct route
+400154174	regardless of the cost involved
+400154319	simultaneously
+400154430	as one chooses or pleases
+400154531	structurally open and not compact or close
+400154701	taking care or paying attention
+400154814	in a careful deliberate manner
+400154998	in a careless and thoughtless manner
+400155110	with excitement; in an excited manner
+400155235	in a vociferous manner
+400155346	with safety; in a safe manner
+400155440	according to what has been alleged
+400155582	believed or reputed to be the case
+400155669	in an illegal manner
+400155858	in an original manner
+400155936	in an unoriginal manner
+400156018	in mental comfort; without stress
+400156153	in physical comfort
+400156320	in physical discomfort
+400156476	by a great deal
+400156621	at some eventual time in the future
+400156754	usually; as a rule
+400156898	in any way necessary; by any possible means
+400157034	by committing to memory
+400157136	by a short distance
+400157258	intermittently
+400157363	introducing a different topic
+400157510	one piece at a time
+400157619	by spoken rather than written means
+400157777	(of drugs) through the mouth rather than through injection; by mouth
+400157956	in spite of all obstacles
+400158123	without respite
+400158237	exactly ahead or in front
+400158333	without betraying any feeling
+400158427	all together
+400158535	occasionally
+400158651	in every way; completely
+400158747	so as to be complete; with everything necessary
+400158934	not to a full degree or extent
+400159090	without anybody else or anything else
+400159313	taking everything together
+400159432	indicating exactness or preciseness
+400159774	for a relatively small amount of money
+400159924	as though your life was at stake
+400160030	to be won or lost; at risk
+400160135	in question or at issue
+400160239	as an example
+400160349	in addition (as to close a deal)
+400160483	for the winner to keep all
+400160572	under any circumstances
+400160743	as a particular one of several possibilities
+400160889	as an abbreviation
+400160970	on the occasion of a request
+400161088	from the beginning, especially without relying on resources or other advantages
+400161285	written formula for ending a letter
+400161376	since long ago
+400161487	nearly opposite to the direction from which wind is coming
+400161639	in a close relation or position in time or space
+400161858	in a close manner
+400162033	in a relative manner; by comparison to something else
+400162217	much greater in number or influence
+400162392	without much difficulty
+400162493	in a clearly noticeable manner
+400162619	so as to be palpable
+400162722	in a crude or unrefined manner
+400162829	without speed (slow' is sometimes used informally for slowly')
+400163131	in a manner accessible to or observable by the public; openly
+400163336	kept private or confined to those intimately concerned
+400163672	not openly; inwardly
+400163844	by a private person or interest
+400163964	by the public or the people generally
+400164137	by a group of people rather than an individual
+400164275	in a reproving or reproachful manner
+400164435	in a gay manner
+400164539	in close cooperation
+400164679	in close proximity
+400164789	haphazardly
+400164903	in disorderly haste
+400165080	in a feckless manner; irresponsibly and incompetently
+400165190	in a wild or reckless manner
+400165349	without care or concern
+400165552	with complete faith
+400165665	in every detail
+400165777	without making progress
+400165875	absolutely not; never
+400165958	if there happens to be need
+400166097	lacking warmth of feeling; in a cold, unemotional manner
+400166233	in a serious manner
+400166484	at the appropriate time
+400166660	proceeding with full vigor
+400166776	with something of the same kind
+400166891	one behind another in a line or queue
+400167003	by title or repute though not in fact
+400167121	in a relatively short time
+400167240	for an extended time or at a distant time
+400167533	for an extended distance
+400167590	incidentally; in the course of doing something else
+400167727	in secrecy; not openly
+400167994	with the inside facing outward
+400168098	thoroughly; from every perspective
+400168205	on everybody's mind
+400168316	before now
+400168477	eventually or after a lengthy period of time
+400168591	at the last possible moment
+400168718	almost simultaneously
+400168839	without being tardy
+400168943	to no avail
+400169098	without success
+400169253	in a careful manner
+400169345	without delay
+400169451	with regularity and precision
+400169587	(informal) with great speed or effort or intensity; used for emphasis
+400169954	used ironically to indicate the opposite of what is stated
+400170122	not intended seriously; meant as a joke
+400170319	on and on for a long time
+400170405	not regularly
+400170506	without preparation
+400170623	in a confidential manner
+400170754	not for quotation
+400170857	on hands and knees
+400170970	typically
+400171080	for examination (with an option to buy)
+400171192	with trust and confidence
+400171282	by hypothesis
+400171356	in theory; according to the assumed facts
+400171499	in a theoretical manner
+400171643	in an opposite position
+400171723	contrary to expectations
+400171925	on the run or in a hurry
+400172037	while in motion
+400172124	without delay or immediately
+400172276	at the place in question; there
+400172436	in a difficult situation
+400172544	on impulse; without premeditation
+400172731	on a route to some place
+400172866	at the expected or proper time
+400172975	without warning
+400173105	of unwed parents
+400173213	in a manner that uses the most flattering or best aspects of
+400173363	without exception
+400173452	in every detail
+400173583	prior to the present time
+400173693	to specification
+400173780	with force and ferocity
+400173875	with that general meaning
+400173980	in full
+400174073	because of prevailing conditions
+400174207	toward the mouth or oral region
+400174307	away from the mouth or oral region
+400174412	in a courageous manner
+400174563	from on board a vessel into the water
+400174678	in or toward the northern parts of a state
+400174785	to a great depth psychologically or emotionally
+400174984	with impatience; in an impatient manner
+400175130	with patience; in a patient manner
+400175276	in a tense manner
+400175370	in a methodical manner
+400175478	without seeing or looking
+400175592	in an apologetic manner
+400175718	in an unsteady manner
+400175977	in a steady manner
+400176109	in a haughty manner
+400176221	to an extreme or greatly exaggerated degree
+400176356	in a wild or undomesticated manner
+400176473	with violent and uncontrollable passion
+400176621	in an uncontrolled or unrestrained manner
+400176741	without hope
+400176830	in a stupid manner
+400176976	so as to be unique
+400177127	in a symmetrical manner
+400177264	in an asymmetrical manner
+400177405	in an inverse or contrary manner
+400177625	in a creative manner
+400177739	far from the center
+400177869	to a considerable degree
+400178004	indulging excessively
+400178140	in a labored manner
+400178236	indulging with temperance
+400178366	several time
+400178467	repeatedly
+400178660	inflexibly; unshakably
+400178775	with strength or in a strong manner
+400178969	in a weak or feeble manner or to a minor degree
+400179172	with the order reversed
+400179304	gradually and progressively
+400179412	for an indefinite number of successive days
+400179514	for an indefinite number of successive weeks
+400179602	weekly
+400179699	for an indefinite number of months
+400179828	in a radical manner
+400179946	by religion
+400180072	with extreme conscientiousness
+400180279	to an exceptional degree
+400180395	sufficiently; more than adequately
+400180598	restricted to something
+400180698	in a tentative manner
+400180819	otherwise stated
+400180928	in a relaxed manner; not rigid
+400181065	in a fussy manner
+400181163	without any necessity
+400181293	in a graceful manner
+400181414	in a graceless manner
+400181543	with neatness
+400181654	to a slight degree
+400181765	with little weight or force
+400181906	in proper order or sequence
+400182097	on your own; without outside help
+400182242	not taken into account or excluded from consideration
+400182430	into parts or pieces
+400182561	separated or at a distance in place or position or time
+400182739	one from the other
+400182828	as soon as
+400182904	according to need (physicians use PRN in writing prescriptions)
+400183062	in a gradual manner
+400183162	in a place across an ocean
+400183234	with vigor; in a vigorous manner
+400183387	clear to the mind; with distinct mental discernment
+400183580	in the living organism
+400183685	extremely
+400183802	extremely well
+400184008	in a levelheaded manner
+400184128	in a hilarious manner
+400184261	in a considerate manner
+400184393	without consideration; in an inconsiderate manner
+400184576	(used as an intensifier) extremely well
+400184950	in a gratifying manner
+400185098	flawlessly
+400185202	in a bland manner
+400185309	in a grave and sober manner
+400185484	in a helpful manner
+400185617	in an unhelpful manner
+400185770	as acknowledged
+400185898	in a preferential manner
+400186016	in a rational manner
+400186137	in an irrational manner
+400186264	in a critical manner
+400186395	in an uncritical manner
+400186537	with boldness, in a bold manner
+400186658	with competence; in a competent capable manner
+400186886	in an incompetent manner
+400187053	with regard to emotions
+400187156	in an emotional manner
+400187293	without emotion; devoid of emotion
+400187482	with anxiety or apprehension
+400187654	in a stiff manner
+400187758	without formality
+400187878	in a formal manner
+400188003	with official authorization
+400188156	in an irritable manner
+400188268	with self-possession (especially in times of stress)
+400188416	without emotional agitation
+400188540	in a nice way
+400188632	in a cozy manner
+400188740	in a corresponding manner
+400188854	in a studious manner
+400188967	in a clever manner
+400189129	in a rich and lavish manner
+400189276	toward or in the upper part of town
+400189364	toward or in the lower or central part of town
+400189465	especially fortunate
+400189569	it would be sensible
+400189649	in a most excellent way or manner
+400189760	in a theatrical manner
+400189865	with respect to dramatic value
+400190022	as follows
+400190112	in a similar way
+400190181	among the people
+400190291	with enthusiasm; in an enthusiastic manner
+400190462	without enthusiasm; showing no enthusiasm
+400190641	in an intellectual manner
+400190790	with pretense or intention to deceive
+400190913	some unspecified time in the future
+400191026	in an exaggerated manner
+400191127	in a nimble or agile manner; with quickness and lightness and ease
+400191358	with pride; in a proud manner
+400191472	in a grave and sedate manner
+400191587	by divine means
+400191723	by some means not understood by the speaker
+400191871	in a clumsy manner
+400191978	in a diffuse manner
+400192093	in an irregular manner
+400192221	in coarse pieces
+400192349	in tiny pieces
+400192471	to a high degree; extremely; in high concentration or density
+400192665	and elsewhere (used when referring to other occurrences in a text)
+400192785	and others ('et al.' is used as an abbreviation of et alii' (masculine plural) or et aliae' (feminine plural) or et alia' (neuter plural) when referring to a number of people)
+400193074	compare (used in texts to point the reader to another location in the text)
+400193186	that is to say; in other words
+400193263	at every point
+400193383	in a reflexive manner; by means of reflexes
+400193599	in a spontaneous manner
+400193717	with respect to the sympathetic nervous system
+400193863	in a sympathetic manner
+400194040	without sympathy; in an unsympathetic manner
+400194221	in a convincing manner
+400194346	in an unconvincing manner
+400194478	in a weird manner
+400194576	in a compassionate manner
+400194696	in a stealthy manner
+400194810	in a manner characteristic of a thief
+400194904	no longer on or in contact or attached
+400195026	fitting closely
+400195117	safely protected
+400195221	warmly and comfortably sheltered
+400195362	so as to be visible
+400195469	within the realm of possibility
+400195596	in a striking manner
+400195747	in a meticulous manner
+400195866	in a gracious or graceful manner
+400196072	without grace; rigidly
+400196288	in a rigid manner
+400196447	in an awkward manner
+400196544	in a bewildered manner
+400196625	in a triumphant manner
+400196734	everywhere
+400196820	in an ideal manner
+400196934	in a mistaken or erroneous manner
+400197085	in a childlike manner
+400197191	without need
+400197312	in a tantalizing manner
+400197461	in an improper way
+400197608	in the right manner; correctly; suitably
+400197829	with attention; in an attentive manner
+400197952	extremely
+400198104	in a generous manner
+400198286	freely in a nonliteral manner
+400198411	without effort or apparent effort
+400198594	according to the clock
+400198687	thoroughly (including all important particulars)
+400198807	in a convenient manner
+400198991	in an inconvenient manner
+400199140	in collaboration or cooperation
+400199241	in concrete terms
+400199377	in abstract terms
+400199469	over the entire area
+400199662	in a kinesthetic manner; by means of kinesthesia
+400199833	by touch
+400199961	with convulsions, in a convulsive way
+400200090	in a rebellious manner
+400200274	in a stubborn unregenerate manner
+400200566	in a wrongheaded manner
+400200649	showing effects of much strong drink
+400200762	with a raucous sound
+400200866	in a victorious manner
+400200994	in fear
+400201116	without fear
+400201311	let us be thankful that
+400201415	in a thankful manner; with thanks
+400201575	it is hoped
+400201672	with hope; in a hopeful manner
+400201821	without hope; desperate because there seems no possibility of comfort or success
+400202043	in a hopeless manner
+400202206	with eagerness; in an eager manner
+400202356	according to reports or other information
+400202504	with malice; in a malicious manner
+400202624	in a vicious manner
+400202768	with spite; in a spiteful manner
+400202896	wildly; like an animal
+400202999	in a wise manner
+400203162	without good sense or judgment
+400203322	vacuously or complacently and unconsciously foolish
+400203457	in an intelligent manner
+400203614	in an unintelligent manner
+400203770	in an intelligible manner
+400203983	in an unintelligible manner
+400204147	by means of aircraft
+400204261	in alphabetical order
+400204383	in an aristocratic manner
+400204504	in an autocratic manner
+400204629	with diplomacy; in a diplomatic manner
+400204781	without diplomacy; in an undiplomatic manner
+400204954	with respect to socioeconomic factors
+400205095	in a resolute manner
+400205211	to an indefinite extent; for an indefinite time
+400205350	in an accurate manner
+400205553	in an inaccurate manner
+400205818	in an inaccessible manner
+400205951	with few mistakes
+400206071	in an inaccurate manner
+400206226	strictly correctly
+400206334	without justice or fairness
+400206480	precisely, exactly
+400206553	in accordance with moral or social standards
+400206702	with honesty
+400206888	in an unjust manner
+400207026	in a charitable manner
+400207135	without aim; in an aimless manner
+400207256	in a sluggish manner
+400207362	in a trustful manner
+400207471	without light
+400207598	in a dark glowering menacing manner
+400207713	away from the right path or direction
+400207806	in a hurried or hasty manner
+400208076	without haste
+400208194	without delay; speedily
+400208339	in a restless manner
+400208454	from a financial point of view
+400208579	from a psychic point of view
+400208693	on this day as distinct from yesterday or tomorrow
+400208808	in an ornamental, nonfunctional manner
+400208905	in an ornate manner
+400208995	apart from others
+400209272	in a binaural manner
+400209438	in a monaural manner
+400209600	in a busy manner
+400209717	in a prominent way
+400209884	by necessity
+400210099	in a helpless manner
+400210243	with imagination
+400210382	without imagination
+400210536	in a bewildering and confusing manner
+400210690	with gusto and without reservation
+400210827	without shame
+400211063	in a monolingual manner
+400211183	with passion
+400211285	in a spectacular manner
+400211436	with understanding
+400211546	in a soulful manner
+400211651	in a satirical manner
+400211755	with no problems or difficulties
+400211960	in a free manner
+400212077	according to habit or custom
+400212244	according to routine or established practice
+400212370	by custom; according to common practice
+400212529	in a humiliating manner
+400212695	in a protective manner
+400212815	in a spiritual manner
+400212949	in a well delineated manner
+400213113	in a dim indistinct manner
+400213262	with a dim light
+400213360	without possibility of mistake
+400213506	with determination; in a determined manner
+400213709	of a minor or subordinate nature
+400213902	(intensifier for adjectives) very
+400214025	with confidence; in a confident manner
+400214164	after the fact
+400214272	in a sporadic manner
+400214414	in a halting manner
+400214493	in equal parts
+400214599	in an amazing manner; to everyone's surprise
+400214822	in an impressive manner
+400214998	in an unimpressive manner
+400215173	in a productive way
+400215382	in an unproductive manner
+400215587	in an expert manner
+400215731	in an amateurish manner
+400215852	in an abundant manner
+400216059	in an interesting manner
+400216240	in an uninteresting manner
+400216346	in a tedious manner
+400216535	with moderation; in a moderate manner
+400216671	without moderation; in an immoderate manner
+400216815	in a realistic manner
+400216959	in an unrealistic manner
+400217109	with good sense or in a reasonable or intelligent manner
+400217398	not in a reasonable or intelligent manner
+400217576	proceeding in steps
+400217685	in a stolid manner
+400217783	to the maximum degree
+400218072	in a petulant manner
+400218268	showing consideration and thoughtfulness
+400218444	showing thoughtlessness
+400218585	in a thoughtful manner
+400218725	in a thoughtless manner
+400218914	in an auspicious manner
+400219120	in an inauspicious manner
+400219337	in a relentless manner
+400219478	in a rueful manner
+400219659	with the front foremost
+400219747	in direct opposition; directly
+400219849	in an inexorable manner
+400219959	in a polite manner
+400220161	in an impolite manner
+400220366	in an admirable manner
+400220590	in an enjoyable manner
+400220805	in a cheerful manner
+400220983	in an unpleasant manner
+400221121	in an inverted manner
+400221228	in a breathless manner
+400221335	in a hearty manner
+400221532	in an affable manner
+400221703	with laughter; while laughing
+400221803	in an ambiguous manner
+400221970	in an unambiguous manner
+400222149	in a ceremonial manner
+400222304	in an unceremonious manner
+400222446	in a ceremonious manner
+400222610	in a rakish manner
+400222767	in a carefree manner
+400222909	in a narrow manner; not allowing for exceptions
+400223063	without regard to specific details or exceptions
+400223275	in a wide fashion
+400223367	doing twirls
+400223465	in or to or toward the rear
+400223660	remaining in a place or condition that has been left or departed from
+400223959	in debt
+400224193	in or into an inferior position
+400224359	of timepieces
+400224480	by right
+400224618	by title vested in yourself or by virtue of qualifications that you have achieved
+400225012	in a faithful manner
+400225252	in an unfaithful undependable unreliable manner
+400225476	in a violent manner
+400225596	without violence
+400225764	(of the elements) in a wild and stormy manner
+400225897	in an impassioned or very angry manner
+400226035	in a manner marked by extreme or violent energy
+400226219	alternately upward and downward
+400226317	in a secure manner; in a manner free from danger
+400226460	in a wry manner
+400226558	continuing forever without end
+400226736	with a finite limit
+400226881	without bounds
+400227027	in a rigorous manner
+400227180	in a plastic manner
+400227289	in a boastful manner
+400227422	in a major way
+400227509	on a grand scale
+400227588	on a small scale
+400227671	extremely well
+400227750	in a wary manner
+400227874	without heed or caution
+400227970	in bodily form
+400228075	throughout a period of time
+400228167	at or to a point across intervening space etc.
+400228294	throughout an area
+400228375	beyond the top or upper surface or edge; forward from an upright position
+400228507	by means of an editorial
+400228639	in actual fact
+400228787	in an abnormal manner
+400228939	with anger
+400229039	in an exultant manner
+400229174	in a sedulous manner
+400229297	in a tenuous manner
+400229434	in a perennial manner; repeatedly
+400229584	everlastingly; for all time
+400229728	in an anachronistic manner
+400229869	with ineptitude; in an incompetent manner
+400230033	in an infelicitous manner
+400230162	in a very pleasurable manner
+400230340	in your mind
+400230431	in a round manner
+400230526	in a shy or timid or bashful manner
+400230690	with fondness; with love
+400230832	in bed
+400230871	with much noise or loud and unpleasant sound
+400231015	with little or no sound
+400231184	with little or no activity or no agitation (quiet' is a nonstandard variant for quietly')
+400231477	with agitation or turbulence
+400231579	without qualification or limitation
+400231674	in outward appearance
+400231805	with respect to private feelings
+400231947	with respect to the outside
+400232060	showing approval
+400232197	showing disapproval; in a disparaging way
+400232365	in a cheerful manner
+400232493	in an unhappy manner
+400232612	smoothly and without difficulty; precisely and deftly
+400232867	with strength and soundness
+400232973	in a square position
+400233065	as an undiversified whole
+400233186	in a dry laconic manner
+400233351	in accommodation
+400233496	out of your own free will
+400233647	against your will
+400233788	without making errors
+400233903	with respect to geography
+400234045	with gloom
+400234156	excessively
+400234230	with cruelty
+400234331	in a vague way
+400234475	in a pompous manner
+400234593	away from home
+400234667	from a particular thing or place or position (forth' is obsolete)
+400235026	from one's possession
+400235144	moving or appearing to move away from a place, especially one that is enclosed or hidden
+400235303	motivated by
+400235417	in reserve; not for immediate use
+400235622	on or to one side
+400235782	out of the way (especially away from one's thoughts)
+400235931	placed or kept separate and distinct as for a purpose
+400236119	away from another or others
+400236283	out of existence
+400236477	indicating continuing action; continuously or steadily
+400236681	in a different direction
+400236800	in or into a proper place (especially for storage or safekeeping)
+400236984	at a distance in space or time
+400237168	so as to be removed or gotten rid of
+400237300	freely or at will
+400237364	in a series; point by point
+400237428	with obstinate determination
+400237570	with efficiency; in an efficient manner
+400237747	in an inefficient manner
+400237891	in a discordant manner
+400238021	without liveliness
+400238120	without luster or shine
+400238273	without losing equilibrium
+400238395	without tonality
+400238490	in a charming manner
+400238567	in an engaging manner
+400238709	in a tragic manner; with tragic consequences
+400238879	in a fascinating manner
+400239005	in a curvaceous way
+400239150	in an ominous manner
+400239256	in a restive manner
+400239363	with full knowledge and deliberation
+400239560	without knowledge or intention
+400239791	(law) deliberately or knowingly
+400239896	with equanimity
+400240008	in a compassionate manner
+400240144	with superficial plausibility
+400240256	in a callous way
+400240401	with good reason
+400240521	without any excuse
+400240685	in motion; set in motion
+400240791	on foot; walking
+400240942	with modesty; in a modest manner
+400241129	without modesty; in an immodest manner
+400241299	with a frown; while frowning
+400241415	incapable of being resisted
+400241635	to or from every one of two or more (considered individually)
+400241809	at or in or to the adjacent residence
+400241992	by virtue of analysis
+400242166	(formal) in or into that thing or place
+400242324	in a lawless rebellious manner
+400242413	in a crooked lopsided manner
+400242552	with sternness; in a severe manner
+400242731	with suspicion
+400242842	in an authoritative and magisterial manner
+400243009	showing firm determination or purpose
+400243216	lacking determination or decisiveness
+400243330	with speculation; in a speculative manner
+400243465	in a beautiful manner
+400243631	in an unattractive manner
+400243780	in a sullen manner
+400243937	with hostility; in a belligerent hostile manner
+400244122	with awareness
+400244269	without awareness
+400244420	with green color
+400244545	in an unconcerned manner
+400244694	in a commensal manner
+400244773	in competition
+400244907	in a noncompetitive manner
+400245067	in a compulsive manner
+400245268	with respect to structure
+400245397	in a southern direction
+400245502	in a northern direction
+400245660	without official authorization
+400245801	during or for the length of one night
+400245908	happening in a short time or with great speed
+400246037	without having a choice
+400246100	in a believable manner
+400246246	in an unbelievable manner
+400246377	under the feet
+400246494	in the way and hindering progress
+400246625	together
+400246764	with the feet foremost
+400246861	in a physically fierce manner
+400247047	in an emotionally fierce manner
+400247175	from the subconscious mind
+400247302	in a vivid manner
+400247412	in an artful manner
+400247536	in an expectant manner
+400247649	in a healthy manner
+400247755	(used for emphasis) absolutely
+400247934	by ten times as much
+400248026	in a quantitative manner
+400248151	as written or printed
+400248281	in a very impressive manner
+400248413	in the manner of Greek and Roman culture
+400248563	in an obscure manner
+400248673	in a decent manner
+400248805	in an indecent manner
+400248938	in a horrifying manner
+400249046	in characteristic manner
+400249191	in uncharacteristic manner
+400249338	deliberately deviant
+400249448	in a contrary disobedient manner
+400249583	in a dialectic manner
+400249728	in a prophetic manner
+400249854	in an artistic manner
+400249967	uniquely or characteristically
+400250244	specifically or especially distinguished from others
+400250522	as a matter of instinct
+400250643	on or from the inside
+400250779	on or from the outside
+400250926	above the head; over the head
+400251028	at some distance
+400251120	above your head; in the sky
+400251215	on first or second or third base
+400251347	on a ship, train, plane or other vehicle
+400251433	part of a group
+400251525	side by side
+400251622	in a uniform manner
+400251727	to a high degree
+400251832	in an enduring manner
+400251953	alongside each other, facing in the same direction
+400252039	by the year; every year (usually with reference to a sum of money paid or received)
+400252267	one every day
+400252367	in between
+400252456	for one specific case
+400252542	to a sickening extent
+400252635	in proportion to the estimated value of the goods taxed
+400252773	before noon
+400252877	between noon and midnight
+400252994	derived from observed facts
+400253080	derived by logic, without observed facts
+400253175	at all points from head to foot
+400253289	by law; conforming to the law
+400253459	not conforming to the law
+400253591	in respect to jurisprudence or the science or philosophy of law
+400253718	quietly in concealment
+400253817	in ordinary language
+400253874	in a casual way at home
+400253968	by virtue of position
+400254098	for the standard number of hours
+400254209	for less than the standard number of hours
+400254352	so as to involve two sides or parts
+400254445	with the involvement of two parties or governments
+400254597	in a unilateral manner; by means of one part or party
+400254786	in a multilateral manner;so as to affect many parties or governments
+400254978	in a blatant manner
+400255089	as completely as possible
+400255193	in an overly sweet manner
+400255274	make a telephone call or mail a package so that the recipient pays
+400255418	collecting the charges upon delivery
+400255539	in a direction opposite to the direction in which the hands of a clock move
+400255756	in a counterintuitive manner
+400255849	in the direction that the hands of a clock move
+400256007	to a degree resembling death
+400256094	prominently forward
+400256191	every two weeks
+400256331	twice a week
+400256458	occurring once a month
+400256555	every two months
+400256661	twice a month
+400256795	twice a year
+400256895	at half the distance; at the middle
+400257022	all other things being equal
+400257094	(formal) by means of this
+400257221	in a hierarchical manner
+400257334	in a disordered manner
+400257456	in the same place (used when citing a reference)
+400257553	in place of the parents
+400257669	in the original or natural place or site
+400257824	in position
+400257871	among other things
+400257990	by the fact itself
+400258092	(used when listing or enumerating items) also
+400258220	plus or minus a small amount
+400258344	with the necessary changes having been carried out
+400258439	to a degree of excellence
+400258553	used in legal language
+400258633	used to refer to cited works
+400258709	for the time being; temporarily
+400258865	without a date fixed (as of an adjournment)
+400258945	in an undertone
+400259032	in secret or covertly
+400259144	one behind the other
+400259294	three times
+400259374	using exactly the same words
+400259491	by ordering items listed individually on a menu
+400259598	orally
+400259685	without payment
+400259792	towards or into the interior of a region
+400259900	toward the shore
+400259981	toward the center or interior
+400260109	toward the outside
+400260228	up to the knees
+400260336	up to the breast
+400260451	not recorded
+400260528	comparatives of soon' or early'
+400260674	at the point of death
+400260735	the middle or central part or point
+400260899	without preparation
+400261005	not in public
+400261085	behind the scenes; not on stage
+400261207	on the stage
+400261310	overtime without extra compensation
+400261426	beyond the regular time
+400261520	by necessity; by force of circumstance
+400261595	as fast as possible; with all possible haste
+400261706	at first sight
+400261760	in a set manner without serious attention; as a formality
+400261963	in proportion
+400262049	without paying rent
+400262135	on a large scale without careful discrimination
+400262266	free from harm or penalty
+400262350	toward the sky
+400262429	in a specified area or place
+400262533	in an adverse manner
+400262662	in a tasteful way
+400262820	in a very painful manner
+400263006	to an appalling extent
+400263125	in an appealing manner
+400263256	in an unappealing manner
+400263397	in an approving manner
+400263521	showing disapproval
+400263637	with ambition; in an ambitious and energetic manner
+400263834	in an unambitious manner
+400263983	in an amicable manner
+400264086	without giving a name
+400264204	below cost
+400264278	off the subject; beyond the point at issue
+400264402	in or into a field (especially a field of battle)
+400264611	far away from home or one's usual surroundings
+400264754	in an animated manner
+400264858	in a casually inconsiderate manner
+400265088	without previous thought or preparation
+400265324	not methodically or according to plan
+400265458	at or toward the rear of the stage
+400265610	at or toward the front of the stage
+400265770	in a hopeless resigned manner
+400265906	in an unfruitful manner
+400265986	in a sparing manner; without overindulgence
+400266190	in a manner difficult to understand
+400266358	with increasing speed
+400266490	slowly
+400266597	by or for an administrator
+400266729	in an adorable manner
+400266869	in an antagonistic manner
+400267010	in an anterior direction

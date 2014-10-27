@@ -1,0 +1,1000 @@
+113107316	a crop (other than fruits or vegetables) that is grown for agricultural purposes
+113107513	the yield of fruit
+113107668	any part of a plant or fungus
+113108385	a functional and structural unit of a plant or fungus
+113108856	a natural projection or outgrowth from a plant body or organ
+113109220	(botany) a natural swelling or enlargement: at the base of the stalk or seta in certain mosses or on the cone scale of certain conifers
+113109448	(botany) an isolated thickening of tissue, especially a stiff protuberance on the lip of an orchid
+113109618	(botany) a swelling on a plant similar to that on the skin
+113109749	small rounded wartlike protuberance on a plant
+113109895	tubular extension at the base of the corolla in some flowers
+113110006	an organ specialized for producing spores
+113110179	a stiff sharp-pointed plant process
+113110286	a tapering point
+113110391	a small sharp-pointed tip resembling a spike on a stem or leaf
+113110662	a barbed spine or bristle (often tufted on cacti)
+113110778	a thorny stem or twig
+113110851	filamentous hairlike growth on a plant
+113111008	a multicellular hair in plants like the stinging nettle that expels an irritating fluid
+113111155	(botany) a usually terminal tuft of bracts (as in the pineapple) or tuft of hairs (especially on certain seeds)
+113111354	a tuft or growth of hairs or bristles on certain plants such as iris or grasses
+113111503	slender bristlelike appendage found on the bracts of grasses
+113111631	fleshy and usually brightly colored cover of some seeds that develops from the ovule stalk and partially or entirely envelops the seed
+113111816	a continuous tube formed by a row of elongated cells lacking intervening end walls
+113111986	a plant duct containing latex
+113112071	the male sex organ of spore-producing plants; produces antherozoids; equivalent to the anther in flowers
+113112251	gametophore bearing antheridia as in certain mosses and liverworts
+113112379	leaf in ferns and mosses that bears the sporangia
+113112533	organ containing or producing spores
+113112741	stalk bearing one or more sporangia
+113112837	saclike structure in which ascospores are formed through sexual reproduction of ascomycetes
+113112999	sexually produced fungal spore formed within an ascus
+113113144	one of a string of thick walled vegetative resting cells formed by some algae and fungi
+113113307	a body that resembles a spore but is not an endospore; produced by some bacteria
+113113481	a case or sheath especially a pollen sac or moss capsule
+113113595	a sterile simple or branched filament or hair borne among sporangia; may be pointed or clubbed
+113113746	a sporangium that arises from a group of epidermal cells
+113113861	a sporangium formed from a single epidermal cell; characteristic of the Filicales or of almost all modern ferns
+113114034	a sporangium containing four asexual spores
+113114139	a spore-bearing branch or organ: the part of the thallus of a sporophyte that develops spores; in ferns and mosses and liverworts is practically equivalent to the sporophyte
+113114388	cell or organ in which gametes develop
+113114484	gametangia and surrounding bracts
+113114611	a female gametoecium
+113114687	a male gametoecium
+113114762	a modified branch bearing gametangia as in the thalloid liverworts
+113114904	cluster of sporangia usually on underside of a fern frond
+113115032	a spore-producing structure in certain lichens and fungi
+113115140	a membrane enclosing and protecting the developing spores especially that covering the sori of a fern
+113115315	a membranous covering attached to the immature fruiting body of certain mushrooms
+113115491	membrane initially completely investing the young sporophore of various mushrooms that is ruptured by growth; represented in the mature mushroom by a volva around lower part of stem and scales on upper surface of the cap
+113115772	membrane of the young sporophore of various mushrooms extending from the margin of the cap to the stem and is ruptured by growth; represented in mature mushroom by an annulus around the stem and sometimes a cortina on the margin of the cap
+113116107	(Fungi) a remnant of the partial veil that in mature mushrooms surrounds the stem like a collar
+113116302	a motile male gamete of a plant such as an alga or fern or gymnosperm
+113116444	the tissue of a plant
+113116794	a soft moist part of a fruit
+113116918	soft spongelike central cylinder of the stems of most flowering plants
+113117076	the primary tissue of higher plants composed of thin-walled cells that remain capable of cell division even when mature; constitutes the greater part of leaves, roots, the pulp of fruits, and the pith of stems
+113117436	parenchyma whose cells contain chloroplasts
+113117538	woody tissue
+113117622	tissue that conducts water and nutrients through the plant body in higher plants
+113117946	the usually cylindrical central vascular portion of the axis of a vascular plant
+113118097	a formative one-cell layer of tissue between xylem and phloem in most vascular plants that is responsible for secondary growth
+113118295	newly formed outer wood lying between the cambium and the heartwood of a tree or woody plant; usually light colored; active in water conduction
+113118511	the older inactive central wood of a tree or woody plant; usually darker and denser than the surrounding sapwood
+113118708	a unit strand of the vascular system in stems and leaves of higher plants consisting essentially of xylem and phloem
+113118945	any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ
+113119179	the vein in the center of a leaf
+113119274	a sheet of vascular tissue separating the vascular bundles
+113119407	the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels
+113119612	long tubular cell peculiar to xylem
+113119721	(botany) tissue that conducts synthesized food substances (e.g., from leaves) to parts where needed; consists primarily of sieve tubes
+113119953	tube formed by cells joined end-to-end through which nutrients flow in flowering plants and brown algae
+113120132	false phloem
+113120203	strong woody fibers obtained especially from the phloem of from various plants
+113120345	abnormal swelling of plant tissue caused by insects or microorganisms or injury
+113120493	oak gall caused by larvae of a cynipid wasp
+113120592	a plant having foliage that persists and remains green throughout the year
+113120758	a plant having foliage that is shed annually at the end of the growing season
+113120915	a plant that when touched or ingested in sufficient quantity can be harmful or fatal to an organism
+113121436	a plant with a weak stem that derives support from climbing, twining, or creeping along a surface
+113123168	a vine or climbing plant that readily grows up a support or over other plants
+113123407	any plant (as ivy or periwinkle) that grows by creeping
+113123534	slender stem-like structure by which some twining plants attach themselves to an object for support
+113123705	usually coiled
+113123782	a plant that climbs by its adventitious roots e.g. ivy
+113123895	a plant having hard lignified tissues or woody parts especially stems
+113124419	a category in some early taxonomies
+113124509	having the shape or characteristics of a tree
+113124636	a dead tree that is still standing, usually in an undisturbed forest
+113124818	a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms
+113128453	any tree that is valued as a source of lumber or timber
+113128566	a small tree
+113128650	tree (as opposed to shrub)
+113128890	any of several trees having seedpods as fruits
+113129082	a tree with limbs cut back to promote a more bushy growth of foliage
+113129240	young tree
+113129304	a tree planted or valued chiefly for its shade from sunlight
+113129421	any tree of the division Gymnospermophyta
+113129600	any gymnospermous tree or shrub bearing cones
+113130492	any tree having seeds and ovules contained in the ovary
+113131674	tree bearing edible nuts
+113131933	tree bearing aromatic bark or berries
+113132099	any of several trees having leaves or bark used to allay fever or thought to indicate regions free of fever
+113132263	the base part of a tree that remains standing after the tree has been felled
+113132459	(forestry) the stump of a tree that has been felled or headed for the production of saplings
+113132640	a dwarfed ornamental tree or shrub grown in a tray or shallow pot
+113132794	a dwarfed evergreen conifer or shrub shaped to have flat-topped asymmetrical branches and grown in a container
+113132960	an artificial plant resembling a bonsai
+113133055	small plants other than saplings growing on a forest floor
+113133186	low-growing plants planted in deep shade or on a steep slope where turf is difficult to grow
+113133423	a low woody perennial plant usually having several major stems
+113139089	a low shrub
+113139157	(Old Testament) the bush that burned without being consumed and from which God spoke to Moses
+113139328	dwarf shrub
+113139466	low-growing woody shrub or perennial with woody base
+113140629	any of various rough thorny shrubs or vines
+113140762	shrub noted primarily for its flowers
+113140970	a woody climbing usually tropical plant
+113141205	plant living on another plant and obtaining organic nutriment from it
+113141534	a parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis
+113141717	a perennial plant that propagates by underground bulbs or tubers or corms
+113141863	plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte
+113142108	land plant growing in surroundings having an average supply of water; compare xerophyte and hydrophyte
+113142303	a plant that grows partly or wholly in water whether rooted in the mud, as a lotus, or floating without anchorage, as the water hyacinth
+113143123	a semiaquatic plant that grows in soft wet land; most are monocots: sedge, sphagnum, grasses, cattails, etc; possibly heath
+113143744	plant that derives moisture and nutrients from the air and rain; usually grows on another plant but not parasitic on it
+113144068	a plant that is an epiphyte for part of its life
+113144190	an epiphytic vine or tree whose aerial roots extend down the trunk of a supporting tree and coalesce around it eventually strangling the tree
+113144440	plant that grows on or among rocks or is suitable for a rock garden
+113144600	plant that grows on rocks or stony soil and derives nourishment from the atmosphere
+113144778	plants growing among rocks
+113144923	an organism that feeds on dead organic matter especially a fungus or bacterium
+113145117	an organism that lives in and derives its nourishment from organic matter in stagnant or foul water
+113145288	an organism that lives in an oxygenated medium lacking organic matter
+113145413	plant capable of synthesizing its own food from simple organic substances
+113145614	the part of a plant from which the roots spring or the part of a stalk or trunk nearest the roots
+113145762	a developed system of roots
+113145876	(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground
+113146641	an air-filled root (submerged or exposed) that can function as a respiratory organ of a marsh or swamp plant
+113146809	(botany) main root of a plant growing straight downward from the stem
+113146951	root growing in an unusual location e.g. from a stem
+113147067	crop grown for its enlarged roots: e.g. beets; potatoes; turnips
+113147187	thimble-shaped mass of cells covering and protecting the growing tip of a root
+113147339	small root or division of a root
+113147443	thin hairlike outgrowth of an epidermal cell just behind the tip; absorbs nutrients from the soil
+113147615	a root that grows from and supports the stem above the ground in plants such as mangroves
+113147760	a plant structure resembling a leaf
+113147850	a plant or stem onto which a graft is made; especially a plant grown specifically to provide the root part of grafted plants
+113148062	root or part of a root used for plant propagation; especially that part of a grafted plant that supplies the roots
+113148232	a part (sometimes a root or leaf or bud) removed from a plant to propagate a new plant through rooting or grafting
+113148425	cuttings of plants set in the ground to grow as hawthorn for hedges or vines
+113148602	a horizontal branch from the base of plant that produces new plants from buds at its tips
+113148762	the upper branches and leaves of a tree or other plant
+113148915	an arrangement of leafy branches forming the top or head of a tree
+113149037	plant growing from a tuber
+113149124	a fleshy underground stem or root serving for reproductive and food storage
+113149341	a horizontal plant stem with shoots above and roots below serving as a reproductive structure
+113149530	the main stem or central part about which plant organs or plant parts such as branches are arranged
+113149735	axis of a compound leaf or compound inflorescence
+113149837	woody stem of palms and tree ferns
+113149924	a slender or elongated structure that supports a plant or fungus or a plant part or plant organ
+113150585	a segment of a stem between two nodes
+113150697	stem of a bean plant
+113150773	a flattened stem resembling and functioning as a leaf
+113150920	enlarged tip of a stem that bears the floral parts
+113151064	persistent thickened stem of a herbaceous perennial plant
+113151182	the upper angle between an axis and an offshoot such as a branch or leafstalk
+113151328	supporting stalk or stem-like structure especially of a pistil or fern frond or supporting a mushroom cap
+113151485	erect leafless flower stalk growing directly from the ground as in a tulip
+113151644	undifferentiated tissue from which new cells are formed, as at the tip of a stem or root
+113151787	flat-topped or rounded inflorescence characteristic of the family Umbelliferae in which the individual flower stalks arise from about the same point; youngest flowers are at the center
+113152041	flat-topped or convex inflorescence in which the individual flower stalks grow upward from various points on the main stem to approximately the same height; outer flowers open first
+113152275	a branch of an umbel or an umbelliform inflorescence
+113152377	the slender stem that supports the blade of a leaf
+113152511	an expanded petiole taking on the function of a leaf blade
+113152642	especially a leaf of grass or the broad portion of a leaf as distinct from the petiole
+113152793	stalk bearing an inflorescence or solitary flower
+113152915	a small stalk bearing a single flower of an inflorescence; an ultimate division of a common peduncle
+113153097	an inflorescence consisting of a cluster of flowers
+113153245	usually elongate cluster of flowers along the main stem in which the flowers at the base open first
+113153415	compound raceme or branched cluster of flowers
+113153515	a dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose
+113153699	more or less flat-topped cluster of flowers in which the central or terminal flower opens first
+113153899	a small cyme, generally with few flowers
+113153992	a compacted or sessile cyme
+113154075	a cyme with flowers or branches alternating in opposite ranks
+113154197	(botany) an indeterminate inflorescence bearing sessile flowers on an unbranched axis
+113154372	fruiting spike of a cereal plant especially corn
+113154545	a dense cluster of flowers or foliage
+113154691	the fleshy axis of a spike often surrounded by a spathe
+113154818	a modified bud consisting of a thickened globular underground stem serving as a reproductive structure
+113155061	plant growing from a bulb
+113155290	small bulb or bulb-shaped growth arising from the leaf axil or in the place of flowers
+113155439	solid swollen underground bulb-shaped stem or stem base and serving as a reproductive structure
+113155603	plant growing from a corm
+113155706	the ripened reproductive body of a seed plant
+113156451	a diminutive fruit, especially one that is part of a multiple fruit
+113156591	a small hard fruit
+113157075	any of various seeds or fruits that are beans or resemble beans
+113157333	usually large hard-shelled seed
+113157558	a small nut
+113157640	the small hard nutlet of a drupe or drupelet; the seed and the hard endocarp that surrounds it
+113157787	the inner and usually edible part of a seed or grain or nut or fruit stone
+113158002	the fleshy multiple fruit of the fig consisting of an enlarged hollow receptacle containing numerous fruitlets
+113158186	a small fruit having any of various structures, e.g., simple (grape or blueberry) or aggregate (blackberry or raspberry)
+113158449	fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple
+113158728	an indehiscent fruit derived from a single ovary having one or many seeds within a fleshy wall or pericarp: e.g. grape; tomato; cranberry
+113158932	one of the small drupes making up an aggregate or multiple fruit like a blackberry
+113159085	fleshy indehiscent fruit with a single seed: e.g. almond; peach; plum; cherry; elderberry; olive; jujube
+113159435	a small part of an aggregate fruit that resembles a drupe
+113159619	a fleshy fruit (apple or pear or related fruits) having seed chambers and an outer fleshy part
+113159832	a several-seeded dehiscent fruit as e.g. of a leguminous plant
+113160098	seedpods that are constricted between the seeds and that break apart when mature into single-seeded segments
+113160259	fruit of such plants as the plantain; a capsule whose upper part falls off when the seeds are released
+113160424	outer membranous covering of some fruits or seeds
+113160614	the husk of an ear of corn
+113160695	dry outer covering of a fruit or seed or nut
+113160826	the vessel that contains the seeds of a plant (not the seeds themselves)
+113161019	husk of a pea; edible in some garden peas
+113161144	fruit containing much fleshy tissue besides that of the ripened ovary; as apple or strawberry
+113161312	an order of dicotyledonous plants
+113161476	trees and shrubs usually thorny bearing drupaceous fruit many having medicinal value
+113161770	type genus of the Rhamnaceae: buckthorns
+113161918	a shrub or shrubby tree of the genus Rhamnus; fruits are source of yellow dyes or pigments
+113162192	fruit of various buckthorns yielding dyes or pigments
+113162341	shrubby tree of the Pacific coast of the United States; yields cascara sagrada
+113162574	dried bark of the cascara buckthorn used as a laxative
+113162749	deciduous shrub of eastern and central United States having black berrylike fruit; golden-yellow in autumn
+113162959	evergreen shrub of western United States bearing small red or black fruits
+113163157	small tree common in Europe
+113163281	small spiny evergreen shrub of western United States and Mexico with minute flowers and bright red berries
+113163472	mostly tropical American shrubs or small trees with small yellowish flowers and yellow or red fruits
+113163684	any of several small to medium-sized trees of Florida and West Indies with thin scaly bark and heavy dark heartwood
+113163874	spiny chiefly tropical American and Asiatic shrubs: jujubes
+113164062	spiny tree having dark red edible fruits
+113164260	shrubby deciduous tree of the Mediterranean region
+113164403	thorny Eurasian shrubs
+113164535	thorny Eurasian shrub with dry woody winged fruit
+113164707	a genus of Australasian shrubs and trees
+113164861	Australian tree grown especially for ornament and its fine-grained wood and bearing edible nuts
+113165080	a family of vines belonging to order Rhamnales
+113165288	the type genus of the family Vitaceae; woody vines with simple leaves and small flowers; includes a wide variety of grapes
+113165571	any of numerous woody vines of genus Vitis bearing clusters of edible berries
+113165817	native grape of northeastern United States; origin of many cultivated varieties e.g. Concord grapes
+113166027	native grape of southeastern United States; origin of many cultivated varieties
+113166221	common European grape cultivated in many varieties; chief source of Old World wine and table grapes
+113166701	white wine grape
+113166812	any of several purple or white wine grapes used especially for Burgundies and champagnes
+113167002	red wine grape; grown especially in California for making wines resembling those from Burgundy, France
+113167180	white wine grape; grown especially in California for making wines resembling those from Chablis, France
+113167360	small blue-black grape of Medoc region of France highly prized in winemaking
+113167517	superior red wine grapes grown especially in the Bordeaux region of France and northern California
+113167705	white wine grape grown in California
+113167822	black wine grape originally from the region of Bordeaux
+113167930	white grape grown especially in the valley the Loire in France
+113168047	white grape grown in Europe and California
+113168163	small black grape grown chiefly in California; transplanted from Europe
+113168309	white grape grown especially in California and the lower Loire valley of France
+113168466	grape used to make malmsey wine
+113168571	any of several cultivated grapevines that produce sweet white grapes
+113168701	a variety of white wine grape grown in Italy
+113168802	woody vines having disklike tips on the tendrils
+113168991	Asiatic vine with three-lobed leaves and purple berries
+113169167	common North American vine with compound leaves and bluish-black berrylike fruit
+113169385	Piperaceae; Saururaceae; Chloranthaceae
+113169574	tropical woody vines and herbaceous plants having aromatic herbage and minute flowers in spikelets
+113169822	type genus of the Piperaceae: large genus of chiefly climbing tropical shrubs
+113170079	any of various shrubby vines of the genus Piper
+113170289	climber having dark red berries (peppercorns) when fully ripe; southern India and Sri Lanka; naturalized in northern Burma and Assam
+113170612	slender tropical climber of the eastern Himalayas
+113170753	Asian pepper plant whose leaves are chewed with betel nut (seed of the betel palm) by southeast Asians
+113170955	tropical southeast Asian shrubby vine bearing spicy berrylike fruits
+113171155	spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes
+113171369	a dry dehiscent fruit that at maturity splits into two or more parts each with a single seed
+113171518	large genus of small tropical usually succulent herbs
+113171671	any of various plants of the genus Peperomia; grown primarily for their often succulent foliage
+113171859	grown as a houseplant for its silvery striped fleshy foliage; South America
+113172042	small family of tropical herbs and shrubs and trees
+113172216	type genus of the Chloranthaceae
+113172345	family of perennial aromatic herbs: genera Saururus, Anemopsis, Houttuynia
+113172597	type genus of the Saururaceae: lizard's-tails
+113172752	North American herbaceous perennial of wet places having slender curled racemes of small white flowers
+113172980	one species: yerba mansa
+113173116	stoloniferous herb of southwestern United States and Mexico having a pungent rootstock and small spicate flowers with white bracts suggesting an anemone
+113173369	one species; east Asian low-growing plant of wet places
+113173519	the main organ of photosynthesis and transpiration in higher plants
+113174327	a leaf with its base clasping the stem
+113174428	green foliage
+113174524	a pore that exudes water on the surface or margin of a leaf of higher plants
+113174683	one of many raised pores on the stems of woody plants that allow the interchange of gas between the atmosphere and the interior tissue
+113174872	part of a compound leaf
+113174985	(botany) the small swelling that is the part of a plant stem from which one or more leaves emerge
+113175183	division of a usually pinnately divided leaf
+113175289	compound leaf of a fern or palm or cycad
+113175381	the large floating leaf of an aquatic plant (as the water lily)
+113175531	floating leaves of a water lily
+113175636	a modified leaf or leaflike part just below and protecting an inflorescence
+113175890	a small bract
+113175970	a conspicuous bract surrounding or subtending a spadix or other inflorescence
+113176100	a highly conspicuous bract or bract pair or ring of bracts at the base of an inflorescence
+113176246	the lower and stouter of the two glumes immediately enclosing the floret in most Gramineae
+113176406	small dry membranous bract found in inflorescences of Gramineae and Cyperaceae
+113176554	a specialized leaf or bract that protects a bud or catkin
+113176694	a minute scale
+113176801	a leaf of a vine from the betel pepper
+113176904	a leaf from a fig tree
+113176981	a leaf that is not divided into parts
+113177490	a leaf composed of a number of leaflets on a common stalk
+113177697	having three leaflets
+113177782	a compound leaf having five leaflets
+113177884	a leaf resembling an open hand; having lobes radiating from a common point
+113178035	a leaf resembling a feather; having the leaflets on each side of a common axis
+113178244	a pinnate leaf having two pairs of leaflets
+113178379	a leaf having divisions that are themselves compound
+113178493	the leaf of a conifer
+113178582	a leaf narrowing to a slender point
+113178678	a heart-shaped leaf
+113178756	a wedge-shaped leaf having the acute angle at the base
+113178869	a simple leaf shaped like a capital delta
+113178969	a simple leaf shaped like an ellipse
+113179065	a sword-shaped leaf; as of iris
+113179156	a leaf shaped like a spearhead with flaring pointed lobes at the base
+113179284	a leaf shaped like a lance head; tapering to a point at each end
+113179410	a long slender leaf
+113179503	a simple leaf having curvature suggestive of a lyre
+113179612	a simple leaf having a rounded or blunt tip
+113179713	a leaf having a rounded apex and tapering base
+113179823	a simple leaf that is rounded at each end with parallel sides
+113179942	an egg-shaped leaf with the narrower end at the base
+113180053	an egg-shaped leaf with the broader end at the base
+113180161	circular or nearly circular leaf
+113180255	a fiddle-shaped leaf
+113180355	a shield-shaped leaf; as a nasturtium leaf
+113180456	a leaf with the base united around--and apparently pierced by--the stem
+113180589	a simple kidney-shaped leaf
+113180676	a leaf shaped like an arrow head
+113180788	spatula-shaped leaf; having a broad rounded apex and narrow base
+113180913	a leaf having pinnate leaflets; as ferns
+113181014	a pinnate leaf with a pair of leaflets at the apex
+113181152	a pinnate leaf with a single leaflet at the apex
+113181263	a leaf having the radiating lobes each deeply cleft or divided
+113181383	a leaf having a smooth margin without notches or indentations
+113181502	a leaf having a scalloped margin
+113181593	a leaf having a margin notched like a saw with teeth pointing toward the apex
+113181729	a leaf having a toothed margin
+113181836	a leaf having a finely toothed margin; minutely dentate
+113181954	a leaf having a notch at the apex
+113182049	a leaf having a jagged margin as though gnawed
+113182152	a leaf having incised margins with the lobes or teeth curved toward the base; as a dandelion leaf
+113182310	a leaf having deeply indented margins
+113182404	(botany) a part into which a leaf is divided
+113182537	a leaf whose veins run in parallel from the stem
+113182652	a leaf having margins incised almost to the base so as to create distinct divisions or lobes
+113182802	a leaf having prickly margins
+113182896	a cluster of leaves growing in crowded circles from a common center or crown (usually at or close to the ground)
+113183062	(botany) any appendage to a plant that is shaped like a strap
+113183195	tough protective covering of the woody stems and roots of trees and other woody plants
+113183713	aromatic bark having tonic and stimulant properties
+113183843	the thin fibrous bark of the paper mulberry and Pipturus albidus
+113183991	the bitter bark of a South American tree; used in medicines and liqueurs and bitters
+113184148	a division of a stem, or secondary stem arising from the main stem of a plant
+113184369	stem of plants of the Gramineae
+113184451	a branch or a part of a tree that is dead
+113184547	stems of beans and peas and potatoes and grasses collectively as used for thatching and bedding
+113184701	any of the main branches arising from the trunk or a bough of a tree
+113184889	a small branch or division of a branch (especially a terminal division); usually applied to branches of the current or preceding year
+113185183	a thin supple twig or rod
+113185301	strong flexible twig
+113185399	flexible twig of a willow tree
+113185481	any new growth of a plant such as a new branch or a bud
+113185661	a new branch
+113185779	a shoot arising from a plant's roots
+113185868	a shoot that sprouts from the base of a grass
+113185984	a swelling on a plant stem consisting of overlapping immature leaves or petals
+113186184	a bud from which leaves (but not flowers) develop
+113186307	a bud from which only a flower or flowers develop
+113186450	a bud yielding both leaves and flowers
+113186544	a small thin branch of a tree
+113186625	any of the larger branches of a tree
+113186713	the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber
+113186942	a large rounded outgrowth on the trunk or branch of a tree
+113187089	the wood cut from a tree burl or outgrowth; often used decoratively in veneer
+113187236	families of ferns and fern allies
+113187976	genera of ferns and fern allies
+113190117	ferns
+113190572	true (leptosporangiate) ferns
+113190958	a family of ferns belonging to order Filicales
+113191184	type genus of Gleicheniaceae: leptosporangiate ferns with sessile sporangia; South Africa to Malaysia and New Zealand
+113191396	terrestrial ferns of forest margin or open ground; pantropical
+113191559	scandent thicket-forming ferns of Asia to western Pacific
+113191738	large scrambling fern forming large patches to 18 feet high; Pacific region and China
+113191939	umbrella ferns; warm regions of Australia and New Zealand
+113192108	large Australasian fern with fanlike repeatedly forked fronds; sometimes placed in genus Gleichenia
+113192345	coextensive with the genus Ceratopteris; sometimes included in family Polypodiaceae
+113192547	water ferns
+113192695	aquatic fern of tropical America often used in aquariums
+113192873	pantropical aquatic fern
+113193005	ferns: a large family that in some classification systems has been subdivided into several families (including Aspleniaceae and Blechnaceae and Davalliaceae and Dennstaedtiaceae and Dryopteridaceae and Oleandraceae and Pteridaceae)
+113193623	a genus of ferns belonging to the family Polypodiaceae and having rounded naked sori
+113193821	any of numerous ferns of the genus Polypodium
+113194030	fern having rootstock of a sweetish flavor
+113194157	fern growing on rocks or tree trunks and having fronds greyish and scurfy below; Americas and South Africa
+113194386	stiff leathery-leaved fern of western North America having ovate fronds parted to the midrib
+113194595	chiefly lithophytic or epiphytic fern of North America and east Asia
+113194780	mat-forming lithophytic or terrestrial fern with creeping rootstocks and large pinnatifid fronds found throughout North America and Europe and Africa and east Asia
+113195104	epiphytic ferns of tropical Asia
+113195252	epiphytic fern with large fronds; Taiwan and Philippines
+113195413	epiphytic ferns of tropical America
+113195568	fern with long narrow strap-shaped leaves
+113195721	common epiphytic or sometimes terrestrial fern having pale yellow-green strap-shaped leaves; Florida to West Indies and Mexico and south to Uruguay
+113195972	fern with shorter and narrower leaves than Florida strap fern; Florida to West Indies and Mexico and south to Argentina
+113196222	epiphytic ferns of Madagascar to tropical Asia and New Guinea
+113196382	large robust epiphytic ferns of tropical forest and scrub; Africa and Asia and Australia
+113196580	giant epiphytic or lithophytic fern; Asia to Polynesia and Australia
+113196745	epiphytic ferns of southeastern Asia to New Guinea
+113196898	any of several bizarre ferns of the genus Lecanopteris having swollen hollow rhizomes that provide homes for symbiotic ants
+113197099	epiphytic ferns of tropical America and Africa
+113197261	epiphytic ferns with long rhizomes; tropical America
+113197421	tropical usually epiphytic ferns; Africa to Asia and Polynesia to Australia
+113197612	tropical Africa to Australasia and Polynesia
+113197771	chiefly epiphytic tropical ferns with free veins bearing sori
+113197946	tropical American fern with brown scaly rhizomes cultivated for its large deeply lobed deep bluish-green fronds; sometimes placed in genus Polypodium
+113198252	often epiphytic tropical Old World ferns
+113198427	any of various tropical ferns of the genus Platycerium having large flat lobed fronds often resembling the antlers of a stag
+113198666	fern of Peru and Bolivia
+113198782	commonly cultivated fern of Australia and southeastern Asia and Polynesia
+113199005	epiphytic or lithophytic or terrestrial ferns of tropical Old World
+113199182	east Asian fern having fronds shaped like tongues; sometimes placed in genus Cyclophorus
+113199398	tropical American epiphytic ferns having rhizomes with tubers and roots as well as scales
+113199605	small epiphytic fern of South America with tuberous swellings along rhizomes
+113199781	tropical Old World ferns having closely crowded circular sori and no indusia
+113199954	plant that affords shelter or food to ants that live in symbiotic relations with it
+113200114	used in some classification systems for some genera of the family Polypodiaceae (or Pteridaceae)
+113200308	one of a number of families into which Polypodiaceae has been subdivided in some classification systems: genus Vittaria
+113200546	tropical epiphytic ferns with straplike fronds
+113200702	epiphytic fern found in lowland forests of tropical America
+113200870	one of a number of families into which Polypodiaceae has been subdivided in some classification systems; includes genera Asplenium, Pleurosorus, Schaffneria
+113201202	in some classification systems placed in family Polypodiaceae
+113201432	any of various chiefly rock-inhabiting ferns of the genus Asplenium
+113201773	spleenwort of Europe and Africa and Asia having pinnate fronds and yielding an astringent
+113201953	tropical Old World or Australian epiphytic fern frequently forming tufts in tree crotches
+113202142	common North American fern with polished black stripes
+113202304	fern of tropical America: from southern United States to West Indies and Mexico to Brazil
+113202514	classification used in some especially former systems for plants usually placed in genus Asplenium
+113202709	ferns having lanceolate fronds that root at the tip
+113202886	small rock-inhabiting fern of northern temperate zone and Hawaii with pinnate fronds
+113203062	a small fern with slim green fronds; widely distributed in cool parts of northern hemisphere
+113203236	a spleenwort of eastern North America
+113203360	small delicate spleenwort found on a steep slope (as a wall or cliff) of Eurasia and North America
+113203560	a spleenwort of eastern to southern United States
+113203697	a spleenwort of eastern and southern United States
+113203835	a spleenwort of western Europe
+113203954	Eurasian fern with simple lanceolate fronds
+113204149	small genus of Old World ferns; superseded in some classification systems which place plants of this genus in e.g. genera Asplenium and Pleurosorus
+113204387	small European fern with chaffy leathery fronds
+113204567	small genus comprising terrestrial ferns; found in Chile and Spain and Morocco and Australia and New Zealand
+113204772	one species
+113204899	a fern of the genus Schaffneria
+113205062	a genus of ferns belonging to the family Polypodiaceae (in some classification systems included in genus Asplenium)
+113205292	a fern thought to resemble a millipede
+113205390	one of a number of families into which the family Polypodiaceae has been subdivided in some classification systems; includes genera Blechnum, Doodia, Sadleria, Stenochlaena, and Woodwardia
+113205771	in some classification systems placed in family Polypodiaceae; terrestrial ferns of cosmopolitan distribution mainly in southern hemisphere: hard ferns
+113206032	any of several ferns of the genus Blechnum
+113206167	fern with erect fronds of Europe and western North America; often cultivated for deer browse
+113206334	in some classification systems placed in family Polypodiaceae; small terrestrial colony-forming ferns of Australasia
+113206556	any fern of the genus Doodia having pinnate fronds with sharply dentate pinnae
+113206718	low tree ferns with large fronds; in rain forests and on lava flows of Hawaiian Islands
+113206896	large tropical ferns; some epiphytic climbers and some terrestrial bog ferns; Africa; Asia; Australasia
+113207098	in some classification systems placed in family Polypodiaceae: chain ferns
+113207286	a fern of the genus Woodwardia having the sori in chainlike rows
+113207444	North American fern
+113207552	any of numerous usually tropical ferns having a thick woody stem or caudex and a crown of large fronds; found especially in Australia and New Zealand; chiefly of the families Cyatheaceae and Marattiaceae but some from Polypodiaceae
+113207929	tropical tree ferns
+113208065	type genus of the Cyatheaceae: tree ferns of the tropical rain forest to temperate woodlands
+113208265	a showy tree fern of New Zealand and Australia having a crown of pinnated fronds with whitish undersides
+113208502	one of a number of families into which Polypodiaceae has been subdivided in some classification systems
+113208724	Old World tropical fern; in some classification systems placed directly in family Polypodiaceae
+113208994	any fern of the genus Davallia; having scaly creeping rhizomes
+113209166	either of two ferns of the genus Davallia having a soft grey hairy rootstock
+113209360	fern of the Canary Islands and Madeira
+113209517	a hare's-foot fern of the genus Davallia
+113209665	feathery fern of tropical Asia and Malaysia
+113209871	one of a number of families into which Polypodiaceae has been subdivided in some classification systems
+113210120	chiefly terrestrial ferns; in some classification systems placed in family Polypodiaceae
+113210326	fern of eastern North America with pale green fronds and an aroma like hay
+113210554	a genus of ferns belonging to the family Dennstaedtiaceae
+113210742	large coarse fern often several feet high; essentially weed ferns; cosmopolitan
+113210958	fern of southeastern Asia; not hardy in cold temperate regions
+113211116	tree ferns: genera Dicksonia, Cibotium, Culcita, and Thyrsopteris elegans
+113211367	tree ferns of temperate Australasia having bipinnatifid or tripinnatifid fronds and usually marginal sori; in some classification systems placed in family Cyatheaceae
+113211645	of Australia and Tasmania; often cultivated; hardy in cool climates
+113211815	in some classification systems placed in family Cyatheaceae: ornamental tree ferns with coarse gracefully drooping fronds
+113212046	Asiatic tree fern having dense matted hairs sometimes used as a styptic
+113212216	includes some plants usually placed in e.g. genus Dicksonia: terrestrial ferns resembling bracken; tropical America; Malaysia to Australia and Polynesia; southwestern Europe and Atlantic islands
+113212518	resembles Pteridium aquilinum; of Queensland, Australia
+113212668	one species
+113212782	a terrestrial tree fern of South America
+113212923	alternative names for one of a number of families into which the family Polypodiaceae has been subdivided in some classification systems
+113213523	any of various ferns of the genera Dryopteris or Polystichum or Lastreopsis having somewhat shield-shaped coverings on the sori
+113213796	large widespread genus of medium-sized terrestrial ferns; in some classification systems placed in Polypodiaceae
+113214041	European shield fern
+113214167	fern or northern Eurasia and North America having fragrant fronds
+113214364	North American fern with a blackish lustrous stipe
+113214540	any of various ferns of the genus Dryopteris
+113214754	fern of North America and Europe whose rhizomes and stalks yield an oleoresin used to expel tapeworms
+113214934	North American fern with evergreen fronds
+113215110	a fern of the genus Dryopteris
+113215226	temperate and tropical lady ferns; in some classifications placed in family Polypodiaceae or in the genus Asplenium
+113215470	most widely grown fern of the genus Athyrium for its delicate foliage
+113215656	a lady fern with deeply cut leaf segments; found in the Rocky Mountains
+113215816	North American fern with narrow fronds on yellowish leafstalks
+113216049	small genus of tropical Asiatic greenhouse ferns; in some classifications placed in Polypodiaceae
+113216239	tropical Old World fern having glossy fronds suggestive of holly; sometimes placed in genus Polystichum
+113216445	chiefly small perennial rock ferns: bladder ferns; in some classifications placed in Polypodiaceae
+113216659	any fern of the genus Cystopteris characterized by a hooded indusium or bladderlike membrane covering the sori
+113216901	delicate fern widely distributed in North America and European having thin pinnatifid fronds with brittle stems
+113217132	fern of rocky mountainous areas of hemisphere
+113217267	North American fern often bearing bulbils on the leaflets
+113217443	classification used for 5 species of terrestrial ferns usually placed in other genera
+113217636	fern with elongate silvery outgrowths enclosing the developing spores
+113217840	one species: delicate fern of foothills of Himalayas
+113217983	oak ferns: in some classification systems included in genus Thelypteris
+113218172	bright blue-green fern widely distributed especially in damp acid woodlands of temperate northern hemisphere
+113218405	yellow-green fern of rocky areas of northern hemisphere
+113218568	tropical terrestrial shield ferns
+113218698	small genus sometimes included in genus Onoclea; in some classifications both genera are placed in Polypodiaceae
+113218952	tall fern of northern temperate regions having graceful arched fronds and sporophylls resembling ostrich plumes
+113219252	genus of fern having only one species
+113219380	tropical American terrestrial fern with leathery lanceolate fronds; sometimes placed in genus Polybotrya
+113219626	one species: sensitive fern; in some classifications included in Polypodiaceae
+113219812	beautiful spreading fern of eastern North America and eastern Asia naturalized in western Europe; pinnately divided fronds show a slight tendency to fold when touched; pinnules enclose groups of sori in beadlike lobes
+113220142	tropical American ferns; usually terrestrial when young but scandent later
+113220343	small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in Polypodiaceae
+113220615	North American evergreen fern having pinnate leaves and dense clusters of lance-shaped fronds
+113220868	any of various ferns of the genus Polystichum having fronds with texture and gloss like holly
+113221091	North American fern whose more or less evergreen leathery fronds are covered with pale brown chafflike scales
+113221309	evergreen European fern widely cultivated
+113221440	North American fern
+113221549	European shield fern cultivated in many varieties
+113221704	leatherleaf ferns: in some classifications included in genus Polystichum
+113221884	widely distributed fern of tropical southern hemisphere having leathery pinnatifid fronds
+113222137	terrestrial or epilithic ferns of tropical rain forests
+113222321	Jamaican fern having round buttonlike bulbils
+113222464	fern of tropical Asia having round buttonlike bulbils
+113222623	genus of small to medium-sized usually rock-inhabiting ferns of temperate and cold regions; in some classification systems placed in Polypodiaceae
+113222867	any fern of the genus Woodsia
+113223023	a common rock-inhabiting fern of northern temperate regions having rusty-brown stipes and lanceolate pinnate fronds
+113223253	slender fern of northern North America with shining chestnut-colored stipes and bipinnate fronds with usually distinct marginal sori
+113223500	rock-inhabiting fern of Arctic and subarctic Europe to eastern Asia
+113223647	small family of usually scandent ferns
+113223831	terrestrial or less than normally scandent ferns of tropical regions of northern hemisphere
+113224013	large scandent ferns of southeastern Asia
+113224149	very small family of tree ferns
+113224303	one species: tree fern of Central and South America
+113224449	very small family of New Zealand ferns
+113224606	one species of terrestrial ferns of New Zealand
+113224740	one of a number of families into which Polypodiaceae has been subdivided in some classification systems
+113225000	or family Polypodiaceae: tropical epiphytic or terrestrial ferns
+113225174	tropical fern having leathery fronds resembling oleander; found from Asia to Polynesia
+113225380	tropical and subtropical Old World epiphytic or lithophytic ferns
+113225544	small genus of tropical ferns; sometimes placed in Polypodiaceae
+113225724	any of several tropical ferns having more or less sword-shaped fronds including one from which the Boston fern developed
+113225956	a sword fern with arching or drooping pinnate fronds; a popular houseplant
+113226147	tropical American fern cultivated for its finely divided greyish-green foliage; West Indies and southern Mexico to Peru and Brazil
+113226380	one of a number of families into which the family Polypodiaceae has been subdivided in some classification systems; Pteridaceae is itself in turn sometimes further subdivided
+113226899	in some classification systems placed in family Polypodiaceae
+113227076	stout tropical swamp fern (especially tropical America) having large fronds with golden yellow sporangia covering the undersides
+113227336	terrestrial ferns of tropical Asia and Africa
+113227482	cosmopolitan genus of ferns: maidenhair ferns; in some classification systems placed in family Polypodiaceae or Adiantaceae
+113227715	any of various small to large terrestrial ferns of the genus Adiantum having delicate palmately branched fronds
+113227992	delicate maidenhair fern with slender shining black leaf stalks; cosmopolitan
+113228233	hardy palmately branched North American fern with divergent recurved branches borne on lustrous dark reddish stipes
+113228470	delicate endemic Bermudian fern with creeping rootstock
+113228634	tropical American fern with broad pinnae; widely cultivated
+113228821	named for a country house in Barbados where it was discovered
+113229036	a genus of ferns belonging to the family Pteridaceae
+113229200	small short-lived fern of Central and South America
+113229366	small evergreen ferns: lipferns; in some classifications placed in family Polypodiaceae or Adiantaceae
+113229603	any of various terrestrial ferns of the genus Cheilanthes; cosmopolitan in arid and semiarid temperate or tropical regions
+113229863	southeastern United States to northern Mexico and Jamaica
+113230027	small tufted fern of northwestern America
+113230168	small North American evergreen fern whose stipes and lower frond surfaces are densely wooly
+113230358	lip fern of Texas to Oklahoma and Colorado and Arizona and Mexico having tall erect tufted fronds
+113230545	terrestrial ferns of Pacific islands and Asia
+113230706	fast-growing sturdy Japanese fern; cultivated for their attractive broad dark-green pinnate fronds
+113230904	sometimes placed in family Polypodiaceae or Cryptogrammataceae
+113231103	dwarf deciduous lithophytic ferns
+113231248	rock-inhabiting fern of northern North America growing in massive tufts and having fronds resembling parsley
+113231495	fern of Europe and Asia Minor having short slender rhizome and densely tufted bright green fronds resembling parsley
+113231725	small to medium tropical tufted ferns; sometimes placed in family Adiantaceae
+113231918	tropical American fern with coarsely lobed to palmatifid fronds
+113232077	xerophytic ferns of South America
+113232203	small terrestrial ferns of Old World tropics and subtropics: clawed ferns; sometimes placed in family Cryptogrammataceae
+113232414	genus of chiefly small rock-loving ferns; in some classification systems it is placed in the family Polypodiaceae or Adiantaceae
+113232688	any of several small lithophytic ferns of tropical and warm temperate regions
+113232923	evergreen fern of California and Baja California
+113233073	very short shallowly creeping North American fern usually growing on cliffs or walls and having dark glossy leaf axes
+113233277	cliff brake of California and Baja California having purple-brown leafstalks
+113233457	fern of New Zealand and Australia having trailing fronds with dark green buttonlike leaflets
+113233649	terrestrial tropical ferns having fronds with powdery yellowish or white undersides; sometimes placed in family Polypodiaceae or Adiantaceae
+113233964	fern of southern tropical Africa having fronds with white undersides
+113234133	tropical American fern having fronds with white undersides
+113234295	tropical American fern having fronds with light golden undersides
+113234475	fern of West Indies and South America having fronds with bright golden-yellow undersides
+113234666	large genus of terrestrial ferns of tropics and subtropics; sometimes placed in family Polypodiaceae
+113234929	any of various ferns of the genus Pteris having pinnately compound leaves and including several popular houseplants
+113235115	cultivated in many varieties as houseplants
+113235238	Asiatic fern introduced in America
+113235383	fern of North Africa and Azores and Canary Islands
+113235543	lower ferns coextensive with the family Marattiaceae
+113235711	constituting the order Marattiales: chiefly tropical eusporangiate ferns with gigantic fronds
+113235961	type genus of the Marattiaceae: ferns having the sporangia fused together in two rows
+113236156	large Australasian evergreen fern with an edible rhizome sometimes used as a vegetable by indigenous people
+113236360	one species: tree fern
+113236484	highly variable species of very large primitive ferns of the Pacific tropical areas with high rainfall
+113236697	fairly small terrestrial ferns of tropical America
+113236834	whisk ferns; comprising the family Psilotaceae or Psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs
+113237136	lower vascular plants having dichotomously branched sporophyte divided into aerial shoot and rhizome and lacking true roots
+113237373	small family of lower ferns having nearly naked stems and minute scalelike leaves
+113237571	type genus of the Psilotaceae
+113237710	chiefly tropical clump-forming plants of skeletal appearance resembling whisk brooms; lacking roots
+113237903	pantropical epiphytic or terrestrial whisk fern with usually dull yellow branches and minute leaves; America; Japan; Australia
+113238111	Paleozoic simple dichotomously branched plants of Europe and eastern Canada including the oldest known vascular land plants
+113238392	any plant of the order Psilophytales: a savannah plant
+113238522	Paleozoic plants
+113238661	type genus of the Psilophytaceae: genus of small wiry herbaceous Paleozoic plants with underground rhizomes and apical sporangia
+113238891	any plant or fossil of the genus Psilophyton
+113239012	primitive plants of the Paleozoic
+113239179	type genus of the Rhyniaceae; small leafless dichotomously branching fossil plants with terminal sporangia and smooth branching rhizomes
+113239402	Devonian fossil plant considered one of the earliest forms of vascular land plants; similar to genus Rhynia but smaller
+113239620	horsetails and related forms
+113239798	lower tracheophytes in existence since the Devonian
+113239965	sole surviving family of the Equisetales: fern allies
+113240156	horsetails; coextensive with the family Equisetaceae
+113240320	perennial rushlike flowerless herbs with jointed hollow stems and narrow toothlike leaves that spread by creeping rhizomes; tend to become weedy; common in northern hemisphere; some in Africa and South America
+113240731	of Eurasia and Greenland and North America
+113240874	Eurasia; northern North America to Virginia
+113241020	evergreen erect horsetail with rough-edged stems; formerly used for scouring utensils
+113241253	scouring-rush horsetail widely distributed in wet or boggy areas of northern hemisphere
+113241423	Eurasia except southern Russia; northern North America
+113241561	northern North America; Greenland; northern and central Europe
+113241740	club mosses and related forms: includes Lycopodiales; Isoetales; Selaginellales; and extinct Lepidodendrales; sometimes considered a subdivision of Tracheophyta
+113242141	used in some classifications for the class Lycopsida: club mosses
+113242281	alternative designation for the class Lycopsida
+113242427	primitive evergreen moss-like plant with spores in club-shaped strobiles
+113242705	fossil arborescent plants arising during the early Devonian and conspicuous throughout the Carboniferous
+113242933	fossil plants characterized by conspicuous spirally arranged leaf scars on the trunk
+113243125	lower vascular plants coextensive with the family Lycopodiaceae; in some classifications includes the Selaginellaceae and Isoetaceae
+113243375	a family of ferns belonging to the order Lycopodiales
+113243567	type and sole genus of the Lycopodiaceae; erect or creeping evergreen plants often used for Christmas decorations
+113243775	a variety of club moss
+113243883	a variety of club moss
+113243988	of northern Europe and America; resembling a miniature fir
+113244163	any of several club mosses having long creeping stems and erect branches
+113244383	a variety of club moss
+113244486	a variety of club moss
+113244608	a variety of club moss
+113244741	ground pine thickly covered with bristly leaves; widely distributed in barren sandy or peaty moist coastal regions of eastern and southeastern United States
+113244984	in some classifications included in Lycopodiales
+113245154	lesser club mosses: terrestrial chiefly tropical plants resembling mosses
+113245352	type and sole genus of the Selaginellaceae; evergreen moss-like plants: spike moss and little club moss
+113245571	any of numerous fern allies of the genus Selaginella
+113245820	spikemoss forming dense mats; eastern North America
+113245973	tufted spikemoss forming loose spreading mats; eastern North America
+113246142	prostrate spikemoss; California
+113246263	densely tufted fern ally of southwestern United States to Peru; curls up in a tight ball when dry and expands and grows under moist conditions
+113246515	occurs widely in Florida
+113246627	aquatic or marsh-growing fern allies; known to have existed since the Cenozoic; sometimes included in Lycopodiales
+113246853	quillworts; coextensive with the genus Isoetes
+113247033	type and genus of the Isoetaceae and sole extant genus of the order Isoetales
+113247218	any of several spore-bearing aquatic or marsh plants having short rhizomes and leaves resembling quills; worldwide except Polynesia
+113247424	a family of fungi belonging to the order Helotiales
+113247596	type genus of the Geoglossaceae comprising the earthtongues
+113247769	any club-shaped fungus of the genus Geoglossum
+113247907	one of a number of families into which the family Polypodiaceae has been subdivided in some classification systems
+113248133	genera Thelypteris, Phegopteris, and others
+113248455	marsh ferns: in some classification systems considered part of genus Dryopteris in family Dryopteridaceae
+113248676	fern having pinnatifid fronds and growing in wet places; cosmopolitan in north temperate regions
+113248915	fern of northeastern North America
+113249092	epiphytic or terrestrial ferns of America and Africa and Polynesia
+113249255	medium to large terrestrial ferns of tropical forests of Old World to Americas
+113249434	any of several tropical ferns of the genus Christella having thin brittle fronds
+113249590	small genus of terrestrial ferns of tropical and subtropical southern hemisphere
+113249765	terrestrial ferns of Florida and West Indies to Central and South America
+113249916	medium to large terrestrial ferns of tropical Asia to Polynesia and Australia; naturalized in Americas
+113250125	terrestrial ferns of tropical Americas
+113250256	3 species of ferns formerly included in genus Dryopteris or Thelypteris
+113250441	common European mountain fern having fragrant lemon or balsam scented fronds
+113250645	terrestrial ferns of warm and tropical Asia and North America
+113250849	slender shield fern of moist woods of eastern North America; sometimes placed in genus Dryopteris
+113251088	delicate feathery shield fern of the eastern United States; sometimes placed in genus Thelypteris
+113251319	beech ferns: genus is variously classified: considered alternative name for genus Dryopteris or included in genus Thelypteris
+113251560	any fern of the genus Phegopteris having deeply cut triangular fronds
+113251741	beech fern of North American woodlands having straw-colored stripes
+113251976	beech fern of North America and Eurasia
+113252196	a dense mass of hyphae forming a root-like structure characteristic of many fungi
+113252334	genus of edible mushrooms having white spores an annulus and blue juice; some are edible; some cause root rot
+113252576	any of several fungi of the genus Armillaria that form brown stringy rhizomorphs and cause destructive rot of the roots of some trees such as apples or maples
+113252817	fungus with a brown cap and white gills and a membranous ring halfway up the stalk
+113253004	a large white mushroom that develops brown stains as it ages; gills are white; odor is spicy and aromatic; collected commercially for oriental cooking the Pacific Northwest
+113253261	a large fungus with viscid cap that dries and turns brown with age; gills are off-white
+113253413	a honey-colored diminutive form of genus Armillaria; grows in clusters; edible (when cooked) but most attention has been on how to get rid of it
+113253677	a honey-colored edible mushroom commonly associated with the roots of trees in late summer and fall; do not eat raw
+113253910	widely distributed family of herbs and shrubs of the order Gentianales; most with milky juice
+113254333	any plant of the family Asclepiadaceae
+113254446	genus of chiefly North American perennial herbs: silkweed; milkweed
+113254625	any of numerous plants of the genus Asclepias having milky juice and pods that split open releasing seeds with downy tufts
+113255012	tall herb with leafless white waxy stems and whitish starlike flowers; southwestern United States
+113255191	tropical herb having orange-red flowers followed by pods suggesting a swallow with outspread wings; a weed throughout the tropics
+113255417	milkweed of the eastern United States with leaves resembling those of pokeweed
+113255576	densely branching perennial of the eastern United States with white to crimson or purple flowers
+113255755	milkweed of central North America; a threatened species
+113255909	perennial of eastern North America having pink-purple flowers
+113256057	milkweed of southern North America having large starry purple and pink flowers
+113256217	milkweed of southwestern United States and Mexico; poisonous to livestock
+113256401	erect perennial of eastern and southern United States having showy orange flowers
+113256664	milkweed of the eastern United States with narrow leaves in whorls and greenish-white flowers
+113256845	small genus of South American evergreen vines
+113256998	robust twining shrub having racemes of fragrant white or pink flowers with flat spreading terminal petals that trap nocturnal moths and hold them until dawn
+113257252	genus of perennial tropical African lianas
+113257393	any of various mostly giant tropical lianas of Africa and Madagascar having greenish or purple flowers and long smooth pods; roots formerly used as an emetic
+113257624	large genus of climbing shrubs of Australia and Asia and Polynesia
+113257785	any plant of the genus Hoya having fleshy leaves and usually nectariferous flowers
+113257973	a plant that furnishes nectar suitable for making honey
+113258086	succulent climber of southern Asia with umbels of pink and white star-shaped flowers
+113258241	genus of woody vines of warm regions of the Old World
+113258406	deciduous climber for arches and fences having ill-scented but interesting flowers and poisonous yellow fruits; cultivated for its dark shining foliage; southeastern Europe to Asia Minor
+113258686	succulent subshrubs or vines; tropical and subtropical India and Africa and Malaysia
+113258886	leafless East Indian vine; its sour milky juice formerly used to make an intoxicating drink
+113259076	genus of foul-smelling plants resembling cacti; found from Africa to East India
+113259273	any of various plants of the genus Stapelia having succulent leafless toothed stems resembling cacti and large foul-smelling (often star-shaped) flowers
+113259552	stapelia of Cape Province having mostly dark red-brown flowers with flat starlike corollas
+113259726	genus of Old World tropical woody vines
+113259886	any of various evergreen climbing shrubs of the genus Stephanotis having fragrant waxy flowers
+113260075	twining woody vine of Madagascar having thick dark waxy evergreen leaves and clusters of large fragrant waxy white flowers along the stems; widely cultivated in warm regions
+113260369	genus of chiefly tropical American vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote
+113260634	twining vine with hairy foliage and dark purplish-brown flowers
+113260819	a plant spore formed by two similar sexual cells
+113260923	forest or woodland having a mature or overly mature ecosystem more or less uninfluenced by human activity
+113261101	a second growth of trees covering an area where the original stand was destroyed by fire or cutting
+113261260	the biblical tree in the Garden of Eden whose forbidden fruit was tasted by Adam and Eve
+113261412	the relation of an owner to the thing possessed; possession with the right to transfer possession to others
+113261737	common ownership
+113261869	exclusive individual ownership
+113261955	the legal right of ownership
+113262080	the right granting to shareholders the first opportunity to buy a new issue of stock; provides protection against dilution of the shareholder's ownership interest
+113262305	the right of a shareholder in a company to subscribe to shares of a new issue of common stock before it is offered to the public
+113262498	the right to buy or sell property at an agreed price; the right is purchased and if it is not exercised by a stated date the money is forfeited
+113262838	a benefit given by a company to an employee in the form of an option to buy stock in the company at a discount or at a fixed price
+113263137	the right to buy or sell a stock at a specified price within a stated period
+113263308	an option to buy
+113263382	an option to sell
+113263456	an option to buy the crown jewels offered to a white knight in order to forestall a hostile takeover
+113263617	the right to hold property; part of an ancient hierarchical system of holding lands
+113263821	a medieval form of land tenure in England; a copyhold was a parcel of land granted to a peasant by the lord of the manor in return for agricultural services
+113264032	tenure by which land is held in fee simple or for life
+113264159	an estate held in fee simple or for life
+113264272	tenure by which a villein held land
+113264364	a corporation's purchase of its own outstanding stock; increases earnings/share so stock price rises (which can discourage a takeover attempt)
+113264566	property rights that are held by the public at large
+113264678	an unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits
+113264889	ownership of a business by the people who work for it
+113265007	something owned; any tangible or intangible possession that is owned by someone
+113265650	property or belongings that are tangible
+113265778	all the property that someone possesses
+113265975	property that provides tax income for local governments
+113266116	any property (real or personal or mixed) that can be inherited
+113266237	intangible property that is the result of creativity (such as patents or trademarks or copyrights)
+113266403	property and income belonging jointly to a married couple
+113266525	movable property (as distinguished from real estate)
+113266745	personal as opposed to real property; any tangible movable property (furniture or domestic animals or a car etc)
+113266978	property of a personal character that is portable but not used in business
+113267231	any movable possession (especially articles of clothing)
+113267374	property consisting of houses and land
+113267561	extensive landed property (especially in the country) retained by the owner for his own use
+113268048	property held in common
+113268127	plot of land belonging to an English parish church or an ecclesiastical office
+113268257	a holding in the form of land
+113268344	ownership of land; the state or fact of owning land
+113268453	property or goods saved from damage or destruction
+113268611	a holding in the form of shares of corporations
+113268717	property or income owned by a church
+113268880	the worldly possessions of a church
+113268986	an endowed church office giving income to its holder
+113269173	a benefice to which no spiritual or pastoral duties are attached
+113269292	property that is leased or rented out or let
+113269497	a rented car
+113269691	an item of property that is given in part payment for a new one
+113269827	a lease from one lessee to another
+113269961	property owned by a government
+113270053	land or property held under a lease
+113270144	a piece of land under 50 acres that is sold or let to someone for cultivation
+113270299	land acquired from the United States public lands by filing a record and living on and cultivating it under the homestead law
+113270498	the buildings and adjacent grounds of a farm
+113270598	the home and adjacent grounds occupied by a family
+113270704	land that is unowned and uninhabited (and usually undesirable)
+113270826	a piece of land held under the feudal system
+113270947	the land on which real estate is located
+113271143	real property held inalienably (as by an ecclesiastical corporation)
+113271297	property that has economic utility: a monetary value or an exchange value
+113271441	wealth reckoned in terms of money
+113271579	a large sum of money (especially as pay or profit)
+113271829	everything you own; all of your assets (whether real property or personal property) and liabilities
+113272053	informal terms for personal possessions
+113272188	the total valuation of the estate's assets at the time of the person's death
+113272323	the estate remaining after debts and funeral expenses and administrative expenses have been deducted from the gross estate; the estate then left to be distributed (and subject to federal and state inheritance taxes)
+113272614	(law) an estate whose duration is limited to the life of the person holding it
+113272805	the estate of a baron
+113272879	an estate in the country
+113272961	land that belongs to the Crown
+113273067	the landed estate of a lord (including the house on it)
+113273192	the estate of a seigneur
+113273294	a large estate in Spanish-speaking countries
+113273412	an estate where cash crops are grown on a large scale (especially in tropical areas)
+113273571	a place where oranges are grown; a plantation of orange trees in warm climes or a greenhouse in cooler areas
+113273752	a valuable possession whose upkeep is excessively expensive
+113273872	a possession whose ownership changes or lapses
+113274154	something acquired
+113274322	something added to what you already have
+113274511	something acquired by purchase
+113274650	an advantageous purchase
+113274910	a very small sum
+113275004	a bargain rate for travellers on commercial routes (usually air routes)
+113275136	(law) a transfer of property by deed of conveyance
+113275342	a grant (by a sovereign or a legislative body) of resources to maintain a dependent member of a ruling family
+113275596	a grant of public land (as to a railway or college)
+113275704	the amount by which the revenue of a business exceeds its cost of operating
+113275884	the amount of monetary gain
+113276044	the financial gain (earned or unearned) accruing over a given period of time
+113276461	income (after taxes) that is available to you for saving or spending
+113276612	two incomes received from the same source (as by holding a government job and receiving a government pension)
+113276782	income obtained with a minimum of effort
+113276893	income before interest and taxes and depreciation and amortization have been subtracted; an indicator of a company's profitability that is watched by investors (especially in leveraged buyouts)
+113277202	the economic condition in which credit is easy to secure
+113277333	the economic condition in which credit is difficult to secure and interest rates are high
+113277498	the property that reverts to the state
+113277590	the entire amount of income before any deductions are made
+113277793	the total value of all income in a nation (wages and profits and interest and rents and pension payments) during a given period (usually 1 yr)
+113277997	former measure of the United States economy; the total market value of goods and services produced by all citizens and capital during a given period (usually 1 yr)
+113278253	a version of the GNP that has been adjusted for the effects of inflation
+113278410	the measure of an economy adopted by the United States in 1991; the total market values of goods and services produced by workers and capital within a nation's borders during a given period (usually 1 year)
+113278691	a statistical factor designed to remove the effect of inflation; inflation adjusted variables are in constant dollars
+113278881	payment to the holder of a patent or copyright or resource for the right to use their property
+113279066	total admission receipts for an entertainment
+113279168	total admission receipts at a sports event
+113279261	the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)
+113279724	an unrealized gain on an investment calculated by subtracting the investor's cost from the current market price
+113279912	an unrealized loss on an investment calculated by subtracting the current market price from the investor's cost
+113280098	the excess of cash revenues over cash outlays in a give period of time (not including non-cash expenses)
+113280258	the income received by a single individual
+113280380	the portion of a company's profit allocated to each outstanding share of common stock
+113280529	profit that occurs unexpectedly as a consequence of some event not controlled by those who profit from it
+113280696	a very large profit
+113280816	something won (especially money)
+113280991	income received from rental properties
+113281089	the income or profit arising from such transactions as the sale of land or other property
+113281409	quick or easy earnings
+113281544	shameful profit
+113281661	(finance) the net sales minus the cost of goods and services sold
+113281835	income (at invoice values) received for goods and services over some given period of time
+113282006	gross sales reduced by customer discounts, returns, freight out, and allowances
+113282141	the ratio gross profits divided by net sales
+113282279	(accounting) income received but not yet earned (usually considered a current liability on a company's balance sheet)
+113282496	personal income that you did not earn (e.g., dividends or interest or rent income)
+113282678	income available to the government
+113282815	government income due to taxation
+113282976	government revenue from domestic sources (excluding customs)
+113283099	the total national income divided by the number of people in the nation
+113283234	property that has been stolen
+113283361	(usually plural) valuables taken by violence (especially in war)
+113283562	goods or money obtained illegally
+113283812	that which is inherited; a title or property or estate that passes by law to the heir on the death of the owner
+113284156	right of inheritance belongs exclusively to the eldest son
+113284274	a former English custom by which the youngest son inherited land to the exclusion of his older brothers
+113284439	(law) an increase in a beneficiary's share in an estate (as when a co-beneficiary dies or fails to meet some condition or rejects the inheritance)
+113284678	(law) a gift of personal property by will
+113284819	an inheritance coming by right of birth (especially by primogeniture)
+113284975	(law) a gift of real property by will
+113285102	a life estate to which a wife is entitled on the death of her husband
+113285241	(law) an estate secured to a prospective wife as a marriage settlement in lieu of a dower
+113285421	something acquired without effort or payment or obligation
+113285587	something that has been in a family for generations
+113285693	(law) any property that is considered by law or custom as inseparable from an inheritance is inherited with that inheritance
+113285910	something acquired without compensation
+113286324	money or property brought by a woman to her husband at marriage
+113286502	money or property given (in some societies) by the bridegroom to the family of his bride
+113286648	a gift or money given (as for service or out of benevolence); usually given ostentatiously
+113286803	gift of money or other material help to support a person or cause
+113287193	financial aid provided to a student on the basis of academic merit
+113287371	money granted (by a university or foundation or other agency) for advanced study or research
+113287538	aid (such as economic or military assistance) provided to one nation by another
+113287713	a United States program of economic aid for the reconstruction of Europe (1948-1952); named after George Marshall
+113287915	any monetary aid
+113288037	a grant paid by a government to an enterprise that benefits the public
+113288286	grant of financial aid as from a government to an educational institution
+113288434	a government subsidy used to maintain prices at a certain level
+113288557	a grant to a person or school for some educational project
+113288710	a grant that funds postdoctoral study or research
+113288839	financial aid that enables you to get trained for a specified job
+113289043	an award (as for meritorious service) given without claim or obligation
+113289169	something given for victory or superiority in a contest or competition or for winning a lottery
+113289507	tickets are passed out at the entrance to a dance or party or other social function and a prize is awarded to the holder of the winning ticket
+113289706	any outstanding award
+113289781	any money given as a prize
+113289865	something presented as a gift
+113290077	a present given in celebration of a person's birthday
+113290209	a present given at Christmas time
+113290341	a small Christmas present included in the Christmas stocking
+113290482	a present given to someone getting married
+113290619	a wedding present to the bride
+113290706	the amount that the insurance company will pay on a given life insurance policy if the policy is cancelled prior to the death of the insured
+113290913	an amount of money contributed
+113291061	a voluntary gift (as of money or service or ideas) made to some worthwhile cause
+113291283	a contribution of money or assistance
+113291396	money contributed to a religious organization
+113291568	an offering of a tenth part of some personal income
+113291671	the offerings of the congregation at a religious service
+113291783	an annual contribution made by Roman Catholics to support the papal see
+113291929	a contribution made to a politician or a political campaign or a political party
+113292117	political contributions made in such a way as to avoid the United States regulations for federal election campaigns (as by contributions to a political action committee)
+113292343	the capital that provides income for an institution
+113292521	a gift that significantly increases the recipient's wealth
+113292654	a church endowment
+113292728	an endowment for the singing of Masses
+113292820	a small gift (especially one given by a merchant to a customer who makes a purchase)
+113292960	a gift that is bestowed or conferred
+113293082	payment or reward (especially from a government) for acts such as catching criminals or killing predatory animals or enlisting in the military
+113293306	a prize, bonus, or award given as an inducement to purchase products, enter competitions initiated by business interests, etc.
+113293568	something that is free (usually provided as part of a promotional scheme)
+113293735	a gift of public land or resources for the private gain of a limited group
+113293883	a gift (usually of inferior quality) that should be accepted uncritically
+113294073	an offering made as an expression of thanks
+113294177	an additional payment (or other remuneration) to employees as a means of increasing output
+113294404	a formal scheme for inducing someone (as employees) to do something
+113294573	(taxes) an amount that can be deducted (especially for the purposes of calculating income tax)
+113294761	the sum of money that is misappropriated
+113294859	a bonus; something extra (especially a share of a surplus)
+113294972	remuneration offered to a salesperson for exceeding some predetermined sales goal
+113295115	an amount added or deducted on the basis of qualifying circumstances
+113295387	an allowance for changes in the consumer price index
+113295510	an allowance for loss due to depreciation
+113295620	an amount or percentage deducted
+113295755	a discount from the list price of a commodity allowed by a manufacturer or wholesaler to a merchant
+113295915	a statistical adjustment made to accommodate predictable fluctuations as a function of the season of the year
+113296160	an adjustment made for the weight of the packaging in order to determine the net weight of the goods
+113296311	money paid out; an amount spent
+113296518	amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)
+113296870	the total spent for goods or services including money and time and labor
+113297353	ordinary and necessary expenses incurred in a taxpayer's business or trade
+113297542	interest paid on loans
+113297627	expenses incurred in promoting or evaluating legislation
+113297801	amount spent for diagnosis or treatment or prevention of medical problems
+113297936	an expense (such as depreciation) that is not paid for in cash
+113298079	the cost of moving your residence from one location to another
+113298202	the expense of maintaining property (e.g., paying property taxes and utilities and insurance); it does not include depreciation or the cost of financing or income taxes
+113298515	the cost (over a period of five years) of organizing a new corporation or partnership
+113298667	the cost of personal or family living
+113298812	the cost of promoting a product
+113298909	money spent to perform work and usually reimbursed by an employer
+113299123	a public expenditure (as for unemployment compensation or veteran's benefits) that is not for goods and services
+113299298	the cost of long-term improvements
+113299398	a sum of money paid or a claim discharged
+113300069	a payment larger than needed or expected
+113300185	a payment smaller than needed or expected
+113300285	something that remunerates
+113300832	extra pay for soldiers engaged in active combat
+113300936	a doubled wage (for working overtime)
+113301031	food and lodging provided in addition to money
+113301162	reduced wage paid to someone who is not working full time
+113301274	a wage sufficient for a worker and family to subsist comfortably
+113301396	extra pay awarded to an employee on the basis of merit (especially to school teachers)
+113301538	the lowest wage that an employer is allowed to pay; determined by contract or by law
+113301681	wages enclosed in an envelope for distribution to the wage earner
+113301818	wages paid to an employee who is on sick leave
+113301919	money paid to strikers from union funds
+113302015	what is left of your pay after deductions for taxes and dues and insurance etc
+113302153	a payment for consecutive issues of a newspaper or magazine for a given period of time
+113302298	a payment made at regular times
+113302499	amount of money received per unit time
+113302664	a rate of pay that is 1.5 times the regular rate; for overtime work
+113302793	the amount of money paid out per unit time
+113302948	paid to a hired murderer
+113303030	payment or reward (as for service rendered)
+113303184	money returned to a payer
+113303298	a refund of some fraction of the amount paid
+113303442	a rebate on rent given by a local government authority
+113303573	something (such as money) given or received as payment or reparation (as for a service or loss or injury)
+113303971	excessive compensation
+113304056	compensation for death or injury suffered by a worker in the course of his employment
+113304210	payment made voluntarily to reduce guilt over dishonest dealings
+113304337	a payment made by one person for the support of another
+113304508	support paid by one half of an unmarried partnership after the relationship ends
+113304643	court-ordered support paid by one spouse to another after they are separated
+113304787	payment made in return for a service rendered
+113304975	a fee paid for a nominally free service
+113305071	money demanded for the return of a captured person
+113305207	a reward for information about a murderer
+113305306	a reward or payment
+113305379	a fitting reward
+113305465	a bribe paid to someone to insure that something is kept secret
+113305585	payment made to a person in a position of trust to corrupt his judgment

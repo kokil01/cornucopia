@@ -1,0 +1,1000 @@
+113305807	a commercial bribe paid by a seller to a purchasing agent in order to induce the agent to enter into the transaction
+113305996	a bribe given to a disc jockey to induce him to promote a particular record
+113306124	money offered as a bribe
+113306199	assets belonging to or due to or contributed by an individual person or group
+113306642	a portion of something (especially money)
+113306737	a share that has been dispensed or distributed
+113306878	a share of money or food or clothing that has been charitably given
+113306996	a portion of something divided into shares
+113307122	a fixed portion that is allotted (especially in times of scarcity)
+113307277	an amount allowed or granted (as during a given period)
+113307547	a share of something
+113307663	a promised or claimed share of loot or money
+113307824	(law) a right or legal share of something; a financial involvement with something
+113308262	funds advanced to a prospector or to someone starting a business in return for a share of the profits
+113308437	ownership of more than 50% of a corporation's voting shares
+113308563	an interest in a person or thing that will support the issuance of an insurance policy; an interest in the survival of the insured or in the preservation of the thing that is insured
+113308810	(law) an interest in which there is a fixed right to present or future enjoyment and that can be conveyed to another
+113309007	any interest in a property that secures the payment of an obligation
+113309229	an interest in property that terminates under specific conditions
+113309360	the interest in property owned by tenants whereby each tenant has an equal right to enjoy the entire property
+113309552	an interest in land capable of being inherited
+113309684	a fee without limitation to any class of heirs; they can sell it or give it away
+113309821	a fee limited to a particular line of heirs; they are not free to sell it or give it away
+113309965	land received by fee tail
+113310043	a system in which employees receive a share of the net profits of the business
+113310182	a share of the profits
+113310329	a percentage (of winnings or loot or profit) taken by an operator or gangster
+113310490	a share set aside for a specific purpose
+113310653	a share that has been allocated again
+113310767	a proportional share assigned to each participant
+113310868	money set aside (as by a legislature) for a specific purpose
+113311025	compensation paid (to someone) for damages or losses or money already spent etc.
+113311308	compensation received by virtue of holding an office or having employment (usually in the form of wages or fees)
+113311589	compensation paid to the family of a murdered person
+113311699	a sum of money paid in compensation for loss or injury
+113312014	(law) redress awarded by a court
+113312212	a compensating equivalent
+113312379	(law) compensation for losses that can readily be proven to have occurred and for which the injured party has the right to be compensated
+113312637	(law) a trivial sum (usually $1.00) awarded as recognition that a legal injury was sustained (as for technical violations of a contract)
+113312854	(law) compensation in excess of actual damages (a form of punishment awarded in cases of malicious or willful misconduct)
+113313127	twice the amount that a court would normally find the injured party entitled to
+113313267	three times the amount that a court would normally find the injured party entitled to
+113313413	(usually plural) compensation exacted from a defeated nation by the victors
+113313636	compensation (given or received) for an insult or injury
+113313810	compensation for a wrong
+113314012	(often plural) a payment that is made to a performer or writer or director of a television show or commercial that is paid for every repeat showing
+113314269	a level of personal income defining the state of poverty
+113314400	a sum granted as reimbursement for expenses
+113314535	reimbursement for goods damaged while in transit or in use
+113314648	pecuniary reimbursement to the winning party for the expenses of litigation
+113314775	a daily allowance for living expenses (especially while traveling in connection with your job)
+113314924	a sum allowed for travel
+113315052	a travel allowance at a given rate per mile traveled
+113315158	a sum of money allotted on a regular basis; usually for some specific purpose
+113315325	allowance for a monarch's personal expenses
+113315426	the stipend assigned by a cathedral to a canon
+113315526	income from capital investment paid in a series of regular payments
+113315786	an annuity paid in a series of more or less equal payments at the beginning of equally spaced periods
+113316048	an annuity paid in a series of more or less equal payments at the end of equally spaced periods
+113316206	an annuity payable to one person in the event that someone else is unable to receive it
+113316383	an annuity scheme wherein participants share certain benefits and on the death of any participant his benefits are redistributed among the remaining participants; can run for a fixed period of time or until the death of all but one participant
+113316680	a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service
+113316995	payment for the right to occupy and improve a piece of land
+113317112	very low or nominal rent
+113317217	an extortionate rent
+113317293	the return derived from cultivated land in excess of that derived from the poorest land cultivated under similar conditions
+113317483	financial return or reward (especially returns equal to the initial investment)
+113317616	a system for paying for goods by installments
+113317775	installment plan
+113317922	financial assistance in time of need
+113318120	a benefit that goes to anyone whose money receipts increase automatically as prices rise
+113318277	insurance or pension money payable to a beneficiary of a deceased
+113318420	a percentage of death benefits paid directly to policy holders having a short life expectancy (usually 6 months)
+113318618	cash derived from sale of an insurance policy by a terminally ill policy holder
+113318763	insurance benefits paid in case of disability
+113318873	money paid (by the government) to someone who is too ill to work
+113319034	an incidental benefit awarded for certain types of employment (especially if it is regarded as a right)
+113319310	any customary and rightful perquisite appropriate to your station in life
+113319560	a tax deduction that is granted in order to encourage a particular type of commercial activity
+113319724	a relatively small amount of money given for services rendered (as by a waiter)
+113319958	a present given at Christmas for services during the year
+113320094	court-ordered support paid by one spouse to the other who has custody of the children after the parents are separated
+113320271	a complete payment consisting of a single sum of money
+113320380	the final payment of a debt
+113320476	a payment of money sent to a person in another place
+113320674	payment of a debt or obligation
+113320827	repayment of the principal amount of a debt or security at or before maturity (as when a corporation repurchases its own stock)
+113321048	a small payment made in acknowledgement of an obligation
+113321164	loss resulting from failure of a debt to be paid
+113321347	nonpayment of a debt when due
+113321434	act of failing to meet a financial obligation
+113321578	a payment required for not fulfilling a contract
+113321734	an inadequate payment
+113321851	a justly deserved penalty
+113321945	a penalty for a fault or mistake that involves losing or giving up something
+113322197	something that is lost or surrendered as a penalty
+113322350	money extracted as a penalty
+113322522	fine imposed by a library on books that overdue when returned
+113322642	payment for insurance
+113322737	a payment of part of a debt; usually paid at regular intervals
+113322857	excess of cost over budget
+113323023	average cost of basic necessities of life (as food and shelter and clothing)
+113323223	the cost of borrowing something
+113323315	any cost incurred by a producer or wholesaler or retailer or distributor (as for advertising and shipping etc)
+113323489	the cost of handling (especially the cost of packaging and mailing an order)
+113323643	the cost of marketing (e.g., the cost of transferring title and moving goods to the customer)
+113323797	combined costs of raw material and labor incurred in producing goods
+113323927	current cost of replacing a fixed asset with a new one of equal effectiveness
+113324067	cost of reproducing physical property minus various allowances (especially depreciation)
+113324236	calculated cost for a given unit of a product
+113324337	the amount of money needed to purchase something
+113324781	cost of bribing someone
+113324902	the amount added to the cost to determine the asking price
+113325031	the price at which something is offered for sale
+113325208	(stock market) the price at which a broker is willing to buy a certain security
+113325362	(stock market) the price of the last transaction completed during a day's trading session
+113325530	(stock market) the price at which a broker is willing to sell a certain security
+113325687	(auction) the minimum price at which a seller of property will entertain bids
+113325841	price charged for goods picked up at the factory
+113325949	an exorbitant price
+113326092	the selling price of something as stated in a catalogue or price list; often subject to discounts
+113326284	the price at which something is actually purchased
+113326395	the current delivery price of a commodity traded in the spot market
+113326532	(stock market) the price at which a certain security becomes attractive to investors
+113326695	assessed price
+113326816	cost in terms of foregoing alternatives
+113326954	the opportunity cost of the funds employed as the result of an investment decision; the rate of return that a business could earn if it chose another investment with equivalent risk
+113327212	the opportunity cost of unproductive assets; the expense incurred by ownership
+113327368	the cost of carrying or transporting
+113327458	(frequently plural) an expense not budgeted or not specified
+113327691	(frequently plural) expenses incurred by an employee in the performance of the job and usually reimbursed by the employer
+113327892	the price charged for some article or service
+113328392	charge made for carrying an account or for merchandise sold on an installment plan
+113328536	an amount periodically charged to expense or against revenue in compensation for depreciation of property
+113328707	a price that is too low
+113328806	a price that is too high
+113328923	an exorbitant charge
+113329017	a charge added at a restaurant for every bottle of wine served that was not bought on the premises
+113329169	the sum charged for riding in a public conveyance
+113329358	the fare charged for traveling by airplane
+113329454	the fare charged for riding a bus or streetcar
+113329565	the fare charged for riding in a taxicab
+113329672	the fare charged for riding a subway train
+113329772	the fare charged for traveling by train
+113329886	a charge imposed and collected
+113330021	charge against a citizen's person or property or activity for the support of government
+113330798	collective value of taxable assets
+113330887	rate used to calculate tax liability
+113330978	the amount of tax owed; calculated by applying the tax rate to the tax base
+113331113	a system of taxation in which a tax is levied on a single commodity (usually land)
+113331252	a personal tax levied on annual income
+113331437	a movement into a higher tax bracket as taxable income increases
+113331561	income tax paid periodically on income that is not subject to withholding taxes; based on the taxpayer's predicted tax liability
+113331749	a tax on employees and employers that is used to fund the Social Security system
+113331880	tax write-off for expenses of doing business
+113332007	a deduction allowed to a taxpayer because of his status (having certain dependents or being blind or being over 65 etc.)
+113332239	deduction allowed for some (limited) kinds of entertainment for business purposes
+113332390	income tax withheld from employees' wages and paid directly to the government by the employer
+113332595	the British system of withholding tax
+113332701	an unearned rise in the market value of property resulting from general market factors
+113332852	the amount by which the selling price of an asset exceeds the purchase price; the gain is realized when the asset is sold
+113333032	the amount by which the purchase price of an asset exceeds the selling price; the loss is realized when the asset is sold
+113333212	a tax on capital gains
+113333351	a tax on capital or property
+113333456	a tax that is levied when you are departing a country by land or sea or air
+113333591	a capital tax on property imposed by municipalities; based on the estimated value of the property
+113333776	a tax levied on households by local authorities; based on the estimated value of the property and the number of people living in it
+113333984	a tax that is imposed by states on corporations; it depends both on the net worth of the corporation and on its net income attributable to activities within the state
+113334210	a tax imposed on transfers of property by gift during the lifetime of the giver
+113334344	a tax on the estate of the deceased person
+113334486	a tax paid directly by the person or organization on whom it is levied
+113334613	an advantage bestowed by legislation that reduces a tax on some preferred activity
+113334755	a way of organizing business to reduce the taxes it must pay on current earnings
+113334921	a tax levied on goods or services rather than on persons or organizations
+113335107	a tax paid unwittingly by the consumer (such as ad valorem taxes)
+113335248	a tax levied on the basis of a fixed amount per person
+113335377	a tax of a fixed amount per person and payable as a requirement for the right to vote
+113335517	any tax in which the rate increases as the amount subject to taxation increases
+113335674	any tax in which the rate is constant as the amount subject to taxation increases
+113335818	any tax in which the rate decreases as the amount subject to taxation increases
+113335958	a local tax on property (usually used in the plural)
+113336099	a local tax for the relief of the poor
+113336213	a tax collected by requiring a stamp to be purchased and attached (usually on documents or publications)
+113336386	an additional tax on certain kinds of income that has already been taxed
+113336540	a tax toward paving streets
+113336638	any tax levied on the passing of title to property
+113336765	a levy of one tenth of something
+113336849	an additional tax levied on private property for public improvements that enhance the value of the property
+113337021	a government tax on imports or exports
+113337354	a tax that is measured by the amount of business done (not on property or income from real estate)
+113337590	a tax based on the cost of the item purchased and collected directly from the buyer
+113337744	a tax levied on the difference between a commodity's price before taxes and its cost of production
+113337927	a tax on every gallon of gasoline sold
+113338024	money collected under a tariff
+113338159	an impost levied in England to provide money for ships for national defense
+113338291	a tax imposed on ships that enter the US; based on the tonnage of the ship
+113338444	a tax on various goods brought into a town
+113338539	a tariff imposed to raise revenue
+113338633	a tariff imposed to protect domestic firms from import competition
+113338781	a tariff imposed to prevent dumping
+113338880	a duty imposed on imports
+113338963	a duty imposed on exports
+113339046	a duty imposed to offset subsidies by foreign governments
+113339169	a periodic charge that does not vary with business volume (as insurance or rent or mortgage payments etc.)
+113339433	a fixed charge by a restaurant or nightclub over and above the charge for food and drink
+113339606	a fixed charge for borrowing money; usually a percentage of the amount borrowed
+113339826	interest calculated on both the principal and the accrued interest
+113339956	interest paid on the principal alone
+113340054	the percentage of a sum of money charged for its use
+113340275	interest on an annual basis deducted in advance on a loan
+113340437	the discount rate fixed by a central bank
+113340534	the rate of interest set by the Federal Reserve that member banks are charged when they borrow money through the Federal Reserve System
+113340748	the interest rate set by the Bank of England for lending to other banks
+113340894	the interest rate on short-term loans that banks charge their commercial customers with high credit ratings
+113341067	an exorbitant or unlawful rate of interest
+113341190	a fixed charge for a privilege or for professional services
+113341713	a fee for anchoring
+113341788	a charge for storing goods in a cellar
+113341882	a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)
+113342103	a fee that is payable only if the outcome is successful (as for an attorney's services)
+113342252	a fee charged for a vessel to use a dock
+113342360	a fee added for returning a rented car to a location different from the one where it was rented
+113342517	the fee charged for admission
+113342744	a fee that is paid to someone who finds a source of financial backing or to someone who brings people together for business purposes
+113343014	a fee paid for legal service
+113343135	a fee paid to the government for the privilege of being licensed to do something (as selling liquor or practicing medicine)
+113343365	a fee (in addition to that marked on the brief) paid to counsel in a case that lasts more than one day
+113343542	the fee charged for carrying goods in lighters
+113343663	a fee charged for passage through a lock in a canal or waterway
+113343780	fee paid to a mint by the government for minting a coin
+113343889	a fee for mooring
+113343960	a fee charged to a borrower (especially for a mortgage loan) to cover the costs of initiating the loan
+113344124	a fee charged for the use of pipes
+113344229	a fee charged for the recovery of impounded animals
+113344335	a fee charged in advance to retain the services of someone
+113344482	something for something; that which a party receives (or is promised) in return for something he does or gives or promises
+113344670	charged by a government for coining bullion
+113344771	a fee levied for the use of roads or bridges (used for maintenance)
+113344907	a fee charged for transporting goods by truckage
+113345010	a fee paid for instruction (especially for higher education)
+113345210	a fee charged for the use of a wharf or quay
+113345319	a fee charged for exchanging currencies
+113345449	a charge required as compensation for the delay of a ship or freight car or other cargo beyond its scheduled time of departure
+113345631	the charge for installing something
+113345732	the charge for carrying burdens by porters
+113345848	the charge for mailing something
+113345934	a charge based on weight measured in pounds
+113346032	amount of a charge or payment relative to some basis
+113346404	rate per quarter for water from a public supply
+113346527	an additional charge (as for items previously omitted or as a penalty for failure to exercise common caution or common skill)
+113346744	a surcharge added to the cost per person when traveling alone
+113346869	a percentage of a bill (as at a hotel or restaurant) added in payment for service
+113347043	the charge for stowing goods
+113347125	the charge for storing something in tanks
+113347220	the charge for transporting something by common carrier
+113347472	the rate at which the value of property is reduced; used to calculate tax deduction
+113347642	the charge for exchanging currency of one country for currency of another
+113347794	a reduced rate for a round-trip ticket
+113347893	a rate of charging by the linear foot of work done
+113347997	a rate of payment for written material that is measured according to the number of lines submitted
+113348158	the rate charged daily for a hotel room
+113348253	the amount by which the cost of a business exceeds its revenue
+113348525	a situation in which increased costs cannot be passed on to the customer
+113348698	something that is lost
+113348918	loss of money or decrease in financial value
+113349095	a loss entailed by giving up or selling something at less than its value
+113349295	anything lost by wear or waste
+113349379	decrease in value of an asset due to obsolescence or use
+113349600	(accounting) a method of calculating depreciation by taking an equal amount of the asset's cost as an expense for each year of the asset's useful life
+113349875	(accounting) reduction in the book value of an asset
+113350069	a reduction in the gross amount on which a tax is calculated; reduces taxes by the percentage fixed for the taxpayer's income bracket
+113350344	something lost (especially money lost at gambling)
+113350511	a person's financial situation (good or bad)
+113350663	anything of material value or usefulness that is owned by a person or company
+113351190	money that you currently expect to pay on notes and accounts
+113351305	money that you currently expect to receive from notes or accounts
+113351447	the most desirable assets of a corporation
+113351613	(plural) a source of substantial wealth
+113351779	capital held back from investment in order to meet probable or possible demands
+113351956	reserve assets in the International Monetary Fund; designed to supplement reserves of gold and convertible currencies used to maintain stability in the foreign exchange market
+113352213	a quantity of money
+113352649	an amount of money expressed numerically
+113352793	available source of wealth; a new or reserve supply that can be drawn upon when needed
+113353024	resources (actual and potential) supplied by nature
+113353212	resources of available manpower
+113353305	natural resources in the form of arable land
+113353410	natural resources in the form of minerals
+113353515	any natural resource (as wood or solar energy) that can be replenished naturally with the passage of time
+113353685	assets that are saleable though not material or physical
+113353835	(accounting) an intangible asset valued according to the advantage or reputation a business has acquired (over and above its tangible assets)
+113354062	assets in the form of cash (or easily convertible into cash)
+113354252	money that is invested with an expectation of profit
+113354435	the ownership interest of shareholders in a corporation
+113354561	interest in a building that a tenant earns by contributing to its renovation or maintenance
+113354711	the difference between the market value of a property and the claims held against it
+113354848	the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity)
+113355322	ownership of stocks; the state or fact of holding stock
+113355507	a specific number of stocks or shares owned
+113355665	the book value of the outstanding shares of a corporation
+113355782	a common stock of a nationally known company whose value and dividends are reliable; typically have high price and low yield
+113356023	common stock classified as A or B where A has certain advantages (e.g., voting power) that B does not
+113356187	stock other than preferred stock; entitles the owner to a share of the corporation's profits and a share of the voting power in shareholder elections
+113356536	stock held by stockholders of record on a given date
+113356650	the value of a security that is set by the company issuing it; unrelated to market value
+113356823	stock with no par value specified in the corporate charter or on the stock certificate
+113356989	stock whose holders are guaranteed priority in the payment of dividends but whose holders have no voting rights
+113357219	preferred stock whose dividends if omitted accumulate until paid out
+113357383	the number of shares outstanding and available for trading by the public
+113357507	preferred stock or convertible bonds or warrants that can be converted into common stock
+113357665	shares owned by shareholders who have a controlling interest
+113357785	stock of a corporation that has had faster than average gains in earnings and is expected to continue to
+113357948	newly issued stock that is in great public demand
+113358065	a stock selling for less that $1/share
+113358161	the value at which an asset is carried on a balance sheet; equals cost minus accumulated depreciation
+113358337	the price at which buyers and sellers trade the item in an open marketplace
+113358486	bonds sold by a corporation or government agency at a particular time and identifiable by date of maturity
+113358649	a bond that can be converted to other securities under certain conditions
+113358785	a bond issued by a corporation; carries no claim to ownership and pays no dividends but payments to bondholders have priority over payments to stockholders
+113359081	a bond issued with detachable coupons that must be presented to the issuer for interest payments
+113359249	a bond that is an IOU of the United States Treasury; considered the safest security in the investment world
+113359454	a (speculative) bond with a credit rating of BB or lower; issued for leveraged buyouts and other takeovers by companies with questionable credit
+113359672	a bond issued by a state or local government
+113359795	a bond containing a provision that the holder cannot redeem the security before a specific date (usually at maturity)
+113359975	a bond given to protect the recipient against loss in case the terms of a contract are not filled; a surety company assumes liability for nonperformance
+113360204	a bond made by a reversioner to secure a loan; payable out of his reversion
+113360340	a bond whose owner is recorded on the books of the issuer; can be transferred to another owner only when endorsed by the registered owner
+113360557	a bond issued by an agency that is commissioned to finance public works; revenue from the public property is used to pay off the bond
+113360749	a bond that is back by collateral
+113360859	the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future
+113361095	a security issued by United States government agencies or the Farm Credit System
+113361259	a security created when a group of mortgages are gathered together and bonds are sold to other institutions or the public; investors receive a portion of the interest payments on the mortgages as well as the principal payments; usually guaranteed by the government
+113361594	a security whose owner's name is recorded on the books of the issuer (or issuer's agent)
+113361766	non-negotiable government bond; cannot be bought and sold once the original purchase is made
+113361917	a bond issued to finance the construction of public utility services
+113362067	a bond that is issued at a deep discount from its value at maturity and pays no interest during the life of the bond; the commonest form of zero-coupon security
+113362365	(law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death of the grantee)
+113362608	a reversion to the state (as the ultimate owner of property) in the absence of legal heirs
+113362771	(frequently plural) the interest possessed by law or custom in some intangible thing
+113362977	(civil law) the right to all of that which your property produces whether by growth or improvement
+113363150	any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate
+113363413	the maximum number of shares authorized under the terms of a corporation's articles of incorporation
+113363612	stock with a par value of $25/share
+113363707	an investment that is very risky but could yield great profits
+113364002	money that is risked for possible monetary gain
+113364138	money bet or invested by experienced gamblers or investors (especially if they have inside information)
+113364299	(stock market) a series of transactions in which the speculator increases his holdings by using the rising market value of those holdings as margin for further purchases
+113364541	the money risked on a gamble
+113364789	the cumulative amount involved in a game (such as poker)
+113364932	(poker) the initial contribution that each player makes to the pot
+113365086	defense against financial failure; financial independence
+113365401	financial security
+113365477	any technique designed to reduce or eliminate financial risk; for example, taking two positions that will offset each other if prices change
+113365679	the total amount and type of insurance carried
+113365819	promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company
+113366301	a British term for some kinds of insurance
+113366418	insurance against loss due to theft or traffic accidents
+113366575	a system of automobile insurance where a party who is injured in an automobile accident recovers damages up to a specific amount against his own insurance company regardless of who was responsible for the accident
+113366977	insurance that provides protection for the loss of profits and continuing fixed expenses resulting from a break in commercial activities due to the occurrence of a peril
+113367224	insurance issued jointly by two or more underwriters
+113367352	insurance against loss due to fire
+113367447	insurance that is purchased by a group (such as the employees of a company) usually at a reduced rate to individual members of the group
+113367645	insurance that provides protection against certain risks such as storms or fires
+113367788	insurance against loss due to ill health
+113367927	insurance that pays all or part of a patient's hospital expense
+113368080	insurance that provides protection from claims arising from injuries or damage to other people or property
+113368252	insurance paid to named beneficiaries when the insured person dies
+113368504	life insurance for a specified amount which is payable to the insured person at the expiration of a certain period of time or to a designated beneficiary immediately upon the death of the insured
+113368765	a form of life insurance whereby on the death or default of a participant his share is distributed to the remaining members
+113368962	insurance on the life of the insured for a fixed amount at a definite premium that is paid each year in the same amount during the entire lifetime of the insured
+113369242	insurance purchased by physicians and hospitals to cover the cost of being sued for malpractice
+113369471	sharing the risk by insurance companies; part or all of the insurer's risk is assumed by other companies in return for part of the premium paid by the insured
+113369807	insuring yourself by setting aside money to cover possible losses rather than by purchasing an insurance policy
+113369979	low-cost insurance that is valid only for a stated period of time and has no cash surrender value or loan value
+113370223	group insurance that entitles members to services of participating hospitals and clinics and physicians
+113370410	property that your creditor can claim in case you default on your obligation
+113370677	money given as security for an article acquired for temporary use
+113370849	a partial payment made at the time of purchase; the balance to be paid later
+113371012	(law) the payment of a debt or fulfillment of an obligation
+113371197	something of value given by one person to another to bind a contract
+113371337	money given by a buyer to a seller to bind a contract
+113371458	(law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited
+113371717	a deposit of personal property as security for a debt
+113371890	an article deposited as security
+113371991	(criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial
+113372293	the amount of collateral a customer deposits with a broker when borrowing from the broker to buy securities
+113372472	a fund that a customer has entrusted to a securities brokerage
+113372695	an account with a securities brokerage whose transactions are settled on a cash basis
+113372875	a brokerage firm account that parents have created for a minor
+113373001	an account with a securities brokerage in which the broker extends credit
+113373153	a conditional conveyance of property as security for the repayment of a loan
+113373356	a security interest taken by the seller in return for credit
+113373479	a mortgage that has priority over all mortgages and liens except those imposed by law
+113373625	a mortgage that is subordinate to a first mortgage
+113373737	a loan to buy some personal item; the item (or chattel) is security for the loan
+113373880	a security pledged for the repayment of a loan
+113374019	a collateral agreement to answer for the debt of another in case that person defaults
+113374171	assets in the form of material possessions
+113374295	an abundance of material possessions and resources
+113374461	great wealth
+113374622	wealth in the form of money or property owned by a person or business and human resources of economic value
+113374873	considerable capital (wealth or income)
+113375036	your personal financial means
+113375169	the necessary means (especially financial means)
+113375275	wealth available for investment in new or speculative enterprises
+113375435	assets available for use in the production of further assets
+113375784	capital available for the operations of a firm (e.g. manufacturing or transportation) as distinct from financial transactions and long-term improvements
+113376000	a statement of recent transactions and the resulting balance
+113376316	a financial statement that gives operating results for a specific period
+113376519	(finance) an account of the net value of a business at a specified date
+113376671	(economics) that part of the balance of payments recording a nation's outflow and inflow of financial securities
+113376883	capital as contrasted with the income derived from it
+113377017	capital needed to set up a new business or enterprise
+113377127	assets in the form of money
+113377435	the funds held by a gambling house or the dealer in some gambling games
+113377602	financial resources or support
+113377742	a roll of currency notes (often taken as the resources of a person or business etc.)
+113377947	a supply of money
+113378060	public funds used to pay for Medicaid
+113378158	the funds of a government or institution or individual
+113378351	the total stock of money in the economy; currency held by the public plus money in accounts in banks
+113378583	a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances
+113378745	a measure of the money supply; M1 plus net time deposits (other than large certificates of deposit)
+113378893	a measure of the money supply; M2 plus deposits at institutions that are not banks (such as savings and loan associations)
+113379064	a treasury for government funds
+113379173	a legislative appropriation designed to ingratiate legislators with their constituents
+113379324	the treasury of a public institution or religious order
+113379433	a subordinate treasury or place of deposit
+113379533	a state treasury or exchequer or a royal treasury; originally the public treasury of Rome or the emperor's private purse
+113379722	a reserve of money set aside for some purpose
+113380068	the pooled money that is invested in assets
+113380205	a mutual fund that is traded on a stock exchange
+113380326	a mutual fund whose assets are stocks on a given list
+113380436	a fund which, if borrowed or used, is intended to be replenished so it may be loaned or spent repeatedly
+113380601	a fund accumulated regularly in a separate account and used to redeem debt securities
+113380745	a fund of money put by as a reserve
+113380863	a fund that a customer has entrusted to a bank and from which the customer can make withdrawals
+113381114	an account at a post office that can be used in similar ways to an account at a bank
+113381276	a fund reserved to pay workers' pensions when they retire from service
+113381427	a fund accumulated to finance a war (or a political campaign)
+113381563	a fund for buying votes or bribing public officials
+113381671	something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)
+113382123	a trust in which the trustee must perform certain duties
+113382256	a trust that enables a person to avoid possible conflict of interest by transferring assets to a fiduciary; the person establishing the trust gives up the right to information about the assets
+113382506	a trust in which the trustee performs no active duties
+113382638	a trust created for charitable or religious or educational or scientific purposes
+113382797	a trust established to shift the income to someone who is taxed at a lower rate than the grantor for a period of 10 years or more
+113383003	a trust inferred by operation of law
+113383135	a trust created by a court (regardless of the intent of the parties) to benefit a party that has been wrongfully deprived of its rights
+113383355	a trust created by a court when it is judged that it was the intention of the parties to create a trust
+113383520	a trust created by the free and deliberate act of the parties involved (usually on the basis of written documentation)
+113383713	a trust that gives the trustee discretion to pay the beneficiary as much of the trust income as the trustee believes appropriate
+113383907	an investment trust that can buy only those securities listed when the trust was organized
+113384091	a trust created and operating during the grantor's lifetime
+113384229	a trust created to maintain a beneficiary but to be secure against the beneficiary's improvidence
+113384390	a trust that is created under a will and that becomes active after the grantor dies
+113384538	a savings account deposited by someone who makes themselves the trustee for a beneficiary and who controls it during their lifetime; afterward the balance is payable to the previously named beneficiary
+113384877	an agreement whereby persons owning stock with voting powers retain ownership while transferring the voting rights to the trustees
+113385066	a fund held in trust
+113385143	a bank account against which the depositor can draw checks that are payable on demand
+113385385	a bank account that accumulates interest
+113385541	a savings account in which the deposit is held for a fixed term or in which withdrawals can be made only after giving notice or with loss of interest
+113385775	a savings account showing no activity (other than posting interest) for some specified period
+113385994	a savings account in which deposits and withdrawals are recorded in the depositor's passbook
+113386157	a highly liquid debt instrument with maturities of less than three months
+113386310	a debt instrument issued by a bank; usually pays interest
+113386459	the financial means whereby one lives
+113386871	financial resources provided to make some project possible
+113387151	resources available to meet expenses (especially legislation for raising revenue for a government)
+113387310	things that make you comfortable and at ease
+113387484	means of maintenance of a family or group
+113387601	a source of income or livelihood
+113387710	minimal (or marginal) resources for subsisting
+113387866	(finance) profits that are not paid out as dividends but are added to the capital base of the corporation
+113388085	a secret store of valuables or money
+113388243	a supply of something available for future use
+113388621	a store or supply of something (especially of food or clothing or arms)
+113388766	supplies (as food or clothing or ammunition) issued by the government
+113388960	a supply of seeds (or tubers) reserved for planting
+113389086	good quality seeds (as kernels of corn) that are reserved for planting
+113389225	something kept back or saved for future use or a special purpose
+113389491	a supply or stock held in reserve for future use (especially in emergencies)
+113389690	a place for storing whole blood or blood plasma
+113389848	a place for storing and preserving corneas that are obtained from human corpses immediately after death; used for corneal transplantation to patients with corneal defects
+113390073	a place where food is contributed and made available to those in need
+113390247	the amount of fuel remaining
+113390332	any assets that are concealed until they can be used advantageously
+113390455	land retired from crop cultivation and planted with soil-building crops; government subsidies are paid to farmers for their retired land
+113390647	the combined stakes of the betters
+113390740	reserves that do not show up on the balance sheet (as by understating values)
+113390896	a hidden reserve that can be used to adjust quarterly earning reports
+113391030	any communal combination of funds
+113391187	funds taken out of earnings to provide for anticipated future payments
+113391388	a reserve fund created by a charge against profits in order to provide for changes in the value of a company's assets
+113391621	any possession that is highly valued by its owner
+113391842	accumulated wealth in the form of money or jewels etc.
+113392111	a large amount of wealth or prosperity
+113392203	something of value
+113392363	valuable goods
+113392447	a very large treasure
+113392528	treasure of unknown ownership found hidden (usually in the earth)
+113392662	any of the less common and valuable metals often used to make coins or jewelry
+113392855	a mass of precious metal
+113392933	coins made of gold
+113393039	coins made of silver
+113393131	a transparent piece of diamond that has been cut and polished and is valued as a precious gem
+113393296	diamonds
+113393435	a transparent piece of ruby that has been cut and polished and is valued as a precious gem
+113393576	a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel
+113393758	a small imperfect pearl
+113393838	a transparent piece of emerald that has been cut and polished and is valued as a precious gem
+113393985	a transparent piece of sapphire that has been cut and polished and is valued as a precious gem
+113394134	anything that is generally accepted as a standard of value and a measure of wealth in a particular country or region
+113394387	the value behind the money in a monetary system
+113394599	a monetary standard under which the basic unit of currency is defined by a stated quantity of gold
+113394757	a monetary standard under which the basic unit of currency is defined by a stated quantity of silver
+113394919	a monetary standard under which the basic unit of currency is defined by stated amounts of two metals (usually gold and silver) with values set at a predetermined ratio
+113395181	something that can be used as an official medium of payment
+113395334	a government-issued stamp that can be used in exchange for food
+113395454	arrangement for deferred payment for goods and services
+113395599	a line of credit extended for personal or household use
+113395770	a loan made by a bank; to be repaid with interest on or before a fixed date
+113395937	a bank loan granted for the use of a business
+113396060	a loan from one bank to another
+113396152	a loan secured by equity value in the borrower's home
+113396340	a loan repaid with interest in equal periodic payments
+113396496	a consumer credit line that can be used up to a certain limit or paid down at any time
+113396777	credit extended by a business to a customer
+113396931	a charge account that does not have to be paid to zero balance
+113397064	an amount paid before it is earned
+113397185	a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller receives payment for the merchandise delivered
+113397599	a credit card issued by a bank
+113397685	a card that is used instead of cash to make telephone calls
+113397816	a credit card that entitles the holder to receive cash
+113397937	a card (usually plastic) that enables the holder to withdraw money or to have the cost of purchases charged directly to the holder's bank account
+113398176	a plastic card containing a microprocessor that enables the holder to perform operations requiring data that is stored in the microprocessor; typically used to perform financial transactions
+113398441	a document ordering the payment of money; drawn by one person or bank on another
+113398827	a draft in excess of the credit balance
+113398922	a bill of exchange that is drawn in one country and made payable in another
+113399072	a bill of exchange that is both drawn and made payable in the same country
+113399204	a draft for the amount of a dishonored draft plus the costs and charges of drafting again
+113399347	a bill of exchange for a specific purchase; drawn on the buyer by the seller and bearing the buyer's acceptance
+113399521	the system by which one currency is exchanged for another; enables international transactions to take place
+113399691	money available for a client to borrow
+113399890	credit available at low rates of interest
+113399989	a surplus or excess of money or merchandise that is actually on hand and that exceeds expectations
+113400141	a direct reduction in tax liability (not dependent on the taxpayer's tax bracket)
+113400279	a credit opened by an importer with a bank in an exporter's country to finance an export operation
+113400437	credit opened by an importer at a bank in his own country upon which an exporter may draw
+113400586	the maximum credit that a customer is allowed
+113400792	credit granted by a bank to a business concern for commercial purposes
+113400926	a document issued by a bank that guarantees the payment of a customer's draft; substitutes the bank's credit for the customer's credit
+113401177	a letter of credit given to a business concern for commercial purposes
+113401321	a letter of credit given to a traveler
+113401482	a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer
+113401703	a draft drawn by a bank against funds deposited in another bank
+113401840	an order of payment (such as a check payable to a shareholder) in which a dividend is paid
+113401993	a written order for the payment of a sum to a named individual; obtainable and payable at a post office
+113402169	credit provided by a bank in honoring a customer's overdrafts
+113402318	money deposited in a bank or some similar institution
+113402476	a bank deposit from which withdrawals can be made without notice
+113402601	a certificate of deposit from which withdrawals can be made only after advance notice or at a specified future date
+113402775	banking: a time draft drawn on and accepted by a bank
+113402907	a written order directing a bank to pay money
+113403294	a check that is dishonored on presentation because of insufficient funds
+113403479	a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+113403644	a bank check that has been fraudulently altered to increase its face value
+113403787	a blank check provided by a bank for the convenience of customers who are making withdrawals
+113403939	a check given by the British government to someone who is unemployed; it can be cashed either at a bank or at the post office
+113404148	a check issued in payment of wages or salary
+113404263	a check containing certification that the person who issued the check has sufficient funds on deposit to cover payment
+113404462	a check drawn against funds deposited in your personal checking account
+113404612	a check issued by the officer of a bank on the banks own account (not that of a private person)
+113404869	a check that has been signed but with the amount payable left blank
+113405028	a monthly payment made to someone who has become disabled and is unable to work
+113405191	a check reimbursing an aged person for the expenses of health care
+113405337	a regular payment to a person that is intended to allow them to subsist without working
+113405514	a monthly payment made to someone who is retired from work
+113405730	the most common medium of exchange; functions as legal tender
+113406050	the official currency issued by a government or national bank
+113406253	British money; especially the pound sterling as the basic monetary unit of the UK
+113406389	informal terms for money
+113406639	paper money of little value issued on insufficient security
+113406756	money (or other benefits) obtained as a subsidy
+113406951	coins of regular issue whose face value is greater than their intrinsic value
+113407086	the metal or paper medium of exchange that is presently used
+113407309	currency of the major financial and industrial countries held in those countries for the purpose of lending and borrowing
+113407507	paper currency in denominations less than the basic monetary unit
+113407638	prompt payment for goods or services in currency or by check
+113407787	money in the form of bills or coins
+113408055	a currency that is not likely to depreciate suddenly in value
+113408382	currency issued by a government or central bank and consisting of printed paper that can circulate as a substitute for specie
+113408652	money received in return for its equivalent in a larger denomination or a different currency
+113408862	the balance of money received when the amount you tender is greater than the amount due
+113409050	coins collectively
+113409173	a trifling sum of money
+113409284	coins of small denomination regarded collectively
+113409418	a flat metal piece (usually a disc) used as money
+113410278	an old Scottish coin of little value
+113410367	a gold coin of the Byzantine Empire; widely circulated in Europe in the Middle Ages
+113410532	any of various former European coins of different denominations
+113410648	formerly a gold coin of various European countries
+113410750	an old small silver Spanish coin
+113410833	an old silver Spanish coin; worth 8 reales
+113410936	an English coin worth one twentieth of a pound
+113411037	an English coin worth 5 shillings
+113411122	an English coin worth half a crown
+113411213	a United States coin worth one tenth of a dollar
+113411312	a United States coin worth one twentieth of a dollar
+113411417	a United States or Canadian coin worth one fourth of a dollar
+113411578	a United States coin worth half of a dollar
+113411698	an English coin worth half a penny
+113411799	a coin worth one-hundredth of the value of the basic unit
+113411961	a counterfeit coin
+113412030	a decimal coin worth ten pennies
+113412136	a former United Kingdom silver coin; United Kingdom bronze decimal coin worth two pennies
+113412291	former cupronickel coin of the United Kingdom equal to three pennies
+113412435	a former English silver coin worth four pennies
+113412546	a coin worth five cents
+113412625	a small coin of the United Kingdom worth six pennies; not minted since 1970
+113412783	a coin worth eight pennies
+113412866	a coin worth nine pennies
+113412947	a copper penny
+113413014	a coin used in Great Britain since 1971 worth one hundredth of a pound
+113413140	a United States coin worth one dollar
+113413329	a United States coin worth one dollar
+113413435	a dollar made of silver
+113413530	a former gold coin in the United States worth 20 dollars
+113413645	a former gold coin in the United States worth 10 dollars
+113413753	a former gold coin in United States worth 5 dollars
+113413861	a former British gold coin worth 21 shillings
+113413959	a former British bronze coin worth a quarter of a penny
+113414069	a former Spanish gold coin
+113414150	a former French gold coin
+113414232	any of various large ancient Greek coins
+113414328	any of the various silver or gold coins of ancient Greece
+113414438	a former French coin of low denomination; often used of any small amount of money
+113414600	specially minted silver coins that are distributed by the British sovereign on Maundy Thursday
+113414772	money that the government declares to be legal tender although it cannot be converted into standard specie
+113414935	a piece of paper money (especially one issued by a central bank)
+113415352	formerly a bank note issued by the United States Treasury and redeemable in silver
+113415499	negotiable debt obligations of the United States government which guarantees that interest and principal payments will be paid on time
+113415765	a short-term obligation that is not interest-bearing (it is purchased at a discount); can be traded on a discount basis for 91 days
+113415965	a debt instrument with maturities of 10 years or longer
+113416080	securities with maturities of 1 to 10 years; sold for cash or in exchange for maturing issues or at auction
+113416247	a United States bill worth 100 dollars
+113416360	a United States bill worth 50 dollars
+113416469	a United States bill worth 20 dollars
+113416580	a United States bill worth 10 dollars
+113416688	a United States bill worth 5 dollars
+113416825	five dollars worth of a drug
+113416972	a United States bill worth 2 dollars
+113417070	a piece of paper money worth one dollar
+113417227	anything that is owed to someone else
+113417449	an excess of liabilities over assets (usually over a certain period)
+113417658	an excess of expenditures over revenues
+113417776	an excess of the federal government's spending over its revenue
+113417941	an excess of imports over exports
+113418034	a payment that is due (e.g., as the price of membership)
+113418191	the liability of a firm's owners for no more than the capital they have invested in the firm
+113418347	money or goods or services owed by one person to another
+113418616	an unpaid overdue debt
+113418692	the debt of the national government (as distinguished from the debts of individuals and businesses and political subdivisions)
+113418878	the total of the nation's debts: debts of local and state and national governments; an indicator of how much public spending is financed by borrowing instead of taxation
+113419105	the maximum borrowing power of a governmental entity
+113419247	a limit set by Congress beyond which the national debt cannot rise; periodically raised by Congress
+113419414	a written promise to repay a debt
+113419642	a promise to pay a specified amount on demand or at a certain time
+113419941	a debt that is unlikely to be repaid
+113420032	debt to be paid by installments
+113420126	the temporary provision of money (usually at interest)
+113420448	a loan that is repayable on demand
+113420552	a loan by a lender to a customer without the use of a third party; direct lending gives the lender greater discretion in making loans
+113420743	a loan that is shared by a group of banks that join to make a loan too big for any one of them alone
+113420955	a loan that establishes consumer credit that is granted for personal use; usually unsecured and based on the borrower's integrity and ability to pay
+113421197	a personal loan to purchase an automobile
+113421323	one percent of the total principal of a loan; it is paid at the time the loan is made and is independent of the interest on the loan
+113421507	a loan on real estate that is usually secured by a mortgage
+113421645	a loan that is payable on or before a specified date
+113421753	a note payable on demand
+113421835	the original amount of a debt on which interest is calculated
+113421971	financial liabilities (such as a tax)
+113422186	the right to take another's property if an obligation is not discharged
+113422434	lien permitting an artisan to retain possession of a piece of work until has been paid for
+113422585	lien of the United States on all property of a taxpayer who fails to pay the federal government the taxes for which he or she is liable
+113422783	a lien on all the property owned by a debtor and not just a specific property
+113422919	lien on a debtor's property that is granted to a creditor by court judgment; lien may be enforced by having the sheriff seize the property and hold a sheriff's sale
+113423143	lien on a tenant's property for the satisfaction of unpaid rent or property damage; the landlord is given the status of a preferred creditor with regard to the tenant's property
+113423382	lien to secure payment for work and materials in erecting or repairing a building or other structure
+113423562	the extension of a mechanic's lien to include payment for work on automobiles
+113423702	a lien on the property of a taxpayer that the tax collector can use upon default of payment of taxes
+113423863	lien of which a tax collector may avail himself in default of taxes (analogous to a judgment lien)
+113424052	right of a warehouseman to retain goods until all storage charges have been paid
+113424198	a charge against property (as a lien or mortgage)
+113424319	an amount determined as payable
+113424504	a written account of ownership or obligation
+113424693	a document or receipt certifying release from an obligation or debt
+113424816	a document that can serve as legal evidence of a transaction
+113425137	a record of the financial situation of an institution on a particular date by listing its assets and the claims against those assets
+113425329	a written record of money spent
+113425421	a record in which commercial accounts are recorded
+113425707	ledger showing the accumulated costs classified in various ways
+113425828	the ledger that contains all of the financial accounts of a business; contains offsetting debit and credit accounts (including control accounts)
+113426052	details of an account supporting the amount stated in the general ledger
+113426188	an account that shows totals of amounts entered in a subsidiary ledger
+113426339	a ledger in which transactions have been recorded as they occurred
+113426469	a written record of a commercial transaction
+113426653	an accounting entry made at the end of an accounting period to allocate items between accounting periods
+113426819	an accounting entry acknowledging income or capital items
+113426980	an accounting entry acknowledging sums that are owing
+113427135	a bookkeeper's chronological list of related debits and credits of a business; forms part of a ledger of accounts
+113427547	account of payments received; usually the right side of a financial statement
+113427682	account of payments owed; usually the left side of a financial statement
+113427811	a method of accounting in which each item is entered as it is earned or incurred regardless of when actual payments are received or made
+113428025	a method of accounting in which each item is entered as payments are received or made
+113428185	an accounting method used in the merging of companies; the balance sheets are added together item by item; this method is tax-free
+113428381	a creditor's accounts of money owed to him; normally arise from the sale of products or services
+113428562	your right in a promissory note in which the maker promises to pay a certain amount of money at a certain time
+113428734	a debtor's accounts of money he owes; normally arise from the purchase of products or services
+113428891	a note promising to pay a certain amount of money at a certain time
+113429017	an account compiled at the end of an accounting period to show gross and net profit or loss
+113429196	that part of the earnings of a corporation that is distributed to its shareholders; usually paid quarterly
+113429429	a dividend paid in stock rather than in cash
+113429534	a dividend paid in addition to the regular dividend
+113429646	a dividend paid to compensate shareholders for losses resulting from a change in the dividend schedule
+113429814	short for dividend; especially one paid by a cooperative society
+113429949	an account used temporarily to carry doubtful receipts and disbursements or discrepancies pending their analysis and permanent classification
+113430153	equality between the totals of the credit and debit sides of an account
+113430333	the difference between the totals of the credit and debit sides of an account
+113430536	the difference in value over a period of time of a country's imports and exports of merchandise
+113430820	the accumulated and undivided profits of a corporation after provision has been made for dividends and reserves
+113431023	a minimum credit balance that a bank may require a borrower to keep on deposit as a condition for granting a loan; a common requirement for establishing a line of credit at a bank
+113431442	the difference in value over a period of time of a country's imports and exports of services and payments of property incomes
+113431631	a system of recording all of a country's economic transactions with the rest of the world over a period of one year
+113431976	that part of the balance of payments recording a nation's exports and imports of goods and services and transfer payments
+113432178	a balance of debits and credits in double-entry bookkeeping; drawn up to test their equality
+113432330	an inspection of the accounting procedures and records by a trained accountant or CPA
+113432558	an audit of limited scope (limited in time span or confined to particular accounts etc.)
+113432706	(accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
+113432958	an auditing procedure based on ratios among accounts and tries to identify significant changes
+113433116	an account to which salespersons or executives can charge travel and entertainment expenses
+113433304	a slip of paper included with your pay that records how much money you have earned and how much tax or insurance etc. has been taken out
+113433494	a book in which names and transactions are listed
+113433706	(accounting) the value of a firm's current assets including raw materials and work in progress and finished goods
+113433894	a list of employees and their salaries
+113434050	the total amount of money paid in wages
+113434189	an insignificant sum of money; a trifling amount
+113434332	a sum of money offered as a prize
+113434467	a sum of money spoken of as the contents of a money purse
+113434666	the amount (of money or goods or services) that is considered to be a fair equivalent for something else
+113435013	anything of trivial value
+113435159	the amount that something in scarce supply is valued above its nominal value
+113435332	a record of deposits and withdrawals and interest held by depositors at certain banks
+113435483	a book issued to holders of checking accounts
+113435616	a pawnbroker's receipt for articles taken as security
+113435727	a written agreement (or property or money) delivered to a third party or put in trust by one party to a contract to be returned after fulfillment of some condition
+113435943	funds held in escrow
+113436022	an unsecured and unregistered short-term obligation issued by an institutional borrower to investors who have temporarily idle cash
+113436216	a municipal debt instrument with a maturity of less than 2 years
+113436341	an informal debt instrument; representing I owe you'
+113436444	a note that specifies the time (or times) of repayment
+113436554	a debt instrument with a variable interest rate tied to some other interest rate (e.g. the rate paid by T-bills)
+113436720	a plan and a room rate for providing a room and meals to guests at a hotel
+113436917	a hotel plan that includes three meals daily
+113437039	a hotel plan that includes breakfast and dinner (but not lunch)
+113437171	a hotel plan that provides a full breakfast daily
+113437279	a hotel plan that provides a continental breakfast daily
+113437414	a will disposing of real property
+113437518	a formal declaration that documents a fact of relevance to finance and investment; the holder has a right to receive interest or dividends
+113438070	a certificate whose value is recognized by the payer and payee; scrip is not currency but may be convertible into currency
+113438244	a certificate documenting the shareholder's ownership in the corporation
+113438462	a security that is not subject to taxation
+113438583	a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal
+113439220	a government bond that bears no interest or capital gains but enters the holder into lotteries
+113439392	a type of security issued by a corporation (usually together with a bond or preferred stock) that gives the holder the right to purchase a certain amount of common stock at a stated price
+113439789	a warrant with no expiration date
+113439886	a warrant that expires on a stipulated date
+113439996	a security that makes no interest payments but instead is sold at a deep discount from its face value
+113440205	a certificate showing the interests of all parties in a business partnership
+113440351	a certificate showing who is responsible in an individually owned business
+113440498	a corporate security (usually bonds or preferred stock) that can be exchanged for another form of security (usually common stock)
+113440708	a stock or bond that is not registered with the Securities and Exchange Commission and cannot be sold in the public market
+113440928	a letter of intent saying that a letter security is being bought for investment and not for resale; avoids need for SEC registration
+113441124	stock that has been bought back by the issuing corporation and is available for retirement or resale; it is issued but not outstanding; it cannot vote and pays no dividends
+113441394	shares in a corporation that entitle the shareholder to voting and proxy rights
+113441532	stock representing ownership of overvalued assets; stock of a corporation whose total worth is less than its invested capital
+113441717	stock that has not been registered with the Securities and Exchange Commission and cannot be sold to the general public
+113441895	a bond that has not been registered with the Securities and Exchange Commission and cannot be sold to the general public
+113442073	a security that has been accepted for trading by one of the organized and registered securities exchanges in the US
+113442268	a security traded in the over-the-counter market
+113442459	stock that is not listed and traded on an organized exchange
+113442635	a summary of intended expenditures along with proposals for how to meet them
+113442875	a budget is balanced when current expenditures are equal to receipts
+113443005	a sum of money allocated for a particular purpose
+113443234	a sum of money voted by British Parliament each year for the expenses of the British royal family
+113443407	a budget for current expenses as distinct from financial transactions or permanent improvements
+113443584	a small fund of cash that a firm keeps for the payment of incidental expenses
+113443718	cash for day-to-day spending on incidental expenses
+113443857	money in the form of cash that is readily available
+113444078	a draft payable on presentation
+113444180	a draft payable at a specified future date
+113444291	funds that will be supplied in an amount matching the funds available from other sources
+113444440	the last line in an audit; the line that shows profit or loss
+113444578	the cessation of lactation
+113444662	the erosive process that reduces the size of glaciers
+113444788	erosion by friction
+113444952	shedding of flowers and leaves and fruit following formation of scar tissue in a plant
+113445095	(chemistry) a process in which one substance permeates another; a fluid permeates or is dissolved by a liquid or solid
+113445356	(physics) the process in which incident radiated energy is retained without reflection or transmission on passing through a medium
+113445650	a process of increasing by addition (as to a collection or group)
+113445816	adaptation to a new climate (a new temperature or altitude or environment)
+113446038	an increase by natural growth or addition
+113446240	(geology) an increase in land resulting from alluvial deposits or waterborne sediment
+113446418	(biology) growth by addition as by the adhesion of parts or particles
+113446598	(astronomy) the formation of a celestial object by the effect of gravity pulling together surrounding objects and gases
+113446810	the process of introducing an acetyl group into a compound
+113447012	an industrial process for making graphite by heating a mixture of coke and clay
+113447153	(physiology) the normal equilibrium between acids and alkalis in the body
+113447411	the process of becoming acid or being converted into an acid
+113447549	stimulation of activity in an organism or chemical
+113447764	childbirth during which the mother is encouraged to be an active participant
+113447899	transport of a substance (as a protein or drug) across a cell membrane against the concentration gradient; requires an expenditure of energy
+113448121	the process of introducing an acyl group into a compound
+113448251	the process of adapting to something (such as environmental conditions)
+113448529	a chemical reaction in which one molecule is added to another
+113448654	(thermodynamics) any process that occurs without gain or loss of heat
+113448806	data processing in accounting or business management
+113448962	the accumulation of molecules of a gas to form a thin film on the surface of a solid
+113449162	(meteorology) the horizontal transfer of heat or other atmospheric properties
+113449332	the process of exposing to air (so as to purify)
+113449481	imperfect development; nondevelopment of a part
+113449594	the building of words from component morphemes that retain their form and meaning in the process of combining
+113449781	a clumping of bacteria or red cells when held together by antibodies (agglutinins)
+113449977	the coalescing of small particles that are suspended in solution; these larger masses are then (usually) precipitated
+113450179	the organic process of growing older and showing the effects of increasing age
+113450367	a reaction of aldehydes resulting in an aldol
+113450473	gradual formation of new land, by recession of the sea or deposit of sediment
+113450605	radioactive decay of an atomic nucleus that is accompanied by the emission of an alpha particle
+113450758	a method of childbirth that avoids intrusive high-tech medicine in favor of more natural and homely settings
+113450953	the developmental process of forming tooth enamel
+113451061	assimilation into American culture
+113451247	the direct method of cell division characterized by simple division of the nucleus without formation of chromosomes
+113451435	impregnation with ammonia or a compound of ammonia
+113451564	conversion of starch to sugar
+113451668	the synthesis in living organisms of more complex substances (e.g., living tissue) from simpler ones together with the storage of energy
+113451959	the process of producing pictures in contrasting colors that appear three-dimensional when superimposed and viewed through spectacles with one red and one green lens
+113452216	metamorphism that occurs deep under the earth's surface; changes simple minerals into complex minerals
+113452394	the evolution of one type of organism from another by a long series of gradual changes
+113452553	the stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle
+113452742	muscular action of the alimentary tract in a direction opposite to peristalsis
+113452895	male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization
+113453165	the formation of new blood vessels
+113453258	the act of anglicizing; making English in appearance
+113453422	(biology) reproduction by the union or fusion of two differing gametes (especially differing in size)
+113453616	the absence of ovulation due to immaturity or post-maturity or pregnancy or oral contraceptive pills or dysfunction of the ovary
+113453820	the evolution or genesis of the human race
+113453975	the process of preventing redeposition
+113454076	the process of inhibiting the growth and multiplication of microorganisms
+113454234	(linguistics) omission at the beginning of a word as in coon' for raccoon' or till' for until'
+113454456	the gradual disappearance of an initial (usually unstressed) vowel or syllable as in squire' for esquire'
+113454635	(botany) development of an embryo without fertilization; especially the development in some ferns of a sporophyte from the gametophyte without fertilization
+113454900	any of several kinds of reproduction without fertilization
+113455121	(biology) growth in the thickness of a cell wall by the deposit of successive layers of material
+113455293	reproduction without the fusion of gametes
+113455579	the development of a consonant phoneme into a sibilant
+113455710	a linguistic process by which a sound becomes similar to an adjacent sound
+113455861	the process of absorbing nutrients into the body after digestion
+113456051	the social process of absorbing one cultural group into harmony with another
+113456325	(chemistry) any process of combination (especially in solution) that depends on relatively weak chemical bonding
+113456550	operations that occur without a regular or predictable time relation to other events
+113456721	the onset of a corrosive or destructive process (as by a chemical agent)
+113456943	catalysis in which the catalyst is one of the products of the reaction
+113457091	lysis of plant or animal tissue by an internal process
+113457236	data processing by a computer
+113457379	producing a radiograph by means of the radiation emitted from the specimen being photographed
+113457534	process for producing permanent prints in a carbon pigment
+113457676	(physiology) processes that maintain a generally constant physiological state in a cell or organism
+113457855	growth from increase in cell size without cell division
+113457982	a operation performed by off-line equipment not under the control of the central processing unit
+113458165	the execution of low priority programs while higher priority programs are not using the processing system
+113458354	an accumulation caused by clogging or a stoppage
+113458552	dissolution or destruction of bacteria
+113458668	inhibition of the growth of bacteria
+113458783	the rate at which heat is produced by an individual in a resting state
+113458926	the amount of energy required to maintain the body of an individual in a resting state
+113459075	the serial execution of computer programs
+113459179	the erosion of beaches
+113459261	enuresis during sleep; especially common in children (who usually outgrow it)
+113459396	an industrial process for making steel using a Bessemer converter to blast air through molten iron and thus burning the excess carbon and impurities; the first successful method of making steel in quantity at low cost
+113459694	radioactive decay of an atomic nucleus that is accompanied by the emission of a beta particle
+113459844	a chemical mechanism involved in vital processes occurring in living organisms
+113459990	production of a chemical compound by a living organism
+113460152	asexual reproduction by budding
+113460261	a strong flame that burns brightly
+113460403	a process in which liquid blood is changed into a semisolid mass (a blood clot)
+113460563	the organic process of bearing flowers
+113460743	the time and process of budding and unfolding of blossoms
+113460980	processing that involves blowing a gas
+113461108	a process that makes something blue (or bluish)
+113461236	an organic process that takes place in the body
+113461952	the application of heat to change something from a liquid to a gas
+113462108	an operation that follows the rules of Boolean algebra; each operand and the result take one of two values
+113462327	a slow kind of alcoholic fermentation at a temperature low enough that the yeast cells can sink to the bottom of the fermenting liquid; used in the production of lager
+113462560	a euphemism for defecation
+113462709	a method that prepares a mother for natural childbirth by providing education and exercises and nutrition and techniques of breathing and relaxation (with the assistance of the father)
+113462985	sitting on eggs so as to hatch them by the warmth of the body
+113463132	reproduction of some unicellular organisms (such as yeasts) by growth and specialization followed by the separation by constriction of a part of the parent
+113463341	the result of the process of accumulation
+113463485	a process that impregnates something with calcium (or calcium salts)
+113463649	the conversion of metals into their oxides as a result of heating to a high temperature
+113463812	giving birth to a calf
+113463888	any process in which an atomic or nuclear system acquires an additional particle
+113464040	a process whereby a star or planet holds an object in its gravitational field
+113464171	saturation with carbon dioxide (as soda water)
+113464293	a thermonuclear reaction in the interior of stars
+113464401	the organic circulation of carbon from the atmosphere into organisms and back again
+113464543	the destructive distillation of coal (as in coke ovens)
+113464710	the operation that prepares for the next character to be printed or displayed as the first character on a line
+113464882	normal aging of cells
+113464960	breakdown in living organisms of more complex substances into simpler ones together with release of energy
+113465304	acceleration of a chemical reaction induced the presence of material that is chemically unchanged at the end of the reaction
+113465686	soft decayed area in a tooth; progressive decay can lead to the death of a tooth
+113465876	the process in reproduction and growth by which a cell divides to form daughter cells
+113466113	introduction during embryonic development of characters or structure not present in the earlier evolutionary history of the strain or species (such as the addition of the placenta in mammalian evolution)
+113466469	the process of separating substances of different densities by the use of a centrifuge
+113466652	a series of chemical reactions in which the product of one is a reactant in the next
+113466797	a self-sustaining nuclear reaction; a series of nuclear fissions in which neutrons released by splitting one atom leads to the splitting of others
+113467004	the process of forming a ring by forming one or more hydrogen bonds
+113467145	(medicine) the process of removing a heavy metal from the bloodstream by means of a chelate as in treating lead or mercury poisoning
+113467370	a chemical reaction and its reverse proceed at equal rates
+113467563	(chemistry) any process determined by the atomic and molecular composition and structure of the substances involved
+113468534	(chemistry) a process in which one or more substances are changed into others
+113469096	adsorption (especially when irreversible) by means of chemical instead of physical forces
+113469352	synthesis of carbohydrate from carbon dioxide and water; limited to certain bacteria and fungi
+113469507	the parturition process in human beings; having a baby; the process of giving birth to a child
+113469795	the addition or substitution of chlorine in organic compounds
+113469951	a process used for separating mixtures by virtue of differences in absorbency
+113470143	the social process whereby societies achieve an advanced stage of development and organization
+113470329	(embryology) the repeated division of a fertilised ovum
+113470492	the breaking of a chemical bond in a molecule resulting in smaller molecules
+113470623	a change in the world's climate
+113470739	the process whereby water particles become visible in the sky
+113470887	(botany) the process in some plants of parts growing together that are usually separate (such as petals)
+113471065	nuclear fusion at or near room temperatures; claims to have discovered it are generally considered to have been mistaken
+113471243	chromatography that uses selective adsorption by a column of powders
+113471379	a process in which a substance reacts with oxygen to give heat and light
+113471590	combustion that propagates through a gas or along the surface of an explosive at a rapid rate driven by the transfer of heat
+113471809	(psychiatry) a defense mechanism that conceals your undesirable shortcomings by exaggerating desirable behaviors
+113472035	an elementary operation that a computer is designed and built to perform
+113472246	the formation of stonelike objects within a body organ (e.g., the kidneys)
+113472377	two or more operations performed at the same time (or within a give interval)
+113472521	the process of changing from a gaseous to a liquid or solid state
+113472681	the process of congealing; solidification by (or as if by) freezing
+113472838	buying expensive services and products in order to flaunt your wealth
+113472977	(economics) the utilization of economic goods to satisfy needs or in manufacturing
+113473290	an operation that controls the recording or processing or transmission of interpretation of data
+113473520	gradual healing (through rest) after sickness or injury
+113473787	the transfer of heat through a fluid (liquid or gas) caused by molecular motion
+113473923	(meteorology) the vertical movement of heat or other properties by massive motion within the atmosphere
+113474120	(psychiatry) a defense mechanism represses emotional conflicts which are then converted into physical symptoms that have no organic basis
+113474333	the process of becoming cooler; a falling temperature
+113474601	erosion by chemical action
+113474813	decay of matter (as by rot or oxidation)
+113474910	inflation caused by an increase in the costs of production
+113475034	the process whereby heavy molecules of naphtha or petroleum are broken down into hydrocarbons of lower molecular weight (especially in the oil-refining process)
+113475303	the interchange of sections between pairing homologous chromosomes during the prophase of meiosis
+113475491	the process of fostering the growth of something
+113475652	the process of forming semisolid lumps in a liquid
+113475962	an industrial process for extracting gold and silver by treating ore with a sodium cyanide solution
+113476123	the origin and development and variation of cells
+113476259	pathological breakdown of cells by the destruction of their outer membrane
+113476407	data processing using sophisticated data search capabilities and statistical algorithms to discover patterns and correlations in large preexisting databases; a way to discover new meaning in data
+113476660	(computer science) a series of operations on data by a computer in order to retrieve or transform or classify information
+113477079	a process whereby voters are moved toward nonpartisanship thus weakening the structure of political parties
+113477244	removal of the amino radical from an amino acid or other amino compound
+113477425	loss of calcium from bones or teeth
+113477540	the process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen)
+113477740	a gradual decrease; as of stored charge or current
+113477888	the process of gradually becoming inferior
+113478072	the spontaneous disintegration of a radioactive substance along with the emission of ionizing radiation
+113478354	the social process in which population and industry moves from urban centers to outlying districts
+113478551	change toward something smaller or lower
+113478838	(pharmacology) the extraction of water-soluble drug substances by boiling
+113479004	(brewing) a process in which part of the mash is removed and boiled and then returned
+113479192	(biology) the process of decay caused by bacterial or fungal action
+113479471	(chemistry) separation of a substance into two or more substances that may differ from each other and from the original substance
+113479774	a process of becoming smaller or shorter
+113480043	the loss of specialization in form or function
+113480171	a process of becoming deeper and more profound
+113480291	the elimination of fecal waste through the anus
+113480525	(psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires
+113481024	a contraction of economic activity resulting in a decline of prices
+113481237	the loss of foliage
+113481332	the process of making a (steel) ship's hull nonmagnetic by producing an opposing magnetic field
+113481502	the process of declining from a higher to a lower level of effective power or vitality or essential quality
+113481771	the process of extracting moisture
+113482066	the removal of iodine atoms from organic compounds
+113482194	the process of removing magnetization
+113482365	the ability and desire to purchase goods and services
+113482593	inflation caused by an increase in demand or in the supply of money
+113482728	the removal of minerals and mineral salts from a liquid (especially from water)

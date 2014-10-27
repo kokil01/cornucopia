@@ -1,0 +1,1000 @@
+301829434	not worth considering as a possibility
+301829567	impossible to achieve
+301829730	having a strong physiological or chemical effect
+301830049	having equal strength or efficacy
+301830139	able to many things
+301830237	lacking power or ability
+301830584	deprived of vigor and the ability to be effective
+301830798	lacking in power or forcefulness
+301831028	lacking physical strength or vigor
+301831137	(of a male) capable of copulation
+301831268	(of a male) unable to copulate
+301831389	having great power or force or potency or effect
+301831904	having unlimited power
+301832045	serving or intended to coerce
+301832195	driving or forcing
+301832293	having or showing great strength or force or intensity
+301832546	having or suggesting great physical power or force
+301832697	having or wielding force or authority
+301832879	powerful
+301832979	acting or functioning as a regent or ruler
+301833150	exercising power or authority
+301833253	lacking power
+301833484	lacking strength
+301833664	lacking in or deprived of strength or power
+301833848	having little power to do work
+301833960	not having authority, political strength, or governing power
+301834109	(often used in combination) having or using or propelled by means of power or power of a specified kind
+301834424	powered by one or more electric batteries
+301834554	(used of microscopes) capable of a high degree of magnification
+301834705	(of an automobile) having the engine modified to give extra power
+301834867	powered by a motor
+301834972	powered by a steam engine
+301835087	(of e.g. an engine) having the power increased by fitting with a supercharger
+301835223	not having or using power
+301835370	subjected to or capable of operating under relatively high voltage
+301835553	operating on or powered by a high voltage
+301835698	subjected to or capable of operating under relative low voltage
+301835852	having or exercising influence or power
+301836121	having authority or ascendancy or influence
+301836317	having great influence
+301836421	exerting influence by reason of high status or prestige
+301836589	not influential
+301836664	pertaining to or having or occurring by means of a placenta
+301836921	occurring through or by way of the placenta
+301837064	having no placenta
+301837191	set in the soil for growth
+301837397	(of land or soil) used for growing crops
+301837507	planted so as to give an effect of wild growth
+301837660	(of a potted plant) grown too large for its container resulting in matting or tangling of the roots
+301837826	grown from cuttings planted directly in the ground
+301837963	sprinkled with seed
+301838059	growing from seed dispersed by natural agency such as wind or birds
+301838209	(of crops) planted to improve the quality of the soil
+301838322	not planted
+301838425	not used for growing crops
+301838525	(of a piece of ground) not have a crop sown on it
+301838663	(of farmland) broken and turned over with a plow
+301838810	turned or stirred by plowing or harrowing or hoeing
+301838944	(of farmland) not plowed
+301839119	left unplowed and unseeded during a growing season
+301839259	not plowed or harrowed or hoed
+301839361	(of land or fields) prepared for raising crops by plowing or fertilizing
+301839509	(of land or fields) not prepared for raising crops
+301839657	not suitable for cultivation or tilling
+301839839	of plants; planted or grown in a pot
+301839948	not planted in pots
+301840022	concerned with actual use or practice
+301840530	readily applicable or practical
+301840741	designed for or adapted to a function or use
+301840994	able to exchange and use information
+301841127	concerned with practical matters
+301841381	usable for a specific purpose
+301841561	intended or able to serve a purpose without elaboration
+301841742	dealing only with concrete facts
+301841834	adequate for practical use; especially sufficient in strength or numbers to accomplish something
+301842067	not practical; not workable or not given to practical matters
+301842483	foolish; totally unsound
+301842742	senseless; crazy
+301842899	not sensible about practical matters; idealistic and unrealistic
+301843204	not related to or suitable for everyday needs or activities
+301843322	difficult to work or manipulate
+301843460	sharply exact or accurate or delimited
+301843885	unerringly accurate
+301843987	minutely precise especially in differences in meaning
+301844113	developed in excessively fine detail
+301844263	marked by precise accordance with details
+301844506	extremely precise with great attention to details
+301844650	done with delicacy and skill
+301844833	being precise with regard to a prescribed or specified criterion
+301845051	precise to a fine degree
+301845232	precisely as stated
+301845332	not precise
+301845578	somewhat indefinite
+301845744	characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude)
+301846036	farther along in physical or mental development
+301846281	relatively slow in mental or emotional or physical development
+301846588	retarded in intellectual development
+301846795	having a mental age of three to seven years
+301846969	having a mental age of between eight and twelve years
+301847094	afflicted with cretinism
+301847210	not as far along as normal in development
+301847305	lacking mental capacity and subtlety
+301847459	capable of being foretold
+301847614	capable of being anticipated
+301847749	invariably occurring or appearing
+301847916	not capable of being foretold
+301848113	dependent on chance
+301848219	changeable
+301848383	occurring or appearing at usually irregular intervals
+301848558	incapable of being anticipated
+301848678	characterized by deliberate purpose and some degree of planning
+301848878	with planning and intention
+301849016	not premeditated
+301849129	without forethought
+301849304	made ready or fit or suitable beforehand
+301849670	positioned so as to be ready for confrontation or danger
+301849830	prepared for battle
+301849926	prepared with proper equipment
+301850065	prepared before sale and ready to be cooked
+301850165	having already been put into a suitable condition
+301850365	cooked partially or completely beforehand
+301850509	subjected to a special process or treatment
+301850666	made suitable and available for immediate use
+301850782	prepared or arranged for a meal; especially having food set out
+301850926	(usually followed by on' or for') in readiness
+301851084	without preparation; not prepared for
+301851375	with little or no preparation or forethought
+301851845	in response to an unforeseen need
+301851973	available only with a doctor's written prescription
+301852128	purchasable without a doctor's prescription
+301852337	being or existing in a specified place
+301852738	being present (at a meeting or event, etc.)
+301852950	being always present
+301853029	existing in something specified
+301853170	being here now
+301853277	existing by nature and without artificial aid
+301853443	being present everywhere at once
+301853600	not being in a specified place
+301853792	not present; having left
+301853984	impossible to find
+301854099	absent without permission
+301854283	intended to attract notice and impress others
+301854539	inclined to flaunt
+301854629	marked by ostentation but often tasteless
+301854898	not ostentatious
+301855098	not showy or obtrusive
+301855216	making claim to or creating an appearance of (often undeserved) importance or distinction
+301855668	showily imitative of art or artists
+301855772	pretentiously artistic; cloyingly charming
+301855888	puffed up with vanity
+301856216	affectedly genteel
+301856374	pretentious (especially with regard to language or ideals)
+301856670	(British informal) upstart
+301856790	characteristic of someone who has risen economically or socially but lacks the social skills appropriate for this new position
+301857046	abounding in or given to pompous or aphoristic moralizing
+301857258	given to the overuse of long words
+301857451	lacking pretension or affectation
+301857723	without pretensions
+301857844	free from pomp or affectation
+301858035	not pompous
+301858102	of first rank or importance or value; direct and immediate rather than secondary
+301858476	of primary importance
+301858594	being an immediate result or consequence
+301858740	received directly from a source
+301858852	being a regular member of a team
+301858967	(of e.g. information) not secondhand or by way of something intermediary
+301859156	first and most important
+301859389	being of second rank or importance or value; not direct or immediate
+301859862	serving or used in place of another
+301860057	functioning in a supporting capacity
+301860348	additional but secondary; auxiliary
+301860441	not as a direct effect or consequence
+301860597	derived from what is primary or original; not firsthand
+301860830	being a replacement or substitute for a regular member of a team
+301860981	ready for emergency use
+301861099	derived from what is primary or original by two intermediate steps
+301861243	(of a stream) flowing into a larger stream
+301861341	capable of substituting in any of several positions on a team
+301861516	experienced at secondhand
+301861659	pertaining to or constituting a base or basis
+301861961	serving as or forming a base
+301862151	of or being the essential or basic part
+301862358	being or involving basic facts or principles
+301862626	fundamental
+301862742	arising from or going to the root or source
+301862869	(sometimes followed by to') minor or casual or subordinate in significance or nature or occurring as a chance concomitant or consequence
+301863350	capable of being left out
+301863467	qualifying or explaining; placed or as if placed in parentheses
+301863683	related to the key issue but not of central importance
+301863896	depending on or incidental to what is original or primary
+301864034	confined to particular persons or groups or providing privacy
+301864680	befitting or characteristic of those who incline to social exclusiveness and who rebuff the advances of people considered inferior
+301864995	providing privacy or seclusion
+301865308	confined to specific persons
+301865406	not open to the public
+301865511	(of information) given in confidence or in secret
+301865741	entrusted with private information and the confidence of another
+301865910	suggestive of the isolated life of an island
+301866147	not invested with or related to prominent position or status etc.
+301866268	concealed from public view or attention
+301866405	directly between two individuals
+301866520	hidden from general view or use
+301866705	confined to a small number of hospital patients
+301866830	involving two persons; intimately private
+301867035	snobbish; pretentiously superior
+301867145	not private; open to or concerning the people as a whole
+301867588	of great interest to the public
+301867716	owned or maintained for the public by the national government
+301867850	open to or in view of all
+301867995	having some of the features of public institution
+301868101	supported and operated by the government of a state
+301868236	not restricted or exclusive
+301868336	excluding much or all; especially all but a particular group or minority
+301868647	exclusive of anyone or anything else
+301868841	exclusive to a center; especially a center of influence
+301869016	confined to an exclusive group
+301869196	characterized by very careful or fastidious selection
+301869392	denoting a company or law firm owned and run by members of the WASP elite who are generally conservative
+301869630	including much or everything; and especially including stated limits
+301869920	broad in scope
+301870073	blessed with privileges
+301870229	privileged treatment of a favored person or corporation (sometimes unethically)
+301870421	lacking the rights and advantages of other members of society
+301870616	marked by deprivation especially of the necessities of life or healthful environmental influences
+301870993	belonging to the lowest and least privileged social stratum
+301871147	producing or capable of producing (especially abundantly)
+301871590	(of plants) bearing or characterized by aments or catkins
+301871757	(of farmland) capable of being farmed productively
+301871917	intellectually productive
+301872079	of animals having fur (especially of commercial quality)
+301872193	(of shrubs or trees) producing nuts
+301872286	containing oil
+301872379	very productive
+301872485	not producing or capable of producing
+301872762	unproductive of success
+301873002	unproductive especially of the expected results
+301873139	not directly productive
+301873245	having the ability to produce or originate
+301873452	tending to consume or use often wastefully
+301873718	tending to exploit or make use of
+301873946	capable of being reproduced
+301874135	capable of being duplicated
+301874252	impossible to reproduce or duplicate
+301874420	defying imitation; matchless
+301874528	unique
+301874674	engaged in a profession or engaging in as a profession or means of livelihood
+301875076	involving gainful employment in something often done as a hobby
+301875208	professing to be qualified
+301875320	not professional; not engaged in a profession or engaging in as a profession or for gain
+301875584	engaged in as a pastime
+301875925	not of or from a profession
+301876050	characteristic of or befitting a profession or one engaged in a profession
+301876271	not characteristic of or befitting a profession or one engaged in a profession
+301876586	lacking professional skill or expertise
+301876839	yielding material gain or profit
+301877172	guaranteed to bring a profit
+301877317	lucrative
+301877441	yielding a fair profit
+301877533	financially rewarding
+301877742	producing a sizeable profit
+301877917	producing little or no profit or gain
+301878233	not yielding a return
+301878342	not profitable or prosperous
+301878454	producing at a rate that barely covers production costs
+301878587	not yielding profit or recompense
+301878713	showing intellectual penetration or emotional depth
+301879131	marked by depth of thinking
+301879263	having intellectual depth
+301879374	concerned with or comprehending only what is apparent or obvious; not deep or penetrating emotionally or intellectually
+301879953	appearing as such but not necessarily so
+301880299	showing frivolous or superficial interest; amateurish
+301880529	superficially impressive, but lacking depth and attention to the true complexities of a subject
+301880815	marked by lack of intellectual depth
+301880985	appearing to be as specified; usually used as combining forms
+301881326	lacking depth of intellect or knowledge; concerned only with what is obvious
+301881536	penetrating no deeper than the skin:
+301881659	having a projecting lower jaw
+301881810	having a protruding jaw giving the face a gaunt appearance
+301881928	having receding jaws
+301882028	having a receding chin
+301882105	favoring or promoting progress
+301882360	ahead of the times
+301882654	moving forward
+301882769	brought up to date
+301882879	the highest level of development at a particular time (especially the present time)
+301883056	opposing progress; returning to a former less advanced state
+301883281	characteristic of an atavist
+301883398	going from better to worse
+301883515	tending to return to an earlier state
+301883620	not brought up to date
+301883716	(of taxes) adjusted so that the rate increases as the amount of income increases
+301883891	(of taxes) gradually decreasing in rate on sums below a certain amount
+301884018	(of taxes) adjusted so that the rate decreases as the amount of income increases
+301884174	capable of being uttered or pronounced
+301884326	uttered with a trill
+301884457	impossible or difficult to pronounce correctly
+301884565	marked by suitability or rightness or appropriateness
+301884969	according with custom or propriety
+301885314	socially right or correct
+301885517	in accord with accepted standards of usage or procedure
+301885720	in harmony with the spirit of particular persons or occasion
+301885994	proper or legitimate
+301886153	proper or legitimate
+301886245	exaggeratedly proper
+301886613	not suitable or right or appropriate
+301887000	not in keeping with accepted standards of what is right or proper in polite society
+301887447	improper or even offensive
+301887577	not in accord with established usage or procedure
+301887795	foretelling events as if by supernatural intervention
+301888261	indistinctly prophetic
+301888391	prophetic of devastation or ultimate doom
+301888573	foreseeing the future
+301888720	obscurely prophetic
+301888853	resembling or characteristic of a prophet or prophecy
+301889205	ominously prophetic
+301889325	warning of future misfortune
+301889424	of or relating to prediction; having value for making predictions
+301889685	not prophetic; not foreseeing correctly
+301889818	not offering prognostications
+301889912	having no predictive value
+301889997	of or concerned with or related to the future
+301890275	expected to become or be; in prospect
+301890452	effective in or looking toward the future
+301890638	concerned with or related to the past
+301890843	affecting things past
+301891029	kept safe or defended from danger or injury or loss
+301891374	secured with bastions or fortifications
+301891481	protected with battlements or parapets with indentations or embrasures for shooting through
+301891631	secure against burglary
+301891713	(of a wife) being under the protection of her husband
+301891856	protected by a deep wide ditch usually filled with water
+301891965	(used especially of machinery) protected by a shield to prevent injury
+301892090	offering safety; well protected or concealed
+301892238	protected against or able to withstand storms
+301892340	able to withstand exposure to weather without damage
+301892506	lacking protection or defense
+301892719	with no protection or shield
+301892882	having no protecting or concealing cover
+301893062	(used especially of machinery) not protected by a shield
+301893175	intended or adapted to afford protection of some kind
+301893737	warding off
+301893918	capable of preventing conception or impregnation
+301894116	providing protective supervision; watching over or safeguarding
+301894383	avoiding or escaping from difficulty or danger especially enemy fire
+301894549	overly protective
+301894653	tending or having the power to preserve
+301894864	shielding (or designed to shield) against harm or discomfort
+301895040	(of tariff) protective of national interests by restricting imports
+301895183	providing or ensuring safety
+301895272	not affording protection
+301895355	feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride
+301895886	having or showing feelings of unwarranted importance out of overbearing pride
+301896164	pleased and proud
+301896254	feeling self-importance
+301896449	(used colloquially) overly conceited or arrogant
+301896819	exhibiting self-importance
+301897055	having or showing self-esteem
+301897176	having or showing arrogant superiority to and disdain of those one views as unworthy
+301897840	characteristic of false pride; having an exaggerated sense of self-importance
+301898394	proud of your house or its furnishings or upkeep
+301898500	excessively proud
+301898573	feeling pleasurable satisfaction over something by which you measures your self-worth
+301898750	proud or arrogant because of your wealth (especially in the absence of other distinction)
+301898897	trying to maintain dignity and self respect despite shabbiness
+301899020	marked by meekness or modesty; not arrogant or prideful
+301899370	subdued or brought low in condition or status
+301899577	humble in spirit or manner; suggesting retiring mildness or even cowed submissiveness
+301899791	established beyond doubt
+301900006	shown to be valid beyond a reasonable doubt
+301900144	supported by evidence
+301900263	tested and proved useful or correct
+301900391	proved to be true
+301900483	not proved
+301900643	in the process of being tested or tried
+301900737	lacking proof or substantiation
+301900825	providing carefully for the future
+301901166	mindful of the future in spending money
+301901363	planning prudently for the future
+301901697	having provided for the future
+301901784	thoughtful of the future
+301901904	not provident; not providing for the future
+301902113	lacking foresight or scope
+301902366	careless of the future
+301902463	lacking forethought
+301902545	serving or tending to provoke, excite, or stimulate; stimulating discussion or exciting controversy
+301902992	causing or tending to cause anger or resentment
+301903173	disturbingly provocative
+301903291	capable of producing violent emotion or arousing controversy
+301903445	arousing to action or rebellion
+301903674	rousing to activity or heightened action as by spurring or goading
+301903854	not provocative
+301904015	capable of allaying hostility
+301904118	not inflammatory
+301904196	careful and sensible; marked by sound judgment
+301904557	heedful of potential consequences
+301904789	marked by the exercise of good judgment or common sense in practical matters
+301905041	careful in regard to your own interests
+301905234	arising from or characterized by prudence especially in business matters
+301905427	not prudent or wise
+301905809	not given careful consideration
+301906037	lacking or showing lack of judgment or discretion; unwise
+301906255	imprudently incurring risk
+301906416	acting or arriving or performed exactly at the time appointed
+301906742	according to schedule or without delay; on time
+301906883	before a time limit expires
+301907027	not punctual; after the appointed time
+301907194	behind schedule
+301907298	after the expected or usual time; delayed
+301907608	overtaken by night or darkness
+301907761	just before a deadline; at the last minute
+301907889	subjected to a penalty (as pain or shame or restraint or loss) for an offense or fault or in order to coerce some behavior (as a confession or obedience)
+301908115	smeared with tar and covered with feathers as a punishment
+301908283	not punished
+301908425	not subjected to correction or discipline
+301908580	inflicting punishment
+301908815	concerned with or providing correction
+301908978	serving as or designed to impose punishment
+301909159	used for punishment or reform of criminals or wrongdoers
+301909339	of or relating to or having the nature of retribution
+301909591	designed to accomplish rehabilitation
+301909796	bred for many generations from member of a recognized breed or strain
+301909992	of unmixed ancestry
+301910144	having a list of ancestors as proof of being a purebred animal
+301910335	bred from parents of different varieties or species
+301910550	resulting from a cross between species of different genera
+301910664	produced by crossbreeding
+301910775	of inferior or mixed breed
+301910877	(of animals) having only one purebred parent
+301911024	(used of persons or behaviors) having no faults; sinless
+301911319	free from stain or blemish
+301911414	free from moral blemish or impurity; unsullied
+301911556	(used of persons or behaviors) immoral or obscene
+301911731	morally blemished; stained or impure
+301911832	free of extraneous elements of any kind
+301912370	(used of cultures of microorganisms) completely free from other organisms
+301912517	free from impurities
+301912661	(of sound or color) free from anything that dulls or dims
+301913014	free from impurities; having a high or specified degree of purity
+301913172	as found in nature in the elemental form
+301913300	not mixed with extraneous elements
+301913490	completely free from dirt or contamination
+301913613	(of an alcoholic drink) stirred or shaken with ice, but served without it
+301913797	made pure
+301913862	not mixed with impurities
+301913976	free from admixture
+301914092	free from admixture with noxious elements; clean
+301914259	untouched or undefiled
+301914420	combined with extraneous elements
+301914722	containing small amounts of other chemicals, hence slightly impure
+301914920	mixed with impurities
+301915022	(used of metals) debased by mixture with an inferior element
+301915136	deriving from more than one source or style
+301915270	rendered unwholesome by contaminants and pollution
+301915458	(of color) discolored by impurities; not bright and clear
+301915802	not made pure
+301915872	corrupted by contact or association
+301916009	contaminated by mercury
+301916099	not corrupted by contact or association
+301916271	serving as or indicating the existence of a purpose or goal
+301916495	not distracted by anything unrelated to the goal
+301916630	having a purpose
+301916740	designed and constructed to serve a particular purpose
+301916869	not evidencing any purpose or goal
+301917033	aimlessly drifting
+301917200	marked by lack of definite plan or regularity or purpose; jumping from one thing to another
+301917434	meeting the proper standards and requirements and training for an office or position or task
+301917677	more than adequately qualified
+301917796	not meeting the proper standards and requirements and training
+301917970	medically unqualified
+301918064	shaped or conditioned or disciplined by training; often used as a combining form
+301918332	trained mentally or physically by instruction or exercise
+301918526	trained in a skill by repetitious practice
+301918661	(of pets) trained to urinate and defecate outside or in a special place
+301918864	(of children) trained to use the toilet
+301918994	not disciplined or conditioned or made adept by training
+301919239	of or created by one without formal training; simple or naive in style
+301919470	not subjected to discipline
+301919581	limited or restricted; not absolute
+301919794	qualified by reservations
+301919895	evasively worded in order to avoid an unqualified statement
+301920023	mediocre
+301920096	not limited or restricted
+301920312	not modified or restricted by reservations
+301920489	free of restrictions or qualifications
+301920631	used of a quantity or amount (especially of money) for emphasis
+301920788	without reservation or exception
+301920902	involving distinctions based on qualities
+301921148	using evidence not readily amenable to experimental verification or refutation
+301921311	expressible as a quantity or relating to or susceptible of measurement
+301921734	numbered or proceeding by tens; based on ten
+301921863	based on twelve
+301921967	measured or expressed in numbers
+301922126	capable of being quantified
+301922230	(of numbers) written with three figures
+301922372	(usually used in combination) having value of a specified kind
+301922523	of or relating to or based on 20
+301922610	subject to question
+301922936	doubtful or suspect
+301923074	being of questionable authenticity
+301923165	open to doubt or debate
+301923360	open to doubt or suspicion
+301923751	open to question
+301923975	not as expected
+301924315	subject to being discredited
+301924400	as claimed by and for yourself often without justification
+301924583	incapable of being questioned
+301924863	generally accepted
+301924940	too obvious to be doubted
+301925059	not open to doubt
+301925170	beyond question
+301925272	beyond doubt or reproach
+301925383	free of noise or uproar; or making little if any sound
+301925681	making no sound
+301925827	marked by absence of sound
+301926075	(poetic) still or calm
+301926192	walking on the tips of ones's toes so as to make no noise
+301926330	full of or characterized by loud and nonmusical sounds
+301926766	conspicuously and offensively loud; given to vehement outcry
+301927096	noisy like the sound of a bee
+301927233	having a loud resonant metallic sound
+301927410	having a hard nonresonant metallic sound
+301927570	a rattling sound as of hard things striking together
+301927734	having a rasping or grating sound
+301927865	uncontrollably noisy
+301928038	having a tone of a reed instrument
+301928151	of breathing having a heavy snoring sound
+301928267	resembling a sustained sh' or soft whistle
+301928429	sounding like thunder
+301928530	like the sound of rapidly vibrating wings
+301928626	affording physical or mental rest
+301928809	quiet and tranquil
+301928961	lacking or not affording physical or mental rest
+301929162	characterized by an absence or near absence of agitation or activity
+301929517	marked by a state of tranquil repose
+301929685	free from turmoil or worries
+301929790	characterized by unrest or disorder
+301930119	characterized by unrest or disorder or insubordination
+301930547	characterized by short periods of noisy commotion
+301930715	lacking any definite plan or order or purpose; governed by or depending on chance
+301930984	positive recurrent aperiodic state of stochastic systems; tending in probability to a limiting form that is independent of the initial conditions
+301931202	dependent upon or characterized by chance
+301931399	being or having a random variable
+301931557	not random
+301931641	having or showing or acting with a purpose or design
+301931771	consistent with or based on or using reason
+301932107	capable of thinking and expressing yourself in a clear and consistent manner
+301932378	having mythical elements removed
+301932488	endowed with the capacity to reason
+301932628	marked by sound judgment
+301932775	not consistent with or using reason
+301933053	not based on reason or evidence
+301933202	not endowed with the capacity to reason
+301933320	not based on reason
+301933460	showing ignorance of the laws of nature and faith in magic or chance
+301933678	determined or actuated by emotion rather than reason
+301933854	involving intelligence rather than emotions or instinct
+301934053	of or characteristic of race or races or arising from differences among groups
+301934303	consisting of or combining two races
+301934418	between races
+301934513	made up of or involving or acting on behalf of various races
+301934682	based on racial intolerance
+301934780	not racial; having nothing to do with race or races
+301935007	participating readily in reactions
+301935325	(of e.g. a molecule) made reactive or more reactive
+301935461	(chemistry, physics, biology) readily undergoing change or breakdown
+301935601	capable of undergoing a chemical reaction with oxygen
+301935711	(chemistry, physics, biology) readily changed or destroyed by heat
+301935855	highly or violently reactive
+301935999	(chemistry) not reacting chemically
+301936201	(chemistry) not participating in a chemical reaction; chemically inert
+301936403	having only a limited ability to react chemically; chemically inactive
+301936643	inert especially toward oxygen
+301936816	not taking part readily in chemical change
+301936911	completely prepared or in condition for immediate action or use or progress
+301937433	ready for immediate use
+301937602	(usually followed by to' or for') on the point of or strongly disposed
+301937916	in a state of proper readiness or preparation or arrangement
+301938075	ready and willing or quick to act
+301938223	fully prepared or eager
+301938342	being and remaining ready and available for use
+301938650	not prepared or in a state of readiness; slow to understand or respond
+301938897	unprepared and unable to react quickly
+301939062	not prepared or vigilant
+301939331	not fully prepared
+301939402	being or occurring in fact or actuality; having verified existence; not illusory
+301939967	taking place in reality; not pretended or imitated
+301940178	existing in act or fact
+301940473	(of film, television, radio, or photography) depicting a real-life event using images or interviews with people involved in the event
+301940682	emphasizing or expressing things as perceived without distortion of personal feelings or interpretation
+301940876	having once lived or existed or taken place in the real world as distinct from being legendary
+301941146	lacking in reality or substance or genuineness; not corresponding to acknowledged facts or criteria
+301941731	conceived of or imagined or hoped for
+301941893	seen in the mind as a mental image
+301942173	creating the illusion of seeing reality
+301942336	celebrated in fable or legend
+301942527	formed or conceived by the imagination
+301942776	based on or told of in traditional stories; lacking factual basis or historical validity
+301943120	not based on fact; existing only in the imagination
+301943396	existing in fancy only
+301943615	characterized by or characteristic of hallucination
+301943804	marked by or producing illusion
+301944007	based on or having the nature of an illusion
+301944376	imagined as in a play
+301944611	no less than what is stated; worthy of the name
+301944939	having all the qualities typical of the thing specified
+301945125	rightly so called
+301945276	not actually such; being or seeming fanciful or imaginary
+301945592	causing one to believe what is not true or fail to believe what is true
+301945843	resembling a dream
+301946019	something apparently sensed but having no physical reality
+301946213	of, relating to, or representing an amount that is corrected for inflation
+301946401	of, relating to, or characteristic of an amount that is not adjusted for inflation
+301946601	aware or expressing awareness of things as they really are
+301947089	sensible and practical
+301947268	guided by practical experience and observation rather than theory
+301947643	evoking lifelike images within the mind
+301947891	true to life; lifelike
+301948000	representing things or actions or conditions as they actually are
+301948221	coinciding with reality
+301948431	being actually such in almost every respect
+301948616	not realistic
+301948896	produced by a wildly fanciful imagination
+301949124	inappropriate to reality or facts
+301949349	fanciful and unrealistic; foolish
+301949505	characterized by surreal distortion and a sense of impending danger
+301949684	characterized by fantastic imagery and incongruous juxtapositions
+301950023	showing reason or sound judgment
+301950363	exhibiting native good judgment
+301950705	exercising or showing good judgment
+301951109	based on sound reasoning or evidence
+301951277	not reasonable; not showing good judgment
+301951521	contrary to what common sense would suggest
+301951627	(of theories etc) incapable of being defended or justified
+301951756	not marked by the use of reason
+301951967	lacking justification or authorization
+301952167	concerning each of two or more persons or things; especially given or done in return
+301952629	affecting or undertaken by two parties
+301952784	involving three parties
+301952884	expressing a reciprocal or complementary relation
+301953056	capable of acting on or influencing each other
+301953212	moving alternately backward and forward
+301953381	given or done or owed to each other
+301953528	not reciprocal
+301953638	not moving alternately forward and backward
+301953744	not returned in kind
+301953883	(used of persons and their behavior) cultivated and genteel
+301954376	marked by refinement in taste and manners
+301954649	(used facetiously) refined and well-mannered
+301954782	affectedly dainty or refined
+301954912	having a sophisticated charm
+301955070	affected, overrefined, and effeminate
+301955211	developed with extreme delicacy and subtlety
+301955395	befitting a man of good breeding
+301955543	befitting a woman of good breeding
+301955670	befitting a person of noble origin
+301955780	excessively delicate or refined
+301955881	of good upbringing
+301955971	(used of persons and their behavior) not refined; uncouth
+301956433	(of behavior) rustic and uncouth
+301956562	(of persons) lacking art or knowledge
+301956681	ill-mannered and coarse and contemptible in behavior or appearance
+301957020	lacking refinement or cultivation or taste
+301957533	(of persons) so unrefined as to be lacking in discrimination and sensibility
+301957679	(of persons) lacking in refinement or grace
+301957830	unrefined in character
+301957934	rough and crude
+301958019	(of persons or behavior) lacking refinement or finesse
+301958194	rude or uncouth in speech
+301958278	not befitting a gentleman
+301958381	lacking the behavior or manner or style considered proper for a lady
+301958506	prepared or converted from a natural state by subjecting to a special process
+301958765	(used of rubber) treated by a chemical or physical process to improve its properties (hardness and strength and odor and elasticity)
+301958975	(of grains especially rice) having the husk or outer layers removed
+301959123	having been subjected to partial processing
+301959227	not altered from an original or natural state
+301959465	(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes
+301959729	(computer science) using or relating to a form of continuous tape transport; used mainly to provide backup storage of unedited data
+301959983	(used of rubber) not subjected to the process of vulcanization
+301960119	freed from impurities by processing
+301960289	not refined or processed
+301960457	subjected to a physical (or chemical) treatment or action or agent
+301960827	(of sewage) treated with aeration and bacteria to aid decomposition
+301960950	(of a liquid) treated by having air passed or bubbled through it for purification
+301961085	treated by heating to a high temperature but below the melting or fusing point
+301961240	treated or impregnated with a foreign substance
+301961339	(of wood) darkened or colored by exposure to ammonia fumes
+301961462	treated so as to become resistant
+301961603	not subjected to chemical or physical treatment
+301961765	not processed or refined
+301961853	treated with oil
+301961969	in need of oil treatment
+301962094	given medical care or treatment
+301962316	covered or wrapped with a bandage
+301962492	treated with some kind of application
+301962618	treated with medications and protective covering
+301962720	not given medical care or treatment
+301962882	capable of being recovered or regained
+301963051	recoverable upon payment or fulfilling a condition
+301963192	capable of being regained especially with effort
+301963345	incapable of being recovered or regained
+301963497	impossible to recover or recoup or overcome
+301963677	incapable of being recovered or regained
+301963786	reformed spiritually or morally
+301963999	spiritually reborn or converted
+301964122	caused to abandon an evil manner of living and follow a good one
+301964264	not reformed morally or spiritually
+301964522	stubbornly persistent in wrongdoing
+301964665	impervious to moral persuasion
+301964752	not converted
+301964837	listed or recorded officially
+301965069	holding appropriate documentation and officially on record as qualified to perform a specified function or practice a specified skill
+301965322	(of securities) having the owner's name entered in a register
+301965469	not registered
+301965587	not having your name entered on a voting list
+301965708	(of animals) officially recorded with or certified by a recognized breed association; especially in a stud book
+301965921	(of animals) not recorded with or certified by an official breed association
+301966104	in accordance with fixed order or procedure or principle
+301966521	of members of a team; not substitutes
+301966617	according to custom or rule or natural law
+301966728	conforming to set usage, procedure, or discipline
+301966886	regularly and widely used or sold
+301967017	regularly spaced in time
+301967120	evenly spaced
+301967242	(used of verbs) having standard (or regular) inflection
+301967367	ordered well
+301967466	contrary to rule or accepted order or general practice
+301967858	irregular in shape or outline
+301968015	occurring on a temporary or irregular basis
+301968236	not conforming to legality, moral law, or social convention
+301968492	set up or distributed in a deliberately random way
+301968612	of verbs not having standard (or regular) inflection
+301968763	(of solids) having clear dimensions that can be measured; volume can be determined with a suitable geometric formula
+301968933	(of solids) not having clear dimensions that can be measured; volume must be determined with the principle of liquid displacement
+301969136	controlled or governed according to rule or principle or law
+301969318	not regulated; not subject to rule or discipline
+301969457	capable of being remedied or redressed
+301969644	impossible to remedy or correct or redress
+301969807	that can be renewed or extended
+301969942	that can not be renewed
+301970119	that is able or fit be rented
+301970203	not able or fit to be rented
+301970334	capable of being repaired or rectified
+301970513	capable of being maintained
+301970617	impossible to repair, rectify, or amend
+301970783	able or fit to be repeated or quoted
+301971021	not able or fit to be repeated or quoted
+301971192	characterized by repetition
+301971457	marked by iteration
+301971600	marked by the absence of repetition
+301971758	fit for publication because free of material that is morally or legally objectionable
+301971921	unfit for print because morally or legally objectionable or offensive to good taste
+301972112	asked for
+301972213	not requested
+301972355	uninvited
+301972513	not requested or sought
+301972701	having corresponding sounds especially terminal sounds
+301972914	having the same consonant at the beginning of each stressed syllable
+301973081	having the same vowel sound occurring with different consonants in successive words or stressed syllables
+301973277	rhymed on the terminal syllables of the verses
+301973380	not having rhyme
+301973553	always the same; showing a single form or character in all occurrences
+301973805	having uniform application
+301973918	occurring in or having many forms or shapes or appearances
+301974106	having or occurring in several distinct forms
+301974305	happening or recurring at regular intervals
+301974868	marked by repeated cycles
+301974982	having periodic vibrations
+301975098	having a daily cycle or occurring every day
+301975230	of or belonging to or occurring every day
+301975417	happening every night
+301975568	of or occurring every seven days
+301975786	occurring twice a week
+301975876	occurring every hour or payable by the hour
+301976021	occurring ever half hour
+301976103	occurring every two weeks
+301976215	occurring or payable every year
+301976413	occurring or payable twice each year
+301976542	occurring every second year
+301976671	occurring every third year or lasting 3 years
+301976772	of or occurring or payable every month
+301976946	occurring every two months
+301977079	occurring twice a month
+301977201	occurring every six months or during every period of six months
+301977387	occurring during the middle of the week
+301977529	not recurring at regular intervals
+301977669	not having repeated cycles
+301977751	not having periodic vibrations
+301977842	(used of the military) belonging to or engaged in by legitimate army forces
+301978028	permanent
+301978111	(used of the military) not belonging to or engaged in by regular army forces
+301978302	connected by kinship, common origin, or marriage
+301978584	(anthropology) related by marriage
+301978736	related on the father's side
+301978911	related by blood
+301979135	related by common characteristics or ancestry
+301979269	proceeding by descent from an ancestor
+301979414	related on the mother's side
+301979544	related by blood or marriage
+301979661	not connected by kinship
+301979777	not connected by birth or family
+301979885	being connected either logically or causally or by shared characteristics
+301980375	being joined in close association
+301980593	changing (increasing or decreasing) as an individual's age increases
+301980719	closely or inseparably connected or associated with
+301980887	having the same ancestral language
+301981033	related in nature
+301981135	related by sharing a symbolic link to a concrete object or an abstraction
+301981362	mutually related
+301981515	accompanying
+301981648	closely related or associated
+301981804	lacking a logical or causal relation
+301981968	mistakenly related
+301982043	statistically unrelated
+301982123	not varying together
+301982202	having a bearing on or connection with the subject at issue
+301982512	capable of being applied; having relevance
+301982735	relevant and appropriate
+301982897	having precise or logical relevance to the matter at hand
+301983148	having no bearing on or connection with the subject at issue
+301983424	of superficial relevance if any
+301983596	not pertinent to the matter under consideration
+301983915	not capable of being applied
+301984089	of no legal significance (as having been previously decided)
+301984219	bearing in mind; attentive to
+301984552	cautiously attentive
+301984733	serving to bring to mind
+301985067	not mindful or attentive
+301985301	suffering from a partial loss of memory
+301985459	capable of being replaced
+301985596	capable of replacing or changing places with something else; permitting mutual substitution without loss of function or suitability
+301985959	impossible to replace
+301986118	(used especially of art) depicting objects, figures,or scenes as seen
+301986391	depicted in a recognizable manner
+301986566	of visual imagery of almost photographic accuracy
+301986669	consisting of or forming human or animal figures
+301986868	characterized by or of the nature of or using mimesis
+301987050	representing what is real; not abstract or ideal
+301987315	of or relating to a style of art in which objects do not resemble those known in physical nature
+301987622	not representing or imitating external reality or the objects of nature
+301987861	represented in simplified or symbolic form
+301988074	characterized by simple geometric forms in design and decoration
+301988308	adhering to fixed types or methods; highly restrained and formal
+301988513	characteristic of the earliest phase of geometric art especially in Greece
+301988648	characterized by stylized but recognizable subject matter
+301988764	standing for something else
+301988981	used in or characteristic of or containing allegory
+301989251	serving as a visible symbol for something abstract
+301989603	not standing for something else
+301989711	having a good reputation
+301990022	having an illustrious reputation; respected
+301990227	deserving of esteem and respect
+301990497	worthy of respect or honor
+301990613	receiving deferential regard
+301990737	acceptable for a long time
+301990862	lacking respectability in character or behavior or appearance
+301991162	tending to bring discredit or disrepute; blameworthy
+301991317	being unjustly brought into disrepute
+301991476	known widely and usually unfavorably
+301991733	disreputable and dissolute, somewhat agreeably
+301991889	morally degraded
+301992330	ready or willing to receive favorably
+301992640	accepting willingly
+301992895	characterized by or allowing admission
+301993059	capable of mentally absorbing
+301993216	having an open mind
+301993342	not receptive
+301993431	not having an open mind
+301993565	capable of being reconciled
+301993736	capable of being made harmonious or consistent
+301993841	capable of being settled or resolved
+301994008	impossible to reconcile
+301994175	impossible to bring into friendly accord
+301994289	not capable of being made consistent or harmonious
+301994423	marked by self-restraint and reticence
+301994728	remote in manner
+301994938	showing modest reserve
+301995106	tending to reserve or introspection
+301995248	not cautious or reticent
+301995406	set aside for the use of a particular person or party
+301995550	reserved in advance
+301995647	subject to being reserved or booked
+301995806	not reserved
+301995911	not accepting reservations
+301996016	not reserved in advance
+301996094	capable of being resisted or withstood or frustrated
+301996257	impossible to resist; overpowering
+301996528	so strong as to be irresistible
+301996751	firm in purpose or belief; characterized by firmness and determination
+301997254	fixed in your purpose
+301997455	characterized by great determination
+301997589	desperately determined
+301997735	marked by firm determination or resolution; not shakable
+301998111	characterized by firm and unwavering conviction
+301998248	recklessly determined
+301998349	determined
+301998544	resolute in the face of pain or danger or adversity
+301998668	dependable
+301998865	unshaken in purpose
+301999043	not deterred
+301999231	uncertain how to act or proceed
+301999500	lacking in resolution
+301999637	lacking firmness of will or character or purpose
+301999794	disposed to psychological variability
+301999949	uncertain in purpose or action
+302000078	lacking will power or resolution
+302000222	characterized by socially or conventionally acceptable morals
+302000490	socially or conventionally correct; refined or virtuous
+302000698	fit to be seen
+302000793	meriting respect or esteem
+302000943	unworthy of respect
+302001040	full of or exhibiting respect
+302001280	showing deference
+302001504	conferring or showing honor or respect
+302001702	exhibiting lack of respect; rude and discourteous
+302002147	making light of
+302002388	expressing extreme contempt
+302002600	arrogantly insolent
+302002696	abusing vocally; expressing contempt or ridicule
+302002963	lacking due respect or dutifulness
+302003151	marked by casual disrespect
+302003388	not showing courteous respect
+302003477	worthy of or requiring responsibility or trust; or held accountable
+302003975	liable to account for one's actions
+302004321	morally or legally responsible to a higher authority
+302004515	liable to answer to a higher authority
+302004683	held legally responsible
+302004848	taking responsibility for one's conduct and obligations
+302005010	showing lack of care for consequences
+302005360	cheerfully irresponsible
+302005635	characterized by inability or unwillingness to work toward a goal or assume responsibility
+302005830	not fit to assume responsibility
+302005935	lacking a sense of restraint or responsibility
+302006089	irresponsible in the use of firearms
+302006185	free from control or responsibility
+302006280	lacking a sense of responsibility
+302006406	readily reacting or replying to people or events or stimuli; showing emotion
+302006708	replying
+302006866	not responding to some influence or stimulus
+302007041	temporarily unresponsive or not fully responsive to a process or stimulus
+302007214	under restraint
+302007394	strictly confined or guarded
+302007502	restrained in style or quality
+302007655	not given to high spirits or effusiveness
+302007776	not subject to restraint
+302008064	unrestrained, especially with regard to feelings
+302008336	free of restraints or rules
+302008502	extravagant or ambitious or extreme in aims or opinions
+302008692	not restrained or controlled
+302008872	not under constraint in action or expression
+302009080	not slowed or blocked or interfered with
+302009323	subject to restriction or subjected to restriction
+302009566	subject to limits or subjected to limits
+302009676	not open to the general public
+302009779	barred to a designated group
+302009910	not subject to or subjected to restriction
+302010119	usable or operative or practiced in all kinds of weather
+302010282	(especially of funds) not earmarked; available for use as needed
+302010453	accessible to all
+302010573	(of rooms or buildings) having large rooms with few dividing partitions
+302010700	without fixed limits or restrictions
+302010821	serving to restrict
+302011119	restricting the scope or freedom of action
+302011272	restrictive of action
+302011481	strictly limiting the reference of a modified word or phrase
+302011781	restricting according to rules or principles
+302011934	regulating or controlling expenditure or personal behavior
+302012161	tending to suppress
+302012341	not tending to restrict
+302012460	tending to set free
+302012556	not limiting the reference of a modified word or phrase
+302012852	good at remembering
+302013127	(of memory) deficient in retentiveness or range
+302013324	resembling or forming a network
+302013634	having a latticelike structure pierced with holes or windows
+302013796	marked with crossing lines
+302013894	having a pattern of fretwork or latticework
+302014029	reciprocally connected
+302014163	having open interstices or resembling a web
+302014321	resembling a network
+302014418	having a network of veins or ribs
+302014509	not resembling or forming a network
+302014604	capable of retraction; capable of being drawn back
+302014759	capable of being retracted
+302014871	not capable of being retracted
+302014978	capable of physically reflecting light or sound
+302015178	capable of reflecting light like a mirror
+302015341	causing reflection or having a device that reflects
+302015476	not capable of physical reflection
+302015604	having or producing no echo
+302015711	(especially of incident sound or light) bent or sent back
+302015916	like or characteristic of an echo
+302016013	like or characteristic of a mirror image
+302016108	(especially of incident sound or light) not turned back by physical reflection
+302016262	retained without reflection
+302016376	having a tendency to reverberate or be repeatedly reflected
+302016784	clear and sharp and ringing
+302016976	like the light sharp ringing sound of glasses being tapped
+302017089	(of sounds) repeating by reflection
+302017223	as if echoing in a hollow space
+302017362	having a series of high-pitched ringing sounds like many small bells

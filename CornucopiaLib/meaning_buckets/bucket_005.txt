@@ -1,0 +1,1000 @@
+100788541	an attempt to get something
+100788715	a usually brief attempt
+100788872	a tentative attempt
+100788961	an initial attempt (especially outside your usual areas of competence)
+100789119	the effort contributed by a person in bringing about a result
+100789388	the part you are expected to play
+100789493	the attempt to achieve equal rights or status
+100789668	a futile or unprofitable endeavor
+100789758	an aggressive attempt to compel acquiescence by the concentration or manipulation of power
+100790023	an attempt to acquire or gain something
+100790134	informal words for any attempt or effort
+100790293	an attempt to score in a game
+100790427	an effortful attempt to attain a goal
+100790634	an energetic attempt to achieve something
+100790898	any struggle between two skillful opponents (individuals or groups)
+100791052	an unceremonious and disorganized struggle
+100791195	acquisition of a company by purchasing a controlling percentage of its stock
+100791396	an acquisition based on analysis of the benefits of consolidation in anticipation of increased earning power
+100791567	a change by sale or merger in the controlling interest of a corporation
+100791747	resistance to or defense against a hostile takeover
+100791866	an attempt to take control of a corporation
+100792008	an offer to buy shares in order to take over the company
+100792159	a takeover bid where the acquirer offers to pay more for the shares needed to gain control than for the remaining shares
+100792338	a takeover bid where the acquirer offers to buy any and all shares outstanding
+100792478	a takeover that is resisted by the management of the target company
+100792608	a takeover that is welcomed by the management of the target company
+100792739	the act of testing something
+100793188	a quantitative or qualitative test of a substance (especially an ore or a drug) to determine its components; frequently used to test for the presence or concentration of infectious agents or antibodies etc.
+100793536	an assay that relies on an enzymatic conversion reaction and is used to detect the presence of specific substances (such as enzymes or viruses or antibodies or bacteria)
+100793803	an assay that shows specific antigens in tissues by the use of markers that are either fluorescent dyes or enzymes (such as horseradish peroxidase)
+100794017	a rigorously controlled test of a new drug or a new invasive medical device on human subjects; in the United States it is conducted under the direction of the FDA before being made available for general clinical use
+100794381	a clinical trial on a few persons to determine the safety of a new drug or invasive medical device; for drugs, dosage or toxicity limits should be obtained
+100794615	a clinical trial on more persons than in phase I; intended to evaluate the efficacy of a treatment for the condition it is intended to treat; possible side effects are monitored
+100794873	a large clinical trial of a treatment or drug that in phase I and phase II has been shown to be efficacious with tolerable side effects; after successful conclusion of these clinical trials it will receive formal approval from the FDA
+100795190	sometimes the FDA approves a drug for general use but requires the manufacturer to continue to monitor its effects; during this phase the drug may be tried on slightly different patient populations than those studied in earlier trials
+100795505	a test procedure in which the identity of those receiving the intervention is concealed from both the administrators and the subjects until after the test is completed; designed to reduce or eliminate bias in the results
+100795784	a laboratory test of a new drug or a new invasive medical device on animal subjects; conducted to gather evidence justifying a clinical trial
+100796028	the act of undergoing testing
+100796275	a test of the suitability of a performer
+100796433	a filmed audition of an actor or actress
+100796531	a test of young hunting dogs to determine their skill in pointing and retrieving
+100796669	putting clothes on to see whether they fit
+100796822	a compulsory annual test of older motor vehicles for safety and exhaust fumes
+100797013	activity planned as a test or trial
+100797169	dull or routine preliminary work preparing for an undertaking
+100797286	work paid for at a rate per unit of time
+100797381	any piece of work that is undertaken or attempted
+100797858	an assignment to write something
+100797976	a wild and exciting undertaking (not necessarily lawful)
+100798247	an undertaking that you have been assigned to do (as by an instructor)
+100798428	a project of personal concern to someone
+100798547	a purposeful or industrious undertaking (especially one that requires effort or boldness)
+100798868	productive work performed voluntarily without material reward or compensation
+100799022	any long and arduous undertaking
+100799129	anything that requires little thought
+100799242	a task to be dealt with
+100799384	a formidable task or requirement
+100799539	any venturesome undertaking especially one with an uncertain outcome
+100799769	the pastime of exploring caves
+100799906	a series of actions advancing a principle or tending toward a particular end
+100800620	an organized program of advertisements
+100800786	a campaign against entering or continuing a war
+100800897	a campaign of flattery and friendliness (by a company, politician, etc.) to become more popular and gain support
+100801070	a movement advocating greater protection of the interests of consumers
+100801198	the campaign of a candidate to be elected
+100801470	a campaign in which the candidate makes speeches but does not travel
+100801782	the activities involved in political campaigning (especially speech making)
+100801931	a campaign to raise money for some cause
+100802082	the movement aimed at equal rights for women
+100802318	the movement aimed at liberating homosexuals from legal or social or economic oppression
+100802486	a defeated cause or a cause for which defeat is inevitable
+100802601	a campaign aimed to correct abuses or malpractices
+100802786	a concerted campaign to end something that is injurious
+100802938	political or religious or social reform movement or agitation consisting chiefly of young people
+100803111	the organized dissemination of derogatory rumors designed to discredit a candidate
+100803259	campaigning for something by making political speeches (stump speeches)
+100803385	an advertising campaign intended to promote sales
+100803495	an advertising campaign intended to improve public relations
+100803627	a venture off the beaten path
+100803772	the act of helping or improving yourself without relying on anyone else
+100803899	a venture undertaken without regard to possible loss or injury
+100804290	a risk involving danger
+100804446	a risky and uncertain venture
+100804623	a risky act or venture
+100804752	a venture that involves great risk but promises great rewards
+100804869	increasing the size of a bet (as in poker)
+100805055	raising the stakes in a card game by a factor of 2
+100805278	the activity of managing or exerting control over something
+100805841	activity of controlling a crowd
+100805932	an effort to minimize or curtail damage or loss
+100806040	the act of being put under federal control
+100806196	control from ground stations of airplanes in flight by means of messages transmitted to the pilot electronically
+100806369	(engineering) the art or technique of trying to control rivers with dams etc in order to minimize the occurrence of floods
+100806570	any instance of aggressive extension of authority
+100806695	the act of controlling or directing according to rule
+100806998	the act of freeing from regulation (especially from governmental regulations)
+100807185	an official lowering of a nation's currency; a decrease in the value of a country's currency relative to that of foreign countries
+100807427	efforts to regulate or control sales of guns
+100807529	a system of economic regulation: wages and interest are tied to the cost-of-living index in order to reduce the effects of inflation
+100807736	an accounting procedure or system designed to promote efficiency or assure the implementation of a policy or safeguard assets or avoid fraud and error etc.
+100808027	an internal control performed by one or more managers
+100808145	maintenance of standards of quality of manufactured goods
+100808282	a statistical procedure for accepting or rejecting a batch of merchandise or documents; involves determining the maximum number of defects discovered in a sample before the entire batch is rejected
+100808563	the act of bringing to uniformity; making regular
+100808739	the regulation of occurrence, pace, or coordination to achieve a desired effect (as in music, theater, athletics, mechanics)
+100808934	the regulation of diverse elements into an integrated and harmonious operation
+100809161	coordinating by causing to indicate the same time
+100809429	cutting off the electric current on certain lines when the demand becomes greater than the supply
+100809586	the proportional limitation of production or distribution of something (e.g. crude oil or natural gas) to some fractional part of the total capacity of each producer
+100809843	an act of limiting or restricting (as by regulation)
+100810146	a limitation on the size and armament of the armed forces of a country
+100810275	a limitation or constraint
+100810428	fixing (of prices or wages etc) at a particular level
+100810628	sudden restriction on an activity
+100810735	the act of hiring something or someone
+100810862	a freeze on hiring
+100810940	a freeze of prices at a given level
+100811034	a freeze of wages at a given level
+100811126	the act of having and controlling property
+100811363	(sport) the act of controlling the ball (or puck)
+100811547	(law) immediate and direct physical control over property
+100811687	(law) having the power and intention to have and control property but without direct control or actual presence upon it
+100811895	(law) possession for which criminal sanctions are provided because the property may not lawfully be possessed or may not be possessed under certain circumstances
+100812159	possession of controlled substances
+100812259	the act of retaining something
+100812455	the act of holding back or keeping within your possession or control
+100812697	(slang) a self-aggrandizing action undertaken simply for the pleasure of exercising control over other people
+100812882	normal response to the presence of feces in the rectum
+100813016	the act of storing something
+100813152	preservation and methodical arrangement as of documents and papers etc.
+100813322	the commercial enterprise of storing goods and materials
+100813486	refrigerated storage for preservation
+100813582	the act of packing or storing away
+100813716	the act of storing in tanks
+100813815	the measures taken to control a riot
+100813935	the act of gripping something firmly with the hands (or the tentacles)
+100814187	the act of grasping
+100814638	a hold used in the sport of wrestling
+100814881	a wrestling hold with arms locked tightly around the opponent
+100814997	any of several wrestling holds in which an arm is passed under the opponent's arm from behind and the hand exerts pressure on the back of the neck
+100815232	a wrestling hold in which the holder puts both arms under the opponent's arms and exerts pressure on the back of the neck (illegal in amateur wrestling)
+100815461	a wrestling hold in which the holder puts an arm under the opponent's arm and exerts pressure on the back of the neck
+100815636	a wrestling hold in which the opponent's arm is twisted up behind his back
+100815767	a wrestling hold in which the opponent's head is locked between the crook of your elbow and the side of your body
+100815935	a wrestling hold in which the opponent's arms are crossed in front of his own neck to exert pressure on his windpipe
+100816119	any wrestling hold in which some part of the opponent's body is twisted or pressured
+100816326	a wrestling hold in which you wrap your legs around the opponents body or head and put your feet together and squeeze
+100816560	a wrestling hold in which the arms are pressed against the opponent's windpipe
+100816697	a wrestling hold in which the toe is held and the leg is twisted against the joints
+100816834	the act of steering a ship
+100816981	the act of setting and holding a course
+100817305	the action of directing something at an object
+100817462	the guidance of ships or airplanes from place to place
+100818080	navigation of an airplane solely by instruments
+100818191	navigating according to the positions of the stars
+100818326	a method of controlling the flight of a missile or spacecraft by reference to the positions of celestial bodies
+100818502	a method of controlling the flight of a missile by devices that respond to inertial forces
+100818678	a method of controlling the flight of a missile by commands originating from the ground or from another missile
+100818852	a method of controlling the flight of a missile by devices that respond to the strength and direction of the earth's gravitational field
+100819055	navigation without the aid of celestial observations
+100819168	(during World War II in Britain) watching for fires started by bombs that dropped from the sky
+100819341	the activity of protecting someone or something
+100819831	the use of military aircraft to provide protection against attack by enemy aircraft during ground or naval operations
+100820023	the act of shielding from harm
+100820127	the responsibility of a guardian or keeper
+100820339	(with in') guardianship over; in divorce cases it is the right to house and care for and discipline a child
+100820685	the activity of protecting something from loss or danger
+100820935	the preservation and careful management of the environment and of natural resources
+100821185	the official conservation of trees and soil and rivers etc.
+100821302	protection of soil against erosion or deterioration
+100821417	the conservation of petroleum resources
+100821519	the conservation of water resources
+100821619	preservation of yourself from harm; a natural or instinctive tendency
+100821752	the act of keeping back or setting aside for some future occasion
+100821893	code name for the secret United States project set up in 1942 to develop atomic bombs for use in World War II
+100822067	preservation (of a dead body) by treating with balsams and drugs and other chemicals
+100822244	embalmment and drying a dead body and wrapping it as a mummy
+100822382	excessive protection
+100822506	intelligence on the identity and capability and intentions of hostile individuals or organizations that may be engaged in espionage or sabotage or subversion or terrorism
+100822744	counterintelligence achieved by banning or deleting any information of value to the enemy
+100822956	all types of censorship conducted by personnel of the armed forces
+100823179	military censorship of civilian communications (correspondence or printed matter of films) entering or leaving of circulating within territories controlled by armed forces
+100823413	security review of news (including all information or material intended for dissemination to the public) subject to the jurisdiction of the armed forces
+100823634	military censorship of communication to and from prisoners of war and civilian internees held by the armed forces
+100823820	military censorship of personal communications to or from persons in the armed forces
+100824011	armed forces censorship performed by personnel of a military unit on the personal communications of persons assigned to that unit
+100824205	armed forces censorship of the personal communications of officers or civilian employees or enlisted personnel not subject to primary censorship
+100824416	censorship under civil authority of communications entering or leaving or crossing the borders of the United States or its territories or possessions
+100824631	a precautionary measure warding off impending danger or damage or injury etc.
+100824977	measures taken as a precaution against theft or espionage or sabotage etc.
+100825193	the act of defending someone or something against attack or injury
+100825411	protection from harm
+100825545	taking a vaccine as a precaution against contracting a disease
+100825715	the act of protecting against disease by introducing a vaccine into the body to induce immunity
+100826018	administering vaccine only to people in close contact with an isolated infected patient; prevents the spread of a highly infectious disease by surrounding the patient with a ring of immunization
+100826275	the obsolete process of inoculating a susceptible person with material taken from a vesicle of a person who has smallpox
+100826469	the activity of going around or through an area at regular intervals for security purposes
+100826666	a patrol provided by aircraft
+100826757	a continuous nonstop patrol
+100826853	the act of defending yourself
+100826992	a Japanese martial art employing principles similar to judo
+100827104	any of several Oriental arts of weaponless self-defense; usually practiced as a sport
+100827434	a sport adapted from jujitsu (using principles of not resisting) and similar to wrestling; developed in Japan
+100827612	a method of self-defense without weapons that was developed in China and Japan; holds and blows are supplemented by clever use of the attacker's own weight and strength
+100827874	the traditional Japanese method of espionage; involves stealthy movements and the use of camouflage
+100828058	a traditional Japanese system of unarmed combat; sharp blows and kicks are given to pressure-sensitive points on the body of the opponent
+100828267	a Chinese martial art
+100828342	a Korean martial art similar to karate
+100828450	a Chinese system of slow meditative physical exercise designed for relaxation and balance and health
+100828671	the act of protecting something by surrounding it with material that reduces or prevents the transmission of sound or heat or electricity
+100828901	the act of attaching an inside lining (to a garment or curtain etc.)
+100829040	providing something with a surface of a different material
+100829196	lining a surface or bearing with Babbitt metal
+100829299	the act of locking something up to protect it
+100829443	the act of accompanying someone or something in order to protect them
+100829635	the act of escorting while in transit
+100829743	the act of protecting something by covering it
+100829898	the activity of getting dressed; putting on clothes
+100830123	the act of putting on robes or vestments
+100830220	careful or finicky grooming
+100830365	the act of dressing and preparing yourself
+100830523	processes in the conversion of rough hides into leather
+100830651	the act of making immune (especially by inoculation)
+100830831	rendering an organism sensitive to a serum by a series of injections
+100831039	attention and management implying responsibility for safety
+100831382	the act of making a piece of equipment rugged (strengthening to resist wear or abuse)
+100831579	a formation of military planes maintained over ground operations or targets
+100831760	the act of treating something to make it repel water
+100831918	the act of having on your person as a covering or adornment
+100832109	(physiology) regulation or maintenance of a function or action or reflex etc
+100832394	control of muscles
+100832472	the metabolic processes whereby certain organisms obtain energy from organic molecules; processes that take place in the cells and tissues during which energy is released and carbon dioxide is produced and absorbed by the blood to be transported to the lungs
+100832852	the bodily process of inhalation and exhalation; the process of taking in oxygen from inhaled air and releasing carbon dioxide by exhalation
+100833443	a single complete act of breathing in and out
+100833580	an emergency procedure whereby breathing is maintained artificially
+100833753	diagnostic procedure consisting of recording the activity of the heart electronically with a cardiograph (and producing a cardiogram)
+100833967	a noninvasive diagnostic procedure that uses ultrasound to study to structure and motions of the heart
+100834132	a noninvasive diagnostic procedure that uses ultrasound to study the anatomy of the brain
+100834287	an emergency procedure consisting of external cardiac massage and artificial respiration; the first treatment for a person who has collapsed and has no pulse and has stopped breathing; attempts to restore circulation of the blood and prevent death or brain damage due to lack of oxygen
+100834780	an emergency procedure to help someone who is choking because food is lodged in the trachea
+100834957	breathing in which most of the respiratory effort is done by the abdominal muscles
+100835152	normal relaxed breathing
+100835239	energetic (deep and rapid) respiration that occurs normally after exercise or abnormally with fever or various disorders
+100835433	slow or shallow breathing
+100835531	an increased depth and rate of breathing greater than demanded by the body needs; can cause dizziness and tingling of the fingers and toes and chest pain if continued
+100835796	breathing heavily (as after exertion)
+100835951	abnormal respiration in which periods of shallow and deep breathing alternate
+100836121	an act of forcible exhalation
+100836297	the act of smoking tobacco or other substances
+100836527	blowing tobacco smoke out into the air
+100836693	the process of taking in and expelling air during breathing
+100836928	the act of expelling air from the lungs
+100837162	forceful exhalation through the nose or mouth
+100837491	an act of blowing or breathing on or into something
+100837637	the act of snoring or producing a snoring sound
+100837810	the act of breathing heavily through the nose (as when the nose is congested)
+100838068	breathing with a husky or whistling sound
+100838198	breath
+100838300	the return of relatively easy breathing after initial exhaustion during continuous exertion
+100838449	the act of inhaling; the drawing in of air (or other gases) as in breathing
+100838759	a short labored intake of breath with the mouth open
+100838954	an involuntary intake of breath through a wide open mouth; usually triggered by fatigue or boredom
+100839336	a slow inhalation (as of tobacco smoke)
+100839626	a puff of a marijuana or hashish cigarette
+100839759	the process of taking food into the body through the mouth (as by eating)
+100840028	the act of consuming food
+100840477	the act of gripping or chewing off with the teeth and jaws
+100840684	the act of feeding by continual nibbling
+100840824	eating feces; in human a symptom of some kinds of insanity
+100840953	a reflex response to the passage of electric current through the body
+100841258	a reflex that expels intestinal gas through the anus
+100841439	the act of swallowing
+100841718	swallowing air (usually followed by belching and discomfort and flatulence)
+100841850	a large and hurried swallow
+100842024	a spasmodic reflex of the throat made as if in swallowing
+100842178	the act of eating dinner
+100842291	eating ravenously or voraciously to satiation
+100842412	eating an elaborate meal (often accompanied by entertainment)
+100842559	eating earth, clay, chalk; occurs in some primitive tribes, sometimes in cases of nutritional deficiency or obsessive behavior
+100842752	the act of grazing
+100842958	the act of eating lunch
+100843054	a large bite
+100843188	a dinner where each person pays for his own
+100843289	eating until excessively full
+100843438	ingestion of liquid food with a spoon or by drinking
+100843562	taking a small amount into the mouth to test its quality
+100843858	gentle biting
+100843942	a small sharp bite or snip
+100844080	feeding on corpses or carrion
+100844180	the eating of raw food
+100844258	the eating of excrement or other filth
+100844353	the act of sucking
+100844658	feeding an infant by giving suck at the breast
+100844789	the act of consuming liquids
+100844986	the drinking of large mouthfuls rapidly
+100845155	a small drink
+100845236	the act of drinking (especially an alcoholic drink)
+100845342	sexual practice that involves physically restraining (by cords or handcuffs) one of the partners
+100845492	sexual stimulation without vaginal penetration
+100845709	sexual activity (especially sexual intercourse) with the use of measures (such as latex condoms) to avoid the transmission of disease (especially AIDS)
+100845915	activities associated with sexual intercourse
+100846508	the act of becoming pregnant; fertilization of an ovum by a spermatozoon
+100846655	the act of depriving a woman of her virginity (especially by rupturing the hymen through sexual intercourse)
+100846839	the introduction of semen into the genital tract of a female
+100847013	the introduction of semen into the oviduct or uterus by some means other than sexual intercourse
+100847184	sexual activity between individuals, especially the insertion of a man's penis into a woman's vagina until orgasm and ejaculation occur
+100847651	slang for sexual intercourse
+100847956	sexual gratification
+100848062	illicit sexual intercourse
+100848145	sexual activities (often including sexual intercourse) between two people
+100848447	the act (by a man) of inserting his penis into the vagina of a woman
+100848591	sexual intercourse with a person (girl or boy) who has not reached the age of consent (even if both parties participate willingly)
+100848797	any lascivious contact by an adult with the sexual organs of a child (especially not involving sexual intercourse)
+100848970	the act of pairing a male and female for reproductive purposes
+100849400	mating of individuals having more traits in common than likely in random mating
+100849562	mating of individuals having traits more dissimilar than likely in random mating
+100849728	forbidden or tabu sexual intercourse between individuals
+100849912	sexual intercourse between individuals who are not married to one another
+100850096	extramarital sex that willfully and maliciously interferes with marriage relations
+100850375	voluntary sexual intercourse between persons not married to each other
+100850521	sexual intercourse between persons too closely related to marry (as between a parent and a child)
+100850689	a method of birth control in which coitus is initiated but the penis is deliberately withdrawn before ejaculation
+100850924	intercourse via the anus, committed by a man with a man or woman
+100851153	the sexual activity of conceiving and bearing offspring
+100851398	reproduction by parents of different races (especially by white and non-white persons)
+100851612	the act of producing offspring or multiplying by such production
+100851890	the production of living organisms from other living organisms
+100852055	(genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids
+100852503	hybridization using two traits with two alleles each
+100852616	hybridization using a single trait with two alleles (as in Mendel's experiments with garden peas)
+100852776	hybridization involving a pair of crosses that reverse the sexes associated with each genotype
+100852946	a cross between an organism whose genotype for a certain trait is unknown and an organism that is homozygous recessive for that trait so the unknown genotype can be determined from that of the offspring
+100853217	the act of mating closely related individuals
+100853319	any of several methods of family planning that do not involve sterilization or contraceptive devices or drugs; coitus is avoided during the fertile time of a woman's menstrual cycle
+100853624	limiting the number of children born
+100853811	birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery
+100854030	contraception achieved by taking oral contraceptive pills
+100854152	natural family planning in which the fertile period of the woman's menstrual cycle is inferred by noting the rise in basal body temperature that typically occurs with ovulation
+100854455	natural family planning in which the fertile period is inferred from changes in the character and quantity of cervical mucus; ovulation is marked by an increase in mucus that becomes sticky and then clearer and slippery
+100854775	natural family planning in which ovulation is assumed to occur 14 days before the onset of a period (the fertile period would be assumed to extend from day 10 through day 18 of her cycle)
+100855117	contraception by surgical sterilization
+100855279	the act of mating by male animals
+100855465	mutual sexual fondling prior to sexual intercourse
+100855630	affectionate play (or foreplay without contact with the genital organs)
+100856023	(British informal) cuddle and kiss
+100856168	manual stimulation of the genital area for sexual pleasure
+100856347	an aberrant sexual practice
+100856505	oral stimulation of the genitals
+100856684	oral stimulation of the vulva or clitoris
+100856798	oral stimulation of the penis
+100856930	slang for fellatio
+100857036	oral sex practiced simultaneously by two people
+100857156	using you own body as a sexual object
+100857303	manual stimulation of the genital organs (of yourself or another) for sexual pleasure
+100857565	manual stimulation of your own genital organ for sexual pleasure
+100857705	masturbation by rubbing against another person (as in a crowd)
+100857822	slang for masturbation
+100857971	indulging in promiscuous (casual and indiscriminate) sexual relations
+100858188	a brief sexual encounter lasting only for a single night
+100858362	unrestrained indulgence in sexual activity
+100858476	a sexual attraction to (or sexual relations with) persons of the same sex
+100858789	sexual activity with both men and women
+100858904	a term formerly used to mean taking on the gender role of the opposite sex
+100859053	female homosexuality
+100859159	a form of lesbianism that simulates heterosexual intercourse
+100859293	a sexual attraction to (or sexual relations with) persons of the opposite sex
+100859501	sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner)
+100859689	sexual activity between a person and an animal
+100859826	the suspension of consciousness and decrease in metabolic rate
+100860015	sleeping for a short period of time (usually not in bed)
+100860309	a nap in the early afternoon (especially in hot countries)
+100860420	a nap
+100860527	a light fitful sleep
+100860679	a bodily process occurring due to the effect of some antecedent stimulus or agent
+100861168	any reaction that occurs automatically without conscious thought or reflection (especially the undirected behavior seen in psychomotor epilepsy)
+100861369	a reaction to a crisis or setback or frustration
+100861541	an excessive reaction; a reaction with inappropriate emotional behavior
+100861689	a change in the electrical properties of the skin in response to stress or anxiety; can be measured either by recording the electrical resistance of the skin or by recording weak currents generated by the body
+100862112	a bodily defense reaction that recognizes an invading substance (an antigen: such as a virus or fungus or bacteria or transplanted organ) and produces antibodies specific against that antigen
+100862535	renewed rapid production of an antibody on the second (or subsequent) encounter with the same antigen
+100862724	an immune response (chiefly against bacterial invasion) that is mediated by B cells
+100862877	an immune response (chiefly against viral or fungal invasions or transplanted tissue) that involves T cells
+100863060	an immune response in which an antigen-antibody combination inactivates a complement (so it is unavailable to participate in a second antigen-antibody combination)
+100863289	an involuntary orienting response; positive or negative reaction to a stimulus source
+100863572	an affinity for work
+100863668	an orienting response to gravity
+100863757	an orienting response to the sun
+100863848	an effect of climate on biological processes (as the effect on joint pains etc.)
+100863988	an affinity for neural tissues
+100864077	an orienting response to light
+100864166	an orienting response to food
+100864273	an orienting response to warmth
+100864364	a locomotor response toward or away from an external stimulus by a motile (and usually simple) organism
+100864537	movement by a cell or organism in reaction to a chemical stimulus
+100864695	movement away from a chemical stimulus
+100864799	movement toward a chemical stimulus
+100864900	a movement that is a response to a stimulus but is not oriented with respect to the source of stimulation
+100865095	a delayed reaction indicating surprise
+100865191	an automatic instinctive unlearned reaction to a stimulus
+100865904	an acquired response that is under the control of (conditional on the occurrence of) a stimulus
+100866213	a reaction that has been acquired by learning
+100866358	a conditioned response that anticipates the occurrence of an aversive stimulus
+100866537	a reflex extension of the leg resulting from a sharp tap on the patellar tendon
+100866709	a complicated involuntary reaction to a sudden unexpected stimulus (especially a loud noise); involves flexion of most skeletal muscles and a variety of visceral reactions
+100866962	a normal reflex of young infants; a sudden loud noise causes the child to stretch out the arms and flex the legs
+100867149	a reflex response to sudden pain
+100867278	a bodily reaction of changing from one place or stage to another
+100867486	reflex contraction of the sphincter muscle of the iris in response to a bright light (or certain drugs) causing the pupil to become smaller
+100867757	reflex pupillary dilation as a muscle pulls the iris outward; occurs in response to a decrease in light or certain drugs
+100867951	relaxation of the urethral sphincter in response to increased pressure in the bladder
+100868101	normal reflex consisting of retching; may be produced by touching the soft palate in the back of the mouth
+100868284	reflex erection of hairs of the skin in response to cold or emotional stress or skin irritation
+100868560	flexion of the toes when the sole of the foot is stroked firmly on the outer side from the heel to the front in persons over the age of 2 years; under 2 years the results should be extension of the toes (Babinski reflex)
+100868841	reflex consisting of head-turning and sucking movements elicited in a normal infant by gently stroking the side of the mouth or cheek
+100869035	a sudden involuntary movement
+100869284	reflex contraction of a muscle when an attached tendon is pulled; important in maintaining erect posture
+100869468	reflex behavior in newborn mammals; includes finding and grasping the nipple in the mouth and sucking on it and swallowing the milk
+100869661	a reflex motion caused by cold or fear or excitement
+100869874	the process of shedding tears (usually accompanied by sobs or other inarticulate sounds)
+100870201	whining in a tearful manner
+100870347	convulsive gasp made while weeping
+100870477	loud cries made while weeping
+100870588	the procedure of calculating; determining something by mathematical or logical methods
+100870938	(mathematics) the transfer of a quantity from one side of an equation to the other along with a change of sign
+100871145	performing complex and lengthy numerical calculations
+100871261	(mathematics) calculation by mathematical methods
+100871779	the act of calculating again (usually to eliminate errors or to include additional data)
+100871990	the act of changing the arrangement of a given number of elements
+100872131	the act of arranging elements into specified groups without regard to order
+100872318	the mathematical process of obtaining the derivative of a function
+100872464	the mathematical process of finding the maximum value of a function
+100872590	an arithmetic operation that is the inverse of multiplication; the quotient of two numbers is computed
+100872801	the operation of division in which the sequence of steps are indicated in detail
+100872941	the operation of division in which the sequence of steps is performed without writing them out
+100873096	an operation used in the calculus whereby the integral of a function is determined
+100873254	an arithmetic operation that is the inverse of division; the product of two numbers is computed
+100873540	an arithmetic operation in which the difference between two numbers is calculated
+100873785	the arithmetic operation of summing; calculating the sum of two or more numbers
+100874089	the process of raising a quantity to some assigned power
+100874219	a mathematical operation involving numbers
+100874400	a mathematical operation involving matrices
+100874578	the addition of matrices
+100874664	the multiplication of matrices
+100874762	determination of a matrix that when multiplied by the given matrix will yield a unit matrix
+100874916	the interchange of each row of a square matrix with the corresponding column
+100875059	drawing a figure satisfying certain conditions as part of solving a problem or proving a theorem
+100875349	the construction of a square having the same area as some other figure
+100875476	a method of solving simultaneous equations by guessing a solution and then reducing the errors that result by successive approximations until all the errors are less than some specified amount
+100875745	the act of judging or assessing a person or situation or event
+100876135	the final judgment in a legal proceeding; the act of pronouncing judgment based on the evidence presented
+100876299	the act of disapproving or condemning
+100876484	act of ascertaining or fixing the value or worth of
+100876655	evaluation of performance by assigning a grade or score
+100876924	a judgment of the qualities of something or somebody
+100877197	an expert estimation of the quality, quantity, and other characteristics of someone or something
+100877349	a judgment of the logistic support required for some particular military operation
+100877516	an assessment that reveals more about the values of the person making the assessment than about the reality of what is assessed
+100877740	judgments about another person's morality
+100877917	tapping a part of the body for diagnostic purposes
+100878055	shaking a person to determine whether a large amount of liquid is present in a body cavity
+100878220	listening to sounds within the body (usually with a stethoscope)
+100878415	activity intended to achieve a particular sensory result
+100878552	becoming aware of something via the senses
+100878805	the act of directing the eyes toward something and perceiving it visually
+100879303	a quick look
+100879464	a radiant glance of the eye
+100879602	a glance sideways
+100879730	a prolonged intense look
+100879899	a secret look
+100880006	the act of squinting; looking with the eyes partly closed
+100880134	a fixed look with eyes open wide
+100880326	a long fixed look
+100880475	an angry stare
+100880604	a long and thoughtful observation
+100880715	a stare of amazement (usually with the mouth open)
+100880834	a look that is believed to have the power of inflicting harm
+100880949	a formal or official examination
+100881209	a new survey or study
+100881285	going about to look at places of interest
+100881437	the act of observing; taking a patient look
+100881724	the act of observing something (and sometimes keeping a record of it)
+100881947	the act of observing
+100882109	the first sighting of land from the sea after a voyage (or flight over water)
+100882241	observation of the stars
+100882340	a purposeful surveillance to guard or observe
+100882571	surveillance of some place or some person by the police (as in anticipation of a crime)
+100882713	the ongoing systematic collection and analysis of data about an infectious disease that can lead to action being taken to control or prevent the disease
+100882935	a watch established for the reception of traffic of interest to the unit maintaining the watch
+100883119	keeping a secret or furtive watch
+100883223	the act of looking out
+100883327	the act of looking or seeing or observing
+100883592	a full view; a good look
+100883723	British slang for a look
+100883837	the act of hearing attentively
+100884138	the act of hearing again
+100884232	perceiving what a person is saying by observing the movements of the lips
+100884380	a kind of sensing; distinguishing substances by means of the taste buds
+100884639	the act of perceiving the odor of something
+100884817	sensing an odor by inhaling through the nose
+100884975	the activities of educating or instructing; activities that impart knowledge or skill
+100885880	education of men and women in the same institutions
+100885989	a program of instruction designed primarily for adult students who participate part-time
+100886144	education imparted in a series of lessons or meetings
+100886766	work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course
+100886975	a course (via lectures or correspondence) for adults who are not otherwise engaged in formal study
+100887135	a class in which you learn to draw or paint
+100887252	a course that teaches pregnant women to use breathing and concentration and exercise techniques to use during labor
+100887442	an art class using a live human model
+100887536	education in elementary subjects (reading and writing and arithmetic) provided to young students at a grade school
+100887717	an educational opportunity provided by colleges and universities to people who are not enrolled as regular students
+100887950	educational activities not falling within the scope of the regular curriculum
+100888134	participation in theatrical productions as an extracurricular activity
+100888260	participation in sports events as an extracurricular activity
+100888377	education provided by a college or university
+100888485	education beyond the elementary grades; provided by a high school or college preparatory school
+100888646	a sport that many people find entertaining to watch
+100888759	the profession of a teacher
+100889222	a sport that involves competition between teams of players
+100889380	a method of coordinated classroom teaching involving a team of teachers working together with a single group of students
+100889560	oral religious instruction (as before baptism or confirmation)
+100889715	teaching religious principles by questions and answers
+100889840	teaching people to speak and understand a foreign language
+100889962	teaching beginners to read
+100890087	teaching reading by training beginners to associate letters with their sound values
+100890224	teaching reading by training beginners to associate printed words with spoken words
+100890371	the act of teaching at school
+100890474	teaching someone to accept doctrines uncritically
+100890638	forcible indoctrination into a new set of attitudes and beliefs
+100890760	teaching or impressing upon the mind by frequent instruction or repetition
+100890972	teaching pupils individually (usually by a tutor hired privately)
+100891150	a unit of instruction
+100891360	a lesson in dancing
+100891438	a lesson in performing music
+100891561	a lesson in playing the piano
+100891649	a lesson in playing the violin
+100891739	a lesson in playing tennis
+100891825	a lesson in playing golf
+100891907	a lesson in the facts of history
+100892000	a course offered (by mail) by a correspondence school
+100892121	a series of lectures dealing with a subject
+100892248	a course of study that is supervised and controlled by a specialist in the subject
+100892488	a course that the student can select from among alternatives
+100892621	a course offered as part of an extension service
+100892751	an educational plan in which students alternate between paid employment and formal study
+100892904	a course of study carried out at home rather than in a classroom
+100893025	a course in the methods of using tools and machinery as taught in secondary schools and technical schools
+100893192	a course introducing a new situation or environment
+100893322	a course that provides an introduction to an art or science (or to more advanced study generally)
+100893530	a course that reviews and updates a topic for those who have not kept abreast of developments
+100893716	a course that all students are required to take
+100893825	a course offered for a small group of advanced students
+100893934	a course of instruction in a trade (as carpentry or electricity)
+100894093	a brief intensive course for a small group; emphasizes problem solving
+100894218	teaching during sleep (as by using recordings to teach a foreign language to someone who is asleep)
+100894391	teaching in an overly simplified way that discourages independent thought
+100894541	teaching by giving a discourse on some subject (typically to a class)
+100894768	presentation of an example of what the lecturer is discoursing about
+100894923	the act of giving a talk to an audience
+100895082	a talk that uses a blackboard and chalk
+100895178	the course of practice and exercise and diet undertaken by an athlete
+100895329	a method of athletic training (especially for runners) in which strenuous effort and normal effort alternate in a continuous exercise
+100895516	training to improve strength or self-control
+100895653	activity leading to skilled behavior
+100896057	(military) the training of soldiers to march (as in ceremonial parades) or to perform the manual of arms
+100896250	systematic training by multiple repetitions
+100896677	an exercise intended to train people in duties and escape procedures to be followed in case of fire
+100896833	(military) a prescribed drill in handling a rifle
+100896990	a position in the manual of arms; the rifle is held vertically on the right side with the butt on the ground; often used as a command
+100897199	training soldiers in military procedures
+100897378	the initial period of training for new military personnel; involves intense physical activity and behavioral discipline
+100897577	training for a new occupation
+100897681	the training of an animal (especially the training of a horse for dressage)
+100897812	teaching strategy to an athletic team
+100897926	training a young child to use the toilet
+100898046	training in marching and the use of weapons
+100898224	(military) military drill of troops in standard marching (shoulder-to-shoulder)
+100898386	drill on a barracks square
+100898530	(psychology) a form of practice; repetition of information (silently or aloud) in order to keep it in short-term memory
+100898724	a practice session in preparation for a public performance (as of a play or speech or concert)
+100899063	a full uninterrupted rehearsal in costumes shortly before the first performance
+100899204	an uninterrupted rehearsal
+100899306	a first perfunctory rehearsal of a theatrical production in which actors read their lines from the script and move as directed
+100899509	practice intended to polish performance or refresh the memory
+100899687	a review that refreshes your memory
+100899825	(American football) practice play between a football team's squads
+100899984	sparring with an imaginary opponent (for exercise or training)
+100900123	practice in shooting at targets
+100900216	an activity that stands as an equivalent of something or results in an equivalent
+100900502	the act of representing something (usually on a smaller scale)
+100900747	the act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training)
+100900990	a dramatic representation
+100901199	dramatization of a social issue; enacted outside in a park or on the street
+100901355	a stilted dramatic performance (as if by puppets)
+100901459	an elaborate representation of scenes from history etc; usually involves a parade with rich costumes
+100901625	representing figuratively as by emblem or allegory
+100901768	the act of representing something with a symbol
+100901905	providing a chart or outline of a system
+100902073	visual representation as by photography or painting
+100902279	the act of representing by a type or symbol; the action of typifying
+100902424	representation by drawing or painting etc
+100902655	the activity of making portraits
+100902781	(medicine) obtaining pictures of the interior of the body
+100903014	obtaining images by the use of X rays
+100903174	a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis
+100903487	using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily organs
+100903806	the use of ultrasonography to measure the length of the eyeball
+100903938	the use of ultrasonography to view structure in the back of the eye
+100904074	using a computerized radiographic technique to examine the metabolic activity in various tissues (especially in the brain)
+100904277	the use of nuclear magnetic resonance of protons to produce proton density images
+100904455	a form of magnetic resonance imaging of the brain that registers blood flow to functioning areas of the brain
+100904673	functional magnetic resonance imaging that relies on intrinsic changes in hemoglobin oxygenation
+100904899	examination of body structures using a fluoroscope
+100905007	(radiology) examination of the inner structure of opaque objects using X rays or other penetrating radiation
+100905257	the act of taking and printing photographs
+100906126	photography that uses other kinds of radiation than visible light
+100906321	radiography that uses X-rays to produce a roentgenogram
+100906602	forming an image by the action of light on a specially coated charged plate; the latent image is developed with powders that adhere only to electrically charged areas
+100906890	radiography using X-rays and xerographic (rather than roentgenographic) techniques
+100907034	roentgenographic examination of blood vessels after injection of a radiopaque contrast medium; produces an angiogram
+100907226	roentgenographic examination of lymph nodes and lymph vessels after injection of a radiopaque contrast medium; produces a lymphangiogram
+100907440	roentgenographic examination of arteries
+100907540	roentgenographic examination of a joint after injection of radiopaque contrast medium; produces an arthrogram
+100907744	roentgenographic examination of veins
+100907838	roentgenographic examination of the bile ducts after a contrast medium has been injected
+100907988	roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram
+100908168	roentgenography of the spinal cord to detect possible lesions (usually after injection of a contrast medium into the subarachnoid space)
+100908362	roentgenography of the kidney and ureters (usually after injection with a radiopaque dye)
+100908527	performing pyelography with intravenous injection of a contrast medium
+100908673	photography using a telephoto lens
+100908769	transmission and reproduction of photographs and charts and pictures over a distance
+100908933	transmission of photographs by radio waves
+100909038	the act of exposing film to light
+100909198	the act of exposing film to too much light or for too long a time
+100909340	the act of exposing film to too little light or for too short a time
+100909486	exposure of a film for a relatively long time (more than half a second)
+100909617	the act of making a film
+100909831	the act of photographing a scene or part of a scene without interruption
+100909990	a shot or scene that is photographed again
+100910103	the making of animated cartoons
+100910190	the human act of creating
+100910470	the act of creating again
+100910607	the act of creating something that is different from the materials that went into it
+100910891	creating thread
+100910979	creating fabric
+100911084	creating nets
+100911169	creating knitted wear
+100911263	creating a garment of needlework
+100911370	the act or art of making handmade lace
+100911494	act or process of minting coins
+100911597	the act of creating something by casting it in a mold
+100911768	work (such as sewing or embroidery) that is done with a needle
+100911901	the act of making a record (especially an audio record)
+100912231	combining audio and video recording in such a way that the sound is perfectly synchronized with the action that produced it; especially synchronizing the movements of a speaker's lips with the sound of his speech
+100912554	the act of making a master recording from which copies can be made
+100912746	the act of constructing something
+100913288	construction of something by whatver material are available
+100913403	the action of constructing ramparts with gaps for firing guns or arrows
+100913583	the act of building or putting up
+100913736	construction by a group of neighbors
+100913832	the act of constructing something (as a piece of machinery)
+100913996	the activity of building stone walls without mortar
+100914105	the act of taking something apart (as a piece of machinery)
+100914407	changing the ground level to a smooth horizontal or gently sloping surface
+100914564	the construction of roads
+100914653	the construction of ships
+100914791	the act or process of producing something
+100915105	the construction of masonry or brickwork in a rustic manner
+100915258	small-scale industry that can be carried on at home by family members using their own equipment
+100915416	the creation of value or wealth by producing goods and services
+100915536	(economics) manufacturing or mining or growing something (usually in large quantities) for sale
+100916013	the production of large quantities of a standardized article (often using assembly line techniques)
+100916174	too much production or more than expected
+100916340	inadequate production or less than expected
+100916463	production of a certain amount
+100916626	the maximum production possible
+100916760	the production of animals or plants by inbreeding or hybridization
+100916971	the production of malt beverages (as beer or ale) from malt and hops by grinding and boiling them and fermenting the result with yeast
+100917178	(especially of domestic fowl) breeding to reveal differential sex characteristics at hatching
+100917328	breeding cattle
+100917405	breeding dogs
+100917477	breeding horses
+100917553	(agriculture) production of food by preparing the land to grow crops (especially on a large scale)
+100917854	the act of raising or growing plants (especially on a large scale)
+100917978	rearing aquatic animals or cultivating aquatic plants for food
+100918116	the cultivation of bees on a commercial scale for the production of honey
+100918295	the practice of cultivating the land or raising stock
+100919042	breeding and caring for farm animals
+100919445	the tending of and caring for trees
+100919573	the raising of plants or animals
+100919775	the cultivation of cranberries
+100919869	the cultivation of a single crop (on a farm or area or country)
+100919990	the cultivation of soil for raising crops
+100920103	the business of a dairy
+100920197	the cultivation of plants
+100920458	tilling the land with a plow
+100920634	cultivation of the land in order to raise crops
+100920790	a technique of growing plants (without soil) in water containing dissolved nutrients
+100921015	a hydroponic method of growing plants by allowing nutrient solutions to drip slowly onto an inert medium in which the plants are growing
+100921210	growing crops and feed and livestock all on the same farm
+100921327	putting seeds or young plants in the ground to grow
+100921506	the act of sowing (of seeds in the ground or, figuratively, of germs in the body or ideas in the mind, etc.)
+100921691	the placing of seeds in damp sand or sawdust or peat moss in order to preserve them or promote germination
+100921876	farming for the raising of livestock (particularly cattle)
+100922025	cultivation of crops in strips following the contours of the land to minimize erosion
+100922171	farming that provides for the basic needs of the farmer without surpluses for marketing
+100922324	(biology) the growing of microorganisms in a nutrient medium (such as gelatin or agar)
+100922541	a culture containing yeast or bacteria that is used to start the process of fermentation or souring in making butter or cheese or dough
+100922770	the introduction of animals or plants to places where they flourish but are not indigenous
+100922974	working as a landscape gardener
+100923103	the growing of vegetables or flowers for market
+100923213	the cultivation of flowering plants
+100923344	treatment of damaged or decaying trees
+100923441	the activity of gathering livestock together so that they can be counted or branded or sold
+100923604	the season for gathering crops
+100923740	the season for cutting and drying and storing grass as fodder
+100923868	activity intended to produce rain
+100923958	the production of heat or electricity
+100924141	the act of extracting ores or coal etc from the earth
+100924541	mining valuable minerals from a placer by washing or dredging
+100924662	the mining of ore or coal from an open mine
+100924782	the extraction of building stone or slate from an open surface quarry
+100924944	the act of drilling a hole in the earth in the hope of producing petroleum
+100925117	the production of raw silk by raising silkworms
+100925258	the organized action of making of goods and services for sale
+100925616	the development of industry on an extensive scale
+100925809	the act that results in something coming to be
+100926252	the production of foil by cutting or beating metal into thin leaves
+100926393	the making of maps and charts
+100926528	the production of movies
+100926639	the act of making something (a product) from raw materials
+100927021	the act of fabricating something in a particular shape
+100927303	the act of using a file (as in shaping or smoothing an object)
+100927436	shaping metal by heating and hammering
+100927546	the activity of making things out of metal in a skillful manner
+100927680	the act of forming something into granules or grains
+100927840	the cutting of spiral grooves on the inside of the barrel of a firearm
+100927993	the activity of shaping something on a lathe
+100928091	deliberately ambiguous and contradictory language used to mislead and manipulate the public
+100928283	the manufacture of sections of a building at the factory so they can be easily and rapidly assembled at the building site
+100928483	the act of creating something (a medicine or drink or soup etc.) by compounding or mixing a variety of components
+100928738	bonding thin sheets together
+100928877	making leather from rawhide
+100928976	the act of applying veneer
+100929076	the act of creating something by thinking
+100929331	creation by mental activity
+100929509	formation of a word by means of an affix
+100929660	formation of a word by means of a prefix
+100929776	formation of a word by means of a suffix
+100929892	the act of working out the form of something (as by making a sketch or outline or plan)
+100930186	the act or process of drawing up plans or layouts for some project or enterprise
+100930357	determining and drawing up plans for the future physical arrangement and condition of a community
+100930566	dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc
+100930762	creating a sequence of instructions to enable the computer to do something
+100931100	creating a program that enables the computer to reason logically
+100931247	creating a program that can use and support objects
+100931401	creating something by the use of speech and language
+100931533	the act of creating written works
+100932296	fine writing in praise of trivial or base subjects
+100932551	writing a first version to be filled out and polished later
+100932683	conversion into dramatic form
+100932855	writing in a fictional form
+100933032	the writing of history
+100933115	writing a metrical composition (or the metrical structure of a composition)
+100933268	converting something into the form of a novel
+100933423	the act of putting something in writing
+100933536	the act of writing dictionaries
+100933662	making real or giving the appearance of reality
+100933903	the act of representing an abstraction as a physical thing
+100934113	representing a human being as a physical thing deprived of personal qualities or individuality
+100934439	embodying in an outward form
+100934619	regarding something abstract as a material thing
+100934815	giving concrete form to an abstract concept
+100934969	the human embodiment of something
+100935074	the act of attributing human characteristics to abstract ideas etc.
+100935235	the creation of beautiful or significant things
+100936820	the arts of decorative design and handicraft
+100937062	the art of making and decorating pottery
+100937268	the art of transfering designs from specially prepared paper to a wood or glass or metal surface
+100937423	the act of gently pouring off a clear liquor (as from its original bottle) without disturbing the lees
+100937601	the art of decorating a surface with shapes or pictures and then coating it with varnish or lacquer
+100937756	the creation of artistic pictures or diagrams
+100938010	carving or engraving (especially on stones)
+100938112	the art and practice of choosing and preparing and eating good food
+100938272	the Japanese art of folding paper into shapes representing objects (e.g., flowers or birds)
+100938436	creating a picture with paints
+100938717	a method of painting in which the pigments are mixed with water and a binder; used for painting posters or murals or stage scenery
+100938921	a durable method of painting on a wall by using watercolors on wet plaster
+100939066	painting that applies the pigment thickly so that brush or palette knife marks are visible
+100939210	the art of making perfumes
+100939292	artistic design and manufacture of prints as woodcuts or silkscreens
+100939472	creating figures or designs in three dimensions
+100939711	a preliminary sculpture in wax or clay from which a finished work can be copied
+100939950	making decorative shapes by trimming shrubs or trees
+100940056	the act of producing drawings on wood or leather by using heated tools or a fine flame
+100940235	the act of drawing a plan or diagram or outline
+100940354	the art or method of painting with oil paints
+100940458	the art or technique of painting with watercolors
+100940607	making engraved or etched plates and printing designs from them
+100940808	the act of engraving on a steel plate
+100940907	a method of etching that imitates the broad washes of a water color
+100941047	the act of making a print by the silkscreen method
+100941154	the act of making a lithographic print
+100941268	musical creation
+100941444	the act of arranging and adapting a piece of music
+100941634	the act of arranging a piece of music for an orchestra and assigning parts to the different musical instruments
+100941859	the completion or enrichment of a piece of music left sparsely notated by a composer
+100942033	(music) the repetition of themes introduced earlier (especially when one is composing the final part of a movement)
+100942228	the act of inventing
+100942376	the act of inventing a word or phrase
+100942525	the act of devising something
+100942658	inventing or contriving an idea or explanation and formulating it mentally
+100942956	ideas or actions intended to deal with a problem or situation
+100943267	formulation of the plans and important details
+100943420	a line of approach
+100943593	the act of creating by removing something
+100943790	the act of digging
+100944050	removing parts from hard material to create a desired pattern or shape
+100944256	a carving or line drawing on rock (especially one made by prehistoric people)
+100944390	the replacement of an edge or solid angle (as in cutting a gemstone) by a plane (especially by a plane that is equally inclined to the adjacent faces)
+100944615	the act of drilling
+100944716	the act of gouging
+100944804	the act of puncturing or perforating
+100945003	(surgery) the act of puncturing a body cavity or organ with a hollow needle in order to draw out fluid
+100945287	centesis of the belly to remove fluid for diagnosis
+100945416	(pregnancy) extraction by centesis of amniotic fluid from a pregnant woman (after the 15th week of pregnancy) to aid in the diagnosis of fetal abnormalities
+100945677	removal of fluid from a joint by centesis
+100945779	removal of fluid from the abdomen by centesis
+100945884	removal by centesis of fluid from the subarachnoid space of the lumbar region of the spinal cord for diagnostic or therapeutic purposes
+100946112	removal of fluid from the chest by centesis for diagnostic or therapeutic purposes
+100946272	prenatal diagnosis that allows direct observation of a fetus in the uterus and the withdrawal of fetal blood
+100946449	the act of punching a hole (especially a row of holes as for ease of separation)
+100946605	the act of puncturing with a small point
+100946781	(medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye
+100947021	the activity of selecting the scenes to be shown and putting them together to create a film
+100947217	the activity of looking thoroughly in order to find something or someone
+100947593	a careful systematic search
+100947732	the act of searching for food and provisions
+100947876	the act of searching someone for concealed weapons or illegal drugs
+100948097	searching someone for concealed weapons or illegal drugs by having them remove their clothes
+100948248	the act of searching visually
+100948345	an organized search (by police) for a person (charged with a crime)
+100948466	the act of searching for something
+100948622	a thorough search for something (often causing disorder or confusion)
+100948857	an exploratory action or expedition
+100948944	the act of using
+100949412	utilization or exercise
+100949535	improper or excessive use
+100949739	excessive use of drugs
+100949880	excessive use of alcohol and alcoholic drinks
+100950022	the act of making some area of land or water more profitable or productive or useful
+100950456	making an area of land more useful
+100950553	making an area of water more useful
+100950684	the act of processing used or abandoned materials for use in creating new products
+100950858	collecting bottles for reuse
+100950950	the act of bringing something to bear; using it for a particular purpose
+100951332	wrong use or application
+100951435	the application of the knowledge and usage of tools (such as machines or utensils) and techniques to control one's environment
+100951878	the practical application of technical and scientific knowledge to commerce or industry
+100952059	the activity of designing and constructing aircraft
+100952181	the activity of designing and constructing automobiles
+100952328	the activity of applying chemistry to the solution of practical problems
+100952467	the activity of designing and constructing and maintaining communication systems
+100952637	the design and construction of communications technology that transmits information in digital form
+100952816	the activity of designing and constructing and programming computers
+100952969	highly advanced technological development (especially in electronics)
+100953148	the activity of designing and constructing and operating railroads
+100953344	high-speed rail technology; train is suspended on a magnetic cushion above a magnetized track and so travels free of friction
+100953544	exploitation to the point of diminishing returns
+100953737	the act of capitalizing on an opportunity
+100953892	the act of commercializing something; involving something in commerce
+100954325	an estimation of the value of a business
+100954497	an estimation of the value of a business that is obtained by multiplying the number of shares outstanding by the current price of a share
+100954726	the act of providing electricity
+100954898	the joint development of a petroleum resource that straddles territory controlled by different companies
+100955074	a military engagement
+100955391	a war whose objective is less than the unconditional defeat of the enemy
+100955521	the use of psychological tactics to destroy the opponents' morale
+100955670	a hostile meeting of opposing military forces in the course of a war
+100956197	a war measure that isolates some area of importance to the enemy
+100956422	(military) military action or resources protecting a country against potential enemies
+100956862	military action involving the use of electromagnetic energy to determine or exploit or reduce or prevent hostile use of the electromagnetic spectrum
+100957171	activity by a military or naval force (as a maneuver or campaign)
+100957676	a military operation carried out cooperatively by two or more allied nations or a military operation carried out by coordination of sea, land, and air forces
+100957917	a local military action without declaration of war; against violators of international peace and order
+100958098	the military action of resisting the enemy's advance
+100958283	the ostentatious display of military power (with the implied threat that it might be used)
+100958451	any catastrophically destructive battle
+100958596	a fierce battle fought in close combat between troops in predetermined positions at a chosen time and place
+100960588	a pitched battle between naval fleets
+100961007	an open clash between two opposing groups (or individuals)
+100961487	a minor short-term fight
+100961648	hand-to-hand fighting at close quarters
+100961756	an awkward clash
+100961911	conflict between social or economic classes (especially between the capitalist and proletariat classes)
+100962103	a military training exercise
+100962303	defensive measures designed to destroy attacking enemy aircraft or missiles or to nullify their effectiveness
+100962506	air defense by the use aircraft or missiles or artillery or electronic countermeasures
+100962657	air defense by the use of deception or dispersion or protective construction
+100962799	activities organized by civilians for their own protection in time of war or disaster
+100962962	a defensive effort
+100963112	the act of repulsing or repelling an attack; a successful defensive stand
+100963288	a defense organized while in contact with the enemy or when time is limited
+100963439	a defense organized before contact is made with the enemy and while time for organization is available; usually includes a fortified zone (with pillboxes) and communication systems
+100963705	procedures involved in taking defensive measures against attacks using biological agents
+100963905	procedures involved in taking defensive measures against attacks using chemical agents
+100964073	laying explosive mines in concealed places to destroy enemy personnel and equipment
+100964240	organized opposition to authority; a conflict in which one faction tries to wrest control from another
+100964678	a war between factions in the same country
+100964833	the overthrow of a government by those who are governed
+100965168	a revolution whose aim is to reverse the changes introduced by a previous revolution
+100965352	an organized rebellion aimed at overthrowing a constituted government through the use of subversion and armed conflict
+100965558	an uprising by Palestinian Arabs (in both the Gaza Strip and the West Bank) against Israel in the late 1980s and again in 2000
+100965860	actions taken by a government to defeat insurgency
+100966007	open rebellion against constituted authority (especially by seamen or soldiers against their officers)
+100966216	a widespread rebellion in 1381 against poll taxes and other inequities that oppressed the poorer people of England; suppressed by Richard II
+100966454	an engagement fought between two military forces
+100966680	violent action that is hostile and usually unprovoked
+100966892	fighting; acts of overt warfare
+100967063	a type of armed combat in which the opposing troops fight from trenches that face each other
+100967294	any action resulting in injury or destruction
+100967515	an act of aggression (as one against a person who resists)
+100967829	violence or physical abuse directed toward your spouse or domestic partner or other members of a household
+100967999	the act of stealing valuable things from a place
+100968398	the practice of plundering in gangs
+100968488	the act of despoiling a country in warfare
+100968608	the stealing of cattle
+100968703	plundering during riots or in wartime
+100968822	an act that despoils the innocence or beauty of something
+100968973	the act of stripping and taking by force
+100969261	plundering with excessive damage and destruction
+100969414	an act of plundering and pillaging and marauding
+100969550	the plundering of a place by an army or mob; usually involves destruction and slaughter
+100969726	warfare using chemical agents to kill or injure or incapacitate the enemy
+100969884	the use of bacteria or viruses or toxins to destroy men and animals or food
+100970097	defense against biological warfare
+100970259	several related operations aimed at achieving a particular goal (usually within geographical and temporal constraints)
+100970583	a military campaign designed to achieve a specific objective in a foreign country
+100970819	any of the more or less continuous military expeditions in the 11th to 13th centuries when Christian powers of Europe tried to recapture the Holy Land from the Muslims
+100971191	a Crusade from 1096 to 1099; captured Jerusalem and created a theocracy there
+100971329	a Crusade from 1145 to 1147 that failed because of internal disagreements among the crusaders and led to the loss of Jerusalem in 1187
+100971525	a Crusade from 1189 to 1192 led by Richard I and the king of France that failed because an army torn by dissensions and fighting on foreign soil could not succeed against forces united by religious zeal
+100971788	a Crusade from 1202 to 1204 that was diverted into a battle for Constantinople and failed to recapture Jerusalem
+100971962	a Crusade under papal control from 1218 to 1221 that achieved military victories but failed when dissension arose over accepting the terms they had been offered
+100972183	a Crusade from 1228 to 1229 led by the Holy Roman Emperor Frederick II who fell ill and was excommunicated by the Pope; by negotiation Frederick II was able to crown himself king of Jerusalem
+100972435	a Crusade initiated in 1248 after the loss of Jerusalem in 1244 and defeated in 1249
+100972582	an operation conducted primarily by naval forces in order to gain or extend or maintain control of the sea
+100972749	an operation that is assigned by a higher headquarters
+100973007	a mission to capture or defend something
+100973108	a mission to discover something
+100973200	an operation developed for United States troops in Vietnam; troops would move through a designated area destroying troops as they found them
+100973413	a military action in which besieged troops burst forth from their position
+100973567	a military operation (often involving new supplies of men and materiel) to strengthen a military force or aid in the performance of its mission
+100973906	a violent fight between dogs (sometimes organized illegally for entertainment and gambling)
+100974088	close-in firing by one unit against an enemy engaged by another unit
+100974216	a mission requiring one force to support another specific force and authorizing it to answer directly the supported force's request for assistance
+100974423	an amphibious operation conducted for the purpose of deceiving the enemy and leading him into a course of action unfavorable to him
+100974625	an amphibious diversionary attack
+100974725	(military) an offensive against an enemy (using weapons)
+100975181	the waging of armed conflict against an enemy
+100976197	an attack by armed planes on a surface target
+100976310	an aerial engagement between fighter planes
+100976444	an attack by ground troops
+100976530	close fighting during the culmination of a military attack
+100976716	a direct and violent assault on a stronghold
+100976848	an impetuous rush toward someone or something
+100977080	a retaliatory charge
+100977160	a mass attack of troops without concern for casualties; originated by Japanese who accompanied it with yells of banzai'
+100977356	an attack calculated to draw enemy defense away from the point of the principal attack
+100977538	an attack that penetrates into enemy territory
+100977744	the action of penetrating between or among
+100977867	a swift and violent military offensive with intensive aerial bombardment
+100978041	a penetration of a barrier such as an enemy's defense
+100978171	(American football) defensive players try to break through the offensive line
+100978356	(American football) a play in which a defensive player is allowed to cross the line of scrimmage and then blocked off as the runner goes through the place the lineman vacated
+100978617	the act of invading; the act of an army that invades for conquest or plunder
+100978784	a process in which individuals (or small groups) penetrate an area (especially the military penetration of enemy positions without detection)
+100979039	a sudden short attack
+100979218	an invasion or hostile attack
+100979300	a very rapid raid
+100979387	an attack that is intended to seize or inflict damage on or destroy an objective
+100979637	the initial use of nuclear weapons to attack a country that also has nuclear weapons; considered feasible only when the attacker can destroy the other country's ability to retaliate
+100979943	an attack (usually without prior warning) intended to deal only with a specific target
+100980091	a strike that is carried out in order to deter expected aggression by hostile forces
+100980259	an attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advance units etc.
+100980499	an attack by dropping bombs
+100980666	the act (or an instance) of subjecting a body or substance to the impact of high-energy particles (as electrons or alpha rays)
+100980850	that part of the flight that begins with the approach to the target; includes target acquisition and ends with the release of the bombs
+100981079	an extensive and systematic bombing intended to devastate a large target
+100981266	a bombing run in which the bomber releases the bomb while flying straight toward the target
+100981434	a bombing run in which the bomber approaches the target at a low altitude and pulls up just before releasing the bomb
+100981643	a special case of loft bombing in which the bomb is released past the vertical so it is tossed back to the target
+100981828	the use of bombs for sabotage; a tactic frequently used by terrorists
+100981988	a terrorist bombing carried out by someone who does not hope to survive it
+100982124	the action of attacking an enemy
+100982286	a large scale offensive (more than a counterattack) undertaken by a defending force to seize the initiative from an attacking force
+100982480	an offensive conducted by secret police or the military of a regime against revolutionary and terrorist insurgents and marked by the use of kidnapping and torture and murder with civilians often being the victims
+100982865	the act of forcing the enemy to withdraw
+100982990	the activity of keeping the peace by military forces (especially when international military forces enforce a truce between hostile groups or nations)
+100983266	a military operation by both land and sea forces
+100983455	an amphibious operation attacking a land base that is carried out by troops that are landed by naval ships

@@ -1,0 +1,1000 @@
+102115002	a spitz-like dog having a shaggy greyish coat and tightly curled tail originating in Holland
+102115149	breed of various very small compact wiry-coated dogs of Belgian origin having a short bearded muzzle
+102115358	a variety of Brussels griffon having a short smooth coat
+102115478	either of two Welsh breeds of long-bodied short-legged dogs with erect ears and a fox-like head
+102115675	the smaller and straight-legged variety of corgi having pointed ears and a short tail
+102115838	slightly bowlegged variety of corgi having rounded ears and a long tail
+102115987	an intelligent dog with a heavy curly solid-colored coat that is usually clipped; an old breed sometimes trained as sporting dogs or as performing dogs
+102116276	the breed of very small poodles
+102116364	a breed of small poodles
+102116451	a breed or medium-sized poodles
+102116544	the largest breed of poodle
+102116630	any of an old breed of small nearly hairless dogs of Mexico
+102116752	any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs
+102117019	a wolf with a brindled grey coat living in forested northern regions of North America
+102117200	wolf of Arctic North America having white fur and a black-tipped tail
+102117364	reddish-grey wolf of southwestern North America
+102117507	small wolf native to western North America
+102117664	offspring of a coyote and a dog
+102117748	Old World nocturnal canine mammal closely related to the dog; smaller than a wolf; sometimes hunts in a pack but usually singly or as a member of a pair
+102117987	any of various undomesticated mammals of the family Canidae that are thought to resemble domestic dogs as distinguished from jackals or wolves
+102118293	wolflike yellowish-brown wild dog of Australia
+102118427	Asiatic wild dog
+102118565	fierce wild dog of the forests of central and southeast Asia that hunts in packs
+102118731	crab-eating dog
+102118837	wild dog of northern South America
+102118974	raccoon dogs
+102119102	small wild dog of eastern Asia having facial markings like those of a raccoon
+102119282	African hunting dog
+102119390	a powerful doglike mammal of southern and eastern Africa that hunts in large packs; now rare in settled area
+102119611	hyenas
+102119787	doglike nocturnal mammal of Africa and southern Asia that feeds chiefly on carrion
+102120021	type genus of the Hyaenidae
+102120164	of northern Africa and Arabia and India
+102120298	of southern Africa
+102120424	a genus of Hyaenidae
+102120552	African hyena noted for its distinctive howl
+102120710	aardwolf
+102120828	striped hyena of southeast Africa that feeds chiefly on insects
+102120985	alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs
+102121295	a female fox
+102121359	a conventional name for a fox used in tales following usage in the old epic Reynard the Fox'
+102121506	foxes
+102121674	the common Old World fox; having reddish-brown fur; commonly considered a single circumpolar species
+102121899	red fox in the color phase when its pelt is mostly black
+102122011	red fox in the color phase when its pelt is tipped with white
+102122129	New World fox; often considered the same species as the Old World fox
+102122286	small grey fox of the plains of western North America
+102122441	small grey fox of southwestern United States; may be a subspecies of Vulpes velox
+102122613	arctic foxes
+102122731	thickly-furred fox of Arctic regions; brownish in summer and white in winter
+102122930	a variety of Arctic fox having a pale grey winter coat
+102123039	grey foxes
+102123157	dark grey American fox; from Central America through southern United States
+102123344	cats; wildcats; lions; leopards; cheetahs; saber-toothed tigers
+102123649	any of various lithe-bodied roundheaded fissiped mammals, many with retractile claws
+102123886	type genus of the Felidae: true cats and most wildcats
+102124272	feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats
+102124460	any domesticated member of the genus Felis
+102124950	informal terms referring to a domestic cat
+102125082	a cat proficient at mousing
+102125162	a homeless cat
+102125232	an animal that has strayed (especially a domestic animal)
+102125377	male cat
+102125462	a castrated tomcat
+102125530	female cat
+102125600	young domestic cat
+102125697	a cat with a grey or tawny coat mottled with black
+102125811	a cat having a striped coat
+102125894	a cat having black and cream-colored and yellowish markings
+102126046	a long-haired breed of cat
+102126130	a long-haired breed of cat similar to the Persian cat
+102126249	a slender short-haired blue-eyed breed of cat having a pale coat with dark ears paws face and tail tip
+102126437	Siamese cat having a bluish cream-colored body and dark grey points
+102126569	a short-haired breed with body similar to the Siamese cat but having a solid dark brown or grey coat
+102126727	a domestic cat of Egypt
+102126809	a term applied indiscriminately in the United States to any short-haired bluish-grey cat
+102126965	a small slender short-haired breed of African origin having brownish fur with a reddish undercoat
+102127136	a short-haired tailless breed of cat believed to originate on the Isle of Man
+102127275	any small or medium-sized cat resembling the domestic cat and living in the wild
+102127662	a desert wildcat
+102127733	bushy-tailed wildcat of Europe that resembles the domestic cat and is regarded as the ancestor of the domestic cat
+102127963	large American feline resembling a lion
+102128146	nocturnal wildcat of Central America and South America having a dark-spotted buff-brown coat
+102128341	long-bodied long-tailed tropical American wildcat
+102128524	widely distributed wildcat of Africa and Asia Minor
+102128680	small Asiatic wildcat
+102128791	slender long-legged African wildcat having large untufted ears and tawny black-spotted coat
+102128969	small spotted wildcat of southern Asia and Malaysia
+102129117	medium-sized wildcat of Central America and South America having a dark-striped coat
+102129292	small spotted wildcat found from Texas to Brazil
+102129439	small wildcat of the mountains of Siberia and Tibet and Mongolia
+102129603	lynxes
+102129704	short-tailed wildcats with usually tufted ears; valued for their fur
+102129944	of northern Eurasia
+102130033	of northern North America
+102130134	small lynx of North America
+102130238	of southern Europe
+102130330	of deserts of northern Africa and southern Asia
+102130460	any of several large cats typically able to roar and living in the wild
+102130772	lions; leopards; snow leopards; jaguars; tigers; cheetahs; saber-toothed tigers
+102131037	large feline of African and Asian forests usually having a tawny coat with black spots
+102131250	female leopard
+102131321	a leopard in the black color phase
+102131409	large feline of upland central Asia having long thick whitish fur
+102131577	a large spotted feline of tropical America similar to the leopard; in some classifications considered a member of the genus Felis
+102131817	large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male
+102132115	a female lion
+102132182	a small or young lion
+102132256	large feline of forests in most of Asia having a tawny coat with black stripes; endangered
+102132489	southern short-haired tiger
+102132575	a female tiger
+102132643	offspring of a male lion and a female tiger
+102132738	offspring of a male tiger and a female lion
+102132842	cheetahs
+102132960	long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game
+102133197	any of many extinct cats of the Old and New Worlds having long swordlike upper canine teeth; from the Oligocene through the Pleistocene
+102133447	saber-toothed tigers
+102133577	North American sabertooth; culmination of sabertooth development
+102133728	false sabertoothed tigers
+102133863	North American cat of the Miocene and Pliocene; much earlier and less specialized than members of the genus Smiledon
+102134070	bears and extinct related forms
+102134305	massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws
+102134594	type genus of Ursidae: brown bears; in some classifications genus Ursus includes all bears
+102134788	large ferocious bear of Eurasia
+102134972	a conventional name for a bear used in tales following usage in the old epic Reynard the Fox'
+102135118	yellowish-grey Syrian brown bear
+102135232	powerful brownish-yellow bear of the uplands of western North America
+102135440	brown bear of coastal Alaska and British Columbia
+102135626	American black bears; in some classifications not a separate genus from Ursus
+102135813	brown to black North American bear; smaller and less ferocious than the brown bear
+102136052	reddish-brown color phase of the American black bear
+102136164	Asiatic black bears; in some classifications not a separate genus from Ursus
+102136356	bear with a black coat living in central and eastern Asia
+102136554	polar bears; in some classifications not a separate genus from Ursus
+102136736	white bear of Arctic regions
+102136892	sloth bears; in some classifications not a separate genus from Ursus
+102137070	common coarse-haired long-snouted bear of south-central Asia
+102137241	genets; civets; mongooses
+102137623	small cat-like predatory mammals of warmer parts of the Old World
+102137872	cat-like mammal typically secreting musk used in perfumes
+102138138	type genus of the family Viverridae
+102138262	common civet of India and southeast Asia
+102138378	a genus of Viverridae
+102138496	a common civet of southeast Asia
+102138633	binturongs
+102138755	arboreal civet of Asia having a long prehensile tail and shaggy black hair
+102138937	large primitive cat-like carnivores inhabiting forests of Madagascar
+102139104	largest carnivore of Madagascar; intermediate in some respects between cats and civets
+102139275	monotypic genus of Madagascar civets closely related to palm civets
+102139446	civet of Madagascar
+102139553	genets
+102139667	agile Old World viverrine having a spotted coat and long ringed tail
+102139824	banded palm civets
+102139954	an East Indian civet
+102140080	mongooses
+102140201	agile grizzled Old World viverrine; preys on snakes and rodents
+102140374	keen-sighted viverrine of southern Asia about the size of a ferret; often domesticated
+102140540	northern African mongoose; in ancient times thought to devour crocodile eggs
+102140694	palm civets
+102140821	spotted or striped arboreal civet of southeast Asia and East Indies
+102140975	meerkats
+102141093	a mongoose-like viverrine of South Africa having a face like a lemur and only four toes
+102141299	a meerkat with a thin and elongated tail
+102141429	burrowing diurnal meerkat of southern Africa; often kept as a pet
+102141573	an old order dating to early Eocene: bats: suborder Megachiroptera (fruit bats); suborder Microchiroptera (insectivorous bats)
+102141851	nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate
+102142131	fruit bats
+102142323	large Old World bat of warm and tropical regions that feeds on fruit
+102142566	a genus of Megachiroptera
+102142701	large bat with a head that resembles the head of a fox
+102142831	a variety of fruit bat
+102142920	a variety of fruit bat
+102143009	East Indian fruit bats
+102143143	any of various fruit bats of the genus Nyctimene distinguished by nostrils drawn out into diverging tubes
+102143371	a genus of Megachiroptera
+102143510	a variety of fruit eating bat
+102143622	most of the bats in the world; all bats except fruit bats insectivorous bats
+102143958	typically having large ears and feeding primarily on insects; worldwide in distribution
+102144263	a carnivorous bat with ears like a mouse
+102144365	bat having a leaflike flap at the end of the nose; especially of the families Phyllostomatidae and Rhinolophidae and Hipposideridae
+102144716	New World leaf-nosed bats
+102144947	leafnose bats
+102145059	large-eared greyish bat of southern California and northwestern Mexico
+102145227	type genus of the family Phyllostomatidae
+102145386	New World bat with a pointed nose leaf; found from southern United States to Paraguay
+102145550	a variety of leaf-nosed bat
+102145645	a genus of Phyllostomatidae
+102145794	small-eared Mexican bat with a long slender nose
+102145945	Old World leaf-nosed bats
+102146091	a bat of the family Rhinolophidae having a horseshoe-shaped leaf on the nose
+102146246	Old World leafnose bats
+102146411	horseshoe bats
+102146543	any of numerous bats of the family Hipposideridae of northwest Africa or Philippines or Australia having a horseshoe-shaped leaf on the nose
+102146762	orange horseshoe bats
+102146903	a common bat of northwestern Australia having orange or yellow fur
+102147094	Old World false vampire bats
+102147245	any New or Old World carnivorous bat erroneously thought to suck blood but in fact feeding on insects
+102147444	type genus of the Megadermatidae
+102147588	large carnivorous Old World bat with very large ears
+102147736	the majority of common bats of temperate regions of the world
+102148076	a variety of carnivorous bat
+102148419	a genus of Vespertilionidae
+102148562	common Eurasian bat with white-tipped hairs in its coat
+102148716	a genus of Vespertilionidae
+102148853	North American bat of a brick or rusty red color with hairs tipped with white
+102149023	any of numerous medium to small insectivorous bats found worldwide in caves and trees and buildings
+102149178	largest and most widely distributed genus of bats
+102149352	the small common North American bat; widely distributed
+102149531	small bat of southwest United States that lives in caves etc.
+102149686	a genus of Vespertilionidae
+102149825	rather large North American brown bat; widely distributed
+102149980	common brown bat of Europe
+102150104	a genus of Vespertilionidae
+102150243	drab yellowish big-eared bat that lives in caves
+102150399	nearly cosmopolitan genus of very small bats
+102150599	small European brown bat
+102150740	one of the smallest bats of eastern North America
+102150897	of western North America
+102151029	a genus of Vespertilionidae
+102151164	a large bat of the southwestern United States having spots and enormous ears
+102151350	a genus of Vespertilionidae
+102151487	any of various Old or New World bats having very long ears
+102151643	bat of western North America having extremely large ears
+102151788	mastiff bats; freetail bats
+102151949	freetail bats
+102152072	small swift insectivorous bat with leathery ears and a long tail; common in warm regions
+102152305	the common freetail bat of southern United States having short velvety fur; migrates southward for winter
+102152513	small brown bat of California and northern Mexico
+102152668	mastiff bats
+102152786	a soft-furred chocolate-brown bat with folded ears and small wings; often runs along the ground
+102152958	true vampire bats
+102153134	any of various tropical American bats of the family Desmodontidae that bite mammals and birds to feed on their blood
+102153382	type genus of the Desmodontidae: vampire bats
+102153537	mouse-sized bat of tropical Central America and South America having sharp incisor and canine teeth; feeds on the blood of birds and mammals
+102153760	vampire bats
+102153882	similar in size and habits to Desmodus rotundus; of tropical America including southern California and Texas
+102154100	system of fluid-filled tubes used by echinoderms in locomotion and feeding and respiration
+102154277	a movable organ for flying (one of a pair)
+102154592	a wing of an insect
+102154716	either of the anterior pair of wings on an insect that has four wings
+102154864	either of the rudimentary hind wings of dipterous insects; used for maintaining equilibrium during flight
+102155098	wing of a bird
+102155211	either of the horny front wings in beetles and some other insects which cover and protect the functional hind wings
+102155392	any animal that lives by preying on other animals
+102155533	animal hunted or caught for food
+102155643	animal hunted for food or sport
+102155761	large animals that are hunted for sport
+102155855	any bird (as grouse or pheasant) that is hunted for sport
+102156097	the pedal extremity of vertebrates other than human beings
+102156364	foot adapted for digging as in moles
+102156461	a burrowing mammal having limbs adapted for digging
+102156611	the foot of an ungulate mammal
+102156785	the horny covering of the end of the foot in ungulate mammals
+102156916	a hoof divided into two parts at its distal extremity (as of ruminants or swine)
+102157068	the foot of a bird
+102157272	a foot having the toes connected by folds of skin
+102157394	a bird's foot
+102157476	a bird's foot having the first and fourth toes of each foot directed backward and the second and third forward
+102157666	a bird's foot having the first and second toes of each foot directed backward and the third and fourth forward
+102157858	a bird's foot with folds of skin between the toes
+102157965	a bird's foot having separate toes each with membranous flaps along the sides
+102158100	a small cup-shaped structure (as a taste bud or optic cup or cavity of a coral containing a polyp)
+102158330	(embryology) a two-walled cuplike depression that develops into the pigmented and sensory layers of the retina
+102158524	toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell
+102158683	small pointed ridge on the exoskeleton of an arthropod
+102158792	sharp curved horny process on the toe of a bird or some mammals or reptiles
+102158972	claw of a bear; often used in jewelry
+102159065	a sharp hooked claw especially on a bird of prey
+102159184	a grasping structure on the limb of a crustacean or other arthropods
+102159384	a vertebrate animal having four feet or legs or leglike appendages
+102159523	an animal especially a mammal having four limbs specialized for walking
+102159858	an animal having six feet
+102159937	an animal with two feet
+102160067	the underpart of the body of certain vertebrates such as snakes or fish
+102160209	the posterior part of the body of a vertebrate especially when elongated and extending beyond the trunk or main part of the body
+102160606	a bushy tail or part of a bushy tail (especially of the fox)
+102160718	a short or shortened tail of certain animals
+102160865	tail especially of a mammal posterior to and above the anus
+102161006	posterior part of a bird's body from which the tail feathers grow
+102161146	the skinned tail of cattle; used especially for soups
+102161271	either of the two lobes of the tail of a cetacean
+102161391	a short erect tail
+102161498	a conspicuously marked or shaped tail
+102161624	the solid bony part of the tail of an animal as distinguished from the hair
+102161769	the hoof of a horse
+102161923	insects; about five-sixths of all known animal species
+102162607	small air-breathing arthropod
+102163599	an insect that lives in a colony with other insects of the same species
+102163730	anything short-lived, as an insect that lives only for a day in its winged form
+102163877	insects that undergo complete metamorphosis
+102163990	an insect that strips the leaves from plants
+102164109	an insect that carries pollen from one flower to another
+102164240	any of various insects that deposit their eggs in plants causing galls in which the larvae feed
+102164389	an order of insect identified in 2002 in a 45 million year old piece of amber from the Baltic region
+102164596	an order of carnivorous insects usually having long membranous wings and long beaklike heads with chewing mouths at the tip
+102164887	any of various carnivorous insects of the order Mecoptera
+102165056	a family of insects of the order Mecoptera
+102165213	any of various mecopterous insects of the family Panorpidae of the northern hemisphere having a long beak and long antennae; males have a tail like that of a scorpion except it is not venomous
+102165483	a family of predacious tropical insects of the order Mecoptera
+102165660	any of various mecopterous insects of the family Bittacidae
+102165796	minute wingless arthropods: springtails
+102165949	any of numerous minute wingless primitive insects possessing a special abdominal appendage that allows the characteristic nearly perpetual springing pattern; found in soil rich in organic debris or on the surface of snow or water
+102166268	minute wingless arthropods: telsontails
+102166415	any of several minute primitive wingless and eyeless insects having a cone-shaped head; inhabit damp soil or decaying organic matter
+102166634	beetles
+102167116	insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings
+102167625	tiger beetles
+102167757	active usually bright-colored beetle that preys on other insects
+102167899	the ladybugs
+102168108	small round bright-colored and spotted beetle that usually feeds on aphids and other insect pests
+102168406	genus of ladybugs
+102168529	red ladybug with a black spot on each wing
+102168676	genus of ladybugs native to Mexico and Central America; both larvae and adults feed on plants
+102168881	introduced into the United States from Mexico; feeds on the foliage of the bean plant
+102169088	genus of ladybugs
+102169219	a variety of ladybug
+102169326	genus of Australian ladybugs
+102169478	native to Australia; introduced elsewhere to control scale insects
+102169638	ground beetles
+102169803	predacious shining black or metallic terrestrial beetle that destroys many injurious insects
+102170027	bombardier beetles
+102170157	beetle that ejects audibly a pungent vapor when disturbed
+102170297	genus of large predaceous ground beetles that feed on injurious caterpillars
+102170472	any beetle of the genus Calosoma
+102170596	large metallic blue-green beetle that preys on caterpillars; found in North America
+102170773	fireflies
+102170897	nocturnal beetle common in warm regions having luminescent abdominal organs
+102171079	the luminous larva or wingless grub-like female of a firefly
+102171194	long-horned beetles
+102171351	long-bodied beetle having very long antennae
+102171528	sawyer beetles
+102171675	any of several beetles whose larvae bore holes in dead or dying trees especially conifers
+102171870	large beetle whose larvae bore holes in pine trees
+102171997	leaf beetles
+102172149	brightly colored beetle that feeds on plant leaves; larvae infest roots and stems
+102172357	any small leaf beetle having enlarged hind legs and capable of jumping
+102172485	Colorado potato beetles
+102172626	black-and-yellow beetle that feeds in adult and larval stages on potato leaves; originally of eastern Rocky Mountains; now worldwide
+102172921	carpet beetles
+102173052	small beetle whose larvae are household pests feeding on woolen fabrics
+102173251	a small black and red and white carpet beetle
+102173390	a carpet beetle that is solid black in color
+102173500	beetles that prey on other insects
+102173645	predacious on other insects; usually brightly colored or metallic
+102173816	European beetle; infests beehives
+102173906	scarabaeid beetles and stag beetles
+102174105	beetle having antennae with hard platelike terminal segments
+102174285	scarab or dung beetles
+102174521	any of numerous species of stout-bodied beetles having heads with horny spikes
+102174834	any of numerous beetles that roll balls of dung on which they feed and in which they lay eggs
+102175039	type genus of the Scarabaeidae
+102175170	scarabaeid beetle considered divine by ancient Egyptians
+102175330	any of various dung beetles
+102175413	Old World dung beetle that flies with a droning sound
+102175522	any of various large usually brown North American leaf-eating beetles common in late spring; the larvae feed on roots of grasses etc.
+102175765	large greenish June beetle of southern United States
+102175892	a genus of Scarabaeidae
+102176025	small metallic green and brown beetle native to eastern Asia; serious plant pest in North America
+102176223	genus of beetles whose grubs feed mainly on roots of plants; includes several pests of cultivated grasses
+102176436	introduced into United States from the Orient; larvae feed on roots of sugarcane and other grasses
+102176653	any of various large chiefly tropical beetles having horns on the head; pest on coconuts
+102176805	considered a separate family in some classification systems
+102177007	any of various beetles of the family (or subfamily) Melolonthidae
+102177173	a genus of Melolonthidae
+102177311	any of various large European beetles destructive to vegetation as both larvae and adult
+102177522	a genus of Melolonthidae
+102177666	common North American beetle: larvae feed on roots and adults on leaves and flowers of e.g. rose bushes or apple trees or grape vines
+102177915	considered a separate family in some classification systems
+102178092	a genus of Cetoniidae
+102178221	a common metallic green European beetle: larvae feed on plant roots and adults on leaves and flowers of e.g. roses
+102178443	stag beetles
+102178568	a kind of lamellicorn beetle; the male has branched mandibles resembling antlers
+102178725	click beetles and certain fireflies
+102178913	any of various widely distributed beetles
+102179091	able to right itself when on its back by flipping into the air with a clicking sound
+102179263	tropical click beetles
+102179399	tropical American click beetle having bright luminous spots
+102179568	wormlike larva of various elaterid beetles; feeds on roots of many crop plants
+102179720	water beetles
+102179848	any of numerous aquatic beetles usually having a smooth oval body and flattened hind legs for swimming
+102180028	whirligig beetles
+102180158	aquatic beetle that circles rapidly on the water surface
+102180296	deathwatch beetles
+102180427	bores through wood making a ticking sound popularly thought to presage death
+102180624	any of several families of mostly small beetles that feed on plants and plant products; especially snout beetles and seed beetles
+102180896	true weevils: snout beetles
+102181063	small weevil having a prolonged snout; destructive to e.g. grains and nuts
+102181215	weevils destructive of cultivated plants
+102181369	greyish weevil that lays its eggs in cotton bolls destroying the cotton
+102181538	blister beetles
+102181664	beetle that produces a secretion that blisters the skin
+102181844	any of various beetles that exude an oily substance from the leg joints that deters enemies
+102181992	green beetle of southern Europe
+102182081	large family of bark-boring or wood-boring short-beaked beetles; very destructive to forest and fruit trees
+102182366	type genus of the Scolytidae comprising numerous small bark beetles
+102182543	a vector of the fungus causing Dutch elm disease
+102182698	genus of small bark beetles destructive especially to mature conifers
+102182885	small beetle that bores tunnels in the bark and wood of trees; related to weevils
+102183079	small beetle that likes to bore through the bark of spruce trees and eat the cambium which eventually kills the tree
+102183394	rove beetles
+102183527	active beetle typically having predatory or scavenging habits
+102183665	a family of arthropods including darkling beetles and mealworms
+102183887	sluggish hard-bodied black terrestrial weevil whose larvae feed on e.g. decaying plant material or grain
+102184129	the larva of beetles of the family Tenebrionidae
+102184251	flour beetles
+102184376	an insect that infests flour and stored grains
+102184515	seed beetles
+102184697	a small beetle that infests the seeds of legumes
+102184872	type genus of the Bruchidae
+102185007	larvae live in and feed on seeds of the pea plant
+102185150	a genus of Bruchidae
+102185294	larvae live in and feed on growing or stored beans
+102185448	a genus of Bruchidae
+102185582	brown weevil that infests stored grain especially rice
+102185748	a beetle from China that has been found in the United States and is a threat to hardwood trees; lives inside the tree; no natural predators in the United States
+102186005	web spinners
+102186159	any of a small order of slender typically tropical insects that nest in colonies in silken tunnels that they spin
+102186349	sucking lice
+102186509	wingless usually flattened bloodsucking insect parasitic on warm-blooded animals
+102186766	true lice: human lice and related forms
+102186922	type genus of Pediculidae: true lice infecting humans
+102187125	head or body louse
+102187241	infests the head and body of humans
+102187372	a parasitic louse that infests the body of human beings
+102187533	crab lice
+102187659	true lice: crab lice
+102187819	a louse that infests the pubic region of the human body
+102187989	biting lice
+102188133	wingless insect with mouth parts adapted for biting; mostly parasitic on birds
+102188346	chicken lice
+102188466	a louse parasitic on poultry
+102188625	fleas
+102188805	any wingless bloodsucking parasitic insect noted for ability to leap
+102189051	many common fleas attacking humans and domestic animals
+102189238	type genus of the Pulicidae
+102189369	the most common flea attacking humans
+102189486	an arthropod genus of fleas
+102189674	a former usage synonymous with Ctenocephalides
+102189802	flea that attacks dogs and cats
+102189931	flea that breeds chiefly on cats and dogs and rats
+102190079	a genus of Siphonaptera
+102190206	small tropical flea; the fertile female burrows under the skin of the host including humans
+102190411	a genus of Siphonaptera
+102190552	parasitic on especially the heads of chickens
+102190717	a large order of insects having a single pair of wings and sucking or piercing mouths; includes true flies and mosquitoes and gnats and crane flies
+102191351	insects having usually a single pair of functional wings (anterior pair) with the posterior pair reduced to small knobbed structures and mouth parts adapted for sucking or lapping or piercing
+102191866	gall midges
+102192015	fragile mosquito-like flies that produce galls on plants
+102192187	a genus of Cecidomyidae
+102192322	small fly whose larvae damage wheat and other grains
+102192474	two-winged flies especially the families: Muscidae; Gasterophilidae; Calliphoridae; Tachinidae
+102192667	two-winged flies especially the housefly
+102192818	two-winged insects characterized by active flight
+102193117	scalelike structure between the base of the wing and the halter of a two-winged fly
+102193300	type genus of the Muscidae: houseflies
+102193442	common fly that frequents human habitations and spreads many diseases
+102193615	flies closely related to the Muscidae: tsetse flies
+102193783	type genus of the Glossinidae: tsetse flies
+102193925	bloodsucking African fly; transmits sleeping sickness etc.
+102194101	blowflies
+102194269	type genus of the Calliphoridae: blowflies
+102194425	large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds
+102194631	blowfly with iridescent blue body; makes a loud buzzing noise in flight
+102194779	greenbottle flies
+102194904	blowfly with brilliant coppery green body
+102195040	flesh flies
+102195165	fly whose larvae feed on carrion or the flesh of living animals
+102195325	parasites on other insects
+102195466	bristly fly whose larvae live parasitically in caterpillars and other insects; important in control of noxious insects
+102195661	any of various large flies that annoy livestock
+102195815	stout-bodied hairy dipterous fly whose larvae are parasites on humans and other mammals
+102196009	horse botflies
+102196148	type genus of the Gasterophilidae: horse botflies
+102196317	parasitic chiefly on horses
+102196451	New World botflies
+102196607	type genus of the Cuterebridae
+102196730	larvae live under the skin of domestic mammals and humans
+102196901	large tropical American fly; parasitic on humans and other mammals
+102197066	warble flies
+102197251	type genus of the Oestridae: sheep botflies
+102197402	larvae are parasitic on sheep
+102197539	in some classifications considered the type genus of the family Hypodermatidae: warble flies
+102197743	hairy bee-like fly whose larvae produce lumpy abscesses (warbles) under the skin of cattle
+102197909	a lumpy abscess under the hide of domestic mammals caused by larvae of a botfly or warble fly
+102198055	horseflies
+102198178	large swift fly the female of which sucks blood of various animals
+102198345	bee flies
+102198471	hairy nectar-eating fly that resembles a bee; larvae are parasitic on larvae of bees and related insects
+102198648	robber flies
+102198771	swift predatory fly having a strong body like a bee with the proboscis hardened for sucking juices of other insects captured on the wing
+102198996	any of numerous small insects whose larvae feed on fruits
+102199194	fruit flies; some leaf miners
+102199413	a genus of Trypetidae
+102199548	larvae bore into and feed on apples
+102199700	Mediterranean fruit flies
+102199837	small black-and-white fly that damages citrus and other fruits by implanting eggs that hatch inside the fruit
+102200065	fruit flies
+102200197	a genus of Drosophilidae
+102200341	small fruit fly used by Thomas Hunt Morgan in studying basic mechanisms of inheritance
+102200529	flies whose larvae feed on pickles and imperfectly sealed preserves
+102200673	leaf miners
+102200781	any of various small moths or dipterous flies whose larvae burrow into and feed on leaf tissue especially of the family Gracilariidae
+102200984	winged or wingless dipterans: louse flies
+102201184	bloodsucking dipterous fly parasitic on birds and mammals
+102201366	type genus of the Hippoboscidae
+102201511	winged fly parasitic on horses
+102201648	an arthropod genus of wingless flies including the sheep ked
+102201822	wingless fly that is an external parasite on sheep and cattle
+102202004	European genus of bloodsucking flies
+102202154	small black European fly introduced into North America; sucks blood from cattle especially at the base of the horn
+102202364	mosquitoes; fungus gnats; crane flies; gnats; sand flies
+102202651	mosquitoes
+102202850	two-winged insect whose female has a long proboscis to pierce the skin and suck the blood of humans and animals
+102203161	larva of a mosquito
+102203282	(British usage) mosquito
+102203357	yellow-fever mosquitos
+102203502	mosquito that transmits yellow fever and dengue
+102203652	striped native of Japan thriving in southwestern and midwestern United States and spreading to the Caribbean; potential carrier of serious diseases
+102203904	malaria mosquitoes; distinguished by the adult's head-downward stance and absence of breathing tubes in the larvae
+102204149	any mosquito of the genus Anopheles
+102204278	transmits the malaria parasite
+102204410	type genus of the Culicidae: widespread genus of mosquitoes distinguished by holding the body parallel to the resting surface
+102204658	common house mosquito
+102204776	widespread tropical mosquito that transmits filarial worms
+102204939	any of various small biting flies: midges; biting midges; black flies; sand flies
+102205161	biting midges; sand flies
+102205330	minute two-winged insect that sucks the blood of mammals and birds and other insects
+102205530	type genus of the Ceratopogonidae
+102205660	midges
+102205804	minute two-winged mosquito-like fly lacking biting mouthparts; appear in dancing swarms especially near water
+102205984	type genus of the Chironomidae
+102206109	fungus gnats
+102206244	mosquito-like insect whose larvae feed on fungi or decaying vegetation
+102206391	very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies
+102206630	a fly of the family Psychodidae
+102206736	small bloodsucking sand flies that resemble moths
+102206901	any of various small dipterous flies; bloodsucking females can transmit sandfly fever and leishmaniasis
+102207112	fungus gnats
+102207237	type genus of the Sciaridae: fungus gnat
+102207374	minute blackish gregarious flies destructive to mushrooms and seedlings
+102207559	larva of fungus gnat that feed on cereals and other grains; they march in large companies in regular order when the food is exhausted
+102207747	crane flies
+102207871	long-legged slender flies that resemble large mosquitoes but do not bite
+102208035	blackflies and sand flies
+102208175	type genus of the Simuliidae: blackflies
+102208325	small blackish stout-bodied biting fly having aquatic larvae; sucks the blood of birds as well as humans and other mammals
+102208548	an order of insects including: bees; wasps; ants; ichneumons; sawflies; gall wasps; etc.
+102208922	insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing
+102209276	bees
+102209508	any of numerous hairy-bodied insects including social and solitary species
+102209831	stingless male bee in a colony of social bees (especially honeybees) whose sole function is to mate with the queen
+102209997	fertile egg-laying female bee
+102210101	sterile member of a colony of social insects that forages for food and cares for the larvae
+102210299	a wingless sterile ant or termite having a large head and powerful jaws adapted for defending the colony
+102210457	sterile bee specialized to collect food and maintain the hive
+102210594	honeybees; carpenter bees; bumblebees
+102210795	type genus of the Apidae: honeybees
+102210932	social bee often domesticated for the honey it produces
+102211150	a strain of bees that originated in Brazil in the 1950s as a cross between an aggressive African bee and a honeybee; retains most of the traits of the African bee; now spread as far north as Texas
+102211500	dark-colored ill-tempered honeybee supposedly of German origin
+102211631	greyish highly productive European honeybee that has a quiet disposition
+102211763	yellowish honeybee resembling the Carniolan bee in its habits
+102211882	carpenter bees
+102212006	large solitary bee that lays eggs in tunnels bored into wood or plant stems
+102212160	bumblebees
+102212276	robust hairy social bee of temperate regions
+102212407	a large bee that resembles the bumblebee but lacks pollen-collecting apparatus and a worker caste
+102212616	a bee that is parasitic in the nests of bumblebees
+102212748	a large family of solitary short-tongued bees most of which burrow in the ground
+102212943	a solitary burrowing short-tongued bee
+102213079	a bee that is a member of the genus Andrena
+102213219	a genus of bee; some are important pollinators of legumes
+102213380	a family of small solitary bees; many are valuable pollinators for agriculture
+102213573	a common solitary bee important for pollinating alfalfa in the western United States
+102213751	leaf-cutting and mason bees
+102213935	type genus of the Megachilidae: leaf-cutting bees
+102214096	bee that cuts rounded pieces from leaves and flowers to line its nest
+102214279	any of numerous solitary bees that build nests of hardened mud and sand
+102214425	potter bees
+102214548	solitary bee that builds nests of mud or pebbles cemented together and attached to a plant
+102214714	social or solitary hymenopterans typically having a slender body with the abdomen attached by a narrow stalk and having a formidable sting
+102214975	an arthropod family of the order Hymenoptera including: yellow jackets; hornets; mason wasps
+102215254	mostly social nest-building wasps
+102215463	type genus of the Vespidae: various hornets and yellow jackets
+102215610	any of several social wasps that construct nests of a substance like paper
+102215759	large stinging paper wasp
+102215891	European hornet introduced into the United States
+102216014	sometimes considered a subgenus of Vespa: social wasps
+102216195	a variety of vespid wasp
+102216315	North American hornet
+102216440	small yellow-marked social wasp commonly nesting in the ground
+102216619	a genus of Vespidae
+102216748	a variety of paper wasp
+102216855	mason wasps
+102216993	any of various solitary wasps that construct nests of hardened mud for their young
+102217151	any of various solitary wasps that construct vase-shaped cells of mud for their eggs
+102217312	a family of wasps
+102217425	a solitary wasp of the family Mutillidae; the body has a coat of brightly colored velvety hair and the females are wingless
+102217624	families Sphecidae and Stizidae
+102217813	any of various solitary wasps
+102217986	mud daubers; some digger wasps
+102218148	mud daubers
+102218273	solitary wasp that constructs nests of hardened mud or clay for the young
+102218422	solitary wasp that digs nests in the soil and stocks them with paralyzed insects for the larvae
+102218593	cicada killers
+102218718	large solitary wasps: cicada killer
+102218863	large black or rust-colored wasp that preys on cicadas
+102219017	wasp that constructs mud cells on a solid base in which females place eggs laid in paralyzed insect larvae
+102219199	a family of Hymenoptera
+102219392	small solitary wasp that produces galls on oaks and other plants
+102219576	type genus of the Cynipidae: gall wasps
+102219702	cynipid gall wasps, especially causing oak-apple galls
+102219853	cynipid gall wasps, chiefly affecting oaks
+102219986	an arthropod family including: chalcidflies
+102220215	any of various tiny insects whose larvae are parasites on eggs and larvae of other insects; many are beneficial in destroying injurious insects
+102220491	larva of chalcid flies injurious to the straw of wheat and other grains
+102220649	type genus of the Chalcididae
+102220786	a variety of chalcid fly
+102220887	ichneumon flies
+102221023	hymenopterous insect that resembles a wasp and whose larvae are parasitic on caterpillars and other insect larvae
+102221215	sawflies
+102221365	insect whose female has a saw-like ovipositor for inserting eggs into the leaf or stem tissue of a host plant
+102221564	birch leaf miner
+102221667	small black sawfly native to Europe but established in eastern United States; larvae mine the leaves of birches causing serious defoliation
+102221886	ants
+102222138	social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers
+102222553	a genus of Formicidae
+102222707	small red ant of warm regions; a common household pest
+102222877	tiny glossy black ant; nests outdoors but invades houses for food
+102223045	army ants
+102223170	tropical nomadic ant that preys mainly on other insects
+102223328	carpenter ants
+102223456	ant that nests in decaying wood in which it bores tunnels for depositing eggs
+102223612	fire ants
+102223735	omnivorous ant of tropical and subtropical America that can inflict a painful sting
+102223892	type genus of the Formicidae
+102224066	reddish-brown European ant typically living in anthills in woodlands
+102224223	any of various ants captured as larvae and enslaved by another species
+102224367	an ant frequently enslaved
+102224472	an ant that attacks colonies of other ant species and carries off the young to be reared as slave ants
+102224687	slave-making ant widely distributed over the northern hemisphere
+102224851	bulldog ants
+102224973	any of the large fierce Australian ants of the genus Myrmecia
+102225111	Amazon ants
+102225234	small reddish slave-making ant species
+102225370	order of social insects that live in colonies, including: termites; often placed in subclass Exopterygota
+102225661	termites
+102225803	type genus of the Termitidae
+102225918	whitish soft-bodied ant-like social insect that feeds on wood
+102226172	any of various termites that live in and feed on dry wood that is not connected with the soil
+102226346	includes species highly destructive to structures and living trees
+102226553	destructive United States termite
+102226675	destructive European termite
+102226793	large widely distributed family of termites of temperate to tropical regions
+102226975	primitive termites
+102227118	primitive genus of termites; mostly extinct; sometimes considered the most primitive Isoptera
+102227365	Australian termite; sole living species of Mastotermes; called a living fossil; apparent missing link between cockroaches and termites
+102227589	an extinct termite found in amber in southern Mexico
+102227733	extinct termite found in amber in the Dominican Republic
+102227883	primitive termites of warm regions
+102228059	type genus of Kalotermitidae; termites destructive of wood and living trees
+102228229	genus of dry wood termites; cosmopolitan in distribution; sometimes considered a subgenus of Kalotermes
+102228450	extremely destructive dry-wood termite of warm regions
+102228611	grasshoppers and locusts; crickets
+102228835	any of various insects having leathery forewings and membranous hind wings and chewing mouthparts
+102229081	terrestrial plant-eating insect with hind legs adapted for leaping
+102229250	short-horned grasshoppers; true locusts
+102229473	grasshopper with short antennae
+102229622	migratory grasshoppers of warm regions having short antennae
+102229771	a genus of Acrididae
+102229899	Old World locust that travels in vast swarms stripping large areas of vegetation
+102230082	New World migratory locusts and common American grasshoppers
+102230256	serious pest of grain-growing and range areas of central and western United States
+102230425	long-horned grasshoppers; katydids
+102230618	grasshoppers with long threadlike antennae and well-developed stridulating organs on the forewings of the male
+102230867	katydids
+102230993	large green long-horned grasshopper of North America; males produce shrill sounds by rubbing together special organs on the forewings
+102231217	a genus of Tettigoniidae
+102231349	large dark wingless cricket-like katydid of arid parts of western United States
+102231526	long-horned grasshoppers
+102231675	sand crickets
+102231808	large wingless nocturnal grasshopper that burrows in loose soil along the Pacific coast of the United States
+102232037	crickets
+102232196	leaping insect; male makes chirping noises by rubbing the forewings together
+102232417	digs in moist soil and feeds on plant roots
+102232519	common house and field crickets
+102232675	lives in human dwellings; naturalized in parts of America
+102232839	common American black cricket; attacks crops and also enters dwellings
+102233007	tree crickets
+102233132	pale arboreal American cricket noted for loud stridulation
+102233286	pale yellowish tree cricket widely distributed in North America
+102233434	in some classifications considered a suborder of Orthoptera: stick insects; leaf insects
+102233704	large cylindrical or flattened mostly tropical insects with long strong legs that feed on plants; walking sticks and leaf insects
+102233959	stick insects
+102234139	any of various mostly tropical insects having long twiglike bodies
+102234332	a genus of Phasmidae
+102234455	a variety of stick insect
+102234582	leaf insects
+102234738	type genus of the Phyllidae
+102234875	tropical insect having a flattened leaflike body; common in southern Asia and the East Indies
+102235060	subclass of insects characterized by gradual and usually incomplete metamorphosis
+102235258	in some classifications replaced by the orders (here suborders) Blattodea (cockroaches) and Manteodea (mantids); in former classifications often subsumed under a much broader order Orthoptera
+102235603	cockroaches and mantids
+102235748	cockroaches; in some classifications considered an order
+102235990	any of numerous chiefly nocturnal insects; some are domestic pests
+102236229	domestic cockroaches
+102236419	type genus of the Blattidae: cockroaches infesting buildings worldwide
+102236595	dark brown cockroach originally from orient now nearly cosmopolitan in distribution
+102236833	cosmopolitan genus of large cockroaches
+102237007	large reddish brown free-flying cockroach originally from southern United States but now widely distributed
+102237222	widely distributed in warm countries
+102237371	small cockroaches
+102237500	small light-brown cockroach brought to United States from Europe; a common household pest
+102237730	giant cockroaches
+102237857	large tropical American cockroaches
+102237973	a family of Blattodea
+102238117	cockroaches
+102238227	mantises; in former classifications considered a suborder of Orthoptera
+102238413	mantises
+102238563	type genus of the Mantidae: mantises
+102238696	predacious long-bodied large-eyed insect of warm regions; rests with forelimbs raised as in prayer
+102238893	the common mantis
+102239007	general term for any insect or similar creeping or crawling invertebrate
+102239147	plant bugs; bedbugs; some true bugs; also includes suborders Heteroptera (true bugs) and Homoptera (e.g., aphids, plant lice and cicadas)
+102239548	insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis
+102239891	leaf bugs
+102240076	small bright-colored insect that feeds on plant juices
+102240233	a variety of leaf bug
+102240382	a genus of Miridae
+102240520	yellow or orange leaf bug with four black stripes down the back; widespread in central and eastern North America
+102240765	plant-sucking bugs
+102240887	vector of viral plant diseases
+102241010	widespread plant and fruit pest
+102241126	lace bugs
+102241246	small bug having body and wings covered with a lacy network of raised lines
+102241395	lygaeid bugs
+102241539	a true bug: usually bright-colored; pest of cultivated crops and some fruit trees
+102241725	chinch bugs
+102241844	small black-and-white insect that feeds on cereal grasses
+102241999	squash bugs and leaf-footed bugs
+102242180	a true bug
+102242311	squash bugs
+102242426	large black American bug that sucks sap of vines of the gourd family
+102242586	leaf-footed bugs
+102242720	large sap-sucking bug with leaflike expansions on the legs
+102242875	wingless flat-bodied bloodsucking insects
+102243029	type genus of the Cimicidae: bedbugs
+102243169	bug of temperate regions that infests especially beds and feeds on human blood
+102243358	aquatic carnivorous insects
+102243504	type genus of the Notonectidae: backswimmers
+102243660	predaceous aquatic insect that swims on its back and may inflict painful bites
+102243836	true bugs
+102244078	any of various insects of the order Hemiptera and especially of the suborder Heteroptera
+102244221	true bugs: insects whose forewings are membranous but have leathery tips
+102244451	a true bug: large aquatic bug adapted to living in or on the surface of water
+102244656	water bugs
+102244789	large water bug with piercing and sucking mouthparts; feeds on young fishes
+102244945	water scorpions
+102245107	long-legged aquatic insect having the front legs fitted for seizing and holding prey and the abdomen extended by a long breathing tube
+102245321	type genus of the Nepidae: typical elongate-oval water scorpions
+102245468	elongate very slender water scorpions
+102245594	water bugs
+102245717	type genus of the Corixidae: boat bugs
+102245861	carnivorous aquatic bug having paddle-like hind legs
+102246003	an arthropod family that includes water striders
+102246214	long-legged bug that skims about on the surface of water
+102246396	type genus of the Gerrididae
+102246530	a variety of water strider
+102246659	assassin bugs
+102246825	a true bug: long-legged predacious bug living mostly on other insects; a few suck blood of mammals
+102247048	conenoses
+102247167	large bloodsucking bug
+102247322	a genus of Reduviidae
+102247449	large predatory North American bug that sucks the blood of other insects
+102247615	firebugs
+102247763	a true bug: brightly colored bug that can exude a stain
+102247891	a genus of slender long-legged bugs that feed on the developing seeds of cotton and stain it
+102248095	a true bug: bug that damages and stains the lint of developing cotton
+102248244	plant lice (aphids); whiteflies; cicadas; leafhoppers; plant hoppers; scale insects and mealybugs; spittle insects
+102248663	insects having membranous forewings and hind wings
+102248936	whiteflies
+102249139	type genus of the Aleyrodidae
+102249280	minute insect that feeds on plant juices; related to scale insects
+102249474	a genus of Aleyrodidae
+102249593	whitefly that attacks citrus trees
+102249728	a genus of Aleyrodidae
+102249868	whitefly that inhabits greenhouses
+102250015	sweet-potato whitefly
+102250163	a variety of whitefly
+102250307	a strain of pest accidentally imported into Florida from the Middle East then spread to California where it is a very serious pest feeding on almost all vegetable crops and poinsettias
+102250602	a strain of bacteria that is resistant to all antibiotics
+102250714	feeds primarily on cotton
+102250799	scale insects and mealybugs
+102251020	scale insects and mealybugs
+102251162	small homopterous insect that usually lives and feeds on plants and secretes a protective waxy covering
+102251396	scale insects
+102251539	an insect active in all stages
+102251663	type genus of the Coccidae
+102251786	pest on citrus trees
+102251908	any of various insects that secrete a waxy substance
+102252017	armored scales
+102252167	insect having a firm covering of wax especially in the female
+102252325	a genus of Diaspididae
+102252461	small east Asian insect naturalized in the United States that damages fruit trees
+102252647	cochineal insects
+102252785	type genus of the Dactylopiidae
+102252932	Mexican red scale insect that feeds on cacti; the source of a red dye
+102253116	scalelike insects: mealybugs
+102253305	type genus of the Pseudococcidae
+102253474	scalelike plant-eating insect coated with a powdery waxy secretion; destructive especially of fruit trees
+102253719	destructive especially to citrus
+102253885	Asiatic insect introduced accidentally into United States; pest on citrus and apple trees
+102254104	a genus of Pseudococcidae
+102254245	feeds on a wide variety of cultivated plants but especially destructive to citrus
+102254427	any of several small insects especially aphids that feed by sucking the juices from plants
+102254691	plant lice
+102254878	any of various small plant-sucking insects
+102255081	small soft-bodied plant lice
+102255260	type genus of the Aphididae: injurious to fruit trees and vegetables
+102255451	bright green aphid; feeds on and causes curling of apple leaves
+102255624	blackish aphid that infests e.g. beans and sugar beets
+102255779	greenish aphid; pest on garden and crop plants
+102255916	yellowish green aphid that is especially destructive to peaches
+102256043	important pest of chrysanthemums
+102256146	excretes a honeylike substance eaten by ants
+102256244	woolly aphids
+102256367	secretes a waxy substance like a mass of fine curly white cotton or woolly threads
+102256565	primarily a bark feeder on aerial parts and roots of apple and other trees
+102256762	a genus of Aphididae
+102256898	attacks alders
+102257022	plant lice
+102257183	type genus of the Adelgidae: plant lice
+102257349	any of various insects that feed and form galls on conifers
+102257553	a variety of adelgid
+102257675	a variety of adelgid
+102257796	a genus of Adelgidae
+102257922	a variety of adelgid
+102258043	an insect that feeds on hemlocks; its egg sacs are small fuzzy white balls like artificial snow on a Christmas tree
+102258219	plant lice
+102258350	type genus of the Phylloxeridae: plant lice
+102258507	destructive to various grape plants
+102258662	jumping plant lice
+102258824	small active cicada-like insect with hind legs adapted for leaping; feeds on plant juices
+102259017	cicadas
+102259194	type genus of the Cicadidae: cicadas
+102259308	stout-bodied insect with large membranous wings; male has drum-like organs for producing a high-pitched drone
+102259534	harvest flies
+102259655	its distinctive song is heard during July and August
+102259801	seventeen-year locust
+102259936	North American cicada; appears in great numbers at infrequent intervals because the nymphs take 13 to 17 years to mature
+102260188	froghoppers or spittlebugs
+102260367	small leaping herbivorous insect that lives in a mass of protective froth which it and its larvae secrete
+102260637	a variety of spittlebug
+102260717	a genus of Cercopidae
+102260850	North American insect that severely damages grasses
+102261006	a genus of Cercopidae
+102261160	North American insect that attacks pines
+102261281	feeds on pines in northern United States
+102261432	leafhoppers
+102261562	family of small leafhoppers coextensive with the Cicadellidae and not distinguished from it in some classifications
+102261788	a variety of leafhopper
+102261864	small leaping insect that sucks the juices of plants
+102262029	related to the leafhoppers and spittlebugs but rarely damages cultivated plants
+102262217	plant hoppers: treehoppers
+102262360	small leaping insect that sucks juices of branches and twigs
+102262496	plant hoppers: lantern flies
+102262639	large brightly marked tropical insect with a process like a snout that was formerly thought to emit light
+102262835	an order of insects: includes booklice and bark-lice
+102263073	small soft-bodied insect with chewing mouthparts and either no wings or two pairs
+102263275	a family of small soft-bodied insects that feed on decaying vegetation; related to booklice
+102263515	small winged insect living on the bark and leaves of trees and feeding on e.g. fungi and decaying plant matter
+102263715	any of several insects living on the bark of plants
+102263836	booklice
+102263938	a genus of Psocidae
+102264071	minute wingless psocopterous insects injurious to books and papers
+102264282	a genus of Psocidae
+102264409	a variety of booklouse
+102264535	mayflies
+102264714	in some former classifications: name for the Ephemeroptera
+102264830	short-lived insect
+102264976	mayflies
+102265101	slender insect with delicate membranous wings having an aquatic larval stage and terrestrial adult stage usually lasting less than two days
+102265331	stoneflies
+102265455	primitive winged insect with a flattened body; used as bait by fishermen; aquatic gilled larvae are carnivorous and live beneath stones
+102265690	an order of insects including: lacewings; antlions; dobsonflies; alderflies; fish flies; mantispids; spongeflies
+102266030	insect having biting mouthparts and four large membranous wings with netlike veins
+102266369	antlions
+102266500	type genus of the Myrmeleontidae: antlions
+102266673	winged insect resembling a dragonfly; the larvae (doodlebugs) dig conical pits where they wait to catch e.g. ants
+102266884	the larva of any of several insects
+102267015	any of two families of insects with gauzy wings (Chrysopidae and Hemerobiidae); larvae feed on insect pests such as aphids
+102267243	carnivorous larva of lacewing flies
+102267386	green lacewings
+102267537	pale green unpleasant-smelling lacewing fly having carnivorous larvae
+102267728	a variety of green lacewing
+102267829	brown lacewings
+102267982	small dark-colored lacewing fly
+102268123	in some classifications considered a separate order: alderflies; dobsonflies; snake flies
+102268369	dobsons
+102268512	type genus of the Corydalidae
+102268702	large soft-bodied insect having long slender mandibles in the male; aquatic larvae often used as bait
+102268921	large brown aquatic larva of the dobsonfly; used as fishing bait
+102269073	similar to but smaller than the dobsonfly; larvae are used as fishing bait
+102269232	an arthropod family including: alderflies
+102269384	type genus of the Sialidae
+102269516	dark-colored insect having predaceous aquatic larvae
+102269671	a family of arthropods of the suborder Megaloptera, including snakeflies
+102269860	predatory insect of western North America having a long necklike prothorax
+102270008	mantispids
+102270135	insect that resembles a mantis; larvae are parasites in the nests of spiders and wasps
+102270296	an arthropod family of the order Neuroptera that includes spongeflies
+102270478	hairy-bodied insect whose larvae feed on freshwater sponges
+102270627	dragonflies and damselflies
+102270800	large primitive predatory aquatic insect having two pairs of membranous wings
+102270986	dragonflies
+102271095	slender-bodied non-stinging insect having iridescent wings that are outspread at rest; adults and nymphs feed on mosquitoes etc.
+102271398	damselflies
+102271505	slender non-stinging insect similar to but smaller than the dragonfly but having wings folded when at rest
+102271667	an order of insects consisting of caddis flies
+102271848	caddis fly
+102271992	small moth-like insect having two pairs of hairy membranous wings and aquatic larvae
+102272174	insect larva that constructs a protective case around its body
+102272309	larva of the caddis fly; constructs a case of silk covered with sand or plant debris
+102272481	firebrats; silverfish; machilids
+102272663	primitive wingless insects: bristletail
+102272852	small wingless insect with a long bristlelike tail
+102272978	firebrats
+102273125	type genus of the Lepismatidae: silverfish
+102273275	silver-grey wingless insect found in houses feeding on book bindings and starched clothing
+102273462	a genus of Lepismatidae
+102273597	lives in warm moist areas e.g. around furnaces
+102273739	jumping bristletails
+102273874	wingless insect living in dark moist places as under dead tree trunks; they make erratic leaps when disturbed
+102274079	thrips
+102274222	an insect of the order Thysanoptera
+102274392	thrips
+102274549	any of various small to minute sucking insects with narrow feathery wings if any; they feed on plant sap and many are destructive
+102274804	tobacco thrips
+102274938	injurious to growing tobacco and peanuts
+102275080	type genus of the Thripidae
+102275204	injurious to onion plants and sometimes tobacco
+102275359	earwigs and a few related forms
+102275523	any of numerous insects of the order Dermaptera having elongate bodies and slender many-jointed antennae and a pair of large pincers at the rear of the abdomen
+102275772	typical earwigs
+102275906	type genus of Forficulidae
+102276044	sometimes destructive to cultivated bulbs
+102276197	moths and butterflies
+102276676	insect that in the adult state has four wings more or less covered with tiny scales
+102276911	diurnal insect typically having a slender body with knobbed antennae and broad colorful wings
+102277168	large beautifully colored butterflies
+102277474	medium to large butterflies found worldwide typically having brightly colored wings and much-reduced nonfunctional forelegs carried folded on the breast
+102278024	type genus of the Nymphalidae: mourning cloak butterflies
+102278212	of temperate regions; having dark purple wings with yellow borders
+102278425	brilliantly colored; larvae feed on nettles
+102278573	painted beauty and red admiral
+102278730	American butterfly having dark brown wings with white and golden orange spots
+102278910	any of several brightly colored butterflies
+102279007	of temperate Europe and Asia; having black wings with red and white markings
+102279179	mainly dark northern butterflies with white wing bars
+102279401	Eurasian butterfly with brown wings and white markings
+102279554	North American butterfly with blue-black wings crossed by a broad white band
+102279746	similar to the banded purple but with red spots on underwing surfaces
+102279920	showy American butterfly resembling the monarch but smaller
+102280074	nymphalid butterfly having angular notches on the outer edges of the forewings
+102280208	a widely distributed family of butterflies common near the edges of woods
+102280394	any of various butterflies belonging to the family Satyridae
+102280547	comma butterflies
+102280676	anglewing butterfly with a comma-shaped mark on the underside of each hind wing
+102280862	butterfly with brownish wings marked with black and silver
+102280995	fritillaries
+102281115	butterfly with silver spots on the underside of the hind wings
+102281253	fritillaries
+102281356	large Old World butterflies
+102281491	large richly colored butterfly
+102281632	large European butterfly the male of which has wings shaded with purple
+102281779	a genus of Nymphalidae
+102281909	European butterfly having reddish-brown wings each marked with a purple eyespot
+102282094	small family of usually tropical butterflies: monarch butterflies
+102282289	large tropical butterfly with degenerate forelegs and an unpleasant taste
+102282471	type genus of the Danaidae: monarch butterflies
+102282624	large migratory American butterfly having deep orange wings with black and white markings; the larvae feed on milkweed
+102282875	arthropod family including cabbage butterflies; sulphur butterflies
+102283110	any of numerous pale-colored butterflies having three pairs of well-developed legs
+102283301	white butterfly whose larvae (cabbageworms) feed on cabbage
+102283497	type genus of the Pieridae
+102283667	small widely distributed form
+102283788	Old World form of cabbage butterfly
+102283919	common North American form of cabbage butterfly
+102284058	any of numerous yellow or orange butterflies
+102284204	family of small usually brilliantly colored butterflies; males have short forelegs
+102284439	any of various butterflies of the family Lycaenidae
+102284639	type genus of the Lycaenidae; small slender butterflies with upper surface of wings usually metallic blue or green or copper
+102284909	any of numerous small butterflies of the family Lycaenidae
+102285037	any of various small butterflies of the family Lycaenidae having coppery wings
+102285205	common copper butterfly of central and eastern North America
+102285368	large and widely distributed genus of hairstreak butterflies
+102285555	small butterflies having striped markings under the wings
+102285729	larvae are pests of various economic plants
+102285853	typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae
+102286269	any of various moths that have powdery wings

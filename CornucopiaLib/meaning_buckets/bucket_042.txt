@@ -1,0 +1,1000 @@
+107577413	a diet that contains adequate amounts of all the necessary nutrients required for healthy growth and activity
+107577582	a diet of foods that are not irritating
+107577737	a diet of fluids with minimal residues (fat-free broth or strained fruit juices or gelatin); cannot be used for more than one day postoperative
+107577944	a diet designed to help control the symptoms of diabetes
+107578060	something added to complete a diet or to make up for a dietary deficiency
+107578216	a diet of foods high in starch that increases carbohydrate reserves in muscles
+107578446	a reducing diet that enjoys temporary popularity
+107578549	diet prescribed to treat celiac disease; eliminates such foods as wheat and rye and oats and beans and cabbage and turnips and cucumbers that are rich in gluten
+107578772	a diet high in plant and animal proteins; used to treat malnutrition or to increase muscle mass
+107578931	a diet designed to patients with vitamin deficiencies
+107579074	food remaining from a previous meal
+107579207	diet prescribed for bedridden or convalescent people; does not include fried or highly seasoned foods
+107579365	a diet of foods that can be served in liquid or strained form (plus custards or puddings); prescribed after certain kinds of surgery
+107579573	a diet that is low on calories
+107579666	a diet containing limited amounts of fat and stressing foods high in carbohydrates; used in treatment of some gallbladder conditions
+107579857	a diet that limits the intake of salt (sodium chloride); often used in treating hypertension or edema or certain other disorders
+107580080	a diet consisting chiefly of beans and whole grains
+107580194	a diet designed to help you lose weight (especially fat)
+107580361	a diet that does not require chewing; advised for those with intestinal disorders
+107580536	a diet excluding all meat and fish
+107580648	the dishes making up a meal
+107580726	informal terms for a meal
+107580824	food or meals in general
+107581023	planned meals for athletes in training (usually served in a mess hall)
+107581173	a meal eaten in a mess hall by service personnel
+107581290	the food allowance for one day (especially for service personnel)
+107581510	rations issued for United States troops in the field
+107581657	a small package of emergency rations; issued to United States troops in World War II
+107581796	a canned field ration issued by the United States Army
+107581905	a substance that can be used or prepared for use as food
+107582428	foodstuff rich in natural starch (especially potatoes, rice, bread)
+107582604	flour or meal or grain used in baking bread
+107582704	a digestible substance used to give color to food
+107582955	a concentrated form of a foodstuff; the bulk is reduced by removing water
+107583176	a concentrated form of tomatoes
+107583272	coarsely ground foodstuff; especially seeds of various cereal grasses or pulse
+107583545	coarsely ground grain in the form of pellets (as for pet food)
+107583660	coarsely ground corn
+107583806	fine meal made from cereal grain especially wheat; often used as a cooked cereal or in puddings
+107583954	meal made from ground matzos
+107584067	meal made from rolled or ground oats
+107584190	meal made from dried peas
+107584271	meal made of finely ground corn mixed with sugar and spices
+107584383	coarse, indigestible plant food low in nutrients; its bulk stimulates intestinal peristalsis
+107584556	food prepared from the husks of cereal grains
+107584671	fine powdery foodstuff obtained by grinding and sifting the meal of a cereal grain
+107584988	flour that does not contain a raising agent
+107585108	flour prepared from wheat
+107585209	flour made by grinding the entire wheat berry including the bran; (whole meal flour' is British usage)
+107585438	meal made from soybeans
+107585586	milled product of durum wheat (or other hard wheat) used in pasta
+107585706	the dried and powdered blood of animals
+107585802	a protein substance that remains when starch is removed from cereal grains; gives cohesiveness to dough
+107586012	gluten prepared from corn
+107586095	a feed consisting primarily of corn gluten
+107586200	gluten prepared from wheat
+107586285	a source of materials to nourish the body
+107586889	the practice or manner of preparing food or the food so prepared
+107587112	traditional Chinese cuisine; a variety of foods (including several kinds of steamed or fried dumplings) are served successively in small portions
+107587330	(French) an elaborate and skillful manner of preparing food
+107587468	a school of French cooking that uses light sauces and tries to bring out the natural flavors of foods instead of making heavy use of butter and cream
+107587699	warmed leftovers
+107587771	a particular style of cookery (as of a region)
+107587918	a stock or supply of foods
+107588084	food in a secure or hidden storage place
+107588181	a supply of food especially for a household
+107588277	food that is not preserved by canning or dehydration or freezing or smoking
+107588423	food preserved by freezing
+107588522	food preserved by canning
+107588668	meat preserved in a can or tin
+107588806	nautical term for tinned meat
+107588912	a canned meat made largely from pork
+107589018	food preserved by dehydration
+107589128	a substantial and nourishing meal
+107589261	the food served and eaten at one time
+107589741	whatever happens to be available especially when offered to an unexpected guest or when brought by guests and shared by all
+107589991	a light meal or repast
+107590069	snacks and drinks served as a light meal
+107590167	the first meal of the day (usually in the morning)
+107590345	a breakfast that usually includes a roll and coffee or tea
+107590488	combination breakfast and lunch; usually served in late morning
+107590641	a midday meal
+107590791	lunch (usually at a restaurant) where business is discussed and the cost is charged as a business expense
+107590957	substantial early evening meal including tea
+107591075	a light midafternoon meal of tea and sandwiches or cakes
+107591291	the main meal of the day served in the evening or at midday
+107591549	a light evening meal; served in early evening if dinner is at midday or served late in the evening at bedtime
+107591747	a meal set out on a buffet at which guests help themselves
+107591876	a meal that is prepared in advance and frozen; can be heated and served
+107592003	any informal meal eaten outside or on an excursion
+107592142	an informal meal cooked and eaten outdoors
+107592346	a cookout in which food is cooked over an open fire; especially a whole animal carcass roasted on a spit
+107592534	a cookout at the seashore where clams and fish and other foods are cooked--usually on heated stones covered with seaweed
+107592709	a cookout where fried fish is the main course
+107592809	a cookout where roasted frankfurters are the main course
+107592939	a light informal meal
+107593103	(Yiddish) a snack or light meal
+107593222	a large satisfying meal
+107593337	a meal consisting of a sandwich of bread and cheese and a salad
+107593483	a snack taken during a break in the work day
+107593658	a meal that is well prepared and greatly enjoyed
+107593928	an individual quantity of food or drink taken as part of a meal
+107594444	a small amount eaten or drunk
+107594641	a small amount of solid food; a mouthful
+107594841	a small amount of liquid food
+107594964	a wad of something chewable as tobacco
+107595140	the principal dish of a meal
+107595253	the most important dish of a meal
+107595352	a main course served on a plate
+107595482	a dish of marinated vegetables and meat or fish; served with rice
+107595618	a dish that is served with, but is subordinate to, a main course
+107595818	a dish or meal given prominence in e.g. a restaurant
+107595924	food cooked and served in a casserole
+107596035	chicken cooked and served in a casserole
+107596157	chicken casserole prepared with tomatoes and mushrooms and herbs in the Italian style
+107596347	a piece of meat roasted or for roasting and of a size for slicing into more than one portion
+107596697	a piece of meat (especially a duck) cooked slowly in its own fat
+107596814	a course of appetizers in an Italian meal
+107596911	food or drink to stimulate the appetite (usually served before a meal or as the first course)
+107597172	an appetizer consisting usually of a thin slice of bread or toast spread with caviar or cheese or other savory food
+107597340	an appetizer served as a first course at a meal
+107597496	a mixture of sliced or diced fruits
+107597592	a cocktail of cold cooked crabmeat and a sauce
+107597717	a cocktail of cold cooked shrimp and a sauce
+107597842	a dish served as an appetizer before the main meal
+107598006	spicy or savory condiment
+107598174	tasty mixture or liquid into which bite-sized foods are dipped
+107598376	a dip made of cooked beans
+107598457	a dip made of cheeses
+107598535	a dip made of clams and soft cream cheese
+107598631	a dip made of mashed avocado mixed with chopped onions and other seasonings
+107598762	liquid food especially of meat or fish or vegetable stock often containing pieces of solid food
+107599430	the soup that a restaurant is featuring on a given day
+107599543	soup that contains small noodles in the shape of letters of the alphabet
+107599675	clear soup usually of beef or veal or chicken
+107599793	a tomato-flavored consomme; often served chilled
+107599897	a thick cream soup made from shellfish
+107599988	a Russian or Polish soup usually containing beet juice as a foundation
+107600158	a thin soup of meat or fish or vegetable stock
+107600292	the liquid in which vegetables or meat have be cooked
+107600424	broth used to feed infants
+107600509	a clear seasoned broth
+107600586	a stock made with beef
+107600678	a stock made with chicken
+107600779	liquid in which meat and vegetables are simmered; used as a basis for e.g. soups or sauces
+107601045	a cube of dehydrated stock
+107601128	soup made from chicken broth
+107601215	soup made from chicken boiled with leeks
+107601329	a soup made with chopped tomatoes and onions and cucumbers and peppers and herbs; served cold
+107601477	a soup or stew thickened with okra pods
+107601568	a clear soup garnished with julienne vegetables
+107601670	soup cooked in a large pot
+107601750	soup made from a calf's head or other meat in imitation of green turtle soup
+107601889	a soup of eastern India that is flavored with curry; prepared with a meat or chicken base
+107602056	a soup made from the skinned tail of an ox
+107602175	a thick soup made of dried peas (usually made into a puree)
+107602289	a soup made with vegetables and tripe and seasoned with peppercorns; often contains dumplings
+107602465	soup made with a variety of vegetables
+107602594	thick (often creamy) soup
+107602682	a stew of vegetables and (sometimes) meat
+107602777	soup usually made of the flesh of green turtles
+107602902	made by stirring beaten eggs into a simmering broth
+107603012	a thick soup or stew made with milk and bacon and onions and potatoes
+107603189	chowder containing corn
+107603271	chowder containing clams
+107603390	a chowder made with clams and tomatoes and other vegetables and seasonings
+107603533	a thick chowder made with clams and potatoes and onions and salt pork and milk
+107603682	chowder containing fish
+107603764	a soup with won ton dumplings
+107603870	made of stock and split peas with onions carrots and celery
+107603990	made of fresh green peas and stock with shredded lettuce onion and celery
+107604145	made of stock and lentils with onions carrots and celery
+107604259	a thick soup made from beef or mutton with vegetables and pearl barley
+107604388	a creamy potato soup flavored with leeks and onions; usually served cold
+107604518	food prepared by stewing especially meat or fish with vegetables
+107605029	a Polish stew of cabbage and meat
+107605114	spicy southern specialty: chicken (or small game) with corn and tomatoes and lima beans and okra and onions and potatoes
+107605295	thick spicy stew of whatever meat and whatever vegetables are available; southern United States
+107605443	a gathering at which burgoo stew is served
+107605538	Spanish version of burgoo
+107605639	Irish version of burgoo
+107605748	thick stew made of rice and chicken and small game; southern U.S.
+107605891	a rich meat stew highly seasoned with paprika
+107606073	a stew (or thick soup) made with meat and vegetables
+107606182	a stew of meat and potatoes cooked in a tightly covered pot
+107606323	meat is browned before stewing
+107606412	made with sauerkraut and caraway seeds and served with sour cream
+107606545	made of lamb or pork
+107606620	meat (especially mutton) stewed with potatoes and onions
+107606733	oysters in cream
+107606807	diced lobster meat in milk or cream
+107606901	a stew of meat and vegetables and hardtack that is eaten by sailors
+107607044	a stew made with fish
+107607157	highly seasoned Mediterranean soup or stew made of several kinds of fish and shellfish with tomatoes and onions or leeks and seasoned with saffron and garlic and herbs
+107607384	highly seasoned soup or stew made of freshwater fishes (eel, carp, perch) with wine and stock
+107607532	saffron-flavored dish made of rice with shellfish and chicken
+107607665	pieces of chicken or other meat stewed in gravy with e.g. carrots and onions and served with noodles or dumplings
+107607888	a stew made with chicken
+107607971	a stew made with turkey
+107608052	a stew made with beef
+107608129	tough meat that needs stewing to be edible
+107608227	well-seasoned stew of meat and vegetables
+107608339	a vegetable stew; usually made with tomatoes, eggplant, zucchini, peppers, onion, and seasonings
+107608493	ragout of game in a rich sauce
+107608575	traditional French stew of vegetables and beef
+107608678	a thin stew of meat and vegetables
+107608770	an assortment of foods starting with herring or smoked eel or salmon etc with bread and butter; then cheeses and eggs and pickled vegetables and aspics; finally hot foods; served as a buffet meal
+107609042	a choice or delicious dish
+107609120	any packaged dish or food that can be prepared quickly and easily as by thawing or heating
+107609345	a commercial preparation containing most of the ingredients for a dish
+107609543	a commercial mix for making brownies
+107609637	a commercial mix for making a cake
+107609726	a commercial mix for making lemonade
+107609821	a commercially prepared mixture of flour and salt and a leavening agent
+107609977	ready-to-eat food products
+107610082	prepared food that is intended to be eaten off of the premises
+107610308	a small tasty bit of food
+107610411	an aromatic or spicy dish served at the end of dinner or as an hors d'oeuvre
+107610622	a savory jelly made with gelatin obtained by boiling calves' feet
+107610751	burnt sugar; used to color and flavor food
+107610939	refined sugar molded into rectangular shapes convenient as single servings
+107611070	a large conical loaf of concentrated refined sugar
+107611220	sugar from sugarcane used as sweetening agent
+107611322	very finely granulated sugar that was formerly sprinkled from a castor
+107611485	sugar granulated into a fine powder
+107611617	sugar in the form of small grains
+107611731	finely powdered sugar used to make icing
+107611829	sugar from sugar beets used as sweetening agent
+107611933	dextrose used as sweetening agent
+107612023	unrefined or only partly refined sugar
+107612137	light brown cane sugar; originally from Guyana
+107612255	a food rich in sugar
+107612538	candy and other sweets considered collectively
+107612716	preserved or candied fruit
+107612834	a sweetened delicacy (as a preserve or pastry)
+107612936	a rich sweet made of flavored sugar and often combined with fruit or nuts
+107613827	a candy shaped as a bar
+107613906	powder from the ground seeds and pods of the carob tree; used as a chocolate substitute
+107614100	a bar of candy made with carob powder
+107614193	a British sweet made with molasses and butter and almonds
+107614305	candy that is brittle
+107614499	a brittle transparent candy made by melting and cooling cane sugar
+107614639	a British candy flavored with brandy
+107614732	a large round hard candy
+107614813	a hard candy with lemon flavor and a yellow color and (usually) the shape of a lemon
+107614954	round piece of tart hard candy
+107615039	round flat candy
+107615125	a patty flavored with peppermint
+107615220	a candy that usually has a center of fondant or fruit or nuts coated in chocolate
+107615354	caramelized sugar cooled in thin sheets
+107615482	brittle containing peanuts
+107615569	a preparation (usually made of sweetened chicle) for chewing
+107615748	a ball of chewing gum with a coating of colored sugar
+107615856	a kind of chewing gum that can be blown into bubbles
+107615965	a hard brittle candy made with butter and brown sugar
+107616077	fruit cooked in sugar syrup and encrusted with a sugar crystals
+107616267	an apple that is covered with a candy-like substance (usually caramelized sugar)
+107616466	strips of gingerroot cooked in sugar syrup and coated with sugar
+107616596	strips of grapefruit peel cooked in sugar syrup and coated with sugar
+107616746	strips of lemon peel cooked in sugar and coated with sugar
+107616861	strips of orange peel cooked in sugar and coated with sugar
+107616978	strips of citrus peel cooked in a sugar syrup
+107617143	a hard candy in the shape of a rod (usually with stripes)
+107617257	a small yellow and white candy shaped to resemble a kernel of corn
+107617380	firm chewy candy made from caramelized sugar and butter and milk
+107617570	a food made from roasted ground cacao beans
+107617850	pure unsweetened chocolate used in baking and icings and sauces and candy
+107618025	candy made with chocolate
+107618221	the sweet central portion of a piece of candy that is enclosed in chocolate or some other covering
+107618438	the liquid or paste that is produced when cocoa beans are roasted and ground; the basis of all chocolate
+107618605	the vegetable fat from the cacao that is extracted from chocolate liquor; the basis for white chocolate
+107618786	the powdery remains of chocolate liquor after cocoa butter is removed; used in baking and in low fat and low calorie recipes and as a flavoring for ice cream
+107619020	colloquial British abbreviation
+107619120	a bar of chocolate candy
+107619222	a bar of milk chocolate made by the Hershey company
+107619331	chocolate liquor with cocoa butter and small amounts of sugar and vanilla; lecithin is usually added
+107619539	chocolate that contains at least 32 percent cocoa butter
+107619652	cocoa powder treated with a mild alkalizing agent (such as baking soda)
+107619791	bits of sweet chocolate used as a topping on e.g. ice cream
+107619916	chocolate made from chocolate liquor with sugar and cocoa butter and powdered milk solids and vanilla and (usually) lecithin; the most common form of chocolate for eating; used in chocolate candy and baking and coatings
+107620196	a blend of cocoa butter and milk solids and sugar and vanilla; used in candy bars and baking and coatings; not technically chocolate because it contains no chocolate liquor
+107620449	a flat disk of chocolate covered with beads of colored sugar
+107620565	candy containing a fruit or nut
+107620649	a candy made by spinning sugar that has been boiled to a high temperature
+107620807	sugar-coated nut or fruit piece
+107620891	silvery candy beads used for decorating cakes
+107620989	candy made of a thick creamy sugar paste
+107621083	soft creamy candy
+107621206	fudge made with chocolate or cocoa
+107621302	white creamy fudge made with egg whites
+107621413	fudge made with brown sugar and butter and milk and nuts
+107621553	a jellied candy coated with sugar crystals
+107621667	chewy fruit-flavored jellied candy (sometimes medicated to soothe a sore throat)
+107621800	a crisp candy made with honey
+107621887	a candy that is flavored with a mint oil
+107622028	a candy that is flavored with an extract of the horehound plant
+107622147	a candy flavored with peppermint oil
+107622278	sugar-glazed jellied candy
+107622373	any of several bite-sized candies
+107622542	a candy kiss that resembles toffee
+107622636	a kiss made of sugar and egg white and baked slowly
+107622747	a kiss that consists of a conical bite-sized piece of chocolate
+107622889	butterscotch candy kiss
+107622970	a black candy flavored with the dried root of the licorice plant
+107623101	a candy shaped like a small lifesaver
+107623214	hard candy on a stick
+107623316	a small aromatic or medicated candy
+107623441	a scented lozenge used to sweeten the breath (e.g. to conceal the odor of tobacco)
+107623576	a medicated lozenge used to soothe the throat
+107623707	spongy confection made of gelatin and sugar and corn syrup and dusted with powdered sugar
+107623854	almond paste and egg whites
+107623948	nuts or fruit pieces in a sugar paste
+107624038	a bar of nougat candy often dipped in chocolate
+107624142	paste of nuts and sugar on a pastry base cut into bars
+107624250	bar of peanuts in taffy
+107624330	popcorn combined with a thick sugar or molasses or caramel syrup and formed into balls
+107624475	cookie-sized candy made of brown sugar and butter and pecans
+107624589	sugar in large hard clear crystals on a string
+107624692	hard bright-colored stick candy (typically flavored with peppermint)
+107624824	made by boiling pure sugar until it hardens
+107624925	any of various small sugary candies
+107625016	chewy candy of sugar or syrup boiled until thick and pulled until glossy
+107625158	taffy made of molasses
+107625241	creamy chocolate candy
+107625337	a jellied candy typically flavored with rose water
+107625449	a dish served as the last course of a meal
+107625904	(classical mythology) the food and drink of the gods; mortals who ate it became immortal
+107626111	fruit dessert made of oranges and bananas with shredded coconut
+107626229	cake covered with ice cream and meringue browned quickly in an oven
+107626355	sweet almond-flavored milk pudding thickened with gelatin or cornstarch; usually molded
+107626499	a mold lined with cake or crumbs and filled with fruit or whipped cream or custard
+107626655	dessert of stewed or baked fruit
+107626757	dessert made by baking fruit wrapped in pastry
+107626876	open pastry filled with fruit or custard
+107626967	any of various desserts prepared by freezing
+107627342	dessert made of sweetened milk coagulated with rennet
+107627448	a light creamy dish made from fish or meat and set with gelatin
+107627600	a rich, frothy, creamy dessert made with whipped egg whites and heavy cream
+107627746	a dessert consisting of a meringue base or cup filled with fruit and whipped cream
+107627882	ice cream and peaches with a liqueur
+107627976	a dessert made of sugar and stiffly beaten egg whites or cream and usually flavored with fruit
+107628139	dessert made of prune puree and whipped cream
+107628241	any of various soft sweet desserts thickened usually with flour and baked or boiled or steamed
+107628605	(British) the dessert course of a meal (pud' is used informally)
+107628767	sweetened cream beaten with wine or liquor
+107628875	an Italian dessert consisting of layers of sponge cake soaked with coffee and brandy or liqueur layered with mascarpone cheese and topped with grated chocolate
+107629089	a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate
+107629280	a trifle soaked in wine and decorated with almonds and candied fruit
+107629424	fruit-flavored dessert (trade mark Jell-O) made from a commercially prepared gelatin powder
+107629613	lady fingers enclosing Bavarian cream
+107629712	apples wrapped in pastry and baked
+107629807	a frozen dessert with fruit flavoring (especially one containing no milk)
+107629957	an ice containing no milk but having a mushy consistency; usually made from fruit juice
+107630109	frozen dessert containing cream and sugar and flavoring
+107630339	ice cream in a crisp conical wafer
+107630434	ice cream flavored with chocolate
+107630551	colloquial British abbreviation for chocolate ice cream
+107630661	a block of ice cream with 3 or 4 layers of different colors and flavors
+107630799	ice cream flavored with fresh peaches
+107630898	a frozen dessert made primarily of fruit juice and sugar, but also containing milk or egg-white or gelatin
+107631069	ice cream flavored with fresh strawberries
+107631178	ice cream containing chopped candied fruits
+107631280	ice cream flavored with vanilla extract
+107631383	ice cream or water ice on a small wooden stick
+107631563	similar to ice cream but made of milk
+107631655	a soft frozen dessert of sweetened flavored yogurt
+107631783	ball of crushed ice with fruit syrup
+107631874	ball of ice cream covered with coconut and usually chocolate sauce
+107631995	layers of ice cream and syrup and whipped cream
+107632096	ice cream served with a topping
+107632199	a dessert of sliced fruit and ice cream covered with whipped cream and cherries and nuts
+107632357	a banana split lengthwise and topped with scoops of ice cream and sauces and nuts and whipped cream
+107632515	a chilled dessert consisting of a mixture of custard and nuts and (sometimes) liquor
+107632660	dessert resembling ice cream but with a boiled custard base
+107632797	any of various soft thick unsweetened baked dishes
+107632953	a bland custard or pudding especially of oatmeal
+107633056	mousse made with fish
+107633135	mousse made with chicken
+107633220	dessert mousse made with chocolate
+107633317	a rich steamed or boiled pudding that resembles cake
+107633448	pudding made with grated carrots
+107633541	pudding made of corn and cream and egg
+107633638	a pudding cooked by steaming
+107633728	a stiff flour pudding steamed or boiled usually and containing e.g. currants and raisins and citron
+107633890	sweet vanilla flavored custard-like pudding usually thickened with flour rather than eggs
+107634041	sweet chocolate flavored custard-like pudding usually thickened with flour rather than eggs
+107634196	baked pudding of apples and breadcrumbs
+107634293	a rich frozen pudding made of chopped chestnuts and maraschino cherries and candied fruits and liqueur or rum
+107634480	a pudding made with strained split peas mixed with egg
+107634613	sweetened mixture of milk and eggs baked or boiled or frozen
+107634817	baked custard topped with caramel
+107634910	custard sauce flavored with vanilla or a liqueur
+107635018	custard sprinkled with sugar and broiled
+107635117	a custard containing fruit
+107635203	a tart filled with rich unsweetened custard; often contains other ingredients (as cheese or ham or seafood or vegetables)
+107635395	quiche made with cheese and bacon
+107635490	granular preparation of cassava starch used to thicken especially puddings
+107635656	sweet pudding thickened with tapioca
+107635754	pudding made of suet pastry spread with jam or fruit and rolled up and baked or steamed
+107635936	a sweet or savory pudding made with suet and steamed or boiled
+107636094	a suet pudding containing currants
+107636206	a rich custard set with gelatin
+107636298	cherry preserved in true or imitation maraschino liqueur
+107636431	a flavored sugar topping used to coat and decorate cakes
+107636610	any of various thin shiny (savory or sweet) coatings applied to foods
+107636749	sweet topping especially for pies made of beaten egg whites and sugar
+107636873	colored beads of sugar used as a topping on e.g. candies and cookies
+107636997	cream that has been beaten until light and fluffy
+107637106	light foamy custard-like dessert served hot or chilled
+107637227	something (such as parsley) added to a dish for flavor or decoration
+107637385	a flavorful addition on top of a dish
+107637585	a crumbly topping for a pastry
+107637670	foods (like breads and cakes and pastries) that are cooked in an oven
+107637870	small piece of e.g. bread or cake
+107638082	crumb of bread; used especially for coating or thickening
+107638196	crumbs of crackers used especially for coating or thickening
+107638317	any of various baked foods made of dough or batter
+107638745	a dough of flour and water and shortening
+107638872	pastry used to hold pie fillings
+107638972	deep-dish apple dessert covered with a rich crust
+107639084	pastry with a creamy almond-flavored filling
+107639185	pastry with a topping of streusel
+107639273	a pastry cup with a filling of fruit or custard and no top crust
+107639443	a tart filled with sliced apples and sugar
+107639542	a small open pie with a fruit filling
+107639739	a small open pie filled with sliced apples and sugar
+107639848	a pastry shell filled with cooked lobster
+107639948	a small tart usually used as a canape
+107640075	a dish made by folding a piece of pastry over a filling
+107640275	turnover with an apple filling
+107640366	(Yiddish) a baked or fried turnover filled with potato or meat or cheese; often eaten as a snack
+107640533	small fruit or meat turnover baked or fried
+107640670	small turnover of Indian origin filled with vegetables or meat and fried and served hot
+107640810	small pastry shell for creamy mixtures of minced foods
+107640933	individual serving of minced e.g. meat or fish in a rich creamy sauce baked in a small pastry mold or timbale shell
+107641102	dish baked in pastry-lined pan often with a pastry top
+107641440	a pie made of fruit with rich biscuit dough usually only on top of the fruit
+107641586	open pie filled with a mixture of sweet crumbs and molasses
+107641703	pie containing mincemeat
+107641783	pie (with a top crust) containing sliced apples and sugar
+107641896	pie containing lemon custard and topped with meringue
+107642014	pie containing blueberries and sugar
+107642110	pie containing diced rhubarb and much sugar
+107642211	pie made of pecans and sugar and corn syrup and butter and eggs
+107642330	pie made of mashed pumpkin and milk and eggs and sugar
+107642442	similar to pumpkin pie but made with winter squash instead of pumpkin
+107642568	sweet filled pastry made of especially puff paste
+107642695	a rectangular piece of pastry with thin flaky layers and filled with custard cream
+107642832	shell of puff paste
+107642919	small pie or pasty
+107642989	sausage meat rolled and baked in pastry
+107643087	sausage baked in batter
+107643173	puff paste shell filled with a savory meat mixture usually with a sauce
+107643302	thin sheet of filled dough rolled and baked
+107643399	rich Middle Eastern cake made of thin layers of flaky pastry filled with nuts and honey
+107643540	dough used for very light flaky rich pastries
+107643677	tissue thin sheets of pastry used especially in Greek dishes
+107643790	batter for making light hollow cases to hold various fillings
+107643937	a small hollow pastry that is typically filled with cream and covered with chocolate
+107644079	a light inflated pastry or puff shell
+107644185	puff filled with cream or custard
+107644300	oblong cream puff
+107644388	eclair topped with chocolate
+107644479	baked goods made from or based on a mixture of flour, sugar, eggs, and fat
+107645306	moist spicy cake containing applesauce
+107645406	a small cake leavened with yeast
+107645507	a baba soaked in rum
+107645597	decorated cake served at a birthday party
+107645698	made with sweetened cream cheese and eggs and cream baked in a crumb crust
+107645829	very light cake
+107645903	cake containing chocolate
+107646007	cake containing shredded coconut in batter and frosting
+107646121	a cake or sweet bread usually served with coffee
+107646276	a coffee cake flavored with orange rind and raisins and almonds
+107646391	cake or coffeecake topped with a mixture of sugar and butter and flour
+107646518	a thick soft cake with a porous texture; cooked on a griddle
+107646632	small cake baked in a muffin tin
+107646718	very dark chocolate cake
+107646821	a flat round cake of sweetened pastry filled with dried fruit
+107646959	a rich cake containing dried fruit and nuts and citrus peel and so on
+107647120	a rich fruitcake (usually covered with icing and marzipan) and eaten at Christmas
+107647281	a fruitcake (sometimes covered with almond paste) eaten at mid-Lent or Easter or Christmas
+107647443	any of various rich and elaborate cakes
+107647535	ice cream molded to look like a cake
+107647646	a light porous cake made with eggs and flour and sugar without shortening
+107647849	a light sponge cake made without egg yolks
+107647966	thin sheet of sponge cake spread with jelly and then rolled up to make a cylindrical cake
+107648124	a rich sponge cake with close texture; intended to be eaten with a glass of Madeira wine
+107648288	a small sponge cake with a synthetic cream filling
+107648411	a rich cake with two or more tiers and covered with frosting and decorations; served at a wedding reception
+107648589	cake made without egg yolks
+107648673	cake flavored with spices
+107648755	cake flavored with ginger
+107648838	rich loaf cake made of a pound each of butter and sugar and flour
+107648978	cake having layers held together by a sweet filling and usually covered with frosting
+107649120	rich cake usually covered with cream and fruit or nuts; originated in Austria
+107649249	small (individual) frosted and ornamented cake
+107649352	moist cake containing prunes that have been made into a puree
+107649470	small flat ring-shaped cake or cookie
+107649569	a sponge cake baked in a ring mold
+107649657	layer cake filled with custard
+107649750	batter baked atop a layer of sweetened fruit then turned upside down so fruit is on top
+107649915	a spicy cake partially sweetened with honey
+107650015	made of light and dark batter very lightly blended
+107650123	rich and delicate Italian sponge cake
+107650214	a sweet cake flavored with sesame or caraway seeds and lemon
+107650360	any of various small cakes or cookies often served with tea
+107650510	flat semisweet cookie or biscuit usually served with tea
+107650653	a flat round slightly sweet teacake usually served hot
+107650764	any of various small flat sweet cakes (biscuit' is the British term)
+107651355	a hard biscuit for dogs
+107651436	cookie containing much butter
+107651543	cookie flavored with spices
+107651629	very rich thick butter cookie
+107651735	very rich cookie containing ground almonds; usually crescent-shaped
+107651880	square or bar of very rich chocolate cake usually with nuts
+107651993	a crisp round cookie flavored with ginger
+107652143	chewy cookie usually containing almond paste
+107652278	macaroon flavored with ratafia liqueur
+107652388	macaroon containing coconut
+107652478	a cookie made of egg whites and sugar
+107652566	small finger-shaped sponge cake
+107652654	cookie made without butter and flavored with anise seed
+107652787	very spicy cookies sweetened partially with molasses
+107652901	chocolate cookie with white cream filling
+107653007	cookie filled with a paste of raisins and nuts
+107653117	dough formed into a roll and chilled in the refrigerator then sliced and baked
+107653261	cookie containing raisins
+107653346	cookies containing chopped fruits either mixed in the dough or spread between layers of dough then baked and cut in bars
+107653558	fruit bar containing apricot jam
+107653648	fruit bar containing chopped dates
+107653737	cookies sprinkled with granulated sugar
+107653835	cookies containing rolled oats
+107653926	cookies containing chocolate chips
+107654048	thin folded wafer containing a maxim on a slip of paper
+107654183	gingerbread cut in the shape of a person
+107654285	small cake in the form of a ring or twist or ball or strip fried in deep fat
+107654507	a rounded lump of dough that is deep-fried and served as hot bread
+107654678	a small ring-shaped friedcake
+107654797	a doughnut made light with yeast rather than baking powder
+107654953	a raised doughnut filled with jelly or jam
+107655084	doughnut traditionally eaten on Shrove Tuesday
+107655186	small friedcake formed into twisted strips and fried; richer than doughnuts
+107655325	a deep-fried, yeast-raised doughnut dusted with confectioners' sugar
+107655464	small quantity of fried batter containing fruit or meat or vegetables
+107655623	fritter containing sliced apple
+107655714	fritter containing corn or corn kernels
+107655812	a flat cake of thin batter fried on both sides on a griddle
+107656169	small cake of compressed moist yeast
+107656262	a pancake made with buckwheat flour
+107656358	a pancake made with buttermilk
+107656453	Russian pancake of buckwheat flour and yeast; usually served with caviar and sour cream
+107656600	(Judaism) thin pancake folded around a filling and fried or baked
+107656747	small very thin pancake
+107656865	crepes flamed in a sweet orange-and-lemon flavored liqueur sauce
+107656989	puffy mildly sweet lemon-flavored egg mixture sprinkled with confectioners' sugar and served with jam or a wine or fruit sauce
+107657190	made of grated potato and egg with a little flour
+107657308	pancake batter baked in a waffle iron
+107657416	thick sweet waffle often eaten with ice cream or fruit sauce
+107657537	a fried ball or patty of flaked fish and mashed potatoes
+107657679	a small cake with a hard surface said to resemble a rock
+107657791	a cake consisting of two layers of sponge cake with a jelly filling in between
+107657970	a long fillet of fish breaded and fried
+107658080	fruit preserved by cooking with sugar
+107658351	thick dark spicy puree of apples
+107658442	a Chinese preserve of mixed fruits and ginger
+107658542	preserve of crushed fruit
+107658635	a conserve with a thick consistency; made with lemons and butter and eggs and sugar
+107658809	made with strawberries
+107658915	a preserve made of the jelled juice of fruit
+107659083	jelly made from apple juice
+107659186	a tart apple jelly made from crab apples
+107659288	jelly made from grape juice
+107659373	a preserve made of the pulp and rind of citrus fruits
+107659500	marmalade made from oranges
+107659590	an edible jelly (sweet or pungent) made with gelatin and used as a dessert or salad base or a coating for foods
+107659853	jellied dessert made with gelatin and fruit juice or water
+107659991	the flesh of a bird or fowl (wild or domestic) used as food
+107660315	flesh of chickens or turkeys or ducks or geese raised for food
+107660576	the flesh of a chicken used for food
+107660851	flesh of a small young chicken not over 2 1/2 lb suitable for broiling
+107660993	flesh of a castrated male chicken
+107661078	flesh of a medium-sized young chicken suitable for frying
+107661240	flesh of a large young chicken over 3 1/2 lb suitable for roasting
+107661378	a brand name for a roasting chicken
+107661495	flesh of a chicken (or game bird) split down the back and grilled (usually immediately after being killed)
+107661676	flesh of an older chicken suitable for stewing
+107661772	flesh of a small fowl bred for roasting
+107661893	flesh of a guinea fowl (especially of hens)
+107662012	flesh of a pigeon suitable for roasting or braising; flesh of a dove (young squab) may be broiled
+107662187	flesh of a duck (domestic or wild)
+107662327	flesh of a young domestic duck
+107662430	flesh of a goose (domestic or wild)
+107662536	flesh of any of a number of wild game birds suitable for food
+107662724	flesh of any of various grouse of the family Tetraonidae; usually roasted; flesh too dry to broil
+107662930	flesh of quail; suitable for roasting or broiling if young; otherwise must be braised
+107663105	flesh of either quail or grouse
+107663211	flesh of a pheasant; usually braised
+107663340	flesh of large domesticated fowl usually roasted
+107663479	the lower joint of the leg of a fowl
+107663645	the lower joint of the leg of a turkey
+107663759	the lower joint of the leg of a chicken
+107663876	the upper joint of the leg of a fowl
+107664017	meat carved from the breast of a fowl
+107664158	the wing of a fowl
+107664326	the wing of a turkey
+107664423	the wing of a chicken
+107664522	crisp spicy chicken wings
+107664606	chicken wings cooked in barbecue sauce
+107664705	edible viscera of a fowl
+107664811	a circular helping of food (especially a boneless cut of meat)
+107664951	a small muscle on each side of the back of a fowl
+107665072	the tail of a dressed fowl
+107665191	a quantity of food (other than bread) formed in a particular shape
+107665463	the flesh of animals (including fishes and birds and snails) used as food
+107666058	the flesh of wild animals that is used for food
+107666246	the flesh of the legs of fowl used as food
+107666401	soft semiliquid food
+107666512	food chopped into small bits
+107666634	food prepared by cooking and straining or processed in a blender
+107666768	uncooked meat
+107666854	a lump or chunk of raw meat
+107666934	meat that is dark in color before cooking (as beef, venison, lamb, mutton)
+107667063	edible viscera of a butchered animal
+107667383	viscera and trimmings of a butchered animal often considered inedible by humans
+107667514	a firm rather dry variety meat (usually beef or veal)
+107667661	liver of an animal used as meat
+107667816	liver of a calf used as meat
+107667919	liver of a chicken used as meat
+107668010	liver of a goose used as meat
+107668097	edible glands of an animal
+107668194	the brain of certain animals used as meat
+107668305	the brain of a calf eaten as meat
+107668397	edible pancreas of an animal
+107668490	edible thymus gland of an animal
+107668604	the tongue of certain animals used as meat
+107668735	the tongue of a cow eaten as meat
+107668826	the tongue of a calf eaten as meat
+107668920	meat from a deer used as food
+107669003	a piece of meat that has been cut from an animal carcass
+107669591	a small cut of meat including part of a rib
+107669757	meat that has been barbecued or grilled in a highly seasoned sauce
+107669907	an Indian dish made with highly seasoned rice and meat or fish or vegetables
+107670047	sliced assorted cold meats
+107670147	cut of meat or fish including at least part of the backbone
+107670276	a serving that has been cut from a larger portion
+107670495	thin slice of meat (especially veal) usually fried or broiled
+107670676	lightly sauteed veal cutlets spread with a Soubise sauce and liver paste then sprinkled with grated Parmesan and baked briefly
+107670872	a dish of sauteed food
+107670946	a longitudinal slice or boned side of a fish
+107671114	the limb of an animal used for food
+107671235	a lengthwise dressed half of an animal's carcass used for food
+107671399	dressed half of a beef carcass
+107671507	the front half of a side of meat
+107671597	the back half of a side of meat
+107671686	cut of meat from beef cattle
+107672061	the part of a forequarter from the neck to the ribs and including the shoulder blade
+107672254	between the chuck and the brisket
+107672350	cut of meat including one or more ribs
+107672475	cut of meat taken from between the ribs
+107672570	a cut of pork ribs with much of the meat trimmed off
+107672677	a cut of meat (beef or veal or mutton or lamb) from the upper part of the leg
+107672842	a cut of meat from the upper part of a front leg
+107672946	a cut of meat from the upper part of a rear leg
+107673049	a cut of meat from the lower part of the leg
+107673156	a cut of meat from the breast or lower chest especially of beef
+107673273	the thin under portion of the forequarter
+107673366	a cut from the fleshy part of an animal's side between the ribs and the leg
+107673512	a slice of meat cut from the fleshy part of an animal or large fish
+107673667	cross-section slice of a large fish
+107673777	a beef steak usually cooked by broiling
+107674070	a cut of beef from the flank of the animal
+107674189	a thin steak that can be cooked quickly
+107674287	a cut of meat taken from the side and back of an animal between the ribs and the rump
+107674441	the portion of the loin from which porterhouse steaks are cut
+107674559	cut of meat from a loin of beef
+107674703	the portion of the loin (especially of beef) just in front of the rump
+107674941	part of the sirloin nearest the rump
+107675053	part of the sirloin next to the wedge bone
+107675170	part of the sirloin between the flat bone and the porterhouse
+107675305	a cut of beef from the upper end of the sirloin
+107675429	a cut of beef from the sirloin
+107675538	the tender meat of the loin muscle on each side of the vertebral column
+107675713	beef loin muscle
+107675810	a boneless steak cut from the tenderloin of beef
+107676028	pork loin muscle
+107676106	a very thick center cut of beef tenderloin
+107676208	small steak from the front of the short loin of beef
+107676335	thick steak cut from the beef tenderloin
+107676431	small steak cut from the thick end of a beef tenderloin
+107676545	large steak from the thick end of the short loin containing a T-shaped bone and large piece of tenderloin
+107676747	small steak from the thin end of the short loin containing a T-shaped bone and small piece of tenderloin
+107676910	a cut of beef from the shoulder blade
+107677018	a roast cut from the blade
+107677102	a cut of meat from the neck of an animal
+107677231	a cut of beef from the neck of the animal
+107677328	a cut of meat including the upper joint of the foreleg
+107677456	cut of beef suitable for simmering in liquid in a closed pot
+107677590	cut of beef containing rib ends near the sternum
+107677695	a cut of meat (beef or venison) including more than one rib and the meat located along the outside of the ribs
+107677901	a cut of beef between the rump and the lower leg
+107678020	a lean cut of beef from between the rump and the shank
+107678151	roast cut from the round; usually suitable for roasting
+107678262	cut from the round; suitable for pot roast
+107678363	a steak cut from the rump
+107678464	steak from upper part of the short loin
+107678578	fleshy hindquarters; behind the loin and above the round
+107678723	a cut of beef or veal from the fleshy hindquarters of the animal
+107678863	a cut of beef including the H-shaped rump bone
+107678965	lining of the stomach of a ruminant (especially a bovine) used as food
+107679105	lining of the reticulum (or second stomach) of a ruminant used as food
+107679237	meat from an American bison
+107679337	meat from an adult domestic bovine
+107679541	cut of beef suitable for roasting
+107679644	small flat mass of chopped food
+107679752	beef that has been ground
+107679866	a patty of ground cooked beef
+107680011	beef cured or pickled in brine
+107680124	highly seasoned cut of smoked beef
+107680213	a piece of meat (or fish) that has been scored and broiled
+107680327	(Islam) meat from animals that have been slaughtered in the prescribed way according to the shariah
+107680515	meat (especially beef) cut in strips and dried in the sun
+107680681	strips of dried beef
+107680758	meat that is salted and cut into strips and dried in the sun
+107680891	lean dried meat pounded fine and mixed with melted fat; used especially by North American Indians
+107681053	meat from a calf
+107681183	sauteed veal cutlet in a breadcrumb-and-cheese coating served with tomato sauce
+107681340	cut of meat from a calf
+107681458	the lean end of a neck of veal
+107681589	cut of veal suitable for roasting
+107681728	usually stuffed and roasted
+107681816	larded veal braised and glazed in its own juices
+107681921	thin slices of veal stuffed with cheese and ham and then sauteed
+107682048	feet of calves used as food; usually jellied
+107682151	the flesh of horses as food
+107682266	flesh of any of various rabbits or hares (wild or domesticated) eaten as food
+107682478	meat from a mature domestic sheep
+107682592	chop cut from a mature sheep
+107682678	lean end of the neck
+107682787	cut of meat from a mature sheep
+107682896	the flesh of a young domestic sheep eaten as food
+107683071	cut of meat from a lamb
+107683225	a cut of lamb including the breastbone and attached muscles dressed as meat
+107683381	cut of meat (especially mutton or lamb) consisting of part of the backbone and both loins
+107683523	backbone and both loins of a lamb
+107683617	meat from a loin of lamb
+107683719	chop cut from a lamb
+107683818	rib section of a forequarter of veal or pork or especially lamb or mutton
+107683960	a cut of lamb suitable for roasting
+107684101	a roast of the rib section of lamb
+107684226	a small cut of meat from the leg just above the foot
+107684333	lamb leg suitable for roasting
+107684447	meat from a domestic hog or pig
+107684647	cut of meat from a hog or pig
+107684843	whole young pig suitable for roasting
+107684956	salted and cured abdominal wall of a side of pork
+107685112	hind portion of a side of bacon
+107685215	meat from a loin of pork
+107685333	dressed half of a hog carcass
+107685458	side of fresh pork
+107685533	cut of pork suitable for roasting
+107685636	meat cut from the thigh of a hog (usually smoked)
+107685789	a lean hickory-smoked ham; has dark red meat
+107685892	shoulder of a hog usually smoked
+107685999	chop cut from a hog
+107686073	Italian salt-cured ham usually sliced paper thin
+107686178	back and sides of a hog salted and dried or smoked; usually sliced thin and fried
+107686402	a slice of bacon
+107686476	the natural outer covering of food (usually removed before eating)
+107686647	the rind of bacon
+107686740	from a boned strip of cured loin
+107686852	fat from the back and sides and belly of a hog carcass cured with salt
+107687014	salt pork from the back of a hog carcass
+107687108	salt pork from the belly of a hog carcass
+107687204	cut of pork from the rib section with most of the meat trimmed off
+107687326	feet or knuckles of hogs used as food; pickled or stewed or jellied
+107687467	small intestines of hogs prepared as food
+107687590	the crisp residue left after lard has been rendered
+107687698	heart and liver and other edible viscera especially of hogs; usually chopped and formed into a loaf and braised
+107687880	oily or greasy matter making up the bulk of fatty tissue in animals and in seeds and other plant tissue
+107688166	soft white semisolid fat obtained by rendering the fatty tissue of the hog
+107688328	the intermixture of fat and lean in a cut of meat
+107688432	fat such as butter or lard used in baked goods
+107688535	hard fat around the kidneys and loins in beef and sheep
+107688659	a spread made chiefly from vegetable oils and used as a substitute for butter
+107688890	any of numerous vegetable oils used in cooking
+107688994	fat that exudes from meat and drips off while it is being roasted or fried
+107689142	any of a group of liquid edible fats that are obtained from plants
+107689617	mild vegetable oil when used as food; especially olive or edible rape oil
+107689746	vegetable oil made from rapeseed; it is high in monounsaturated fatty acids
+107689906	oil from coconuts
+107690012	oil from the germs of corn grains
+107690138	edible oil pressed from cottonseeds
+107690253	oil from olives
+107690362	oil from nuts of oil palms especially the African oil palm
+107690494	an oil from peanuts; used in cooking and making soap
+107690657	any of several edible vegetable oils that can be used in salad dressings
+107690785	oil from seeds of the safflower plant
+107690901	oil obtained from sesame seeds
+107691007	oil from soya beans
+107691156	oil from sunflower seeds
+107691280	oil from walnuts
+107691372	highly seasoned minced meat stuffed in casings
+107691707	any meat that is minced and spiced and cooked as patties or used to fill sausages
+107691866	a black sausage containing pig's blood and other ingredients
+107692018	large smooth-textured smoked sausage of beef and veal and pork
+107692170	a small thin sausage
+107692265	a spicy Spanish pork sausage
+107692347	a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll
+107692600	short slender frankfurter usually with ends cut off
+107692712	another name for Bologna sausage
+107692816	sausage or jellied loaf made of chopped parts of the head meat and sometimes feet and tongue of a calf or pig
+107693000	short thick highly seasoned sausage
+107693105	sausage containing ground liver
+107693225	a pork and beef sausage (or a thin slice of this sausage)
+107693338	sausage containing pork
+107693492	highly seasoned fatty sausage of pork and beef usually dried
+107693605	(British informal) pork sausage
+107693727	a small pork sausage
+107693810	a highly seasoned Portuguese pork sausage flavored with garlic and onions
+107693938	a ready-cooked and highly seasoned pork sausage
+107694058	pork trimmings chopped and pickled and jelled
+107694173	any of various sausages or molded loaf meats sliced and served cold
+107694331	spiced mixture of chopped raisins and apples and other ingredients with or without meat
+107694474	a mixture of seasoned ingredients used to stuff meats and vegetables
+107694698	stuffing for turkey
+107694779	stuffing made with oysters
+107694885	mixture of ground raw chicken and mushrooms with pistachios and truffles and onions and parsley and lots of butter and bound with eggs
+107695101	food made from dough of flour or meal and usually raised with yeast or baking powder and then baked
+107695913	a yeast-raised bread made of white flour and cornmeal and molasses
+107696058	a small loaf or roll of soft bread
+107696161	a rich currant cake or bun
+107696262	a crisp stick-shaped roll; often served with soup
+107696400	a long slender crusty breadstick
+107696506	dark steamed bread made of cornmeal wheat and flour with molasses and soda and milk or water
+107696677	small rounded bread either plain or sweet
+107697009	sweetened buns to be eaten with tea
+107697100	bread containing caraway seeds
+107697195	(Judaism) a loaf of white bread containing eggs and leavened with yeast; often formed into braided loaves and glazed with eggs before baking
+107697436	bread flavored with cinnamon often containing raisins
+107697550	bread made with cracked wheat that has been ground fine
+107697671	a thin crisp wafer made of flour and water with or without leavening and shortening; unsweetened or semisweet
+107697942	a small piece of toasted or fried bread; served in soup or salads
+107698061	bread made with whole wheat flour
+107698222	round, raised muffin cooked on a griddle; usually split and toasted before being eaten
+107698369	any of various breads made from usually unleavened dough
+107698553	French or Italian bread sliced and spread with garlic butter then crisped in the oven
+107698697	bread made with gluten flour
+107698784	bread made of graham (whole wheat) flour
+107698883	a technical name for the bread used in the service of Mass or Holy Communion
+107699010	the thin wafer-like bread of Scandinavia
+107699105	a flat bread made of oat or barley flour; common in New England and Scotland
+107699235	flat pancake-like bread cooked on a griddle
+107699362	usually small round bread that can open into a pocket for filling
+107699531	a shaped mass of baked bread that is usually sliced before eating
+107699718	one of the crusty ends of a loaf of bread
+107699829	a loaf of French bread
+107699909	brittle flat bread eaten at Passover
+107700034	leavened bread baked in a clay oven in India; usually shaped like a teardrop
+107700167	bread containing finely minced onions
+107700262	bread containing raisins
+107700345	breads made with a leavening agent that permits immediate baking
+107700683	moist bread containing banana pulp
+107700776	bread containing chopped dates
+107700863	bread containing chopped dates and nuts
+107700963	bread containing chopped nuts
+107701048	thin flat unleavened cake of baked oatmeal
+107701144	round loaf made with soda and buttermilk; often containing caraway seeds and raisins
+107701291	usually cooked in a skillet over an open fire: especially cornbread with ham bits and sometimes Irish soda bread
+107701475	any of various breads made entirely or partly with rye flour
+107701663	bread made of coarse rye flour
+107701766	(Judaism) bread made with rye flour; usually contains caraway seeds
+107701947	a rye bread made with molasses or brown sugar
+107702044	a moist aromatic yeast-raised bread made with rye flour and molasses and orange rind
+107702206	white wheat bread raised by a salt-tolerant bacterium in a mixture of salt and either cornmeal or potato pulp
+107702379	a crisp bread of fine white flour
+107702465	made with a starter of a small amount of dough in which fermentation is active
+107702618	slices of bread that have been toasted
+107702798	thin disk of unleavened bread used in a religious service (especially in the celebration of the Eucharist)
+107702956	bread made with finely ground and usually bleached wheat flour
+107703126	narrow French stick loaf
+107703214	a crusty sourdough bread often baked in long slender tapered loaves or baguettes
+107703371	unsweetened yeast-raised bread made without shortening and baked in long thick loaves with tapered ends
+107703534	bread made primarily of cornmeal
+107703766	baked in a pan or on a griddle (southern and midland)
+107703875	cornbread usually containing ham or bacon bits and cooked in a skillet
+107704010	corn bread wrapped in cabbage leaves and baked in hot ashes (southern)
+107704157	thin usually unleavened johnnycake made of cornmeal; originally baked on the blade of a hoe over an open fire (southern)
+107704369	cornbread often made without milk or eggs and baked or fried (southern)
+107704502	small oval cake of corn bread baked or fried (chiefly southern)
+107704643	deep-fried cornbread ball (southern)
+107704748	cornbread usually cooked pancake-style on a griddle (chiefly New England)
+107704962	form of johnnycake
+107705058	soft bread made of cornmeal and sometimes rice or hominy; must be served with a spoon (chiefly southern)
+107705235	buttered toast with sugar and cinnamon (and nutmeg and grated lemon peel)
+107705369	buttered toast with sugar and grated orange rind and a little orange juice
+107705502	very thin crisp brown toast
+107705587	slice of sweet raised bread baked again until it is brown and hard and crisp
+107705764	a long bun shaped to hold a frankfurter
+107705897	a round bun shaped to hold a hamburger patty
+107706018	a sweet quick bread baked in a cup-shaped pan
+107706176	muffin containing bran
+107706256	cornbread muffin
+107706330	light puffy bread made of a puff batter and traditionally baked in the pan with roast beef
+107706484	light hollow muffin made of a puff batter (individual Yorkshire pudding) baked in a deep muffin cup
+107706637	small biscuit (rich with cream and eggs) cut into diamonds or sticks and baked in an oven or (especially originally) on a griddle
+107706836	a scone made by dropping a spoonful of batter on a griddle
+107706982	moderately sweet raised roll containing spices and raisins and citron and decorated with a cross-shaped sugar glaze
+107707169	ring-shaped coffeecake with fruits or nuts and often iced
+107707284	a light roll rich with eggs and butter and somewhat sweet
+107707395	very rich flaky crescent-shaped roll
+107707503	yeast-raised roll with a hard crust
+107707608	yeast-raised roll with a soft crust
+107707699	rounded raised poppy-seed roll made of a square piece of dough by folding the corners in to the center
+107707859	yeast-raised dinner roll made by folding a disk of dough before baking
+107707993	yeast-raised dinner roll made by baking three small balls of dough in each cup of a muffin pan
+107708150	yeast-raised roll flavored with onion
+107708262	flat crusty-bottomed onion roll
+107708359	any of numerous yeast-raised sweet rolls with our without raisins or nuts or spices or a glaze
+107708632	almond-flavored yeast-raised pastry shaped in an irregular semicircle resembling a bear's claw
+107708793	rolled dough spread with cinnamon and sugar (and raisins) then sliced before baking
+107708968	rolled dough spread with sugar and nuts then sliced and baked in muffin tins with honey or sugar and butter in the bottom
+107709184	pinwheel-shaped rolls spread with cinnamon and sugar and filled with e.g. jam before baking
+107709335	light sweet yeast-raised roll usually filled with fruits or cheese
+107709470	(Yiddish) glazed yeast-raised doughnut-shaped roll with hard crust
+107709634	bagel flavored with onion
+107709717	small round bread leavened with baking-powder or soda
+107709914	biscuit made from dough rolled and cut
+107710013	biscuit made from dough with enough milk that it can be dropped from a spoon
+107710148	leavened with baking powder
+107710261	very tender biscuit partially leavened with buttermilk and soda
+107710404	very short biscuit dough baked as individual biscuits or a round loaf; served with sweetened fruit and usually whipped cream
+107710584	very hard unsalted biscuit or bread; a former ship's staple
+107710757	a small thin crisp cake or cookie
+107710842	a gingersnap flavored with brandy
+107710932	a cracker sprinkled with salt before baking
+107711029	unsweetened cracker leavened slightly with soda and cream of tartar
+107711155	a small dry usually round cracker
+107711249	a thin flour-and-water biscuit usually made without shortening; often served with cheese
+107711397	semisweet whole-wheat cracker
+107711487	glazed and salted cracker typically in the shape of a loose knot
+107711623	a pretzel made of soft bread
+107711710	two (or more) slices of bread with a filling between them
+107712148	a serving consisting of a sandwich or sandwiches with garnishes
+107712272	a sandwich
+107712370	a sandwich made with a filling of sliced ham
+107712473	a sandwich made with a filling of sliced chicken
+107712584	made with three slices of usually toasted bread
+107712722	sandwich without a covering slice of bread
+107712845	a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients
+107713058	a hamburger with melted cheese on it
+107713153	a sandwich that resembles a hamburger but made with tuna instead of beef
+107713282	a frankfurter served hot on a bun
+107713444	ground beef (not a patty) cooked in a spicy sauce and served on a bun
+107713570	a large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the United States
+107713995	a Greek sandwich: sliced roast lamb with onion and tomato stuffed into pita bread
+107714146	sandwich filled with slices of bacon and tomato with lettuce
+107714288	a hot sandwich with corned beef and Swiss cheese and sauerkraut on rye bread
+107714417	a sandwich made from a western omelet
+107714527	a sandwich in which the filling is rolled up in a soft tortilla
+107714660	shaped and dried dough made from flour and water and sometimes egg
+107715175	pasta shaped with scalloped edges and pinched in the middle, suggestive of a bow tie
+107715329	a ribbonlike strip of pasta
+107715427	pasta shaped like pearls of barley; frequently prepared with lamb in Greek cuisine
+107715560	narrow strip of pasta dough made with eggs
+107715659	pasta in the form of long strings
+107715748	spaghetti served with a tomato sauce
+107715840	thin spaghetti
+107715912	small ring-shaped stuffed pasta
+107716000	medium-sized tubular pasta in short pieces
+107716093	tubular pasta in short ribbed pieces
+107716184	extremely fine pasta thinner than vermicelli
+107716284	pasta in long slender flat strips
+107716383	pasta in flat strips wider than linguine
+107716511	fettuccine in cream sauce with cheese
+107716613	pasta in strings thinner than spaghetti
+107716709	pasta in the form of slender tubes
+107716798	very wide flat strips of pasta
+107716892	pasta in short tubes with diagonally cut ends
+107716989	small circular or square cases of dough with savory fillings
+107717117	pasta cut in narrow ribbons
+107717202	large pasta tubes stuffed with chopped meat or mild cheese and baked in tomato sauce
+107717342	a pasta made in northern Africa of crushed and steamed semolina
+107717460	(Italian) a small dumpling made of potato or flour or semolina that is boiled or baked and is usually served with a sauce or with grated cheese
+107717657	a Jewish dumpling made of matzo meal; usually served in soup
+107717802	a Chinese dumpling filled with spiced minced pork; usually served in soup
+107717938	small balls or strips of boiled or steamed dough
+107718107	any natural or prepared food popularly believed to promote good health
+107718254	food that tastes good but is high in calories having little nutritional value
+107718387	any food (especially cereal) usually served for breakfast
+107718541	a breakfast food prepared from grain
+107718702	mixture of untoasted dry cereals and fruits
+107718798	a soft form of cereal for infants
+107718922	a cereal that is served hot
+107719078	cornmeal boiled in water
+107719260	eaten as mush or as a thin gruel
+107719344	cornmeal mush served with sweetening (maple syrup or brown sugar)
+107719488	a thick mush made of cornmeal boiled in stock or water
+107719634	sweetened porridge made of tapioca or flour or oatmeal cooked quickly in milk or water
+107719799	a thin porridge (usually oatmeal or cornmeal)

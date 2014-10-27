@@ -1,0 +1,1000 @@
+appetizingness	105002696
+appian way	102732004
+applaud	200861956 200863593
+applaudable	302595965
+applauder	109945546
+applause	106704734
+apple	107755101 112654755
+apple aphid	102255451
+apple blight	114239536
+apple butter	107658351
+apple canker	114239536
+apple dumpling	107629712
+apple fritter	107655623
+apple geranium	112708948
+apple jelly	107659083
+apple juice	107940606
+apple maggot	102199548
+apple mint	112877239
+apple nut	112615294
+apple of discord	102732289
+apple of peru	112924263 112927817
+apple orchard	102732699
+apple pie	107641783
+apple polisher	109820054
+apple rust	113086274
+apple sauce	107841826
+apple tart	107639443 107639739
+apple tree	112654399
+apple turnover	107640275
+apple-scented	301059622
+apple-shaped	302048554
+apple-sized	302230436
+applecart	102732166 105803843
+applejack	107919783
+applemint	112877239
+applesauce	106624351 107841826
+applesauce cake	107645306
+applet	106582823
+appleton	109180341 110840217
+appleton layer	108599865
+applewood	112654627
+appliance	102732781 102732963
+applicability	113817392
+applicable	301982512
+applicant	109630310
+application	100036782 100634572 100713478 100950950 103696454 106524571 106582286
+application form	106485508
+application program	106582286
+application-oriented language	106911886
+applications programme	106582286
+applicative	301840530
+applicator	102733263
+applicatory	301840530
+applied	300866236
+applied anatomy	106068675
+applied math	106027371
+applied mathematics	106027371
+applied psychology	106147798
+applied science	106134474
+applied scientist	109638837
+applier	102733263 109630310
+applique	102733435 201674672
+apply	200767441 201028567 201161188 201366351 202314145 202565990 202567247 202601520 202682599 202713289
+appoggiatura	106885033
+appoint	202346366 202401347 202481345
+appointed	300850001 300850735 301101008 302137098
+appointee	109630660 109820387
+appointive	300850001 302646445
+appointment	100091213 100164600 100587142 102733566 108401740 109630660
+appointment book	106427692
+appointment calendar	106427692
+apportion	202238869 202299140
+apportionable	300470167
+apportioned	300542456
+apportioning	101085569
+apportionment	101085569
+apposable	301666975
+appose	201502853
+apposite	300139582
+appositeness	104723767
+apposition	101053725 113455121 113823429
+appositional	302646592
+appositive	302646592
+appositively	400122297
+appraisal	100877197 105741528 106540774
+appraise	200648195 200683348
+appraiser	109821473 109821662
+appraising	300652914
+appreciable	300627090
+appreciably	400007009
+appreciate	200316406 200316996 200593736 201809949 202260917
+appreciated	301381355
+appreciation	100365266 101221083 105757616 105814631 107243771
+appreciative	300778235 301150235
+appreciatively	400272695
+appreciativeness	107519768
+appreciator	109821868
+apprehend	200589616 201217701 201786251
+apprehended	301381355
+apprehender	109820525 110259779
+apprehensible	300535672
+apprehension	100089545 105813483 105960433 107536913
+apprehensive	300079659 300826475 301749276
+apprehensively	400187482
+apprehensiveness	107536913
+apprentice	109821287 200604030
+apprenticed	301068495
+apprenticeship	100590035
+appressed	300449943
+apprisal	107227084
+apprise	200316406 200316996 200832735 200875364
+apprize	200316406 200316996 200832735 200875364
+appro	114435968
+approach	100281697 100574305 100942956 102673692 104753374 105053622 107179000 107325125 108510971 200992424 201853713 202057865 202444146 202709812
+approach path	108510971
+approach pattern	108509757
+approach shot	100574305
+approach trench	102733753
+approachability	104663006
+approachable	300019387 300135131 300535441
+approaching	100281697 105053622 107325125 301736850
+approbate	200688934 200805477
+approbation	106699923 107515851
+approbative	300999508
+approbatory	300999508
+appropriable	300094286
+appropriate	200726112 202277394 300135772
+appropriately	400140318
+appropriateness	104723223 104906208
+appropriation	100084795 100374226 113310868
+appropriation bill	106549115
+appropriative	302646774
+appropriator	109822064
+approval	101217882 106699481 107515398 114435778
+approve	200675902 200808164
+approved	300180335
+approver	109822267
+approving	101217882 300999508
+approvingly	400263397
+approximate	200674352 202672137 300450164 300453905 300919090
+approximate range	105133331
+approximately	400007414
+approximation	100147097 104751272 105811387 106796299
+approximative	300919090
+appurtenance	102674051 103435869
+appurtenant	302363453
+apr	115235985
+apractic	301021951
+apraxia	114114608
+apraxic	301021951
+apresoline	103555851
+apricot	104978942 107766848 112661368
+apricot bar	107653558
+apricot sauce	107848283
+apricot tree	112661368
+april	115235985
+april 14	115213523
+april fool	100515367 109820698
+april fools'	115213340
+april fools' day	115213340
+apron	102733935 102734128 104019738 108513344
+apron string	102734256
+apropos	300139437 400157363 400275183
+apse	102734403
+apsidal	302646912
+apsis	102734403
+apsu	109539012
+apt	300139582 301295534 301337910 301414776
+aptenodytes	102059075
+aptenodytes forsteri	102059382
+aptenodytes patagonica	102059224
+apteral	300140612 302578945
+apterous	302578945
+apterygidae	101522925
+apterygiformes	101522699
+apteryx	101523217
+aptitude	105630239
+aptitudinal	302647009
+aptly	400186658
+aptness	104723767 104950331
+apulia	108828210
+apus	101835022 109224592
+apus apus	101835134
+apyretic tetanus	114333931
+aqaba	108947451
+aqua	104976975
+aqua fortis	114790711
+aqua regia	114791656
+aqua vitae	107918576
+aqua-lung	102734634
+aquacultural	302801298
+aquaculture	100917978
+aqualung	102734634
+aquamarine	104976975 114791842
+aquanaut	109820794 110626699
+aquaphobia	114406372
+aquaphobic	300080688
+aquaplane	102734905 201946713 201960371
+aquarium	102735077
+aquarius	108705622 109224718 109772973
+aquarius the water bearer	108705622
+aquatic	111557124 300124949 302647233
+aquatic bird	101847558
+aquatic fern	112977836
+aquatic mammal	102064670
+aquatic plant	113142303
+aquatic vertebrate	101476447
+aquatics	100442764
+aquatint	100940907 102735300 201754476
+aquavit	107919039
+aqueduct	102735438
+aqueductus cerebri	105511052
+aqueous	301357937 302647112
+aqueous humor	105325813
+aqueous humour	105325813
+aqueous solution	114614092
+aquicultural	302801298
+aquiculture	100920790
+aquifer	109224876
+aquiferous	302647359
+aquifoliaceae	112777046
+aquila	101616836 108822171 109225020
+aquila chrysaetos	101616984
+aquila degli abruzzi	108822171
+aquila rapax	101617197
+aquilege	111747560
+aquilegia	111747560
+aquilegia caerulea	111748009
+aquilegia canadensis	111747827
+aquilegia scopulorum calcarea	111748009
+aquilegia vulgaris	111748207
+aquiline	302320034
+aquinas	110840394
+aquitaine	108960290
+aquitania	108960290
+ar	109081737 113635143 114653098
+ar rimsal	109195008
+ara	101821050 109225163
+arab	102382560 109748872
+arab chief	110607765
+arab league	108189002
+arab republic of egypt	108917311
+arab revolutionary brigades	108036995
+arab-berbers	108500511
+arab-israeli war	101304940 101305174
+arabesque	102735577 105089009
+arabia	108866686
+arabian	102382560 109748872 303055976 303056080
+arabian camel	102439943
+arabian coffee	112683784
+arabian desert	109190560 109190813
+arabian gulf	109413317
+arabian jasmine	112327972
+arabian nights	107236890
+arabian nights' entertainment	107236890
+arabian peninsula	108866686
+arabian sea	109225283
+arabian tea	103614083
+arabic	107000717 303056254
+arabic alphabet	106512053
+arabic language	107000717
+arabic numeral	106820359
+arabidopsis	111891763
+arabidopsis lyrata	111892217
+arabidopsis thaliana	111891965
+arability	104723094
+arabis	111892385
+arabis canadensis	111892793
+arabis glabra	111893127
+arabis turrita	111892942
+arabist	109822374
+arable	301871757
+araceae	111799003
+araceous	302651852
+arachis	111768799
+arachis hypogaea	111768970
+arachnid	101771988
+arachnida	101771610
+arachnidian	302647462
+arachnoid	101771988 105490328 302647462
+arachnoid membrane	105490328
+arachnophobia	114405480
+arafat	110840822
+arafura sea	109225481
+aragon	109049830 110840983
+aragonite	114690937
+araguaia	109225688
+araguaia river	109225688
+araguaya	109225688
+araguaya river	109225688
+arak	107919177
+aral sea	109353139
+arales	111798860
+aralia	111817790
+aralia elata	111818965
+aralia hispida	111818739
+aralia nudicaulis	111818191
+aralia racemosa	111818450
+aralia spinosa	111817977
+aralia stipulata	111819157
+araliaceae	111817213
+aram	109056288
+aram ilich khachaturian	111123638
+aram kachaturian	111115577
+aram khachaturian	111123638
+aramaean	109822483 302647833
+aramaic	106363295 107000967 302647714
+aramaic script	106363295
+arame	101400331
+aramean	109822483 302647833
+aramus	102016016
+aramus guarauna	102016221
+aramus pictus	102016360
+aran islands	108726703
+aranea	101775960
+aranea diademata	101776438
+araneae	101774607
+araneida	101774607
+araneidal	302648031
+araneidan	302648031
+araneus	101775960
+araneus cavaticus	101776190
+aranyaka	106477294
+arapaho	106921067 109669955
+arapahoe	106921067 109669955
+ararat	109225910
+arariba	111770072
+araroba	102735701
+aras	109226095
+arauca	109226359
+araucaria	111666365
+araucaria araucana	111666618
+araucaria bidwillii	111667145
+araucaria columnaris	111666968
+araucaria cunninghamii	111667406
+araucaria excelsa	111666795
+araucaria family	111665722
+araucaria heterophylla	111666795
+araucariaceae	111665722
+araujia	113256845
+araujia sericofera	113256998
+arava	103659412
+arawak	106930540 109822670
+arawakan	106930540 109822670 302648188
+arawn	109531208
+araxes	109226095
+arb	109823223
+arbalest	102985366
+arbalist	102985366
+arbiter	109822852 109823476
+arbitrable	300141501
+arbitrage	101095889 202265766
+arbitrager	109823223
+arbitrageur	109823223
+arbitral	302648381
+arbitrament	101193374
+arbitrarily	400071165
+arbitrariness	104679198
+arbitrary	300722368
+arbitrate	200763001
+arbitration	101193374 107165558
+arbitration clause	106404896
+arbitrational	302648381
+arbitrative	302648624
+arbitrator	109822852
+arbitrement	101193374
+arbor	102735832 104284631 113128650
+arbor day	115183319
+arboraceous	302583630
+arborary	302648772
+arboreal	300143086 300616005 302648772
+arboreal salamander	101639979
+arboreous	300143086 300616005 302583630
+arborescent	300616005
+arborescent plant	113124509
+arboresque	300616005
+arboretum	102736080
+arborical	302648772
+arboriculture	100919445
+arboriculturist	110124525
+arboriform	300616005
+arborise	200330305
+arborist	110747470
+arborize	200330305
+arborolatry	101047638
+arborous	302648772
+arborvirus	101331827
+arborvitae	111664286
+arbour	102735832
+arbovirus	101331827
+arbutus	112250864
+arbutus menziesii	112251057
+arbutus unedo	112251311
+arc	111531956 113897023 113918793 202038831
+arc cosecant	113811348
+arc cosine	113810065
+arc cotangent	113810714
+arc lamp	102738366
+arc light	102738366
+arc secant	113811032
+arc sine	113809763
+arc tangent	113810394
+arc-boutant	103378789
+arca	101965777
+arcade	102736218 102736383
+arcadia	108808205
+arcadian	109731150 302058608
+arcadic	106990608
+arcadic dialect	106990608
+arcado-cyprians	108177485
+arcane	300902905
+arcangelo corelli	110930700
+arcanum	106685698
+arccos	113810065
+arccosecant	113811348
+arccosine	113810065
+arccotangent	113810714
+arcdegree	113632450
+arced	302323141
+arcella	101397133
+arcellidae	101396834
+arceuthobium	112758847
+arceuthobium pusillum	112759019
+arch	102736529 102737222 105584204 113908826 202038831 302130013 302346987
+arch over	202039160
+arch support	102738273
+archaean	300817642
+archaebacteria	101350224
+archaebacterium	101350224
+archaeobacteria	101350224
+archaeologic	302649043
+archaeological	302649043
+archaeologist	109824229
+archaeology	106153532
+archaeopteryx	101518853
+archaeopteryx lithographica	101518853
+archaeornis	101520030
+archaeornithes	101518452
+archaeozoic	115154172 300817820
+archaeozoic aeon	115154172
+archaic	300821300 301643372
+archaicism	107087487
+archaise	200523148
+archaism	107087487
+archaist	109817047 109823653
+archaistic	302649391
+archaize	200523148
+archangel	109562294 112952933
+archangelic	302649545
+archangelical	302649545
+archbishop	109824574
+archbishopric	108568030
+archdeacon	109823766
+archdeaconry	108568135
+archdiocesan	302649844
+archdiocese	108568437
+archducal	302649953
+archduchess	109823941
+archduchy	108574487
+archduke	109824081
+archean	115154172 300817642
+archean aeon	115154172
+archean eon	115154172
+arched	302323141 302649715
+archegonial	302650081
+archegoniate	302650081
+archegonium	111709523
+archenteron	101465586
+archeobacteria	101350224
+archeologic	302649043
+archeological	302649043
+archeological remains	109226555
+archeological site	108567651
+archeologist	109824229
+archeology	106153532
+archeopteryx	101518853
+archeozoic	115154172 300817820
+archeozoic eon	115154172
+archepiscopal	302650546
+archer	108705263 109772679 109824747
+archerfish	102623208
+archery	100447965
+arches national park	108619810
+archespore	111708847
+archesporial	302650241
+archesporium	111708847
+archetypal	301014989
+archetype	105947118
+archetypical	301014989
+archiannelid	101937485
+archiannelida	101937346
+archibald macleish	111168142
+archibald percival wavell	111397310
+archidiaconal	302650423
+archidiaconate	114455993
+archidiskidon	102507973
+archidiskidon imperator	102508116
+archiepiscopal	302650546
+archil	113009332 115013997
+archilochus	101836680
+archilochus colubris	101836818
+archimandrite	109773735
+archimedes	110841118
+archimedes' principle	105883323
+archine	113674061
+arching	302323141
+archipallium	105489522
+archipelagic	302650737
+archipelago	109226715
+architect	109824898
+architectonic	302909373
+architectonics	106133966
+architectural	302909209
+architectural engineering	106143526
+architectural ornament	102737428
+architectural plan	103960475
+architectural style	105849878
+architecturally	400269596
+architecture	100612006 102737730 104939455 106132970
+architeuthis	101974772
+architrave	102737840 102737999
+archival	302650874
+archive	102738091 201387292
+archives	106605195
+archivist	109826367
+archly	400275591
+archness	104657008
+archosargus	102594387
+archosargus probatocephalus	102594685
+archosargus rhomboidalis	102594541
+archosaur	101698322
+archosauria	101697900
+archosaurian	101698322 302651005
+archosaurian reptile	101698322
+archpriest	109826498
+archway	102737222
+arcidae	101965658
+arciform	302323141
+arcminute	113632810
+arco	300948865
+arcsec	113811032
+arcsecant	113811032
+arcsecond	113632638
+arcsin	113809763
+arcsine	113809763
+arctan	113810394
+arctangent	113810394
+arctic	102738543 108513487 301255223 302453543
+arctic archipelago	108844979
+arctic char	102541193
+arctic circle	108513808
+arctic fox	102122731
+arctic ground squirrel	102361699
+arctic hare	102330308
+arctic moss	113011944
+arctic mouse-ear	111828165
+arctic ocean	109227865
+arctic poppy	111922228
+arctic skua	102047171
+arctic willow	112747288
+arctic wolf	102117200
+arctic zone	108513487
+arctictis	102138633
+arctictis bintourong	102138755
+arctiid	102308059
+arctiid moth	102308059
+arctiidae	102307897
+arctium	111944799
+arctium lappa	111945318
+arctium minus	111945130
+arctocebus	102502065
+arctocebus calabarensis	102502199
+arctocephalus	102079675
+arctocephalus philippi	102080036
+arctonyx	102451385
+arctonyx collaris	102451516
+arctostaphylos	112251548
+arctostaphylos alpina	112252226
+arctostaphylos andersonii	112252631
+arctostaphylos manzanita	112252797
+arctostaphylos tomentosa	112253020
+arctostaphylos uva-ursi	112251875
+arctotis	111945609
+arctotis stoechadifolia	111945919
+arctotis venusta	111945919
+arcturus	109228222
+arcuate	302323141
+arcuate artery	105344603
+arcuate artery of the kidney	105344726
+arcuate vein of the kidney	105365584
+arcus	105325365
+arcus senilis	105325365
+arcus zygomaticus	105292350
+arda	108357680
+ardea	102010970
+ardea herodius	102011151
+ardea occidentalis	102011297
+ardeb	113637621
+ardeidae	102010375
+ardennes	108961454
+ardennes counteroffensive	101273600
+ardent	300282208 300889359 301730449
+ardent spirits	107918576
+ardently	400267213
+ardisia	112117697
+ardisia crenata	112117913
+ardisia escallonoides	112118073
+ardisia paniculata	112118073
+ardor	107496515 107559517 107570967
+ardour	107496515 107559517 107570967
+ards	114078534
+arduous	300749470 300840083 300841516
+arduously	400275698
+arduousness	104717035
+are	113635143
+area	102738693 105135784 105229188 105823643 108514304 114537641
+area 17 of brodmann	105502269
+area bombing	100981079
+area code	106366033
+area of cardiac dullness	105398883
+area unit	113621647
+areal	302651154
+areaway	102739401
+areca	112604939
+areca catechu	112605113
+areca nut	107786845
+areca palm	112605113
+arecaceae	112602129
+arecidae	111689024
+areflexia	114429869
+arena	102739516 104303019 108514117 114537641
+arena theater	102739650
+arenaceous	300143308
+arenaceous rock	114721646
+arenaria	102027577 111826306
+arenaria caroliniana	111826838
+arenaria groenlandica	111826688
+arenaria interpres	102027893
+arenaria peploides	111826990
+arenaria serpyllifolia	111827283
+arenaria stricta	111827148
+arenaria-melanocephala	102028043
+arenaviridae	101335723
+arenavirus	101333138
+arendt	110841303
+arenga	112605320
+arenga pinnata	112605476
+arenicolous	302651280
+areola	105562437 105562650
+areolar	302651397
+areolar tissue	105275754
+areolate	302651397
+areopagite	109826802
+areopagus	108181009 108803595
+arequipa	109001960
+arere	112222455
+ares	109578365
+arete	109228397
+areteria cervicalis	105349468
+arethusa	112066329
+arethusa bulbosa	112066497
+argal	102417409
+argali	102417409
+argasid	101782104
+argasidae	101781981
+argemone	111923178
+argemone mexicana	111923451
+argent	115010703 300388453
+argentic	302651559
+argentiferous	301532358
+argentina	102545435 108729807
+argentine	102545589 302978517
+argentine hemorrhagic fever	114096987
+argentine monetary unit	113685553
+argentine republic	108729807
+argentinian	109710545 302978517
+argentinidae	102545229
+argentinosaur	101713801
+argentite	114691064
+argentous	302651663
+argil	114626775
+argillaceous	300143538
+argillaceous rock	114721761
+argillite	114691196
+arginine	114791975
+argiope	101775626
+argiope aurantia	101775798
+argiopidae	101775423
+argive	109826918 303029301
+argle-bargle	107197145
+argo	109228495
+argon	114653098
+argonaut	101973308 109612759 109630812
+argonauta	101973143
+argonauta argo	101973308
+argonautidae	101972983
+argonne	101289924
+argonne forest	101289924
+argonon	114648547
+argos	108804512
+argosy	108403011
+argot	107171981
+arguable	300604761 301804194
+arguably	400005724
+argue	200774234 200774685 200775477
+arguer	110016942
+argufy	200777201
+arguing	107197811
+argument	105781046 105866365 106367706 106479351 106661469 107155686 107197811
+argumentation	105781046 107155686
+argumentative	300606011
+argumentatively	400320223
+argun	109228778
+argun river	109228778
+argus	101806534 109513019
+argus pheasant	101806534
+argus-eyed	300092618 302165853
+argusianus	101806405
+argy-bargy	107197145
+argyle	102739803 102739939 102740171
+argyll	102739803 102739939 102740171
+argynnis	102281253
+argyranthemum	111946189
+argyranthemum frutescens	111946367
+argyreia	112845341
+argyrodite	114691360
+argyrol	103768344
+argyrotaenia	102287423
+argyrotaenia citrana	102287536
+argyroxiphium	111946654
+argyroxiphium sandwicense	111946834
+arhant	109555948
+arhat	109555948
+arhus	108779937
+aria	107063554
+ariadne	109588018
+arial mosaic	103793437
+ariana	109060466
+arianism	106197491
+arianist	109827032
+arianrhod	109531360
+arianrod	109531360
+aricara	106928597 109670161
+arid	300810561 302563185
+aridity	105155433 114560852
+aridness	114560852
+aries	108703867 109229021 109771577
+aries the ram	108703867
+arietta	107063674
+aright	400205350
+ariidae	102523300
+arikara	106928597 109670161
+aril	113111631
+ariled	301699345
+arillate	301699345
+arilus	102247322
+arilus cristatus	102247449
+ariocarpus	111864178
+ariocarpus fissuratus	111864365
+ariomma	102637044
+ariose	301505184
+arioso	107101700
+arisaema	111804792
+arisaema atrorubens	111804966
+arisaema dracontium	111805294
+arisaema triphyllum	111804966
+arisarum	111805569
+arisarum vulgare	111805745
+arise	200018151 200340548 201972576 201987278 202589224 202630344 202631867
+arishth	112717253
+arista	102587799
+aristarchus	109229177 110841471
+aristarchus of samos	110841631
+aristide maillol	111169857
+aristocort	115103335
+aristocracy	108403944 108404938
+aristocrat	109827177
+aristocratic	301594891
+aristocratical	301594891
+aristocratically	400204383
+aristolochia	111821716
+aristolochia clematitis	111821861
+aristolochia durior	111822134
+aristolochia macrophylla	111822134
+aristolochia serpentaria	111822360
+aristolochiaceae	111821507
+aristolochiales	111821268
+aristopak	115103335
+aristophanes	110841815
+aristotelean	109827503 303039979
+aristotelia	112213975
+aristotelia racemosa	112214182
+aristotelia serrata	112214182
+aristotelian	109827503 303039979
+aristotelian logic	105672188
+aristotelianism	105978061
+aristotelic	303039979
+aristotle	110841942
+arithmancy	105784589
+arithmetic	106013397 303056383
+arithmetic mean	106033638
+arithmetic operation	100874219
+arithmetic progression	108477935
+arithmetical	303056383
+arithmetically	400273056
+arithmetician	109827774
+arity	105866558
+arius	102523616 110842171
+arizona	101735987 109079774
+arizona ash	112326787
+arizona cypress	111652305
+arizona elegans	101736107
+arizona sycamore	112828767
+arizona white oak	112290795
+arizona wild cotton	112197972
+arizonan	109760564
+arizonian	109760564
+arjuna	109509911
+ark	102740356 102740472
+ark of the covenant	102740472
+ark shell	101965958
+ark.	109081737
+arkansan	109760662
+arkansas	109081737 109229263
+arkansas kingbird	101551133
+arkansas river	109229263
+arkansawyer	109760662
+arles	113371337
+arlington	109165624
+arm	102740665 102740838 104243483 104572661 105571403 108418205 201089608 202339863
+arm band	102742432
+arm bone	105600772
+arm exercise	100630416
+arm guard	102741864
+arm pad	102741864
+arm's length	105137193
+arm-twisting	107260132
+armada	108309924
+armadillidiidae	101993887
+armadillidium	101994021
+armadillo	102457010
+armageddon	100958451 108523953
+armagnac	107919971
+armament	101159386 102741036
+armamentarium	107969953
+armand jean du plessis	111281473
+armata corsa	108032484
+armature	102741276
+armband	102741454 107277610
+armchair	102741540
+armchair liberal	109827889
+armed	300143675 300146145 300147478
+armed bullhead	102650665
+armed combat	100966454
+armed forces	108215965
+armed forces censorship	100823820
+armed forces day	115214182
+armed islamic group	108032788
+armed robbery	100783566
+armed service	108215077
+armed services	108215965
+armenia	109039896
+armenian	106363524 106955461 109709767 302636065
+armenian alphabet	106363524
+armenian apostolic orthodox church	108099960
+armenian church	108099960
+armenian language	106955461
+armenian monetary unit	113721418
+armenian secret army for the liberation of armenia	108033138
+armeria	112119182
+armeria maritima	112119548
+armerican cheddar	107868895
+armet	102741746
+armful	113786680
+armguard	102891511
+armhole	102741983
+armiger	109828014 109828109
+armilla	102742128 102742253
+armillaria	113252334
+armillaria caligata	113252817
+armillaria ponderosa	113253004
+armillaria zelleri	113253261
+armillariella	113253413
+armillariella mellea	113253677
+armillary	302651769
+armillary sphere	102742253
+armin	110842390
+arming	101159386
+arminian	110758528 302635963
+arminian baptist	108107049
+arminian church	108109156
+arminianism	106239699
+arminius	110842390 110842566
+armistice	113994359
+armistice day	115225731
+armless	300148054
+armlet	102742432
+armlike	300147698
+armoire	102742555
+armor	101905391 102742673 108214682 202346680
+armor plate	102743769
+armor plating	102743769
+armor-bearer	109828109
+armor-clad	300145122
+armor-plated	300145122
+armoracia	111893319
+armoracia rusticana	111893442
+armored	300144857 300148151 301098340
+armored car	102742894 102743066
+armored catfish	102523156
+armored combat vehicle	104396120
+armored dinosaur	101704192
+armored personnel carrier	102743305
+armored scale	102252167
+armored sea robin	102654247
+armored searobin	102654247
+armored vehicle	102743538
+armorer	108082931 109828217 109828372
+armorial	303056573
+armorial bearing	103012169
+armory	102744372 102746212 102746431 105641904
+armour	101905391 102742673 108214682 202346680
+armour plate	102743769
+armour-clad	300145122
+armour-plated	300145122
+armoured	300144857 300148151
+armoured car	102742894 102743066
+armoured combat vehicle	104396120
+armoured personnel carrier	102743305
+armoured vehicle	102743538
+armourer	108082931 109828217 109828372
+armoury	102744372 102746212 102746431 105641904
+armpit	105557209
+armrest	102744480
+arms	103062747 104573543
+arms control	100810146
+arms deal	101112538
+arms industry	108085760
+arms manufacturer	109828557
+arms race	107487948
+arms-runner	110171960
+armstrong	110842803 110842973
+army	108200208 108208160 108411879
+army ant	102223170
+army attache	109828702
+army base	102744592
+army brat	109828850
+army corps	108229448
+army cutworm	102299564
+army engineer	109828961
+army for the liberation of rwanda	108033653
+army high performance computing research center	102744686
+army hut	103555333
+army intelligence	108412639
+army national guard	108413947
+army of muhammad	108042950
+army of the confederacy	108411614
+army of the pure	108047773
+army of the righteous	108047773
+army officer	109829154
+army tank	104396120
+army unit	108207684
+army worm	102300094
+armyworm	102207559 102299946 102300094
+arna wendell bontemps	110876755
+arng	108413947
+arnhem	108970003
+arnica	102744986 111947302 111947978
+arnica bud	112009556
+arnica cordifolia	111947445
+arnica montana	111947684
+arno	109229581
+arno river	109229581
+arnold	110843133 110843364
+arnold daniel palmer	111241640
+arnold gesell	111017230
+arnold joseph toynbee	111367312
+arnold lucius gesell	111017230
+arnold of brescia	110843498
+arnold palmer	111241640
+arnold schoenberg	111305892
+arnold schonberg	111305892
+arnold toynbee	111367312
+arnold-chiari deformity	114237349
+arnoseris	111948085
+arnoseris minima	111948209
+aroeira blanca	112785738
+aroid	111799769 302651852
+arolla pine	111632469
+aroma	104987257 105722413
+aromatherapy	100663439
+aromatic	301056127 302652029
+aromatic aster	111956184
+aromatic compound	114634266
+aromatic hydrocarbon	114792175
+aromatise	202130847
+aromatize	202130847
+arouet	111388633
+around	400007414 400071450 400071565 400071856 400072001 400072141 400072240 400072443 400072601 400072729
+around the bend	302082059

@@ -1,0 +1,1000 @@
+115290234	a flexible tempo; not strictly on the beat
+115290329	the time at which something is supposed to begin
+115290845	an early period of development
+115290975	earliest limiting point
+115291076	the tenure of a president
+115291379	the tenure of a vice president
+115291496	time between the beginning and the end of a temporal period
+115291722	the point in time at which something ends
+115292202	the central and most intense or profound part
+115292365	the temporal end; the concluding time
+115292774	an opening time period
+115292923	a later concluding time period
+115293068	(cease' is a noun only in the phrase without cease') end
+115293196	the time of the last part of something
+115293376	the end of a century, especially the 19th century
+115293504	the point of death or exhaustion or completion
+115293639	a coming to an end of a contract period
+115293814	final or latest limiting point
+115293950	the starting point for a new state or experience
+115294085	(computer science) the time it takes for a read/write head to move to a specific data track
+115294288	(computer science) the time it takes for a read/write head to move to an adjacent data track
+115294470	a definite length of time marked off by two instants
+115294953	(electronics) the time required for the current or voltage in a circuit to rise or fall exponentially through approximately 63 per cent of its amplitude
+115295202	a time assigned on a schedule or agenda
+115295388	a period of time considered as a resource under your control and sufficient to accomplish something
+115295683	interval between the moon's transit of a particular meridian and the next high tide at that meridian
+115295848	the time interval during which something or somebody is away
+115295994	a time interval during which there is a temporary cessation of something
+115296403	a break or intermission in the occurrence of something
+115296605	a suspension of radio or tv broadcasting
+115296718	a pause or interruption (as in a conversation)
+115296887	an inadvertent interruption in a broadcast during which there is no sound
+115297015	time during which some action is awaited
+115297368	a mutually agreed delay in the date set for the completion of a job or payment of a debt
+115297557	an intermission between the first and second half of a game
+115297671	an intervening period or episode
+115297777	the interlude between two acts of a play
+115297873	the time between one event, process, or period and another
+115298087	the time that elapses before the presence of a disease is manifested by symptoms
+115298227	the time that elapses between a stimulus and the response to it
+115298392	a seemingly endless time interval (waiting)
+115298508	the time between two reigns, governments, etc.
+115298612	a period of time spent sleeping
+115298861	sleep before midnight
+115298941	sleep
+115299060	a pause for relaxation
+115299291	a brief suspension of play
+115299427	a pause during which things are calm or activities are diminished
+115299681	a short respite
+115299849	the period of time during which a contract conveying property to a person is in effect
+115300080	the time required for something to fall to half its initial value (in particular, the time for half the atoms in a radioactive substance to disintegrate)
+115300301	the time constant of an exponential return of a system to equilibrium after a disturbance
+115300452	a legally authorized postponement before some obligation must be discharged
+115300584	the extent to which something is delayed or held back
+115300713	there are usually two high and two low tides each day
+115300837	(physics) a rate of increase of velocity
+115301009	the acceleration toward the center that holds a satellite in elliptical orbit
+115301157	(physics) a rate of decrease in velocity
+115301293	the rate of shrinkage in size or number
+115301413	the ratio of live births in an area to the population of that area; expressed per 1000 population per year
+115301628	(computer science) the rate at which data is transferred (as by a modem)
+115301787	the ratio of crimes in an area to the population of that area; expressed per 1000 population per year
+115301945	the rate at which circuits or other devices operate when handling digital information
+115302104	the ratio of deaths in an area to the population of that area; expressed per 1000 per year
+115302344	the quantity of radiation absorbed per unit time
+115302448	the rate at which red blood cells settle out in a tube of blood under standardized conditions; a high rate usually indicates the presence of inflammation
+115302716	the amount of fluid that flows in a given time
+115302912	the amount of blood pumped out by the ventricles in a given period of time
+115303118	the rate of flow of energy or particles across a given surface
+115303267	the number of occurrences within a given time period
+115303677	1,000,000,000 periods per second
+115303811	the rate of increase in size per unit time
+115303946	the growth rates in different parts of a growing organism are the same
+115304090	the unit of frequency; one hertz has a periodic interval of one second (named for Heinrich Rudolph Hertz)
+115304320	the rate of change of prices (as indicated by a price index) calculated on a monthly or annual basis
+115304501	(mechanics) the rate of change of acceleration
+115304617	(of ships and wind) a unit of speed equal to one nautical mile per hour or about 1.15 statute miles per hour
+115304776	one thousand periods per second
+115304947	the ratio of the distance traveled (in kilometers) to the time spent traveling (in hours)
+115305175	one million periods per second
+115305326	one trillion periods per second
+115305419	rate of metabolism; the amount of energy expended in a give period
+115305564	the ratio of the distance traveled (in miles) to the time spent traveling (in hours)
+115305715	the rate of moving (especially walking or running)
+115305913	the rate at which the heart beats; usually measured to obtain a quick evaluation of a person's health
+115306182	pulse of the femoral artery (felt in the groin)
+115306289	pulse of the radial artery (felt in the wrist)
+115306394	the amount returned per unit of time expressed as a percentage of the cost
+115306547	(corporate finance) the amount, expressed as a percentage, that is earned on a company's total capital calculated by dividing the total capital into earnings before interest, taxes, or dividends are paid
+115306871	the rate at which a person inhales and exhales; usually measured to obtain a quick evaluation of a person's health
+115307088	rate of revolution of a motor
+115307250	(telecommunication) the frequency of sampling per unit time
+115307406	(telecommunication) the lowest sampling rate that will permit accurate reconstruction of a sampled analog signal
+115307596	the rate at which radiant solar energy is received at the outer layer of the earth's atmosphere
+115307752	the time between occurrences of a repeating event
+115307914	distance travelled per unit time
+115308315	the rate of some repeating event
+115308442	a normal marching pace of 120 steps per minute
+115308545	a fast marching pace (180 steps/min) or slow jog
+115308651	the speed of an aircraft relative to the air in which it is flying
+115308772	the minimum velocity needed to escape a gravitational field
+115308893	the speed of an aircraft relative to the ground
+115308998	excessive velocity
+115309138	the velocity of a projectile as it leaves the muzzle of a gun
+115309261	velocity with respect to the local standard of rest
+115309376	velocity along the line of sight toward or away from the observer
+115309503	the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second
+115309771	(nautical) the minimum rate of motion needed for a vessel to be maneuvered
+115309922	the constant maximum velocity reached by a body falling through the atmosphere under the attraction of gravity
+115310096	a speedometer reading for the momentary rate of travel
+115310217	the frequency with which a person is present
+115310398	frequency per minute
+115310497	(telecommunication) the frequency of sampling a continuously varying signal
+115310674	(telecommunication) twice the maximum frequency occurring in the transmitted signal
+115310840	the death rate during the first year of life
+115310990	the death rate during the first 28 days of life
+115311128	the rate at which words are produced (as in speaking or typing)
+115311260	the pace of music measured by the number of beats occurring in 60 seconds
+115311467	a magnitude or frequency relative to a time unit
+115312309	the maximum data rate that can be attained over a given channel
+115312435	the rate of flow of neutrons; the number of neutrons passing through a unit area in unit time
+115312587	the rate of flow of radiant energy (electromagnetic waves)
+115312722	the rate of flow of light energy
+115312814	(pathology) the phase in the development of an infection between the time a pathogen enters the body and the time the first symptoms appear
+115313066	an interval during which a recurring sequence of events occurs
+115313347	a recurring cycle (beginning at menarche and ending at menopause) in which the endometrial lining of the uterus prepares for pregnancy; if pregnancy does not occur the lining is shed at menstruation
+115313725	the time in the menstrual cycle when fertilization is most likely to be possible (7 days before to 7 days after ovulation)
+115313943	the phase of the menstrual cycle during which the lining of the uterus is shed (the first day of menstrual flow is considered day 1 of the menstrual cycle)
+115314179	an annual phase of heightened sexual excitement in the males of certain large mammals (especially elephants); is associated with discharge from a gland between the eye and ear
+115314444	the second half of the menstrual cycle after ovulation; the corpus luteum secretes progesterone which prepares the endometrium for the implantation of an embryo; if fertilization does not occur then menstrual flow begins
+115314760	the time interval between the initiation and the completion of a production process
+115315015	the interval taken to complete one cycle of a regularly repeating phenomenon
+115315180	the time it takes to complete one full orbit around a celestial body
+115315368	a particular point in the time of a cycle; measured from some arbitrary zero and expressed as an angle
+115315573	any distinct time period in a sequence of events
+115316166	a stage of technological development or innovation
+115316346	occurring in more than one stage
+115316435	a final climactic stage
+115316652	any time of new development
+115316734	the term during which some position is held
+115316950	the term of office of a bishop
+115317037	the time period during which you are at work
+115317305	a time period for working (after which you will be relieved by someone else)
+115317503	a period of work or duty
+115317579	a period of time (4 or 2 hours) during which some of a ship's crew are on duty
+115317745	the period during which someone (especially a guard) is on duty
+115317860	either of two short watches: from 4-6 pm or 6-8 pm
+115317965	the work shift during the day (as 8 a.m. to 4 p.m.)
+115318072	the work shift during the evening (as 4 p.m. to midnight)
+115318203	the work shift during the night (as midnight to 8 a.m.)
+115318334	a working shift divided into two periods of time with several hours in between
+115318470	a period of time during which there is no war
+115318571	a period of time during which there is armed conflict
+115318678	a watch during the night (as from midnight to 8 a.m.)
+115318833	a period of time spent in military service
+115319031	the early (usually calm and harmonious) period of a relationship; business or political
+115319174	a 15-year cycle used as a chronological unit in ancient Rome and adopted in some medieval kingdoms
+115319328	the time interval between the deposit of a check in a bank and its payment
+115319454	a period during the 1930s when there was a worldwide economic depression and mass unemployment
+115319625	the period from 1920 to 1933 when the sale of alcoholic beverages was prohibited in the United States by a constitutional amendment
+115319850	the period between infection and the appearance of symptoms of the disease
+115319988	a (future) time of financial need
+115320127	the period during which you are a novice (especially in a religious order)
+115320288	the period of greatest prosperity or productivity
+115320510	a time period when some activity or skill was at its peak
+115320659	the duration of a monarch's or government's power
+115320846	the period from 1811-1820 when the Prince of Wales was regent during George III's periods of insanity
+115321021	the length of time that a movie or tv show runs
+115321127	the point in time at which an entertainment (a movie or television show etc.) is scheduled to begin
+115321282	that time during a woman's menstrual cycle during which conception is least likely to occur (usually immediately before of after menstruation)
+115321501	a feast day and the seven days following it
+115321597	that time; that moment
+115321732	(Judaism) a period of seven days of mourning after the death of close relative
+115321930	(astronomy) an arbitrarily fixed date that is the point in time relative to which information (as coordinates of a celestial body) is recorded
+115322163	the time it takes for a sample of blood to clot; used to diagnose some clotting disorders
+115322312	(computer science) the time it takes for a specific block of data on a data track to rotate around to the read/write head
+115322546	a trial period during which an offender has time to redeem himself or herself
+115322715	a trial period during which your character and abilities are tested to see whether you are suitable for work or for membership
+115322915	the time it takes to complete a prescribed procedure
+115323102	the time period during which military and civilian agencies are prepared for an enemy air attack
+115323254	(computer science) the processing time required by a device prior to the execution of a command
+115323526	the period from 1378 to 1417 during which there were two papacies in the Roman Catholic Church, one in Rome and one in Avignon
+115323750	a period during a parliamentary session when members of British Parliament may ask questions of the ministers
+115323938	(computer science) the time it takes for a process under computer control to occur
+115324095	the actual time that it takes a process to occur
+115324238	the period of time during which a regent governs
+115324340	a spell of cold weather
+115324468	a period of time during the school day that is set aside for study
+115324610	(Christianity) a church festival held in commemoration of the Transfiguration of Jesus
+115324828	the period of time permitted by commercial usage for the payment of a bill of exchange (especially a foreign bill of exchange)
+115325026	the time period that is considered best for starting or finishing something
+115325294	the day in 2001 when Arab suicide bombers hijacked United States airliners and used them as bombs
+200001740	draw air into, and expel out of, the lungs
+200002325	undergo the biomedical and metabolic processes of respiration by taking up oxygen and producing carbon monoxide
+200002573	breathe easily again, as after exertion or anxiety
+200002724	breathe with great difficulty, as when experiencing a strong emotion
+200002942	breathe excessively hard and fast
+200003133	produce hyperventilation in
+200003316	inhale (air, water, etc.)
+200003443	expel gas from the stomach
+200003662	emit or cause to move with force of effort
+200003826	breathe spasmodically, and make a sound
+200004032	heave or utter a sigh; breathe deeply and heavily
+200004227	expel air
+200004492	keep from exhaling or expelling
+200004605	give out (breath or an odor)
+200004819	exhale spasmodically, as when an irritant entered one's nose
+200005041	draw in (air)
+200005526	breathe noisily, as when one is exhausted
+200005815	exhale abruptly, as when one has a chest cold or congestion
+200006100	cough spasmodically
+200006238	discharge (phlegm or sputum) from the lungs and out of the mouth
+200006523	make a snorting sound by exhaling hard
+200006697	breathe with difficulty
+200006802	blow hard and loudly
+200007012	exhale hard
+200007193	blow or breathe hard on or into
+200007328	utter a yawn, as from lack of oxygen or when one is tired
+200007549	inhale audibly through the nose
+200007739	briefly shut the eyes
+200008055	wink or blink, especially repeatedly
+200008195	wink briefly
+200008299	signal by winking
+200008435	keep back by blinking
+200008595	cross one's eyes as if in strabismus
+200008792	partly close one's eyes, as when hit by direct blinding light
+200008970	make a face indicating disgust or dislike
+200009140	cast off hair, skin, horn, or feathers
+200009485	peel off in scales
+200009624	make an uncontrolled, short, jerky motion
+200009877	make fine, irregular, rapid twitching movements
+200010047	move in an uncontrolled manner
+200010234	act in an uncontrolled manner
+200010428	behave in a certain manner; show a certain behavior; conduct or comport oneself
+200011354	try very hard to please someone
+200011544	take liberties or act with too much confidence
+200011691	act in a vulgar manner
+200011845	act as an optimist and take a sunny view of the world
+200011975	act as a medical quack or a charlatan
+200012130	act in a threatening manner
+200012260	act in a certain way so as to acquire
+200012427	act in an arrogant, overly self-assured, or conceited manner
+200012606	suddenly behave coldly and formally
+200012746	behave extremely cruelly and brutally
+200012847	act in a romantic way
+200012937	act in a sentimental way or indulge in sentimental thoughts or expression
+200013165	spoil by behaving clumsily or foolishly
+200013321	engage in an activity as if it were a game rather than take it seriously
+200013608	pretend to have certain qualities or state of mind
+200013851	act as a stooge, in a compliant or subordinate manner
+200014027	move with or as if with a tremor
+200014194	shake, as from cold
+200014398	be at rest
+200014542	be in a state of action
+200014735	be asleep
+200015156	sleep fully clothed in the same bed with one's betrothed
+200015296	sleep lightly or for a short period of time
+200015491	take a siesta
+200015706	sleep longer than intended
+200015799	sleep later than usual or customary
+200015939	sleep during winter
+200016176	sleep during summer
+200016373	be on the verge of sleeping
+200016566	be almost asleep
+200016695	let the head fall forward through drowsiness
+200016848	fall asleep fast, as when one is extremely tired
+200017024	breathe noisily during one's sleep
+200017275	change from a waking to a sleeping state
+200017524	go to bed
+200017667	sleep in a convenient place
+200017858	prepare for sleep
+200018151	get up and out of bed
+200018398	cause to rise
+200018519	stop sleeping
+200018806	cause to become awake or conscious
+200019175	awaken once again
+200019266	make fall asleep
+200019441	act physically on; have an effect upon
+200019785	begin to injure
+200019975	affect with an ulcer
+200020126	be awake, be alert, be there
+200020252	not go to bed
+200020442	prevent from going to bed at night
+200020664	induce hypnosis in
+200020919	put into a trance
+200021058	administer an anesthetic drug to
+200021547	anesthetize with ether
+200021672	anesthetize with cocaine
+200021819	anesthetize with chloroform
+200021990	anesthetize by cold
+200022092	return to consciousness
+200022309	cause to be calm or quiet as by administering a sedative to
+200022679	cause to be alert and energetic
+200023237	deprive of energy
+200023373	inject with libidinal energy
+200023466	gain or regain energy
+200023639	pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain
+200023861	lose consciousness due to a sudden trauma, for example
+200024040	return to consciousness
+200024272	give new life or energy to
+200024642	make fresh again
+200024807	become or make oneself fresh again
+200025027	wash one's face and hands
+200025196	cause to be tense and uneasy or nervous or anxious
+200025503	twist (a body part) into a strained position
+200025647	cause to feel relaxed
+200025978	release from mental strain, tension, or formality
+200026146	become tense, nervous, or uneasy
+200026378	become less tense, rest, or take one's ease
+200026727	engage in passive relaxation
+200026934	settle into a comfortable sitting position
+200027057	make one's body limber or suppler by stretching, as if to prepare for strenuous physical activity
+200027261	extend one's limbs or muscles, or the entire body
+200027563	stretch out completely
+200027698	thrust or extend out
+200028003	extend a joint beyond its normal range
+200028160	stretch (the neck) so as to see better
+200028355	impart vigor, strength, or vitality to
+200028558	change one's facial expression by spreading the lips, often to signal pleasure
+200028869	produce dimples while smiling
+200029018	to draw back the lips and reveal the teeth, in a smile, grimace, or snarl
+200029207	smile radiantly; express joy through one's facial expression
+200029329	smile affectedly or derisively
+200029511	to smirk contemptuously
+200029623	laugh loudly and harshly
+200029735	laugh a deep, hearty laugh
+200029829	laugh unrestrainedly and heartily
+200030003	laugh quietly
+200030135	laugh nervously
+200030359	laugh unrestrainedly
+200030456	weaken or destroy in spirit or body
+200030640	collapse due to fatigue, an illness, or a sudden attack
+200030846	rapidly collapse, die, or drop out in large numbers
+200031061	suffer from sudden painful contraction of a muscle
+200031174	affect with or as if with a cramp
+200031270	fall forward and down
+200031411	emit a loud, unpleasant kind of laughing
+200031533	laugh boisterously
+200031656	laugh quietly or with restraint
+200031813	produce laughter
+200032290	be overcome with laughter
+200032407	laugh loudly and in an unrestrained way
+200032532	smile contemptuously
+200032771	express through a scornful smile
+200032974	look angry or sullen, wrinkle one's forehead, as if to signal disapproval
+200033196	look at with a fixed gaze
+200033399	fixate one's eyes
+200033592	have a certain outward or facial expression
+200033845	frown with displeasure
+200033948	raise one's shoulders to indicate indifference or resignation
+200034108	clap one's hands together
+200034281	contort the face to indicate a certain mental or emotional state
+200034627	twist into a strained configuration
+200034751	make a sad face and thrust out one's lower lip
+200034941	free of obstruction by blowing air through
+200035082	clear mucus or food from one's throat
+200035252	take a shower; wash one's body in the shower
+200035441	bathe with warm water or medicated lotions
+200035596	cleanse the entire body
+200035769	clean one's body or parts thereof, as by washing
+200036171	to cleanse (itself or another animal) by licking
+200036355	cleanse (one's body) with soap and water
+200036678	wash with a sponge
+200036773	wash thoroughly
+200036925	rub soap all over, usually with the purpose of cleaning
+200037131	rinse one's mouth and throat with mouthwash
+200037291	remove body hair with a razor
+200037507	remove body hair
+200037673	shave with a razor
+200037772	shave the head of a newly inducted monk
+200037912	direct a spray of water into a bodily cavity, for cleaning
+200038078	smoothen and neaten with or as with a comb
+200038400	give a smooth and glossy appearance
+200038562	arrange attractively
+200038834	cut hair in the style of a bob
+200038980	style women's hair in a pompadour
+200039098	make a marcel in a woman's hair
+200039201	set waves in
+200039393	make wavy with a heated goffering iron
+200039537	give a permanent wave to
+200039663	apply a styling gel to
+200039815	apply pomade to (hair)
+200039919	ruffle (one's hair) by combing the ends towards the scalp, for a full effect
+200040084	care for one's external appearance
+200040497	make oneself clean, presentable or neat
+200040659	apply make-up or cosmetics to one's face to appear prettier
+200040937	apply a highlighter to one's cheeks or eyebrows in order to make them more prominent
+200041148	apply lipstick to
+200041285	redden by applying rouge to
+200041418	apply conditioner to in order to make smooth and shiny
+200041597	use dental floss to clean
+200041748	use shampoo on (hair)
+200041904	apply powder to
+200042095	apply talcum powder to (one's body)
+200042210	care for (one's hand) by cutting and shaping the nails, etc.
+200042372	trim carefully and neatly
+200042523	perform the services of a barber: cut the hair and/or beard of
+200042667	care for one's feet by cutting and shaping the nails, etc.
+200042809	use special care in dressing, making-up, etc.
+200043009	dress and groom with particular care, as for a special occasion
+200043211	apply perfume to
+200043414	dress or groom with elaborate care
+200043643	dress up showily
+200043768	dress up in a cheap and provocative way
+200043880	put on special clothes to appear particularly appealing and attractive
+200044528	dress in a certain manner
+200044795	adorn with a robe
+200044876	dress primly
+200044971	dress up garishly and tastelessly
+200045077	dress informally and casually
+200045263	dress very carefully and in a finicky manner
+200045370	give a neat appearance to
+200045548	take off weight
+200045739	lose weight by sweating
+200045868	increase (one's body weight)
+200046099	become round, plump, or shapely
+200046251	put on clothes
+200046749	dress warmly
+200046889	put on or wear a hat
+200047034	put on a garment in order to see whether it fits and looks nice
+200047228	dress in a bonnet
+200047327	have or show an appearance of
+200047462	have on one's person
+200047662	provide with clothes or put clothes on
+200048350	clothe, as if for protection from the elements
+200048507	put a jacket on
+200048629	put a frock on
+200048724	put a shirt on
+200048819	put a habit on
+200048914	provide or cover with a cloak
+200049026	dress too warmly
+200049200	dress without sufficient warmth
+200049386	dress with a corset
+200049487	furnish with shoes
+200049617	get undressed
+200050032	take off, as with some difficulty
+200050171	remove clothes
+200050369	put clothing on one's body
+200050777	wrap in or adorn with a scarf
+200050887	put on with ease or speed
+200051087	take off with ease or speed
+200051228	cover or provide with a coat
+200051354	dress in the clothes of the other sex
+200051478	dress in a costume
+200051659	dress like a dandy
+200051760	clothe formally; especially in ecclesiastical robes
+200051970	clothe oneself in ecclesiastical garments
+200052091	be dressed in
+200052265	introduce semen into (a female)
+200052562	render fertile and preserve by placing between layers of earth or sand
+200052752	show signs of life
+200052876	make pregnant
+200053058	fertilize and cause to grow
+200053234	impregnate with the virus or germ of a disease in order to render immune
+200053373	cause to undergo cross-fertilization
+200053606	undergo cross-fertilization; become fertile
+200053776	fertilize by transfering pollen
+200054002	become pregnant; undergo conception
+200054252	mate successfully; of livestock
+200054345	make (offspring) by reproduction
+200054724	eject semen
+200054856	have offspring or produce more individuals of a given animal or plant
+200055281	multiply sexually or asexually
+200055451	propagate asexually
+200055613	cause to propagate, as by grafting or layering
+200055835	insert a bud for propagation
+200055930	bear fruit
+200056076	have young (animals) or reproduce (organisms)
+200056303	breed freely and abundantly
+200056397	lay spawn
+200056543	spawn
+200056644	cause to be born
+200057124	be in confinement for childbirth
+200057220	undergo the efforts of childbirth
+200057379	give birth to twins
+200057478	give birth; used for animals
+200057609	give birth to a foal
+200057728	give birth to cubs
+200057849	give birth to kittens
+200057988	give birth to a lamb
+200058124	give birth to a litter of animals
+200058239	give birth to (a puppy)
+200058386	give birth to (piglets)
+200058548	have fawns
+200058651	give birth to (a calf)
+200058790	be pregnant with
+200059147	look forward to the birth of a child
+200059330	carry out a pregnancy
+200059540	suffer a miscarriage
+200059670	terminate a pregnancy by undergoing an abortion
+200059834	cease development, die, and be aborted
+200059956	sit on (eggs)
+200060248	remove the ovaries of
+200060472	remove the ovaries of (female mammals such as cats)
+200060604	remove the testicles of a male animal
+200060850	convert a cock into a capon
+200060990	cut off the testicles (of male animals such as horses)
+200061172	remove the vas deferens
+200061366	make infertile
+200061704	perform cosmetic surgery on someone's face
+200061838	operate on with a trephine
+200061974	undergo menstruation
+200062168	produce and discharge eggs
+200062353	make free from bacteria
+200062545	disinfect with an antiseptic
+200062744	subject to the action of an autoclave
+200062866	emerge from the eggs
+200063062	excite to an abnormal condition, or chafe or inflame
+200063328	become inflamed; get sore
+200063495	cause inflammation in
+200063687	cause to feel better
+200063866	provide physical relief, as from pain
+200064258	give a massage to
+200064414	give trouble or pain to
+200064660	cause to feel unwell
+200064841	feel pain or be in pain
+200065141	suffer from; be ill with
+200065266	be healthy; feel good
+200065410	undergo (as of injuries and illnesses)
+200065796	cry weakly or softly
+200065962	shed tears because of sadness, rage, or pain
+200066456	bring into a particular state by crying
+200066633	cry loudly
+200066748	fill with tears or shed tears
+200066900	weep convulsively
+200067045	cry or whine with snuffling
+200067316	excrete perspiration through the pores in the skin
+200067621	conceive when a fetus is already present in the uterus
+200067770	release (a liquid) in drops or small quantities
+200068238	give off (a liquid)
+200068398	be wet with sweat or blood, as of one's face
+200068511	give off (water) through the skin
+200068629	geology: cause molten material, such as lava, to pour forth
+200068783	exude profusely
+200068937	exude or form gum
+200069066	generate and separate from cells or bodily fluids
+200069341	secrete or form water, as tears or saliva
+200069518	suffer from intense heat
+200069650	cause injuries or bodily harm to
+200070210	injure by trampling or as if by trampling
+200070404	injure the brain; sustain a concussion
+200070507	injure with a calk
+200070587	cause bodily suffering to and make sick or indisposed
+200070808	not be very easily digestible
+200070949	subject to torture
+200071300	torture on the rack
+200071399	torture and torment like a martyr
+200071556	strain abnormally
+200071765	eliminate urine
+200072339	pass after the manner of urine
+200072483	make one's bed or clothes wet by urinating
+200072650	urinate, of cattle and horses
+200072742	eliminate from the body
+200073096	excrete or discharge from the body
+200073337	empty or clean (a body cavity) by the force of suction
+200073566	excrete or evacuate (someone's bowels or body)
+200073791	have a bowel movement
+200074206	defecate; used of animals
+200074311	cause to be constipated
+200074483	constipate severely
+200074587	lose blood from one's body
+200074774	exhaust or get tired through overuse or great strain or stress
+200075174	wear out completely
+200075461	exhaust physically or emotionally
+200075628	exhaust by allowing to pull on the line
+200075751	tire excessively
+200075867	lose interest or become bored with something or somebody
+200076153	eject the contents of the stomach through the mouth
+200076824	eject or send out in large quantities, also metaphorical
+200077122	manage not to throw up
+200077211	make an unsuccessful effort to vomit; strain to vomit
+200077359	cause to retch or choke
+200077451	struggle for breath; have insufficient oxygen intake
+200077703	constrict (someone's) throat and keep from breathing
+200077891	be cold
+200078069	be uncomfortably hot
+200078154	feel unwell or uncomfortable
+200078331	grind together, of teeth
+200078418	be ill or unwell
+200078513	provide treatment for
+200079223	treat a defect
+200079382	treat by blowing a powder or vapor into a bodily cavity
+200079541	treat for alcohol or drug dependence
+200079704	supply with a constant flow or sprinkling of some liquid, for the purpose of cooling, cleansing, or disinfecting
+200079922	treat with iodine so as to prevent infection
+200080057	give medical treatment to
+200080209	provide veterinary care for
+200080342	provide (a person) with medical care
+200080458	try to cure by special care of treatment, of an illness or injury
+200080682	treat manually, as with massage, for therapeutic purposed
+200080825	give or apply (medications)
+200081120	give a transfusion (e.g., of blood) to
+200081262	administer digitalis such that the patient benefits maximally without getting adverse effects
+200081478	provide a cure for, make healthy again
+200081834	improve the condition of
+200082061	lessen pain or discomfort; alleviate
+200082316	provide relief for
+200082467	apply a bandage or medication to
+200082682	dress by covering with a therapeutic substance
+200082877	dress by covering or binding
+200083087	bind with a bandage or ligature
+200083276	secure (a sprained joint) with a strap
+200083414	support with a splint
+200083562	perform surgery on
+200083860	practice venesection
+200083983	treat medicinally, treat with medicine
+200084315	impregnate with a medicinal substance
+200084491	administer a drug to
+200084799	give a narcotic to
+200084999	dope (a racehorse)
+200085106	dose too heavily
+200085259	administer narcotics to
+200085379	administer an oil or ointment to; often in a religious ceremony of blessing
+200085659	apply a salve to, usually for the purpose of healing
+200085829	draw blood
+200086072	give an injection to
+200086350	introduce into the body through a vein, for therapeutic purposes
+200086587	perform vaccinations or produce immunity in by inoculation
+200087042	treat by applying evacuated cups to the patient's skin
+200087206	get sick
+200087405	become pale and sickly
+200087488	be stricken by an illness, fall victim to an illness
+200087740	contract
+200087872	come down with a cold
+200087961	make sick or ill
+200088091	administer poison to
+200088284	have an intoxicating effect on, of a drug
+200088465	contaminate with a disease or microorganism
+200088724	infect (an infected cell) further or infect a cell already containing similar organisms
+200088906	affect with smut or mildew, as of a crop such as corn
+200089076	destroy microorganisms or pathogens by cleansing
+200089354	disinfect with chlorine
+200089502	communicate a disease to
+200089725	infect with a canker
+200089827	become infected with a canker
+200089938	inflict a trauma upon
+200090138	subject to electrical shocks
+200090265	stimulate (muscles) by administering a shock
+200090460	destroy or injure severely
+200090640	injure or wound seriously and leave permanent disfiguration or mutilation
+200090876	twist suddenly so as to sprain
+200091265	sprain or dislocate slightly
+200091399	deprive of the use of a limb, especially a leg
+200091603	cripple by cutting the hamstring
+200091720	injure permanently
+200091956	disable by cutting the hock
+200092045	grow worse
+200092442	get over an illness or shock
+200092772	recover quickly
+200092915	restore to good health or strength
+200093079	go back to bad behavior
+200093345	become feeble
+200093529	become physically weaker
+200093733	undergo atrophy
+200093907	undergo hypertrophy
+200094066	grow feathers
+200094214	come to have or undergo a change of (physical features and attributes)
+200094766	grow anew or continue growth after an injury or interruption
+200095025	develop suddenly
+200095131	put forth and grow sprouts or shoots
+200095349	grow shoots in the form of stools or tillers
+200095501	produce leaves, of plants
+200095624	produce pods, of plants
+200095744	grow teeth; cut the baby teeth
+200095890	grow through the gums
+200096018	undergo ankylosis
+200096150	produce ankylosis by surgery
+200096274	develop into a pupa
+200096402	develop
+200096520	ripen and generate pus
+200096783	cause to localize at one point
+200096933	cause to ripen and discharge pus
+200097148	undergo necrosis
+200097375	restore strength
+200097535	become young again
+200097695	undergo regeneration
+200097837	cause to regain consciousness
+200098100	cause to load (an operating system) and start the initial processes
+200098271	cause to become alive again
+200098524	return from the dead
+200098717	form a scab
+200098843	grow new skin over an injury
+200098938	get healthy again
+200099128	form granulating tissue
+200099271	use up all one's strength and energy and stop working
+200099475	do physical exercise
+200099798	exercise in order to prepare for an event or competition
+200099989	do gymnastics, roll and turn skillfully
+200100164	execute a roll, in tumbling
+200100305	give a workout to
+200100659	cause to do preliminary exercises so as to stretch the muscles
+200100891	cause to become limber
+200101031	give a healthy elasticity to
+200101188	extend one's body or limbs
+200101383	expel intestinal gases through the anus
+200101533	snuff up mucus through the nose
+200101710	expel or eject (saliva or phlegm or sputum) from the mouth
+200102057	spit up in an explosive manner
+200102174	strike (one's toe) accidentally against an object
+200102340	cause or do harm to
+200102545	produce saliva
+200102728	let saliva drivel from the mouth
+200103071	turn red, as if in embarrassment or shame
+200103373	turn pale, as if in fear
+200103495	make pale or sickly
+200103629	get a tan, from wind or sun
+200103780	get a tan from being exposed to the sun
+200103901	expose one's body to the sun
+200104053	get a sunburn by overexposure to the sun
+200104219	become systemic and spread throughout the body
+200104421	spread throughout the body
+200104622	eliminate (a substance)
+200105087	expel (gases or odors)
+200105308	act in a funny or teasing way
+200105532	act as or like a clown
+200105712	be conscious of a physical, mental, or emotional state
+200105971	be in excellent health and spirits
+200106166	feel uncomfortable for lack of fresh air
+200106346	dress in a gown
+200106477	affect with, or as if with, jaundice
+200106597	act in a trivial or ineffective way
+200106714	injure or kill by knocking (someone or something) down and passing over the body, as with a vehicle
+200106914	gain (weight)
+200107035	rouse somebody from sleep with a call
+200107173	behave in a certain way
+200107272	begin or appear to begin an action
+200107408	diminish or discontinue abruptly
+200107543	fracture a bone of
+200107747	break (a bone)
+200107925	break (a bone) that was previously broken but mended in an abnormal way
+200108107	become fractured
+200108279	have grow through the gums
+200108408	proffer (a body part)
+200108551	consent to engage in sexual intercourse with a man
+200108713	treat the body or any part of it by wrapping it, as with blankets or sheets, and applying compresses to it, or stuffing it to provide cover, containment, or therapy, or to absorb blood
+200109067	inhale (something) through the nose
+200109197	exude or expel foam
+200109348	exude sweat or lather
+200109468	undergo a change; become different in essence; losing one's or its original nature
+200113228	pass from one quality such as color to another by a slight degree
+200113413	vary slightly
+200113536	become a gel
+200113661	become brutal or insensitive and unfeeling
+200113860	make brutal, unfeeling, or inhuman
+200114099	convert to caramel
+200114289	convert (an image) into pixels
+200114423	be converted into caramel
+200114645	change in nature, purpose, or function; undergo a chemical change
+200114965	change the nature, purpose, or function of something
+200115887	convert (plant remains) into humus
+200116011	convert into a verb
+200116173	develop into a creole
+200116304	convert into spores
+200116427	convert into the form or the style of a novel
+200116696	convert (metallic mercury) into a grey powder consisting of minute globules, as by shaking with chalk or fatty oil
+200116893	replace or convert into opal
+200117038	make opalescent
+200117154	convert into sounds or pictures
+200117306	convert back
+200117432	convert into malt
+200117565	convert grain into malt
+200117686	turn into malt, become malt
+200117793	stay the same; remain in a certain state
+200118243	remain outside
+200118331	exist over a prolonged period of time
+200118572	keep informed
+200118730	maintain the same position; wait it out
+200118882	become distinct and acquire a different character
+200119074	evolve so as to lead to a new species or develop in a way most suited to the environment
+200119332	become different during development
+200119533	lose specialization in form or function
+200119681	undergo mutation
+200119903	change venous blood into arterial blood
+200120025	undergo reversion, as in a mutation
+200120124	give certain properties to something
+200120483	cause to become
+200120604	cause to move; cause to be in a certain position or condition
+200120854	undergo
+200121022	do something in turns
+200121195	take turns working
+200121314	go back and forth; swing back and forth between two states or conditions
+200121486	reverse (a direction, attitude, or course of action)
+200121734	cause to change places
+200121905	make vascular
+200122097	to roast or calcine so as to cause to crackle or until crackling stops
+200122293	undergo decrepitation and crackle
+200122456	to become, or to cause to become, covered with a network of small cracks
+200122661	make suburban in character
+200122826	take on suburban character
+200122978	become different in some particular way, without permanently losing one's or its former characteristics or essence
+200123702	vary the frequency, amplitude, phase, or other characteristic of (electromagnetic waves)
+200123882	to modify microorganisms by repeated culture in the developing chick embryo
+200124034	modify to achieve maximum efficiency in storage capacity or time or cost
+200124250	go or proceed from one point to another
+200124467	move or proceed as if by steps into a new situation
+200124662	move through text or graphics in order to display parts that do not fit on the screen
+200124886	show certain properties when being rolled
+200125097	take the shape of a roll or cylinder
+200125255	become glassy or take on a glass-like appearance
+200125441	change radically
+200125649	pass into a condition gradually, take on a specific property or attribute; become
+200125951	grow bald; lose hair on one's head
+200126072	cause to change; make different; cause a transformation
+200133786	debase through carnal gratification
+200133944	bleach and alter the natural development of (a green plant) by excluding sunlight
+200134136	make crude or savage in behavior or speech
+200134372	become crude or savage or barbaric in behavior or language
+200134545	make (a substance) alkaline
+200134706	become alkaline
+200134821	make into a myth
+200135093	make into an allegory
+200135386	remove the mythical element from (writings)
+200135665	bring into a different state
+200135852	make secular and draw away from a religious orientation
+200136062	coat or impregnate with rubber
+200136251	make less subtle or refined
+200136375	coat a metal with an oxide coat
+200136481	cause to form a salt or ester of citric acid
+200136608	bring to a chemical stasis or equilibrium
+200136799	leave unchanged or undisturbed or refrain from taking
+200137133	have an effect upon
+200137611	affect adversely
+200137760	cause repercussions; have an unwanted effect
+200137889	produce an effect or strain on somebody
+200138037	have an effect for good or ill
+200138180	subject to the action of bacteria
+200138328	change to the contrary
+200138980	cause a complete reversal of the circumstances
+200139187	reverse the direction of (an alternating electric current) each half cycle so as to produce a unidirectional current
+200139406	alter (elements) by alchemy
+200139549	make alcoholic, as by fermenting
+200139728	treat or infuse with alcohol
+200139943	change in physical make-up
+200140571	change over, change around, as to a new order or sequence
+200140787	assume a different shape or form
+200141182	give individual shape or form to
+200141344	become granular
+200141452	form a knot or bow in
+200141569	make into terraces as for cultivation
+200141734	shape like a fork
+200141875	form a constellation or cluster
+200142011	give shape or form to
+200142787	shape or cut with a flat surface
+200142885	shape or form to required dimensions
+200143024	shape by rolling
+200143158	flatten, stretch, or mold metal or glass, by rolling or by pulling it through a die or by stretching
+200143360	cause to form (an electric arc) between electrodes of an arc lamp
+200143524	cause to take on a definite and clear shape
+200143734	form into twists
+200143860	rise to, or form, a summit
+200143989	form into grains
+200144134	form into slivers
+200144266	form into a ridge
+200144364	form a plume
+200144514	assume a globular shape
+200144670	assume a form or shape
+200144967	make round
+200145119	shape or cut in scallops
+200145268	make square
+200145443	express as a round number
+200145592	contract one's lips
+200145722	contract one's lips into a rounded shape
+200145843	round one's lips as if intending to kiss
+200145958	undergo a transformation or a change of position or action
+200147635	pass suddenly and passively into a state of body or mind
+200148161	fall or sink into a state of exhaustion or death
+200148292	diminish in size or intensity
+200148417	begin to experience feelings of love towards
+200148583	cause to be held in suspension in a fluid
+200148787	put back into suspension
+200148938	become sober after excessive alcohol consumption
+200149116	become more realistic
+200149289	cause to become sober
+200149403	enter or assume a certain state or condition
+200149916	arrive at a certain condition through repeated motion
+200150107	adapt or conform oneself to new or different conditions
+200150596	behave in accordance or in agreement with
+200150797	be or act in accordance with
+200150934	adjust anew
+200151099	adjust in size relative to other things
+200151268	cause somebody to adapt or reform socially or politically
+200151394	adapt anew
+200151509	decrease in size, extent, or range
+200152378	decrease in size, range, or extent
+200152582	diminish gradually
+200152707	fall or diminish
+200152881	decrease rapidly and disappear
+200153083	make bigger or more
+200153784	lessen to the point of stopping
+200153949	increase in quantity or bulk by adding a cheaper substance
+200154196	enlarge or increase
+200154416	enlarge, develop, or increase by degrees or in stages
+200154586	make larger
+200154774	raise
+200154854	fall sharply
+200154951	increase in value or to a higher point
+200155214	go or move upward
+200155355	rise in rank or status
+200155535	increase suddenly and significantly
+200155677	grow by addition
+200155835	contribute
+200155947	advance in price
+200156084	reduce pressure or intensity
+200156293	become less intense
+200156409	become bigger or greater in amount
+200157027	manifest a sharp increase
+200157155	have an increased effect
+200157270	increase or develop
+200157431	increase rapidly and in an uncontrolled manner
+200157652	become larger or bigger
+200157758	grow or intensify
+200157902	increase rapidly and progressively step by step on a broad base
+200158030	rise in rate or price
+200158192	increase or accumulate at a rapidly accelerating rate
+200158311	raise the level or amount of something
+200158495	increase or raise
+200158612	collect or gather
+200159044	accumulate and create a backlog
+200159176	grow or become attached by accretion
+200159361	pile up (debts or scores)
+200159450	become similar to one's environment
+200159688	assimilate culturally
+200159894	cause members of a tribe to lose their cultural identity
+200160069	make similar
+200160255	become similar in sound
+200160461	become dissimilar or less similar
+200160688	make dissimilar; cause to become less similar
+200160820	become dissimilar by changing the sound qualities
+200161033	exchange or replace with another, usually of the same kind or category
+200161539	convert into direct current
+200161680	convert (from an investment trust to a unit trust)
+200161795	exchange a penalty for a less severe one
+200161975	convert (a company's reserve funds) into capital
+200162158	capitalize beyond what the business or the profit-making prospects warrant
+200162357	cause transduction (of energy forms)
+200162496	substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected)
+200163059	remove or replace the coverings of
+200163249	make brighter and prettier
+200163511	renovate so as to make it conform to middle-class aspirations
+200163723	to patch up or renovate; repair or restore
+200163880	give new treads to (a tire)
+200164009	restore to a previous or better condition
+200164252	make (to feel) fresh
+200164466	give new life or vigor to
+200164624	make more lively or vigorous
+200164911	give life to
+200165052	produce in a version designed to withstand rough usage
+200165258	make firm or secure; strengthen
+200165426	make or form into a solid or hardened mass
+200165597	form into a solid mass or whole
+200165779	make resistant (to harm)
+200166028	make safe against bombings
+200166139	make bulletproof
+200166265	make safe against children
+200166401	proof against human misuse or error
+200166556	make resistant to fire
+200166653	make resistant to bad weather
+200166760	sap of life or energy
+200166999	take away a vital or essential part of
+200167193	undermine or cause to waver
+200167343	form or produce anew
+200167460	cause to appear in a new form
+200167632	be formed or shaped anew
+200167742	change for the better
+200168025	see one's performance improve
+200168201	replace (tissue or a body part) through the formation of new tissue
+200168396	return to life; get or give new life or energy
+200168718	restore from a depressed, inactive, or unused state
+200168984	revive (a cancelled will or a libel)
+200169106	be brought back to life, consciousness, or strength
+200169266	change clothes; put on different clothes
+200169459	change in size or magnitude
+200169614	make less severe or harsh or extreme
+200170189	modify the temperature of
+200170308	modify the rhythm by stressing or accenting a weak beat
+200170503	modernize or bring up to date
+200170701	bring to the latest state of technology or supply with the latest data
+200171010	make more powerful
+200171140	add a modifier to a constituent
+200171352	add cream to one's coffee, for example
+200171471	adjust the pitch, tone, or volume of
+200171599	make better or improve in quality
+200171865	change the use of and make available or usable
+200172271	change the plans for the use of (land)
+200172394	make bigger or better or more complete
+200172518	make optimal; get the most out of; use best
+200172745	take away
+200172922	get worse
+200173020	deprive (an established church) of its status
+200173172	reduce the air supply
+200173351	remove something concrete, as by lifting, pushing, or taking off, or remove something abstract
+200175817	remove from a culture or a living or dead body, as for the purposes of transplantation
+200176031	remove the tip from
+200176147	remove the stem from
+200176337	surgically remove (an organ)
+200176469	remove (a tumor or eye) from an enveloping sac or cover
+200176628	remove the contents of (an organ)
+200176766	remove the nucleus from (a cell)
+200176884	remove the cortex of (an organ)
+200177021	remove (water) from a vessel with a container

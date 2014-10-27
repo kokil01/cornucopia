@@ -1,0 +1,1000 @@
+107022654	a short play
+107022756	a subdivision of a play or opera or ballet
+107022924	a subdivision of an act of a play
+107023062	a written version of a play or other dramatic composition; used in preparing for a performance
+107023391	the copy of the playscript used by the prompter
+107023509	a detailed script used in making a film in order to avoid discontinuities from shot to shot
+107023657	the lines spoken by characters in drama or fiction
+107023808	a part of the script in which the speaking roles are limited to two actors
+107023937	words making up the dialogue of a play
+107024191	a line spoken by an actor to the audience but not intended for others on the stage
+107024325	an actor's line that immediately precedes and serves as a reminder for some action or speech
+107024503	a (usually long) dramatic speech by a single actor
+107024645	a (usually long) dramatic speech intended to give the illusion of unspoken reflections
+107024805	words spoken in a casual way with conscious under-emphasis
+107024919	a cue given to a performer (usually the beginning of the next line to be spoken)
+107025141	the words of an opera or musical play
+107025251	an outline or synopsis of a play (or, by extension, of a literary work)
+107025395	a script for a film including dialogue and descriptions of characters and sets
+107025530	the final detailed script for making a movie or TV program
+107025650	text consisting of a row of words written across a page or computer screen
+107026095	persuasive but insincere talk that is usually intended to deceive or impress
+107026385	the first line of a paragraph that is set as the last line of a page or column
+107026516	plausible glib talk (especially useful to a salesperson)
+107026665	a linear sequence (as of characters, words, proteins, etc.)
+107026850	a linear sequence of words as spoken or written
+107027047	a string that is part of a longer string
+107027143	a manifestation of insincerity
+107027301	a text that excludes a particular letter or particular letters of the alphabet
+107027434	an unrestrained expression of emotion
+107027710	a (usually irritating) impulsive and uncontrollable outburst by a problem child or a neurotic adult
+107027866	a fit of weeping
+107027968	a sudden outburst
+107028111	a sudden outburst of emotion
+107028265	a grouping of words in a sentence
+107028356	a gesture of greeting or elation; one person's upraised palm slaps the upraised palm of another person
+107028514	drama more suitable for reading that for performing
+107028624	light and humorous drama with a happy ending
+107028955	comedy that uses black humor
+107029042	Italian comedy of the 16th to 18th centuries improvised from standardized situations and stock characters
+107029212	a comedy characterized by grim or satiric humor; a comedy having gloomy or disturbing elements
+107029364	a comedy characterized by broad satire and improbable situations
+107029542	a sophisticated comedy; often satirizing genteel society
+107029656	a comedy characterized by slapstick and burlesque
+107029762	an extravagant comedy in which action is more salient than characterization
+107029911	a comedy with serious elements or overtones
+107030062	drama in which the protagonist is overcome by some superior force or circumstance; excites terror or pity
+107030275	a dramatic composition involving elements of both tragedy and comedy usually with the tragic predominating
+107030493	a humorous television program based on situations that could arise in everyday life
+107030648	a television production that features a particular person or work or topic
+107030847	a humorous drama based on situations that might arise in day-to-day life
+107030991	a boisterous comedy with chases and collisions and practical jokes
+107031113	a theatrical entertainment of broad and earthy humor; consists of comic skits and short turns (and sometimes striptease)
+107031325	a farcical afterpiece in the ancient Roman theater
+107031427	a medieval play representing episodes from the life of a saint or martyr
+107031558	an allegorical play popular in the 15th and 16th centuries; characters personified virtues and vices
+107031718	a medieval play representing episodes from the life of Christ
+107031838	a play representing the Passion of Christ
+107031938	an ancient Greek burlesque with a chorus of satyrs
+107032045	a theatrical performance of a drama
+107032286	a play or film whose action and dialogue is interspersed with singing and dancing
+107032510	a short play presented before the main play
+107032614	a drama executed by throwing shadows on a wall
+107032747	a show in which the actors are puppets
+107032857	a variety show in which the performers are made up in blackface
+107032980	a variety show with topical sketches and songs and dancing and comedians
+107033131	a revue with elaborate costuming
+107033235	a series of extravagant revues produced by Flo Ziegfeld
+107033353	a show consisting of a series of short unrelated performances
+107033537	a variety show with songs and comic acts etc.
+107033652	an artistic form of nonverbal communication
+107033877	the representation of dancing by symbols as music is represented by notes
+107034009	an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner
+107037891	a note or passage that is played pizzicato
+107037989	music consisting of a single vocal part (usually with accompaniment)
+107038213	music arranged in parts for several voices or instruments
+107038435	music that uses two or more different keys at the same time
+107038586	music adapted to the understanding and taste of the majority
+107038703	(music) a free instrumental composition in one extended movement; typically emotional or exuberant in character
+107038888	a musical form involving the simultaneous sound of two or more melodies
+107039073	music created by African-American musicians; early forms were songs that had a melodic line and a strong rhythmic beat with repeated choruses
+107039369	traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste
+107039708	serious music performed by a small group of musicians
+107039821	a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes
+107040133	opera with a happy ending and in which some of the text is spoken
+107040314	opera in which all the text is sung
+107040407	opera in which the musical and dramatic elements are equally important; the music is appropriate to the action
+107040577	a short amusing opera
+107040667	the structure of music with respect to the composition and progression of chords
+107040945	a piece of harmonized music
+107041138	a piece of music whose original harmony has been revised
+107041292	harmony in which each chord has four notes that create four melodic lines
+107041429	(music) a note that produces a dissonant chord is first heard in a consonant chord
+107041708	(music) a dissonant chord is followed by a consonant chord
+107041860	a succession of notes forming a distinctive sequence
+107042284	a melodic phrase that accompanies the reappearance of a person or situation (as in Wagner's operas)
+107042451	a melody that recurs and comes to represent a musical play or movie
+107042575	a melody used to identify a performer or a dance band or radio/tv program
+107042734	(music) melodic subject of a musical composition
+107043068	a persistent but subordinate motif
+107043169	a theme that is repeated or elaborated in a piece of music
+107043306	(music) the presentation of a musical theme
+107043499	a repetition of a musical theme in which it is modified or embellished
+107043661	(counterpoint) a variation of a melody or part in which ascending intervals are replaced by descending intervals and vice versa
+107043863	the statement of a theme in notes of greater duration (usually twice the length of the original)
+107044036	the statement of a theme in notes of lesser duration (usually half the length of the original)
+107044205	the melody carried by a particular voice or instrument in polyphonic music
+107044463	vocal music for several voices in independent parts (usually performed without accompaniment)
+107044631	part music with one dominant voice (in a homophonic style)
+107044763	the principal part of a duet (especially a piano duet)
+107044888	the second or lower part of a duet (especially a piano duet)
+107045021	a part written for a singer
+107045123	the highest part (usually the melody) in a piece of choral music
+107045239	a musical part (vocal or instrumental) that supports or provides background for other musical parts
+107045513	a decorative musical accompaniment (often improvised) added above a basic melody
+107045693	an improvised musical accompaniment
+107045779	the lowest part in polyphonic music
+107045913	a short melody in the bass that is constantly repeated
+107046043	a bass part written out in full and accompanied by numbers to indicate the chords to be played
+107046240	the appropriation of a new style (especially in popular music) by combining elements of different genres in order to appeal to a wider audience
+107046494	genre of music composed for performance as part of religious ceremonies
+107046732	a verse or song to be chanted or sung in response
+107046920	(Roman Catholic Church) an antiphon (usually from the Book of Psalms) immediately after the epistle at Mass
+107047100	a sequence of prayers constituting the Christian Eucharistic rite
+107047240	a musical setting for a Mass
+107047400	a musical setting for a Mass celebrating the dead
+107047522	a liturgical prayer (considered to be the essence of Jewish religion) that is recited at least twice daily by adult Jewish males to declare their faith
+107047896	religious music used in a procession
+107048003	bound collection of antiphons
+107048121	a repetitive song in which as many syllables as necessary are assigned to a single tone
+107048370	(Judaism) a chant of praise (Psalms 113 through 118) used at Passover and Shabuoth and Sukkoth and Hanukkah and Rosh Hodesh
+107048566	a chant to the Hindu god Krishna
+107048658	(Roman Catholic Church) a liturgical chant consisting of a single, unaccompanied melodic line
+107048857	a variety of plainsong named after Pope Gregory I
+107048968	a pre-existing melody used as the basis for a polyphonic composition; originally drawn from plainchant, but later drawn from other sources
+107049166	religious music for singing
+107049344	a kind of religious song originated by Blacks in the southern United States
+107049493	joyful religious song celebrating the birth of Christ
+107049616	a song of praise (to God or to a saint or to a nation)
+107049949	a hymn or verse in Christian liturgy glorifying God
+107050074	a stately Protestant (especially Lutheran) hymn tune
+107050189	a hymn derived from the Bible
+107050292	the first words of a medieval Latin hymn describing the Last Judgment (literally day of wrath')
+107050445	a wedding hymn
+107050514	a revolutionary socialist anthem
+107050608	(ancient Greece) a hymn of praise (especially one sung in ancient Greece to invoke or thank a deity)
+107050805	(Luke) the canticle of the Virgin Mary (from Luke 1:46 beginning Magnificat anima mea Dominum')
+107050978	a hymn that is sung at the end of a service as the clergy and choir withdraw
+107051130	an ancient liturgical hymn
+107051211	a musical work that has been created
+107052146	a piece of music that has been adapted for performance by a particular set of voices or instruments
+107052361	an arrangement of a piece of music for performance by an orchestra or band
+107052513	music intended to be performed by a musical instrument or group of instruments
+107052656	the instruments called for in a musical score or arrangement for a band or orchestra
+107052802	a musical composition that has been completed or enriched by someone other than the composer
+107052984	(music) the section of a composition or movement (especially in sonata form) in which musical themes that were introduced earlier are repeated
+107053224	the closing section of a musical composition
+107053366	a short piece of instrumental music composed for performance between acts of a drama or opera
+107053516	a musical composition or musical passage to be performed quickly in a brisk lively manner
+107053695	a musical composition or musical passage to be performed at a somewhat quicker tempo than andante but not as fast as allegro
+107053894	a musical composition or musical passage to be performed moderately slow
+107054038	a short movement coming between the major sections of a symphony
+107054159	a composition of vocal music that is appropriate for opening church services
+107054289	music that precedes a fugue or introduces an act in an opera
+107054439	a composition for organ using a chorale as a basis for variations
+107054566	orchestral music played at the beginning of an opera or oratorio
+107054685	a musical composition for one voice or instrument (with or without accompaniment)
+107054871	composition (often improvised) for a solo instrument (especially solo organ) and not a regular part of a religious service or musical performance
+107055090	a voluntary played at the end of a religious service
+107055197	a musical composition for two performers
+107055341	a musical composition for three performers
+107055434	a musical composition for four performers
+107055541	a musical composition for five performers
+107055648	a musical composition written for six performers
+107055769	a musical composition written for seven performers
+107055883	a musical composition written for eight performers
+107055995	a musical composition for voices and orchestra based on a religious text
+107056151	an oratorio composed by Handel in 1742
+107056244	a light piece of music for piano
+107056332	a musical composition in several movements; has no fixed form
+107056481	a funeral lament sung with loud wailing
+107056608	a contrapuntal piece of music in which a melody in one part is imitated exactly in other parts
+107056772	a canon in which the entrances of successive parts were indicated by cryptic symbols and devices (popular in the 15th and 16th centuries)
+107057021	a composition for orchestra and a soloist
+107057135	a baroque composition for orchestra and a group of solo instruments
+107057264	a short composition for a solo instrument; intended as an exercise or to demonstrate technical virtuosity
+107057421	a musical form consisting of a theme repeated a fifth above or a fourth below its first statement
+107057570	a musical composition that evokes rural life
+107057714	a musical form that is often the last movement of a sonata
+107057834	a musical composition of 3 or 4 movements of contrasting forms
+107058022	a sonata for piano
+107058099	a baroque musical composition (usually for a keyboard instrument) with full chords and rapid elaborate runs in a rhythmically free style
+107058289	a musical composition of a free form usually incorporating several familiar themes
+107058426	a short and simple sonata
+107058506	a long and complex sonata for symphony orchestra
+107058663	a short section of a musical composition
+107059027	a musical composition or musical passage to be performed loudly
+107059160	a musical composition or musical passage to be performed very loudly
+107059303	a brief introductory passage to a piece of popular music
+107059411	a short musical passage
+107059577	(music) a group of notes connected by a slur
+107059695	a musical phrase repeated over and over during a composition
+107059846	a jazz ostinato; usually provides a background for a solo improvisation
+107059986	the close of a musical section
+107060088	a cadence (frequently ending church music) in which the chord of the subdominant precedes the chord of the tonic
+107060276	a brilliant solo passage occurring near the end of a piece of music
+107060397	a major self-contained part of a symphony or sonata
+107060601	(music) a composition or passage that is to be performed in a slow and dignified manner
+107060795	(music) a composition or passage played in a slow tempo slightly faster than largo but slower than adagio
+107060975	a fast movement (usually in triple time)
+107061069	a musical composition of several movements only loosely connected
+107061223	(music) an instrumental suite common in the 18th century
+107061333	one of the variations contained in a partita
+107061431	an orchestral composition based on literature or folk tales
+107061563	a musical composition consisting of a series of songs or other musical pieces from various sources
+107061737	a pensive lyrical piece of music (especially for the piano)
+107061862	(music) a composition played in adagio tempo (slowly and gracefully)
+107062058	a short musical composition with words
+107062685	a composition intended to develop one aspect of the performer's technique
+107062840	alternate (responsive) singing by a choir in two parts
+107062968	a song of devotion or loyalty (as to a nation or school)
+107063095	a song formally adopted as the anthem for a nation
+107063245	the French national anthem
+107063331	a poem written by Francis Scott Key during the War of 1812 was set to music and adopted by Congress in 1931 as the national anthem of the United States
+107063554	an elaborate song for solo voice
+107063674	a short aria
+107063753	a narrative song with a recurrent refrain
+107063889	ballads sung by minstrels
+107063971	a boating song sung by Venetian gondoliers
+107064082	a rhythmical work song originally sung by sailors
+107064217	the part of a song where a soloist is joined by a group of singers
+107064419	a set of nonsensical syllables used while humming a refrain
+107064543	a short simple song (or the words of a poem intended to be sung)
+107064659	a song or hymn of mourning composed or performed as a memorial to a dead person
+107064867	a song celebrating the joys of drinking; sung at drinking parties
+107064992	a song that is traditionally sung by the common people of a region and forms part of their culture
+107065225	a type of folksong that originated among Black Americans at the beginning of the 20th century; has a melancholy sound from repeated use of blue notes
+107065481	a sad Portuguese folksong
+107065557	a flattened third or seventh
+107065660	a German art song of the 19th century for voice and piano
+107065768	a song about love or expressing love for another person
+107065891	a quiet song intended to lull a child to sleep
+107066015	the text of a popular song or musical-comedy number
+107066331	a fixed number of lines of verse forming a unit of a poem
+107066659	the lyric of a love song
+107066740	a song that was formerly popular
+107066839	a song with two or more voice parts
+107066965	an unaccompanied partsong for 2 or 3 voices; follows a strict poetic form
+107067129	a partsong in which voices follow each other; one voice starts and others join in one after another until all are singing different parts of the song at the same time
+107067404	a song in celebration of a marriage
+107067531	a song in which a line or phrase is repeated as the refrain
+107067646	a song (sometimes improvised) sung by guests at a banquet
+107067772	a song characteristically played outside the house of a woman
+107067924	a popular song concerned with disappointment in love
+107068033	a usually rhythmical song to accompany repetitious work
+107068162	a noisy mock serenade (made by banging pans and kettles) to a newly married couple
+107068376	music written for a ballet
+107068473	music to dance to
+107069034	music written in the bolero rhythm of the beguine dance
+107069143	music written in the rhythm of the bolero dance
+107069243	music composed for dancing the carioca
+107069335	music composed for dancing the conga
+107069441	guitar music composed for dancing the flamenco
+107069542	music composed in quadruple time for dancing the gavotte
+107069652	music composed in duple time for dancing the habanera
+107069760	music for dancing the hornpipe
+107069845	music in three-four time for dancing a jig
+107069963	music in triple time for dancing the landler
+107070061	music composed for dancing the mazurka
+107070153	a stately piece of music composed for dancing the minuet; often incorporated into a sonata or suite
+107070305	music in march time composed for dancing the paso doble; often played at bull fights
+107070446	music composed for dancing the pavane
+107070544	music performed for dancing the polka
+107070633	music for dancing the quadrille
+107070720	music composed for dancing a reel
+107070804	syncopated music in duple time for dancing the rumba
+107070935	music composed for dancing the samba
+107071041	music composed for dancing the saraband
+107071135	music performed for dancing the schottische
+107071236	20th century music that uses a definite order of notes as a thematic basis for a musical composition
+107071425	music (especially dance music) that has a syncopated rhythm
+107071579	a type of serial music introduced by Arnold Schoenberg; uses a tone row formed by the twelve semitones of the chromatic scale (and inverted or backward versions of the row)
+107071869	music written in duple time for dancing the tango
+107071988	music composed in six-eight time for dancing the tarantella
+107072104	a style of fast heavy electronic dance music usually without vocals
+107072224	music composed in triple time for waltzing
+107072336	genre of music written for marching
+107072508	brisk marching music suitable for troops marching in a military parade
+107072708	military march accompanying quick time
+107072802	martial music with variations; to be played by bagpipes
+107072911	a march to be played for processions
+107073068	a slow march to be played for funeral processions
+107073190	a march to be played for a wedding procession
+107073295	any genre of music having wide appeal (but usually only for a short time)
+107073666	popular dance music (especially in the late 1970s); melodic with a regular bass beat; intended mainly for dancing at discotheques
+107073861	popular dance music of Brazil; derived from the practices of the macumba religious cult
+107074002	music of general appeal to teenagers; a bland watered-down version of rock'n'roll with more rhythm and harmony and an emphasis on romantic love
+107074207	the traditional and typically anonymous music that is an expression of the life of people in a community
+107074480	a simple style of folk music heard mostly in the southern United States; usually played on stringed instruments
+107074737	a genre of popular music composed for ballroom dancing
+107074884	music with a syncopated melody (usually for the piano)
+107075016	a style of dance music popular in the 1920s; similar to New Orleans jazz but played by large bands
+107075220	a kind of danceable music popular among black South Africans; includes a whistle among its instruments
+107075374	folk music consisting of a genre of a cappella music originating with Black slaves in the United States and featuring call and response; influential on the development of other genres of popular music (especially soul)
+107075717	a genre (usually a cappella) of Black vocal-harmony music of the 1950s that evolved in New York City from gospel singing; characterized by close four-part harmonies; the name derived from some of the nonsense syllables sung by the backup
+107076008	a secular form of gospel that was a major Black musical genre in the 1960s and 1970s
+107076230	a type of country music played at a rapid tempo on banjos and guitars
+107076355	country music originating in mountainous regions of southern United States
+107076491	music performed for square dancing
+107076590	music of southern Louisiana that combines French dance melodies with Caribbean music and blues
+107076737	a genre of popular music that originated in New Orleans around 1900 and developed through increasingly complex styles
+107077141	an early form of modern jazz (originating around 1940)
+107077289	an instrumental version of the blues (especially for piano)
+107077453	jazz that is restrained and fluid and marked by intricate harmonic structures often lagging slightly behind the beat
+107077625	an earthy type of jazz combining it with blues and soul; has a heavy bass line that accentuates the first beat in the bar
+107077815	jazz that is emotionally charged and intense and marked by strong rhythms and improvisation
+107077961	any of various styles of jazz that appeared after 1940
+107078095	genre of African-American music of the 1980s and 1990s in which rhyming lyrics are chanted to a musical accompaniment; several forms of rap have emerged
+107078355	a combination of blues and jazz that was developed in the United States by Black musicians; an important precursor of rock 'n' roll
+107078577	a fusion of black music and country music that was popular in the 1950s; sometimes described as blues with a country beat
+107078755	a genre of popular music originating in the 1950s; a blend of black rhythm-and-blues with white country-and-western
+107079189	loud and harsh sounding rock music with a strong beat; lyrics usually involve violent or fantastic imagery
+107079373	a style of rock music that emerged in the 1970s; associated with attempts to combine rock with jazz and other forms; intended for listening and not dancing
+107079602	a musical style that emerged in the 1960s; rock music inspired by or related to drug-induced experience
+107079780	rock music with deliberately offensive lyrics expressing anger and social alienation; in part a reaction against progressive rock
+107079972	traditional jazz as revived in the 1950s
+107080082	a style of jazz played by big bands popular in the 1930s; flowing rhythms but less complex than later styles of jazz
+107080325	popular music originating in the West Indies; repetitive bass riffs and regular chords played on the off beat by a guitar
+107080499	a style of popular music in the 1950s; based on American folk music and played on guitars and improvised percussion instruments
+107080699	a way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period
+107081631	the manner of speaking to another individual
+107081800	a break or check in the voice (usually a sign of strong emotion)
+107081916	the use of closed-class words instead of inflections: e.g., the father of the bride' instead of the bride's father'
+107082088	triteness or triviality of style
+107082173	the juxtaposition of morbid and farcical elements (in writing or drama) to give a disturbing effect
+107082364	an affected elegance of style that was introduced into Spanish literature by the poet Gongora
+107082513	an artistic device or effect
+107082671	(music) the section of a composition or movement (especially in sonata form) where the major musical themes are developed and elaborated
+107082884	something in an artistic work designed to achieve a particular effect
+107083042	medical jargon
+107083114	using the technical language of ecology to make the user seem ecologically aware
+107083250	powerful and effective language
+107083557	any artificially elegant style of language
+107083672	the jargon of European community documents and regulations
+107083787	a want of animation or brilliance
+107083988	the style of expressing yourself
+107084361	incomprehensible or pompous jargon of specialists
+107084469	high-flown style; excessive use of verbal ornamentation
+107084819	using the abbreviated style of headline writers
+107084923	an expression of respect
+107085057	specialized technical terminology characteristic of a particular subject
+107085290	the style in which newspapers are written
+107085406	a style that uses the abstruse technical vocabulary of the law
+107085523	your characteristic style or manner of expressing yourself orally
+107085982	an expressive style of music
+107086235	the style of writing characteristic of some government officials: formal and obscure
+107086377	a style that has the power to evoke feelings
+107086474	matter of fact, commonplace, or dull expression
+107086627	using language loaded with psychological terminology
+107086738	using language effectively to please or persuade
+107086878	language or humor that is down-to-earth
+107087111	the expression of one's individuality (usually through creative activities)
+107087248	expressing in coherent verbal form
+107087487	the use of an archaic expression
+107089027	standard formulations uniformly found in certain types of legal documents or news stories
+107089193	a colloquial expression; characteristic of spoken or written communication that seeks to imitate informal speech
+107094970	the appropriate word or expression
+107095060	the activity of expressing something in words
+107095235	the words that are spoken in the activity of verbalization
+107095369	a manner of speaking that is natural to native speakers of a language
+107095537	an expression that is characteristic of English as spoken by Americans
+107095665	an expression that is used in Great Britain (especially as contrasted with American English)
+107095838	a word or phrase borrowed from French
+107095931	the manner in which something is expressed in words
+107096217	the use of manner of speaking to communicate particular meanings
+107096390	a manner of speaking
+107096538	a bitter or critical manner of speaking
+107096636	a manner of speaking that is distinctive of a particular group of people
+107096765	the quality of a person's voice
+107097011	a tone of voice that shows what the speaker is feeling
+107097164	the fullness of a tone of voice
+107097328	a quiet or hushed tone of voice
+107097438	an expert manner of speaking involving control of voice and gesture
+107097633	the rapid and continuous delivery of linguistic communication (spoken or written)
+107097924	the patterns of stress and intonation in a language
+107098150	a manner of speaking in which the loudness or pitch or tone of the voice is modified
+107098358	rise and fall of the voice pitch
+107098620	intonations characteristic of questions and requests and statements
+107098752	an unchanging intonation
+107098939	a single tone repeated with different words or different rhythms (especially in rendering liturgical texts)
+107099119	a regular and monotonous rising and falling intonation
+107099264	a break or pause (usually for sense) in the middle of a verse line
+107099402	the continuation of a syntactic unit from one line of verse into the next line without a pause
+107099567	the relative prominence of a syllable or musical note (especially with regard to stress or pitch)
+107099978	the use or application of an accent; the relative prominence of syllables in a phrase or utterance
+107100153	emphasis that results from pitch rather than loudness
+107100280	the distribution of stresses within a polysyllabic word
+107100407	the distribution of stresses within a sentence
+107100515	the arrangement of spoken words alternating stressed and unstressed elements
+107100710	the basic rhythmic unit in a piece of music
+107101053	a loud steady beat
+107101164	the first beat of a musical measure (as the conductor's arm moves downward)
+107101294	an unaccented beat (especially the last beat of a measure)
+107101415	a musical rhythm accenting a normally weak beat
+107101538	a vocal passage of narrative text that a singer delivers with natural rhythms of speech
+107101700	(music) a short recitative that is melodic but is not an aria
+107101833	a musical passage moving from one key to another
+107101969	pompous or pretentious talk or writing
+107102132	using long words
+107102245	the journalistic use of subject matter that appeals to vulgar tastes
+107102511	technical jargon from computing and other high-tech subjects
+107102630	a neatly short and concise expressive style
+107102837	a distinctive spoken or written expression
+107103060	a witty or ingenious turn of phrase
+107103216	terseness and economy in writing and speaking achieved by expressing a great deal in just a few words
+107103468	an expressive style that is direct and to the point
+107103623	the use of brief expressions
+107103723	terseness of expression
+107103814	a distinctive style or manner
+107103943	an expressive style that uses excessive or empty words
+107104211	overabundance of words
+107104300	boring verbosity
+107104571	a style that involves indirect ways of expressing things
+107104765	pompously embellished language
+107104913	verboseness resulting from excessive repetitions
+107105130	repetition of messages to reduce the probability of errors in transmission
+107105279	using more words than necessary
+107105406	useless repetition
+107105577	(logic) a statement that is necessarily true
+107105779	a shortened form of a word or phrase
+107105947	abbreviation of a word by omitting the final sound or sounds
+107106112	an abbreviation formed from the initial letters of the several words in the name and pronounced separately
+107106330	a word formed from the initial letters of the several words in the name and pronounced as one word
+107106786	a style of expressing yourself in writing
+107106984	an arrangement of the elements in a composition or discourse
+107107220	literature in metrical form
+107107824	poetry celebrating the deeds of some hero
+107107939	any communication resembling poetry in beauty or the evocation of feeling
+107108155	the art or practice of writing verse
+107108269	the form or metrical composition of a poem
+107108425	a metrical adaptation of something (e.g., of a prose text)
+107108561	(prosody) a system of versification
+107108759	(prosody) the accent in a metrical foot of verse
+107109021	the absence of a syllable in the last foot of a line or verse
+107109174	analysis of verse into metrical patterns
+107109287	a poetic rhythm that imitates the rhythm of speech
+107109397	the usual (iambic) meter of a ballad
+107109509	(prosody) a group of 2 or 3 syllables forming the basic unit of poetic rhythm
+107109814	a metrical unit with stressed-unstressed-unstressed syllables
+107109946	a metrical unit with unstressed-stressed syllables
+107110056	a metrical unit with unstressed-unstressed-stressed syllables
+107110182	a metrical unit with unstressed-stressed-unstressed syllables (e.g., remember')
+107110319	a metrical unit with stressed-unstressed syllables
+107110441	a metrical unit with stressed-stressed syllables
+107110561	a metrical unit with unstressed-unstressed syllables
+107110695	a verse line having four metrical feet
+107110808	a verse line having five metrical feet
+107110903	a verse line having six metrical feet
+107110996	a verse line having eight metrical feet
+107111091	a verse line having eight syllables or a poem of octosyllabic lines
+107111235	a verse line having ten syllables
+107111327	correspondence in the sounds of two or more lines (especially final sounds)
+107111661	a rhyme between words in the same line
+107111760	use of the same consonant at the beginning of each stressed syllable in a line of verse
+107112012	the repetition of similar vowels in the stressed syllables of successive words
+107112214	the repetition of consonants (or consonant patterns) especially at the ends of words
+107112373	a two-syllable rhyme
+107112497	a stanza form having seven lines of iambic pentameter; introduced by Chaucer
+107112631	a stanza of eight lines of heroic verse with the rhyme scheme abababcc
+107112759	an imperfect rhyme (e.g., love' and move')
+107112859	a use of language that creates a literary effect (but often without regard for literal significance)
+107113655	an abrupt change within a sentence from one syntactic structure to another
+107113801	the omission of conjunctions where they would normally be used
+107113937	the repeated use of the same word or word pattern as a rhetorical device
+107114264	repetition of the final words of a sentence or line at the beginning of the next
+107114418	repetition after intervening words
+107114510	repetition of a group of words in reverse order
+107114631	recapitulation of the main ideas of a speech (especially in reverse order)
+107114779	repetition of the ends of two or more successive sentences, verses, etc.
+107114919	the doubling of a word or phrase (as for rhetorical effect)
+107115053	(rhetoric) repetition to gain special emphasis or extend meaning
+107115188	repetition of a word in a different case or inflection in the same sentence
+107115344	repetition of a word or phrase at the beginning of successive clauses
+107115481	using a pronoun or similar word instead of repeating a word used earlier
+107115608	repetition of a word or phrase at the beginning and another at the end of successive clauses, i.e., simultaneous use of anaphora and epistrophe
+107115806	the reversal of the normal order of words
+107115916	the use of a word in a sense opposite to its normal sense (especially in irony)
+107116072	the juxtaposition of contrasting words or ideas to give a feeling of balance
+107116223	substitution of a title for a name
+107116315	mentioning something by saying it will not be mentioned
+107116444	breaking off in the middle of a sentence (as by writers of realistic conversations)
+107116603	address to an absent or imaginary person
+107116700	strained or paradoxical use of words either in error (as blatant' to mean flagrant') or deliberately (as in a mixed metaphor: blind mouths')
+107116937	inversion in the second of two parallel phrases
+107117039	arrangement of clauses in ascending order of forcefulness
+107117149	interchange of subject and predicate of a proposition
+107117259	(theater) irony that occurs when the meaning of the situation is understood by the audience but not by the characters in the play
+107117468	an exclamatory rhetorical device
+107117611	special and significant stress by means of position or repetition e.g.
+107117772	a substitution of part of speech or gender or number or tense etc. (e.g., editorial we' for I')
+107117924	immediate rephrasing for intensification or justification
+107118068	a rhetorical device in which the speaker reproaches the audience in order to incite or convince them
+107118224	use of two conjoined nouns instead of a noun and modifier
+107118337	reversal of the syntactic relation of two words (as in her beauty's face')
+107118468	reversal of normal word order (as in cheese I love')
+107118578	use of a series of subjects with a single predicate
+107118686	use of a series of parallel clauses (as in I came, I saw, I conquered')
+107118815	reversal of normal order of two words or sentences etc. (as in bred and born')
+107118958	understatement for rhetorical effect (especially when expressing an affirmative by negating its contrary)
+107119240	using words that imitate the sound they denote
+107119399	suggesting by deliberately concise treatment that much of significance is omitted
+107119578	juxtaposing words having a common derivation (as in sense and sensibility')
+107119711	using several conjunctions in close succession, especially where some might be omitted (as in he ran and jumped and laughed for joy')
+107119904	anticipating and answering objections in advance
+107120008	a comparison comprising a well-known quotation followed by a facetious sequel
+107120141	language used in a figurative or nonliteral sense
+107120798	an elaborate poetic image or a far-fetched comparison of very dissimilar things
+107120931	a trope that involves incongruity between what is expected and what occurs
+107121187	extravagant exaggeration
+107121336	conventional metaphoric name for something, used especially in Old English and Old Norse poetry
+107121485	a figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity
+107121768	a metaphor that has occurred so often that it has become a new meaning of the expression (e.g., he is a snake' may once have been a metaphor but after years of use it has died and become a new sense of the word snake')
+107122066	a combination of two or more metaphors that together produce a ridiculous effect
+107122207	a metaphor that exploits a similarity between experiences in different sense modalities
+107122361	substituting the name of an attribute or feature for the name of the thing itself (as in they counted heads')
+107122581	substituting metonymy of one figurative sense for another
+107122695	conjoining contradictory terms (as in deafening silence')
+107122808	representing an abstract quality or idea as a person or creature
+107122967	a figure of speech that expresses a resemblance between things of different kinds (usually formed with like' or as')
+107123138	substituting a more inclusive term for a less inclusive one or vice versa
+107123342	use of a word to govern two or more words though agreeing in number or case etc. with only one
+107123492	use of a verb with two or more complements, playing on the verb's polysemy, for humorous effect
+107123727	communication that relies on hearing
+107123904	(language) communication by word of mouth
+107124438	the words that are spoken
+107124555	the use of uttered sounds for auditory communication
+107125165	the exchange of spoken words
+107125323	the sound made by the vibration of vocal folds modified by the resonance of the vocal tract
+107125755	(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language
+107126218	(linguistics) the phonemes (or strings of phonemes) that constitute the various allomorphs of a morpheme
+107126419	(linguistics) one of a small set of speech sounds that are distinguished by the speakers of a particular language
+107126641	(linguistics) any of various acoustically different forms of the same phoneme
+107126811	a vowel whose quality or length is changed to indicate linguistic distinctions (such as sing sang sung song)
+107126990	a degree of ablaut
+107127072	a vowel sound that starts near the articulatory position for one vowel and moves toward the position for another
+107127258	a speech sound made with the vocal tract open
+107127513	the system of accentuation used in a particular language
+107127650	the system of consonants used in a particular language
+107127788	the morphophonemics of a particular language
+107127900	the system of phonemes recognized in a language
+107128045	the system of phones used in a particular language
+107128199	the pattern of syllable formation in a particular language
+107128333	a system of tenses used in a particular language
+107128440	the system of tones used in a particular language or dialect of a tone language
+107128611	the system of vowels used in a particular language
+107128731	a neutral middle vowel; occurs in unstressed syllables
+107128862	a schwa that is incidental to the pronunciation of a consonant
+107128992	a vowel that ends a stem and precedes an inflection
+107129117	a vowellike sound that serves as a consonant
+107129243	a semivowel produced with the tongue near the palate (like the initial sound in the English word yeast')
+107129420	a letter of the alphabet standing for a spoken vowel
+107129578	a mark placed below or near a consonant (as in Hebrew or Arabic) to indicate the spoken vowel
+107129729	a speech sound that is not a vowel
+107130089	a letter of the alphabet standing for a spoken consonant
+107130201	a consonant articulated with the tip of the tongue near the gum ridge
+107130392	a consonant that is produced with a partial or complete blockage of the airflow from the lungs through the nose or mouth
+107130622	a consonant produced by stopping the flow of air at some point and suddenly releasing it
+107131012	the initial occluded phase of a stop consonant
+107131151	the terminal forced release of pressure built up during the occlusive phase of a stop consonant
+107131349	the conversion of a simple stop consonant into an affricate
+107131466	a consonant pronounced with aspiration
+107131577	a manner of articulation involving an audible release of breath
+107131715	a consonant whose articulation involves movement of the lips
+107131901	a consonant whose articulation involves the lips and teeth
+107132041	a consonant that is articulated using both lips; /p/ or /b/ or /w/
+107132180	a stop consonant that is produced with the lips
+107132303	a stop consonant articulated by releasing pressure at the glottis; as in the sudden onset of a vowel
+107132496	the insertion of a vowel or consonant into a word to make its pronunciation easier
+107132710	the act of nasalizing; the utterance of sounds modulated by the nasal resonators
+107132918	a stop consonant made by the suction of air into the mouth (as in Bantu)
+107133075	consonant articulated by constricting (but not closing) the vocal tract
+107133262	a continuant consonant produced by breath moving against a narrowing of the vocal tract
+107133455	a consonant characterized by a hissing sound (like s or sh)
+107133698	a composite speech sound consisting of a stop and a fricative articulated at the same point (as ch' in chair' and j' in joy')
+107133919	a consonant produced through the nose with the mouth closed
+107134066	a speech sound produced with both the oral and nasal passages open (as French nasal vowels)
+107134229	a consonant that is produced with the tongue and other speech organs
+107134351	a frictionless continuant that is not a nasal consonant (especially l' and r')
+107134484	a doubled or long consonant
+107134605	a consonant produced without sound from the vocal cords
+107134733	a consonant produced with the back of the tongue touching or near the soft palate
+107134884	a consonant articulated in the back of the mouth or throat
+107135072	a speech sound accompanied by sound from the vocal cords
+107135232	a loud utterance; often in protest or opposition
+107135865	a loud utterance of emotion (especially when inarticulate)
+107136069	a very loud utterance (like the sound of an animal)
+107136612	an extravagantly loud outcry
+107136726	a cry expressing disapproval
+107136826	loud and persistent outcry from many people
+107137117	a shout to attract attention
+107137263	a loud raucous cry (as of an owl)
+107137347	a cry of praise or adoration (to God)
+107137438	a loud outcry of protest or complaint
+107137720	sharp piercing cry
+107137996	a loud hooting cry of exultation or excitement
+107138112	a yell intended to rally a group of soldiers in battle
+107138260	uttering a loud inarticulate cry as of pain or excitement
+107138418	a songlike cry in which the voice fluctuates rapidly between the normal voice and falsetto
+107138578	a cry or noise made to express displeasure or contempt
+107138880	blasphemous language (expressing disrespect for God or for something sacred)
+107139048	an offensive or indecent word or phrase
+107139444	lewd or obscene talk or writing
+107139636	a preoccupation with obscenity (especially that dealing with excrement or excretory functions)
+107139804	profane or obscene expression usually of surprise or anger
+107140075	a harsh hoarse utterance (as of a frog)
+107140231	an abrupt excited utterance
+107140494	a word used in exclamations of confusion
+107140666	an abrupt emphatic exclamation expressing emotion
+107140824	an exclamation of protest or remonstrance or reproof
+107140936	a word or phrase conveying no independent meaning but added to fill out a sentence or metrical line
+107141091	an utterance expressing pain or disapproval
+107141229	the utterance of a sound similar to clearing the throat; intended to get attention, express hesitancy, fill a pause, hide embarrassment, warn a friend, etc.
+107141442	a long loud emotional utterance
+107141714	the sound of laughing
+107141960	a soft indistinct utterance
+107142058	loud convulsive laughter
+107142159	a loud laugh suggestive of a hen's cackle
+107142271	a soft partly suppressed laugh
+107142401	a foolish or nervous laugh
+107142498	a burst of deep loud hearty laughter
+107142619	a loud laugh that sounds like a horse neighing
+107142768	a disrespectful laugh
+107142933	a nervous restrained laugh
+107143030	calling out the name of a person (especially by a loudspeaker system)
+107143235	vulgar or irreverent speech or action
+107143400	the way a word or a language is customarily spoken
+107143654	the manner in which someone utters a word
+107143910	pronunciation with a sibilant (hissing or whistling) sound
+107144130	the utterance of sounds expressing great joy
+107144310	an utterance made by exhaling audibly
+107144466	a vicious angry growl
+107144575	the utterance of intelligible speech
+107144758	something spoken
+107144891	an utterance (of words) with spitting sounds (as in rage)
+107145049	speaking softly without vibration of the vocal cords
+107145288	a loud whisper that can be overheard; on the stage it is heard by the audience but it supposed to be inaudible to the rest of the cast
+107145482	uttering in an irritated tone
+107145626	incorrect pronunciation
+107145730	two words are homographs if they are spelled the same way but differ in meaning (e.g. fair)
+107145877	two words are homophones if they are pronounced the same way but differ in meaning or spelling or both (e.g. bare and bear)
+107146074	the same pronunciation for words of different origins
+107146219	distinctive manner of oral expression
+107146449	a slow speech pattern with prolonged vowels
+107146562	the aspect of pronunciation that involves bringing articulatory organs together so as to shape the sounds of speech
+107146934	an articulatory gesture made by turning the tip of the tongue back against the roof of the mouth
+107147123	the articulation of speech regarded from the point of view of its intelligibility to the audience
+107147342	indistinct enunciation
+107147437	(phonology) the loss of sounds from within a word (as in fo'c'sle' for forecastle')
+107147645	the articulatory process whereby the pronunciation of a word or morpheme changes when it is followed immediately by another (especially in fluent speech)
+107147851	indistinct articulation
+107148021	an expression that is difficult to articulate clearly
+107148185	the articulation of a consonant (especially the consonant r') with a rapid flutter of the tongue against the palate or uvula
+107148409	the use of speech for informal exchange of views or ideas or information etc.
+107148887	a lively or heated interchange of ideas and opinions
+107148995	conversational speech used to communicate sociability more than information
+107149153	communication between individuals
+107149283	sharing thoughts and feelings
+107149414	a mutual expression of views (especially an unpleasant one)
+107149558	an informal conversation
+107149788	light informal conversation for social occasions
+107150158	a conversation that spreads personal information about other people
+107150335	spreading malicious gossip
+107150442	an exchange of ideas via conversation
+107150806	insincere talk about religion or morals
+107150914	a conversation between two persons
+107151023	an intimate talk in private
+107151177	(Yiddish) a warm heart-to-heart talk
+107151286	talk about your business that only others in the same business can understand
+107151419	empty rhetoric or insincere or exaggerated talk
+107151648	noisy talk
+107151837	idle or foolish and irrelevant talk
+107152023	inconsequential conversation
+107152169	inconsequential expressions of affection
+107152330	social exchange, especially of opinions, attitudes, etc.
+107152441	formal conversation
+107152515	extended treatment of particulars
+107152658	a lengthy discussion (spoken or written) on a particular topic
+107152793	an extended communication (often interactive) dealing with some particular topic
+107153212	a report of a discourse in which deictic terms are modified appropriately (e.g.,
+107153444	a report of the exact words used in a discourse (e.g.,
+107153623	a discussion of a topic (as in a meeting)
+107153859	a discussion (spoken or written) that enlarges on a topic or theme at length or in detail
+107154024	discussion; (talk about' is a less formal alternative for discussion of')
+107154240	a consideration of a topic (as in a meeting) with a view to changing an earlier decision
+107154408	a communication intended to urge or persuade the recipients to take some action
+107154581	the communication (in speech or writing) of your beliefs or opinions
+107154945	a blunt expression of views
+107155056	(usually plural) an expression of pleasure at the success or good fortune of another
+107155367	an exchange of views on some topic
+107155686	a discussion in which reasons are advanced for and against some proposition or proposal
+107156027	argument about words or the meaning of words
+107156145	a negotiation between enemies
+107156245	voluble conversation
+107156352	conversation in a situation where feelings can be expressed and criticized or supported
+107156497	overheard conversation (especially overheard cellphone conversation)
+107156630	conversation during a meal
+107156713	a conversation over the telephone
+107156815	a private conversation between two people
+107156950	intimate conversation between lovers (typically occurring in bed)
+107157073	(usually plural) discussion of all sides of a question
+107157274	a discussion among participants who have an agreed (serious) topic
+107157632	an informal discussion (usually among men)
+107157752	a conversation especially a formal one
+107157845	a conference between two or more people to consider a particular question
+107158158	(law) a courtroom conference between the lawyers and the judge that is held out of the jury's hearing
+107158332	a conference (usually with someone important)
+107158577	discussion of a subject of public interest by a group of persons forming a panel usually before an audience
+107158747	discussion of an event after it has occurred
+107158898	free and open discussion of (or debate on) some question of public interest
+107159124	(informal) a quick private conference
+107159279	a press conference or interview in which a government official explains to reporters the background of an action or policy
+107159542	a conference at which press and tv reporters ask questions of a politician or other celebrity
+107159734	(law) a conference held before the trial begins to bring the parties together to outline discovery proceedings and to define the issues to be tried; more useful in civil than in criminal cases
+107160022	a meeting of peers for discussion and exchange of views
+107160216	a meeting for execution of a group's functions
+107160491	an extended session (as on a college campus) for lectures and discussion on an important and usually controversial issue
+107160666	a conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television
+107160898	a session as of a legislature or court
+107161008	meeting for diagnosis of problems and instruction or remedial work in a particular activity
+107161242	a clinic for people with reading disabilities
+107161348	a meeting at which basketball players receive special evaluation and instruction
+107161492	a meeting at which baseball players receive special evaluation and instruction
+107161688	a meeting at which hockey players receive special evaluation and instruction
+107161824	a session (usually of a legislative body) that is closed to the public
+107161975	a session (of a committee or grand jury) in which witnesses are called and testimony is taken
+107162219	a hearing held by the US Senate to gather information on whether to approve or reject candidates for high federal office who are nominated by the president
+107162441	a session (as of executives or advisors) to discuss policy or strategy or to solve problems or exchange ideas
+107162610	a session that is held in addition to the regular sessions
+107162730	a session of intensive tuition given by a tutor to an individual or to a small number of students
+107162900	a discussion intended to produce an agreement
+107163281	negotiation between nations
+107163536	diplomacy influenced by economic considerations
+107163646	diplomacy in which the nations threaten to use force in order to obtain their objectives
+107163815	the explicit and formal acknowledgement of a government or of the national independence of a country
+107164056	international negotiations conducted by a mediator who frequently flies back and forth between the negotiating parties
+107164290	negotiations between the United States and the Union of Soviet Socialist Republics opened in 1969 in Helsinki designed to limit both countries' stock of nuclear weapons
+107164544	the negotiation of the terms of a transaction or agreement
+107164731	negotiation between an employer and trade union
+107164846	an instance of intense argument (as in bargaining)
+107165036	a refusal by a negotiator to come to terms in the hope of obtaining a better deal
+107165207	negotiation accompanied by mutual concessions and shrewd bargaining
+107165352	a negotiation to resolve differences that is conducted by some impartial party
+107165558	(law) the hearing and determination of a dispute by an impartial referee agreed to by both parties (often used to settle disputes between labor and management)
+107165830	any of various forms of mediation whereby disputes may be settled short of arbitration
+107165993	mediation by an umpire
+107166088	a word or phrase that particular people use in particular situations
+107166600	an expression that relates to anatomy
+107166735	a locution or pronunciation peculiar to the southern United States
+107166859	a very short speech; usually on radio or television
+107166967	a favorite saying of a sect or political group
+107167171	a phrase that has become a catchword
+107167298	a commonly repeated word or phrase
+107167460	a slogan used to rally support for a cause
+107167656	a saying that is widely accepted on its own merits
+107167838	a short pithy instructive saying
+107168093	a short pithy saying expressing a general truth
+107168210	humorous axiom stating that anything that can go wrong will go wrong
+107168349	a moral maxim
+107168435	a witty saying
+107168546	a condensed but memorable saying embodying some important fact of experience that is taken as true by many people
+107168754	a trite or obvious remark
+107168951	an obvious truth
+107169038	an expression whose meanings cannot be inferred from the meanings of the words that make it up
+107169374	a rural idiom or expression
+107169468	sayings of Jesus not recorded in the canonical Gospels
+107169576	a correct expression that takes the place of a popular but incorrect expression
+107169789	speech that differs from the usual accepted, easily recognizable speech of native adult members of a speech community
+107170134	the developing speech of a young child
+107170239	an adult's imitation of the speech of a young child
+107170369	the usage or vocabulary that is characteristic of a specific group of people
+107170799	the use of misspellings to identify a colloquial or uneducated speaker
+107170927	a regional dialect of a language (especially French); usually considered substandard
+107171083	a phrase or pronunciation that is peculiar to a particular locality
+107171205	a feature (as a pronunciation or expression or custom) that is characteristic of a particular region
+107171401	the language or speech of one individual at a particular period in life
+107171527	a long utterance by one person (especially one that prevents others from participating in the conversation)
+107171708	language characterized by terseness and ellipsis as in telegrams
+107171831	the everyday speech of the people (as distinguished from literary language)
+107171981	a characteristic language of a particular group (as among thieves)
+107173927	slang that replaces words with rhyming words or expressions and then typically omits the rhyming component
+107174118	informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar
+107174442	a verbal formula believed to have magical force
+107174767	a ritual recitation of words or sounds believed to have a magical effect
+107174947	an incantation used in conjuring or summoning a devil
+107175075	an evil spell
+107175286	speech intended for reproduction in writing
+107175403	speech you make to yourself
+107175534	the use of language to perform some act
+107176080	the act of making a proposal
+107176264	offer by an employer to contract to pay an employee at a given rate
+107176392	an offer of marriage
+107176563	an offer for a private bargain (especially a request for sexual favors)
+107176710	an informal reference to a marriage proposal
+107176845	something proposed (such as a plan or assumption)
+107177075	a proposal offered as an alternative to an earlier proposal
+107177196	a proposal intended to explain certain facts or observations
+107177331	a proposal offered for acceptance or rejection
+107177626	a new proposal
+107177761	a proposal of something previously rejected
+107177923	the first presentation of a bill in a legislature
+107178032	the second presentation of a bill in a legislature; to approve its general principles (Britain) or to discuss a committee's report and take a vote (US)
+107178244	a formal proposal for action made to a deliberative assembly for discussion and vote
+107178454	a motion calling for an immediate vote on the main question under discussion by a deliberative assembly
+107178639	an indirect suggestion
+107178814	a suggestion of some quality
+107179000	a tentative suggestion designed to elicit the reactions of others
+107179197	something offered (as a proposal or bid)
+107179623	an offer made by someone who has rejected a prior offer
+107179737	a formal proposal to buy at a specified price
+107179949	a bid that is higher than preceding bids
+107180061	a bid to buy all of a person's holdings
+107180157	a formal written offer to sell securities (filed with the SEC) that sets forth a plan for a (proposed) business enterprise
+107180429	a first draft of a prospectus; must be clearly marked to indicate that parts may be changed in the final prospectus
+107180752	an offer to buy shares in a corporation (usually above the market price) for cash or securities or both
+107180932	the offer of money for helping to find a criminal or for returning lost property
+107181083	an offering of common stock to existing shareholders who hold subscription rights or pre-emptive rights that entitle them to buy newly issued shares at a discount from the price at which they will be offered to the public later
+107181502	a special offering (usually temporary and at a reduced price) that is featured in advertising
+107181692	a monetary reward for helping to catch a criminal
+107181837	something offered to an adversary in the hope of obtaining peace
+107181977	an offer of two for the price of one
+107182066	the act of presenting a proposal
+107182229	something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted for the judgment of others (as in a competition)
+107182605	the entering of a legal document into the public record
+107182782	an authoritative direction or instruction to do something
+107183137	a contrary command cancelling or reversing a previous command
+107183274	(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed
+107183634	an order from a superior officer for troops to depart
+107183749	an order to appear in person at a given place and time
+107183893	a verbal command for action
+107184004	an order to report for military duty
+107184131	a formal statement of a command or injunction to do something
+107184394	an incorrect charge to a jury given by a judge
+107184499	something that is commanded
+107184621	the biblical commandments of Moses
+107184731	a pronouncement encouraging or banning some activity
+107184933	a directive issued by the President of the United States; usually addressed to all heads of departments and agencies
+107185118	a formal command or admonition
+107185223	an authoritative command or request
+107185311	a magical command; used by Ali Baba
+107185404	an explanation that results from interpreting something
+107185857	an interpretation that removes obstacles to understanding
+107186164	clarification that follows from the removal of ambiguity
+107186317	disambiguation of the sense of a polysemantic word
+107186436	personal interpretation of a text (especially of the Bible) using your own ideas
+107186591	an explanation or critical interpretation (especially of the Bible)
+107186768	the endeavor of a Moslem scholar to derive a rule of divine law from the Koran and Hadith without relying on the views of other scholars; by the end of the 10th century theologians decided that debate on such matters would be closed and Muslim theology and law were frozen
+107187208	a passage from the Bible that is used as the subject of a sermon
+107187407	a discussion that provides additional information
+107187630	elaboration of an interpretation by the use of decorative (sometimes fictitious) detail
+107187909	an interpretation based on the exact wording
+107188040	a strictly literal interpretation (as distinct from the intention)
+107188236	an interpretation of a matter from a particular viewpoint
+107188417	a particular interpretation or performance
+107188610	an interpretation of a text or action
+107188789	an interpretation formed by piecing together bits of evidence
+107188911	an interpretation that easily understandable and acceptable
+107189084	putting the wrong interpretation on
+107189436	a very embarrassing misunderstanding
+107189528	a kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately)
+107189753	misinterpretation caused by inaccurate reading
+107189892	the verbal act of agreeing
+107190226	agreement with a statement or proposal to do something
+107190514	consent by a patient to undergo a medical or surgical treatment or to participate in an experiment after the patient understands the risks involved
+107190724	(contract law) words signifying consent to the terms of an offer (thereby creating a contract)
+107190894	the act of conceding or yielding
+107191150	an automatic advance to the next round in a tournament without playing an opponent
+107191342	agreement of results or opinions
+107191464	concurrence of opinion
+107191622	agreement on a secret plot
+107191771	collusion
+107191852	agreeing with or consenting to (often unwillingly)
+107192097	a settlement of differences
+107192282	a final settlement
+107192432	the written record or promise of an arrangement by which accommodations are secured in advance
+107192584	a conclusive resolution of a matter and disposition of it
+107192842	resolution of a dispute prior to the rendering of a final decision by the trial court
+107192997	(matrimonial law) the division of property owned or acquired by marriage partners during their marriage
+107193185	the settlement of a debt by paying less than the amount demanded in exchange for extinguishing the debt
+107193358	an agreement on the terms on which an employee will leave
+107193499	a lucrative severance agreement offered to an employee (usually as an incentive to retire)
+107193652	an agreement by two or more people to commit suicide together at a given place and time
+107193852	a temporary accommodation of a disagreement between parties pending a permanent settlement
+107194002	an accommodation in which both sides make concessions
+107194269	an agreement in 1820 between pro-slavery and anti-slavery factions in the United States concerning the extension of slavery into new territories
+107194480	agreement expressed by (or as if expressed by) signing your name
+107194603	making something valid by formally ratifying or confirming it
+107194843	agreement of opinions
+107195032	a speech seconding a motion
+107195230	(law) the act of citing (as of spoken words or written passages or legal precedents etc.)
+107195447	the speech act of disagreeing or arguing or disputing
+107195703	a hostile disagreement face-to-face
+107195868	disagreement; especially disagreement with the government
+107196018	a difference of opinion
+107196113	lack of harmony or correspondence
+107196206	disagreement among those expected to cooperate
+107196373	discord resulting from a clash of ideas or opinions
+107196502	discord that splits a group
+107196595	a disagreement or argument about something important
+107197027	a weak or sham argument set up to be easily refuted
+107197145	a verbal dispute; a wrangling argument
+107197274	an outburst of controversy
+107197404	an argument in which the participants are trying to gain some advantage
+107197548	an argument that ignores all unfavorable evidence
+107197660	a conflict of opposed ideas or attitudes or goals
+107197811	a contentious speech act; a dispute where there is strong disagreement
+107198320	a controversy (especially over a belief or dogma)
+107198513	a difference (especially an unfortunate difference) between two opinions or two views or two situations
+107198684	a difference between the views of young people and their parents
+107198809	an angry dispute
+107199051	an intense verbal dispute
+107199205	noisy quarrel
+107199312	a silly altercation
+107199395	a quarrel about petty points
+107199625	a serious quarrel (especially one that ends a friendship)
+107199736	the verbal act of offering
+107199985	the verbal act of requesting
+107200328	a request for payment
+107200530	an expression of some desire or inclination
+107200808	a request (spoken or written) to participate or be present or take part in something
+107201188	a request to be present
+107201321	a colloquial expression for invitation
+107201488	earnest or urgent request
+107201810	a solemn and earnest appeal to someone to do something
+107201957	impassioned appeals to the prejudices and emotions of the populace
+107202146	an appeal intended to arouse patriotic emotions
+107202298	a humble request for help from someone in authority
+107202433	an entreaty addressed to someone of superior status
+107202656	a solicitation for money or food (especially in the street by an apparently penniless person)
+107202898	the act of soliciting money (as a gift or loan)
+107203045	insistent solicitation and entreaty
+107203230	a petition or appeal made to a person of superior status or rank
+107203345	a man's courting of a woman; seeking the affections of a woman (usually with the hope of marriage)
+107203639	a onetime custom during courtship of unmarried couples occupying the same bed without undressing
+107203790	reverent petition to a deity
+107204071	a ceremonial prayer invoking divine protection
+107204222	a spoken blessing
+107204293	a short prayer generally preceding the lesson in the Church of Rome or the Church of England
+107204439	prayers proclaiming God's anger against sinners; read in the Church of England on Ash Wednesday
+107204592	a prayer to avert or remove some evil or disaster
+107204699	a short prayer of thanks before a meal
+107204848	a prayer to God on behalf of another person
+107204950	a prayer asking God's help as part of a religious service
+107205134	a solemn supplication ceremony prescribed by the church
+107205244	a prayer for the repose of the soul of a dead person
+107205353	a request
+107205500	a call to return
+107205601	request for payment of a debt
+107205822	a document that must be accepted and paid by another person
+107205939	an urgent or peremptory request
+107206229	a demand by a sentry for a password or identification
+107206356	a final peremptory demand
+107206437	continual and persistent demands
+107206610	scrupulous or exaggerated insistence on purity or correctness (especially in language)
+107206789	a demand especially in the phrase
+107206900	the act of requiring; an authoritative request or demand, especially by a military or public authority that takes something over (usually temporarily) for military or public use
+107207171	a demand for a show of hands in a card game
+107207321	a demand by a broker that a customer deposit enough to bring his margin up to the minimum requirement
+107207505	the wage demanded from management for workers by their union representatives
+107207650	a request by children on Halloween; they pass from door to door asking for goodies and threatening to play tricks on those who refuse
+107207844	a request for information
+107208065	questioning a statement and demanding an explanation
+107208256	an instance of questioning
+107208618	formal systematic questioning
+107208953	a series of question put to an individual (such as a political candidate) to elicit their views
+107209159	(law) a pretrial interrogation of a witness; usually conducted in a lawyer's office
+107209336	a severe interrogation (often violating the rights or privacy of individuals)
+107209471	interrogation often accompanied by torture to extort information or a confession
+107209610	(law) close questioning of a hostile witness in a court of law to discredit or throw a new light on the testimony already provided in direct examination
+107209901	(law) the initial questioning of a witness by the party that called the witness
+107210064	(law) questioning of a witness by the party that called the witness after that witness has been subject to cross-examination
+107210290	a question asked in cross-examination
+107210425	a question phrased in such a way as to suggest the desired answer; a lawyer may ask leading questions on cross-examination
+107210629	a question that can be answered by yes or no
+107210735	the questioning of a person (or a conversation in which information is elicited); often conducted by journalists
+107211065	an interview to determine whether an applicant is suitable for a position of employment
+107211235	an interview conducted over the telephone
+107211342	a sentence of inquiry that asks for a reply
+107211681	a set of questions or exercises evaluating skill or knowledge
+107212197	an examination conducted at regular intervals to determine whether a candidate is qualified to practice law in a given jurisdiction
+107212549	an intensive examination testing a student's proficiency in some special field of knowledge
+107212779	examination to determine a candidate's preparation for a course of studies
+107212936	an examination administered at the end of an academic term
+107213097	a test that relies on a single indicator
+107213265	an examination administered in the middle of an academic term
+107213417	a quiz given without prior warning
+107213506	an examination conducted by spoken communication
+107213673	an examination taken by graduate students to determine their fitness to continue
+107213851	an examination consisting of a few short questions
+107213988	a written examination
+107214116	final honors degree examinations at Cambridge University
+107214225	the speech act of continuing a conversational exchange

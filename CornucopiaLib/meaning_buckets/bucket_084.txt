@@ -1,0 +1,1000 @@
+200177146	empty (a vessel) by bailing
+200177253	remove (someone's or one's own) clothes
+200177588	remove an organ or bodily structure
+200177724	remove unwanted substances from, such as feathers or pits
+200177871	remove shells or husks from
+200177994	blow away or off with a current of air
+200178216	remove in small bits
+200178349	free (the throat) by making a rasping sound
+200178494	remove muck, clear away muck, as in a mine
+200178616	remove from a surface
+200178766	take off or away by decreasing
+200178887	remove from a seedbed or from a nursery
+200179012	remove by pulling or ripping violently and forcefully
+200179205	take away or remove
+200179372	remove a cloak from
+200179456	take out or remove
+200179712	remove the pits from
+200179863	remove the seeds from
+200179997	remove the hinges from
+200180104	remove the shucks from
+200180221	remove the hulls from
+200180342	remove crumbs from
+200180460	remove or withdraw gradually:
+200180640	remove the burls from cloth
+200180747	destroy or break forcefully
+200180873	remove used dishes from the table in restaurants
+200180982	remove unwanted substances from
+200181150	remove the pituitary glands
+200181325	remove gas from
+200181403	remove the husks from
+200181579	remove the burrs from
+200181704	remove from sight
+200181809	rid of obstructions
+200182020	fill a space in a disorderly way
+200182182	fill to excess so that function is impaired
+200182414	fill as much as possible
+200182551	make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of
+200183386	make unnecessary additions to what is already complete
+200183528	attach or add
+200183651	add by mixing or blending on or attaching
+200183902	make an addition
+200184024	add as part of something else; put in as part of a set, group, or category
+200184262	add as an additional element or part
+200184522	add an enlivening or altering element to
+200184656	add to something existing
+200184778	introduce the butyl group into a chemical compound
+200184931	add to the odometer
+200185052	treat with iodine
+200185248	treat with nitric acid, so as to change an organic compound into a nitrate
+200185493	treat in a tank
+200185610	impregnate, combine, or supply with oxygen
+200185843	treat to strengthen and improve the luster
+200186002	strengthen by providing with a back or backing
+200186146	treat with malt or malt extract
+200186306	subject to fluoridation; treat with fluoride
+200186591	treat with creosote
+200186712	treat or combine with chlorine
+200186885	treat with carbon dioxide
+200187057	treat with camphor
+200187161	treat with bromine
+200187292	treat with ammonia
+200187413	to introduce (a new aspect or element)
+200187560	put a welt on
+200187671	place, fit, or thrust (something) into another thing
+200188206	insert as a plug
+200188343	insert a plug into
+200188458	replace the center of a coin with a baser metal
+200188584	introduce a microorganism into
+200188707	inoculate with microorganisms
+200188798	set or place in
+200188912	put in a glass container
+200189053	insert a catheter into (a body part)
+200189281	convert illegally obtained funds into legal ones
+200189394	put into a cup
+200189521	introduce one's writing or speech with certain expressions
+200189696	intersperse alternately, as of protective covers for book illustrations
+200189843	introduce continuously
+200190001	insert inconspicuously or quickly or quietly
+200190155	insert surreptitiously or without warrant
+200190259	insert (days) in a calendar
+200190355	insert punctuation marks into
+200190512	add by linking or joining so as to form a chain or series
+200190721	add as if on a string
+200190918	remove with a flick (of the hand)
+200191014	make active or more active
+200191218	make (substances) radioactive
+200191331	aerate (sewage) so as to favor the growth of organisms that decompose organic matter
+200191552	break down naturally through the action of biological agents
+200191717	make more adsorptive
+200191849	make inactive
+200192060	remove from active military status or reassign
+200192272	activate (an old file) anew
+200192383	make less lively, intense, or vigorous; impair in vigor, force, activity, or sensation
+200192688	reduce the edge or violence of
+200192803	cause to become stonelike or stiff or dazed and stunned from fright
+200193003	make more interesting or lively
+200193180	make lively
+200193474	infuse with spirit
+200193672	become lifeless, less lively, intense, or active; lose life, force, or vigor
+200193830	put or add together
+200194134	make into a total
+200194298	to combine or put together again
+200194423	draw the last milk (of cows)
+200194514	take milk from female mammals
+200194717	add milk to
+200194878	take off or remove
+200195040	remove a constituent from a liquid
+200195156	remove the thread (of screws)
+200195256	lay bare
+200195435	remove all the trees at one time
+200195565	remove tree stumps from
+200195686	remove
+200195961	make a way or path by removing objects
+200196157	strip the leaves or branches from
+200196368	remove the trees from
+200196596	clear land of its vegetation by burning it off
+200196708	damage by burning with heat, fire, or radiation
+200196970	damage by frost
+200197133	burn with a hot liquid or steam
+200197365	remove the claws from
+200197466	remove the fangs from
+200197581	take the horns off (an animal)
+200197693	destroy undeveloped horn buds (of cattle)
+200197798	remove the bones from
+200197965	remove the entrails of
+200198119	remove from its shell or outer covering
+200198331	remove from the shell
+200198432	take something out of its shell or pod
+200198588	remove the tusks of animals
+200198742	prevent the growth of horns of certain animals
+200198852	remove the scalp of
+200198998	remove (hair) by scalping
+200199085	make less fast or intense
+200199225	make less severe or harsh
+200199442	alleviate or remove (pressure or stress) or make less oppressive
+200199684	make more specific
+200199854	do over, as of (part of) a house
+200200023	make right or correct
+200200276	set straight or right
+200200606	locate and correct errors in a computer program code
+200200761	prepare for publication or presentation by correcting, revising, or adapting
+200201227	cut or eliminate
+200201398	edit by omitting or modifying parts considered indelicate
+200201771	insert words into texts, often falsifying it thereby
+200201982	significantly cut up a manuscript
+200202086	cut and assemble the components of
+200202270	suppress by censorship as for political reasons
+200202453	cut out, as for political reasons
+200202600	falsify knowingly
+200202809	correct by punishment or discipline
+200202933	make submissive, obedient, or useful
+200203148	be broken in
+200203298	change by restraining or moderating
+200203443	alter from the original
+200203575	change the inherent purpose or function of something
+200203918	use wrongly or improperly or excessively
+200204101	violate or abuse
+200204228	grow worse
+200204643	suffer a sudden downfall, overthrow, or defeat
+200204753	get worse
+200204947	drop to a lower level, as in one's morals or standards
+200205112	get worse
+200205234	be set at a disadvantage
+200205454	get better
+200206006	improve significantly; go from bad to good
+200206174	become brisk
+200206293	to make better
+200207205	improve dramatically
+200207406	improve; change for the better
+200207592	to improve what was old or outdated
+200207826	put into a better state
+200207996	bring into an improved condition
+200208136	lower the grade of something; reduce its worth
+200208319	make improvements or corrections to
+200208463	settle or put right
+200208618	make worse
+200208905	become worse or disintegrate
+200209099	become ruined
+200209244	fall into decay or ruin
+200209582	separate (substances) into constituent elements or parts
+200209846	soften or disintegrate by means of chemical action, heat, or moisture
+200210024	to undergo a reversible or temporary breakdown of a molecule into simpler molecules or atoms
+200210263	break down
+200210536	suspend (meat) in order to get a gamey taste
+200210685	become unfit for consumption or use
+200210907	become affected with smut
+200211073	become rotten
+200211164	become moldy; spoil due to humidity
+200211427	affect or be affected with dry rot
+200211534	lose water or moisture
+200211822	remove water from
+200212068	put clothes in a tumbling barrel, where they are whirled about in hot air, usually with the purpose of drying
+200212278	preserve by rapid freezing and subsequently drying in a vacuum
+200212475	preserve with sugar
+200212662	to dry (blood, serum, or tissue) by freezing in a high vacuum
+200212840	prevent (food) from rotting
+200213216	preserve by removing all water and liquids from
+200213460	prepare (a metal) for soldering or brazing by applying a thin layer of solder to the surface
+200213649	preserve in a pickling liquid
+200213779	preserve with salt
+200213970	soak in marinade
+200214138	steep in hot water
+200214220	preserve in a can or tin
+200214446	cause to be hydrated; add water or moisture to
+200214694	become hydrated and combine with water
+200214833	supply water or liquid to in order to maintain a healthy balance
+200215050	cause to heat and crumble by treatment with water
+200215220	alter by exposure to air with conversion at least in part to a carbonate
+200215377	cause to become wet
+200215680	cover with drops of dew or as with dew
+200215789	dry (clothes) by spinning and making use of centrifugal forces
+200215917	dry by spinning with hot air inside a cylinder
+200216087	dry by bringing into the form of a spray, through contact with a hot gas
+200216226	make (more) humid
+200216483	make less humid
+200216642	cover with liquid; pour liquid onto
+200216987	soak in brine
+200217118	make wet and dirty, as from rain
+200217227	soak in a special solution to soften and remove chemicals used in previous treatments
+200217417	place (flax, hemp, or jute) in liquid so as to promote loosening of the fibers from the woody tissue
+200217578	cover with liquid, usually water
+200217853	cover or swamp with water
+200218002	wash or flow against
+200218126	fill or cover completely, usually with water
+200218382	make moist
+200218640	moisten or soil
+200218756	cause to wither or parch from exposure to heat
+200218901	remove the moisture from and make dry
+200219314	dry without smoothing or ironing
+200219438	make slippery or smooth through the application of a lubricant
+200219650	dry hair with a hair dryer
+200219742	dry by hanging up wet
+200219829	become dry or drier
+200220023	become scorched or singed under intense heat or dry conditions
+200220201	become rigid or immoveable
+200220389	become unlocked
+200220541	get caught
+200220702	become free
+200220887	gain strength
+200221127	become weaker, in strength, value, or magnitude
+200221295	make strong or stronger
+200221839	solidify, firm, or strengthen
+200222033	make strong again
+200222144	make secure underneath
+200222266	make more firm
+200222390	protect or strengthen with sandbags; stop up
+200222561	add alcohol to (beverages)
+200222754	add nutrients to
+200222898	make stronger
+200223154	make stronger or defensible
+200223287	reinforce with a buttress
+200223419	reinforce with fabric
+200223535	establish as valid or genuine
+200223676	give supporting evidence
+200223800	support and strengthen
+200223926	become weaker
+200224354	become less intense and fade away gradually
+200224594	become progressively weaker
+200224721	suffer spiritual death; be damned (in the religious sense)
+200224886	lose significance, effectiveness, or value
+200225077	become less clearly visible or distinguishable; disappear gradually or seemingly
+200225327	lessen the strength of
+200225864	lessen the activity or force of
+200226006	remove a brace or braces from
+200226116	make weak by stunting the growth or development of
+200226258	deprive of strength or efficiency; make useless or worthless
+200226497	lessen the strength or flavor of a solution or mixture
+200226805	weaken the consistency of (a chemical substance)
+200226992	become more intense
+200227308	develop and grow
+200227468	make twice as great or intense
+200227591	make more intense, stronger, or more marked
+200228093	make more intense
+200228231	make (an emotion) fiercer
+200228339	make less sharp
+200228445	make less intense
+200228553	cover with blood
+200228662	supply with water, as with channels or ditches or streams
+200228947	water with a hose
+200229081	scatter with liquid; wet lightly
+200229284	distill (alcohol) illegally; produce moonshine
+200229452	undergo the process of distillation
+200229706	extract by the process of distillation
+200230031	increase
+200230227	increase the effect of or act synergistically with (a drug or a physiological or biochemical phenomenon)
+200230459	make better or more attractive
+200230702	increase the effectiveness or success of by further action
+200230988	alter so as to produce a more desirable appearance
+200231172	become larger, greater, or bigger; expand or gain
+200231714	grow or spread abnormally
+200231871	grow and spread fast
+200231983	increase in size by natural process
+200232402	grow below something
+200232527	grow by producing or unfolding leaves
+200232651	grow like a plant
+200232796	produce vegetation
+200232932	establish vegetation on
+200233086	grow beyond or across
+200233215	become overgrown
+200233328	wear off or die down
+200233461	decrease gradually or bit by bit
+200233575	narrow or limit
+200233707	prevent the action or expression of
+200234091	place limits on (extent or amount or access)
+200234758	expand in the form of a series
+200234918	limit or restrict to
+200235091	restrict (school boys') movement to the dormitory or campus as a means of punishment
+200235237	reasonably object (to) or set a limit (on)
+200235426	set boundaries to and delimit
+200235558	keep in check
+200235689	restrain the emission of (sound, fluid, etc.)
+200235827	continue or extend
+200236085	restrict or confine within limits
+200236613	restrain
+200236768	place a limit on the number of
+200236954	restrict the number or amount of
+200237139	prevent the progress or free movement of
+200237442	place restrictions on
+200237729	lessen, diminish, or curtail
+200237885	cook until very little liquid is left
+200238145	be cooked until very little liquid is left
+200238397	make denser, stronger, or purer
+200238590	be the essential element
+200238763	to remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons
+200239141	subject to a reduction process
+200239258	break into simpler molecules by means of heat
+200239428	reduce (petroleum) to a simpler compound by cracking
+200239606	subject to catabolism
+200239753	add oxygen to or combine with oxygen
+200240207	enter into a combination with oxygen or become converted into an oxide
+200240500	become coated with oxide
+200240640	reach full flavor by absorbing air and being let to stand after having been uncorked
+200240859	deoxidize molten metals by stirring them with a wooden pole
+200241017	make smaller
+200241179	make large
+200241457	become smaller or draw together
+200241696	become longer by being stretched and pulled
+200241924	reduce in size; reduce physically
+200242285	reduce (a sail) by taking in a reef
+200242382	design or construct on a smaller scale
+200242575	wither, as with a loss of moisture
+200242810	shrivel or wither or mature imperfectly
+200242912	suffer from a disease that kills shoots
+200243091	dry up and shrivel due to complete loss of moisture
+200243282	make less complex
+200243466	unite into one
+200243633	bring together into a single whole or system
+200243862	unite closely or intimately
+200244010	join or combine
+200244265	unite in one common substance
+200244458	become united in substance
+200244635	shorten
+200244786	reduce in scope while retaining essential elements
+200245170	shorten lines in a drawing so as to create an illusion of depth
+200245302	put in a short or concise form; reduce in volume
+200245511	make more concise
+200245809	make smaller or shorter
+200245945	become less in amount or intensity
+200246175	make less active or intense
+200246343	cause to grow or develop
+200246666	grow in a special preparation
+200246799	plant or grow in a fixed cyclic order of succession
+200247011	grow as twins
+200247103	increase twofold
+200247361	double again
+200247474	arrange or combine in pairs
+200247632	increase threefold
+200247816	become abundant; increase rapidly
+200247934	increase fourfold
+200248120	increase fivefold
+200248276	combine or increase by multiplication
+200248588	make multiple copies of
+200248716	cause to grow or increase rapidly
+200248912	grow old or older
+200249273	become officially one year older
+200249398	begin to seem older; get older
+200249545	develop in a positive way
+200249903	improve one's social status
+200250074	progress by large jumps instead of small increments
+200250199	get worse or fall back to a previous condition
+200250442	become mentally inflexible
+200250565	make older
+200250738	grow ripe
+200250855	cause to ripen or develop fully
+200251067	develop and reach maturity; undergo maturation
+200251425	become attached by or as if by the process of growth
+200251577	accept and make use of one's personality, abilities, and situation
+200251763	make younger or more youthful
+200251950	undergo development or evolution
+200252156	come up with
+200252349	work out in detail
+200252501	develop or evolve from a latent or potential state
+200252677	come from
+200252905	grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment
+200253596	become adolescent; pass through adolescence
+200253876	form or accumulate steadily
+200254163	bolster or strengthen
+200254387	give an antique appearance to
+200254550	make obsolete or old-fashioned
+200254647	cause to grow and differentiate in ways conforming to its natural development
+200255036	grow under conditions that promote development
+200255184	make or grow (more) mellow
+200255372	become more relaxed, easygoing, or genial
+200255558	soften, make mellow
+200255753	become soft or softer
+200255965	form a crust or a hard layer
+200256158	become encrusted with crystals due to evaporation
+200256275	make soft or softer
+200256540	harden steel by adding carbon
+200256638	form a callus or calluses
+200256766	cause a callus to form on
+200256913	make less rigid or softer
+200257003	become inflated
+200257169	become inflated again
+200257255	cause to bulge or swell outwards
+200257393	expand abnormally
+200257748	swell from or as if from internal pressure
+200257973	cause to expand as it by internal pressure
+200258155	become larger in size or volume or quantity
+200258421	swell out or bulge out
+200258536	cause to become swollen
+200258723	cause to become very swollen
+200258833	take in water at the bilge
+200258995	have an opening that allows light or substances to enter or go out
+200259252	crack; of the male voice in puberty
+200259414	cause to leak
+200259551	render inoperable or ineffective
+200259743	inflict damage upon
+200260268	damage beyond the point of repair
+200260446	damage (plant tissue) by abrasion or pressure
+200260641	damage as if by shaking or jarring
+200260813	cause physical pain or suffering in
+200261028	assail
+200261197	overwhelm or overpower
+200261356	cause damage or affect negatively
+200261534	restore by replacing a part or putting together what is torn or broken
+200262200	try to fix or mend
+200262419	plug with a substance
+200262591	repair by adding pieces
+200262731	repair or mend
+200262843	repair the joints of bricks
+200262962	make repairs, renovations, revisions or adjustments to
+200263234	substitute new or modernized parts or equipment for older ones
+200263435	solve problems
+200263589	mend by putting a patch on
+200263767	make worse or less effective
+200263930	add a flaw or blemish to; make imperfect or defective
+200264117	swell or protrude outwards
+200264357	make concave; shape like a dish
+200264450	stick out or up
+200264568	to swell or cause to enlarge
+200264790	increase the volume of
+200264920	fill with gas or air
+200265171	inflate again
+200265272	exaggerate or make bigger
+200265464	make larger or distend
+200265591	become deflated or flaccid, as by losing air
+200265761	turn acidic
+200265980	turn basic and less acidic
+200266272	make changes for improvement in order to remove abuse and injustices
+200266559	improve by alteration or correction of errors or defects and put into a better condition
+200266827	break up the molecules of
+200266967	produce by cracking
+200267083	undergo polymerization
+200267277	polymerize together
+200267472	cause (a compound) to polymerize
+200267684	convert into ions
+200267927	become converted into ions
+200268135	become bony
+200268251	cause to become hard and bony
+200268405	change by catalysis or cause to catalyze
+200268567	become smaller or lose substance
+200268741	make lower or quieter
+200268897	improve in health
+200269051	deteriorate in health
+200269200	diminish or abate
+200269363	cause to be paralyzed and immobile
+200269566	affect with palsy
+200269682	make powerless and unable to function
+200269854	make senseless or dizzy by or as if by a blow
+200270026	cause to be unable to move
+200270309	prohibit the conversion or use of (assets)
+200270568	make (assets) available
+200270775	convert (assets) into fixed capital
+200270891	cause to move around
+200271014	make ready for action or use
+200271239	make sour or bitter
+200271360	heal or recover
+200271498	be unstable
+200271625	make stable and keep from fluctuating or put into an equilibrium
+200272000	stabilize (the price of a commodity or an exchange rate) by legislation or market operations
+200272202	make steady with a ballast
+200272319	steady or support with a guy wire or cable
+200272510	make unstable
+200272745	become stable or more stable
+200272976	become unstable
+200273190	make sensitive or aware
+200273482	make insensitive
+200273709	cause to accept or become hardened to; habituate
+200273913	make insensitive or callous; deaden feelings or morals
+200274056	prepare mentally or emotionally for something unpleasant
+200274244	make psychologically or physically used (to something)
+200274533	accustom gradually to some action or attitude
+200274762	become destroyed by water, air, or a corrosive such as an acid
+200275082	cause to deteriorate due to the action of water, air, or an acid
+200275432	wear away or erode
+200275523	remove soil or rock
+200275741	form by erosion
+200275887	change under the action or influence of the weather
+200276052	become ground down or deteriorate
+200276265	wear away through erosion or vaporization
+200276406	make regular or more regular
+200276642	put (things or places) in order
+200276867	put in order or neaten
+200277013	make a mess of or create disorder in
+200277172	bring disorder to
+200277400	throw into great confusion or disorder
+200277653	place in a certain order
+200277856	establish something as being earlier relative to something else
+200278024	establish something as being later relative to something else
+200278169	establish the order in time of something
+200278429	bring order to or into
+200278705	make straight or straighter
+200278887	disturb the arrangement of
+200279050	put into a new order or arrangement
+200279284	put into a different code; rearrange mentally
+200279480	reorganize and assign posts to different people
+200279669	arrange in random order
+200279845	arrange serially
+200280009	arrange in alphabetical order
+200280235	make whiter or lighter
+200280431	bleach with peroxide
+200280592	remove color from
+200280882	lose color in the process of being washed
+200281071	turn white
+200281302	make or become black
+200281547	convert into, or infiltrate with melanin
+200281690	become lighter
+200281861	change color, often in an undesired manner
+200282463	color with blackwash
+200282550	cause to become sallow
+200282673	give the color and appearance of bronze to something
+200282836	cause to lose or change color
+200283103	drain off the color in the course of laundering
+200283283	change color
+200283412	turn silver
+200283550	grow leaves
+200283693	lose color or turn colorless
+200283850	color with dye
+200284175	color for microscopic study
+200284344	dye thoroughly
+200284424	apply henna to one's hair
+200284565	dye (fabric) before it is spun
+200284671	add color to
+200285429	make motley; color with different colors
+200285573	color with many colors; make polychrome
+200285718	color azure
+200285848	color purple
+200285991	turn golden
+200286074	color verdigris
+200286174	make pink
+200286266	make flesh-colored
+200286353	color a moderate to strong red
+200286465	make brown in color
+200286616	color by hand
+200286768	color with a liquid dye or tint
+200287093	stain black to make it look like ebony
+200287243	stain an object by immersing it in a liquid
+200287365	produce or leave stains
+200287558	stain with a dirty substance, such as soot
+200287688	color lightly
+200288018	color or dye with a pigment
+200288152	acquire pigment; become colored or imbued
+200288320	stain or tinge with a slight amount of a color
+200288497	suffuse with color
+200288610	give a certain color to
+200288779	take on color or become colored
+200288954	dye with fast colors
+200289076	dye twice
+200289153	dye after knotting the fabric to produce an irregular pattern
+200289325	give retouches to (hair)
+200289435	dye by hand
+200289576	dye with wax
+200289709	dye after weaving
+200289793	turn red or redder
+200289921	become rosy or reddish
+200290059	become purple
+200290154	turn grey
+200290294	make silver in color
+200290441	make grey
+200290602	turn yellow
+200290736	change to a color image
+200290894	change the color or tone of
+200291064	increase in extent or intensity
+200291343	double in magnitude, extent, or intensity
+200291502	reduce the level or intensity or size or scope of
+200291745	diminish in size, scope, or intensity
+200291925	send out real or metaphoric rays
+200292048	give out or emit (also metaphorically)
+200292206	expose to radiation
+200292386	direct high energy particles or radiation against
+200292519	cast rays of light upon
+200292635	make lighter or brighter
+200293009	illuminate with floodlights
+200293130	illuminate with a spotlight, as in the theater
+200293269	cease, stop
+200293434	destroy or injure severely
+200293639	terminate or abbreviate before its intended or proper end or its full extent
+200293903	make more beautiful
+200294191	make ugly
+200294290	make something appear superficially attractive
+200294522	develop or come to a promising stage
+200294739	make neat, smart, or trim
+200295007	produce or yield flowers
+200295284	come into or as if into flower
+200295480	bring forth a spike or spikes
+200295646	make more temperate, acceptable, or suitable by adding something else
+200295901	make fit
+200296035	adjust the pitch (of pianos)
+200296127	adjust the pitches of (musical instruments)
+200296344	cause to be out of tune
+200296478	make fine adjustments or divide into marked intervals for optimal measuring
+200296747	adjust for (better) functioning
+200296959	alter or regulate so as to achieve accuracy or conform to a standard
+200297754	adjust so that a force is applied and an action occurs at the desired time
+200297974	adjust (sails on a ship) so that the wind is optimally used
+200298114	adjust (as by firing under test conditions) the zero of (a gun)
+200298288	adjust (an instrument or device) to zero value
+200298450	adjust again after an initial failure
+200298561	adjust or accustom to; bring into harmony with
+200298687	regulate or set the time of
+200298848	make correspondent or conformable
+200299025	set the level or character of
+200299201	set to a certain pitch
+200299337	set to a certain position or cause to operate correctly
+200299554	set to zero
+200299677	put into a certain state; cause to be in a certain state
+200299969	set the keynote of
+200300122	fix or adjust the time, amount, degree, or rate of
+200300361	make fit for, or change to suit a new purpose
+200300894	insert or adjust several objects or people
+200301098	make English in appearance
+200301318	make fit
+200301542	make fit or prepared
+200301770	qualify for teaching at a university in Europe
+200301960	make capable
+200302119	make unfit or unsuitable
+200302325	fit for a specific purpose even when not well suited
+200302443	adjust to a specific need or market
+200302637	make fit for cultivation, domestic life, and service to humans
+200302911	overcome the wildness of; make docile and tractable
+200303245	adapt (a wild plant or unclaimed land) to the environment
+200303544	adjust finely
+200303656	harden by reheating and cooling in oil
+200303837	bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling
+200304090	make tough or tougher
+200304246	become broader or wider or more extensive
+200304442	make wider
+200304587	widen the interlinear spacing by inserting leads
+200304721	make (clothes) larger
+200304881	make (clothes) smaller
+200305033	become flared and widen, usually at one end
+200305203	become tight or as if tight
+200305443	become constricted or compressed
+200305609	become constricted
+200305727	become narrow, like a bottleneck
+200305890	make or become more narrow or restricted
+200306198	become smaller or less active
+200306318	become wider
+200306627	burst inward
+200306798	burst outward, usually with noise
+200307079	burst and release energy as through a violent chemical or physical reaction
+200307321	be unleashed; emerge with violence or noise
+200307505	cause to burst with a violent release of energy
+200307842	cause to explode violently and with loud noise
+200307973	explode heavily or with a loud dull noise
+200308077	be discharged or activated
+200308201	blow up with dynamite
+200308350	become active and spew forth lava and rocks
+200308567	erupt or intensify suddenly
+200308887	burst or split open
+200309051	dehydrogenate with oxygen
+200309181	remove hydrogen from
+200309316	combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound)
+200309557	change (a compound) by increasing the proportion of the electronegative part; or change (an element or ion) from a lower to a higher positive valence: remove one or more electrons from (an atom, ion, or molecule)
+200309856	become raw or open
+200310092	come open suddenly and violently, as if from internal pressure
+200310364	burst open with a sharp, explosive sound
+200310574	cause to burst with a loud, explosive sound
+200310772	be pierced or punctured
+200310937	burst suddenly
+200311056	burst or force (a hole) into something
+200311168	grow vigorously
+200311417	grow rapidly
+200311594	thrive profusely or flourish extensively
+200311719	give a boost to; be beneficial to
+200311895	become vague or indistinct
+200312120	remove completely from recognition or memory
+200312341	make dark or darker
+200312647	darken with a brownish tinge, as of insect wings
+200312762	cause to darken
+200312842	make dark, dim, or gloomy
+200312947	make a dun color
+200313060	make dim by comparison or conceal
+200313162	become dark or darker
+200313357	become dusk
+200313430	darken completely
+200313597	make more cheerful through the use of color
+200313791	make dim or indistinct
+200313972	clear of weeds
+200314155	clear of weeds by uprooting them
+200314265	make dim or lusterless
+200314386	become dim or lusterless
+200314513	make obscure or unclear
+200314661	make darker and difficult to perceive by sight
+200314788	make undecipherable or imperceptible by obscuring or concealing
+200315073	put (an image) into focus
+200315406	put again into focus or focus more sharply
+200315583	become focussed or come into focus
+200315821	lose in value
+200316131	lower the value of something
+200316406	increase the value of
+200316611	value anew
+200316757	reduce the estimated value of something
+200316996	gain in value
+200317191	make soundproof
+200317295	become short or shorter
+200317432	become long or longer
+200317569	make shorter than originally intended; reduce or retrench in length or duration
+200317887	omit a sound or letter in a word
+200318042	make shorter as if by cutting off
+200318269	become broader
+200318370	make broader
+200318501	make longer
+200318689	lengthen in time; cause to be or last longer
+200319127	prolong the time allowed for payment of
+200319285	draw out a discussion or process in order to gain time
+200319507	prolong or extend
+200319617	make long or longer by pulling and stretching
+200319912	stretch (a shoe) on a shoetree
+200320015	make to a size; bring to a suitable size
+200320207	size or measure according to a scale
+200320430	change the size of; make the size more appropriate
+200320562	establish on a new scale
+200320687	cook and make edible by putting in a hot oven
+200320922	bake in an oven
+200321047	fry in a pan until it changes color
+200321211	cook in nearly boiling water
+200321337	bake in a kiln so as to harden
+200321482	fill with a stuffing while cooking
+200321712	make a fetish of
+200321821	bring (a country or people) under feudalism
+200321949	fill tightly with a material
+200322142	stuff with cork
+200322287	add padding to
+200322453	cover with liquid before cooking
+200322602	cook in a marinade
+200322737	cook or heat in a microwave oven
+200322952	make brown and crisp by heating
+200323196	bake (eggs) in their shells until they are set
+200323360	cook (vegetables) briefly
+200323520	boil excessively
+200323648	transform and make suitable for consumption by heating
+200324178	transform by heating
+200324372	cook too long
+200324504	make a fricassee of by cooking
+200324657	cook slowly and for a long time in liquid
+200324872	stew in an earthenware jug
+200325032	boil slowly at low temperature
+200325228	boil vigorously
+200325361	cook with dry heat, usually in an oven
+200325607	cook outdoors on a barbecue grill
+200325886	roast in a pan
+200326009	cook in liquid
+200326129	cook on a hot surface using fat
+200326448	fry something until it curls and becomes crisp
+200326578	fry in deep fat
+200326711	cook on a griddle
+200326850	fry in a pan
+200326971	make slender or appear to be slender
+200327111	cook by immersing in fat
+200327260	fry very quickly over high heat
+200327420	fry briefly over high heat
+200327574	cook over or under a grill
+200327820	cook over a hibachi grill
+200327955	cook something by letting steam pass over it
+200328172	let sit in a liquid to extract a flavor or to cleanse
+200328464	undergo the process of infusion
+200328623	sit or let sit in boiling water so as to extract the flavor
+200328792	steep; pass through a strainer
+200328938	immerse or be immersed in a boiling liquid, often for cooking purposes
+200329180	cook under a broiler
+200329389	broil in a pan
+200329489	cook in a pressure cooker
+200329612	divide into two or more branches so as to form a fork
+200330054	grow and send out branches or branch-like structures
+200330305	branch out like trees
+200330464	branch out in a twiglike manner
+200330627	divide into two branches
+200330813	divide into three
+200330954	break up into small particles
+200331236	separate by dialysis
+200331375	cause to separate
+200331561	scatter (radiation) by the atoms of the medium through which it passes
+200331719	disperse in a medium into a colloidal state
+200331892	reduce to small pieces or particles by pounding or abrading
+200332324	break down and crush by beating, as with a pestle
+200332523	reduce to pulp
+200332652	grind, mash or pulverize in a mortar
+200332827	grind with a mill
+200332964	make into a powder by breaking up or cause to become dust
+200333255	become powder or dust
+200333482	become undone
+200333645	separate or apportion into sections
+200333876	divide into smaller and smaller pieces
+200334087	form into subdivisions
+200334236	partition by means of a divider, such as a screen
+200334404	break open or apart suddenly and forcefully
+200334568	break into many pieces
+200334717	cause to break into many pieces
+200334860	damage or destroy
+200334996	become separated into pieces or fragments
+200335459	break suddenly into pieces, as from a violent blow
+200335613	come unraveled or undone as if by snagging
+200335806	destroy the integrity of; usually by force; cause to separate into pieces or fragments
+200336176	break into pieces
+200336365	break so as to fall inward
+200336507	break in the staves (of)
+200336624	break apart or in two, using violence
+200336733	break into pieces, as by striking or knocking over
+200336968	shatter as if by explosion
+200337070	become fractured; break or crack on the surface only
+200337349	make cracks or chinks in
+200337528	cause to become cracked
+200337732	break into fissures or fine cracks
+200337875	break suddenly and abruptly, as under tension
+200338044	break partially but keep its integrity
+200338238	crack due to dehydration
+200338378	develop a fine network of cracks
+200338510	crack and acquire the appearance of alligator hide, as from weathering or improper application; of paint and varnishes
+200338713	break up into splinters or slivers
+200338881	break or cause to break into pieces
+200339369	declare void
+200339546	break into lumps before sorting
+200339676	break into crumbs
+200339774	break into breccia
+200339895	break into small pieces
+200340078	break up into small pieces for food preparation
+200340274	happen
+200340548	result or issue
+200340744	come to pass
+200341496	come about or follow as a consequence
+200341638	occur between other event or between certain points of time
+200341832	come about, happen, or occur
+200341976	occur
+200342077	take place as an additional or unexpected development
+200342215	follow a certain course
+200342412	proceed for an extended period of time
+200342572	come to pass; arrive, as in due course
+200342819	come as if by falling
+200342969	go as if by falling
+200343098	occur at a specified time or place
+200343295	be a forerunner of or occur earlier than
+200343467	be found or available
+200343635	be gradually disclosed or unfolded; become manifest
+200343834	come to light; become known
+200343988	happen or occur again
+200344254	run or be performed again
+200344425	recur in repeating sequences
+200344552	happen in a particular manner
+200344696	happen regularly
+200344828	come into being; become reality
+200345146	become immaterial; disappear
+200345297	happen, occur, or be the case in the course of events or by chance
+200345540	happen as a result
+200345654	become of; happen to
+200345838	produce as a consequence of something larger
+200345966	happen simultaneously
+200346162	start abruptly
+200346306	start to grow or develop
+200346415	take the first step or steps in carrying out an action
+200347191	begin again
+200347368	set out on a course of action
+200347493	begin vigorously
+200347612	begin suddenly and sometimes violently
+200347758	set off quickly, usually with success
+200347930	arrive at the point of
+200348074	commence in a manner calculated to bring good luck
+200348264	set to work upon; turn one's energies vigorously to a task
+200348458	start in a certain activity, enterprise, or role
+200348572	begin with vigor
+200348757	occur or become available
+200348906	set out on (an enterprise or subject of study)
+200349076	pursue or resume
+200349195	start to be active
+200349400	set in motion, cause to start
+200349877	start or re-start vigorously
+200350070	cause to start anew
+200350246	be a precursor of
+200350439	set in motion or cause to begin
+200350605	transfer or persist from one stage or sphere of activity to another
+200350758	take up or begin anew
+200350937	return to a previous location or condition
+200351115	be persistent, refuse to stop
+200351543	persist stubbornly
+200351702	persist with actions or an attitude despite the probability that it will cause trouble
+200351920	persist in working hard
+200352060	keep to
+200352230	go out of existence
+200352373	terminate
+200352478	end, at least for a long time
+200352617	cause to finish a relationship with somebody
+200352791	finish a game in baseball by protecting a lead
+200352964	cease operating
+200353073	become extinguished
+200353212	finally be or do something
+200353480	bring to an end or halt
+200354293	terminate a relationship abruptly
+200354493	terminate before completion
+200354684	bring to a head or to the highest point
+200354849	put an end to
+200354971	terminate
+200355106	stop the flow of a liquid
+200355288	arrest the motion (of something) abruptly
+200355499	disappear or come to an end
+200355692	end or extinguish by forceful means
+200355831	destroy a vitally essential quality of or in
+200356019	cause to cease operating
+200356178	tire out completely
+200356324	close with a snapping motion
+200356457	come to an end
+200356609	bring the association of to an end or cause to break up
+200356912	undergo or cause to undergo a change in the surface
+200357303	become level or even
+200357443	form a crust or form into a crust
+200357608	bend out of shape, as under pressure or from heat
+200357852	rise upward, as from pressure or moisture
+200357986	produce buds, branches, or germinate
+200358321	cause to grow or sprout
+200358508	grow and flourish
+200358652	develop buds
+200358789	take root and begin to grow
+200358968	cause to take roots
+200359085	pass from physical life and lose all bodily attributes and functions necessary to sustain life
+200360059	die from strangulation
+200360165	be asphyxiated; die from lack of oxygen
+200360460	be killed or die
+200360569	be abolished or discarded
+200360745	be survived by after one's death
+200360990	cause to be without a spouse
+200361154	die from being submerged in water, getting water into the lungs, and asphyxiating
+200361331	be born, used chiefly of lambs
+200361458	die before; die earlier than
+200361585	come into existence through birth
+200361861	be born or come into existence
+200362041	become overcast
+200362148	become covered with mist
+200362294	free from mist
+200362450	become bloated or swollen or puff up
+200362605	make bloated or swollen
+200362781	form a curl, curve, or kink
+200363001	prevent completion
+200363263	stop and wait, as if awaiting further instructions or developments
+200363458	interrupt before its natural or planned end
+200363656	interrupt a telephone conversation
+200363763	stop pursuing or acting
+200363921	drop prosecution of by entering a nolle prosequi in the court records
+200364146	stop a process or a habit by imposing a freeze on it
+200364395	get stuck while doing something
+200364569	cause to slow down or get stuck
+200364717	terminate
+200364950	close at the end of a session
+200365131	interrupt periodically
+200365282	heat food in order to kill harmful microorganisms
+200365521	undergo condensation; change from a gaseous to a liquid state and fall in drops
+200365841	compress or concentrate
+200366099	develop due to condensation
+200366300	become more compact or concentrated
+200366463	vaporize and then condense right back again
+200366673	change or cause to change directly from a solid into a vapor without first melting
+200366928	cause a gas or vapor to change into a liquid
+200367200	remove water from
+200367394	sublime (a compound) once again
+200367511	lose or cause to lose liquid by vaporization leaving a more concentrated residue
+200367894	cause (a liquid) to evaporate through a semipermeable membrane
+200368069	evaporate through a semipermeable membrane
+200368216	exude water vapor
+200368338	become one
+200368762	separate or classify into units
+200369020	coalesce or unite in a mass
+200369175	unite (beliefs or conflicting principles)
+200369315	break up or separate
+200369500	come together so as to form a single product
+200369717	unite to form a league
+200369847	unite on a federal basis or band together as a league
+200370095	enter into a league for a common purpose
+200370281	turn into carbon, as by burning
+200370517	loose heat
+200370779	lose intensity
+200370916	get excessively and undesirably hot

@@ -1,0 +1,1000 @@
+100596900	the position of pastor
+100597009	the state of being a peasant
+100597196	a highly desirable position or assignment
+100597308	the office of praetor
+100597405	the position of precentor
+100597508	the position of preceptor
+100597611	the office of prefect
+100597707	the office or station of a prelate
+100597807	the office of premier
+100597922	the office and function of president
+100598380	the office of the United States head of state
+100598647	the office of primate
+100598744	the post of principal
+100598843	the office of prior
+100598936	the position of proconsul
+100599072	the position of proctor
+100599171	the position of professor
+100599330	the position of protector
+100599433	a position concerning the people as a whole
+100599554	a public office of sufficiently high rank that it provides the holder with an opportunity to speak out and be listened to on any matter
+100599793	the office or function of a rabbi
+100599882	the office of a receiver
+100599983	the office or station of a rector
+100600085	the office of a regent
+100600179	the position of physician who is receiving special training in a hospital (usually after completing an internship)
+100600349	the position of ruler
+100600444	the status and dignity of a saint
+100600587	the position of secretary
+100601032	the position of the head of the Justice Department and the chief law enforcement officer of the United States
+100601315	the position of the head of the Department of Agriculture
+100601550	the position of the head of the Department of Commerce
+100601770	the position of the head of the Department of Defense
+100601986	the position of the head of the Education Department
+100602203	the position of the head of the Department of Energy
+100602411	the position of the head of the Department of Health and Human Services
+100602672	the position of the head of the Department of Housing and Urban Development
+100602937	the position of the head of the Department of Labor
+100603141	the position of the head of the State Department
+100603335	the position of the head of the Department of the Interior
+100603563	the position of the head of the Treasury Department
+100603784	the position of the head of the Department of Transportation
+100604024	the position of the head of the Department of Veterans Affairs
+100604246	head of a former executive department; combined with the Navy Secretary to form the Defense Secretary in 1947
+100604434	head of a former executive department; combined with the War Secretary to form the Defense Secretary in 1947
+100604627	head of a former executive department created in 1903 and divided into two departments in 1913
+100604799	head of a former executive department created in 1953 and divided into two departments in 1979
+100604981	the position and authority of a feudal lord
+100605110	the measurement of tremors and shocks and undulatory movements of earthquakes
+100605246	the office of senator
+100605343	an office that involves minimal duties
+100605436	the position of solicitor
+100605539	the position of Speaker
+100605638	the position of steward
+100605809	the position of student
+100605926	the position of teacher
+100606025	the position of thane
+100606138	the position and power of an exalted person (a sovereign or bishop) who is entitled to sit in a chair of state on ceremonial occasions
+100606361	the position of treasurer
+100606464	the position of tribune
+100606545	the position of trustee
+100606626	the office and function of a vice president
+100606731	the position of viceroy
+100606830	the position of vizier
+100606927	the position of warden
+100607024	the position of warder
+100607121	the status of a woman
+100607234	a job involving drudgery and confinement
+100607342	a career in industrial or commercial or professional activities
+100607485	the skilled practice of a practical occupation
+100608190	the craft of building and repairing airplanes
+100608300	the craft of building and repairing automobiles
+100608408	the craft of basket making
+100608489	the craft of binding books
+100608573	the craft of laying bricks
+100608657	the craft of making furniture (especially furniture of high quality)
+100608890	the craft of a carpenter: making things out of wood
+100609152	the craft of drawing blueprints
+100609277	the craft of making dresses
+100609380	the craft of an electrician
+100609469	the trade or act of decorating the interior of a building or room, especially with regard to color combination, paint, fabrics, carpeting, etc.
+100609736	the act of providing a house or room with furniture and other removable items such as shelves, carpets, appliances, etc.
+100609913	the craft of providing artificial light
+100610057	the trade of cutting or preparing or selling timber
+100610164	the craft of a mason
+100610427	the craft of an oculist
+100610504	the occupation of a house painter
+100610691	the craft of making paper
+100610774	the occupation of a pilot
+100610937	the occupation of a plumber (installing and repairing pipes and fixtures for water or gas or sewage in a building)
+100611136	the craft of making earthenware
+100611221	an occupation requiring special education (especially in the liberal arts or sciences)
+100611490	an occupation for which you are especially well suited
+100611641	one of the three professions traditionally believed to require advanced learning and high principles
+100611860	the profession or art of a writer
+100612006	the profession of designing buildings and environments with consideration for their esthetic effect
+100612411	the learned profession that is mastered by graduate study in a law school and that is responsible for the judicial system
+100612720	the profession of teaching (especially at a school or college or university)
+100612961	the profession of reporting or photographing or editing news stories for one of the media
+100613161	journalism practiced for the newspapers
+100613259	the profession devoted to governing and to political affairs
+100613447	the learned profession that is mastered by graduate training in a medical school and that is devoted to preventing or alleviating or curing diseases and injuries
+100614569	the branch of medicine concerned with preventing disease
+100614760	the practice of medicine without the use of drugs; may involve herbal medicines or self-awareness or biofeedback or acupuncture
+100614972	the use of medicinal herbs to prevent or treat disease or promote health
+100615106	the practice of medicine that combines traditional medicine with alternative medicine
+100615260	the learned profession acquired by specialized courses in religion (usually taught at a college or seminary)
+100615511	the activity of putting something in written form
+100615776	act of writing in code or cipher
+100616017	the activity of writing by hand
+100616298	the activity of inscribing (especially carving or engraving) letters or words
+100616469	the activity of representing something by a special system of marks or characters
+100616623	the activity of superscribing
+100616749	the act or art of writing in shorthand
+100616899	the act of signing your name; writing your signature (as on a document)
+100617127	the activity of converting data or information into code
+100617323	encoding information while reducing the bandwidth or bits required
+100617519	the compression of graphics for storage or transmission
+100617638	a set of standards adopted by the moving pictures experts group for the compression of digital video and audio data or a file of data compressed according to those standards
+100617881	restoring compressed information to its normal form for use or display
+100618047	(computer science) the encryption of data for security purposes
+100618191	converting from one code to another
+100618299	the activity of making clear or converting from code into plain text
+100618577	a method of surveying; the area is divided into triangles and the length of one side and its angles with the other two are measured, then the lengths of the other sides can be calculated
+100618841	the craft of a joiner
+100618932	the craft of making fireworks
+100619105	the shoemaker's trade
+100619229	the craft of a roofer
+100619359	the craft of doing sheet metal work (as in ventilation systems)
+100619504	the laying on of shingles
+100619676	the occupation of a tailor
+100619776	the craft of making special tools and dies
+100619882	high fashion designing and dressmaking
+100619974	the occupation of maintaining and auditing records and preparing financial reports for a business
+100620251	keeping account of the costs of items in production
+100620382	cost accounting
+100620470	the activity of recording business transactions
+100620659	a simple bookkeeping system; transactions are entered in only one account
+100620818	bookkeeper debits the transaction to one account and credits it to another
+100620978	accounting that controls and evaluates inventory
+100621129	supervision of the supply and storage and accessibility of items in order to insure an adequate supply without excessive oversupply
+100621324	inventory accounting in which the oldest items (those first acquired) are assumed to be the first sold
+100621498	inventory accounting in which the most recently acquired items are assumed to be the first sold
+100621664	the business of a butcher
+100621794	the occupation of taking and printing photographs or making movies
+100621992	productive work (especially physical work done for wages)
+100622438	confrontational activities intended to break up a strike by workers
+100622566	unpaid labor (as for the maintenance of roads) required by a lord of his vassals in lieu of taxes
+100622716	hard monotonous routine work
+100622867	use of physical or mental energy; hard work
+100623308	strenuous effort
+100623506	the act of engaging in close hand-to-hand combat
+100623824	the work of finding and killing or capturing animals for food or pelts
+100624099	professional work done according to formula
+100624197	cutting grass and curing it to make hay
+100624292	taking full advantage of an opportunity while it lasts
+100624402	labor done with the hands
+100624610	the act of working too much or too long
+100624785	work done under harsh conditions for little or no pay
+100624910	working as a substitute for someone who is ill or on leave of absence
+100625102	an effort that is inconvenient
+100625387	something difficult or awkward to do or deal with
+100625525	(Yiddish) aggravating trouble
+100625676	the least effortful way to do something
+100625793	an intense or violent exertion
+100625978	the activity of exerting your muscles in various ways to keep fit
+100626667	a sustained effort
+100626791	exercise that conditions the body
+100626939	several exercises intended to be done in series
+100627098	exercise that increases the need for oxygen
+100627233	exercise that builds muscles through tension
+100627428	bodybuilding by exercise that involves lifting weights
+100627663	raising a weight from shoulder height to above the head by straightening the arms
+100627814	a weightlift in which you lie on your back on a bench and press weights upward
+100627968	a bench press performed on an inclined bench
+100628078	a weightlift in which the barbell is lifted to shoulder height and then jerked overhead
+100628253	a weightlift in which the barbell is lifted to shoulder height and then smoothly lifted overhead
+100628436	a weightlift in which the barbell is lifted overhead in one rapid motion
+100628561	bodybuilding that increases muscle mass and body weight
+100628677	light exercises designed to promote general fitness
+100628904	the practice of calisthenic exercises
+100629089	muscle-building exercises (or a system of musclebuilding exercises) involving muscular contractions against resistance without movement (the muscles contracts but the length of the muscle does not change)
+100629371	exercise in which opposing muscles contract and there is controlled movement (tension is constant while the lengths of the muscles change)
+100629630	running at a jog trot as a form of cardiopulmonary exercise
+100629779	exercises for women designed to improve the ability to hold urine
+100629932	exercise designed to extend the limbs and muscles to their full extent
+100630123	yawning and stretching (as when first waking up)
+100630249	a form of cardiopulmonary exercise consisting of rapid walking accompanied by vigorous swinging of the arms
+100630416	exercise designed to strengthen the arm muscles
+100630558	an arm exercise performed lying face to the floor and pushing the body up and down with the arms
+100630736	a pushup with the arms widely separated
+100630837	an arm exercise performed by pulling yourself up on a horizontal bar until your chin is level with the bar
+100631043	exercise designed to strengthen the back muscles
+100631151	exercise designed to strengthen the leg muscles
+100631311	exercising by repeatedly assuming a crouching position with the knees bent; strengthens the leg muscles
+100631508	an exercise designed to strengthen the flexor muscles of the leg
+100631641	an exercise designed to strengthen the extensor muscles of the leg
+100631766	exercise designed to strengthen the neck muscles
+100631874	an exercise designed to strengthen the abdominal muscles
+100632026	a stomach exercise in which a person sits up from a supine position without using the arms for leverage
+100632200	a system of physical, breathing and meditation exercises practiced to promote control of the body and mind
+100632411	yogic exercises (popular in the West) that combine difficult postures (which force the mind to withdraw from the outside world) with controlled breathing
+100632621	the exercise of a profession
+100632955	the practice of giving expert advice within a particular field
+100633130	the practice of beautifying the face and hair and skin
+100633260	the practice of dentistry
+100633347	the practice of law
+100633444	the practice of medicine
+100633585	medical practice that provides health care regardless of age or sex while placing emphasis on the family unit
+100633774	(medicine) the practice of medicine by a group of physicians who share their premises and other resources
+100633959	the practice of an optometrist
+100634063	the practice of a profession independently and not as an employee
+100634351	medical practice and advice based on observation and experience in ignorance of scientific findings
+100634572	a diligent effort
+100634722	any effort that seems to go farther than would be necessary to achieve its goal
+100634856	an effort above and beyond the call of duty
+100634960	excessive exertion; so much exertion that discomfort or injury results
+100635107	the work of inquiring into something thoroughly and systematically
+100635519	an investigation of the component parts of a whole and their relations in making up the whole
+100635829	the act of counting; reciting numbers in ascending order
+100636255	the investigation of criminal activities
+100636448	a police investigation to determine the perpetrator
+100636665	scientific tests or techniques used in the investigation of crimes
+100636787	the systematic gathering up of suspects by the police
+100636942	the application of empirical methods in any art or science
+100637093	the act of examining something closely (as for mistakes)
+100637704	the act of giving students or candidates a test (as by questions) to determine what they know or have learned
+100637971	a systematic investigation of a matter of public interest
+100638164	systematic investigation to establish facts
+100638388	(formerly in Britain) an examination taken by 11 and 12 year old students to select suitable candidates for grammar school
+100638597	an investigation seeking answers
+100638789	research designed to determine most efficient way to do something
+100638920	an inquiry into the financial position of someone applying for financial aid
+100639053	an inquiry into the cause of an unexpected death
+100639155	scientific research that requires massive capital investment but is expected to yield very significant results
+100639323	scientific research conducted by biologists
+100639486	a general term for the research activity that creates a copy of some biological entity (a gene or organism or cell)
+100639691	making a full living copy of an organism; requires a surrogate mother
+100639845	the reproductive cloning of a sentient human being; generally considered ethically unacceptable
+100640013	moving a cell nucleus and its genetic material from one cell to another
+100640250	nuclear transplantation of a patient's own cells to make an oocyte from which immune-compatible cells (especially stem cells) can be derived for transplant
+100640510	research on stem cells and their use in medicine
+100640641	biological research on stem cells derived from embryos and on their use in medicine
+100640799	the act of conducting a controlled test or investigation
+100641076	an investigation carried out in the field rather than in a laboratory or headquarters
+100641218	the act of subjecting to experimental test in order to determine how well something works
+100641431	research that gathers and analyzes information about the moving of good or services from producer to consumer
+100641677	marketing research that yields information about the marketplace
+100641803	marketing research that yields information about desired characteristics of the product or service
+100641964	marketing research that yields information about the motives and needs of different classes of consumers
+100642132	research with the use of microscopes
+100642352	microscopy with the use of electron microscopes
+100642465	microwave spectroscopy in which there is resonant absorption of radiation by a paramagnet
+100642664	experimenting until a solution is found
+100642765	an investigation conducted using a flexible surgical instrument to explore an injury or a body cavity
+100642936	an international study of the entire human genetic material
+100643063	research into questions posed by scientific theories and hypotheses
+100643288	visual examination of the interior of a hollow body organ by use of an endoscope
+100643568	endoscopic examination of the abdomen through the abdominal wall
+100643689	visual examination of the colon (with a colonoscope) from the cecum to the rectum; requires sedation
+100643847	endoscopic examination of a woman's pelvic organs by the insertion of a culdoscope through the vagina
+100644005	visual examination of the stomach by means of a gastroscope inserted through the esophagus
+100644153	visual examination of the uterus and uterine lining using an endoscope inserted through the vagina
+100644310	visual examination of the rectum and the end of the colon by means of a proctoscope
+100644451	visual examination (with a sigmoidoscope) of the lower third of the colon in a search for polyps
+100644632	an examination of the front part of the eye to check the angle where the iris meets the cornea; it is used to distinguish between open-angle glaucoma and closed-angle glaucoma
+100644864	examination of the cornea with a keratoscope to detect irregularities in its anterior surface
+100645015	examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx)
+100645186	the act of scanning; systematic examination of a prescribed region
+100645399	the act of systematically moving a finely focused beam of light or electrons over a surface in order to produce an image of it for analysis or transmission
+100645609	boarding and inspecting a ship on the high seas
+100645746	a detailed critical inspection
+100645945	an examination of the characteristics of something
+100646210	testing objects or persons in order to identify those with particular characteristics
+100646405	analyzing a group of people to determine genetic susceptibility to a particular disease
+100646608	an analysis of a specific job in an effort to find the most efficient method in terms of time and effort
+100646865	a form of microscopic examination of living material by scattered light; specimens appear luminous against a dark background
+100647086	light microscopy in which the specimen is irradiated at wavelengths that excite fluorochromes
+100647267	a method of using fluorescence microscopy to detect the presence of an antigen indirectly
+100647430	a detailed analysis
+100647575	(medicine) the chemical analysis of urine (for medical diagnosis)
+100647747	(medicine) the chemical analysis of excrement (for medical diagnosis or for paleontological purposes)
+100647923	a detailed analysis of a person or group from a social or psychological or medical point of view
+100648076	the act of decomposing a substance into its constituent elements
+100648390	an electrochemical method of chemical analysis
+100648513	chemical analysis to determine the amounts of each element in the substance
+100648779	quantitative chemical analysis by color using a colorimeter
+100648956	quantitative analysis by the use of definite volumes of standard solutions or reagents
+100649162	volumetric analysis using standard solutions of acids to measure the amount of a base present
+100649330	volumetric analysis using standard solutions of alkali to measure the amount of acid present
+100649480	a measured amount of a solution of unknown concentration is added to a known volume of a second solution until the reaction between them is just complete; the concentration of the unknown solution (the titer) can then be calculated
+100649785	determination of the volume of gases (or changes in their volume) during combination
+100649935	quantitative analysis by weight
+100650033	breaking down the costs of some operation and reporting on each factor separately
+100650174	detailed critical analysis or examination one part at a time (as of a literary work)
+100650333	(stock exchange) the use of fundamentals as an investment strategy
+100650509	(stock exchange) analysis of past price changes in the hope of forecasting future price changes
+100650725	the use of spectroscopes to analyze spectra
+100651003	separation of substances in solution by means of their unequal diffusion through semipermeable membranes
+100651235	a procedure in which blood is drawn and separated into its components by dialysis; some are retained and the rest are returned to the donor by transfusion
+100651510	plasma is separated from whole blood and the rest is returned to the donor
+100651645	platelets are separated from whole blood and the rest is returned to the donor
+100651786	dialysis of the blood to remove toxic substances or metabolic wastes from the bloodstream; used in the case of kidney failure
+100651986	the use of spectroscopy to determine the masses of small electrically charged particles
+100652155	the use of spectroscopy to study atomic or molecular resonances in the microwave spectrum
+100652331	the act of comparing similarities
+100652419	drawing a comparison in order to show a similarity in some respect
+100652774	careful examination and comparison to note points of disagreement
+100652913	a focussed comparison; bringing together for a careful comparison
+100653056	the act of distinguishing by comparing differences
+100653197	the transportation of goods on a lighter
+100653312	an official visit for inspection or supervision
+100653554	a visit in an official capacity to examine a site to determine its suitability for some enterprise
+100653709	close observation of a person or group (usually by the police)
+100653902	the act of putting into tabular form
+100654046	the act of estimating the number of red and white corpuscles in a blood sample
+100654218	counting the number of white and red blood cells and the number of platelets in 1 cubic millimeter of blood
+100654414	counting the number of specific types of white blood cells found in 1 cubic millimeter of blood; may be included as part of a complete blood count
+100654631	a periodic count of the population
+100654761	counting backward from an arbitrary number to indicate the time remaining before some event (such as launching a space vehicle)
+100654962	an inaccurate count
+100655054	the counting of votes (as in an election)
+100655201	an additional (usually a second) count; especially of the votes in a close election
+100655356	the act of estimating the number of spermatozoa in an ejaculate
+100655477	the act of keeping a secret watch for intelligence purposes
+100655643	the act of tapping a telephone or telegraph line to get information
+100655806	the systematic use of spies to get military or political secrets
+100655926	spying on the spies
+100656008	surveillance by electronic means (e.g. television)
+100656128	the work of providing treatment for or attending to someone or something
+100656783	motherly care; behavior characteristic of a mother; the practice of acting as a mother does toward her children
+100656970	the work of a baby sitter; caring for children when their parents are not home
+100657121	the work of a pet sitter; caring for pets in their own home while their owners are away from home
+100657276	the medical care received on first contact with the medical system (before being referred elsewhere)
+100657435	care and treatment of a convalescent patient
+100657535	care for the teeth
+100657629	the act of brushing your teeth
+100657767	emergency care given before regular medical aid can be obtained
+100657886	a method of irrigating the eye used by ophthalmologists
+100658078	a treatment for glaucoma; the eyedrops reduce intraocular pressure by decreasing the production of aqueous humor and increasing its drainage through the uveoscleral pathway
+100658323	a treatment for glaucoma; the eyedrops reduce intraocular pressure by reducing the production of aqueous humor
+100658500	a treatment for glaucoma; the eyedrops increase the outflow of aqueous humor by constricting the pupil
+100658663	a treatment for glaucoma; the eyedrops increase the outflow of aqueous humor through the uveoscleral pathway
+100658847	professional treatment for illness or injury
+100659325	care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)
+100659870	placing in medical care in a hospital
+100660039	maintaining something at the most favorable temperature for its development
+100660189	the care (feeding and stabling) of horses for pay
+100660291	kneading and rubbing parts of the body to increase circulation and promote relaxation
+100660592	an emergency procedure that employs rhythmic compression of the heart (either through the chest wall or, during surgery, directly to the heart) in an attempt to maintain circulation during cardiac arrest
+100660910	a rhythmic stroking
+100661077	massage of the skin which is gently lifted and squeezed
+100661189	massage to relieve tension by finger pressure; based on the belief that there are reflex points on the feet, hands, and head that are connected to every part of the body
+100661416	massage combined with a system of active and passive exercises for the muscles and joints
+100661567	massage in which the body is tapped rhythmically with the fingers or with short rapid movements of the sides of the hand; used to loosen mucus on the chest walls of patients with bronchitis
+100661813	an overall beauty treatment (involving a person's hair style and cosmetics and clothing) intended to change or improve a person's appearance
+100662026	professional care for the hands and fingernails
+100662200	professional care for the feet and toenails
+100662334	(medicine) the act of caring for someone (as by medication or remedial training etc.)
+100663090	a method of therapy that involves physical or electrical therapeutic treatment
+100663260	a method of physical therapy that involves generating local heat in body tissues by high-frequency electromagnetic currents
+100663439	the therapeutic use of aromatic plant extracts and essential oils in baths or massage
+100663583	the use of chemical agents to treat or control disease (or mental illness)
+100663770	treatment of a specific defect
+100663924	the therapeutic application of electricity to the body (as in the treatment of various forms of paralysis)
+100664215	therapeutic exposure to sunlight
+100664337	hormones (estrogen and progestin) are given to postmenopausal women; believed to protect them from heart disease and osteoporosis
+100664576	therapy designed to produce immunity to a disease or to enhance resistance by the immune system
+100664731	the use of infrared radiation (as by infrared lamps or heating pads or hot water bottles) to relieve pain and increase circulation to a particular area of the body
+100664957	therapy in which water or oxygen or a drug is introduced into the respiratory tract with inhaled air
+100665121	therapy that uses a local electric current to introduce the ions of a medicine into the tissues
+100665353	the act of treating with medicines or remedies
+100665528	medication with antipyretics to treat a fever
+100665631	therapy based on a theory that taking very large doses of vitamins will prevent or cure physical or psychological disorders
+100665820	therapy based on engagement in meaningful activities of daily life, especially to enable or encourage participation in such activities in spite of impairments or limitations in physical or mental functions
+100666092	the act of nourishing
+100666240	care by a skilled nurse
+100666322	the work of caring for the sick or injured or infirm
+100666464	considerate and solicitous care
+100666601	physical and emotional care and nourishment
+100666719	care for someone who is disabled or is otherwise unable to care for themselves; can including bathing and cooking and managing bodily functions
+100666922	care for the skin
+100667024	care for the face that usually involves cleansing and massage and the application of cosmetic creams
+100667213	surgical removal of the adenoids; commonly performed along with tonsillectomy
+100667350	surgical removal of one or both adrenal glands
+100667475	surgical removal of the vermiform appendix
+100667593	a surgical removal of all or part of a limb
+100667711	an operation to repair a damaged blood vessel or unblock a coronary artery
+100667843	the surgical fixation of a joint which is intended to result in bone fusion
+100667976	surgical reconstruction or replacement of a malformed or degenerated joint
+100668127	a minimally invasive operation to repair a damaged joint; the surgeon examines the joint with an arthroscope while making repairs through a small incision
+100668339	surgical repair by using tissue from another part of the patient's own body
+100668489	any surgical procedure involving the brain
+100668627	brain surgery on human patients intended to relieve severe and otherwise intractable mental or behavioral problems
+100668855	brain surgery on animals in which the corpus callosum (and sometimes the optic chiasm) is severed so that communication between the cerebral hemispheres is interrupted
+100669090	surgical removal of the testes or ovaries (usually to inhibit hormone secretion in cases of breast cancer in women or prostate cancer in men)
+100669355	the act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing
+100669647	use of chemical to destroy diseased or malignant tissue; used in treatment of skin cancer
+100669795	a surgical operation that creates an opening from the colon to the surface of the body to function as an anus
+100669979	a surgical opening through the skull
+100670072	the use of extreme cold (usually liquid nitrogen) to destroy unwanted tissue (warts or cataracts or skin cancers)
+100670243	surgical removal of the gall bladder (usually for relief of gallstone pain)
+100670398	excision of the clitoris
+100670505	removal of the gall bladder through small punctures in the abdomen to permit the insertion of a laparoscope and surgical instruments
+100670724	surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette
+100670930	a method of induced abortion; prior to the 14th week of gestation the embryo and placenta are removed by applying suction to the dilated cervix
+100671175	surgical removal of foreign material and dead tissue from a wound in order to prevent infection and promote healing
+100671348	removal of the outer covering of an organ or part
+100671493	a surgical procedure usually performed under local anesthesia in which the cervix is dilated and the endometrial lining of the uterus is scraped with a curet; performed to obtain tissue samples or to stop prolonged bleeding or to remove small tumors or to remove fragments of placenta after childbirth or as a method of abortion
+100671946	the act of removing the bowels or viscera; the act of cutting so as to cause the viscera to protrude
+100672140	surgery performed with electrical devices (as in electrocautery)
+100672265	surgical operation that creates a permanent opening through the abdominal wall into the intestine
+100672433	surgical removal of something without cutting into it
+100672594	a medical procedure involving an incision with instruments; performed to repair damage or arrest disease in a living body
+100674352	a surgical operation performed on the wrong part of the body
+100674477	surgical removal of an embolus (usually from an artery)
+100674590	surgical removal of the inner lining of an artery that is clogged with atherosclerosis
+100674737	surgical removal of a nerve
+100674821	surgical removal of an organ (or the contents of an organ) from a patient
+100674953	surgical removal of the organs within a body cavity (as those of the pelvis)
+100675106	any surgical procedure involving the eyes
+100675401	plastic surgery to remove wrinkles and other signs of aging from your face; an incision is made near the hair line and skin is pulled back and excess tissue is excised
+100675805	surgical procedure that creates a new fenestra to the cochlea in order to restore hearing lost because of osteosclerosis
+100676003	surgical removal of all or part of the stomach
+100676107	surgical creation of an opening between the stomach wall and the small intestines; performed when the normal opening has been eliminated
+100676307	surgical creation of an opening through the abdominal wall into the stomach (as for gastrogavage)
+100676462	any surgical procedure involving the heart
+100676600	heart surgery in which a small incision is made (the chest cavity is not opened)
+100676783	heart surgery in which the rib cage is spread open, the heart is stopped and blood is detoured through a heart-lung machine while a heart valve or coronary artery is surgically repaired
+100677051	open-heart surgery in which the rib cage is opened and a section of a blood vessel is grafted from the aorta to the coronary artery to bypass the blocked section of the coronary artery and improve the blood supply to the heart
+100677403	heart surgery in which a coronary bypass is performed by the use of small instruments and tiny cameras threaded through small incisions while the heart is stopped and blood is pumped through a heart-lung machine
+100677696	heart surgery in which a coronary bypass is performed on the beating heart by the use of small instruments and cameras threaded through small incisions
+100677936	surgical procedure for tying hemorrhoids and excising them
+100678077	surgical procedure of stopping the flow of blood (as with a hemostat)
+100678281	surgical removal of the pituitary gland
+100678417	surgical removal of the uterus
+100678542	surgical incision into the uterus (as in cesarean section)
+100678677	surgical removal of the uterus and the ovaries and oviducts and cervix and related lymph nodes
+100678856	surgical removal of the uterus and cervix
+100678962	surgical incision into the stomach
+100679051	a surgical procedure that places something in the human body
+100679253	the cutting of or into body tissues or organs (especially by a surgeon as part of an operation)
+100679668	eye surgery that involves removing all or part of the lens and replacing it with an intraocular lens implant
+100679875	cataract surgery in which the entire lens is removed
+100679995	cataract surgery in which only the front of the lens is removed; the back of the lens capsule remains intact and provides support for the lens implant
+100680231	an eye operation that treats glaucoma by destroying the ciliary body with a laser
+100680383	extracapsular surgery for cataracts in which ultrasonic sound breaks the cortex and nucleus of the lens into small fragments that are then vacuumed away through a small tube
+100680622	eye surgery that opens a passage allowing excess aqueous humor to drain into surrounding tissues; a treatment for glaucoma
+100680809	an eye operation that treats closed-angle glaucoma by surgical removal of part of the iris of the eye
+100680967	a surgical procedure that makes an incision in the iris of the eye in order to enlarge the pupil or to treat closed-angle glaucoma
+100681153	surgical incision into the cornea
+100681261	radial pattern of incisions in the cornea that cause the cornea to bulge; performed to correct myopia
+100681426	a refractive surgery procedure that reshapes the cornea
+100681589	eye surgery that makes many tiny laser burns in an area that will increase the drainage of aqueous humor
+100681764	a refractive surgery procedure that reshapes the cornea
+100681911	a surgical procedure that removes the vitreous humor and replace it with saline solution
+100682056	surgical incision into the perineum
+100682167	surgical incision of the perineum to enlarge the vagina and so facilitate delivery during childbirth
+100682324	surgical procedure that creates an opening from the ileum through the abdominal wall to function as an anus; performed in cases of cancer of the colon or ulcerative colitis
+100682552	surgical operation that shortens the small intestine; used in treating obesity
+100682694	surgical creation of an opening between the jejunum and the anterior abdominal wall; will allow artificial feeding
+100682866	a surgical procedure in which part or all of a damaged or diseased cornea is replaced by healthy corneal tissue from a donor
+100683122	using a piece of donated corneal tissue to repair the eye of someone who has had a cataract removed
+100683333	plastic surgery involving the breakdown and removal of fatty tissue
+100683496	lipectomy (especially for cosmetic purposes) in which excess fatty tissue is removed from under the skin by suction
+100683689	plastic surgery to lift or reshape the breasts
+100683791	plastic surgery of the nerves
+100683878	reconstructive surgery of the auricle of the external ear
+100683991	surgical removal of the bony arches on one or more vertebrae
+100684109	surgical incision into the abdominal wall; often done to examine abdominal organs
+100684265	laparotomy performed with a laparoscope that makes a small incision to examine the abdominal cavity (especially the ovaries and Fallopian tubes)
+100684467	surgical removal of part or all of the larynx (usually to treat cancer of the larynx)
+100684611	surgical removal of a stone (calculus)
+100684723	removal of gallstone through an incision in the gallbladder
+100684843	surgical removal of a lobe from any organ of the body (as the lung or brain)
+100684975	psychosurgery in which amygdaloid fibers that mediate limbic system activity are severed (in cases of extreme uncontrollable violence)
+100685168	severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy)
+100685381	surgical interruption of nerve tracts to and from the frontal lobe of the brain; often results in marked cognitive and personality changes
+100685703	a method of performing prefrontal lobotomy in which the surgical knife is inserted above the eyeball and moved to cut brain fibers
+100685901	surgical removal of a tumor without removing much of the surrounding tissue or lymph nodes; performed in some cases of breast cancer
+100686090	any surgical procedure that involves anesthesia or respiratory assistance
+100686241	surgery using operating microscopes and miniaturized precision instruments to perform intricate procedures on very small structures
+100686449	microsurgery in which the surgeon performs surgery by manipulating the hands of a robot
+100686602	any surgical procedure that does not involve anesthesia or respiratory assistance
+100686761	surgical removal of a breast to remove a malignant tumor
+100686928	removal of a breast and the pectoralis minor and some lymph nodes in the adjacent armpit
+100687090	removal of a breast and the underlying muscles (pectoralis major and pectoralis minor) and lymph nodes in the adjacent armpit
+100687280	removal of a breast leaving the underlying muscles and the lymph nodes intact
+100687421	surgical removal of some or all of the mastoid process
+100687535	surgical removal of the meniscus of the knee
+100687638	surgical removal of a kidney
+100687724	surgical removal of all or part of a nerve
+100687823	surgical removal of one of both ovaries
+100687935	surgical removal of one or both ovaries and the corresponding Fallopian tubes
+100688079	surgical removal of an eye
+100688166	surgical removal of one or both testicles
+100688280	surgical removal of part or all of the pancreas
+100688388	surgical removal of a lung (usually to treat lung cancer)
+100688505	surgical removal of part or all of the prostate gland
+100688618	surgical removal of one or both Fallopian tubes
+100688725	surgical removal of all or part of a septum (especially the nasal septum or atrial septum)
+100688872	surgical removal of part or all of the sigmoid colon (usually to remove a malignant tumor)
+100689022	surgical removal of the spleen
+100689110	surgical removal of the stapes of the middle ear
+100689217	surgical interruption of a nerve pathway in the sympathetic nervous system
+100689351	surgical removal of a blood clot (thrombus) from a blood vessel
+100689473	surgical removal of the thyroid gland
+100689570	surgical removal of the palatine tonsils; commonly performed along with adenoidectomy
+100689715	surgical incision or division of a muscle
+100689810	surgical removal of the eardrum
+100689900	surgical repair of a perforated eardrum with a tissue graft
+100690019	surgical incision into the eardrum (to relieve pressure or release pus from the middle ear)
+100690168	any surgery that involves the nervous system (brain or spinal cord or peripheral nerves)
+100690315	cosmetic surgery to improve the appearance of your nose
+100690439	operation to bring an undescended testicle into the scrotum
+100690555	surgical incision into the testis to obtain material for analysis (as in cases of abnormally low sperm count)
+100690720	surgical sectioning of bone
+100690803	surgical procedure that creates an artificial opening for the elimination of bodily wastes
+100690982	surgical resection of unnecessary palatal and oropharyngeal tissue to open the airway; intended to cure extreme cases of snoring (with or without sleep apnea)
+100691248	reconstructive surgery on the penis to repair congenital abnormality or injury
+100691385	surgical removal or all or part of a vein; sometimes done in cases of severe varicose veins
+100691534	surgical procedure that uses an intense laser beam to destroy diseased retinal tissue or to make a scar that will hold the retina in cases of detached retina
+100691754	surgery concerned with therapeutic or cosmetic reformation of tissue
+100692101	surgical removal of a polyp
+100692186	reconstructive surgery of the anus or rectum
+100692303	surgical removal of part of a structure or organ
+100692443	surgical procedure in which an incision is made in the nose to drain accumulated pus
+100692583	surgical procedure in which spinal nerve roots are cut; done (anterior roots) to relieve intractable pain or (posterior roots) to stop severe muscle spasms
+100692794	surgical incision of the sclerotic coat of the eye
+100692901	surgical procedures and hormonal treatments designed to alter a person's sexual characteristics so that the resemble those of the opposite sex
+100693132	a surgical procedure in which a suture is used to close the cervix in a pregnant woman; is performed when the cervix has failed to retain previous pregnancies
+100693383	the act of making an organism barren or infertile (unable to reproduce)
+100693602	neutering a male animal by removing the testicles
+100693759	the sterilization of an animal
+100693979	neutering a female by removing the ovaries
+100694093	the surgical operation of cutting a muscle or tendon of the eye in order to correct strabismus
+100694244	the surgical procedure of manually restoring a displaced body part
+100694362	a celebrated experiment conducted by Albert Michelson and Edward Morley; their failure to detect any influence of the earth's motion on the velocity of light was the starting point for Einstein's theory of relativity
+100694652	a surgical operation that creates an opening into the trachea with a tube inserted to provide a passage for air; performed when the pharynx is obstructed by edema or cancer or other causes
+100694932	an operation moving an organ from one organism (the donor) to another (the recipient)
+100695341	removal of significant amounts of prostate tissue (as in cases of benign prostatic hyperplasia)
+100695529	an operation that removes a circular section of bone from the skull
+100695673	surgical correction or repair of defects or injuries in the eardrum or the bones of the middle ear
+100695831	surgical correction of a defect of the palate
+100695934	judgment involved in the determination of rights and the assignment of rewards and punishments
+100696119	the act of meting out justice according to the law
+100696243	the act of administering medication
+100696413	the administration of a solution (blood or saline or plasma etc.) one drop at a time
+100696553	the administration of a sedative agent or drug
+100696701	(medicine) cleaning a wound or body organ by flushing or washing out with water or a medicated solution
+100696970	irrigation with a jet of water or medicated solution into or around a body part (especially the vagina) to treat infections or cleanse from odorous contents
+100697197	an injection of a liquid through the anus to stimulate evacuation; sometimes used for diagnostic purposes
+100697400	a water enema given to flush out the colon
+100697553	enema in which a contrast medium (usually barium sulfate) is injected into the rectum and X-rays are taken to search for lesions
+100697740	washing out a hollow organ (especially the stomach) by flushing with water
+100697903	washing out the stomach with sterile water or a saltwater solution; removes blood or poisons
+100698135	the act of applying a bandage
+100698277	medical care of the whole person considered as subject to personal and social as well as organic factors
+100698502	a program of medical and emotional care for the terminally ill
+100698618	the act of putting a liquid into the body by means of a syringe
+100698867	application of a substance that destroys tissue by freezing it
+100698987	application of a needle heated by an electric current to destroy tissue (as to remove warts)
+100699140	cautery (destruction of tissue) by heat
+100699257	formerly used as a treatment to reduce excess blood (one of the four humors of medieval medicine)
+100699487	incision into a kidney (usually to remove a kidney stone)
+100699601	surgical incision into the chest walls opening up the pleural cavity
+100699727	incision into a stenosed cardiac valve to relieve the obstruction
+100699862	surgical incision into a vein; used to treat hemochromatosis
+100700047	a treatment in which evacuated cups are applied to the skin to draw blood through the surface
+100700212	treatment by stopping fibrillation of heart muscles (usually by electric shock delivered by a defibrillator)
+100700399	treatment for poisoning by neutralizing the toxic properties (normally a function of the liver)
+100700573	a treatment for addiction to drugs or alcohol intended to remove the physiological effects of the addictive substances
+100700770	correction of an unstable part of the spine by joining two or more vertebrae; usually done surgically but sometimes done by traction or immobilization
+100700989	care provided through prayer and faith in God
+100701125	the application of a faith healer's hands to the patient's body
+100701253	therapy that uses physical agents: exercise and massage and other modalities
+100701513	the treatment of physical disabilities by massage and electrotherapy and exercises
+100701674	the use of plants or plant extracts for medicinal purposes (especially plants that are not part of the normal diet)
+100701905	the treatment of mental or emotional problems by psychological means
+100702232	psychotherapy that seeks to extinguish or inhibit abnormal or maladaptive behavior by reinforcing desired behavior and extinguishing undesired behavior
+100702578	a method of psychotherapy that reinforces you for stating negative and positive feelings directly
+100702744	any technique of behavior modification that uses unpleasant stimuli in a controlled fashion to alter behavior in a therapeutic way; primarily used for alcoholism or drug abuse (but with little success)
+100703008	a technique used in behavior therapy to treat phobias and other behavior problems involving anxiety; client is exposed to the threatening situation under relaxed conditions until the anxiety reaction is extinguished
+100703455	a form of behavior therapy in which a survivor confronts feelings or phobias or anxieties about a traumatic event and relives it in the therapy situation
+100703671	a technique used in behavior therapy; client is flooded with experiences of a particular kind until becoming either averse to them or numbed to them
+100703912	a method of behavior therapy based on the inhibition of one response by the occurrence of another response that is mutually incompatible with it; a relaxation response might be conditioned to a stimulus that previously evoked anxiety
+100704245	a form of behavior therapy that has been used in some mental institutions; patients are rewarded with tokens for appropriate behavior and the tokens may be cashed in for valued rewards
+100704489	a method of psychotherapy developed by Carl Rogers in which the client determines the focus and pace of each session
+100704675	psychotherapy that focuses on acute critical situations (depressive episodes or attempted suicides or drug overdoses) with the aim of restoring the person to the level of functioning before the crisis
+100704941	psychotherapy in which a small group of individuals meet with a therapist; interactions among the members are considered to be therapeutic
+100705179	any of several therapeutic approaches in which a family is treated as a whole
+100705317	the use of hypnosis in psychotherapy
+100705412	form of psychotherapy for children that uses play situations for diagnosis or treatment
+100705558	a set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of Sigmund Freud
+100706572	the use of hypnosis in conjunction with psychoanalysis
+100706686	the application of psychotherapeutic principles to the analysis of your own personality
+100706833	(medicine) the treatment of disease (especially cancer) by exposure to a radioactive substance
+100707139	the use of strong light to treat acne or hyperbilirubinemia of the newborn
+100707272	the use of radium in radiation therapy
+100707386	the therapeutic use of X rays
+100707475	the use of chemicals containing gold for treating diseases (such as rheumatoid arthritis)
+100707624	treatment of certain psychotic states by the administration of shocks that are followed by convulsions
+100707858	the administration of a strong electric current that passes through the brain to induce convulsions and coma
+100708100	the administration of sufficient insulin to induce convulsions and coma
+100708281	the administration of sufficient Metrazol to induce convulsions and coma
+100708466	any therapy intended to correct a disorder of speech
+100708597	deliberately lowering the body's temperature for therapeutic purposes
+100708790	the use of heat to treat a disease or disorder; heating pads or hot compresses or hot-water bottles are used to promote circulation in peripheral vascular disease or to relax tense muscles
+100709038	therapy consisting of the administration of a pharmacological agent to cause thrombolysis of an abnormal blood clot
+100709220	a method of treatment that manipulates body structures (especially the spine) to relieve low back pain or even headache or high blood pressure
+100709421	application of warm wet coverings to a part of the body to relieve pain and inflammation
+100709585	a method of treating disease using food and exercise and heat to assist the natural healing process
+100709742	a drugless method of treatment based on the belief that disease symptoms arise from problems with ligaments and connective tissues
+100709929	dental treatment that corrects irregularities of the teeth or of the relation of the teeth to surrounding anatomy; treatment is usually by braces or mechanical aids
+100710210	treatment of defects of binocular vision (such as strabismus and amblyopia) by nonsurgical measures (especially by exercises to strengthen the eye muscles)
+100710458	therapy based on the assumption that restoring health is best accomplished by manipulating the skeleton and muscles
+100710648	treatment of a skeletal deformity by intentionally fracturing a bone
+100710774	treatment to destroy harmful microorganisms
+100710912	disinfection of water by the addition of small amounts of chlorine or a chlorine compound
+100711096	the administration of digitalis for the treatment of certain heart disorders
+100711268	the administration of an anticoagulant drug to retard coagulation of the blood
+100711408	treatment of pain or disease by inserting the tips of needles at specific points on the skin
+100711591	treatment of symptoms by applying pressure with the fingers to specific pressure points on the body
+100711803	training patients in self-induced relaxation
+100711945	the usual method of treating disease with remedies that produce effects differing from those produced by the disease itself
+100712142	a method of treating disease with small amounts of remedies that, in large amounts in healthy people, produce symptoms similar to those being treated
+100712380	the internal and external use of water in the treatment of disease
+100712518	close monitoring and constant medical care of patients with life-threatening conditions
+100712666	rest as a medical treatment for stress or anxiety etc.
+100712776	a hunt for game carried on by following it stealthily or waiting in ambush
+100712980	stalking deer
+100713052	hunting for birds' nests to get the eggs
+100713150	the act of preying by a predator who kills and eats the prey
+100713284	effort expended in moving one object over another with pressure
+100713478	the work of applying something
+100714085	the act of applying oil or an oily liquid
+100714231	the application of a gas or smoke to something for the purpose of disinfecting it
+100714387	the work of coating glass with metal foil
+100714502	either the work of covering with metal by the use of a galvanic current or the coating of iron with zinc to protect it from rusting
+100714745	the work of making or repairing vehicle bodies
+100714846	manual (or mechanical) carrying or moving or delivering or working with something
+100715036	act of loading and unloading and moving goods within e.g. a factory especially using mechanical devices
+100715204	the labor of putting a load of something on or in a vehicle or ship or container etc.
+100715425	the labor of taking a load of something off of or out of a vehicle or ship or container etc.
+100715609	the act of picking (crops or fruit or hops etc.)
+100715729	the act of someone who picks up or takes something
+100715945	the work of covering an area with planks
+100716058	the work of installing the wires for an electrical system or device
+100716196	a craft that requires skillful hands
+100716926	joining or attaching by stitches
+100717095	making bread or cake or pastry etc.
+100717201	stitching that is not easily seen or noticed
+100717307	surgical joining of two surfaces
+100717431	surgical procedure that removes all or part of the vas deferens (usually as a means of sterilization); is sometimes reversible
+100717649	surgical incision into or division of the vas deferens
+100717772	a surgical procedure that attempts to restore the function of the vas deferens after a vasectomy
+100717928	surgical removal of part or all of the vulva
+100718029	the act of operating on living animals (especially in scientific research)
+100718197	an application of a lubricant to something
+100718333	the act of applying paving materials to an area
+100718460	the act of applying paint to a surface
+100718720	the application of a liquid in the form of small particles ejected from a sprayer
+100718892	applying paint with a sprayer
+100719000	the act of splashing a (liquid) substance on a surface
+100719318	painting by using the fingers to spread the paint
+100719447	the application of a protective layer of tin
+100719577	the application of a thin layer of soft solder to the ends of wires before soldering them
+100719825	the application of wallpaper
+100719941	ornamental plastering
+100720067	the application of plaster
+100720268	the application of a thin coat of metal (as by electrolysis)
+100720400	the application of very thin coat of color over the surface of a picture
+100720526	the application of tiles to cover a surface
+100720640	the application of wax to a surface
+100720746	work that you are obliged to perform for moral or legal reasons
+100720957	a specific piece of work required to be done as a duty or for a specific fee
+100721418	a job or situation that is demanding and arduous and punishing
+100721583	the job of delivering newspapers regularly
+100721683	an individual's prescribed share of work
+100721817	the actions and activities assigned to or required or expected of a person or group
+100722203	a specified function
+100722393	an informal term for a person's role
+100722534	the role of the head of a government department
+100722683	the post or function properly or customarily occupied or served by another
+100722912	as the agent of or on someone's part (usually expressed as on behalf of' rather than in behalf of')
+100723180	a secondary role or function
+100723312	normal or customary activity of a person in a particular social setting
+100723504	the overt expression of attitudes that indicate to others the degree of your maleness or femaleness
+100723730	(in team sports) the role assigned to an individual player
+100724235	the position on a baseball team of the player who throws the ball for a batter to try to hit
+100724492	the position on a baseball team of the player who is stationed behind home plate and who catches the balls that the pitcher throws
+100724798	the fielding position of the player on a baseball team who is stationed at first of the bases in the infield (counting counterclockwise from home plate)
+100725034	the fielding position of the player on a baseball team who is stationed near the second of the bases in the infield
+100725235	the fielding position of the player on a baseball team who is stationed between second and third base
+100725419	the fielding position of the player on a baseball team who is stationed near the third of the bases in the infield (counting counterclockwise from home plate)
+100725684	the fielding position of the player on a baseball team who is expected to field balls in the left third of the outfield (looking from home plate)
+100725935	the fielding position of the player on a baseball team who is expected to field balls in the central third of the outfield
+100726149	the fielding position of the player on a baseball team who is expected to field balls in the right third of the outfield (looking from home plate)
+100726403	a stolen base; an instance in which a base runner advances safely during the delivery of a pitch (without the help of a hit or walk or passed ball or wild pitch)
+100726634	a position on a basketball, soccer, or hockey team
+100726757	a position on a basketball team of the player who participates in the jump that starts the game
+100726924	a position on a basketball team
+100727026	(American football) the position of a player on a football team who is stationed behind the line of scrimmage
+100727351	(American football) the position of a player on a football team who is stationed on the line of scrimmage
+100727620	(American football) the position of a defensive football player who plays close behind the line of scrimmage
+100727818	(American football) the position of the football player in the backfield who directs the offensive play of his team
+100728118	(American football) an offensive position in the backfield
+100728250	(American football) an offensive back usually positioned behind the quarterback and to the side of the fullback
+100728435	(American football) the position of the offensive back on a football team who lines up farthest from the line of scrimmage
+100728631	(American football) the position of the offensive back who lines up behind or outside the end
+100728798	(American football) the position of the player on the line of scrimmage who puts the ball in play
+100729041	(American football) a position on the line of scrimmage
+100729199	(American football) a position on the line of scrimmage
+100729363	(American football) a position on the line of scrimmage
+100729516	the fielding position in cricket closest to the bowler on the off side
+100729640	the fielding position in cricket closest to the bowler on the on side
+100729762	the position on a hockey team of the player who participates in the face off at the beginning of the game
+100729939	a school task performed by a student to satisfy the teacher
+100730147	a school task requiring considerable effort
+100730273	the part of a student's work that is done in the classroom
+100730406	preparatory school work done outside school (especially at home)
+100730583	a task assigned for individual study
+100730776	a period of instruction learning a language
+100730935	instruction in the French language
+100731029	instruction in the German language
+100731123	instruction in the Hebrew language
+100731217	a task performed or problem solved in order to develop skill or understanding
+100731432	the reading of a passage assigned by the teacher
+100731545	a duty that you are assigned to perform (especially in the armed forces)
+100731836	the duty of serving as a sentry
+100732006	labor of a nonmilitary kind done by soldiers (cleaning or digging or draining or so on)
+100732282	the organized work of a religious missionary
+100732434	missionary work for Islam
+100732520	a special assignment that is given to a person or group
+100732867	a fruitless mission
+100732946	an extremely dangerous or difficult mission
+100733054	killing or injuring others while annihilating yourself; usually accomplished with a bomb
+100733245	a short trip that is taken in the performance of a necessary task or mission
+100733374	assignment to a different duty
+100733499	the detachment of a person from their regular organization for temporary assignment elsewhere
+100733667	naval service aboard a ship at sea
+100733790	naval service at land bases
+100733874	trivial, unrewarding, tedious, dirty, and disagreeable chores
+100734044	activity that transgresses moral or civil law
+100734615	the activity of treating someone savagely or viciously
+100734781	entry to another's property without right or permission
+100735051	an encroachment or intrusion
+100735181	(law) any wrongdoing for which an action for damages may be brought
+100735405	a tort based on willful and malicious interference with the marriage relation by a third party without justification or excuse
+100735601	the wrongful intrusion by individuals or the government into private affairs with which the public has no concern
+100735780	a wrongful interference with the possession of property (personal property as well as realty), or the action instituted to recover damages
+100736081	trespass that is not transient or intermittent but continues as long as the offending object remains
+100736315	an action brought to recover damages from a person who has taken goods or property from its rightful owner
+100736496	an action brought to recover damages from a person whose actions have resulted indirectly in injury or loss
+100736851	the defendant unlawfully enters the land of the plaintiff
+100736984	trespass with force and arms resulting in injury to another's person or property
+100737130	misconduct in public office
+100737234	improper or wicked or immoral behavior
+100737517	an antisocial misdeed in violation of the law by a minor
+100737673	reckless or malicious behavior that causes discomfort or annoyance in others
+100738084	noisy and unrestrained mischief
+100738192	mischievous or deceitful behavior
+100738287	violent lawless behavior
+100738368	an act of undue intimacy
+100738486	behavior that breaches the rule or etiquette or custom or morality
+100738697	deviate behavior
+100738834	an indecent or improper act
+100739003	abnormal sexual activity
+100739192	the perverse act of exposing and attracting attention to your own genitals
+100739356	sexual arousal or gratification resulting from handling a fetish (or a specific part of the body other than the sexual organs)
+100739568	a sexual attraction to children
+100739670	a perversion in which a person receives sexual gratification from seeing the genitalia of others or witnessing others' sexual behavior
+100739896	a sexual attraction to animals
+100739995	an obscene act
+100740083	a petty misdeed
+100740170	infantile behavior in mature persons
+100740264	willful negligence
+100740376	a failure to act when under an obligation to do so; a refusal (without sufficient excuse) to do that which it is your legal duty to do
+100740568	failure to act with the prudence that a reasonable person would exercise under the same circumstances
+100740930	(law) negligence allocated between the plaintiff and the defendant with a corresponding reduction in damages paid to the plaintiff
+100741148	(law) negligence of two of more persons acting independently; the plaintiff may sue both together or separately
+100741346	(law) behavior by the plaintiff that contributes to the harm resulting from the defendant's negligence
+100741640	(law) recklessly acting without reasonable caution and putting another person at risk of injury or death (or failing to do something with the same consequences)
+100741907	(law) breach of a duty
+100742010	nonperformance of something distasteful (as by deceit or trickery) that you are supposed to do
+100742456	a form of behavior that evades unpleasant realities
+100742570	evading duty or work by pretending to be incapacitated
+100742776	the evasion of work or duty
+100742983	the act of evading by going around
+100743095	the deliberate failure to pay taxes (usually by making a false report)
+100743223	wrongful conduct by a public official
+100743318	doing a proper act in a wrongful or injurious manner
+100743428	a wrongful act that the actor had no right to do; improper professional conduct
+100743612	professional wrongdoing that results in injury or damage
+100743772	the action of perverting something (turning it to a wrong use)
+100743943	useless or profitless activity; using or expending or consuming thoughtlessly or carelessly
+100744453	a useless effort
+100744549	a useless consumption of material
+100744646	money spent for inadequate return
+100744798	the devotion of time to a useless activity
+100744939	excessive spending
+100745120	spending resources lavishly and wastefully
+100745302	prodigious squandering (usually by a government)
+100745429	any harm or injury resulting from a violation of a legal right
+100745603	wrongdoing that violates another's rights and is unjustly inflicted
+100745741	an act that causes someone or something to receive physical damage
+100745914	an unjust act
+100746056	an act causing pain or damage
+100746160	the action of going beyond or overstepping some boundary or limit
+100746303	the act of transgressing; the violation of a law or a duty or moral principle
+100746729	an action that is vicious or vile; an action that arouses disgust or abhorrence
+100746935	morally objectionable behavior
+100747161	a criminal or vicious act
+100747241	wicked and cruel behavior
+100747331	an act of extreme wickedness
+100747414	unfair or dishonest behavior (especially involving violence)
+100747530	a disrespectful act
+100747673	the evil ascribed to sexual acts that violate social conventions
+100747885	blasphemous behavior; the act of depriving something of its sacred character
+100748164	a corrupt or depraved or degenerate act or practice
+100748327	a specific form of evildoing
+100748513	creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire
+100748817	the illegal use of children in pornographic pictures or films
+100748969	excess in action and immoderate indulgence of bodily appetites, especially in passion or indulgence
+100749309	consumption of alcoholic drinks
+100749453	offering sexual intercourse for pay
+100749605	dissolute indulgence in sensual pleasure
+100749813	the act of drinking alcoholic beverages to excess
+100750132	a long period of drinking
+100750217	a tour arranged by a travel agent; transportation and food and lodging are all provided at an inclusive price
+100750403	a tour of bars or public houses (usually taking one drink at each stop)
+100750530	a tour by a candidate as part of a political campaign in which a series of small towns are visited
+100750789	a bout of drinking or drug taking
+100750872	lack of honesty; acts of lying or cheating or stealing
+100751065	an act of deliberate betrayal
+100751289	an act of betrayal
+100751514	a betrayal of one's principles principles, country, cause, etc.
+100751649	the dishonesty of a charlatan
+100751748	the act of plagiarizing; taking someone's words or ideas as if they were your own
+100752073	an attempt to get you to do something foolish or imprudent
+100752233	the act of rendering something false as by fraudulent changes (of documents or measures etc.) or counterfeiting
+100752488	a willful perversion of facts
+100752741	an act that incriminates someone on a false charge
+100752872	the act of distorting something so it seems to mean something it was not intended to mean
+100753122	falsification by means of vague or ambiguous language
+100753287	the deliberate act of deviating from the truth
+100753487	a trivial act of lying or being deliberately unclear
+100753641	the act of faking (or the product of faking)
+100753774	the act of deceiving
+100754141	deceitful action that is not straightforward
+100754297	the use of tricks to deceive someone (usually to extract money from them)
+100754583	acting in bad faith; deception by pretending to entertain one set of intentions while acting under the influence of another
+100754815	falsification by the use of sophistry; misleading by means of specious fallacies
+100755028	something intended to deceive; deliberate trickery intended to gain an advantage
+100755316	anything that is supposed to be valuable but turns out to be worthless
+100755461	artful trickery designed to achieve an end
+100755623	a fraudulent business scheme
+100755767	a deception for profit to yourself
+100755936	an act of gerrymandering (dividing a voting area so as to give your own party an unfair advantage)
+100756110	the act of deluding; deception by creating illusory ideas
+100756299	the act of giving a false appearance
+100756620	pretending that something is the case in order to make a good impression
+100756843	the enactment of a pretense
+100757016	a deliberate pretense or exaggerated display
+100757206	a theatrical pose created for effect
+100757377	an affectation of radical left-wing views and the fashionable dress and lifestyle that goes with them
+100757537	making a false outward show
+100757684	pretending to be another person
+100757823	a deliberate act intended to make something obscure
+100757951	the act of bluffing in poker; deception by a false show of confidence in the strength of your cards
+100758133	the act of taking in as by fooling or cheating or swindling someone
+100758272	a lapse into sin; a loss of innocence or of chastity
+100758433	an act that is regarded by theologians as a transgression of God's will
+100758690	a sin committed of your own free will (as contrasted with original sin)
+100758836	a sin said to be inherited by all descendants of Adam
+100759083	an unpardonable sin entailing a total loss of grace
+100759386	a pardonable sin regarded as entailing only a partial loss of grace
+100759528	unreasonable and inordinate self-esteem (personified as one of the deadly sins)
+100759688	spite and resentment at seeing the success of another (personified as one of the deadly sins)
+100759878	reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)
+100760148	apathy and inactivity in the practice of virtue (personified as one of the deadly sins)
+100760325	belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)
+100760539	eating to excess (personified as one of the deadly sins)
+100760688	self-indulgent sexual desire (personified as one of the deadly sins)
+100760853	the use of extreme fear in order to coerce people (especially for political reasons)
+100761047	the calculated use of violence (or the threat of violence) against civilians in order to attain goals that are political or religious or ideological in nature; this is done through intimidation or coercion or instilling fear
+100764485	terrorism using the weapons of biological warfare
+100764635	terrorism using the chemical agents of chemical warfare; can undermine the personal security of citizens
+100764983	an assault on electronic communication networks
+100765140	terrorism practiced in your own country against your own people
+100765384	violence carried out to further the political or social objectives of the environmentalists
+100765611	terrorism practiced in a foreign country by terrorists who are not native to that country
+100765789	the financing of terrorist activities by participation in the drug trade
+100765941	the use of a nuclear device by a terrorist organization to cause massive devastation or the use (or threat of use) of fissionable radioactive materials
+100766244	terrorism practiced by a government against its own people or in support of international terrorism
+100766434	terrorism for a religious purpose
+100766546	an act of terrorism
+100766696	the offense of vexatiously persisting in inciting lawsuits and quarrels
+100766841	an unethical agreement between an attorney and client that the attorney would sue and pay the costs of the client's suit in return for a portion of the damages awarded
+100767144	the unauthorized interference in a legal action by a person having no interest in it (as by helping one party with money or otherwise to continue the action) so as to obstruct justice or promote unnecessary litigation or unsettle the peace of the community
+100767587	a transgression that constitutes a violation of what is judged to be right
+100767761	(criminal law) an act punishable by law; usually considered an evil act
+100768966	an evil act not necessarily punishable by law
+100769122	some transgression committed with the assistance of someone trusted by the victim
+100769315	a threatened or attempted physical attack by someone who appears to be able to cause bodily harm if not stopped
+100769552	a reckless attack with intent to injure seriously (as with a deadly weapon)
+100769692	an assault in which the assailant makes physical contact
+100769842	a crime so serious that capital punishment is considered appropriate
+100769972	crime committed using a computer and the internet to steal a person's identity or sell contraband or stalk victims or disrupt operations with malevolent programs
+100770190	a serious crime (such as murder or arson)
+100770410	criminal falsification by making or altering an instrument with intent to defraud
+100770581	intentional deception resulting in injury to another person
+100770890	(maritime law) a fraudulent breach of duty by the master of a ship that injures the owner of the ship or its cargo; includes every breach of trust such as stealing or sinking or deserting the ship or embezzling the cargo
+100771184	(Islam) serious crimes committed by Muslims and punishable by punishments established in the Koran
+100771433	seizure of a vehicle in transit either to rob it or divert it to an alternate destination
+100771640	the willful and unlawful crippling or mutilation of another person
+100771759	a crime less serious than a felony
+100772032	an act that disregards an agreement or a right
+100772323	a violation of the rights secured by a copyright
+100772486	an act that violates the rules of a sport
+100772687	a foul that involves unnecessarily rough contact (as in basketball or football)
+100772845	(basketball) a foul that can be assessed on a player or a coach or a team for unsportsmanlike conduct; does not usually involve physical contact during play
+100773093	violation of the rights secured by a patent
+100773202	any act of molesting, interrupting, hindering, agitating, or arousing from a state of repose or otherwise depriving inhabitants of the peace and quiet to which they are entitled
+100773515	(law) an offense involving intent to defraud and false representation and obtaining property as a result of that misrepresentation
+100773742	vulgar and offensive nakedness in a public place
+100773870	criminal offense of making false statements under oath
+100774039	physical efforts to oppose a lawful arrest; the resistance is classified as assault and battery upon the person of the police officer attempting to make the arrest
+100774302	an illegal action inciting resistance to lawful authority and tending to cause the disruption or overthrow of the government
+100774536	the act of subjecting someone to unwanted or improper sexual advances or activity (especially women or children)
+100774724	the act of committing a crime
+100774891	the crime of forcing a person to submit to sexual intercourse against his or her will
+100775170	rape in which the rapist is known to the victim (as when they are on a date together)
+100775311	the act of attacking
+100775506	assault with intent to rob
+100775604	a statutory offense that provides that it is a crime to knowingly cause another person to engage in an unwanted sexual act by force or threat
+100776003	(Islam) minor crimes committed by Muslims; crimes that are not mentioned in the Koran so judges are free to punish the offender in any appropriate way
+100776293	crimes created by statutes and not by common law
+100776503	violent or brutal acts as of thugs
+100776592	the offense of marrying someone while you have a living spouse from whom no valid divorce has occurred
+100776783	the act of taking of a person by force
+100776957	the criminal act of capturing and carrying away by force a family member; if a man's wife is abducted it is a crime against the family relationship and against the wife
+100777199	(law) the unlawful act of capturing and carrying away a person against their will and holding them in false imprisonment
+100777440	an illegal enterprise (such as extortion or fraud or drug peddling or prostitution) carried on for profit
+100777662	engaging in a racket
+100777759	the practice of offering something (usually money) in order to gain an illicit advantage
+100777963	the crime of a judge whose judgment is influenced by bribery
+100778078	bribery of a purchasing agent in order to induce the agent to enter into a transaction
+100778229	the fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else
+100778566	the co-option of another person's personal information (e.g., name, Social Security number, credit card number, passport) without that person's knowledge and the fraudulent use of such knowledge
+100778821	an attempt by speculators to defraud investors
+100778936	the act of plundering (especially the embezzlement of goods on shipboard)
+100779084	use of the mails to defraud someone
+100779176	misrepresentation or alteration of the true results of an election
+100779303	comprises all acts or omissions or concealments involving breach of equitable or legal duty or trust or confidence
+100779514	fraud that prevents a party from knowing their rights or from having a fair opportunity of presenting them at trial
+100779710	actual deceit; concealing something or making a false representation with an evil intent to cause injury to another
+100779902	fraud that is presumed from the circumstances although the one who commits it need not have had any evil intent
+100780072	fraud that arises from a disparity between the instrument intended to be executed and the instrument actually executed; e.g., leading someone to sign the wrong contract
+100780306	fraud which intentionally causes a person to execute an instrument or make an agreement or render a judgment; e.g., misleading someone about the true facts
+100780531	fraud (as by use of forged documents or false claims or perjury) that misleads a court or jury and induces a finding for the one perpetrating the fraud
+100780744	a swindle in which you cheat at gambling or persuade a person to buy worthless property
+100781071	(sometimes offensive) an act of swindling or cheating
+100781235	a complicated confidence game planned and executed with great care (especially an operation implemented by undercover agents to apprehend criminals)
+100781445	a fraudulent business practice involving some form of pyramid scheme e.g., the chain of distribution is artificially expanded by an excessive number of distributors selling to other distributors at progressively higher wholesale prices until retail prices are unnecessarily inflated
+100781784	the act of swindling by some fraudulent scheme
+100782120	the act of hiding playing cards in a gambling game so they are available for personal use later
+100782269	British slang for a swindle
+100782385	a swindling sleight-of-hand game; victim guesses which of three things a pellet is under
+100782543	the act of taking something from someone unlawfully
+100783009	the act of stealing small amounts or small articles
+100783134	the act of stealing goods that are on display in a store
+100783339	larceny by threat of violence
+100783566	robbery at gunpoint
+100783726	a crime that undermines the offender's government
+100783895	a vice that is illegal
+100783992	an act that is legally a crime but that seem to have no victims
+100784172	a crime committed in wartime; violation of rules of war
+100784283	biological theft; illegal collection of indigenous plants by corporations who patent them for their own use
+100784446	a crime (especially a robbery)
+100784581	robbery by a gang of armed dacoits
+100784717	the act of stealing
+100784853	robbery of a traveller or vehicle in transit or seizing control of a vehicle by the use of force
+100785073	robbery of travellers on or near a public road
+100785181	hijacking on the high seas or in similar contexts; taking a ship or plane away from the control of those who are legally entitled to it
+100785416	the act of robbing a helpless person
+100785556	larceny of property having a value greater than some amount (the amount varies by locale)
+100785737	larceny of property having a value less than some amount (the amount varies by locale)
+100785925	failure to declare income in order to avoid paying taxes on it
+100786042	the felonious act of extorting money (as by threats of violence)
+100786252	extortion of money by threats to divulge discrediting information
+100786409	payment extorted by gangsters on threat of violence
+100786588	extortion of money (as by blackmail)
+100786699	entering a building unlawfully with intent to commit a felony or to steal valuable property
+100786917	trespassing for an unlawful purpose; illegal entrance into premises with criminal intent
+100787136	burglary of a dwelling while the residents are at home
+100787250	a venture by a partnership or conglomerate designed to share risk or expertise
+100787472	a joint venture between a foreign company and a United States company
+100787613	a venture at something new or different
+100787756	a hopeless or desperate enterprise
+100787849	earnest and conscientious activity intended to do or accomplish something

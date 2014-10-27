@@ -1,0 +1,1000 @@
+300365559	causing sad feelings of gloom and inadequacy
+300365961	causing dejection
+300366341	grave or even gloomy in character
+300366593	having a floral envelope or perianth consisting of a calyx and/or corolla
+300366761	not having a floral envelope or perianth
+300366879	having a granular structure like that of chondrites
+300367016	not having a granular structure
+300367105	having three unequal crystal axes with one oblique intersection
+300367265	having three unequal crystal axes intersecting at oblique angles
+300367435	(of light or other electromagnetic radiation) having only one wavelength
+300367606	(of light or other electromagnetic radiation) composed of more than one wavelength
+300367771	being or having or characterized by hue
+300370566	of a medium to dark brownish yellow color
+300370710	of green tinged with amber
+300370794	of a moderate purple color
+300370893	(of hair) colored a moderate reddish-brown
+300371003	having the deep slightly brownish color of gold
+300371222	of the dull yellowish green of the meat of an avocado
+300371329	of a deep somewhat purplish blue color similar to that of a clear October sky
+300371563	of a light greyish-brown color
+300371663	of brown tinged with black
+300371750	of red tinged with black
+300371833	of bluish-black or grey-blue
+300371931	of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky
+300372225	of a bluish shade of green
+300372373	of lavender tinged with blue
+300372473	of purple tinged with blue
+300372573	of violet tinted with blue
+300372673	of blush color
+300372803	of a dark to moderate greyish green color
+300372903	of the red of fresh raspberries
+300373007	of the color of bronze
+300373091	of red tinged with bronze
+300373173	of a color similar to that of wood or earth
+300373328	of green tinged with brown
+300373429	of dark purple tinted with brown
+300373538	of the yellowish-beige color of buff leather
+300373633	of brown tinged with buff
+300373715	having the color of a canary; of a light to moderate yellow
+300373861	having the color of caramel; of a moderate yellow-brown
+300374022	pink or pinkish
+300374129	of something having the yellowish green color of Chartreuse liqueur
+300374271	(of hair or feathers) of a golden brown to reddish brown color
+300374443	(of hair or feathers) of brown tinged with chestnut
+300374555	of something having the color of copper
+300374683	of a strong pink to yellowish-pink color
+300374793	of red tinged with coral
+300374873	of the color of cream
+300374977	yellow with a creamy tinge
+300375063	of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green
+300375276	magenta tinged with crimson
+300375365	purple tinged with crimson
+300375452	yellow tinged with crimson
+300375539	of a dark shade of blue
+300375618	of a deep shade of pink
+300375697	of something having the color of a pumpkin
+300375797	of a dull shade of purple
+300375880	of a dull greyish brown to brownish grey color
+300376006	earth colored; of something having a color of soil or earth
+300376152	of something having a dusky brownish grey color
+300376279	of yellow tinged with gold
+300376365	of brown tinged with gold
+300376449	of green tinged with gold
+300376533	of blue tinged with grey
+300376655	of brown tinged with grey
+300376782	of green tinged with grey
+300376909	of pink tinged with grey
+300377031	of the color between blue and yellow in the color spectrum; similar to the color of fresh grass
+300377317	of brown tinged with green
+300377404	of a light brown or yellowish brown color
+300377515	of brown tinged with hazel
+300377599	of something having the color of honey
+300377707	of something having the color of jade; especially varying from bluish green to yellowish green
+300377883	of a yellowish brown color
+300377979	of a pale purple color
+300378098	of something tinged with lavender
+300378193	of a light shade of blue
+300378286	of blue tinged with lavender
+300378385	of pink tinged with lavender
+300378500	of purple tinged with lilac
+300378586	of deep purplish red
+300378678	of pink tinged with magenta
+300378764	of dark brownish to purplish red
+300378864	of purple tinged with maroon
+300378952	of a pale to moderate greyish violet color
+300379064	of blue tinged with mauve
+300379146	of pink tinged with mauve
+300379228	of a moderate somewhat dull yellow-green color
+300379342	of something having a drab pale brown color resembling a mouse
+300379560	of a moderate orange-yellow color
+300379653	of a brown color with a greenish tinge
+300379749	of a light brownish green color
+300379844	of a yellow-green color similar to that of an unripe olive
+300379954	of the color between red and yellow; similar to the color of a ripe orange
+300380146	of red tinged with orange
+300380243	of brown tinged with orange
+300380329	of something resembling a peach in color
+300380475	of bright greenish blue
+300380557	of a moderate slightly yellowish-green color
+300380657	of a light shade of red
+300380759	of lavender tinged with pink
+300380866	of orange tinged with pink
+300380976	of red tinged with pink
+300381054	of a color tinged with pink
+300381139	of purple tinged with pink
+300381240	of a moderate to pale blue or purplish blue
+300381374	of a color intermediate between red and blue
+300381545	of blue tinged with purple
+300381645	of brown tinged with purple
+300381748	of green tinged with purple
+300381851	of lavender tinged with purple
+300381957	of red tinged with purple
+300382054	of a color tinged with purple
+300382159	of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies
+300382587	of brown tinged with red
+300382698	of something having a lavender color tinged with red
+300382828	of a pink color that is close to red
+300382923	of orange tinged with red
+300383037	of purple tinged with red
+300383136	of violet tinged with red
+300383235	of something having a dusty purplish pink color
+300383383	of a deep slightly bluish red color
+300383473	of lavender tinged with rose
+300383574	of mauve tinged with rose
+300383656	of purple with a rose tinge
+300383755	of a color tinged with rose
+300383854	of brown with a reddish tinge
+300383936	of the brown color of rust
+300384052	of a red color tinged with rust
+300384150	of something having the brown color of rust
+300384251	of the grey-green color of sage leaves
+300384353	of something having the color of a blue sapphire
+300384491	of crimson tinged with scarlet
+300384583	of pink tinged with scarlet
+300384669	of the color of the sea; bluish green
+300384762	of something having a color that is a light shiny blue
+300384889	of something having a color that is a light shiny green
+300385019	snuff colored; of a greyish to yellowish brown
+300385161	of a light brownish color
+300385257	of any of various dull tannish or grey colors
+300385354	of a pale yellow color like straw; straw-colored
+300385472	of something having the yellow color of sulfur
+300385595	of a light yellowish-brown color
+300385677	of a color resembling tan
+300385756	of a strong reddish orange color
+300385844	of a light brown to brownish orange color; the color of tanned leather
+300385998	of a brilliant pure blue to purplish blue color
+300386121	of the color of any of various natural brown earth pigments
+300386250	of a vivid red to reddish-orange color
+300386400	of the color of wine
+300386494	of something that is tinged with violet
+300386609	of pink tinged with white; a light tint of pink
+300386713	of something having the dark red color of red wine
+300386818	of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk
+300387052	of beige tinged with yellow
+300387156	of a color midway between yellow and green
+300387257	of orange tinged with yellow
+300387364	of a color tinged with yellow
+300387453	having no hue
+300388453	of lustrous grey; covered with or tinged with the color of silver
+300388654	of a light grey
+300388760	of something that is somewhat black
+300388869	of dark grey
+300388983	of white tinged with blue
+300389093	of grey tinged with blue
+300389213	of black tinged with blue
+300389310	of black tinged with brown
+300389411	of grey tinged with brown
+300389538	of greyish white
+300389632	of something having the color of chalk
+300389786	of a very dark grey
+300389910	of the blackest black; similar to the color of jet or coal
+300390096	of something as white as cotton
+300390211	of a dull shade of white
+300390292	of a very dark black
+300390371	of an achromatic color of any lightness intermediate between the extremes of white and black
+300390668	of black tinged with grey
+300390795	of white tinged with grey
+300390922	of grey tinged with green
+300391023	of white flowers tinged with green
+300391132	of something totally lacking in saturation and therefore having no hue
+300391256	of the color of black ink
+300391393	of the grey color of iron
+300391522	of a pure white color
+300391600	of a white the color of fresh milk
+300391691	of grey tinged with olive
+300391786	of a dark shade of grey
+300391905	of a grey with a pearly tinge
+300392004	of a white the color of pearls
+300392138	of white tinged with pink
+300392223	of black tinged with purple
+300392326	of white tinged with purple
+300392429	of grey tinged with red
+300392548	of a dark somewhat brownish black
+300392633	of grey resembling silver
+300392760	of a white that resembles silver
+300392867	of a black tinged with slate-grey
+300392958	of the color of slate or granite
+300393154	of the white color of snow
+300393245	of the black color of soot
+300393342	of black tinged with violet
+300393428	(of plants) having white flowers
+300393521	of something having a color tending toward white
+300393635	of grey tinged with yellow
+300393767	of a white tinged with yellow
+300393873	being of the achromatic color of maximum darkness; having little or no hue owing to absorption of almost all incident light
+300394166	being of the achromatic color of maximum lightness; having little or no hue owing to reflection of almost all incident light
+300394483	becoming or shading into white
+300394569	(of color) being chromatically pure; not diluted with white or grey or black
+300394744	(of color) having the highest saturation
+300394913	(of color) not chromatically pure; diluted
+300395053	(of color) very low in saturation; highly diluted
+300395196	having or capable of producing colors
+300395392	not having or not capable of producing colors
+300395623	having color or a certain color; sometimes used in combination
+300396687	(especially of the face) reddened or suffused with or as if with blood from emotion or exertion
+300397038	(used of animals especially a horse) of a moderate reddish-brown color
+300397176	having two colors
+300397357	(of the face) made black especially as with suffused blood
+300397505	having blue flowers
+300397584	having a bright color
+300397688	having a buff color
+300397782	having the brown color of chestnuts
+300397900	having the color of dark chocolate
+300398019	having the color of cinnamon
+300398169	red tinged with cinnamon
+300398252	having the color of fresh cream
+300398375	having a dark color
+300398502	having a dun color
+300398593	having the color of a fawn
+300398694	having the brilliant orange-red color of flames
+300398818	having a bright red or pinkish color
+300398931	having the color of garnet
+300399036	(used especially of hair or fur) having a bright orange-brown color
+300399233	having the color of gold
+300399332	having the color of honey
+300399434	having a color between blue and violet
+300399543	having the color of lead
+300399642	having a reddish-brown color
+300399738	having a metallic color
+300399877	having or appearing to have only one color
+300400039	having sections or patches colored differently and usually brightly
+300400540	having a color that does not attract attention
+300400667	having the color of green olives
+300400776	having the color of ripe oranges
+300400901	having orange flowers
+300400984	having a pale color
+300401074	having pale delicate colors
+300401162	having the color of a ripe peach
+300401254	having or exhibiting many colors
+300401373	having purple flowers
+300401456	having red flowers
+300401533	(used of especially horses) having a brownish coat thickly sprinkled with white or grey
+300401705	having a rose color
+300401798	having the brown color of rust
+300401887	having the color of polished silver
+300401983	having the color of dry straw
+300402089	having a tawny color
+300402186	having or involving three colors
+300402505	having a violet color
+300402623	light violet and dark purple
+300402711	without color
+300402892	having little or inadequate color
+300402983	having no color
+300403065	marked or dyed or discolored with foreign matter
+300403220	not stained
+300403346	(of a specimen for study under a microscope) not treated with a reagent or dye
+300403480	having much or varied color
+300403798	resembling flame in brilliance or color
+300403922	having strong or striking color
+300404149	varying in color when seen in different lights or from different angles
+300404462	strong; intense
+300404582	brilliantly colored and apparently giving off light
+300404731	exhibiting spectral colors formed by refraction of light through a prism
+300404896	having the vivid colors and bizarre patterns associated with psychedelic states
+300405059	of colors that are bright and gaudy
+300405187	of colors that are bright and striking
+300405279	weak in color; not colorful
+300405645	anemic looking from illness or emotion
+300406038	having lost freshness or brilliance of color
+300406256	lacking brightness or color; dull
+300406483	deprived of color
+300406631	(especially of plants) developed without chlorophyll by being deprived of light
+300406827	ghastly pale
+300406956	abnormally deficient in color as suggesting physical or emotional distress
+300407217	resembling paste in color; pallid
+300407425	(of fabric or clothing) having been given a faded (weathered) appearance by artificial means
+300407572	having the paleness of wax
+300407820	(of hair) having lost its color
+300407944	striking in variety and interest
+300408228	brightly colored and showy
+300408497	(used especially of clothes) marked by conspicuous display
+300408731	full of variety or interest
+300408843	attracting attention by showiness or bright colors
+300408964	strikingly expressive
+300409108	lacking in variety and interest
+300409361	lacking distinguishing quality or characteristics
+300409522	lacking in vitality or interest or effectiveness
+300409737	(used of color) having a relatively small amount of coloring agent
+300410069	very light colored; highly diluted with white
+300410218	slightly pale
+300410284	delicate and pale in color
+300410396	as if dulled in color with a sprinkling of powder
+300410517	(used of color) having a dark hue
+300410745	slightly dark
+300410827	based on a scale consisting of 12 semitones
+300410966	based on the standard major or minor scales consisting of 5 tones and 2 semitones without modulation by accidentals
+300411155	on this (the speaker's) side of the mountains
+300411345	on the Italian or Roman side of the Alps
+300411526	on or coming from the other side of the mountains (from the speaker)
+300411745	on or relating to or characteristic of the region or peoples beyond the Alps from Italy (or north of the Alps)
+300412086	following the teachings or manifesting the qualities or spirit of Jesus Christ
+300412292	becoming to or like a Christian
+300412430	resembling or showing the spirit of Christ
+300412558	not of a Christian faith
+300412676	not believing in Christ
+300412771	not becoming to or like a Christian
+300412963	having a high state of culture and development both social and technological
+300413248	(of societies) highly developed especially in technology or industry
+300413432	of or in a condition of social order
+300413537	showing evidence of moral and intellectual advancement
+300413644	not having a high state of culture and social development
+300413865	without civilizing influences
+300414301	primitive in customs and culture
+300414389	used of a society that has not developed writing
+300414509	used of preliterate or tribal or nonindustrial societies
+300414699	of or relating to the first significant period of a civilization, culture, area of study, etc.
+300414979	of or pertaining to or characteristic of the ancient Greeks and Romans, especially their art, literature, or culture
+300415245	of or relating to music in the European tradition, such as symphonies and operas
+300415419	(physics) relating to or based on concepts that preceded the theories of relativity and quantum mechanics
+300415599	characteristic of a revival of an earlier classical style
+300415746	not classical
+300415873	characteristic of present-day art and music and literature and architecture
+300416037	(of music or art) new and of general appeal (especially among young people)
+300416228	arranged into classes
+300416342	arranged into categories
+300416438	arranged into groups
+300416521	not arranged in any specific grouping
+300416635	not categorized or sorted
+300416747	official classification of information or documents; withheld from general circulation
+300417062	official classification for documents; meant to be seen by only the person to whom it is directed
+300417215	the level of official classification for documents next above restricted and below secret; available only to persons authorized to see documents so classified
+300417450	the lowest level of official classification for documents
+300417564	the next to highest level of official classification for documents
+300417683	of or pertaining to classified information or matters affecting national security
+300417820	the highest official level of classification of documents
+300417934	not subject to a security classification
+300418069	having had security classification removed
+300418170	never having had security classification
+300418284	examined carefully and methodically; broken down for consideration of constituent parts
+300418551	not analyzed or broken down for detailed examination
+300418723	not processed or subjected to analysis
+300418932	free from dirt or impurities; or having clean habits
+300419417	capable of being cleaned
+300419497	habitually clean
+300419629	cleaned with chemical solvents
+300419717	not yet used or soiled
+300419883	completely neat and clean
+300420198	immaculately clean and unused
+300420328	made clean by scrubbing
+300420469	without soil or spot or stain
+300420577	spotlessly clean and fresh
+300420694	clean by virtue of having been washed in water
+300420808	soiled or likely to soil with dirt or grime
+300421701	extremely filthy from long neglect
+300421806	limp and soiled as if dragged in the mud
+300421999	made dirty or foul
+300422169	thickly covered with ingrained dirt or soot
+300422521	soiled with dirt or soot
+300422721	infested with bugs
+300422827	covered with cobwebs
+300422902	having a dirty face
+300423032	foul with waste matter
+300423109	disgustingly dirty; filled or smeared with offensive matter
+300423394	foul and run-down and repulsive
+300423687	smeared or soiled with grease or oil
+300423893	infested with lice
+300424065	spotted or blotched
+300424139	dirty and messy; covered with mud or muck
+300424291	dirty and infested with rats
+300424389	covered with scum
+300424520	smeared with something that soils or stains; these words are often used in combination
+300424788	dirty with nasal discharge
+300424950	covered with or as if with soot
+300425088	soiled from travel
+300425208	habitually unclean
+300425300	not having been swept
+300425393	not cleaned with or as if with soap and water
+300425527	(of behavior or especially language) free from objectionable elements; fit for all observers
+300425759	devoid of objectionable language
+300425889	(of behavior or especially language) characterized by obscenity or indecency
+300426306	humorously vulgar
+300426521	characterized by profanity or cursing
+300426753	having lewd thoughts
+300426832	characterized by obscenity
+300427107	using foul or obscene language
+300427259	suggestive of or tending to moral looseness
+300427565	dealing with salacious or indecent material
+300427683	dealing pruriently with excrement and excretory functions
+300427844	not spreading pollution or contamination; especially radioactive contamination
+300428105	spreading pollution or contamination; especially radioactive contamination
+300428404	exhibiting or caused by radioactivity
+300428602	having or dealing with dangerously high levels of radioactivity
+300428752	not radioactive
+300428828	ritually clean or pure
+300428993	conforming to dietary laws
+300429141	conforming to dietary laws
+300429283	having a physical or moral blemish so as to make impure according to dietary or ceremonial laws
+300429618	not conforming to dietary laws
+300429740	(especially used in traditional Hindu belief of the lowest caste or castes) defiling
+300429900	readily apparent to the mind
+300430374	lacking subtlety; obvious
+300430512	clearly or sharply defined to the mind
+300430851	(of language) transparently clear; easily understandable
+300431289	as it seems at first sight
+300431405	clearly evident to the mind
+300431537	having the clarity and freshness of immediate experience
+300431687	not clear to the mind
+300432059	unclear because vague or badly organized
+300432261	unclear in form or expression
+300432472	lacking clarity of meaning; causing confusion or perplexity
+300432720	not clearly expressed or understood
+300433163	allowing light to pass through
+300433489	transmitting light; able to be seen through with clarity
+300433966	resembling glass in transparency or translucency
+300434168	clear and bright
+300434341	allowing light to pass through diffusely
+300434575	not made opaque or cloudy by sediment
+300434712	(of glass) lacking a frosted coating
+300434829	not transmitting or reflecting light or radiant energy; impenetrable to sight
+300435243	(of liquids) clouded as with sediment
+300435525	obscured by fog
+300435686	(of glass) having a roughened coating resembling frost
+300435811	having a frosted look from a powdery coating, as on plants
+300435979	not penetrable by light
+300436098	resembling milk in color; not clear
+300436239	partially opaque
+300436312	impenetrable for the eye
+300436407	almost complete transparent to X-rays or other forms of radiation
+300436553	not transparent to X-rays or other forms of radiation
+300436728	not mentally confused; able to think clearly and act intelligently
+300436905	free from confusion or doubt
+300437089	not mentally disordered
+300437207	mentally confused; unable to think with clarity or act intelligently
+300437587	stupid and confused
+300437830	confused and vague; used especially of thinking
+300438100	stupefied by alcoholic drink
+300438259	mentally disordered
+300438360	in a state of mental numbness especially as resulting from shock
+300438635	stupefied or dizzied by something overpowering
+300438864	as if in a trance
+300438938	dazed from or as if from repeated blows
+300439159	confused or disoriented as if intoxicated through taking a drug
+300439279	(used of persons or behavior) inclined to show mercy
+300439484	characterized by tolerance and mercy
+300439592	used of persons or behavior; showing no clemency or mercy
+300439803	not forbearing; ruthless
+300439906	(of weather or climate) physically mild
+300440072	mild and pleasant
+300440307	(of weather or climate) severe
+300440447	showing mental alertness and calculation and resourcefulness
+300440649	marked by practical hardheaded intelligence
+300440992	showing self-interest and shrewdness in dealing with others
+300441171	having the shrewd resourcefulness needed to survive in an urban environment
+300441328	lacking or marked by lack of intellectual acuity
+300441663	having or revealing stupidity
+300442050	extremely silly or stupid
+300442219	(used informally) stupid
+300442506	heavy and dull and stupid
+300442596	slow to learn or understand; lacking intellectual acuity
+300443171	(British informal) lacking intelligence and vitality
+300443289	mentally sluggish
+300443382	(of especially persons) lacking sense or understanding or judgment
+300443540	deficient in intelligence or mental power
+300443647	stupid and ignorant like proverbial rural inhabitants
+300443798	in the same direction as the rotating hands of a clock
+300443944	rotating to the right
+300444074	in the direction opposite to the rotation of the hands of a clock
+300444272	rotating to the left
+300444378	located at a great distance in time or space or degree
+300444844	of a seeker; far from the object sought
+300444934	located far away spatially
+300445092	separate or apart in time
+300445291	very far away in space or time
+300445507	more distant in especially space or time
+300445635	(comparatives of far') most remote in space or time or order
+300446005	more distant in especially degree
+300446237	remote from populous or much-traveled regions
+300446433	relatively far from a center or middle
+300446553	not far distant in time or space or degree or circumstances
+300447018	near or close to but not necessarily touching
+300447203	close at hand
+300447342	of a seeker; near to the object sought
+300447474	of a seeker; very near to the object sought
+300447582	separated in space or coming from or going to a distance
+300447971	very distant in time or space
+300448141	most distant in any direction
+300448270	remote
+300448367	covering a long distance
+300448559	not adjacent; not next
+300448639	happening in or being of another town or city
+300448792	distant but within sight (yon' is dialectal)
+300448955	at or within a short distance in space or time or having elements near each other
+300449506	nearest in space or position; immediately adjoining without intervening space
+300449787	completely enveloping
+300449943	pressed close to or lying flat against something
+300450164	located close together
+300450348	close in time; about to occur
+300450678	close in space; within reach
+300450811	having the sails trimmed for sailing as close to the wind as possible
+300450958	set close together
+300451113	very close or connected in space or time
+300451366	closely encircling
+300451559	surrounding and closing in on or hemming in
+300451696	being at close quarters
+300451803	placed side by side often for comparison
+300451923	drawn or pressed close to someone or something for or as if for affection or protection
+300452181	very close in space or time
+300452303	reduced to a small appressed thing that resembles a scale
+300452436	close enough to be walked to
+300452640	far apart in relevance or relationship or kinship
+300452948	far removed mentally
+300453065	having only distant social or legal ties
+300453188	separated in relationship by a given degree of descent
+300453324	beyond or outside an area of immediate interest; remote
+300453543	close in relevance or relationship
+300453905	very close in resemblance
+300454053	very close and convivial
+300454147	(used informally) associated on close terms
+300454440	held together as by social or cultural ties
+300454638	denoting confidence or intimacy
+300454806	suggesting connivance
+300454916	with or in a close or intimate relationship
+300455086	having mutual interests or affections; of established friendship
+300455341	marked by close acquaintance, association, or familiarity
+300455562	like or befitting a cousin
+300455680	not befitting a cousin
+300455759	wearing or provided with clothing; sometimes used in combination
+300456473	dressed or clothed especially in fine attire; often used in combination
+300456882	in ceremonial attire and paraphernalia
+300457017	dressed in trousers
+300457117	dressed warmly
+300457223	clothed in finery (especially a horse in ornamental trappings)
+300457343	dressed in a cassock
+300457438	having or dressed in a coat
+300457518	dressed in clothing characteristic of a period, country, or class
+300457638	having the head enclosed in a cowl or hood
+300457750	dressed or adorned (as for battle)
+300457857	dressed in fancy or formal clothing
+300458059	wearing a gown
+300458154	dressed in a habit
+300458262	wearing a heavy coat
+300458388	dressed too elaborately
+300458469	wearing or furnished with a petticoat
+300458609	used of British soldiers during the American Revolutionary War because of their red coats
+300458772	outfitted or supplied with clothing
+300458888	wearing a surplice
+300458962	dressed especially in smart clothes
+300459069	dressed well or smartly
+300459193	dressed in a tuxedo
+300459291	inadequately or too informally clothed
+300459388	dressed in a uniform
+300459515	dressed in ceremonial garments especially clerical vestment
+300459631	not wearing clothing
+300460031	completely unclothed
+300460299	(used informally) completely unclothed
+300460521	having the breasts uncovered or featuring such nudity
+300460697	having the head uncovered
+300460843	having the legs uncovered by clothing
+300460973	unclothed especially below the waist or featuring such nudeness
+300461135	possessing no clothing
+300461243	partly dressed in a loose or careless manner
+300461363	not covered with clothing
+300461476	inadequately clothed
+300461586	as naked as at birth
+300461779	not covering the shoulders (especially in the case of a blouse or dress)
+300461914	partially clothed
+300461986	(British informal) stark naked
+300462109	with clothing stripped off
+300462190	having removed clothing
+300462329	without any clothing at all
+300462419	having a saddle on or being mounted on a saddled animal
+300462569	with no saddle
+300462657	riding without a saddle
+300462768	free from clouds or mist or haze
+300462979	free from clouds
+300463124	free of clouds or rain
+300463228	completely clear and fine
+300463344	full of or covered with clouds
+300463642	filled or abounding with fog or mist
+300463892	enveloped in fog
+300464004	filled or abounding with clouds
+300464162	resembling a cloud
+300464282	darkened with overcast
+300464442	darkened by clouds
+300464579	filled with vapor
+300464774	clouded with a mixture of smoke and fog
+300464942	located on or near or bordering on a coast
+300465195	along or following a coast
+300465341	close to a shore
+300465432	bordering on or living or characteristic of those near the sea
+300465613	directed or situated away from inland regions and toward the sea or coast
+300465817	situated away from an area's coast or border
+300465950	of or coming from the middle of a region or country
+300466101	surrounded entirely or almost entirely by land
+300466228	(of winds) coming from the sea toward the land
+300466390	(of winds) coming from the land
+300466504	marked by an orderly, logical, and aesthetically consistent relation of parts
+300466836	perfectly consistent and coherent
+300466953	without logical or meaningful connection
+300467212	lacking orderly continuity
+300467576	confused and not coherent; not clearly thought out
+300467728	capable of collapsing or being collapsed
+300467934	capable of being folded up and stored
+300468068	having parts that slide one within another
+300468220	constructed so as to tip up or out of the way
+300468356	not capable of collapsing
+300468477	not telescopic
+300468568	having small chinks or crannies (especially in or between rocks or stones)
+300468716	without chinks or crannies
+300468799	forming a whole or aggregate
+300469010	clustered together but not coherent
+300469231	formed of separate units gathered into a mass or whole
+300469555	characterized by the principle of ownership by the state or the people of the means of production
+300469728	(furniture) easily assembled and dismantled
+300469904	serving to distribute or allot or disperse
+300470167	capable of being distributed
+300470353	spreading by diffusion
+300470565	of qualities that are spread throughout something
+300470786	spreading or spread throughout
+300471161	(of a word) referring singly and without exception to the members of a group
+300471459	spreading through
+300471594	made known; especially made widely known
+300471758	called to public attention
+300471870	publicly announced
+300471990	formally made public
+300472102	kept from public knowledge by various means
+300472274	suppressed quietly or indirectly
+300472362	(used of information or news) kept secret by using influence
+300472518	subdued or overcome
+300472709	not (or not yet) made available for distribution or publication
+300472920	prepared and printed for distribution and sale
+300473062	not published
+300473168	suitable for publication
+300473250	not suitable for publication
+300473338	made known or told about; especially presented in a formal account
+300473562	(followed by to') as reported or stated by
+300473688	requiring that official notification be given
+300473832	meriting report
+300473956	not reported
+300474047	(of income) required by law to be reported
+300474167	(of income) not reportable; not required by law to be reported
+300474326	marked by or relating to or resulting from combination
+300474524	relating to the combination and arrangement of elements in sets
+300474684	able to or tending to combine
+300474800	not involving combination
+300474904	not able to combine
+300474982	capable of igniting and burning
+300475233	capable of burning
+300475492	supporting combustion
+300475648	easily ignited
+300475768	can emit sparks or burst into flame
+300475859	capable of catching fire spontaneously or causing fires or burning readily
+300476033	not capable of igniting and burning
+300476217	impervious to damage by fire
+300476301	difficult to burn
+300476430	resistant to catching fire
+300476531	impossible to ignite
+300476610	serving to explode or characterized by explosion or sudden outburst
+300476873	exploding almost instantaneously
+300476998	not explosive
+300477115	set afire or burning
+300477298	lighted up by or as by fire or flame
+300477615	set afire
+300477739	not set afire or burning
+300477917	not set afire
+300477986	large and roomy (convenient' is archaic in this sense)
+300478239	(of buildings and rooms) having ample space
+300478484	uncomfortably or inconveniently small
+300478653	constricted in size
+300478809	providing or experiencing physical well-being or relief (comfy' is informal)
+300479274	enjoying or affording comforting warmth and shelter especially in a small space
+300479543	affording comfort
+300479651	having a feeling of home; cozy and comfortable
+300479886	affording physical relief
+300480005	providing or experiencing physical discomfort
+300480301	feeling physical discomfort or pain (tough' is occasionally used colloquially for bad')
+300480580	without comfort
+300480675	causing physical discomfort
+300480862	characterized by physical misery
+300481063	relating to bodily unease that causes discomfort
+300481182	uncomfortable because of possible danger or trouble
+300481320	free from stress or conducive to mental ease; having or affording peace of mind
+300481773	made comfortable or more comfortable in a time of distress
+300481923	conducive to or feeling mental discomfort
+300482429	socially uncomfortable; unsure and constrained in manner
+300482743	causing mental discomfort
+300482870	not the right size or shape
+300482955	excessively and uncomfortably conscious of your appearance or behavior
+300483212	corresponding in size or degree or extent
+300483453	being of equal extent or scope or duration
+300483582	capable of being measured by a common standard
+300483727	agreeing in amount, magnitude, or degree
+300483845	not corresponding in size or degree or extent
+300484048	not proportionate
+300484128	not having a common factor
+300484216	being in due proportion
+300484441	per person
+300484569	proportionate
+300484662	properly related in size or degree or other measurable characteristics; usually followed by to'
+300484937	having a constant ratio
+300485037	out of proportion
+300485135	connected with or engaged in or sponsored by or used in commerce or commercial enterprises
+300485470	organized principally for financial gain
+300485639	relating to or characteristic of trade or traders
+300485804	profit oriented
+300486058	resulting from or dependent on market factors rather than fundamental economic considerations
+300486321	not connected with or engaged in commercial enterprises
+300486526	without immediate commercial value
+300486668	not commercially motivated
+300486770	not conducive to commercial success
+300486920	not having been commercialized
+300487032	used or designed for residence or limited to residences
+300487240	not residential
+300487419	(of military officers) holding by virtue of a commission a rank of second lieutenant or ensign or above
+300487581	(of military officers) appointed from enlisted personnel
+300487699	having no special distinction or quality; widely known or commonly encountered; average or ordinary or usual
+300488278	lacking special distinction, rank, or status; commonly encountered
+300488527	representing or appealing to or adapted for the benefit of the people at large
+300488807	of or for the common people
+300488978	frequently encountered
+300489185	prevailing among and common to the general public
+300489314	of or involving the common people as constituting a fundamental political and economic group
+300489512	commonly used or supplied
+300489640	not common or ordinarily encountered; unusually great in amount or remarkable in character or kind
+300490174	surpassing what is common or usual or expected
+300490548	not widely known; especially valued for its uncommonness
+300490684	special treatment or hospitality
+300490844	not commonly encountered
+300490985	unaccustomed or unusual
+300491099	occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure
+300491482	commonly used or practiced; usual
+300491759	habitual
+300491854	in accord with regular practice or procedure
+300492026	not usual or common or ordinary
+300492404	differing from all others; not ordinary
+300492641	(of an official) serving an unusual or special function in addition to those of the regular officials
+300492836	not easily explained
+300492970	exceptional, unusual, or remarkable
+300493135	markedly different from the usual
+300493366	unusual or unfamiliar
+300493556	highly unusual or rare but not the single instance
+300493794	lacking affinity for water; tending to repel and not absorb water; tending not to dissolve in or mix with or be wetted by water
+300494016	having a strong affinity for water; tending to dissolve in, mix with, or be wetted by water
+300494202	(especially of certain salts) becoming liquid by absorbing moisture from the air
+300494377	having a strong affinity for oils rather than water
+300494522	having an affinity for lipids
+300494640	lacking affinity for oils
+300494722	belonging to or participated in by a community as a whole; public
+300495057	for or by a group rather than individuals
+300495342	affecting the people or community as a whole
+300495505	being or characteristic of a single thing or person
+300495865	peculiar to the individual
+300496072	marked by or expressing individuality
+300496243	being a system of play in which an individual defensive player guards an individual offensive player
+300496454	considered individually
+300496667	being a single and separate person or thing
+300496952	able or tending to communicate
+300497961	characterized by or given to telling anecdotes
+300498215	able to communicate in Bantu
+300498304	prone to communicate confidential information
+300498467	prone to friendly informal communication
+300498614	readily communicated
+300498715	used in communication
+300498890	able to communicate in English
+300498983	friendly and open and willing to talk
+300499193	characterized by expression
+300499375	able to communicate in a Finno-Ugric language
+300499487	able to communicate in Flemish
+300499580	able to communicate in French
+300499671	able to communicate in Gaelic
+300499762	able to communicate in German
+300499853	making gestures while speaking
+300500009	being other than verbal communication
+300500206	used of the language of the deaf
+300500331	indicative of or announcing something to come
+300500484	able to communicate in Icelandic
+300500581	able to communicate in Italian
+300500674	able to communicate in Japanese
+300500769	able to communicate in Kannada
+300500862	able to communicate in Livonian
+300500957	consisting of or characterized by the telling of a story
+300501107	involving little use of language
+300501228	lacking verbal skill
+300501360	freely communicative; candidly straightforward
+300501486	able to communicate in Oscan
+300501575	given to expressing yourself freely or insistently
+300501775	able to communicate in Russian
+300501868	able to communicate in Samoyedic
+300501965	able to communicate in a Semitic language
+300502069	able to communicate in a Siouan language
+300502171	able to communicate in Spanish
+300502264	able to communicate in Turkic
+300502355	communicated in the form of words
+300502479	inclined to tell long and involved stories (often of incredible happenings)
+300502614	not inclined to talk or give information or express opinions
+300502916	inclined to secrecy or reticence about divulging information
+300503225	deliberately impassive in manner
+300503464	without the means or right to communicate
+300503635	not expressive
+300503732	failing to speak or communicate etc when expected to
+300503910	very difficult to pronounce correctly
+300504092	closely and firmly united or packed together
+300504399	(used of soil) compact and fine-grained
+300504558	packed especially tightly
+300504642	forming a solid mass
+300504721	wedged or packed in together
+300504834	pressed together or compressed
+300504932	(especially of rows as of troops or mountains) pressed together
+300505069	packed closely together
+300505233	not compact or dense in structure or arrangement
+300505439	(used of soil) loose and large-grained in consistency
+300505576	(of soil) unstable
+300505692	full of silt
+300505788	loose and unstratified
+300505894	able to be compared or worthy of comparison
+300506084	similar in some respect and so able to be compared in order to show differences and similarities
+300506343	worthy of comparison; as good as
+300506504	such that comparison is impossible; unsuitable for comparison or lacking features that can be compared
+300506998	unsurpassed in some respect up to the present
+300507197	impossible to measure or compare in value or size or excellence
+300507322	eminent beyond or above comparison
+300507765	radically distinctive and without equal
+300508211	showing or having compassion
+300508513	feeling and exhibiting concern and empathy for others
+300508655	providing physical and emotional care and nourishment
+300508764	easily moved by another's distress
+300508965	lacking compassion or feeling for others
+300509204	devoid of feeling for others
+300509376	able to exist and perform in harmonious or agreeable combination
+300509701	(used of plants) capable of cross-fertilization or of being grafted
+300509824	suitable or appropriate together
+300509948	existing together in harmony
+300510104	not compatible
+300510392	incapable of harmonious association
+300510504	sharply and harshly discordant
+300510662	unable for both to exist or be true at the same time
+300510849	used of plant stock or scions; incapable of being grafted
+300510964	capable of being used with or connected to other devices or components without modification
+300511131	incapable of being used with or connected to other devices or components without modification
+300511302	(chemistry, physics) capable of being mixed
+300511501	capable of forming a homogeneous mixture that neither separates nor is altered by chemical interaction
+300511660	(chemistry, physics) incapable of mixing
+300511821	used especially of solids or solutions; incapable of blending into a stable homogeneous mixture
+300511975	properly or sufficiently qualified or capable or efficient
+300512273	have the skills and qualifications to do things well
+300512569	able to accomplish a purpose; functioning effectively
+300512962	worthy of a good workman
+300513139	not qualified or suited for a purpose
+300513451	generally incompetent and ineffectual
+300513664	lacking the ability or skill to perform effectively; inadequate
+300513891	not characteristic of or suitable for a good workman
+300514055	legally qualified or sufficient
+300514186	legally not qualified or sufficient
+300514412	involving competition or competitiveness
+300514694	striving to overcome in argument
+300514866	eager to surpass others
+300514973	provided with a worthy adversary or competitor
+300515090	not involving competition or competitiveness
+300515313	willing to adjust to differences in order to obtain agreement
+300515484	having exclusive control over a commercial activity by possession or legal grant
+300515641	not inclined to compete
+300515724	expressing pain or dissatisfaction of resentment
+300515906	habitually complaining
+300516100	protesting
+300516203	not complaining
+300516321	capable of being compressed or made more compact
+300516538	reduced in volume by pressure
+300516642	incapable of being compressed; resisting compression
+300516809	including all components without exception; being one unit or constituting the full amount or extent or duration; complete
+300517305	constituting the full quantity or extent; complete
+300517547	representing or accommodating the entire length
+300517678	occupying an entire page in a book or paper
+300517795	constituting the undiminished entirety; lacking nothing essential especially not damaged
+300518156	(of time) constituting the full extent or duration
+300518285	not separated into parts or shares; constituting an undivided unit
+300518464	constituting or comprising a part or fraction of a possible whole or entirety
+300518812	signifying an exact divisor or factor of a quantity
+300518935	constituting a division or an aliquot part of the basic monetary unit
+300519239	consisting of small disconnected parts
+300519479	consisting of one of two equivalent parts in value or quantity
+300519635	including only half or a portion
+300519741	(of clothing) extending only to the waist
+300519841	(of siblings) having the same parents
+300519960	(of siblings) related through one parent only
+300520089	bound or obligated, as under a pledge to a particular cause, action, or attitude
+300520330	deeply devoted to
+300520474	bound by or as if by an oath
+300520641	not bound or pledged
+300520773	having no commitments or responsibilities; carefree
+300520906	not definitely committed to a party or policy
+300521028	not yet having made a commitment
+300521136	devoted to a cause or ideal or purpose
+300521402	(followed by to') dedicated exclusively to a purpose or use
+300521593	zealous in devotion or affection
+300521748	(often followed by to') devoted exclusively to a single use or purpose or person
+300522006	not dedicated
+300522139	having every necessary or normal part or component or step
+300522835	complete and without restriction or qualification; sometimes used informally as intensifiers
+300523272	successfully completed or brought to an end
+300523527	completely given to or absorbed by
+300523635	occurring completely or not occurring at all
+300523754	using all available resources
+300523919	covering the entire surface
+300524044	complete and absolute
+300524165	thorough and without qualification
+300524304	caught
+300524413	the complete stoppage of an action
+300524524	performed comprehensively and completely; not superficial or partial
+300524769	given substance or detail; completed
+300524974	complete in extent or degree and in every particular
+300525157	having or displaying all the characteristics necessary for completeness
+300525318	complete in every respect
+300525453	thorough
+300525568	without reservation
+300525676	constituting a complete and independent unit in and of itself
+300525875	capable of operating independently
+300525986	complete; thorough
+300526155	not complete or total; not completed
+300526565	lacking a part or parts
+300526673	partial
+300526784	not either; not one or the other
+300526870	being or affecting only a part; not total
+300527142	being in the earliest stages of development
+300527282	giving only major points; lacking completeness
+300527492	not caught or not caught within bounds
+300527630	including all or everything
+300528239	broad in scope or content
+300528718	many-sided
+300528872	occurring or extending throughout a city
+300529008	occurring or extending throughout a county
+300529160	occurring or extending throughout a country or nation
+300529364	of worldwide scope or applicability
+300529727	omitting no one; from the door of one house to that of the next
+300529920	comprehensive in scope or content (as an encyclopedia)
+300530075	having broad power and range and scope
+300530246	providing for many things at once
+300530372	full in all respects
+300530538	existing in both space and time; having both spatial extension and temporal duration
+300530700	occurring or extending throughout a school
+300530834	occurring or extending throughout a state
+300530966	including more than a specified category
+300531080	covering or applying simultaneously to a number of similar items or elements or groups
+300531280	not comprehensive
+300531396	including only a part
+300531471	serenely self-possessed and free from agitation especially in times of stress
+300531862	not agitated; without losing self-possession
+300532252	not easily perturbed or excited or upset; marked by extreme calm and composure
+300532559	in full control of your faculties
+300532977	marked by calm self-control (especially in trying circumstances); unemotional
+300533292	free from emotional agitation or nervous tension
+300533547	having your composure disturbed
+300533833	feeling or caused to feel ill at ease or self-conscious or ashamed
+300534107	having a red face from embarrassment or shame or agitation or emotional upset
+300534367	caused to show discomposure
+300534508	having self-possession upset; thrown into confusion
+300534780	thrown into a state of agitated confusion; (rattled' is an informal term)
+300534973	emotionally upset
+300535112	capable of being comprehended or understood
+300535441	capable of being read with comprehension
+300535672	capable of being apprehended or understood
+300535958	(of meaning) capable of being penetrated or comprehended
+300536071	difficult to understand
+300536470	marked by difficulty of style or expression
+300536744	not clear to the understanding
+300537047	incapable of being fully understood
+300537141	impossible to understand
+300537265	impossible to determine the meaning of
+300537393	not caught with the senses or the mind
+300537516	hard or impossible to understand
+300537672	curving inward
+300538064	of the cup-shaped socket that receives the head of the thigh bone
+300538228	concave on both sides
+300538323	having a concave shape like a boat
+300538415	having a concave shape with an open top like a bowl
+300538524	shaped like a pouch
+300538636	concave on one side and convex on the other with the concavity being greater than the convexity
+300538792	resembling the shape of a cup
+300538875	shaped like (or supporting) a cupule
+300539012	shaped like a dish or pan
+300539118	flat on one side and concave on the other
+300539218	resembling an alcove
+300539293	having a concave shape like a saucer
+300539389	depressed like a navel
+300539468	having a concave shape like an urn
+300539559	curving or bulging outward
+300539864	having a convex shape that resembles a bell
+300539965	convex on both sides; shaped like a lentil
+300540104	(of a ship) so weakened as to sag at each end
+300540237	convex on one side and concave on the other with the convexity being greater than the concavity

@@ -1,0 +1,1000 @@
+around the clock	400153617
+around-the-clock	300597829
+arousal	100243675 100855465 105686586 114047468
+arouse	200018519 200018806 200022679 201633150 201763170 201766135 201898157
+aroused	300086315 300923735 301730235 302021728 302139048 302414473
+arouser	110783653
+arp	110843750
+arpeggio	106882660
+arpent	113635424
+arquebus	102745075
+arrack	107919177
+arraign	200845531 202503641
+arraignment	107250596
+arrange	200038562 200737576 201023638 201466592 201651668 201709988 201748949
+arranged	301576262 301674733 301685687
+arrangement	100941444 105082771 105734541 105803052 107052146 107955013
+arranger	109829330 110402936
+arranging	100941444
+arrant	301524174
+arras	104400491
+array	102745199 102745327 106901224 107955622 200735655 201476839
+arrayed	300456882
+arrears	113418616 114514269
+arrest	100089545 114034398 201133899 201217701 201508590 201863572
+arrest warrant	106559606
+arrested development	114526956
+arrester	102745473
+arrester hook	102745473
+arresting	301286013
+arrhenatherum	112129259
+arrhenatherum elatius	112129388
+arrhenius	110843956
+arrhenius theory of dissociation	106118457
+arrhythmia	114134156
+arrhythmic	302028448 302311256
+arrhythmical	302028448
+arriere pensee	105706585
+arrival	100048966 100049115 109829571
+arrival gate	102745668
+arrival time	115205769
+arrive	202009962 202591952
+arrive at	202024442
+arrivederci	106642117
+arriver	109829571
+arriviste	110760525
+arroba	113637708 113739724
+arrogance	104895107
+arrogant	301895886
+arrogantly	400267447
+arrogate	202279327 202280210 202281591
+arrogation	100086498
+arrogator	109829769
+arrow	102745758 106830979
+arrow arum	111811257
+arrow grass	112638320
+arrow leaved aster	111956263
+arrow wood	112701902 112702137
+arrow-grass family	112637901
+arrow-shaped	302178230
+arrowhead	102746055
+arrowleaf groundsel	112032979
+arrowroot	112371608 112372307 115078914
+arrowroot family	112371804
+arrowsmith	109830038
+arrowworm	101926531
+arroyo	109229784
+arroyo willow	112749783
+arroz con pollo	107878071
+arse	105545848 105566889
+arse about	202645690
+arse around	200855832 202645690
+arsehole	105545848
+arsenal	102744372 102746212 102746431
+arsenate	114634439
+arsenic	114653327 114792380
+arsenic acid	114634525
+arsenic group	114812884
+arsenic trioxide	114792380
+arsenical	114626899 302652222
+arsenide	114634621
+arsenious	302652382
+arsenopyrite	114691507
+arsenous anhydride	114792380
+arsenous oxide	114792380
+arsine	114780379
+arson	100379104
+arsonist	109830112
+art	100935235 102746552 105646832 107011408
+art class	100887135
+art collection	107970085
+art critic	109830272
+art dealer	109830388
+art deco	108482129
+art department	108132753
+art director	109830517
+art editor	109830686
+art exhibition	108424796
+art form	105849678
+art gallery	103416968
+art historian	109830819
+art history	106165713
+art movement	108483654
+art nouveau	108482323
+art object	103844055
+art paper	114793033
+art rock	107079373
+art school	102749983
+art student	109832756
+art tatum	111352683
+art teacher	109832846
+artamidae	101599402
+artamus	101599528
+artaxerxes	110844145 110844314
+artaxerxes i	110844145
+artaxerxes ii	110844314
+artefact	100022119
+artefactual	302998172
+artemia	101997977
+artemia salina	101998340
+artemis	109579826
+artemis pontica	111951463
+artemis spinescens	111951604
+artemisia	111948821
+artemisia abrotanum	111949760
+artemisia absinthium	111949946
+artemisia annua	111950212
+artemisia californica	111950349
+artemisia campestris	111950507
+artemisia cana	112034554
+artemisia dracunculus	111950672
+artemisia filifolia	111950822
+artemisia frigida	111951040
+artemisia gnaphalodes	111951257
+artemisia ludoviciana	111951257
+artemisia maritima	112034824
+artemisia stelleriana	111951781
+artemisia tridentata	112034993
+artemisia vulgaris	111952009
+artemision at ephesus	102747082
+artemus ward	110886158
+arteria	105341325
+arteria alveolaris	105342858
+arteria alveolaris inferior	105343063
+arteria alveolaris superior	105343248
+arteria angularis	105343398
+arteria appendicularis	105344441
+arteria arcuata	105344603
+arteria ascendens	105345403
+arteria auricularis	105345573
+arteria axillaris	105345714
+arteria basilaris	105345958
+arteria brachialis	105346162
+arteria buccalis	105346716
+arteria bulbi penis	105345033
+arteria bulbi vestibuli	105345211
+arteria carotis	105346905
+arteria celiaca	105347865
+arteria centralis retinae	105348147
+arteria cerebelli	105348343
+arteria cerebri	105348754
+arteria choroidea	105349618
+arteria ciliaris	105349762
+arteria circumflexa femoris	105350221
+arteria circumflexa humeri	105350402
+arteria circumflexa ilium	105350585
+arteria circumflexa scapulae	105350766
+arteria colica	105350956
+arteria communicans	105351090
+arteria coronaria	105351266
+arteria cystica	105351898
+arteria digitalis	105352062
+arteria epigastrica	105352245
+arteria ethmoidalis	105352396
+arteria facialis	105352586
+arteria femoralis	105352795
+arteria gastrica	105353129
+arteria gastrica breves	105353739
+arteria gastrica sinistra	105353526
+arteria glutes	105353954
+arteria hepatica	105354133
+arteria ileocolica	105354440
+arteria ileum	105354262
+arteria iliaca	105354694
+arteria iliolumbalis	105355419
+arteria infraorbitalis	105355602
+arteria intercostalis	105356088
+arteria labialis	105356432
+arteria labialis inferior	105356649
+arteria labialis superior	105356821
+arteria lacrimalis	105357207
+arteria laryngea	105357454
+arteria lienalis	105357609
+arteria lingualis	105357804
+arteria lumbalis	105358001
+arteria maxillaris	105358227
+arteria meningea	105358606
+arteria mesenterica	105359294
+arteria metacarpea	105359839
+arteria metatarsea	105359981
+arteria musculophrenica	105360149
+arteria nutricia	105360302
+arteria ophthalmica	105360444
+arteria ovarica	105360618
+arteria palatina	105360789
+arteria pancreatica	105360912
+arteria perinealis	105361055
+arteria poplitea	105352969
+arteria pudenda	105361231
+arteria pulmonalis	105361367
+arteria radialis	105346395
+arteria rectalis	105361786
+arteria renalis	105361929
+arteria subclavia	105362128
+arteria temporalis anterior	105362503
+arteria temporalis intermedia	105362694
+arteria temporalis posterior	105362889
+arteria testicularis	105363075
+arteria ulnaris	105363254
+arteria uterina	105363438
+arteria vaginalis	105363631
+arteria vertebralis	105363839
+arterial	302652507
+arterial blood	105407788
+arterial blood gases	101000710
+arterial blood vessel	105341325
+arterial plaque	105251962
+arterial pressure	111450977
+arterial road	102747328
+arterial sclerosis	114131806
+arterialise	200119903
+arterialize	200119903
+arteriectasia	114047656
+arteriectasis	114047656
+arteriogram	102747428
+arteriography	100907440
+arteriola	105344849
+arteriolar	302959977
+arteriole	105344849
+arteriolosclerosis	114131714
+arteriosclerosis	114131806
+arteriosclerosis obliterans	114133371
+arteriosclerotic	302942300
+arteriovenous	302652909
+arteritis	114282111
+artery	102747537 105341325
+artery of the labyrinth	105356993
+artery of the penis bulb	105345033
+artery of the vestibule bulb	105345211
+artesian	300099786
+artesian well	102747639
+artful	300149002 301313640
+artfully	400247412 400295240 400316988
+artfulness	104883900
+arthralgia	114347981
+arthralgic	302653045
+arthritic	109830973 301177339
+arthritis	114210023
+arthrocentesis	100945677
+arthrodesis	100667843
+arthrogram	102747849
+arthrography	100907540
+arthromere	105232732
+arthromeric	302653148
+arthropathy	114047767
+arthroplasty	100667976
+arthropod	101770302
+arthropod family	101761823
+arthropod genus	101765166
+arthropoda	101769840
+arthropodal	302653285
+arthropodan	302653285
+arthropodous	302653285
+arthropteris	113225380
+arthroscope	102747966
+arthroscopy	100668127
+arthrospore	113113144 113113307
+arthrosporic	302653537
+arthrosporous	302653537
+arthur	110844492 110844784
+arthur ashe	110845322
+arthur compton	110925455
+arthur conan doyle	110926214
+arthur edwin kennelly	111121240
+arthur evans	110983246
+arthur fiedler	110990480
+arthur garfield hays	111056517
+arthur holly compton	110925455
+arthur holmes	111076794
+arthur honegger	111077674
+arthur jacob arshawsky	111316419
+arthur james balfour	110852164
+arthur john gielgud	111018856
+arthur koestler	111128574
+arthur laffer	111134275
+arthur marx	111181035
+arthur meier schlesinger	111304732
+arthur meier schlesinger jr.	111304874
+arthur miller	111199913
+arthur mitchell	111201927
+arthur neville chamberlain	110909441
+arthur rimbaud	111282755
+arthur robert ashe	110845322
+arthur rubinstein	111293469
+arthur schlesinger	111304732 111304874
+arthur schlesinger jr.	111304874
+arthur schopenhauer	111306344
+arthur seymour sullivan	111344207
+arthur stanley jefferson laurel	111139180
+arthur sullivan	111344207
+arthur symons	111347645
+arthur tappan	111351187
+arthur tatum	111352683
+arthur wellesley	111400918
+arthurian	302653733
+arthurian legend	106383357
+artichoke	107734492 111980101
+artichoke heart	107734665
+artichoke plant	111980101
+article	100023083 106278749 106335662 106404578 200886603
+article of clothing	103055525
+article of commerce	102748096
+article of faith	105951737 106281343
+article of furniture	103410635
+articled	301068495
+articles of agreement	106538477
+articles of confederation	106545854
+articles of incorporation	106482359
+articular	302653871
+articular muscle	105301096
+articulary	302653871
+articulate	200980401 200980581 200982485 202359283 202628718 300151470 300154678
+articulated	300154678
+articulated ladder	102748233
+articulated lorry	104474900
+articulately	400269743 400329241
+articulateness	104658552
+articulatio	105602838
+articulatio coxae	105603759
+articulatio cubiti	105587575
+articulatio genus	105581233
+articulatio humeri	105556694
+articulatio plana	105585882
+articulatio radiocarpea	105592578
+articulatio spheroidea	105603286
+articulatio synovialis	105550810
+articulatio talocruralis	105586073
+articulatio temporomandibularis	105284167
+articulatio trochoidea	105604943
+articulation	100148134 105602838 107087248 107146562 113934166
+articulative	302654097
+articulator	105308891 109831117
+articulatory	302654097
+articulatory system	105304138
+artie shaw	111316419
+artifact	100022119
+artifactual	302998172
+artifice	100173419
+artificer	109828217 109994178 110234307
+artificial	300074073 301575756 301685076
+artificial additive	103382691
+artificial blood	114792659
+artificial flower	102748400
+artificial heart	102748497
+artificial horizon	102748616
+artificial insemination	100847013
+artificial intelligence	106142654
+artificial joint	102748821
+artificial kidney	102749013
+artificial lake	104085859
+artificial language	106907583
+artificial pacemaker	103875968
+artificial respiration	100833580
+artificial satellite	104144527
+artificial skin	102749230
+artificiality	104795722
+artificially	400141600
+artillery	102749370 107261592 108406028
+artillery fire	100996535
+artillery plant	112415806
+artillery shell	102749600
+artillery unit	108406028
+artilleryman	109831257
+artiodactyl	102397129 302654324
+artiodactyl mammal	102397129
+artiodactyla	102396720
+artiodactylous	302654324
+artisan	109994178
+artisan's lien	113422434
+artist	109831743
+artist's loft	102749688
+artist's model	109832624
+artist's workroom	102749846
+artiste	109832531
+artistic	300070557 302401653 303002630
+artistic creation	100935235
+artistic movement	108483654
+artistic production	100935235
+artistic style	104936599
+artistically	400249854
+artistry	105646832
+artium baccalaurens	106711403
+artium magister	106713764
+artless	300151129 301312946 301956562 302236646
+artlessly	400275799 400275957
+artlessness	104879871 104888025
+artocarpus	112420766
+artocarpus altilis	112420994
+artocarpus communis	112420994
+artocarpus heterophyllus	112421225
+artocarpus odoratissima	112421429
+artois	108960443
+arts	106163352
+arts and crafts	100936820
+artsd	106718069
+artsy-craftsy	301855772
+artur rubinstein	111293469
+artur schnabel	111305446
+arturo toscanini	111366252
+artwork	107011408
+arty	301855668
+arty-crafty	301855772
+aruba	108766627
+arugula	111907006
+arui	102418750
+arulo	106908287
+arum	111799769 111800487
+arum family	111799003
+arum lily	111814248
+arum maculatum	111800617
+arum palaestinum	111800893
+arundinaceous	302654551
+arundinaria	112168596
+arundinaria gigantea	112168770
+arundinaria tecta	112168956
+arundo	112129706
+arundo conspicua	112129882
+arundo donax	112130015
+arundo richardii	112135900
+aruru	109539123
+arvicola	102344457
+arvicola amphibius	102344626
+aryan	109659011 109659161 303085993
+arytaenoid	105537725
+arytenoid	105537725
+arytenoid cartilage	105537725
+as	109014248 114653327 400022585
+as a group	400158427
+as a matter of fact	400149927
+as far as possible	400120125
+as follows	400153742
+as if by magic	400130565
+as it is	400027470
+as it were	400153834
+as luck would have it	400042664
+as much as possible	400120125
+as needed	400182904
+as required	400182904
+as the crow flies	400154056
+as usual	400107831
+as we say	400153940
+as well	400048072
+as yet	400028314
+asa dulcis	114922092
+asa gray	111032470
+asa yoelson	111109659
+asadha	115245063
+asafetida	114793168
+asafoetida	114793168
+asahikawa	108942950
+asala	108033138
+asama	108946454
+asamiya	106983458
+asana	105089164
+asanga	110845011
+asap	400034524
+asaph hall	111044415
+asarabacca	111823464
+asarh	115245063
+asarum	111822545
+asarum canadense	111822879
+asarum europaeum	111823464
+asarum shuttleworthii	111823269
+asarum virginicum	111823055
+asat	302616203
+asbat al-ansar	108034010
+asbestos	114749770
+asbestos abatement	100362510
+asbestosis	114173845
+ascaphidae	101647183
+ascaphus	101647340
+ascaphus trui	101647541
+ascariasis	114476641
+ascaridae	101933126
+ascaridia	101933636
+ascaridia galli	101933781
+ascaris	101933313
+ascaris lumbricoides	101933493
+ascend	201973223 201973786 201974362 202041317 202107299 202109935 202386713 202757326
+ascendable	302090537
+ascendance	114465291
+ascendancy	114465291
+ascendant	109811996 114465827 300795186 302494316
+ascendence	114465291
+ascendency	114465291
+ascendent	109811996 114465827 300795186 302494316
+ascender	106813390 106843611 109832927
+ascendible	302090537
+ascending	100325210 302493886
+ascending aorta	105343794
+ascending artery	105345403
+ascending colon	105544693
+ascending node	108515307
+ascension	100325210 107326279 107326440 107460080 115217887
+ascension day	115217887
+ascension of christ	107326440
+ascension of the lord	115217887
+ascensional	302654701
+ascensive	302494316
+ascent	100325210 107460080 109229873
+ascertain	200664507 200723226 200920843 200922307
+ascertainable	300742373
+ascertained	301615012
+ascesis	101070936
+ascetic	109777504 300009637 302654828
+ascetical	300009637 302654828
+ascetically	400267688
+asceticism	101070936 104889193 105967949
+asch	110845158
+aschelminthes	101932037
+ascidiaceae	101471173
+ascidian	101471353
+ascidian tadpole	101473536
+ascii	106368162
+ascii character	106833291
+ascii character set	106368485
+ascii control character	106833467
+ascii text file	106523233
+ascites	114133507
+ascitic	302655058
+asclepia meadii	113255755
+asclepiad	113254333
+asclepiadaceae	113253910
+asclepiadaceous	302655253
+asclepias	113254446
+asclepias albicans	113255012
+asclepias curassavica	113255191
+asclepias exaltata	113255417
+asclepias incarnata	113255576
+asclepias meadii	113255755
+asclepias purpurascens	113255909
+asclepias speciosa	113256057
+asclepias subverticillata	113256217
+asclepias tuberosa	113256401
+asclepias verticillata	113256664
+asclepius	109582330
+ascocarp	111553267
+ascocarpous	302655399
+ascolichen	113008183
+ascoma	111553923
+ascomycete	113044772
+ascomycetes	113044543
+ascomycetous	303034591
+ascomycetous fungus	113044772
+ascomycota	113044052
+ascomycotina	113044052
+ascophyllum	101408083
+ascophyllum nodosum	101408257
+ascorbic acid	115117865
+ascospore	113112999
+ascosporic	302655521
+ascosporous	302655521
+ascot	102750068
+ascribable	300173133
+ascribe	200728262
+ascription	105742504 105742854
+ascus	113112837
+asdic	104266881
+asea	400449471
+asean	108504514
+asepsis	113454076 114518814
+aseptic	302123039
+asexual	302143325
+asexual reproduction	113455293
+asexuality	105015269
+asexually	400073946
+asgard	105634550
+ash	112323979 112324438 114793339 200384108
+ash bin	102750182
+ash cake	107704010
+ash can	102750384
+ash gray	104969239
+ash grey	104969239
+ash tree	112323979
+ash wednesday	115220457
+ash-bin	102750182
+ash-blonde	300244802
+ash-gray	300388654
+ash-grey	300388654
+ash-key	112326936
+ash-leaved maple	112775985
+ash-pan	102750677
+ashamed	300155165
+ashamedly	400267823
+ashbin	102750182
+ashcake	107704010
+ashcan	102750182
+ashcan school	102750384 108292418
+ashe	110845322
+ashen	300405645 302586091
+asheville	109150713
+ashir	109539281
+ashkenazi	109630933
+ashkhabad	109044182
+ashlar	102750546
+ashley montagu	111206346
+ashore	400139983
+ashram	108660842 108660961
+ashton	110845527
+ashtoreth	109539458
+ashtray	102750807
+ashur	108939014 109539281
+ashurbanipal	110845637
+ashy	300388654
+asia	108189776 109230176
+asia minor	108719756
+asian	109662736 302980070
+asian american	109663818
+asian black grouse	101798541
+asian coral snake	101749368
+asian country	108718069
+asian crocodile	101700252
+asian horseshoe crab	101790932
+asian influenza	114146152
+asian longhorned beetle	102185748
+asian nation	108718069
+asian russia	109029983
+asian seabass	102563177
+asian shamanism	106254982
+asian tiger mosquito	102203652
+asian wild ox	102412516
+asiatic	109662736 302980070
+asiatic beetle	102176436
+asiatic black bear	102136356
+asiatic buffalo	102411075
+asiatic cholera	114153061
+asiatic cockroach	102236595
+asiatic flu	114146152
+asiatic flying squirrel	102364846
+asiatic shrew mole	101893654
+asiatic sweetleaf	112797534
+aside	106613037 107024191 400182242 400235417 400235622 400235782 400235931 400236681
+asilidae	102198648
+asimina	111715954
+asimina triloba	111716068
+asimov	110845808
+asin	115245421
+asinine	300442050
+asininity	104899139
+asio	101627348
+asio otus	101627474
+ask	200754499 200757790 200786389 200899241 201070587 202492311 202634015
+ask for	200754770 201763987
+ask for it	200351702
+ask for trouble	200351702
+ask in	201472399
+ask jeeves	106591470
+ask out	202492311
+ask over	202389828
+ask round	202389828
+askance	300766264 400273182 400273330
+askant	300766264
+asker	110227450
+askew	302320130 400273600
+asking	107199985
+asking price	113325031
+asklepios	109582330
+asl	106889057
+aslant	301237620 400276140 400276392
+asleep	300096726 300189224 302110613 400276465 400276557
+aslope	301237620
+asmara	108795667
+asmera	108795667
+asocial	302257692 302257975
+asp	101751030 101755377
+asp viper	101755377
+aspadana	108931785
+aspalathus	112528175
+aspalathus cedcarbergensis	112528328
+aspalathus linearis	112528328
+asparagaceae	112461128
+asparaginase	102750920
+asparagine	114627029
+asparagus	107734958 112461688
+asparagus asparagoides	112462057
+asparagus bean	112599786
+asparagus bed	102751093
+asparagus fern	112461895
+asparagus officinales	112461688
+asparagus pea	112566370
+asparagus plumosus	112461895
+asparagus setaceous	112461895
+aspartame	107874817
+aspartic acid	114627165
+aspect	104687095 104740358 105859151 105941982 113826881
+aspect ratio	113842756
+aspectual	303056710
+aspen	112754407
+aspen poplar	112752769
+asper	113709525
+asperger's syndrome	114107773
+aspergill	102751188
+aspergillaceae	113047950
+aspergillales	113047523
+aspergillosis	114095041 114206353 114283851
+aspergillus	113048135
+aspergillus fumigatus	113048317
+asperity	104650456 104717403
+asperse	200848188
+aspersion	101040293 101222825 106731387
+aspersorium	102751188 102751364
+asperula	112682181
+asperula odorata	112686032
+asperula tinctoria	112682422
+asphalt	114691634 114793644 201270430
+asphaltic	303159196
+aspheric	302052428
+aspherical	302052428
+asphodel	112462463
+asphodelaceae	112462275
+asphodeline	112462725
+asphodeline lutea	112463202
+asphodelus	112463370
+asphyxia	114065905
+asphyxiate	200360165 201478810 201572009
+asphyxiated	303056891
+asphyxiating	300269139
+asphyxiation	100226460 114067364
+asphyxiator	103350683
+aspic	107824651
+aspidelaps	101749459
+aspidelaps lubricus	101749593
+aspidiotus	102252325
+aspidiotus perniciosus	102252461
+aspidistra	112463828
+aspidistra elatio	112463828
+aspidophoroides	102650804
+aspidophoroides monopterygius	102650943
+aspinwall	108757502
+aspirant	109820956 300105332
+aspirate	107131466 200003316 200954071 201543481
+aspiration	100838449 104843722 107131577 107499687
+aspiration pneumonia	114284052
+aspirator	102751496
+aspire	200707283
+aspirer	109820956
+aspirin	102751623
+aspirin powder	102752174
+aspiring	300105332
+aspis	101755995
+aspleniaceae	113200870
+asplenium	113201202
+asplenium adiantum-nigrum	113201773
+asplenium billotii	113203835
+asplenium bradleyi	113203560
+asplenium ceterach	113204387
+asplenium montanum	113203236
+asplenium nidus	113201953
+asplenium nigripes	113204899
+asplenium pinnatifidum	113203697
+asplenium platyneuron	113202142
+asplenium rhizophyllum	113202709
+asplenium ruta-muraria	113203360
+asplenium scolopendrium	113203954
+asplenium trichomanes	113202886
+asplenium viride	113203062
+asquint	300766264
+ass	100847651 102391998 105566889 109833037
+ass-kisser	110704310
+assagai	102752675
+assail	200864347 201121587 201122487
+assailability	105050503
+assailable	302533823
+assailant	109840655
+assam	108922286
+assam fever	114204531
+assam rubber	112423345
+assamese	106983458 109693311 302989010
+assassin	109833101 109833489
+assassin bug	102246825
+assassinate	200848838 202488589
+assassinated	300096925
+assassination	100221923 106732723
+assassinator	109833101
+assault	100769315 100774891 100976530 102386877 200864347 201122487 202573434
+assault and battery	100769692
+assault gun	102752297 102752484
+assault rifle	102752484
+assaulter	109840655
+assaultive	301633410
+assay	100793188 105746570 107233822 114608570 200696740 202535833
+assay-mark	106868085
+assayer	109833657
+assegai	102752675
+assemblage	101232427 103538666 107968050 107991473
+assemble	201660471 202433771 202604140
+assembler	106585513
+assemblies of god	108167777
+assembling	101016008
+assembly	100913832 101232427 102752795 102752958 103391266 108180691
+assembly hall	102753075
+assembly language	106912086
+assembly line	104014761
+assembly plant	102753174
+assembly program	106585513
+assemblyman	109833786
+assemblywoman	109833893
+assent	107190226 200805801
+assenter	109833972
+assentient	300075997
+assenting	107191852
+assert	200718950 201013058 201018787 202378876
+assert oneself	202524721
+assertable	301827424
+asserted	300691229
+asserter	109834065
+asserting	300690167
+assertion	106742248 107217786
+assertive	300157368
+assertively	400267920
+assertiveness	105174764
+assertiveness training	100702578
+assess	200683348 200684149 202313369 202313532
+assessable	301820825 302409195
+assessee	109834481
+assessment	100875745 105153302 105741528 113424319
+assessor	110712379
+asset	105161764
+assets	113350663
+asseverate	201018787
+asseveration	106742248
+asseverator	109834065
+asshole	105545848 109834593
+assibilate	200548102 201055899
+assibilation	107143910 113455579
+assiduity	104872733
+assiduous	300757914
+assiduously	400273736
+assiduousness	104872733
+assign	200679602 200728262 200742058 201162686 202233313 202233480 202281591 202396945
+assignable	300094409
+assignation	101085569 101234000
+assigned	300850483
+assignee	109834860
+assigning	100165166
+assignment	100164600 100165166 100731545 100798247 106557519 113275136
+assignor	109835082
+assimilable	301185846
+assimilate	200159450 200160069 200160255 200603650 201542830
+assimilating	300006903
+assimilation	105763711 105765046 113455710 113455861 113456051 113953961
+assimilative	300006903 301993059
+assimilator	110271476
+assimilatory	300006903
+assist	100559045 101210099 202419840 202546367 202553283
+assistance	101210099 105162155 113286803
+assistant	109835195 300796805
+assistant foreman	110681171
+assistant professor	109836059
+assisted	302362263
+assisted suicide	100223806
+assistive	301199819
+assize	106565463 106677098
+assizes	108347770
+associability	104695407
+associable	300158924
+associableness	104695407
+associate	106710466 107299553 109836176 109836579 109965384 200715072 202475598 202595401 300796981
+associate degree	106710466
+associate in applied science	106710794
+associate in arts	106710698
+associate in nursing	106710913
+associate professor	109836791
+associated state	108644891
+associateship	100590140
+association	101083552 105771913 108006819 108066153 113456325 113804981 113953418 114444543
+association area	105494876
+association cortex	105494876
+association football	100479273
+association for the advancement of retired persons	108504159
+association of islamic groups and communities	108045376
+association of orangemen	108053422
+association of southeast asian nations	108504514
+association theory	106147369
+associational	302655693
+associationism	106147369
+associative	300158655
+associative aphasia	114121560
+associatory	300158655
+assoil	200905999
+assonance	107112012
+assonant	301973081 302070683
+assonate	202756517
+assort	200656296 202595401
+assortative mating	100849400
+assorted	301202626 302073069
+assortment	101014654 108415730
+assouan	108918684
+assuage	200063866 201206641 201769244
+assuagement	107508420
+assuan	108918684
+assuasive	300198743
+assume	200050369 200525762 200633898 201473485 201725631 201986409 202279327 202306786 202386868
+assumed	301120599
+assumed name	106345523 106349528
+assuming	300207288
+assumption	100083690 100084080 104845958 105900703 106766514 107372466 115218743
+assumption of mary	115218743
+assumptive	300028121 300207288
+assur	108939014
+assurance	105705328 107242066 107242432 113366301
+assurbanipal	110845637
+assure	200664507 200778313 200885532 200892111 201021652 201770259
+assured	300340055 302101483
+assuredly	400268242
+assuredness	104911339
+assurgent	302494597 302494728
+assuring	300198839
+assyria	108938717
+assyrian	107000319 107001344 109661469
+assyrian akkadian	107000319
+assyrian neo-aramaic	107001344
+assyriology	106154213
+astacidae	101987599
+astacura	101987599
+astacus	101987972
+astaire	110845956
+astana	109042489
+astarte	109539458
+astasia	114573958
+astatic	300345733
+astatic coils	102753325
+astatic galvanometer	102753657
+astatine	114653739
+aster	105453582 111952387
+aster acuminatus	111953396
+aster arenosus	111953568
+aster cordifolius	111953726
+aster divaricatus	111953856
+aster dumosus	111954015
+aster ericoides	111954197
+aster falcatus	111954372
+aster family	111932060
+aster linarifolius	111954510
+aster linosyris	111954708
+aster macrophyllus	111954932
+aster novae-angliae	111955085
+aster novi-belgii	111955276
+aster ptarmicoides	111955496
+aster shortii	111955656
+aster tripolium	111955799
+aster turbinellis	111955938
+asteraceae	111932060
+astereognosis	114079625
+asteriated	302655838
+asterid dicot family	111586681
+asterid dicot genus	111599869
+asteridae	111931304
+asterion	105238727
+asterisk	106841439 200511950
+asterisked	301483799
+asterism	109231384 113904467
+asterismal	302655954
+astern	400276631 400276839 400277302
+asternal	300570435
+asteroid	109231590 302055764
+asteroid belt	108515916
+asteroidal	302992286
+asteroidea	102319864
+asterope	109468684 109573112
+asthenia	114571568
+asthenic	300831634 302332671
+asthenic type	105006276
+asthenopia	114040334
+asthenosphere	109231932
+astheny	114571568
+asthma	114169393
+asthma attack	114169393
+asthmatic	109836941 301177592
+astigmatic	300109509
+astigmatism	113961932 114577182
+astigmia	113961932 114577182
+astilbe	112815745
+astilbe biternata	112815969
+astilbe chinensis pumila	112816112
+astilbe japonica	112816315
+astir	300032471 300188413
+astomatal	302656537
+astomatous	302318451
+astonied	302366366
+astonish	200726794

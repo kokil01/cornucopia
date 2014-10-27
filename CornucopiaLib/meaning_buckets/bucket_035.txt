@@ -1,0 +1,1000 @@
+106289979	(computer science) a system of world-wide electronic communication in which a computer user can compose a message at one terminal that can be regenerated at the recipient's terminal when the recipient logs in
+106290458	a service providing free email delivery in exchange for exposure to advertising
+106290592	a representation of a facial expression (as a smile or frown) created by typing a sequence of characters in sending email
+106290815	an emoticon of a smiling face
+106290897	indisputable evidence (especially of a crime)
+106291000	unwanted e-mail (usually of a commercial nature sent out in bulk)
+106291130	the sending and processing of e-mail by computer
+106291257	(computer science) a symbol that appears on the computer screen to indicate that the computer is ready to receive a command
+106291469	the transmission of light signals via glass fibers
+106291693	quality or fidelity of a received broadcast
+106291828	the detection that a signal is being received
+106291948	(electronics) the transmission of a signal by using it to vary a carrier wave; changing the carrier's amplitude or frequency or phase
+106292247	modulation of the amplitude of the (radio) carrier wave
+106292374	modulation of the frequency of the (radio) carrier wave
+106292501	modulation of the phase of the carrier wave
+106292612	modulation that imposes a signal on a train of pulses
+106292746	modulation of the time between successive pulses
+106292862	(electronics) the reception of a signal by extracting it from the carrier wave
+106293036	the communication of an attitude or emotional state among a number of people
+106293304	a systematic means of communicating by the use of sounds or conventional symbols
+106294112	the customary manner in which a language (or a form of a language) is spoken or written
+106294300	a language that is no longer learned as a native language
+106294417	language that is spoken or written
+106294565	a language that is to be translated into another language
+106294720	the language into which a text written in another language is to be translated
+106294878	one of the natural units into which linguistic messages can be analyzed
+106295226	a position in a grammatical linguistic construction in which a variety of alternative units are interchangeable
+106295430	extended verbal expression in speech or writing
+106295551	discourse that surrounds a language unit and helps to determine its interpretation
+106295743	a string of words satisfying the grammatical rules of a language
+106296088	a sentence having no coordinate clauses or subordinate clauses
+106296212	a sentence composed of at least one main clause and one subordinate clause
+106296442	a complex sentence in which the main clause comes first and the subordinate clause follows
+106296593	a complex sentence in which the main clause comes last and is preceded by the subordinate clause
+106296753	a sentence composed of at least two coordinate independent clauses
+106296883	formal expression containing variables; becomes a sentence when variables are replaced by constants
+106297048	a unit of language that native speakers can identify
+106298291	a word or phrase spelled by rearranging the letters of another word or phrase
+106298530	a word (such as a pronoun) used to avoid repetition; the referent of an anaphor is determined by its antecedent
+106298695	a word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other
+106299021	a word that strongly resembles another word in spelling
+106299130	a word invented (usually unwittingly by subtracting an affix) on the assumption that a familiar word derives from it
+106299307	a new word formed by joining two others and combining their meanings
+106299727	a word acted out in an episode of the game of charades
+106299854	a word is cognate with another if both derive from the same word in an ancestral language
+106300030	a word to which an independent meaning can be assigned
+106300252	a word formed from two or more words by omitting or combining some sounds
+106300473	a word specifying identity or spatial or temporal location from the perspective of a speaker or hearer in the context in which the communication occurs
+106300831	(linguistics) a word that is derived from another word
+106301026	a word that is formed with a suffix (such as -let or -kin) to indicate smallness
+106301181	a word that is considered to be unmentionable
+106301319	a word having two syllables
+106301417	the phonological or orthographic sound or appearance of a word that can be used to describe or identify something
+106301902	any of several short English words (often having 4 letters) generally regarded as obscene or offensive
+106302098	a word that is uninflected and serves a grammatical function but has little identifiable meaning
+106302383	a word printed at the top of the page of a dictionary or other reference book to indicate the first or last item on that page
+106302589	(grammar) the word in a grammatical constituent that plays the same grammatical role as the whole constituent
+106302780	a word placed at the beginning of a line or paragraph (as in a dictionary entry)
+106302934	a content word that can be qualified by a modifier
+106303070	two words are heteronyms if they are spelled the same way but differ in pronunciation
+106303258	a word that names the whole of which a given word is a part
+106303429	two words are homonyms if they are pronounced and spelled the same way but have different meanings
+106303617	a word that is more generic than a given word
+106303754	a word that is more specific than a given word
+106303887	a significant word used in indexing or cataloging
+106304010	a word that is composed of parts from different languages (e.g., monolingual' has a Greek prefix and a Latin root)
+106304241	a word borrowed from another language; e.g. blitz' is a German word borrowed into modern English
+106304436	a word or phrase borrowed from Latin
+106304527	a word that names a part of a larger whole
+106304679	a word that denotes one thing but refers to a related thing
+106304928	an anagram that means the opposite of the original word or phrase
+106305090	a word or utterance of one syllable
+106305222	a newly invented word or phrase
+106305365	a word with a special meaning used for a special occasion
+106305497	word having stress or an acute accent on the last syllable
+106305609	a word or phrase that reads the same backward as forward
+106305722	a word serving as the basis for inflected or derived forms
+106305894	a mathematical expression from which another expression is derived
+106306016	the form of a word that is used to denote more than one
+106310906	the form of a word that is used to denote a singleton
+106311048	a word form that has entered the language through the perpetuation of an error
+106311183	(linguistics) the form of a word after all affixes are removed
+106311435	a simple form inferred as the common basis from which related words in several languages can be derived by linguistic processes
+106311622	the form of a word that heads a lexical entry and is alphabetized in a dictionary
+106311813	the entry in a dictionary of information about a word
+106312002	one of the eight sayings of Jesus at the beginning of the Sermon on the Mount; in Latin each saying begins with beatus' (blessed)
+106312292	a saying of Jesus that is regarded as authentic although it is not recorded in the Gospels
+106312435	an expression introduced into one language by translating it from another language
+106312662	word having stress or acute accent on the next to last syllable
+106312782	word (such a some' or less') that is used to indicate a part as distinct from a whole
+106312943	a word having more than one meaning
+106313073	a word of more than three syllables
+106313259	word having stress or acute accent on the antepenult
+106313371	(grammar) a word that expresses a quantity (as fifteen' or many')
+106313532	(logic) a word (such as some' or all' or no') that binds the variables in a logical proposition
+106313745	a logical quantifier of a proposition that asserts the existence of at least one thing for which the proposition is true
+106313957	a logical quantifier of a proposition that asserts that the proposition is true for all members of a class of things
+106314140	a word formed by or containing a repeated syllable or speech sound (usually at the beginning of the word)
+106314305	a word introduced because an existing term has become inadequate
+106314530	any word or group of words functioning as a noun
+106314672	two words that can be interchanged in a context are said to be synonymous relative to that context
+106314878	a word or expression used for some particular thing
+106315049	a system of words used to name things in a particular discipline
+106315328	a word having three syllables
+106315415	a word that denotes a manner of doing something
+106315566	a word that is spoken aloud
+106315661	a unit of spoken language larger than a phoneme
+106316019	the last syllable in a word
+106316099	the next to last syllable in a word
+106316213	the 3rd syllable of a word counting back from the end
+106316375	a word that is hard to pronounce
+106316464	a very long word (a foot and a half long)
+106316600	the syllable added in a reduplicated word form
+106316706	antonyms that are commonly associated (e.g., wet' and dry')
+106316828	antonyms whose opposition is mediated (e.g., the antonymy of wet' and parched' is mediated by the similarity of parched' to dry')
+106317024	a minimal unit (as a word or stem) in the lexicon of a language; go' and went' and gone' and going' are all members of the English lexeme go'
+106317223	minimal meaningful language unit; it cannot be divided into smaller meaningful units
+106317470	minimal language unit that has a syntactic (or morphological) function
+106317596	a variant phonological representation of a morpheme
+106317832	a morpheme that can occur alone
+106317935	a morpheme that occurs only as part of a larger construction; eg an -s at the end of plural nouns
+106318142	a bound form used only in compounds
+106319039	a linguistic element added to a word to produce an inflected or derived form
+106319294	an affix that is added in front of the word
+106319426	a word or morpheme used in some languages in certain contexts (such as counting) to indicate the semantic class to which the counted item belongs
+106319664	the negative prefix a- or un-
+106319755	the end of a word (a suffix or inflectional ending or final morpheme)
+106319977	an affix that is added at the end of the word
+106320121	an inflection that is added at the end of a root word
+106320262	an affix that is inserted inside the word
+106320373	(grammar) a category of words having the same grammatical properties
+106320674	the class of all items that can be substituted into the same position (or slot) in a grammatical sentence (are in paradigmatic relation with one another)
+106320921	(grammar) one of the two main constituents of a sentence; the grammatical constituent about which something is predicated
+106321115	(logic) the first term of a proposition
+106321227	(grammar) a constituent that is acted upon
+106321439	the object governed by a preposition
+106321568	the object that receives the direct action of the verb
+106321703	the object that is the recipient or beneficiary of the action of the verb
+106321838	an object in a passive construction
+106321935	nouns or pronouns or adjectives (often marked by inflection) related in some way to other words in a sentence
+106322150	the category of nouns serving as the grammatical subject of a verb
+106322324	any grammatical case other than the nominative
+106322547	the case of nouns serving as the direct object of a verb
+106322713	the category of nouns serving as the indirect object of a verb
+106322842	the case expressing ownership
+106322991	a word in the genitive case that is used as an attributive adjective
+106323227	the case (in some inflected languages) used when the referent of the noun is being addressed
+106323408	the case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb
+106323602	a constituent in Latin grammar; a noun and its modifier can function as a sentence modifier
+106323757	a construction that can be used to extend the meaning of a word or phrase but is not one of the main constituents of a sentence
+106323956	(grammar) a word or phrase or clause forming part of a larger grammatical construction
+106324290	a constituent of a sentence at the first step in an analysis: e.g., subject and predicate
+106324447	a syntactic string of words that forms a part of some larger syntactic unit
+106324641	a group of words that form a constituent of a sentence and are considered as a single unit
+106325026	an ungrammatical constituent
+106325134	(grammar) an expression including a subject and predicate functioning as a part of a complex sentence
+106325416	a clause in a complex sentence that can stand alone as a complete sentence
+106325588	a clause in a complex sentence that is grammatically equivalent to the main clause and that performs the same grammatical function
+106325801	a clause in a complex sentence that cannot stand alone as a complete sentence and that functions within the sentence as a noun or adjective or adverb
+106326089	a clause introduced by a relative pronoun
+106326294	a subordinate clause that limits or restricts the meaning of the noun phrase it modifies
+106326447	a subordinate clause that does not limit or restrict the meaning of the noun phrase it modifies
+106326631	a word or phrase used to complete a grammatical construction
+106326748	a long and intricate and complicated grammatical construction
+106326866	an expression in parentheses
+106327041	an expression consisting of one or more words forming a grammatical constituent of a sentence
+106327369	an expression that predicates
+106327473	a phrase that can function as the subject or object of a verb
+106327619	one of the two main constituents of a sentence; the predicate contains the verb and its complements
+106327806	(logic) what is predicated of the subject of a proposition; the second term in a proposition is predicated of the first term by means of the copula
+106328100	an infinitive with an adverb between to' and the verb (e.g., to boldly go')
+106328240	a phrase beginning with a preposition
+106328344	a phrase that functions as a pronoun
+106328457	one of the traditional categories of words intended to reflect their functions in a grammatical context
+106328665	any of the major parts of speech of traditional grammar
+106328855	the word class that can serve as the subject or object of a verb, the object of a preposition, or in apposition
+106329055	the word class that serves as the predicate of a sentence
+106329345	a noun formed from a verb (such as the -ing' form of an English verb when used as a noun)
+106329506	a verb that combines with another verb in a verb phrase to help form tense, mood, voice, or condition of the verb it combines with
+106329715	an auxiliary verb (such as can' or will') that is used to express modality
+106329897	the uninflected form of the verb
+106330022	the word class that qualifies nouns
+106330150	the word class that qualifies verbs or clauses
+106330286	a content word that can be used to refer to a person, place, thing, quality, or action
+106330568	a noun that is singular in form but refers to a group of people or things
+106330703	a noun that does not form plurals
+106330792	a noun that forms plurals
+106330874	a noun that does not specify either masculine or feminine gender
+106330997	a noun that denotes a particular thing; usually capitalized
+106331146	a noun that denotes any or all members of a class
+106331307	a noun that is derived from a verb
+106331433	an adjective used as a noun
+106331562	a content word that denotes an action, occurrence, or state of existence
+106331794	a content word that qualifies the meaning of a noun or verb
+106332047	a modifier that has little meaning except to intensify the meaning it modifies
+106332695	a word that expresses an attribute of something
+106332925	an adjective that ascribes to its noun the value of an attribute of that noun (e.g., a nervous person' or a musical speaking voice')
+106333150	an adjective that classifies its noun (e.g., a nervous disease' or a musical instrument')
+106333350	meaning relating to or pertaining to
+106333461	the primary form of an adjective or adverb; denotes a quality without qualification, comparison, or relation to increase or diminution
+106333686	the comparative form of an adjective or adverb
+106334277	the superlative form of an adjective or adverb
+106334605	a word that modifies something other than a noun
+106334815	a word or phrase apparently modifying an unintended word because of its placement in a sentence: e.g., when young' in when young, circuses appeal to all of us'
+106335079	a participle (usually at the beginning of a sentence) apparently modifying a word other than the word intended: e.g., flying across the country' in flying across the country the Rockies came into view'
+106335348	a word or group of words function as an adverb
+106335468	one of a limited class of noun modifiers that determine the referents of noun phrases
+106335662	(grammar) a determiner that may indicate the specificity of reference of a noun phrase
+106335857	a determiner (as the' in English) that indicates specificity of reference
+106335994	a determiner (as a' or some' in English) that indicates nonspecific reference
+106336138	a function word that combines with a noun or pronoun or noun phrase to form a prepositional phrase that can have an adverbial or adjectival relation to some other word
+106336363	a function word that is used in place of a noun or noun phrase
+106336569	a pronoun that refers to an antecedent
+106336671	a pronoun that points out an intended referent
+106336819	an uninflected function word that serves to conjoin words or phrases or clauses or sentences
+106337047	a conjunction (like and' or or') that connects two identically constructed grammatical constituents
+106337219	a conjunction (like since' or that' or who') that introduces a dependent clause
+106337399	a function word that can be used in English to form phrasal verbs
+106337519	the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural)
+106337790	a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party
+106338129	a pronoun expressing a distinction of person
+106338254	a pronoun or pronominal phrase (as each other') that expresses a mutual action or relationship between the individuals indicated in the plural subject
+106338544	a pronoun (as that' or which' or who') that introduces a relative clause referring to some antecedent
+106338711	pronouns and verbs used to refer to the speaker or writer of the language in which they occur
+106338863	pronouns and verbs used to refer to the person addressed by the language in which they occur
+106339015	pronouns and verbs that are used to refer to something other than the speaker or addressee of the language in which they occur
+106339200	a personal pronoun compounded with -self to show the agent's action affects the agent
+106339379	a verb whose agent performs an action that is directed at the agent
+106339636	a grammatical category in inflected languages governing the agreement between nouns and pronouns and adjectives; in some languages it is quite arbitrary but in Indo-European languages it is usually based on sex or animateness
+106339989	a gender that refers chiefly (but not exclusively) to females or to objects classified as female
+106340158	a gender that refers chiefly (but not exclusively) to males or to objects classified as male
+106340306	a gender that refers chiefly (but not exclusively) to inanimate objects (neither masculine nor feminine)
+106340499	a grammatical category of verbs used to express distinctions of time
+106340727	a verb tense that expresses actions or states at the time of speaking
+106340902	the use of the present tense to describe past actions or states
+106341030	a verb tense in some languages (classical Greek and Sanskrit) expressing action (especially past action) without indicating its completion or continuation
+106341255	a verb tense that expresses actions or states in the past
+106341394	a verb tense that expresses actions or states in the future
+106341521	a non-finite form of the verb; in English it is used adjectivally and to form compound tenses
+106341757	an English verb followed by one or more particles where the combination behaves as a syntactic and semantic unit
+106342007	a participle expressing present action; in English is formed by adding -ing
+106342147	a participle that expresses completed action
+106342274	a verb (or verb construction) that requires an object in order to be grammatical
+106342470	a transitive verb that takes both a direct and an indirect object
+106342634	a verb (or verb construction) that does not take an object
+106342796	(linguistics) the underlying relation that a constituent has with the main verb in a clause
+106343129	the semantic role of an entity that is not the agent but is directly involved in or affected by the happening denoted by the verb in the clause
+106343357	the semantic role of the animate entity that instigates or causes the happening denoted by the verb in the clause
+106343538	the semantic role of the intended recipient who benefits from the happening denoted by the verb in the clause
+106343724	the semantic role of the entity (usually inanimate) that the agent uses to perform an action or start a process
+106343912	the semantic role of the noun phrase that designates the place of the state or action denoted by the verb
+106344088	the semantic role of the animate entity that is passively involved in the happening denoted by the verb in the clause
+106344278	the semantic role of the noun phrase whose referent exists only by virtue of the activity denoted by the verb in the clause
+106344471	the semantic role of the noun phrase that designates the time of the state or action denoted by the verb
+106344646	a language unit by which a person or thing is known
+106345388	an additional name or an epithet appended to a name (as in Ferdinand the Great')
+106345523	(law) a name under which a corporation conducts business that is not the legal name of the corporation as shown in its articles of incorporation
+106345789	the name derived from a person (real or imaginary)
+106345996	the person for whom something is named
+106346173	a string of characters beginning with a period and followed by one or more letters; the optional second part of a PC computer filename
+106346543	(computer science) the name given to a computer file in order to distinguish it from other files; may contain an extension that indicates the type of file
+106346843	(law) a name or sign used on certain products which corresponds to a specific geographical location or origin
+106347064	a geographical indication used to identify where the grapes for a wine are grown
+106347202	a family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in English or O'- in Irish) added to the name of your father or a paternal ancestor)
+106347519	a name derived from the name of your mother or a maternal ancestor
+106347655	the name of a street
+106347733	the name of a brokerage firm in which stock is held on behalf of a customer
+106347907	slang for something (especially for an illegal drug)
+106348093	an alternative name that a person chooses or is given (especially in inner city neighborhoods)
+106348274	the name used to identify the members of a family (as distinguished from each member's given name)
+106348481	a woman's surname before marriage
+106348572	a name between your first name and your surname
+106348677	the name that precedes the surname
+106348828	the first name given to Christians at birth or christening
+106348964	the first name of a citizen of ancient Rome
+106349063	a familiar name for a person (often a shortened version of a person's given name)
+106349373	a descriptive name for a place or thing
+106349528	a name that has been assumed temporarily
+106349648	a fictitious name used when the person performs a particular social role
+106349855	an incorrect or unsuitable name
+106349941	the pseudonym of an actor
+106350023	an author's pseudonym
+106350114	the name that appears on the by-line to identify the author of a work
+106350278	identifying word or words by which someone or something is called and classified or distinguished from others
+106350614	a name of endearment (especially one using a diminutive suffix)
+106350786	an identifying appellation signifying status or function: e.g. Mr.' or General'
+106351417	title for a civil or military leader (especially in Turkey)
+106351552	a title that Leo X bestowed on Henry VIII and later withdrew; parliament restored the title and it has been used by English sovereigns ever since
+106351765	a Spanish courtesy title or form of address for men that is prefixed to the forename
+106351933	a Spanish courtesy title or form of address for a woman
+106352077	a German courtesy title or form of address for an adult woman
+106352208	a German courtesy title or form of address for an unmarried woman
+106352347	a Hebrew title of respect for a wise and highly educated man
+106352497	a German courtesy title or form of address for a man
+106352619	a form of address for an unmarried woman
+106352710	a form of address for a man
+106352801	a form of address for a married woman
+106352895	a form of address for a woman
+106352979	a Hebrew title of respect for a Jewish scholar or teacher
+106353143	a title of respect for a clergyman
+106353232	a Spanish title or form of address for a man; similar to the English Mr' or sir'
+106353385	a Spanish title or form of address for a married woman; similar to the English Mrs' or madam'
+106353552	a Spanish title or form of address used to or of an unmarried girl or woman; similar to the English Miss'
+106353732	an Italian title or form of address for a married woman
+106353860	an Italian title or form of address for an unmarried woman
+106353993	a title of respect for various ecclesiastical officials (as cathedral deans and canons and others)
+106354151	a title used to address any British peer except a duke and extended to a bishop or a judge
+106354347	a title used to address any peeress except a duchess
+106354487	an appellation signifying nobility
+106354734	the title of a baron
+106354810	the title of a viscount
+106354890	the name of a work of art or literary composition etc.
+106355208	the name by which a geographical place is known
+106355341	a line of text serving to indicate what the passage below it is about
+106355699	a heading of a subsection printed within the body of the text
+106355831	the heading or caption of a newspaper article
+106356061	the heading that indicates the subject of an annotation or a literary composition or a dictionary entry
+106356216	the title of a newspaper or magazine; usually printed on the front page and on the editorial page
+106356368	a title or heading that is printed in red or in a special type
+106356501	a heading printed at the top of every page (or every other page) of a book
+106356690	a heading of a subdivision of a text
+106356811	the title (or a shortened title) of a book used as a running head
+106356936	a headline with the top line flush left and succeeding lines indented to the right
+106357143	a sensational newspaper headline
+106357248	a newspaper headline that runs across the full page
+106357363	a heading that names a statute or legislative bill; may give a brief summary of the matters it deals with
+106357590	(usually plural) written material introduced into a movie or TV show to give credits or represent dialogue or explain an action
+106357831	a general or descriptive heading for a section of a written work
+106358051	an entry on a list of persons who contributed to a film or written work
+106358261	brief description accompanying an illustration
+106358407	secondary or explanatory title
+106358492	an incorrect translation
+106358595	a literal translation used in studying a foreign language (often used illicitly)
+106358758	translation back into the original language
+106358958	translation of foreign dialogue of a movie or TV program; usually displayed at the bottom of the screen
+106359181	translation of the words of a foreign opera (or choral work) projected on a screen above the stage
+106359366	a single line of words in a poem
+106359585	(prosody) a line of verse that has the full number of syllables
+106359743	(prosody) a line of verse that has six iambic feet
+106359870	(prosody) a line of verse that lacks a syllable in the last metrical foot
+106360055	(prosody) a line of poetry having an extra syllable or syllables at the end of the last metrical foot
+106360255	a line giving the name of the writer of a story or article
+106360400	a line at the beginning of a news article giving the date and place of origin of the news dispatch
+106360590	communication by means of written symbols (either printed or handwritten)
+106360967	something written, especially copied from one medium to another, as a typewritten version of dictation
+106361198	a transcription from one alphabet to another
+106361322	a transcription intended to represent each distinct speech sound with a separate symbol
+106361497	a method of writing rapidly using an abbreviated symbolic system
+106361681	rapid handwriting in which letters are set down in full and are cursively connected within words without lifting the writing implement from the paper
+106361999	a small cursive script developed from uncial between the 7th and 9th centuries and used in medieval manuscripts
+106362184	a graceful style of handwriting based on the writing used on copperplate engravings
+106362325	a style of handwriting with the letters slanting to the right
+106362493	a clearly written style of longhand with large round curves
+106362609	a method of representing the sounds of a language by written or printed symbols
+106363020	a particular orthography or writing system
+106363295	an alphabetical (or perhaps syllabic) script used since the 9th century BC to write the Aramaic language; many other scripts were subsequently derived from it
+106363524	a writing system having an alphabet of 38 letters in which the Armenian language is written
+106363708	the script in which the ancient Persian language of the Avesta is written
+106363853	the ideographic and syllabic writing system in which the ancient Babylonian language was written
+106364025	a script (probably adapted from the Aramaic about the 7th century BC) from which later Indian scripts developed
+106364189	a syllabic script used in writing Sanskrit and Hindi
+106364361	the script (derived from the Aramaic alphabet) used to write the Pahlavi language
+106364496	the script (derived from Aramaic) used to write the Uighur language
+106364632	a style of orthography characterized by somewhat rounded capital letters; found especially in Greek and Latin manuscripts of the 4th to 8th centuries
+106364852	forming words with letters according to the principles underlying accepted usage
+106365060	a spelling that is incorrect
+106365164	a system of signals used to represent letters or numbers in transmitting messages
+106365341	a coding system used for transmitting messages requiring brevity or secrecy
+106365611	a code (a series of characters or digits) that must be entered in some way (typed or dialed or spoken) to get the use of something (a telephone line or a computer or a local area network etc.)
+106365888	an undocumented way to get access to a computer system or the data it contains
+106366033	a number usually of 3 digits assigned to a telephone area as in the United States and Canada
+106366181	code consisting of a series of vertical bars of variable width that are scanned by a laser; printed on consumer product packages to identify the item for a computer that provides the price and registers inventory information
+106366485	system using colors to designate classifications
+106366590	a piece of writing in code or cipher
+106366714	a secret method of writing
+106366866	a telegraph code in which letters and numbers are represented by strings of dots and dashes (short and long signals)
+106367112	a code of letters and digits added to a postal address to aid in the sorting of mail
+106367301	(computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions
+106367706	(computer science) a reference or value that is passed to a function, procedure, subroutine, command, or program
+106367922	(computer science) the code that identifies where a piece of information is stored
+106368162	(computer science) a code for information exchange between computers made by different companies; a string of 7 binary digits represents each character; used in most microcomputers
+106368485	(computer science) 128 characters that make up the ASCII coding scheme
+106368711	code using a string of 8 binary digits to represent characters
+106368831	(telecommunication) a coding system that incorporates extra parity bits in order to detect errors
+106369039	an error correction code that is recorded in each sector of a magnetic disk and used to catch errors in the data
+106369221	(computer science) coded instructions that are stored permanently in read-only memory
+106369392	a set of instructions coded so that the computer can use it directly without further translation
+106369566	the machine-language output of a compiler that is ready for execution on a particular computer
+106369718	the portion of a set of operation descriptions that specifies the operation to be performed; the set of operations in a computer
+106369920	program instructions written as an ASCII text file; must be translated by a compiler or interpreter or assembler into the object code for a particular computer before execution
+106370154	the address of a web page on the world wide web
+106370307	a document connected to the World Wide Web and viewable by anyone connected to the internet who has a web browser
+106370503	the opening page of a web site
+106370600	a computer connected to the internet that maintains a series of web pages on the World Wide Web
+106370874	a site on the internet where a number of users can communicate in real time (typically one dedicated to a particular topic)
+106371064	a site that the owner positions as an entrance to other sites on the internet
+106371284	letters or symbols that are written or imprinted on a surface to represent the sounds or words of a language
+106371721	the written form of a word
+106372006	a word that is written with two letters in an alphabetic writing system
+106372130	a word that is written with three letters in an alphabetic writing system
+106372257	a word that is written with four letters in an alphabetic writing system
+106372403	four Hebrew letters usually transliterated as YHWH (Yahweh) or JHVH (Jehovah) signifying the Hebrew name for God which the Jews regarded as too holy to pronounce
+106372625	a writing system using pictographs
+106372721	a writing system based on alphabetic characters
+106372853	an ancient writing system: having alternate lines written in opposite directions; literally as the ox ploughs'
+106373042	an ancient wedge-shaped script used in Mesopotamia and Persia
+106373177	a writing system whose characters represent syllables
+106373341	an undeciphered writing system used in Crete in the 17th century B.C.
+106373466	a syllabic script used in Greece in the 13th century B.C.
+106373579	the use of ideograms in writing
+106373667	a cursive form of Egyptian hieroglyphics; used especially by the priests
+106373848	a writing system using picture symbols; used in ancient Egypt
+106374035	a system of writing or printing using patterns of raised dots that can be read by touch
+106374199	a point system of writing in which patterns of raised dots represent letters and numerals
+106374360	the work of a writer; anything expressed in letters of the alphabet (especially when considered from the point of view of style and effect)
+106375185	(usually plural) the collected work of an author
+106375411	the writings of the early Church Fathers
+106375556	something that has been written again
+106375736	imaginative or creative writing
+106376048	creative writing of recognized artistic value
+106376547	published writings in a particular style on a particular subject
+106376802	a body of historical literature
+106376912	written works (especially in books or magazines)
+106377253	written instructions from a physician or dentist to a druggist concerning the form and dosage of a drug to be issued to a given patient
+106377447	written instructions for an optician on the lenses for a given person
+106377575	verse in which certain letters such as the first in each line form a word or message
+106377714	creative writing valued for esthetic content
+106377836	a literary composition in the form of a conversation between two people
+106378026	an expressive style that uses fictional characters and events to describe some subject by suggestive resemblances; an extended metaphor
+106378324	an elegant style of prose of the Elizabethan period; characterized by balance and antithesis and alliteration and extended similes with and allusions to nature and mythology
+106378552	a literary work based on the imagination and not necessarily on fact
+106378818	a literary work based partly or wholly on fact but written as if it were fiction
+106379016	prose writing that is not fictional
+106379147	a work of fiction describing an imaginary place where life is extremely bad because of deprivation or oppression or terror
+106379324	an extended fictional work in prose; usually in the form of a story
+106379605	graphic novel that originated in Japan, usually intended for adults and characterized by highly stylized art
+106379765	novel in which the reader is challenged to solve a puzzle before the detective explains it at the end
+106379944	a melodramatic paperback novel
+106380048	fiction with a large amount of imagination in it
+106380251	literary fantasy involving the imagined impact of science on society
+106380437	a genre of fast-paced science fiction involving oppressive futuristic computerized societies
+106380585	a short novel
+106380700	a novel in which actual persons and events are disguised as fictional characters
+106380839	a novel dealing with idealized events remote from everyday life
+106381028	a romance that deals with desolate and mysterious and grotesque events
+106381177	a romantic novel containing scenes in which the heroine is sexually violated
+106381313	a French novel in the form of a long chronicle of a family or other social group
+106381452	a piece of fiction that narrates a chain of related events
+106381801	a work of fiction describing a utopia
+106381891	a story of an adventure
+106382026	a suspenseful adventure story or play or movie
+106382145	a narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families that settled Iceland and their descendants but now any prose narrative that resembles such an account
+106382415	a story about a crime (usually murder) presented as a novel or play or movie
+106382608	a narrative about someone who investigates crimes and obtains evidence leading to their resolution
+106382768	a narrative about a murder and how the murderer is discovered
+106382890	a story dealing with love
+106383036	a story about mythical or supernatural beings or events
+106383357	the legend of King Arthur and his court at Camelot
+106383622	a prose narrative shorter than a novel
+106383718	a short moral story (often with animal characters)
+106384051	a collection of fables believed to have been written by the Greek storyteller Aesop
+106384195	an allegory written by John Bunyan in 1678
+106384303	a traditional story accepted as history; serves to explain the world view of a people
+106384548	myth about the ultimate destruction of the gods in a battle with evil
+106384713	(New Testament) any of the stories told by Jesus to convey his religious message
+106384937	the story that is told in a novel or play or movie etc.
+106385136	the series of events that form a plot
+106385268	the plot of a book or play or film
+106385370	the decisive moment in a novel or play
+106385614	a change from a serious subject to a disappointing one
+106385771	an excessively sentimental narrative
+106385864	a literary genre that presents a fictional character's sequence of thoughts in the form of a monologue
+106386031	a literary genre that reveals a character's thoughts and feeling as they develop by means of a long soliloquy
+106386210	a written evaluation of a work of literature
+106386457	a method of literary criticism that analyzes details of a text in order to reveal its structure and meaning
+106386631	comparison of a particular text with related materials in order to establish authenticity
+106386838	literary criticism based on close analysis of the text
+106386952	the scientific study of biblical writings to determine their origin and meaning
+106387094	the study of existing manuscripts of the Scriptures in order to determine the original text
+106387247	a vast body of textual criticism of the Hebrew Scriptures including notes on features of writing and on the occurrence of certain words and on variant sources and instructions for pronunciation and other comments that were written between AD 600 and 900 by Jewish scribes in the margins or at the end of texts
+106387637	a form of literary criticism in which the structure of a piece of writing is analyzed
+106387777	the literary genre of works intended for the theater
+106388195	ordinary writing as distinguished from verse
+106388399	prose that resembles poetry
+106388483	a rhythmical prose employing the poetic devices of alliteration and assonance
+106388623	literature narrating the lives (and legends) of the saints
+106388756	a solemn literary work that is the product of laborious cogitation
+106388898	a literary work idealizing the rural life (especially the life of shepherds)
+106389065	a composition written in metrical feet forming rhythmical lines
+106389594	a poem having lines beginning with letters of the alphabet in regular order
+106389727	verse in the meter used in Greek and Latin poetry consisting of strophes of 4 tetrametric lines; reputedly invented by Alcaeus
+106389921	a narrative poem of popular origin
+106390050	a poem consisting of 3 stanzas and an envoy
+106390147	unrhymed verse (usually in iambic pentameter)
+106390250	a witty satiric verse containing two rhymed couplets and mentioning a famous person
+106390540	a stanza consisting of two successive lines of verse; usually rhymed
+106390717	(ancient Greece) a passionate hymn (usually in honor of Dionysus)
+106390876	a comic verse of irregular measure
+106391062	a short poem descriptive of rural or pastoral life
+106391191	a mournful poem; a lament for the dead
+106391344	a long narrative poem telling of a hero's deeds
+106391678	an epic in Latin by Virgil; tells the adventures of Aeneas after the Trojan War; provides an illustrious historical background for the Roman Empire
+106391879	a narrative epic poem written by Dante
+106391996	unrhymed verse without a consistent metrical pattern
+106392118	an epigrammatic Japanese verse form of three short lines
+106392226	a humorous verse form of 5 anapestic lines with a rhyme scheme aabba
+106392349	a short poem of songlike quality
+106392502	a French verse form of 10 or 13 lines running on two rhymes; the opening phrase is repeated as the refrain of the second and third stanzas
+106392757	English form of rondeau having three triplets with a refrain after the first and third
+106392897	a shorter form of rondeau
+106392995	a verse form consisting of 14 lines with a fixed rhyme scheme
+106393217	a form of Japanese poetry; the 1st and 3rd lines have five syllables and the 2nd, 4th, and 5th have seven syllables
+106393384	a verse form with a rhyme scheme: aba bcb cdc, etc.
+106393492	a piece of poetry
+106393695	a Greek epic poem (attributed to Homer) describing the siege of Troy
+106393816	a Greek epic poem (attributed to Homer) describing the journey of Odysseus after the fall of Troy
+106393968	an epic poem written in Middle High German and based on the legends of Siegfried and Teutonic kings
+106394129	Old French epic poems
+106394213	(in ancient Greece) an epic poem adapted for recitation
+106394359	a sonnet consisting of an octave with the rhyme pattern abbaabba, followed by a sestet with the rhyme pattern cdecde or cdcdcd
+106394566	a rhythmic group of eight lines of verse
+106394659	a rhythmic group of six lines of verse
+106394750	a sonnet consisting three quatrains and a concluding couplet in iambic pentameter with the rhyme pattern abab cdcd efef gg
+106394977	a sonnet consisting of three quatrains and a concluding couplet in iambic pentameter with the rhyme pattern abab bcbd cdcd ee
+106395166	a body of poetry that conveys the traditions of a society by treating some epic theme
+106395302	a lyric poem with complex stanza forms
+106395462	an ode honoring a bride and bridegroom
+106395577	an ode with several stanzas
+106395677	an ode form used by Pindar; has triple groups of triple units
+106395808	ode sung by the chorus in classical Greek drama
+106395912	a major division of a long poem
+106396014	a brief stanza concluding certain forms of poetry
+106396123	a stanza of four lines
+106396236	a quatrain in iambic pentameter with abab rhyme scheme
+106396351	a line of metrical text
+106396638	a verse line consisting of iambs
+106396723	a verse line with a dactyl followed by a spondee or trochee; supposedly used in laments by Adonis
+106396887	a short verse said or sung by a priest or minister in public worship and followed by a response from the congregation
+106397077	(Roman Catholic Church) a Latin versicle meaning lift up your hearts'
+106397225	a phrase recited or sung by the congregation following a versicle by the priest or minister
+106397371	a rhymed couplet that forms a complete syntactic unit
+106397485	a couplet consisting of two rhymed lines of iambic pentameter and written in an elevated style
+106397640	a quatrain consisting of two heroic couplets written in an elevated style; the rhyme scheme is abab
+106397799	a verse form suited to the treatment of heroic or elevated themes; dactylic hexameter or iambic pentameter
+106397988	a satirical imitation of heroic verse
+106398083	a stanza with eight lines of iambic pentameter and a concluding Alexandrine with the rhyme pattern abab bcbc c
+106398336	one section of a lyric poem or choral ode in classical Greek drama
+106398475	the section of a choral ode answering a previous strophe in classical Greek drama; the second of two metrically corresponding sections in a poem
+106398696	a literary composition of poor quality that was written quickly to make money (to boil the pot)
+106398847	writing of poor quality; characterized by affected choice of archaic words
+106398975	matter that has been dictated and transcribed; a dictated passage
+106399181	a short line of text that a web site puts on your computer's hard drive when you access the web site
+106399370	a cookie that is stored temporarily and is destroyed when you close the link
+106399507	a cookie that is saved permanently on your hard drive
+106399623	the words of something written
+106400222	the main body of a written work (as distinct from illustrations or footnotes etc.)
+106400420	electronic text that is stored and used in the form of a digital image
+106400561	electronic text that is stored as strings of characters and that can be displayed in a variety of formats
+106400752	typewritten matter especially a typewritten copy of a manuscript
+106400873	a surface area where something has been erased
+106401041	the blank space that surrounds the text on a page
+106401196	a blank area
+106401396	the space left between the margin and the start of an indented line
+106401590	the order of words in a text
+106401694	(computer science) dump of the contents of the chief registers in the CPU; usually used for debugging
+106401870	(computer science) a copy of the contents of a computer storage device; sometimes used in debugging programs
+106402066	a clean copy of a corrected draft
+106402155	matter to be printed; exclusive of graphical materials
+106402331	written matter preceding the main text of a book
+106402448	written matter following the main text of a book
+106402605	any of the various versions in the development of a written work
+106402814	text that is in a form that computer can store or display on a computer screen
+106402990	(computer science) matter that is in a form that a computer can store or display it on a computer screen
+106403209	(computer science) matter that is held in a computer and is typed or printed on paper
+106403409	a part of a published serial
+106403545	an installment of a printed work
+106403644	a self-contained part of a larger composition (written or musical)
+106404303	an earlier section of a written text
+106404430	the section of a newspaper that reports on sports
+106404578	a separate section of a legal document (as a statute or contract or will)
+106404896	a clause in a contract providing for arbitration of disputes arising under the contract
+106405067	a clause in an insurance policy that relieves the insurer of responsibility to pay the initial loss up to a stated amount
+106405263	a clause in an insurance policy that provides for double the face value of the policy in the case of accidental death
+106405443	a clause in a contract that provides for an increase or a decrease in wages or prices or benefits etc. depending on certain conditions (as a change in the cost of living index)
+106405694	an inconspicuous clause in a document or bill that affects its meaning in a way that is not immediately apparent
+106405925	a clause that used to be part of the contract with a professional athlete extending the contract for a year beyond its expiration
+106406207	a clause that is appended to a legislative bill
+106406344	the central message of a communication
+106406508	a major division of a long written composition
+106407785	a subdivision of a written work; usually numbered and titled
+106407973	a brief section of a literary or dramatic work that forms part of a connected series
+106408111	a section of an entertainment that is assigned to a specific performer or performance
+106408287	a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising
+106408455	a folded section placed between the leaves of another publication
+106408573	the first section of a communication
+106408814	(rhetoric) the introductory section of an oration or discourse
+106408950	(rhetoric) the second section of an oration in which the facts are set forth
+106409119	the initial part of the introduction
+106409288	an attention-getting opening presented at the start of a television show
+106409432	word of greeting used to begin a letter
+106409546	a short introductory essay preceding the text of a book
+106409733	a preliminary introduction to a statute or constitution (usually explaining its purpose)
+106409913	a preliminary discussion inserted at the beginning of a book or treatise
+106410044	the last section of a communication
+106410403	a short passage added at the end of a literary work
+106410606	a short speech (often in verse) addressed directly to the audience by an actor at the end of a play
+106410769	(rhetoric) the concluding section of an oration
+106410980	supplementary material that is collected and appended at the back of a book
+106411146	a part added to a book or play that continues and extends it
+106411274	textual matter that is added onto a publication; usually at the end
+106411513	a brief addendum at the end of a newspaper article
+106411638	one of several distinct subdivisions of a text intended to separate ideas; the beginning is usually marked by a new indented line
+106411914	a section of text; particularly a section of medium length
+106412153	a passage selected from a larger work
+106412492	a selection of passages from different authors that is compiled as an aid in learning a language
+106412647	an authoritative and often-quoted passage
+106412750	the passage that is being read
+106412865	a passage full of ornate and flowery language
+106412971	a passage that connects a topic to one that follows
+106413169	a transition (in literary or theatrical works or films) to an earlier event or scene that interrupts the normal chronological development of the story
+106413430	a transition (in literary or theatrical works or films) to a later event or scene that interrupts the normal chronological development of the story
+106413674	a daily written record of (usually personal) experiences and observations
+106413845	a shared on-line journal where people can post diary entries about their personal experiences and hobbies
+106414068	writing in capital letters
+106414208	writing done with a typewriter
+106414413	typing that leaves alternate lines blank
+106414514	typing that does not leave lines blank
+106414613	typing that leaves two lines blank between lines of typing
+106414750	typewriting in which the fingers are trained to hit particular keys; typist can read and type at the same time
+106414934	text handwritten in the style of printed matter
+106415036	something written by hand
+106415322	writing that resembles hieroglyphics (usually by being illegible)
+106415495	writing formed in the sky by smoke released from an airplane
+106415612	beautiful handwriting
+106415790	poor handwriting
+106415965	cramped or illegible handwriting
+106416059	an illegible scrawl
+106416225	your name written in your own handwriting
+106416449	a signature written by one person for another
+106416550	a person's own signature
+106416663	a second confirming signature endorsing a document already signed
+106416841	a signature that validates something
+106417066	an endorsement on commercial paper naming no payee and so payable to the bearer
+106417232	the signature of a sovereign on an official document
+106417342	letters inscribed (especially words engraved or carved) on something
+106417534	a part of an inscribed granite stela that was originally about six feet tall and was set up in 196 BC; the inscriptions in hieroglyphics and Demotic and Greek gave the first clues to the decipherment of Egyptian hieroglyphics
+106417820	an inscription written above something else
+106417960	a short message (as in a book or musical work or on a photograph) dedicating it to someone or something
+106418190	an engraved inscription
+106418268	an inscription on a tombstone or monument in memory of the person buried there
+106418400	a summary statement of commemoration for a dead person
+106418508	a collection of writings published in honor of a scholar
+106418622	the form of a literary work submitted for publication
+106418737	something written by one's own hand
+106418864	handwritten book or document
+106419015	an unbound manuscript of some ancient classic (as distinguished from a scroll)
+106419157	a manuscript (usually written on papyrus or parchment) on which more than one text has been written with the earlier writing incompletely erased and still visible
+106419376	a document that can be rolled up (as for storage)
+106419558	(Old Testament) a collection of written scrolls (containing nearly all of the Old Testament) found in a cave near the Dead Sea in the late 1940s
+106419882	(Judaism) the scroll of parchment that contains the biblical story of Esther; traditionally read in synagogues to celebrate Purim
+106420085	(Judaism) the scroll of parchment on which the first five books of the Hebrew Scripture is written; is used in a synagogue during services
+106420294	a formal exposition
+106420422	a written work (as a novel) that has been recast in a new form
+106420633	a modernized version (as of a play)
+106420728	a treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degree
+106420933	a brief treatise on a subject of interest; published in the form of a booklet
+106421091	a detailed and documented treatise on a particular subject
+106421205	an analytic or interpretive literary composition
+106421395	an essay (especially one written as an assignment)
+106421580	a composition intended to indicate a student's progress during a school term
+106421713	an elaborate analytical or explanatory essay or discussion
+106421830	an essay on a scientific or scholarly topic
+106421926	an essay expressing a view on the subject of death
+106422034	an essay or article that gives a critical evaluation (as of a book or play)
+106422298	a critical review of a book (usually a recently published book)
+106422419	a short critical review
+106422547	a written work or composition that has been published (printed on pages bound together)
+106423235	an authoritative written work
+106423396	books on strange or unusual subjects (especially erotica)
+106423526	(pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation
+106423856	an authoritative statement
+106423993	a book intended for general readership
+106424140	a book that has had a large and rapid sale
+106424253	a medieval book (usually illustrated) with allegorical and amusing descriptions of real and fabled animals
+106424414	an elementary book summarizing the principles of a Christian religion; written as questions and answers
+106424663	a book of recipes and cooking directions
+106424773	a book of directions for using or operating some piece of equipment
+106424903	a book (usually for children) that contains one or more pages such that a three-dimensional structure rises up when a page is opened
+106425102	a book containing a collection of stories (usually for children)
+106425222	a (usually) large and scholarly book
+106425309	a publication that is one of a set of several similar publications
+106425532	a small book usually having a paper cover
+106425794	a blue booklet used in universities for writing examinations
+106425910	a book of tickets that can be torn out and used
+106426015	a book prepared for use in schools or colleges
+106426370	a textbook designed for cramming
+106426492	a basic or elementary instructional text
+106426591	an introductory textbook
+106426704	one of a series of texts for students learning to read
+106426829	readers that combined lessons in reading with moralistic messages
+106426966	an introductory textbook to teach spelling
+106427062	a book with blank pages for recording notes or memoranda
+106427227	a notebook in which you enter memorabilia
+106427331	a small notebook for rough notes
+106427434	a student's book or booklet containing problems with spaces for solving them
+106427565	a book containing models of good penmanship; used in teaching penmanship
+106427692	a book containing a calendar and space to keep a record of appointments
+106427849	a book or pamphlet containing an enumeration of things
+106428095	a book containing common expressions in a foreign language along with their translations
+106428241	a book containing the scripts of one or more dramatic plays
+106428409	a notebook containing descriptions and diagrams of the plays that a team has practiced (especially an American football team)
+106428589	a book containing prayers
+106428739	(Roman Catholic Church) a book of prayers to be recited daily certain priests and members of religious orders
+106428922	(Roman Catholic Church) a book containing all the prayers and responses needed to celebrate Mass throughout the year
+106429110	a collection of Psalms for liturgical use
+106429241	a book to which you can refer for authoritative facts
+106429649	a copy of a newly published book that is sent for review to a writer or periodical
+106429789	a book containing a collection of songs
+106429901	a songbook containing a collection of hymns
+106430018	a cylinder with prayers written on it; each revolution counts as uttering the prayers; used especially by Buddhists in Tibet
+106430201	a collection of historically important documents published together as a book
+106430336	a reference book containing words (usually with their meanings)
+106430544	a reference book containing an alphabetical list of words with information about them
+106430877	a dictionary giving equivalent words in two languages
+106430997	an abridged dictionary of a size convenient to hold in the hand
+106431146	a dictionary giving the historical origins of each word
+106431271	a geographical dictionary (as at the back of an atlas)
+106431400	a dictionary specially written for those learning a foreign language
+106431555	a dictionary that is small enough to carry in your pocket
+106431696	an electronic dictionary in a word processor that can be used to catch misspelled words
+106431862	a dictionary that has not been shortened by the omitting terms or definitions; a comprehensive dictionary
+106432067	an unabridged dictionary constructed on historical principles
+106432216	a list of proper nouns naming persons or places
+106432321	a listing of the words used in some enterprise
+106432424	an alphabetical list of technical terms in some specialized field of knowledge; usually published as an appendix to a text on that field
+106432659	a book containing a classified list of synonyms
+106432797	a thesaurus organized to help you find the word you want but cannot think of
+106432944	a concise reference book providing specific information about a subject or location
+106433181	a primer that provides instruction in the rudiments or basic skills of a branch of knowledge
+106433328	a small handbook
+106433487	a manual describing the customs of a particular group (especially the ceremonial practices of a monastic order)
+106433675	a manual of black magic (for invoking spirits and demons)
+106433787	a manual usually accompanying a technical device and explaining how to install or operate it
+106434007	a manual containing information organized in a summary manner
+106434131	a manual containing instruction in sexual techniques; intended to enhance the reader's sexual life
+106434286	a book regarded as authoritative in its field
+106434383	something that offers basic information or instruction
+106434555	a guidebook describing natural objects of some type that might be encountered in the field
+106434733	a guidebook describing the roads of a country; contains maps and (sometimes) a gazetteer
+106434876	any of a series of travel guidebooks published by the German firm founded by Karl Baedeker
+106435021	a guidebook for travelers
+106435139	a handbook of tables used to facilitate computation
+106435262	an alphabetical list of names and addresses
+106435397	a directory containing an alphabetical list of telephone subscribers and their telephone numbers
+106435637	identification of the gun that fired a bullet from an analysis of the unique marks that every gun makes on the bullet it fires and on the shell ejected from it
+106435918	the automatic identification of living individuals by using their physiological and behavioral characteristics
+106436512	a generic term for any device whose possession entitles the holder to a means of access
+106436708	a numeral or string of numerals that is used for identification and may be attached to accounts, memberships, etc.
+106437074	a card on which are printed the person's name and business affiliation
+106437204	an identification number consisting of a two-part code assigned to banks and savings associations; the first part shows the location and the second identifies the bank itself
+106437478	the number on the license plate that identifies the car that bears it
+106437630	the number of a particular individual's Social Security account
+106437781	the number is used in calling a particular telephone
+106437949	an annual publication containing tabular information in a particular field or fields arranged according to the calendar of a given year
+106438138	a reference book that is published regularly once every year
+106438325	an annual publication including weather forecasts and other miscellaneous information arranged according to the calendar of a given year
+106438535	an annual publication containing astronomical tables that give the positions of the celestial bodies throughout the year
+106438756	a collection of maps in book form
+106438910	an atlas showing the distribution of distinctive linguistic features
+106439057	a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty
+106439380	an elementary encyclopedia dealing with general knowledge
+106439501	putting something (as a literary work or a legislative bill) into acceptable form
+106439775	putting something into a form suitable for a printer
+106439886	the omission that is made when an editorial change shortens a written passage
+106440207	something substituted for an error
+106440316	a correction made by erasing
+106440462	editing that involves writing something again
+106440646	the act of rewriting something
+106440815	changing a particular word or phrase
+106440986	rewording for the purpose of clarification
+106441153	rewording something in less technical terminology
+106441260	writing that is venerated for the worship of a deity
+106441979	a long piece of writing
+106442055	any writing that is regarded as sacred by a religious group
+106442207	a collection of books accepted as holy scripture especially the books of the Bible recognized by any Christian church as genuine and inspired
+106442454	the principal sacred text of Sikhism contains hymns and poetry as well as the teachings of the first five gurus
+106442666	a collection of Zoroastrian texts gathered during the 4th or 6th centuries
+106442826	(Hinduism) the sacred song of God' composed about 200 BC and incorporated into the Mahabharata (a Sanskrit epic); contains a discussion between Krishna and the Indian hero Arjuna on human nature and the purpose of life
+106443166	(Hinduism) a sacred epic Sanskrit poem of India dealing in many episodes with the struggle between two rival families
+106443410	the sacred writings of the Christian religions
+106444046	the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall of Man; Cain and Abel; Noah and the flood; God's covenant with Abraham; Abraham and Isaac; Jacob and Esau; Joseph and his brothers
+106444385	the second book of the Old Testament: tells of the departure of the Israelites out of slavery in Egypt led by Moses; God gave them the Ten Commandments and the rest of Mosaic law on Mount Sinai during the Exodus
+106444705	the third book of the Old Testament; contains Levitical law and ritual precedents
+106444919	the fourth book of the Old Testament; contains a record of the number of Israelites who followed Moses out of Egypt
+106445145	the fifth book of the Old Testament; contains a second statement of Mosaic law
+106445342	religious texts from Deuteronomy inscribed on parchment and rolled up in a case that is attached to the doorframe of many Jewish households in accordance with Jewish law
+106445593	a book in the Old Testament describing how Joshua led the Israelites into Canaan (the Promised Land) after the death of Moses
+106445835	a book of the Old Testament that tells the history of Israel under the leaders known as judges
+106446038	a book of the Old Testament that tells the story of Ruth who was not an Israelite but who married an Israelite and who stayed with her mother-in-law Naomi after her husband died
+106446320	the first of two books in the Old Testament that tell of Saul and David
+106446496	the second of two books of the Old Testament that tell of Saul and David
+106446674	the first of two Old Testament books telling the histories of the kings of Judah and Israel
+106446868	the second of two Old Testament books telling the histories of the kings of Judah and Israel
+106447064	(Old Testament) an obsolete name for the Old Testament books of I Chronicles and II Chronicles which were regarded as supplementary to Kings
+106447321	the first of two Old Testament books telling the history of Judah and Israel until the return from the Babylonian Captivity in 536 BC
+106447586	the second of two Old Testament books telling the history of Judah and Israel until the return from the Babylonian Captivity in 536 BC
+106447853	an Old Testament book telling of a rabbi's efforts in the 5th century BC to reconstitute Jewish law and worship in Jerusalem after the Babylonian Captivity
+106448113	an Old Testament book telling how a Jewish official at the court of Artaxerxes I in 444 BC became a leader in rebuilding Jerusalem after the Babylonian Captivity
+106448387	an Old Testament book telling of a beautiful Jewess who became queen of Persia and saved her people from massacre
+106448609	a book in the Old Testament containing Job's pleas to God about his afflictions and God's reply
+106448807	an Old Testament book consisting of a collection of 150 Psalms
+106448978	an Old Testament book consisting of proverbs from various Israeli sages (including Solomon)
+106449201	an Old Testament book consisting of reflections on the vanity of human life; is traditionally attributed to Solomon but probably was written about 250 BC
+106449494	an Old Testament book consisting of a collection of love poems traditionally attributed to Solomon but actually written much later
+106449796	an Old Testament book consisting of Isaiah's prophecies
+106449960	a book in the Old Testament containing the oracles of the prophet Jeremiah
+106450147	an Old Testament book lamenting the desolation of Judah after the destruction of Jerusalem in 586 BC; traditionally attributed to the prophet Jeremiah
+106450418	an Old Testament book containing Ezekiel's prophecies of the downfall of Jerusalem and Judah and their subsequent restoration
+106450665	an Old Testament book that tells of the apocalyptic visions and the experiences of Daniel in the court of Nebuchadnezzar
+106450923	an Old Testament book telling Hosea's prophecies
+106451078	an Old Testament book telling Joel's prophecies
+106451230	an Old Testament book telling Amos's prophecies
+106451382	an Old Testament book telling Obadiah's prophecies; the shortest book in the Christian Bible
+106451594	a book in the Old Testament that tells the story of Jonah and the whale
+106451772	an Old Testament book telling the prophecies of Micah foretelling the destruction of Jerusalem
+106451983	an Old Testament book telling Nahum's prophecy of the fall of Nineveh
+106452159	an Old Testament book telling Habakkuk's prophecies
+106452333	an Old Testament book telling the prophecies of Zephaniah which are concerned mainly with the approaching judgment by God upon the sinners of Judah
+106452607	an Old Testament book telling the prophecies of Haggai which are concerned mainly with rebuilding the temples after the Babylonian Captivity
+106452865	an Old Testament book telling the prophecies of Zechariah which are concerned mainly with the renewal of Israel after the Babylonian Captivity
+106453134	an Old Testament book containing the prophecies of Malachi
+106453277	one of the Gospels in the New Testament; includes the Sermon on the Mount
+106453473	the shortest of the four Gospels in the New Testament
+106453643	one of the four Gospels in the New Testament; contains details of Jesus's birth and early life
+106453909	the last of the four Gospels in the New Testament
+106454075	a New Testament book describing the development of the early church from Christ's Ascension to Paul's sojourn at Rome
+106454286	a book of the New Testament written in the form of a letter from an Apostle
+106454833	a New Testament book containing an exposition of the doctrines of Saint Paul; written in AD 58
+106455068	a New Testament book containing the first epistle from Saint Paul to the church at Corinth
+106455328	a New Testament book containing the second epistle from Saint Paul to the church at Corinth
+106455592	a New Testament book containing the epistle from Saint Paul to the Galatians
+106455818	a New Testament book containing the epistle from Saint Paul to the Ephesians which explains the divine plan for the world and the consummation of this in Christ
+106456128	a New Testament book containing an epistle from Saint Paul to the church at Philippi in Macedonia
+106456381	a New Testament book containing an epistle from Saint Paul to the Colossians in ancient Phrygia
+106456629	a New Testament book containing Saint Paul's first epistle to the Thessalonians
+106456884	a New Testament book containing Saint Paul's second epistle to the Thessalonians
+106457143	a New Testament book containing Saint Paul's first epistle to Timothy; contains advice on pastoral matters
+106457399	a New Testament book containing Saint Paul's second epistle to Timothy; contains advice on pastoral matters
+106457659	a New Testament book containing Saint Paul's epistle to Titus; contains advice on pastoral matters
+106457887	a New Testament book containing an epistle from Saint Paul to Philemon asking Philemon to forgive the slave for escaping
+106458146	a New Testament book traditionally included among the epistle of Saint Paul but now generally considered not to have been written by him
+106458381	a New Testament book attributed to Saint James the Apostle
+106458530	the first New Testament book traditionally attributed to Saint Peter the Apostle
+106458709	the second New Testament book traditionally attributed to Saint Peter the Apostle
+106458891	the first New Testament epistle traditionally attributed to Saint John the Apostle
+106459070	the second New Testament epistle traditionally attributed to Saint John the Apostle
+106459252	the third New Testament epistle traditionally attributed to Saint John the Apostle
+106459433	a New Testament book attributed to Saint Jude
+106459567	the last book of the New Testament; contains visionary descriptions of heaven and of conflicts between good and evil and of the end of the world; attributed to Saint John the Apostle
+106459953	a large Bible with pages to record marriages and births
+106460067	the oldest Greek version of the Old Testament; said to have been translated from the Hebrew by Jewish scholars at the request of Ptolemy II
+106460264	the Latin edition of the Bible translated from Hebrew and Greek mainly by St. Jerome at the end of the 4th century; as revised in 1592 it was adopted as the official text for the Roman Catholic Church
+106460538	an English translation of the Vulgate by Roman Catholic scholars
+106460765	an English translation of the Bible published in 1611
+106460924	a British revision of the Authorized Version
+106461031	a modern English version of the Bible and Apocrypha
+106461147	a revised version of the King James Version
+106461290	a revision of the American Standard Version
+106461405	the collection of books comprising the sacred scripture of the Hebrews and recording their history as the chosen people; the first half of the Christian Bible
+106463561	the first of three divisions of the Hebrew Scriptures comprising the first five books of the Hebrew Bible considered as a unit
+106463893	the whole body of the Jewish sacred writings and tradition including the oral tradition
+106464033	the Jewish scriptures which consist of three divisions--the Torah and the Prophets and the Writings
+106464271	the second of three divisions of the Hebrew Scriptures
+106464789	a short selection from the Prophets read on every Sabbath in a Jewish synagogue following a reading from the Torah
+106464994	the third of three divisions of the Hebrew Scriptures
+106465393	either of the two main parts of the Christian Bible
+106465519	the collection of books of the Gospels, Acts of the Apostles, the Pauline and other epistles, and Revelation; composed soon after Christ's death; the second half of the Christian Bible
+106466808	the four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings
+106467167	the first three Gospels which describe events in Christ's life from a similar point of view
+106467352	the message of the Gospel of Christ
+106467445	a sacred text revealed to Joseph Smith in 1830 by an ancient prophet Mormon; supposedly a record of ancient peoples of America translated by Joseph Smith
+106467660	a fixed text used in praying
+106467946	a liturgical prayer beginning with these Latin words
+106468054	a prayer said 3 times a day by Roman Catholics in memory of the Annunciation
+106468185	a salutation to the Virgin Mary now used in prayers to her
+106468312	the prayer of Simeon (Luke 2:29-32)
+106468429	(Anglican Church) a daily evening service with prayers prescribed in the Book of Common Prayer
+106468615	the opening prayer on the eve of Yom Kippur
+106468715	a book setting forth the forms of church service
+106468841	the Anglican service book of the Church of England; has had several revisions since the Reformation and is widely admired for the dignity and beauty of its language
+106469112	a prayer consisting of a series of invocations by the priest with responses from the congregation
+106469282	the prayer that Christ gave his disciples in the Sermon on the Mount (Matthew 6:9-13)
+106469466	(Roman Catholic Church) the Lord's Prayer in Latin; translates as our father'
+106469622	14 books of the Old Testament included in the Vulgate (except for II Esdras) but omitted in Jewish and Protestant versions of the Bible; eastern Christian churches (except the Coptic Church) accept all these books as canonical; the Russian Orthodox Church accepts these texts as divinely inspired but does not grant them the same status
+106470355	an Apocryphal book consisting of text added to the Book of Esther
+106470506	an Apocryphal book consisting of text added to the Book of Daniel
+106470686	an Apocryphal book consisting of text added to the Book of Daniel
+106470843	an Apocryphal book consisting of text added to the Book of Daniel
+106470993	an Apocryphal book ascribed to Baruch
+106471120	an Apocryphal book consisting of a letter ascribed to Jeremiah to the Jews in exile in Babylon warning them against idolatry
+106471351	an Apocryphal book that was a popular novel for several centuries
+106471504	an Apocryphal book telling how Judith saved her people
+106471648	an Apocryphal book consisting of a compilation from I Chronicles and II Chronicles and Ezra and Nehemiah
+106471837	an Apocryphal book of angelic revelations
+106471965	an Apocryphal book mainly of maxims (resembling Proverbs in that respect)
+106472194	an Apocryphal book consisting mainly of a meditation on wisdom; although ascribed to Solomon it was probably written in the first century BC
+106472446	an Apocryphal book describing the life of Judas Maccabaeus
+106472596	an Apocryphal book describing the life of Judas Maccabaeus
+106472747	any of the biblical books (Proverbs, Ecclesiastes, Song of Songs, Wisdom of Solomon, Ecclesiasticus) that are considered to contain wisdom
+106473076	52 texts written between 200 BC and AD 200 but ascribed to various prophets and kings in the Hebrew scriptures; many are apocalyptic in nature
+106473279	the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina
+106473500	one of the sections (or chapters) in the Koran
+106473672	the first or opening sura of the Quran which is the central prayer of Islam and is used on all special occasions as well as during the five daily prayers
+106473889	(Judaism) ancient rabbinical writings
+106474066	the collection of ancient rabbinic writings on Jewish law and tradition (the Mishna and the Gemara) that constitute the basis of religious authority in Orthodox Judaism
+106474326	the second part of the Talmud consisting primarily of commentary on the Mishna
+106474477	the first part of the Talmud; a collection of early oral interpretations of the scriptures that was compiled about AD 200
+106474681	Talmudic literature that does not deal with law but is still part of Jewish tradition
+106474840	Talmudic literature that deals with law and with the interpretation of the laws on the Hebrew Scriptures
+106475017	Hindu literature written in Sanskrit
+106475229	one of two classical Hindu epics; a great collection of poetry worked into and around a central heroic narrative (eight times as large as the Iliad and Odyssey combined)
+106475456	a body of 18 works written between the first and 11th centuries and incorporating legends and speculative histories of the universe and myths and customary observances
+106475694	one of two classical Hindu epics telling of the banishment of Rama from his kingdom and the abduction of his wife by a demon and Rama's restoration to the throne
+106475911	any of a fairly recent class of Hindu or Buddhist religious literature concerned with ritual acts of body and speech and mind
+106476089	(from the Sanskrit word for knowledge') any of the most ancient sacred writings of Hinduism written in early Sanskrit; traditionally believed to comprise the Samhitas, the Brahmanas, the Aranyakas, and the Upanishads
+106476508	one of four collections of sacred texts
+106476678	a Veda consisting of a collection of Hindu poems dating from before 2000 BC
+106476809	a collection of mantras and tunes for use with the Rig-Veda
+106476925	a collection of mantras and formulas
+106477021	a collection of sacrificial formulas and prayers
+106477127	prose works attached to the Samhitas instructing the brahmins to perform the very elaborate sacrificial rituals
+106477294	a treatise resembling a Brahmana but to be read or expounded by anchorites in the quiet of the forest
+106477451	Vedic texts from the fifth and fourth centuries BC dealing with phonetics and ritual injunctions and linguistics and grammar and etymology and lexicography and prosody and astronomy and astrology
+106477701	(Sanskrit) an ancient medical treatise summarizing the Hindu art of healing and prolonging life; sometimes regarded as a 5th Veda
+106477924	a later sacred text of Hinduism of a mystical nature dealing with metaphysical questions
+106478150	(Sanskrit) literally a sacred utterance' in Vedism; one of a collection of orally transmitted poetic hymns
+106478348	any sacred song used to praise the deity
+106478458	one of the 150 lyrical poems and prayers that comprise the Book of Psalms in the Old Testament; said to have been written by David
+106478678	a brief statement that presents the main points in a concise form
+106479116	the act of preparing a summary (or an instance thereof); stating briefly and succinctly
+106479351	a summary of the subject or plot of a literary work or play or movie
+106479539	a summary that enumerates the main parts of a topic
+106479667	a concise but comprehensive summary of a larger work
+106479794	a shortened version of a written work
+106479999	an overall summary
+106480074	a summary of your academic and work history
+106480194	a summary of the scoring in a game (usually in tabular form)
+106480311	a condensed written summary or abstract
+106480420	a short synopsis
+106480489	a brief abstract (as of an article or book)
+106480622	a sketchy summary of the main points of an argument or theory
+106480894	a general summary of a subject
+106481048	a summary at the end that repeats the substance of a longer discussion
+106481268	a summary list; as in e.g.
+106481365	short descriptive summary (of events)
+106481545	a concluding summary (as in presenting a case before a law court)
+106481744	writing that provides information (especially information of an official nature)
+106482359	a legal document that creates a corporation; it is filed with a state by the founders of a corporation and is governed by the laws of the state
+106482593	a document listing the alternatives that is used in voting
+106482740	a document entitling a commissioned officer to hold a higher rank temporarily (but without higher pay)
+106482913	a document containing the terms of surrender
+106483016	a document attesting to the truth of certain stated facts
+106483408	a document incorporating an institution and specifying its rights; includes the articles of incorporation and the certificate of incorporation
+106483696	a document of or relating to commerce
+106483913	a written document acknowledging an offense and signed by the guilty party
+106484080	the document that spells out the belief system of a given church (especially the Reformation churches of the 16th century)
+106484278	the document drawn up in 1555 to defend the catholicity of Lutheran doctrine and to justify innovations in Lutheran practice; is still in effect today
+106484495	an equating verb (such as be' or become') that links the subject with the complement of a sentence
+106484712	a verb form that serves to express frequent repetition of an action
+106484839	a document granting exclusive right to publish and sell literary or musical or artistic work
+106485052	something (usually a supporting document) that is enclosed in an envelope with a covering letter
+106485234	a printed document with spaces in which to write
+106485508	a form to use when making an application
+106485611	a form to use when filing a claim
+106485701	a form to use when placing an order
+106485793	a form containing a set of questions; submitted to people to gain statistical information
+106485960	a questionnaire that is supposed to yield a description of a person's personality traits
+106486274	a personality inventory in which a person is asked which of a list of traits and characteristics describe her or him or to indicate which behaviors and hypothetical choices he or she would make
+106486643	a self-report personality inventory originally derived from the MMPI; consists of several hundred yes-no questions and yields scores on a number of scales including dominance and self acceptance and self control and socialization and achievement etc.
+106486978	a self-report personality inventory based on Hans Eysenck's factor analysis of personality which assumes three basic factors (the two most important being extraversion to introversion and neuroticism)
+106487260	a self-report personality inventory consisting of 550 items that describe feelings or actions which the person is asked to agree with or disagree with; many scales estimating traits and qualities of personality have been developed using MMPI items
+106487604	a self-report personality inventory developed by Raymond B. Cattell to measure the 16 personality dimensions that emerged from his factor analysis of a wide range of traits
+106487871	an official form on which a request in made
+106488055	a form to use when paying your taxes
+106488146	a form to use when sending a telegram
+106488244	(election) a ballot that is cast while absent (usually mailed in prior to election day)
+106488412	state approval of the articles of incorporation of a corporation
+106488570	a charter authorizing the operation of a bank
+106488674	the royal charter of political rights given to rebellious English barons by King John in 1215
+106488880	a charter granted by the sovereign (especially in Great Britain)
+106489042	a card certifying the identity of the bearer
+106489316	a card that you carry on your person and that authorizes the use of your organs for transplantation after your death
+106489489	a plastic card that has a magnetically coded strip that is scanned in order to operate a mechanism
+106489641	a card certifying membership in an organization
+106489768	a card certifying membership in a labor union
+106489870	a card certifying the bearer's right to use the library
+106490002	a card certifying the bearer's right to purchase rationed goods
+106490123	a copy of the official document giving details of a person's birth
+106490253	a document certifying the successful completion of a course of study
+106490405	a diploma given for vocational training that prepares the student for a career in a particular area; good students may progress to a course leading to a degree

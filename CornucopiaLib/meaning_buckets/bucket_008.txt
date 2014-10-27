@@ -1,0 +1,1000 @@
+101375585	bacteria responsible for the sexually transmitted disease chlamydia
+101375731	bacteria responsible for the sexually transmitted diseases chlamydia and lymphogranuloma venereum
+101375913	coextensive with the family Mycoplasmataceae
+101376081	pleomorphic Gram-negative nonmotile microorganism similar to both viruses and bacteria; parasitic in mammals
+101376316	type and sole genus of the family Mycoplasmataceae
+101376467	any of a group of small parasitic bacteria that lack cell walls and can survive without oxygen; can cause pneumonia and urinary tract infection
+101376704	a mycoplasma resistant to antibiotics that causes a kind of pneumonia in humans
+101376865	the motile aerobic rod-shaped Gram-negative bacterium that thrives in central heating and air conditioning systems and can cause Legionnaires' disease
+101377098	any of the bacteria in the soil that take part in the nitrogen cycle; they oxidize ammonium compounds into nitrites or oxidize nitrites into nitrates
+101377344	any of the nitrobacteria that oxidize nitrites into nitrates
+101377487	any of the nitrobacteria that oxidize ammonia into nitrites
+101377630	filamentous or rod-shaped bacteria
+101377845	any bacteria (some of which are pathogenic for humans and animals) belonging to the order Actinomycetales
+101378101	filamentous anaerobic bacteria
+101378258	type genus of the family Actinomycetaceae
+101378401	soil-inhabiting saprophytes and disease-producing plant and animal parasites
+101378554	higher bacteria typically aerobic soil saprophytes
+101378733	type genus of the family Streptomycetaceae
+101378878	aerobic bacteria (some of which produce the antibiotic streptomycin)
+101379078	source of the antibiotic erythromycin
+101379184	source of the antibiotic streptomycin
+101379288	cause of a potato disease characterized by brownish corky tissue
+101379442	a family of bacteria
+101379589	nonmotile Gram-positive aerobic bacteria
+101379733	rod-shaped bacteria some saprophytic or causing diseases
+101379919	cause of tuberculosis
+101380033	bacteria that are unaffected by penicillin
+101380151	bacteria that produce pus
+101380243	any rod-shaped bacterium
+101380335	any of various rod-shaped Gram-negative bacteria
+101380445	cause of leprosy
+101380547	an order of higher bacteria
+101380778	bacteria living mostly in soils and on dung
+101380987	type genus of the family Polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane
+101381186	bacteria that form colonies in self-produced slime; inhabit moist soils or decaying plant matter or animal waste
+101381441	spherical or elliptical usually aerobic eubacteria that produce yellow or orange or red pigment; includes toxin-producing forms as well as harmless commensals and saprophytes
+101381757	type genus of the family Micrococcaceae
+101381893	includes many pathogenic species
+101382030	spherical Gram-positive parasitic bacteria that tend to form irregular colonies; some cause boils or septicemia or infections
+101382277	lactic acid bacteria and important pathogens; bacteria that ferment carbohydrates chiefly into lactic acid
+101382595	type genus of the family Lactobacillaceae
+101382759	a Gram-positive rod-shaped bacterium that produces lactic acid (especially in milk)
+101382939	a bacterium that is used to make yogurt and to supplement probiotics
+101383130	a genus of bacteria
+101383251	Gram-positive bacteria usually occurring in pairs
+101383395	bacterium causing pneumonia in mice and humans
+101383543	a genus of bacteria
+101383685	spherical Gram-positive bacteria occurring in pairs or chains; cause e.g. scarlet fever and tonsillitis
+101383926	a species of bacteria
+101384040	higher bacteria; slender spiral rodlike forms
+101384245	large coarsely spiral bacteria; free-living in fresh or salt water or commensal in bodies of oysters
+101384470	the type genus of the family Spirochaetaceae; a bacterium that is flexible, undulating, and chiefly aquatic
+101384674	parasitic or free-living bacteria; many pathogenic to humans and other animals
+101384914	small spirochetes some parasitic or pathogenic
+101385123	type genus of Treponemataceae: anaerobic spirochetes with an undulating rigid body; parasitic in warm-blooded animals
+101385340	spirochete that causes disease in humans (e.g. syphilis and yaws)
+101385480	small flexible parasitic spirochetes having three to five wavy spirals
+101385668	cause of e.g. European and African relapsing fever
+101385792	cause of Lyme disease; transmitted primarily by ticks of genus Ixodes
+101385973	very slender aerobic spirochetes; free-living or parasitic in mammals
+101386143	important pathogens causing Weil's disease or canicola fever
+101386279	the aggregate of small plant and animal organisms that float or drift in great numbers in fresh or salt water
+101386537	photosynthetic or plant constituent of plankton; mainly unicellular algae
+101386725	unicellular algae
+101386805	animal constituent of plankton; mainly small crustaceans and fish larvae
+101386954	the aggregate of actively swimming animals in a body of water ranging from microscopic organisms to whales
+101387132	a minute life form (especially a disease-causing bacterium); the term is not in technical use
+101387328	an animal or plant that lives in or on a host (another animal or plant); it obtains nourishment from the host without benefiting or killing the host
+101387658	any of various parasites that live in the internal organs of animals (especially intestinal worms)
+101387971	any external parasitic organism (as fleas)
+101388168	an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association
+101388390	a host that is used by a parasite in the course of its life cycle
+101388519	the host in which the sexual reproduction of a parasite takes place
+101388648	any disease-producing agent (especially a virus or bacterium or other microorganism)
+101388823	either of two different animal or plant species living in close association but not interdependent
+101388995	an organism such as an insect that habitually shares the nest of a species of ant
+101389135	in most modern classifications, replacement for the Protista; includes: Protozoa; Euglenophyta; Chlorophyta; Cryptophyta; Heterokontophyta; Rhodophyta; unicellular protists and their descendant multicellular organisms: regarded as distinct from plants and animals
+101389706	any of the unicellular protists
+101389849	eukaryotic one-celled living organisms distinct from multicellular plants and animals: protozoa, slime molds, and eukaryotic algae
+101390092	free-living or colonial organisms with diverse nutritional and reproductive modes
+101390258	any of the families of Protoctista
+101390771	any genus of Protoctista
+101391633	a division of lower plants comprising unicellular and biflagellate algae that form starchy compounds
+101391829	in some classifications considered a superphylum or a subkingdom; comprises flagellates; ciliates; sporozoans; amoebas; foraminifers
+101392148	any of diverse minute acellular or unicellular organisms usually nonphotosynthetic
+101392516	characterized by the formation of pseudopods for locomotion and taking food: Actinopoda; Rhizopoda
+101392764	protozoa that move and capture food by forming pseudopods
+101392928	heliozoans; radiolarians
+101393107	protozoa having stiff rodlike radiating pseudopods
+101393268	mostly freshwater protozoa
+101393404	protozoa with spherical bodies and stiff radiating pseudopods
+101393540	marine protozoa
+101393669	protozoa with amoeba-like bodies and radiating filamentous pseudopods
+101393815	creeping protozoans: amoebas and foraminifers
+101394032	protozoa characterized by a pseudopod
+101394210	the animal order including amoebas
+101394420	protozoan inhabiting moist soils or bottom vegetation in fresh or salt water
+101394574	a large family of endoparasitic amebas that invade the digestive tract
+101394763	the type genus of the family Endamoebidae
+101394916	any ameba of the genus Endamoeba
+101395021	naked freshwater or marine or parasitic protozoa that form temporary pseudopods for feeding and locomotion
+101395333	the parasitic ameba that causes amebic dysentery in human beings
+101395484	foraminifers
+101395671	marine microorganism having a calcareous shell with openings where pseudopods protrude
+101395878	a family of protoctists
+101396005	type genus of the family Globigerinidae
+101396127	marine protozoan having a rounded shell with spiny processes
+101396245	a family of fossil protoctists
+101396394	large fossil protozoan of the Tertiary period
+101396514	testacean rhizopods
+101396681	any of various rhizopods of the order Testacea characterized by having a shell
+101396834	soil and freshwater protozoa; cosmopolitan in distribution
+101397007	type genus of the Arcellidae
+101397133	an amoeba-like protozoan with a chitinous shell resembling an umbrella
+101397276	genus of protozoans related to ameba
+101397412	a protozoan with an ovoid shell of cemented sand grains
+101397542	class of protozoa having cilia or hairlike appendages on part or all of the surface during some part of the life cycle
+101397895	a protozoan with a microscopic appendage extending from the surface of the cell
+101398172	in some recent classifications, coextensive with the Ciliata: minute organisms found in decomposing infusions of organic matter
+101398414	any member of the subclass Infusoria
+101398526	freshwater ciliate with an oval body and long deep oral groove
+101398689	any member of the genus Paramecium
+101398811	protozoa having four membranous ciliary organelles
+101398963	relative of the paramecium; often used in genetics research
+101399099	trumpet-shaped protozoa with a ciliated spiral feeding funnel
+101399258	any of several trumpet-shaped ciliate protozoans that are members of the genus Stentor
+101399417	ciliated protozoans that have a goblet-shaped body with a retractile stalk
+101399592	any of various protozoa having a transparent goblet-shaped body with a retractile stalk
+101399755	primitive chlorophyll-containing mainly aquatic eukaryotic organisms lacking true stems and roots and leaves
+101400138	plant growing in the sea, especially marine algae
+101400331	an edible seaweed with a mild flavor
+101400419	dried seaweed especially that cast ashore
+101400512	any of various seaweeds that grow underwater in shallow beds
+101400705	growth of marine vegetation especially of the large forms such as rockweeds and kelp
+101400853	any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms
+101401122	a blue-black plant pigment having a blue-green alcohol solution; found in all higher plants
+101401273	a dark-green plant pigment having a brilliant green alcohol solution; generally characteristic of higher plants
+101401444	the chlorophyll present in brown algae, diatoms, and flagellates
+101401582	the chlorophyll found (together with chlorophyll a) in red algae
+101401706	a substance in photosensitive bacteria that is related to but different from chlorophyll of higher plants
+101401877	water-soluble proteinaceous pigments found in red algae and cyanobacteria
+101402007	red pigment in red algae
+101402091	blue pigment in algae
+101402170	algae having chlorophyll a and usually c, and flagella of unequal lengths; terminology supersedes Chrysophyta in some classifications
+101402413	mostly freshwater eukaryotic algae having the chlorophyll masked by brown or yellow pigment; yellow-green and golden-brown algae and diatoms: Xanthophyceae, Chrysophyceae, Bacillariophyceae; some classification systems superseded or subsumed by Heterokontophyta
+101402888	algae having the pigments chlorophyll and carotene and xanthophyll
+101403032	any alga of the division Chrysophyta with its chlorophyll masked by yellow pigment
+101403216	all the yellow-green algae having flagella of unequal length
+101403413	yellow-green algae
+101403532	marine and freshwater eukaryotic algae: diatoms
+101403747	microscopic unicellular marine or freshwater colonial alga having cell walls impregnated with silica
+101403937	yellow-green algae with simple or branching filaments; comprising the single family Tribonemaceae
+101404158	simple filamentous freshwater yellow-green algae
+101404327	type genus of Tribonemaceae
+101404483	any of various algae of the genus Tribonema; algae with branching filaments that form scum in still or stagnant fresh water
+101404680	algae resembling confervae especially in having branching filaments
+101404810	brown algae; mostly marine and littoral eukaryotic algae
+101405022	coextensive with class Phaeophyceae; in some classifications subsumed in the division Heterokontophyta
+101405241	algae having the chlorophyll masked by brown and yellow pigments
+101405472	in some classifications coextensive with family Laminariaceae: marine brown algae of cold or polar seas
+101405693	large family of marine brown algae including many economically important large kelps chiefly of northern waters
+101405925	type genus of the family Laminariaceae: perennial brown kelps
+101406098	large brown seaweeds having fluted leathery fronds
+101406236	any of various kelps especially of the genus Laminaria
+101406354	any of various coarse seaweeds
+101406446	coextensive with the family Fucaceae
+101406609	in more recent classifications superseded by the order Fucales
+101406770	small family of brown algae: gulfweeds; rockweeds
+101407006	any of various algae of the family Fucaceae
+101407136	a fossilized cast or impression of algae of the order Fucales
+101407269	coarse brown seaweed growing on rocks exposed at low tide
+101407454	type genus of the family Fucaceae: cartilaginous brown algae
+101407648	any member of the genus Fucus
+101407748	brown algae seaweed with serrated edges
+101407891	a common rockweed used in preparing kelp and as manure
+101408083	brown algae distinguished by compressed or inflated branchlets along the axis
+101408257	similar to and found with black rockweed
+101408378	a genus of protoctist
+101408499	brown algae with rounded bladders forming dense floating masses in tropical Atlantic waters as in the Sargasso Sea
+101408733	free-swimming flagellate algae
+101408903	coextensive with the division Euglenophyta
+101409067	considered green algae
+101409206	type genus of the family Euglenaceae: green algae with a single flagellum
+101409377	minute single-celled green freshwater organism having a single flagella; often classed as algae
+101409545	marine and freshwater green or colorless flagellate organism
+101409706	large division of chiefly freshwater eukaryotic algae that possess chlorophyll a and b, store food as starch, and cellulose cell walls; classes Chlorophyceae, Ulvophyceae, and Charophyceae; obviously ancestral to land plants
+101410106	algae distinguished chiefly by having flagella and a clear green color, their chlorophyll being masked little if at all by other pigments
+101410439	algae that are clear green in color; often growing on wet ricks or damp wood or the surface of stagnant water
+101410729	alternative name for the class Chlorophyceae in some classifications
+101410894	an order of protoctist
+101411024	thin flat or tubular green algae
+101411188	type genus of the family Ulvaceae; green seaweed having a thallus two cells thick: sea lettuce
+101411384	seaweed with edible translucent crinkly green fronds
+101411521	chiefly freshwater green algae; solitary or colonial
+101411706	unicellular or colonial biflagellate free-swimming flagellates
+101411885	type genus of the Volvocaceae; minute pale green flagellates occurring in tiny spherical colonies; minute flagella rotate the colony about an axis
+101412118	green algae some of which are colored red by hematochrome
+101412306	type genus of the Chlamydomonadaceae; solitary doubly-flagellated plant-like algae common in fresh water and damp soil; multiply freely; often a pest around filtration plants
+101412581	pond scums; desmids
+101412750	pond scums: common freshwater algae forming green slimy masses
+101412971	type genus of the family Zygnemataceae
+101413098	free-floating freshwater green algae
+101413209	a genus of protoctist
+101413330	freshwater algae consisting of minute filaments containing spiral chlorophyll bands
+101413488	unicellular green algae that reproduce by spores
+101413677	type genus of Chlorococcales; unicellular green algae occurring singly or in a layer on soil or damp rock
+101413881	nonmotile unicellular green algae potentially important as source of high-grade protein and B-complex vitamins
+101414091	any alga of the genus Chlorella
+101414197	simple or branched filamentous freshwater green algae
+101414368	filamentous green algae
+101414512	type genus of Oedogoniaceae; freshwater green algae having long unbranched filaments; usually free-floating when mature
+101414726	in some classifications: contains only the order Charales
+101414920	small order of macroscopic fresh and brackish water algae with a distinct axis: stoneworts
+101415120	green algae superficially resembling horsetail ferns: stoneworts
+101415335	any of various submerged aquatic algae of the genus Chara having nodes with whorled filamentlike branches; usually encrusted with calcium carbonate deposits
+101415566	green algae common in freshwater lakes of limestone districts
+101415712	fragile branching stoneworts
+101415829	unicellular algae
+101415965	a genus of protoctist
+101416098	freshwater green algae
+101416192	lower plants; mostly marine and littoral eukaryotic algae
+101416385	coextensive with the Rhodophyta: red algae
+101416583	marine algae in which the chlorophyll is masked by a red or purplish pigment; source of agar and carrageenan
+101416857	any of various red algae having graceful rose to purple fronds (e.g. dulse or carrageen)
+101417000	a family of protoctist
+101417143	a genus of protoctist
+101417274	dark purple edible seaweed of the Atlantic coasts of Europe and North America
+101417482	a family of protoctist
+101417627	type genus of the family Rhodymeniaceae
+101417780	coarse edible red seaweed
+101417897	a family of protoctist
+101418034	a genus of protoctist
+101418165	edible red seaweeds
+101418267	an organism with cells characteristic of all life forms except primitive microorganisms such as bacteria; i.e. an organism with good' or membrane-bound nuclei in its cells
+101418561	a unicellular organism having cells lacking membrane-bound nuclei; bacteria are the prime example but also included are blue-green algae and actinomycetes and mycoplasma
+101418854	one of the distinct individuals forming a colonial animal such as a bryozoan or hydrozoan
+101418995	protozoa having flagella
+101419226	a usually nonphotosynthetic free-living protozoan with whiplike appendages; some are pathogens of humans and other animals
+101419682	in some classifications considered a phylum of the kingdom Protista; in others included in the plant phylum Pyrrophyta
+101420002	chiefly marine protozoa having two flagella; a chief constituent of plankton
+101420194	a genus of protoctist
+101420315	large bioluminescent marine protozoan
+101420448	marine and freshwater dinoflagellates
+101420623	type genus of the family Peridiniidae
+101420755	flagellate with a thick test composed of plates
+101420878	in some classifications considered a phylum of the kingdom Protista; holozoic or saprozoic flagellates
+101421139	flagellate protozoan that causes leishmaniasis
+101421261	flagellate protozoan lacking photosynthesis and other plant-like characteristics
+101421435	cellulose-producing flagellates
+101421588	flagellate symbiotic in the intestines of e.g. termites
+101421723	small usually parasitic flagellates
+101421973	flagellates with several flagella
+101422085	a genus of flagellate protoctist
+101422214	a flagellate that is the cause of the frequently fatal fish disease costiasis
+101422381	flagellates parasitic in intestines of vertebrates
+101422529	a suspected cause of diarrhea in humans
+101422641	flagellates parasitic in intestines of vertebrates including humans
+101422805	flagellates free-living or parasitic in intestines of birds
+101422955	flagellates parasitic in alimentary or genitourinary tracts of vertebrates and invertebrates including humans
+101423166	cause of trichomoniasis in women and cattle and birds
+101423296	plantlike flagellates containing chlorophyll; often considered unicellular algae
+101423501	unicellular organisms having many characteristics of typical algae
+101423653	a phylum in the kingdom Protoctista
+101423805	motile usually brownish-green protozoa-like algae
+101423974	common in fresh and salt water appearing along the shore as algal blooms
+101424137	strictly parasitic protozoans that are usually immobile; includes plasmodia and coccidia and piroplasms and malaria parasites
+101424448	parasitic spore-forming protozoan
+101424826	one of the minute active bodies into which sporozoans divide in one stage of their life cycle
+101424976	a sporozoan in the active feeding stage of its life cycle
+101425091	a cell that arises from the asexual division of a parent sporozoan during its life cycle
+101425235	parasitic sporozoans that form spores containing one or more infective sporozoites
+101425476	an order in the subclass Telosporidia
+101425642	a family of protoctist in the order Coccidia
+101425801	type genus of the family Eimeriidae; includes serious pathogens
+101425943	parasitic on the digestive epithelium of vertebrates and higher invertebrates
+101426105	an order in the subclass Telosporidia
+101426258	vermiform protozoans parasitic in insects and other invertebrates
+101426398	an order in the subclass Telosporidia
+101426612	minute protozoans parasitic at some stage of the life cycle in blood cells of vertebrates including many pathogens
+101426806	malaria parasites
+101426923	type genus of the family Plasmodiidae
+101427061	parasitic protozoan of the genus Plasmodium that causes malaria in humans
+101427248	bird parasites
+101427423	related to malaria parasite and having a phase in the viscera of various birds
+101427579	type genus of the family Haemoproteidae
+101427717	a genus of protoctist
+101427864	parasitic in birds
+101427977	piroplasms and cattle pathogens
+101428142	type genus of the family Babesiidae
+101428275	minute parasite of red blood cells of mammals transmitted by a tick and causing diseases of domestic animals
+101428458	a subclass of Sporozoa
+101428624	imperfectly known parasites of the muscles of vertebrates
+101428801	chief genus of the order Sarcosporidia
+101428955	parasite of the muscles of vertebrates
+101429107	an order in the subclass Acnidosporidia
+101429266	parasite in invertebrates and lower vertebrates of no known economic importance
+101429425	single-host parasites of lower vertebrates and invertebrates
+101429646	parasites of worms
+101429784	parasites of worms
+101429882	an order in the subclass Cnidosporidia
+101430040	parasite of arthropods and fishes that invade and destroy host cells
+101430188	an order in the subclass Cnidosporidia
+101430344	mostly parasitic in fishes and including various serious pathogens
+101430489	temporary outgrowth used by some microorganisms as an organ of feeding or locomotion
+101430644	multinucleate sheet of cytoplasm characteristic of some stages of such organisms as slime molds
+101430796	an extensive group of teleost fishes having fins supported by flexible cartilaginous rays
+101431221	any fish of the superorder Malacopterygii
+101431813	in some classifications considered a superorder comprising the Cypriniformes and the Siluriformes
+101431990	any of various families of fish
+101435158	any of various genus of fish
+101440446	an order of animals including almost entirely freshwater fishes: characins; loaches; carp; suckers; sometimes classified as a suborder of Ostariophysi
+101440849	a soft-finned fish of the order Cypriniformes
+101441102	loaches
+101441222	slender freshwater fishes of Eurasia and Africa resembling catfishes
+101441361	a family of fish including: carp; tench; roach; rudd; dace
+101441762	soft-finned mainly freshwater fishes typically having toothless jaws and cycloid scales
+101442155	any of various freshwater fish of the family Cyprinidae
+101442298	type genus of the family Cyprinidae: carp
+101442449	large Old World freshwater bottom-feeding fish introduced into Europe from Asia; inhabits ponds and sluggish streams and often raised for food; introduced into United States where it has become a pest
+101442801	scaleless domestic carp
+101442883	domestic carp with some large shining scales
+101442985	European fishes
+101443108	European freshwater fish having a flattened body and silvery scales; of little value as food
+101443296	tench
+101443405	freshwater dace-like game fish of Europe and western Asia noted for ability to survive outside water
+101443590	a genus of fish including: dace, chub
+101443758	small European freshwater fish with a slender bluish-green body
+101443913	European freshwater game fish with a thick spindle-shaped body
+101444066	any of numerous small silvery North American cyprinid fishes especially of the genus Notropis
+101444266	shiners
+101444383	small blunt-nosed fish of Great Lakes and Mississippi valley with a greenish luster
+101444551	the common North American shiner
+101444696	golden shiners
+101444807	shiner of eastern North America having golden glints; sometimes also called bream'
+101444976	roaches
+101445091	European freshwater food fish having a greenish back
+101445232	rudds
+101445351	European freshwater fish resembling the roach
+101445496	minnows
+101445613	very small European freshwater fish common in gravelly streams
+101445767	true gudgeons
+101445884	small slender European freshwater fish often used as bait by anglers
+101446039	goldfish
+101446178	small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes
+101446377	a silvery variety of Carassius auratus
+101446472	European carp closely resembling wild goldfish
+101446639	small family comprising the electric eels
+101446805	type genus of the family Electrophoridae; electric eels
+101446980	eel-shaped freshwater fish of South America having electric organs in its body
+101447161	suckers; closely related to the family Cyprinidae
+101447424	a cypriniform fish of the family Catostomidae
+101447563	mostly North American freshwater fishes with a thick-lipped mouth for feeding by suction; related to carps
+101447814	type genus of the family Catostomidae
+101447946	buffalo fishes
+101448070	any of several large suckers of the Mississippi valley
+101448234	fish of the lower Mississippi
+101448359	a genus of fish in the family Catostomidae
+101448498	widely distributed in warm clear shallow streams
+101448639	a genus of fish in the family Catostomidae
+101448793	North American sucker with reddish fins
+101448924	large family of small soft-finned fishes; killifishes; flagfishes; swordtails; guppies
+101449230	any member of the family Cyprinodontidae
+101449401	small mostly marine warm-water carp-like schooling fishes; used as bait or aquarium fishes or in mosquito control
+101449642	killifish
+101449780	silver-and-black killifish of saltwater marshes along the Atlantic coast of the United States
+101449972	black-barred fish of bays and coastal marshes of the Atlantic and Gulf Coast of the United States
+101450192	killifish
+101450299	found in small streams of tropical America; often kept in aquariums; usually hermaphroditic
+101450463	flagfishes
+101450587	a fish with a dark-blue back and whitish sides with red stripes; found in swamps and streams of Florida
+101450806	swordtails
+101450932	freshwater fish of Central America having a long swordlike tail; popular aquarium fish
+101451137	guppies
+101451235	small freshwater fish of South America and the West Indies; often kept in aquariums
+101451408	topminnows
+101451592	small usually brightly-colored viviparous surface-feeding fishes of fresh or brackish warm waters; often used in mosquito control
+101451893	mosquitofish
+101452015	silvery topminnow with rows of black spots of tropical North America and West Indies; important in mosquito control
+101452227	platys
+101452353	small stocky Mexican fish; popular aquarium fish
+101452498	mollies
+101452621	popular aquarium fish
+101452722	an order of spiny-finned fish in the superorder Acanthopterygii
+101452922	squirrelfishes and soldierfishes
+101453094	type genus of the family Holocentridae; squirrelfishes
+101453302	very small, brightly colored (especially red) nocturnal fishes of shallow waters or tropical reefs; they make sounds like a squirrel's bark
+101453591	on reefs from Bermuda and Florida to northern South America
+101453756	a squirrelfish found from South Carolina to Bermuda and Gulf of Mexico
+101453936	bright red fish of West Indies and Bermuda
+101454067	the larger squirrelfishes
+101454165	a family of fish including: flashlight fishes
+101454367	type genus of the family Anomalopidae
+101454504	fish having a luminous organ beneath eye; of warm waters of the western Pacific and Puerto Rico
+101454692	a genus of fish in the family Anomalopidae
+101454841	a genus of fish in the family Anomalopidae
+101454986	fish of deep dark waters having a light organ below each eye
+101455137	dories
+101455274	a family of fish in the order Zeomorphi
+101455439	marine fishes widely distributed in mid-waters and deep slope waters
+101455595	type genus of the family Zeidae
+101455728	European dory
+101455829	boarfishes
+101455971	a genus of fish in the family Caproidae
+101456116	fish with a projecting snout
+101456232	a genus of fish in the family Caproidae
+101456383	fish with large eyes and long snouts
+101456493	bellows fishes; shrimpfishes; cornetfishes; pipefishes; small order of chiefly tropical marine fishes of varied and bizarre form all having a small mouth at the end of a drawn-out tubular snout
+101456901	cornetfishes
+101457034	type genus of the family Fistulariidae
+101457186	slender tropical fish with a long tubular snout and bony plates instead of scales
+101457343	sticklebacks
+101457497	small (2-4 inches) pugnacious mostly scaleless spiny-backed fishes of northern fresh and littoral waters having elaborate courtship; subjects of much research
+101457782	type genus of the family Gasterosteidae
+101457958	of rivers and coastal regions
+101458102	confined to rivers
+101458233	pipefishes
+101458419	fish with long tubular snout and slim body covered with bony plates
+101458627	type genus of the family Syngnathidae
+101458778	small (4 inches) fish found off the Florida Gulf Coast
+101458937	a genus of fish in the family Syngnathidae
+101459095	a fish 8 inches long; found from eastern Florida to western Caribbean
+101459272	seahorses
+101459397	small fish with horse-like heads bent sharply downward and curled tails; swim in upright position
+101459580	bellows fishes
+101459723	small bottom-dwelling fish of warm seas having a compressed body and a long snout with a toothless mouth
+101459917	shrimpfishes
+101460048	slender tropical shallow-water East Indian fish covered with transparent plates
+101460217	trumpetfishes
+101460349	type genus of the Aulostomidae
+101460493	tropical Atlantic fish with a long snout; swims snout down
+101460651	mouth of a protozoan
+101460746	a hairlike projection from the surface of a cell; provides locomotion in free-swimming unicellular organisms
+101460943	a lash-like appendage used for locomotion (e.g., in sperm cells and some bacteria and protozoa)
+101461150	organ of excretion in flatworms
+101461257	outer layer or covering of an organ or part or organism
+101461387	thin protective membrane in some protozoa
+101461483	an animal organism in the early stages of growth and differentiation that in higher forms merge into fetal stages but in lower forms terminate in commencement of larval life
+101461883	the fluid-filled cavity inside a blastula
+101462121	a layer of cells on the inside of the blastula
+101462305	any cell resulting from cleavage of a fertilized egg
+101462432	an unborn or unhatched vertebrate in the later stages of development showing the main recognizable features of the mature animal
+101462749	(medicine) a grossly malformed and usually nonviable fetus
+101462944	a human fetus whose weight is less than 0.5 kilogram when removed or expelled from the mother's body
+101463098	animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds
+101463454	egg-laying tubular structure at the end of the abdomen in many female insects and some fishes
+101463604	one of two spiral bands of tissue connecting the egg yolk to the enclosing membrane at either end of the shell
+101463787	egg or young of an insect parasitic on mammals especially a sucking louse; often attached to a hair or item of clothing
+101463956	the mass of eggs deposited by fish or amphibians or molluscs
+101464086	the eggs or egg-laden ovary of a fish
+101464173	the egg mass or spawn of certain crustaceans such as the lobster
+101464287	early stage of an embryo produced by cleavage of an ovum; a liquid-filled sphere whose wall is composed of a single layer of cells; during this stage (about eight days after fertilization) implantation in the wall of the uterus occurs
+101464683	the blastula of a placental mammal in which some differentiation of cells has occurred
+101464850	the membrane that forms the wall of the blastocyst in early development; aids implantation in the uterine wall
+101465185	double-walled stage of the embryo resulting from invagination of the blastula; the outer layer of cells is the ectoderm and the inner layer differentiates into the mesoderm and endoderm
+101465444	a solid mass of blastomeres that forms when the zygote splits; develops into the blastula
+101465586	central cavity of the gastrula; becomes the intestinal or digestive cavity
+101465756	the opening into the archenteron
+101465900	thin structure composed of a single thickness of cells
+101466060	tissue in an embryo
+101466160	(embryology) any of the 3 layers of cells differentiated in embryos following gastrulation
+101466380	the outer germ layer that develops into skin and nervous tissue
+101466574	a tube of ectodermal tissue in the embryo from which the brain and spinal cord develop
+101466718	the middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue
+101466959	the area of mesoderm that forms the notochord
+101467082	mesodermal tissue that forms connective tissue and blood and smooth muscles
+101467214	the inner germ layer that develops into the lining of the digestive and respiratory systems
+101467407	eggs of a silkworm
+101467485	nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg)
+101467687	membranous structure enclosing the yolk of eggs in birds, reptiles, marsupials, and some fishes; circulates nutrients to the developing embryo
+101467884	membranous structure that functions as the circulatory system in mammalian embryos until the heart becomes functional
+101468113	hollow or grooved tooth of a venomous snake; used to inject its poison
+101468234	canine tooth of a carnivorous animal; used to seize and tear its prey
+101468354	a long pointed tooth specialized for fighting or digging; especially in an elephant or walrus or hog
+101468635	comprises true vertebrates and animals having a notochord
+101468898	any animal of the phylum Chordata having a notochord or spinal column
+101469113	a flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates
+101469342	a notochord of a larval tunicate typically confined to the caudal region
+101469469	any family in the phylum Chordata
+101469637	any genus in the phylum Chordata
+101469821	lancelets
+101469977	fish-like animals having a notochord rather than a true spinal column
+101470145	lancelets
+101470316	type genus of the Amphioxidae
+101470445	small translucent lancet-shaped burrowing marine animal; primitive forerunner of the vertebrates
+101470627	tunicates
+101470879	primitive marine animal having a saclike unsegmented body and a urochord that is conspicuous in the larva
+101471173	sometimes classified as an order: sea squirts
+101471353	minute sedentary marine invertebrate having a saclike body with siphons through which water enters and leaves
+101471554	a tubular organ in an aquatic animal (especially in mollusks) through which water can be taken in or expelled
+101471744	ascidian that can contract its body and eject streams of water
+101471863	small class of free-swimming tunicates; sometimes classified as an order
+101472066	a small family of tunicates in the class Thaliacea
+101472227	type (perhaps sole) genus of the Salpidae
+101472364	minute floating marine tunicate having a transparent body with an opening at each end
+101472527	oceanic tunicates
+101472659	type genus of the Doliolidae
+101472786	free-swimming oceanic tunicate with a barrel-shaped transparent body
+101472928	small free-swimming tunicates; sometimes classified as an order
+101473120	any member of the class Larvacea
+101473227	a genus of chordates in the class Larvacea
+101473374	free-swimming tadpole-shaped pelagic tunicate resembling larvae of other tunicates
+101473536	free-swimming larva of ascidians; they have a tail like a tadpole that contains the notochord
+101473711	fishes; amphibians; reptiles; birds; mammals
+101474323	animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium
+101474944	higher vertebrates (reptiles, birds and mammals) possessing an amnion during development
+101475143	any member of the Amniota
+101475279	thin innermost membranous sac enclosing the developing embryo of higher vertebrates (reptiles, birds and mammals)
+101475580	the outermost membranous sac enclosing the embryo in higher vertebrates (reptiles, birds and mammals)
+101475829	one of the tiny villi that stick out of the fetal chorion and combine with the mother's uterine tissue to form the placenta
+101476034	the vascular fetal membrane that lies below the chorion and develops from the hindgut in many embryonic higher vertebrates (reptiles, birds and mammals)
+101476261	the very vascular fetal membrane composed of the fused chorion and adjacent wall of the allantois
+101476447	animal living wholly or chiefly in or on water
+101476631	superclass of eel-shaped chordates lacking jaws and pelvic fins: lampreys; hagfishes; some extinct forms
+101476924	eel-shaped vertebrate without jaws or paired appendages including the cyclostomes and some extinct forms
+101477282	extinct group of armored jawless vertebrates; taxonomy is not clear
+101477505	extinct fish-like jawless vertebrate having a heavily armored body; of the Paleozoic
+101477666	extinct group of armored jawless fishes or fish-like vertebrate; taxonomy is not clear
+101477873	extinct jawless fish with the anterior part of the body covered with bony plates; of the Silurian and Devonian
+101478062	extinct group of armored fish-like vertebrates; taxonomy is not clear
+101478289	extinct jawless fish of the Devonian with armored head
+101478435	extinct order of jawless vertebrates
+101478581	extinct small freshwater jawless fish usually having a heterocercal tail and an armored head; of the Silurian and Devonian
+101478776	extinct order of primitive vertebrates; the precise taxonomy is not clear; in some classifications considered a separate phylum
+101479059	small (2 inches long) extinct eellike fish with a finned tail and a notochord and having cone-shaped teeth containing cellular bone; late Cambrian to late Triassic; possible predecessor of the cyclostomes
+101479337	the tiny fossil cone-shaped tooth of a primitive vertebrate of order Conodonta
+101479470	primitive jawless aquatic vertebrate: lampreys; hagfishes
+101479721	primitive aquatic vertebrate
+101479825	lampreys as distinguished from hagfishes
+101480014	lampreys
+101480166	primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue
+101480386	typical lampreys
+101480516	large anadromous lamprey sometimes used as food; destructive of native fish fauna in the Great Lakes
+101480714	hagfishes as distinguished from lampreys
+101480941	slime-producing marine animals: hagfishes
+101481152	eellike cyclostome having a tongue with horny teeth in a round mouth surrounded by eight tentacles; feeds on dead or trapped fishes by boring into their bodies
+101481457	type genus of the Myxinidae (typical hagfishes)
+101481610	typical hagfish
+101481707	a genus of fossil fish of the family Myxinidae
+101481854	a fossil hagfish of the genus Eptatretus
+101481970	fossil hagfishes
+101482100	fossil hagfish of the Pennsylvanian period (c. 300 million years ago) that resembled modern hagfishes
+101482284	comprising all vertebrates with upper and lower jaws
+101482461	a vertebrate animal possessing true jaws
+101482578	extinct group of bony-plated fishes with primitive jaws
+101482747	fish-like vertebrate with bony plates on head and upper body; dominant in seas and rivers during the Devonian; considered the earliest vertebrate with jaws
+101482977	cartilaginous fishes
+101483157	fishes in which the skeleton may be calcified but not ossified
+101483356	chimaeras and extinct forms
+101483521	fish with high compressed head and a body tapering off into a long tail
+101483704	a family of Holocephali
+101483844	type genus of the Chimaeridae
+101483972	a deep-sea fish with a tapering body, smooth skin, and long threadlike tail
+101484139	large European chimaera
+101484240	sharks; rays; dogfishes; skates
+101484712	any of numerous fishes of the class Chondrichthyes characterized by a cartilaginous skeleton and placoid scales: sharks; rays; skates
+101484971	any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales
+101485395	primitive sharks
+101485528	a genus of Hexanchidae
+101485662	large primitive shark widely distributed in warm seas
+101485829	oceanic sharks
+101486011	in some classifications another name for the family Lamnidae
+101486163	fierce pelagic and oceanic sharks
+101486348	a genus of Lamnidae
+101486471	voracious pointed-nose shark of northern Atlantic and Pacific
+101486621	mako sharks
+101486738	powerful mackerel shark of the Atlantic and Pacific
+101486926	very swift active bluish shark found worldwide in warm waters; important game fish
+101487088	similar to shortfin mako but darker blue
+101487203	common blue-grey shark of southwest Pacific; sport and food fish
+101487358	man-eating sharks
+101487491	large aggressive shark widespread in warm seas; known to attack humans
+101487714	comprising only the basking sharks; in some classifications considered the type genus of a separate family Cetorhinidae
+101487947	in some older classifications considered the family of the basking sharks
+101488120	large harmless plankton-eating northern shark; often swims slowly or floats at the sea surface
+101488314	thresher sharks
+101488442	type genus of the family Alopiidae; in some classifications considered a genus of the family Lamnidae
+101488651	large pelagic shark of warm seas with a whiplike tail used to round up small fish on which to feed
+101488882	nurse sharks and carpet sharks
+101489052	carpet sharks
+101489181	shark of the western Pacific with flattened body and mottled skin
+101489347	nurse sharks
+101489479	small bottom-dwelling shark of warm shallow waters on both coasts of North America and South America and from southeast Asia to Australia
+101489718	sand sharks; in some classifications coextensive with family Carcharhinidae
+101489953	type and sole genus of Carchariidae: sand sharks
+101490147	shallow-water shark with sharp jagged teeth found on both sides of Atlantic; sometimes dangerous to swimmers
+101490384	small-toothed sharks comprising only one species
+101490555	whale sharks
+101490679	large spotted shark of warm surface waters worldwide; resembles a whale and feeds chiefly on plankton
+101490875	small bottom-dwelling sharks
+101491026	small bottom-dwelling sharks with cat-like eyes; found along continental slopes
+101491180	largest family of living sharks; found worldwide especially in tropical waters; dorsal fin lacks spines: requiem sharks including tiger sharks and soupfin sharks
+101491559	any of numerous sharks from small relatively harmless bottom-dwellers to large dangerous oceanic and coastal species
+101491916	type genus of the Carcharhinidae
+101492142	a most common shark in temperate and tropical coastal waters worldwide; heavy-bodied and dangerous
+101492350	most common grey shark along coasts of middle Atlantic states; sluggish and occasionally caught by fishermen
+101492561	widely distributed shallow-water shark with fins seemingly dipped in ink
+101492753	large deep-water shark with white-tipped dorsal fin; worldwide distribution; most dangerous shark
+101493001	relatively slender blue-grey shark; nearly worldwide in tropical and temperate waters
+101493187	lemon sharks
+101493311	common shallow-water schooling shark of the Atlantic from North Carolina to Brazil and off west Africa; dangerous
+101493526	blue sharks
+101493647	slender cosmopolitan, pelagic shark; blue body shades to white belly; dangerous especially during maritime disasters
+101493876	tiger sharks
+101494002	large dangerous warm-water shark with striped or spotted body
+101494161	a genus of Carcharhinidae
+101494302	Pacific shark valued for its fins (used by Chinese in soup) and liver (rich in vitamin A)
+101494515	any of several small sharks
+101494632	small sharks with smooth skins and lacking spines on their dorsal fins
+101494853	smooth dogfishes
+101494998	small bottom-dwelling shark found along both Atlantic coasts
+101495210	smooth dogfish of European coastal waters
+101495349	found along the Atlantic coast of the Americas
+101495501	found from the northern Gulf of Mexico to Brazil
+101495653	a genus of Triakidae
+101495787	smooth dogfish of Pacific and Indian Oceans and Red Sea having white-tipped dorsal and caudal fins
+101496007	dogfishes having a spine in each dorsal fin
+101496182	small bottom-dwelling dogfishes
+101496328	spiny dogfishes
+101496470	destructive dogfish of the Atlantic coastal waters of America and Europe; widely used in anatomy classes
+101496682	dogfish of Pacific coast of North America
+101496829	hammerhead sharks; bonnethead sharks
+101496980	type genus of the Sphyrnidae
+101497116	medium-sized live-bearing shark with eyes at either end of a flattened hammer-shaped head; worldwide in warm waters; can be dangerous
+101497398	fished for the hides and vitamin-rich liver
+101497523	fished for the hide and vitamin-rich liver
+101497647	small harmless hammerhead having a spade-shaped head; abundant in bays and estuaries
+101497833	bottom-dwelling ray-like sharks
+101497981	type genus of the Squatinidae: angel sharks
+101498134	sharks with broad flat bodies and winglike pectoral fins but that swim the way sharks do
+101498342	cartilaginous fishes having horizontally flattened bodies and enlarged winglike pectoral fins with gills on the underside; most swim by moving the pectoral fins
+101498678	rays with bodies shaped like torpedoes
+101498840	electric rays
+101498972	any sluggish bottom-dwelling ray of the order Torpediniformes having a rounded body and electric organs on each side of the head capable of emitting strong electric discharges
+101499258	fish with dorsoventrally flattened bodies; includes: rays; skates; guitarfishes; sawfishes
+101499585	large primitive rays with elongated snouts
+101499759	primitive ray with sharp teeth on each edge of a long flattened snout
+101499919	type genus of the Pristidae
+101500054	commonly found in tropical bays and estuaries; not aggressive
+101500220	primitive rays with guitar-shaped bodies
+101500379	primitive tropical bottom-dwelling ray with a guitar-shaped body
+101500519	sting rays
+101500682	large venomous ray with large barbed spines near the base of a thin whiplike tail capable of inflicting severe wounds
+101500909	type genus of the Dasyatidae
+101501047	one of the largest stingrays; found from Cape Cod to Cape Hatteras
+101501218	butterfly rays
+101501340	a stingray with a short tail and a broad fin
+101501463	eagle rays
+101501630	powerful free-swimming tropical ray noted for soaring' by flapping winglike fins; usually harmless but has venomous tissue near base of the tail as in stingrays
+101501902	a genus of Myliobatidae
+101502037	ray with back covered with white or yellow spots; widely distributed in warm seas
+101502236	a genus of Myliobatidae
+101502373	large ray found along eastern coast of North America
+101502539	large rays lacking venomous spines: mantas
+101502732	extremely large pelagic tropical ray that feeds on plankton and small fishes; usually harmless but its size make it dangerous if harpooned
+101503001	a genus of Mobulidae
+101503117	largest manta (to 22 feet across wings); found worldwide but common in Gulf of Mexico and along southern coasts of United States; primarily oceanic
+101503362	type genus of the Mobulidae
+101503495	small manta (to 4 feet) that travels in schools
+101503636	bottom-dwelling tropical rays: skates
+101503801	large edible rays having a long snout and thick tail with pectoral fins continuous with the head; swim by undulating the edges of the pectoral fins
+101504091	type genus of the family Rajidae
+101504282	common European skate used as food
+101504418	most plentiful skate in North American inshore waters in summer; to 21 inches
+101504589	cold-water bottom fish with spines on the back; to 40 inches
+101504742	one of the largest skates (to 5 feet); an active skate easy to hook
+101504903	(ornithology) the class of birds
+101505702	warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings
+101506617	small bird; adults talking to children sometimes use these words to refer to small birds
+101506820	young bird that has just fledged or become capable of flying
+101506985	young bird not yet fledged
+101507078	a family of warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings
+101509816	a genus of birds
+101517072	the part of an animal's body that corresponds to a person's chest
+101517190	the part of an animal's body that corresponds to a person's throat
+101517309	adult male bird
+101517393	a cock bred and trained for fighting
+101517500	adult female bird
+101517567	a bird that has built (or is building) a nest
+101517719	any bird associated with night: owl; nightingale; nighthawk; etc
+101517858	any bird that cries at night
+101517944	any bird that migrates seasonally
+101518039	extinct primitive birds of the Triassic period; 70 million years before archaeopteryx
+101518224	most primitive avian type known; extinct bird of the Triassic having bird-like jaw and hollow limbs and breastbone with dinosaur-like tail and hind limbs
+101518452	primitive reptile-like fossil birds of the Jurassic or early Cretaceous
+101518705	a genus of fossil birds
+101518853	extinct primitive toothed bird of the Jurassic period having a long feathered tail and hollow bones; usually considered the most primitive of all birds
+101519128	a genus of fossil birds
+101519250	sparrow-sized fossil bird of the Jurassic period to the Cretaceous period having a keeled breastbone and vestigial tail; found in China; considered possibly the second most primitive of all birds
+101519519	a genus of fossil bird of the subclass Archaeornithes
+101519677	sparrow-sized fossil bird of the Cretaceous period having a vestigial tail; found in Spain; considered possibly the third most primitive of all birds
+101519906	a genus of fossil bird
+101520030	extinct primitive toothed bird with a long feathered tail and three free clawed digits on each wing
+101520206	flightless birds having flat breastbones lacking a keel for attachment of flight muscles: ostriches; cassowaries; emus; moas; rheas; kiwis; elephant birds
+101520607	birds having keeled breastbones for attachment of flight muscles
+101520811	used in former classifications to include all ratite bird orders
+101520988	a ratite bird order: ostriches and related extinct birds; known from the Pleistocene onward
+101521205	tall terrestrial birds: ostriches
+101521359	type genus of the Struthionidae: African ostriches
+101521519	fast-running African flightless bird with two-toed feet; largest living bird
+101521687	a ratite bird order: cassowaries and emus
+101521869	a family of large ostrich-like birds including cassowaries
+101522042	type and sole genus of the Casuaridae: cassowaries
+101522204	large black flightless bird of Australia and New Guinea having a horny head crest
+101522360	a genus of birds in the order Casuariiformes
+101522514	large Australian flightless bird similar to the ostrich but smaller
+101522699	a ratite bird order: flightless ground birds having vestigial wings and long bills and small eyes: kiwis
+101522925	coextensive with the order Apterygiformes
+101523083	type genus of the Apterygidae: kiwis
+101523217	nocturnal flightless bird of New Zealand having a long neck and stout legs; only surviving representative of the order Apterygiformes
+101523430	a ratite bird order: birds intermediate in characteristics between ostriches and emus: recent and extinct rheas
+101523655	a family of birds coextensive with the order Rheiformes
+101523838	type genus of the Rheidae; large tall flightless South American birds similar to but smaller than ostriches
+101524040	larger of two tall fast-running flightless birds similar to ostriches but three-toed; found from Brazil to Patagonia
+101524243	a genus of birds of the family Rheidae
+101524397	smaller of two tall fast-running flightless birds similar to ostriches but three-toed; found from Peru to Strait of Magellan
+101524621	huge extinct flightless birds: elephant birds
+101524788	coextensive with the order Aepyorniformes
+101524946	type genus of the Aepyornidae: elephant birds
+101525091	huge (to 9 ft.) extinct flightless bird of Madagascar
+101525235	a ratite bird order: recently extinct flightless birds of New Zealand
+101525430	moas
+101525593	type genus of the Dinornithidae: large moas
+101525746	extinct flightless bird of New Zealand
+101525889	the largest moa; about 12 feet high
+101526020	small moas
+101526134	the smallest moa; slender moa about the size of a large turkey
+101526297	a bird with feet adapted for perching (as on tree branches); this order is now generally abandoned by taxonomists
+101526549	largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are Eurylaimi and Tyranni and Menurae and Oscines or Passeres
+101527000	perching birds mostly small and living near the ground with feet having 4 toes arranged to allow for gripping the perch; most are songbirds; hatchlings are helpless
+101527402	chiefly arboreal birds especially of the order Coraciiformes
+101527526	two names for the suborder of typical songbirds
+101528361	passerine bird having specialized vocal apparatus
+101529162	any bird having a musical call
+101529276	honey eaters
+101529407	Australasian bird with tongue and bill adapted for extracting nectar
+101529566	hedge sparrow
+101529696	type genus of the Prunellidae
+101529835	small sparrow-like songbird of mountainous regions of Eurasia
+101529988	small brownish European songbird
+101530121	larks
+101530258	any of numerous predominantly Old World birds noted for their singing
+101530415	type genus of the Alaudidae: skylarks
+101530558	brown-speckled European lark noted for singing while hovering at a great height
+101530728	pipits and wagtails
+101530885	type genus of the Motacillidae: wagtails
+101531037	Old World bird having a very long tail that jerks up and down as it walks
+101531183	pipits
+101531295	a songbird that lives mainly on the ground in open country; has streaky brown plumage
+101531486	a common pipit that is brown above and white below; widely distributed in northern and central Europe and in Asia
+101531677	finches: goldfinches; bullfinches; chaffinches; siskins; canaries; cardinals; grosbeaks; crossbills; linnets; buntings
+101532313	any of numerous small songbirds with short stout bills adapted for crushing seeds
+101532897	type genus of the Fringillidae: chaffinch, brambling
+101533080	small European finch with a cheerful song
+101533216	Eurasian finch
+101533332	used in some classifications for a subgroup of finches
+101533487	in some classifications considered the type genus of a subfamily Carduelinae of the family Fringillidae: goldfinches; siskins; redpolls; linnets
+101533819	small European finch having a crimson face and yellow-and-black wings
+101533985	small Old World finch whose male has a red breast and forehead
+101534153	small yellow-and-black Eurasian finch with a sharp beak
+101534280	South American species of scarlet finch with black head and wings and tail
+101534452	small siskin-like finch with a red crown and a rosy breast and rump
+101534612	small siskin-like finch with a red crown
+101534748	in some classifications considered a subgenus of Carduelis: siskins and New World goldfinches
+101534966	American finch whose male has yellow body plumage in summer
+101535152	small finch of North American coniferous forests
+101535305	house finches and purple finches
+101535470	small finch originally of the western United States and Mexico
+101535641	North American finch having a raspberry-red head and breast and rump
+101535810	Old World finches; e.g. canaries and serins
+101535980	any of several small Old World finches
+101536122	native to the Canary Islands and Azores; popular usually yellow cage bird noted for its song
+101536292	any of various brown and yellow finches of parts of Europe
+101536421	crossbill
+101536534	finch with a bill whose tips cross when closed
+101536675	bullfinches
+101536796	common European finch mostly black and white with red throat and breast
+101536962	American finches
+101537074	small North American finch seen chiefly in winter
+101537223	common North American junco having grey plumage and eyes with dark brown irises
+101537403	sparrow-like North American finches
+101537646	a genus of Fringillidae
+101537781	common North American finch noted for its evening song
+101537951	large New World sparrows
+101538110	common North American finch with a white patch on the throat and black-and-white striped crown
+101538331	finch with black-and-white striped crown
+101538483	chipping sparrow; field sparrow; tree sparrow
+101538676	small North American finch common in urban areas
+101538827	common North American finch of brushy pasturelands
+101538975	finch common in winter in the northern U.S.
+101539115	American song sparrow and swamp sparrow
+101539285	small songbird common in North America
+101539421	North American finch of marshy area
+101539557	buntings and some New World sparrows
+101539775	any of numerous seed-eating songbirds of Europe or North America
+101540001	a genus of small North American finches including the New World buntings
+101540185	small deep blue North American bunting
+101540351	Old World buntings
+101540536	brownish Old World bunting often eaten as a delicacy
+101540700	European bunting inhabiting marshy areas
+101540841	European bunting the male being bright yellow
+101541003	common in Russia and Siberia
+101541139	snow bunting
+101541271	white Arctic bunting
+101541416	the honeycreepers
+101541596	small bright-colored tropical American songbird with a curved bill for sucking nectar
+101541777	type genus of the Coerebidae
+101541913	any of several honeycreepers
+101542018	true sparrows: Old world birds formerly considered weaverbirds
+101542214	any of several small dull-colored singing birds feeding on seeds or insects
+101542413	type genus of the Passeridae
+101542566	small hardy brown-and-grey bird native to Europe
+101542731	Eurasian sparrow smaller than the house sparrow
+101542874	any of various finches of Europe or America having a massive and powerful bill
+101543073	evening grosbeak
+101543207	North American grosbeak
+101543338	large finches
+101543473	a common large finch of Eurasia
+101543610	a genus of Fringillidae
+101543743	large grosbeak of coniferous forests of Old and New Worlds
+101543902	cardinals
+101544027	crested thick-billed North American finch having bright red plumage in the male
+101544259	large showy finches related to cardinals
+101544401	crested grey-and-red bird of southwest United States and Mexico
+101544563	any of numerous long-tailed American finches
+101544696	towhees
+101544809	common towhee of eastern North America
+101544957	towhees
+101545074	towhee of the Rocky Mountains
+101545208	weaverbirds
+101545427	finch-like African and Asian colonial birds noted for their elaborately woven nests
+101545700	type genus of the Ploceidae
+101545816	common Indian weaverbird
+101545913	whydahs
+101546024	mostly black African weaverbird
+101546149	a genus of Ploceidae
+101546273	small finch-like Indonesian weaverbird that frequents rice fields
+101546458	avadavats
+101546577	red Asian weaverbirds often kept as cage birds
+101546708	grassfinches
+101546849	usually brightly-colored Australian weaverbirds; often kept as cage birds
+101547030	small Australian weaverbird with markings like a zebra's
+101547185	Hawaiian honeycreepers
+101547345	small to medium-sized finches of the Hawaiian islands
+101547518	a genus of Drepanididae
+101547651	black honeycreepers with yellow feathers around the tail; now extinct
+101547790	lyrebirds and scrubbirds
+101547944	lyrebirds
+101548066	type and sole genus of the family Menuridae
+101548215	Australian bird that resembles a pheasant; the courting male displays long tail feathers in a lyre shape
+101548393	scrubbirds
+101548530	type genus of the Atrichornithidae
+101548680	small fast-running Australian bird resembling a wren and frequenting brush or scrub
+101548864	broadbills
+101548989	coextensive with the suborder Eurylaimi
+101549147	small birds of the Old World tropics having bright plumage and short wide bills
+101549301	New World flycatchers; antbirds; oven birds; woodhewers
+101549562	a passerine bird of the suborder Tyranni
+101549784	used in some classification systems; a suborder or superfamily nearly coextensive with suborder Tyranni; Passeriformes having relatively simple vocal organs and little power of song; clamatorial birds
+101550100	New World tyrant flycatchers most numerous in Central America and South America but also in the United States and Canada
+101550473	large American birds that characteristically catch insects on the wing
+101550784	type genus of the Tyrannidae: tyrant flycatchers
+101550942	large American flycatcher
+101551133	a kingbird seen in western United States; head and back are pale grey and the breast is yellowish and the tail is black
+101551335	a kingbird seen in the southwestern United States; largely grey with a yellow abdomen
+101551506	a kingbird that breeds in North America and winters in tropical America; distinguished by a white band on the tip of the tail
+101551694	a kingbird that breeds in the southeastern United States and winters in tropical America; similar to but larger than the eastern kingbird
+101551955	pewees
+101552071	small olive-colored woodland flycatchers of eastern North America
+101552282	small flycatcher of western North America
+101552410	phoebes
+101552527	small dun-colored North American flycatcher
+101552674	a genus of Tyrannidae
+101552813	tropical American flycatcher found as far north as southern Texas and Arizona; adult male has bright scarlet and black plumage
+101553070	cotingas; umbrella birds
+101553266	type genus of the Cotingidae: cotingas
+101553402	passerine bird of New World tropics
+101553594	cock of the rocks
+101553721	tropical bird of northern South America the male having brilliant red or orange plumage and an erectile disklike crest
+101553941	bird of the Andes similar to Rupicola rupicola
+101554071	manakins
+101554190	type genus of the Pipridae containing the typical manakins
+101554352	any of numerous small bright-colored birds of Central America and South America having short bills and elaborate courtship behavior
+101554556	bellbirds
+101554675	any of several tropical American birds of the genus Procnias having a bell-like call
+101554833	a genus of Cotingidae
+101554974	black tropical American bird having a large overhanging crest and long feathered wattle
+101555164	e.g. ovenbirds
+101555295	type genus of the family Furnariidae: ovenbirds
+101555454	small brownish South American birds that build oven-shaped clay nests
+101555597	antbirds
+101555783	any of various dull-colored South American birds that feeding on ants some following army ant swarms
+101556021	type genus of the Formicariidae
+101556168	a kind of antbird
+101556261	a genus of Formicariidae
+101556403	antbirds superficially resembling shrikes
+101556520	a genus of Formicariidae
+101556658	a kind of antbird
+101556780	woodhewers or woodcreepers
+101556952	type genus of the Dendrocolaptidae
+101557089	any of numerous South American and Central American birds with a curved bill and stiffened tail feathers that climb and feed like woodpeckers
+101557349	pittas
+101557466	type genus of the Pittidae; a large genus of birds of southern Asia and Australia and adjacent islands
+101557645	any bird of the genus Pitta; brilliantly colored chiefly terrestrial birds with short wings and tail and stout bills
+101557813	a genus of Tyrannidae
+101557946	grey flycatcher of the southwestern United States and Mexico and Central America having a long forked tail and white breast and salmon and scarlet markings
+101558227	Old World (true) flycatchers
+101558450	any of a large group of small songbirds that feed on insects taken on the wing
+101558681	type genus of the Muscicapidae
+101558823	common European woodland flycatcher with greyish-brown plumage
+101559009	arboreal insectivorous birds
+101559155	Australian and southeastern Asian birds with a melodious whistling call
+101559312	thrushes; in some classifications considered a subfamily (Turdinae) of the family Muscicapidae
+101559669	alternative classification for the thrushes
+101559826	songbirds characteristically having brownish upper plumage with a spotted breast
+101560338	type genus of the Turdidae
+101560603	large European thrush that feeds on mistletoe berries
+101560790	common Old World thrush noted for its song
+101560948	medium-sized Eurasian thrush seen chiefly in winter
+101561102	small European thrush having reddish flanks
+101561235	common black European thrush
+101561406	European thrush common in rocky areas; the male has blackish plumage with a white band around the neck
+101561634	large American thrush having a rust-red breast and abdomen
+101561801	robin of Mexico and Central America
+101561935	American thrush: wood thrush; hermit thrush; veery
+101562118	North American thrush noted for its complex and appealing song
+101562280	tawny brown North American thrush noted for its song
+101562445	large thrush common in eastern American woodlands; noted for its melodious song
+101562605	nightingales
+101562746	European songbird noted for its melodious nocturnal song
+101562921	large nightingale of eastern Europe
+101563060	nightingale spoken of in Persian poetry
+101563152	Old World chats
+101563277	songbirds having a chattering call
+101563434	common European chat with black plumage and a reddish-brown breast
+101563576	brown-and-buff European songbird of grassy meadows
+101563700	solitaires
+101563822	a dull grey North American thrush noted for its beautiful song
+101563959	Old World thrushes
+101564093	European songbird with a reddish breast and tail; related to Old World robins
+101564254	wheatears
+101564373	small songbird of northern America and Eurasia having a distinctive white rump
+101564525	North American bluebirds
+101564655	blue North American songbird
+101564757	Old World thrushes
+101564906	small Old World songbird with a reddish breast
+101565092	songbird of northern Europe and Asia
+101565225	in some classifications considered a subfamily (Sylviinae) of the family Muscicapidae: Old World (true) warblers; American kinglets and gnatcatchers
+101565619	alternative classification for the Old World warblers
+101565769	a small active songbird
+101565954	New World gnatcatchers
+101566090	very small North American and South American warblers
+101566220	a genus of birds of the family Sylviidae including kinglets
+101566387	small birds resembling warblers but having some of the habits of titmice
+101566586	European kinglet with a black-bordered yellow crown patch
+101566742	American golden-crested kinglet
+101566858	American kinglet with a notable song and in the male a red crown patch
+101567035	small active brownish or greyish Old World birds
+101567271	type genus of the Sylviidae: warblers
+101567414	small brownish-grey warbler with a black crown
+101567555	greyish-brown Old World warbler with a white throat and underparts
+101567719	Old World warbler similar to the greater whitethroat but smaller
+101567879	warblers
+101567986	European woodland warbler with dull yellow plumage
+101568121	a genus of Sylviidae
+101568240	small European warbler that breeds among reeds and wedges and winters in Africa
+101568445	a genus of Sylviidae
+101568571	small Asiatic and African bird; constructs nests like those of tailorbirds
+101568723	tailorbirds
+101568848	tropical Asian warbler that stitches leaves together to form and conceal its nest
+101569027	babblers
+101569150	type genus of the Timaliidae
+101569286	any of various insectivorous Old World birds with a loud incessant song; in some classifications considered members of the family Muscicapidae
+101569529	New World warblers
+101569774	small bright-colored American songbird with a weak unmusical song
+101570171	type genus of the Parulidae: wood warblers
+101570319	small grey-blue wood warbler with yellow throat and breast; of eastern North America
+101570520	yellow wood warbler with a black crown
+101570660	a genus of Parulidae
+101570773	any of numerous American wood warblers that feed on insects caught on the wing
+101570935	flycatching warbler of eastern North America the male having bright orange on sides and wings and tail
+101571134	a genus of Parulidae
+101571361	North American wood warbler; olive green and yellow striped with black
+101571533	yellow-throated American wood warbler
+101571701	black-and-white North American wood warbler having an orange-and-black head and throat
+101571903	common warbler of western North America
+101572064	similar to Audubon's warbler
+101572207	North American warbler having a black-and-white head
+101572354	New World chats
+101572477	birds having a chattering call
+101572612	American warbler noted for imitating songs of other birds
+101572753	ovenbirds and water thrushes
+101572908	American warbler; builds a dome-shaped nest on the ground
+101573062	brownish North American warbler found near streams
+101573190	yellowthroats
+101573317	small olive-colored American warblers with yellow breast and throat
+101573480	an American warbler
+101573610	birds of paradise
+101573767	any of numerous brilliantly colored plumed birds of the New Guinea area
+101573938	a genus of Paradisaeidae
+101574051	velvety black Australian bird of paradise with green and purple iridescence on head and tail

@@ -1,0 +1,1000 @@
+air bladder	102470212
+air bubble	109214513
+air castle	105777468
+air cell	105536028
+air cleaner	102691132
+air combat command	108213562
+air compressor	102689086
+air conditioner	102689238 104047719
+air conditioning	102689238
+air corps	108211755
+air cover	100819831
+air crew	108290327
+air current	111546388
+air cushion	102690398 102690541 114866730
+air defense	100962303
+air division	108236251
+air duct	102693800
+air embolism	114091826 114124799
+air filter	102691132
+air flow	107421201
+air force	108212964 108213170
+air force academy	108296721
+air force intelligence surveillance and reconnaissance	108214326
+air force isr	108214326
+air force officer	109800269
+air force research laboratory	102691754
+air force space command	108213832
+air gas	114886632
+air group	108236549
+air gun	102692133
+air hammer	102692293
+air hole	102692415 111443142
+air horn	102692507 102692607
+air hose	102693129
+air hostess	110675314
+air jacket	103709484
+air lane	108509556
+air letter	106638567
+air lock	102693442
+air mail	106635607
+air marshal	109800612
+air mass	114544120
+air mattress	102693668
+air medal	106720946
+air mile	113682449
+air national guard	108214089
+air out	200489706 202117374
+air passage	102693800
+air plant	113143744
+air pocket	111443142
+air pollution	114541014
+air potato	112109285
+air power	108450737
+air pressure	111449572
+air pump	102695372
+air raid	100976197
+air reconnaissance	100987442
+air rifle	102692133
+air sac	102470377 102470515 105536028
+air search radar	102695539
+air shaft	102695646
+air sick	302553445
+air sickness	114227087
+air sock	107272250
+air space	108573106
+air spring	102690541
+air station	102688444
+air terminal	102696105
+air thermometer	103431195
+air traffic	108442513
+air transport	101107540
+air transportation	101107540
+air transportation system	102696568
+air travel	100301267
+air traveler	109800839
+air traveller	109800839
+air unit	108212737
+air wave	107361973
+air well	102695646
+air-breathing	302619585
+air-condition	202336322 202336571
+air-conditioned	302540687
+air-conditioner	104047719
+air-cool	202336322
+air-cooled	302540775
+air-dried	302562992
+air-drop	201492516
+air-dry	302563085
+air-filled	301087711
+air-freight	201955018
+air-intake	102692820
+air-raid shelter	102871978
+air-ship	201955018
+air-slake	200215220
+air-sleeve	107272250
+air-tight	301401532 302535756
+air-to-air	300091771
+air-to-air missile	102696272
+air-to-ground	300091572
+air-to-ground missile	102696399
+air-to-surface	300091572
+air-to-surface missile	102696399
+airborne	301527014
+airborne patrol	100826666
+airborne transmission	109214305
+airbrake	102688560 102688714
+airbrush	102688854 201366023
+airburst	107422686
+airbus	102688980
+aircraft	102689427
+aircraft carrier	102690031
+aircraft engine	102690282
+aircraft landing	100305979
+aircraftman	109799988
+aircraftsman	109799988
+aircrew	108290327
+aircrewman	109800117
+airdock	102690680
+airdrome	102695091
+airdrop	100318535
+aire	109214585
+aire river	109214585
+aired	302518975
+airedale	102098703
+airedale terrier	102098703
+airfare	113329358
+airfield	102690851
+airflow	107421201
+airfoil	102691302
+airforce	108212964
+airframe	102692003
+airfreight	201955018
+airgun	102692133
+airhead	108707095 109800425
+airheaded	302128108
+airily	400343559
+airiness	104640223 105036129 105113045
+airing	100267489 100313092 106263270
+airing cupboard	102692678
+airless	302519542
+airlift	100317420 201454668
+airlike	302270635
+airline	102692940 102693129
+airline business	102692940
+airliner	102693232
+airlock	102693442
+airmail	106275465 106635500 201033999
+airmail letter	106638567
+airmailer	102693574
+airman	109845606
+airmanship	105643033
+airplane	102694015
+airplane landing	100305979
+airplane maneuver	100171665
+airplane mechanics	100608190
+airplane pilot	110452928
+airplane propeller	102694945
+airplane ticket	106531244
+airport	102695091
+airport terminal	102696105
+airpost	106275465
+airs	104795239
+airscrew	102694945
+airship	102695736
+airsick	302553445
+airsickness	114227087
+airspace	108519338 108573106
+airspeed	115308651
+airstream	111443311 111443470
+airstrip	102695929
+airt	201957193
+airtight	301401532 302535756
+airwave	106265931
+airway	102692940 102693800 105517824 108509556
+airwoman	109846007
+airworthiness	114570780
+airworthy	302095343
+airy	300628872 301190456 302508026 302518975
+aisle	102696719 102696904 102697041
+aitchbone	107678863
+aix	101854637
+aix galericulata	101855041
+aix sponsa	101854783
+aix-la-chapelle	108787272
+aizoaceae	111839414
+ajaia	102009815
+ajaia ajaja	102009938
+ajar	301657043
+ajax	109612497
+ajuga	112861400
+ajuga chamaepitys	112862232
+ajuga genevensis	112861953
+ajuga pyramidalis	112862114
+ajuga reptans	112861767
+ak	109077478
+akaba	108947451
+akan	107010146
+akaryocyte	105457114
+akaryote	105457114
+akee	107778716 112763050
+akee tree	112763050
+aken	108787272
+akeridae	101954362
+akha	106945580
+akhbari	108491131
+akhenaten	110830527
+akhenaton	110830527
+akimbo	302319740 400271541
+akin	301978911 302079186
+akinesia	114108956
+akinesis	114108956
+akinetic epilepsy	114110010
+akira kurosawa	111132897
+akka	108811162
+akkadian	107000185
+akko	108811162
+akmola	109042489
+akron	109153132
+aksa martyrs brigades	108027674
+aku	107010028
+akvavit	107919039
+akwa'ala	106935166 108505260 109665950
+al	109075641 114651998
+al alamayn	101280725
+al aqabah	108947451
+al capone	110901536
+al dente	301154838
+al faran	108039725
+al gore	111028309
+al hirschfeld	111072038
+al itihaad al islamiya	108029116
+al jolson	111109659
+al ladhiqiyah	109056877
+al madinah	109016709
+al nathir	108030385
+al qaeda	108030577
+al qahira	108918860
+al qaida	108030577
+al qanoon	108047464
+al sunna wal jamma	108031369
+al tawhid	108031613
+al-aksa martyrs brigades	108027674
+al-asifa	108028255
+al-fatah	108028255
+al-gama'a al-islamiyya	108028760
+al-hakim	110833417
+al-hasan ibn al-haytham	110833590
+al-haytham	110833590
+al-hudaydah	109187939
+al-iraq	108933207
+al-itihaad al-islamiya	108029116
+al-jama'a al-islamiyyah al-muqatilah bi-libya	108049347
+al-jihad	108029497
+al-ma'unah	108029908
+al-magrib	108991642
+al-muhajiroun	108030185
+al-mukalla	109188087
+al-qa'ida	108030577
+al-qaeda	108030577
+al-qaida	108030577
+al-qur'an	106473279
+al-rashid trust	108030956
+al-tawhid	108031613
+al-ummah	108031869
+ala	102154592 105317490
+ala.	109075641
+alabama	106925024 109075641 109214753 109666058
+alabama lip fern	113229863
+alabama river	109214753
+alabaman	109760187
+alabamian	109760187
+alabaster	104968239 114689530 114689648 302619786
+alabastrine	302619786
+alacritous	300980429
+alacrity	104640320
+aladdin	109612618
+aladdin's lamp	102697138
+alalia	114109074
+alamo	101271853
+alan alexander milne	111200802
+alan bartlett shepard jr.	111317253
+alan hodgkin	111073554
+alan jay lerner	111149120
+alan lloyd hodgkin	111073554
+alan mathison turing	111372493
+alan paton	111245340
+alan seeger	111310854
+alan shepard	111317253
+alan stewart paton	111245340
+alan turing	111372493
+aland islands	108798362
+alanine	114626668
+alar	114732692 302577673 303145334
+alaric	110830722
+alarm	102697285 102697521 106816015 107535012 200874096 201786469
+alarm bell	107280591
+alarm clock	102697521
+alarm system	102697285
+alarmed	300079441
+alarming	300194616
+alarmingly	400006055
+alarmism	107239344
+alarmist	109800945
+alarum	106816015
+alary	302577673
+alas	400043179
+alaska	109077478
+alaska cedar	111656281
+alaska cod	102525497
+alaska crab	101983917 107804411
+alaska fur seal	102080439
+alaska king crab	101983917 107804411
+alaska native	109760405
+alaska peninsula	109215000
+alaska range	109215158
+alaska rein orchid	112089116
+alaska standard time	115157817
+alaskan	109760285 302619920
+alaskan brown bear	102135440
+alaskan king crab	101983917 107804411
+alaskan malamute	102112715
+alaskan native	109760405
+alaskan pipeline	102697635
+alastrim	114148170
+alate	302577837
+alated	302577837
+alauda	101530415
+alauda arvensis	101530558
+alaudidae	101530121
+alb	102697825
+albacore	102629667 107796850
+alban berg	110865685
+albania	108722636
+albanian	106955014 109709354 302620230
+albanian capital	108722905
+albanian monetary unit	113706608
+albany	109099044 109140980
+albatrellus	113071315
+albatrellus dispansus	113071465
+albatrellus ovinus	113071700
+albatross	102060875 105697450
+albedo	113842644
+albee	110830832
+alben barkley	110854286
+alben william barkley	110854286
+albers	110830956
+albers-schonberg disease	114233601
+albert	110831144
+albert abraham michelson	111198383
+albert bruce sabin	111297269
+albert camus	110900844
+albert edward	110971451
+albert einstein	110974490
+albert francis charles augustus emmanuel	110831144
+albert gore jr.	111028309
+albert michelson	111198383
+albert sabin	111297269
+albert schweitzer	111307954
+albert speer	111329953
+albert szent-gyorgyi	111348080
+albert von szent-gyorgyi	111348080
+alberta	108841194
+alberti	110831312
+alberto giacometti	111017549
+albescent	300394483
+albigenses	108102074
+albigensian	302620090
+albigensianism	106237839
+albinal	302620401
+albinic	302620401
+albinism	114175761
+albinistic	302620401
+albino	109801091
+albino luciano	111107602
+albinotic	302620401
+albion	108893163
+albite	114889684
+albitic	302620677
+albizia	111779693
+albizia julibrissin	111779873
+albizia lebbeck	111780078
+albizia saman	111780322
+albizzia	111779693
+albizzia julibrissin	111779873
+albizzia lebbeck	111780078
+alborg	108780076
+albrecht durer	110965969
+albrecht eusebius wenzel von wallenstein	111392049
+albright's disease	114389891
+albuca	112450275
+albuginaceae	113002355
+albuginea	105614283
+albugo	113002551
+albula	102544914
+albula vulpes	102545063
+albulidae	102544793
+album	102697938 106604096
+albumen	107857013 114755688
+albumin	114755688
+albuminoid	115051283
+albuminous	302620781
+albuminuria	114289460
+albuminuric	302620903
+albuquerque	109137975
+albuterol	102698180
+alca	102048359
+alca torda	102048518
+alcaeus	110831504
+alcahest	115073030
+alcaic	106389727
+alcaic verse	106389727
+alcalde	109801245
+alcalescent	300026164
+alcapton	114609228
+alcaptonuria	114108191
+alcazar	102698486
+alcea	112193924
+alcea rosea	112194429
+alcedinidae	101829639
+alcedo	101830299
+alcedo atthis	101830434
+alcelaphus	102424608
+alces	102435513
+alces alces	102435629
+alchemic	302621020
+alchemical	302621020
+alchemise	200139406
+alchemist	109801362
+alchemistic	302621178
+alchemistical	302621178
+alchemize	200139406
+alchemy	105786746 113863157
+alcibiades	110831651
+alcidae	102047678
+alcides	109601183
+alcohol	107900542 114732881
+alcohol abuse	100949880
+alcohol addiction	114088126
+alcohol amnestic disorder	114419001
+alcohol group	114619256
+alcohol radical	114619256
+alcohol thermometer	102698621
+alcohol-dependent	300047463
+alcohol-in-glass thermometer	102698621
+alcohol-soluble	302273062
+alcoholic	109801608 300047463 301162103
+alcoholic abuse	100949880
+alcoholic beverage	107900542
+alcoholic dementia	114419001
+alcoholic drink	107900542
+alcoholics anonymous	108026923
+alcoholise	200139549 200139728
+alcoholism	109204890 114088126
+alcoholism abuse	100949880
+alcoholize	200139549 200139728 201179031
+alcott	110831829
+alcove	102698907
+alcyonacea	101917931
+alcyonaria	101917734
+alcyone	109509769
+aldactone	114778371
+aldebaran	109215340
+aldehyde	114608945
+aldehyde group	114619356
+aldehyde radical	114619356
+aldehyde-alcohol	114735960
+aldehydic	302621334
+alder	112304779 112305182
+alder blight	114239390
+alder buckthorn	113163157
+alder dogwood	113163157
+alder fly	102269516
+alder tree	112304779
+alder-leaved serviceberry	112644579
+alderfly	102269516
+alderleaf juneberry	112644579
+alderman	109801838
+aldermanic	303051617
+aldermanly	303051617
+aldohexose	114734662
+aldol	114735960
+aldol reaction	113450367
+aldomet	103761520
+aldose	114734823
+aldosterone	114776690
+aldosteronism	114140799
+aldous huxley	111089736
+aldous leonard huxley	111089736
+aldrovanda	112803933
+aldrovanda vesiculosa	112804076
+ale	107905485
+ale drinker	109866302
+aleatory	301848113
+aleatory contract	106534110
+alec guinness	111039265
+alecost	112041968
+alectis	102580454
+alectis ciliaris	102580583
+alecto	109529730
+alectoria	113011167
+alectoris	101810629
+alectoris graeca	101810932
+alectoris ruffa	101810781
+alectura	101804394
+alectura lathami	101804517
+alee	400271649
+alehoof	112868134
+alehouse	102699024
+aleksandr aleksandrovich blok	110873224
+aleksandr borodin	110877929
+aleksandr feodorovich kerensky	111122134
+aleksandr i. solzhenitsyn	111328115
+aleksandr mikjailovich prokhorov	111266708
+aleksandr nikolayevich scriabin	111309820
+aleksandr pavlovich	110832154
+aleksandr porfirevich borodin	110877929
+aleksandr prokhorov	111266708
+aleksandr scriabin	111309820
+aleksandr sergeyevich pushkin	111269181
+aleksandr solzhenitsyn	111328115
+aleksey maksimovich peshkov	111028866
+aleksey maximovich peshkov	111028866
+alembic	102699105
+alendronate	102699243
+alep	109056761
+aleph	106849764
+aleph-nought	113776034
+aleph-null	113776034
+aleph-zero	113776034
+alepisaurus	102546717
+aleppo	109056761
+aleppo boil	114204669
+aleppo grass	112159422
+alert	106816015 107239434 114055142 200874096 300092165 300192141 300877534
+alerting	107239434 114059525
+alertly	400271723
+alertness	104671985 105713669 114059525
+alessandro di mariano dei filipepi	110878608
+alessandro farnese	111246116
+alessandro manzoni	111175321
+alethic logic	106175762
+aletris	112450447
+aletris aurea	112451180
+aletris farinosa	112450976
+aletta jacobs	111097752
+aleuria aurantia	113050520
+aleurites	112948114
+aleurites fordii	112948518
+aleurites moluccana	112948254
+aleurone	114754132
+aleuronic	302621430
+aleut	106931088 108505421 109802030
+aleutian	109802030 302615219
+aleutian islands	108854667
+aleutians	108854667
+aleve	103813684
+alewife	102533745 107801607
+alex boncayao brigade	108027998
+alex haley	111044029
+alexander	110831964 112966588
+alexander alexandrovich blok	110873224
+alexander archipelago	109079484
+alexander bell	110861809
+alexander calder	110898761
+alexander fleming	110992817
+alexander graham bell	110861809
+alexander hamilton	111045664
+alexander i	110832154
+alexander ii	110832404
+alexander iii	110832653
+alexander isayevich solzhenitsyn	111328115
+alexander melville bell	110862171
+alexander pope	111262733
+alexander pushkin	111269181
+alexander selcraig	111311814
+alexander selkirk	111311814
+alexander the great	110831964
+alexander the liberator	110832404
+alexander vi	110832808
+alexander wilson	111412077
+alexander woollcott	111416938
+alexanders	112966588
+alexandre dumas	110964894
+alexandre emile jean yersin	111422797
+alexandre gustave eiffel	110974031
+alexandre yersin	111422797
+alexandria	108918414 109113857
+alexandria senna	112520484
+alexandrian	109802171 303039852
+alexandrian laurel	112385979
+alexandrian senna	112520484
+alexandrine	106359743
+alexandrite	114739840
+alexia	114122532
+alexic	109802296 303051778
+alexis carrel	110903440
+alexis charles henri maurice de tocqueville	111364332
+alexis de tocqueville	111364332
+aleyrodes	102249139
+aleyrodidae	102248936
+alfalfa	107817755 112569925
+alfalfa sprout	107735501
+alfilaria	112709664
+alfileria	112709664
+alfonso borgia	110899776
+alfred	110832978
+alfred alistair cooke	110928508
+alfred bernhard nobel	111228678
+alfred binet	110870878
+alfred charles kinsey	111125599
+alfred charles william harmsworth	111049294
+alfred damon runyon	111293897
+alfred de musset	111218084
+alfred dreyfus	110963397
+alfred edward housman	111081729
+alfred edward woodley mason	111182905
+alfred eisenstaedt	110975274
+alfred habdank skarbek korzybski	111129553
+alfred hawthorne	111069933
+alfred hitchcock	111072294
+alfred joseph hitchcock	111072294
+alfred kastler	111117515
+alfred korzybski	111129553
+alfred kroeber	111130907
+alfred krupp	111131835
+alfred lord tennyson	111355325
+alfred lothar wegener	111399531
+alfred louis kroeber	111130907
+alfred lunt	111165189
+alfred nobel	111228678
+alfred north whitehead	111404561
+alfred noyes	111230281
+alfred russel wallace	111391438
+alfred stieglitz	111338343
+alfred tennyson	111355325
+alfred thayer mahan	111169473
+alfred the great	110832978
+alfresco	301696965 400111402
+alga	101399755
+algae	101399755
+algal	302843471
+algarobilla	111786515
+algarroba	111786328 111786515 112513713 112513931
+algarroba bean	112513931
+algarrobilla	111786515
+algebra	106022075
+algebraic	302865235
+algebraic language	106911570
+algebraic number	113753012
+algebraical	302865235
+algebraically	400132327
+algebraist	109803484
+alger	110833131
+algeria	108723211
+algerian	109709479 302989371
+algerian capital	108723872
+algerian centime	113690737
+algerian dinar	113690596
+algerian monetary unit	113690485
+algerie	108723211
+algeripithecus	102482113
+algeripithecus minutus	102482265
+algernon charles swinburne	111347158
+algid	301255030
+algidity	114227923
+algiers	108723872
+algin	114924605
+alginic acid	114924605
+algoid	302621529
+algol	106914540 109215444
+algolagnia	107508822
+algolagnic	302621604
+algology	106084057
+algometer	102699428
+algometric	302621707
+algometrical	302621707
+algometry	101000138
+algonkian	106920935 109666270 302621859
+algonkin	106920935 109666270
+algonquian	106919747 109666446 302621859
+algonquian language	106919747
+algonquin	106919747 109666446 302621859
+algophilia	107508822
+algophobia	114406276
+algophobic	300079532
+algorism	106013929 106823549
+algorithm	105855965
+algorithm error	107315399
+algorithmic	300093544
+algorithmic language	106911748
+algorithmic program	105855965
+algorithmic rule	105855965
+algren	110833315
+alhacen	110833590
+alhambra	102699528
+alhazen	110833590
+ali	110833932 110834178
+ali baba	109802387
+alias	106349528 400271877
+alibi	106753794 106754000 200895262
+alice b. toklas	111365012
+alice hamilton	111045922
+alice malsenior walker	111391120
+alice paul	111246604
+alice walker	111391120
+alice-josephine pons	111262311
+alicia alonso	110834947
+alicyclic compound	114625356
+alidad	102699702 102699881
+alidade	102699702 102699881
+alien	109507595 110123254 110680441 202225792 301038689 301352775
+alien absconder	109802571
+alienable	300094128
+alienage	104807038
+alienate	201827478 201827830 202225792
+alienated	301466248 301688568
+alienating	300764327
+alienation	100036612 101110055 107517626 114439177
+alienation of affection	100735405
+alienator	109802810
+alienee	109802978
+alienism	104807038 106066318
+alienist	109803094
+alienor	109803217
+aliform	302577673
+alight	201982590 201982714 300477298
+align	200465234 200466966 200735655 202664945
+aligned	300735248 302318870
+aligning	301689471
+alignment	101002010 105084315 107429767 108310903
+alike	301413463 400070003 400070072
+alikeness	104752054
+aliment	107586285 201206811
+alimental	302568489
+alimentary	302568489
+alimentary canal	105539858
+alimentary paste	107714660
+alimentary tract	105539858
+alimentary tract smear	105272916
+alimentation	101059683 107586285
+alimentative	302622111
+alimony	113304643
+aline	200465234
+alinement	108310903
+aliphatic	300680715
+aliphatic compound	114625472
+aliquant	113756956
+aliquant part	113756956
+aliquot	113756769 300518812
+aliquot part	113756769
+alir	108033653
+alisma	112632781
+alisma plantago-aquatica	112632931
+alismales	112631694
+alismataceae	112632576
+alismatidae	111688791
+alistair cooke	110928508
+aliterate	109803325
+aliterate person	109803325
+alive	300041710 300095301 300119378 300192141 300808685 300930614 302113646
+aliveness	105012631 113984978
+aliyah	100057371 106709754
+alizarin	115010836
+alizarin carmine	115010997
+alizarin crimson	115010997
+alizarin red	115010997
+alizarin yellow	114778884
+alizarine	115010836
+alizarine red	104970484
+alka-seltzer	114801083
+alkahest	115073030
+alkahestic	302622220
+alkalemia	114044407
+alkalescent	300026164
+alkali	114642431 114736197
+alkali bee	102213573
+alkali grass	112487523
+alkali metal	114736385
+alkali poisoning	114533706
+alkalic	300025841
+alkalify	200265980
+alkalimetry	100649330
+alkaline	300025841
+alkaline earth	114736650
+alkaline metal	114736385
+alkaline-earth metal	114736650
+alkaline-loving	300027187
+alkalinise	200134545 200134706
+alkalinity	105046863
+alkalinize	200134545 200134706
+alkalinuria	114044589
+alkalise	200265980
+alkaliser	114802178
+alkalize	200265980
+alkalizer	114802178
+alkaloid	114736853
+alkaloidal	302622360
+alkalosis	114044737
+alkalotic	302622475
+alkaluria	114044589
+alkane	114975516
+alkane series	114975516
+alkanet	112838454
+alkapton	114609228
+alkaptonuria	114108191
+alkene	114737281
+alkeran	103749068
+alky	109801608
+alkyd	114926651
+alkyd resin	114926651
+alkyl	114641367
+alkyl group	114641367
+alkyl halide	114625824
+alkyl radical	114641367
+alkylating agent	102700297
+alkylbenzene	114625683
+alkylbenzenesulfonate	114737408
+alkylic	302622601
+alkyne	114624920
+all	300523527 302277044 400008423
+all along	400068615
+all arounder	109804311
+all at once	400153015 400464132
+all clear	106702299 106816955
+all day long	400306173
+all fools' day	115213340
+all fours	100490741
+all get out	113797519
+all important	301279260
+all in	302440966
+all in all	400152813
+all of a sudden	400062215 400153015
+all over	301006696 400026137 400199469
+all right	302088253 400015933 400053542 400053690
+all saints' day	115219894
+all souls' day	115220312
+all the same	400027761
+all the time	400158123
+all the way	400153124 400153231 400287169
+all together	400064312 400464132
+all told	400064168
+all too	400251727
+all-around	300528718
+all-day sucker	107623214
+all-devouring	300316151
+all-embracing	300528239
+all-encompassing	300528239
+all-fired	301537778 400025503
+all-firedly	400025503
+all-important	301279260
+all-inclusive	300528239
+all-knowing	302580010
+all-mains	301031447
+all-metal	301532049
+all-night	301444421
+all-or-none	300523635
+all-or-none law	105882624
+all-or-nothing	300523635
+all-out	300523754
+all-powerful	301831904
+all-purpose	301105751
+all-round	300528718
+all-rounder	109804311
+all-terrain bike	103798315
+all-time	300506998
+all-victorious	300572776
+all-weather	302010119
+alla breve	106878099
+alla nazimova	111221931
+allah	109561655
+allamanda	111790090
+allamanda cathartica	111790272
+allantoic	302622717
+allantoid	302052062
+allantois	101476034
+allargando	302548820
+allay	201206641 201819152
+allayer	110537942
+allegation	106743935 107250737
+allege	201018011
+alleged	300690891 301922936
+allegedly	400155440
+allegement	106743935
+alleghany plum	112659514
+alleghenies	109215586
+allegheny	109215851
+allegheny chinkapin	112284255
+allegheny mountain spurge	112767880
+allegheny mountains	109215586
+allegheny plum	112659514
+allegheny river	109215851
+allegheny spurge	112767880
+allegheny vine	111930333
+allegiance	101208643 104885133
+allegiant	300964856
+allegoric	301988981
+allegorical	301988981
+allegorically	400136008
+allegorise	200135093 200625935
+allegoriser	109803601
+allegorize	200135093 200625935
+allegorizer	109803601
+allegory	106378026 106383718 106893714
+allegretto	107053695 115289702 300985361 400272012
+allegro	107053516 115289832 300985256 400272144
+allegro con spirito	115289946
+allele	105445361
+allelic	302622817
+allelomorph	105445361
+allelomorphic	302622817
+allemande	107856100
+allemande sauce	107856100
+allen	110834380 110834557 110834717
+allen ginsberg	111020656
+allen screw	102700435
+allen stewart konigsberg	110834557
+allen tate	111352418
+allen wrench	102700534
+allentown	109157700
+allergen	114608440
+allergenic	302622948
+allergic	302369499 302623070
+allergic eczema	114248828
+allergic reaction	114556418
+allergic rhinitis	114557539
+allergist	109803747
+allergology	106055776
+allergy	114556418
+allergy diet	107577295
+alleviant	103885551
+alleviate	200063866 200519475
+alleviated	301523548
+alleviation	100355710 107508420
+alleviative	301344206
+alleviator	103885551 109803884
+alleviatory	301344206
+alley	102700618 102885255
+alley cat	102125162
+alleyway	102700618
+allgood	111849442
+allhallows	115219894
+allhallows eve	115216068
+allhallowtide	115220223
+alliaceae	112451383
+alliaceous	301059381 302637051
+alliaceous plant	112451939
+alliance	101083380 106786485 108310903 113814395 114442226
+alliaria	111890681
+alliaria officinalis	111890887
+allice	102533630
+allice shad	102533630
+allied	300735399 301979135 302485960 302623204 302623356
+allied command atlantic	108191894
+allied command europe	108192397
+allies	108187877 108188109 108188491
+alligator	101701075 114784626 200338510
+alligator clip	102919250
+alligator grass	111845216
+alligator lizard	101692452
+alligator mississipiensis	101701281
+alligator pear	107780823
+alligator sinensis	101701423
+alligator snapper	101669226
+alligator snapping turtle	101669226
+alligator weed	111845216
+alligator wrench	102700735
+alligatored	302247223
+alligatorfish	102650943
+alligatoridae	101700785
+allionia	111858735
+allionia incarnata	111858882
+allioniaceae	111856275
+allis	102533630
+allis shad	102533630
+alliterate	201706013
+alliteration	107111760
+alliterative	301972914
+alliteratively	400272273
+alliterator	109804005
+allium	112451633
+allium acuminatum	112452574
+allium ampeloprasum	112452861
+allium ascalonicum	112453683
+allium canadense	112453079
+allium carinatum	112453212
+allium cepa	112453313
+allium cepa aggregatum	112453683
+allium cepa viviparum	112454045
+allium cernuum	112454274
+allium fistulosum	112454457
+allium haematochiton	112454611
+allium neopolitanum	112454988
+allium paradoxum	112455139
+allium porrum	112454744
+allium sativum	112455280
+allium schoenoprasum	112455657
+allium scorodoprasum	112455490
+allium sphaerocephalum	112456470
+allium tricoccum	112455843
+allium triquetrum	112456595

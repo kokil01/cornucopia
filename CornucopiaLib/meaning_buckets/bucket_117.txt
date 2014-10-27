@@ -1,0 +1,1000 @@
+400267091	in an apathetic manner
+400267213	in an ardent manner
+400267447	in an arrogant manner
+400267688	in an ascetic manner
+400267823	with a feeling of shame
+400267920	in an assertive manner
+400268077	in an unassertive manner
+400268242	without a doubt
+400268385	in an audacious manner
+400268567	in an avid manner
+400268751	as an adjective
+400268865	as an adverb
+400268988	off course, wandering aimlessly
+400269134	floating freely; not anchored
+400269243	at a moderately slow tempo
+400269381	in an amorous manner
+400269487	like an angel
+400269596	with regard to architecture
+400269743	in an articulate manner
+400269895	in an inarticulate manner
+400270082	in an attributive manner
+400270228	in an audible manner
+400270340	in an inaudible manner
+400270463	in a beastly manner
+400270584	genuinely; with authority
+400270730	without bloodshed; in a bloodless manner; without shedding blood
+400270919	involving a great bloodshed
+400271019	in a grandiose manner
+400271157	in a turgid manner
+400271312	like a boy
+400271442	with the bottom lodged on the ground
+400271541	with hands on hips and elbows extending outward
+400271649	on or toward the lee
+400271723	in mentally perceptive and responsive way
+400271877	as known or named at another time or place
+400272012	in a moderately quick tempo
+400272144	in a quick and lively tempo
+400272273	in an alliterative manner
+400272405	in an altruistic manner
+400272583	in an anomalous manner
+400272695	with appreciation; in a grateful manner
+400272901	in an ungrateful manner
+400273056	with respect to arithmetic
+400273182	with a side or oblique glance
+400273330	with suspicion or disapproval
+400273429	away from the correct or expected course
+400273600	turned or twisted to one side
+400273736	with care and persistence
+400273866	with perseverance
+400273943	with persistence
+400274018	in a shrewd manner
+400274275	transversely
+400274382	to the opposite side
+400274479	with all your strength
+400274564	at full speed; with great haste
+400274669	at or near or toward the middle
+400274737	in a murderous frenzy
+400274935	wildly; without self-control
+400275080	with antithesis; in an antithetical manner
+400275183	at an opportune time
+400275323	in accordance with the season
+400275453	not in accordance with the season
+400275591	in an arch manner; with playful slyness or roguishness
+400275698	in an arduous manner
+400275799	in an ingenuous manner
+400275957	in a crude and unskilled manner
+400276140	at an oblique angle
+400276272	in a blissful manner
+400276392	over or across in a slanting direction
+400276465	into a sleeping state
+400276557	in the sleep of death
+400276631	(of a ship or an airplane) behind
+400276839	at or near or toward the stern of a ship or tail of an airplane
+400277124	near or toward the bow of a ship or cockpit of a plane
+400277302	stern foremost or backward
+400277404	with one leg on each side
+400277506	with the legs stretched far apart
+400277575	at right angles to the center line of a ship
+400277655	on, to, or at the top
+400277709	in an austere fashion
+400277821	in a greedy manner
+400277958	by open declaration
+400278159	in or to a backstage area of a theater
+400278270	out of view of the public; behind the scenes
+400278494	confidentially or in secret
+400278639	in a bald manner
+400278759	in a baleful manner
+400278865	in a noxiously baneful way
+400279015	directly
+400279158	in a bantering fashion
+400279287	in a barbarous manner
+400279400	without a saddle
+400279508	without shoes on
+400279618	in a bawdy manner
+400279689	in a becoming manner
+400279796	in a beneficial manner
+400279923	in a benign manner
+400280063	in a beseeching manner
+400280264	in a bewitching manner
+400280480	every two years
+400280604	twice a year
+400280708	in a blank and uncomprehending manner
+400280828	in a blasphemous manner
+400280953	in a blunt direct manner
+400281193	like a boor
+400281297	in a bountiful manner
+400281472	in the direction of the breadth
+400281598	in a breezy manner
+400281713	in a brisk manner
+400281857	in an inhumane manner
+400282023	in a bumptious manner
+400282160	in a cheerfully buoyant manner
+400282316	very happily
+400282402	with respect to bureaucracy
+400282529	in a bureaucratic manner
+400282667	in a cagey manner
+400282813	in a bad mood
+400282921	in a capricious manner
+400283116	unpredictably
+400283263	in a captious, carping manner
+400283379	in a caustic vitriolic manner
+400283532	as if with kid gloves; with caution or prudence or tact
+400283793	with great caution; warily
+400283873	without caution or prudence
+400284129	in a proud and domineering manner
+400284287	with unflagging resolve
+400284664	all the time; seemingly without stopping
+400284883	every hundred years; once in a century
+400285042	in a manner suggestive of chaos
+400285172	in a wild and confused manner
+400285302	in a chaste and virtuous manner
+400285441	in a chatty manner
+400285612	with little expenditure of money
+400285748	in a brash cheeky manner
+400285918	in a gallant manner
+400286085	in a churlish manner
+400286242	in a circular manner
+400286319	in a clannish manner
+400286521	in conformity with the rules or laws and without fraud or cheating
+400286695	in an unfair manner
+400286876	in a manner that minimizes dirt and pollution
+400287002	in an easily perceptible manner
+400287169	completely
+400287341	with respect to climate
+400287481	by way of, or along the coast
+400287580	in a cajoling manner
+400287686	in a coherent manner
+400287833	in an incoherent manner
+400287982	with the use of colloquial expressions
+400288204	in a self-collected or self-possessed manner
+400288389	in a colloidal manner
+400288522	in a bellicose contentious manner
+400288714	in a comforting or consoling manner
+400288916	taking up no more space than necessary
+400289064	with compatibility
+400289157	without compatibility
+400289255	in a self-satisfied manner
+400289406	without complaining
+400289622	with complaints
+400289765	in an all-inclusive manner
+400289871	in a limited way
+400289970	in a manner that cannot be evaded
+400290270	with regard to computation
+400290403	(archaic as adverb) in a brotherly manner
+400290519	in favor of a proposition, opinion, etc.
+400290609	in opposition to a proposition, opinion, etc.
+400290736	with conceit; in a conceited manner
+400290900	in a conceptual manner
+400291062	in a manner showing concern
+400291174	in a concise manner; in a few words
+400291450	summed up briefly
+400291622	with concise and precise brevity; to the point
+400291841	in a conical manner
+400291936	with cynicism; in a cynical manner
+400292076	by cytophotometric means
+400292166	by means of cytoplasm
+400292249	without taking pains
+400292397	in a cumulative manner
+400292590	with honor
+400292682	with high honor
+400292791	with highest honor
+400292903	in violation of the law; in a criminal manner
+400293079	in a shameful manner
+400293230	in a coy manner
+400293335	with the legs crossed
+400293447	with condescension; in a patronizing manner
+400293663	in a consecutive manner
+400293817	in a conservative manner
+400293998	subject to a condition
+400294119	not subject to a condition
+400294248	to a crucial degree
+400294391	not in the intended manner
+400294485	crossing one another in opposite directions
+400294567	in the opposite direction
+400294643	in a counteractive manner
+400294730	across the countryside
+400294857	not following tracks or roads
+400294964	in an ill-natured manner
+400295138	across a town or city
+400295240	in an artful manner
+400295603	in a confused manner
+400295773	as a consequence
+400296016	having consequence
+400296096	lacking consequence
+400296320	in a constructive manner
+400296490	during the same period of time
+400296680	in a contrasting manner
+400296859	in a composed and unconcerned manner
+400297139	not easy to believe
+400297385	easy to believe on the basis of available evidence
+400297679	in an incredulous manner
+400297912	in a credulous manner
+400298090	in a cryptic manner
+400298279	in a cryptographic manner
+400298368	in an attractive manner
+400298575	in a curt, abrupt and discourteous manner
+400298819	in a damnable manner
+400298995	in a damp manner
+400299197	to a degree or in a manner that daunts
+400299316	in a daze; in a dazed manner
+400299520	in an indisputable degree
+400299667	with finality; conclusively
+400299814	without finality; inconclusively
+400300019	with firmness
+400300164	lacking firmness or resoluteness
+400300313	in a deft manner
+400300415	in a dejected manner
+400300588	with delight
+400300702	in a delightful manner
+400300857	in a demure manner
+400301007	in a concentrated manner
+400301256	in a compact manner or state
+400301391	in a tight or constricted manner
+400301501	by chance
+400301750	possibly (indicating a slight chance of something being true)
+400301868	to a degree possible of achievement or by possible means
+400302054	to a degree impossible of achievement
+400302263	with a possibility of becoming actual
+400302411	in an absurd manner or to an absurd degree
+400302540	in a disrespectful and mocking manner
+400302726	by giving a description
+400302867	as deserved
+400303026	in an unmerited manner
+400303212	with desperation
+400303375	with respect to development
+400303492	in a playfully devilish manner
+400303712	in a congenial manner
+400303849	in a contagious manner
+400303994	involving controversy
+400304163	not involving any controversy
+400304274	in a convivial manner
+400304406	in a flirtatious manner
+400304549	with jealousy; in an envious manner
+400304748	in a creaky manner
+400304906	in a crushing manner
+400305019	in a manner or to a degree deserving blame or censure
+400305161	in a currish manner; meanspiritedly
+400305302	in a mildly insane manner
+400305545	in a dainty and fastidious manner
+400305669	in a delicate manner
+400305811	in an adventurous manner
+400305947	in an original manner
+400306058	in a highly fashionable manner
+400306173	during the entire day
+400306284	as if dead
+400306378	in a proper and decorous manner
+400306539	without decorousness
+400306669	in a willing manner
+400306817	in an unwilling manner
+400306956	to a great depth; far down or in
+400307076	to a great distance
+400307214	to an advanced time
+400307328	at an advanced age or stage
+400307452	without defense
+400307661	in a defensive manner
+400307913	in an apologetic and defensive manner
+400308075	in an aggressive manner
+400308302	in an obnoxious manner
+400308527	in a not unpleasantly offensive manner
+400308726	in an unpleasantly offensive manner
+400308872	to a distinct degree
+400309032	in a distinct and distinguishable manner
+400309183	in a distracted manner
+400309299	in a respectfully deferential manner
+400309424	in a servile manner
+400309593	as if in a delirium
+400309700	in a delirious manner
+400309820	in a deceptive and unrealistic manner
+400309952	in an obvious and provable manner
+400310160	in grief-stricken loneliness; without comforting circumstances or prospects
+400310309	as a devil; in an evil manner
+400310504	in a diffident manner
+400310642	in a despicable manner
+400310744	in a maliciously spiteful manner
+400310908	in a destructive manner
+400311025	in an offensive and hateful manner
+400311268	in a detrimental manner
+400311429	in a harmless manner
+400311562	in a devious manner
+400311683	with devotion
+400311786	in a devout and pious manner
+400311926	with dexterity; in a dexterous manner
+400312113	in a diagonal manner
+400312240	in a diagrammatic manner
+400312450	as from opposite ends of a diameter
+400312823	in an overbearingly domineering manner; as a dictator
+400313044	in a didactic manner
+400313196	in a differential manner
+400313420	with diligence; in a diligent manner
+400313645	in a direful manner
+400313770	in a filthy unclean manner
+400313913	in a sordid manner
+400313996	in a disagreeable manner
+400314168	in disappointment; in a disappointed manner
+400314318	in a disappointing manner
+400314485	in a disastrous manner
+400314656	in a disturbing or embarrassing manner
+400314829	with discontent; in a discontented manner
+400315026	in a dishonorable manner or to a dishonorable degree
+400315374	with disgust
+400315534	in a disgusting manner or to a disgusting degree
+400315777	in an honest manner
+400315990	in a corrupt and deceitful manner
+400316228	(used as intensives reflecting the speaker's attitude) it is sincerely the case that
+400316567	in a hypocritical manner
+400316726	with dishonor
+400316850	with honor
+400316988	in a disingenuous manner
+400317174	without bias; without selfish motives
+400317312	in a disjointed manner
+400317497	with loyalty; in a loyal manner
+400317712	without loyalty; in a disloyal manner
+400317880	in a dreadful manner
+400318128	in a cheerless manner
+400318413	in an obedient manner
+400318598	in a disobedient manner
+400318783	in an impartially dispassionate manner
+400318955	in a disparaging manner
+400319159	in a dispirited manner without hope
+400319394	in a displeasing manner
+400319536	to a disproportionate degree
+400319696	to a proportionate degree
+400319894	out of proportion
+400320034	in proportion
+400320223	in a disputatious manner
+400320344	in a disquieting manner
+400320472	in a disreputable manner
+400320573	in a reputable manner
+400320668	in a respectful manner
+400320875	in a disrespectful manner
+400321028	from or at a distance
+400321158	in an offensively distasteful manner
+400321324	with distress
+400321467	in a distributive manner
+400321630	as individuals or as separate units (not collectively)
+400321801	with distrust
+400321961	with trust; in a trusting manner
+400322170	in a disturbing manner
+400322327	as a matter of doctrine
+400322408	in a narrow-minded dogmatic manner
+400322558	with sadness; in a sorrowful manner
+400322759	with respect to home or family
+400322917	with respect to the internal affairs of a government
+400323100	in a domineering manner
+400323217	two together
+400323299	downward and forward
+400323386	at a faster speed
+400323505	in a doubtful manner
+400323648	in a dowdy unfashionable manner
+400323816	toward the bottom of a hill
+400323926	toward a lower or inferior state
+400324059	in a drab manner
+400324150	in a dreamy manner
+400324332	in a drooping manner
+400324442	in a drowsy manner
+400324586	in an inarticulate manner
+400324708	in a stupid manner
+400324912	out of a sense of duty; in a dutiful manner
+400325059	in a forceful dynamic manner
+400325179	to, toward, or in the east
+400325301	to, toward, or in the west
+400325415	toward the west
+400325528	toward the east
+400325628	from the east
+400325751	from the west
+400325863	toward the west
+400325982	in an ebullient manner
+400326234	in an ecclesiastic manner
+400326369	with respect to ecology
+400326532	in an ecstatic manner
+400326736	with the edge forward or on, by, or toward the edge
+400326886	as if by an edge; barely
+400326996	in an educational manner
+400327195	in an unnatural eery manner
+400327305	in an effectual manner
+400327539	in an ineffectual manner
+400327717	in an effective manner
+400327957	in an ineffective manner
+400328163	in an elementary manner
+400328245	in an effusive manner
+400328361	in a demonstrative manner
+400328482	in an egotistical manner
+400328642	in an unselfish manner
+400328801	in a gracefully elegant manner
+400328994	with elegance; in a tastefully elegant manner
+400329149	without elegance
+400329241	with eloquence
+400329418	without eloquence; in an inarticulate manner
+400329628	causing embarrassment
+400329771	in an eminent manner
+400329932	in a competitively imitative manner
+400330072	in an encouraging manner
+400330223	in a discouraging manner
+400330385	with the end forward or toward the observer
+400330507	in or toward the direction of the ends; lengthwise
+400330623	on end or upright
+400330729	in an enterprising manner
+400330871	in an entertaining manner
+400331028	for the environment
+400331161	in an equable manner
+400331271	in an equitable manner
+400331426	in an inequitable manner
+400331596	in a straight-backed manner
+400331730	with erudition; in an erudite manner
+400331898	in an ethical manner; from an ethical point of view; according to ethics
+400332102	in an unethical manner
+400332226	in a euphemistic manner
+400332382	with evasion; in an evasive manner
+400332587	in a level and regular way
+400332684	in an evolutionary way; from an evolutionary point of view
+400332854	in an uneven and irregular way
+400332957	in a regular way without variation
+400333090	at an uneven rate
+400333223	in a regular manner
+400333384	in an irregular manner
+400333541	having a regular form
+400333664	having an irregular form
+400333793	in equal amounts or shares; in a balanced or impartial way
+400334089	in an unequal or partial manner
+400334320	at any future time; in the future
+400334438	in an exciting manner
+400334630	in an unexciting manner
+400334820	in an excusable manner or to an excusable degree
+400335065	in an unpardonable manner or to an unpardonable degree
+400335337	to an exorbitant degree
+400335532	in an expedient manner
+400335662	in an inexpedient manner
+400335764	in an expensive manner
+400335934	in a cheap manner
+400336120	suddenly and rapidly
+400336240	in an explosive manner
+400336392	in an exponential manner
+400336514	by express
+400336594	with expression; in an expressive manner
+400336764	without expression; in an inexpressive manner
+400336906	without prior preparation
+400337069	in a wasteful manner
+400337268	in an exuberant manner
+400337430	in a faddish manner
+400337533	in a disloyal and faithless manner
+400337789	in an incorrect manner
+400338017	in an insincerely false manner
+400338291	in an intimately familiar manner
+400338513	in a manner or to an extent that is well known
+400338649	in a passionately fanatic manner
+400338792	in a fanciful manner
+400338930	in a farcical manner
+400339037	in a fashionable manner
+400339240	in an unfashionable manner
+400339405	in a fastidious manner
+400339616	in a civil manner
+400339742	in an uncivil manner
+400339875	in a prophetically fateful manner
+400340016	in an inaccurate manner
+400340145	without a fault; in a faultless manner
+400340283	in a fearsome manner
+400340428	in a halting and feeble manner
+400340561	in a faint and feeble manner
+400340753	with great feeling
+400340873	without compassionate feelings
+400341042	in a felicitous manner
+400341175	in an infelicitous manner
+400341323	with passionate fervor
+400341590	in the fifth place
+400341730	in a figurative sense
+400341857	in a literal sense
+400341997	by first class conveyance; with first class accommodations
+400342127	from the original source; directly
+400342247	quite well
+400342345	in a fitful manner
+400342439	in a fixed manner
+400342537	in a flabby manner
+400342657	in a flagrant manner
+400342775	in a fancy colorful manner
+400342951	with flat sails
+400343029	with flexibility
+400343168	in an inflexible manner
+400343326	in a weak and flimsy manner
+400343448	with repeated strokes and noise
+400343559	in a flippant manner
+400343748	with a flopping sound
+400343834	in a fluent manner
+400343937	in an unpleasant or menacing manner
+400344075	with full force
+400344222	emotionlessly and heartlessly; with deliberate cruelty or callousness
+400344420	in a forcible manner
+400344578	in a forgetful manner
+400344700	with forgiveness; in a forgiving manner
+400344853	without forgiveness; in an unforgiving manner
+400345046	in a forlorn manner
+400345178	in a formidable manner
+400345338	in a formless manner
+400345456	used as a direction in music; to be played relatively softly
+400345595	used as a direction in music; to be played relatively loudly
+400345734	a direction in music; to be played very softly
+400345869	a direction in music; to be played very loudly
+400346004	in a wicked and shameful manner
+400346108	in an unfair and insulting manner
+400346296	by a factor of four
+400346455	by a factor of a million
+400346567	in the fourth place
+400346729	in a fractious manner
+400346866	in a brotherly manner
+400346945	in a dishonest and fraudulent manner
+400347080	in a frenzied manner
+400347253	in a frugal manner
+400347455	with respect to function
+400347587	in an alarming manner
+400347823	without warmth or enthusiasm
+400347981	in a fretful manner
+400348098	in a playfully frisky manner
+400348224	in a frivolous manner
+400348388	in a frothy manner
+400348511	in a gainful way
+400348618	in a plucky manner
+400348805	in a tastelessly garish manner
+400349012	in a genealogical manner
+400349142	as sharing a common genus
+400349270	without a trademark or brand name
+400349398	in a genteel manner
+400349513	with respect to geology
+400349656	in a disrespectful jeering manner
+400349786	in a gingerly manner
+400349906	in a willing manner
+400350043	in a joyous and gleeful manner
+400350246	in a joyless manner; without joy
+400350388	(musical direction) in the manner of a glissando (with a rapidly executed series of notes)
+400350578	in a gloating manner
+400350707	blessedly or wonderfully
+400350849	with glory or in a glorious manner
+400350995	in a glossy manner
+400351105	on the back or shoulder or astraddle on the hip
+400351250	on a railroad flatcar
+400351383	in a glowering manner
+400351515	in an enthusiastically glowing manner
+400351651	in a gluttonous manner
+400351763	extremely
+400351874	in a good-natured manner
+400351959	in an impressively beautiful manner
+400352189	in a grand manner
+400352317	in a harsh and grating manner
+400352500	in an uncalled-for manner
+400352615	in a greasy manner
+400352726	in a gregarious manner
+400352836	having a grey appearance
+400353034	in a grievous manner
+400353252	in an uncertain groping manner
+400353338	in a grotesque manner
+400353559	in a grudging manner
+400353714	in a generous and ungrudging manner
+400353928	in a gruesome manner
+400354034	in a gruff manner
+400354133	in the manner of someone who has committed an offense
+400354278	in a gushing manner
+400354384	without enthusiasm; in a half-hearted manner
+400354517	every thirty minutes, every half hour
+400354612	every half year, every six months
+400354703	in a generously handsome manner
+400354848	in an attractively handsome manner
+400354974	without care; in a slapdash manner
+400355281	by accident
+400355386	in a harmonious manner
+400355592	in a harsh or unkind manner
+400355712	with rough motion as over a rough surface
+400355829	with roughness or violence (rough' is an informal variant for roughly')
+400356040	in a hateful manner
+400356115	in an indistinct way
+400356221	through a haze
+400356323	with the head foremost
+400356438	in a hasty and foolhardy manner
+400356577	in an unadvised manner
+400356657	in a reckless manner
+400356734	at breakneck speed
+400356876	very much
+400356954	in a heartless manner
+400357087	in a heated manner
+400357305	toward heaven
+400357411	slowly as if burdened by much weight
+400357543	in a terribly evil manner
+400357692	in a subsequent part of this document or statement or matter etc.
+400357947	in the preceding part of the current text
+400358029	of or concerning this
+400358116	to this writing or document
+400358208	immediately after this
+400358311	in an airtight manner
+400358426	in a heroic manner
+400358561	in a hideous manner
+400358753	at a great altitude
+400358848	far up toward the source
+400358935	in or to a high position, amount, or degree
+400359047	in a rich manner
+400359172	in a domineering high-handed manner
+400359316	in a high-minded manner
+400359488	in a curious and questioning manner
+400359693	in an insolent manner
+400359817	without restraint
+400359910	in rotation or succession
+400359996	in a hoarse or husky voice
+400360138	in a horizontal direction
+400360312	in a vertical direction
+400360482	in a hospitable manner
+400360628	in an inhospitable manner
+400360781	every hour; by the hour
+400360891	in a huffy manner
+400361013	in secrecy
+400361098	in a humane manner
+400361234	in an inhumane manner
+400361378	in a humorous manner
+400361567	in a humorless manner
+400361728	by a factor of one hundred
+400361850	in the manner of someone who is very hungry
+400362014	in a hydraulic manner
+400362210	in a hygienic manner
+400362347	in an unhygienic manner
+400362506	in a hysterical manner
+400362640	in a cold and icy manner
+400362861	with complete identity; in an identical manner
+400363013	in an identifiable manner
+400363133	with respect to ideology
+400363242	in an idiomatic manner
+400363362	in an idiotic manner
+400363577	in an idle manner
+400363794	in an idolatrous manner
+400363930	in ignorance; in an ignorant manner
+400364072	in a legible manner
+400364251	in an illegible manner
+400364446	of biological parents not married to each other
+400364627	in a lawfully recognized manner
+400364794	in a manner disapproved or not allowed by custom
+400365014	in a manner acceptable to common custom
+400365259	in a logical manner
+400365398	in an illogical manner
+400365540	according to logical reasoning
+400365674	in an illustrious manner
+400365826	in an immaculate manner
+400366017	so as to be incapable of moving
+400366155	in an impartial manner
+400366273	in a moral manner
+400366419	without regard for morality
+400366590	in an impassive manner
+400366712	in an impenitent manner
+400366906	showing remorse
+400367080	in an imperative and commanding manner
+400367210	in an imperceptible manner or to an imperceptible degree
+400367464	in a noticeable manner
+400367664	in an imperious manner
+400367776	in an impersonal manner
+400367931	without warmth
+400368062	in a personal way
+400368189	as yourself
+400368286	in an impudent or impertinent manner
+400368574	in an impulsive or impetuous way; without taking cautions
+400368771	in an impious manner
+400368902	in an appealing but bold manner
+400369055	without ever expressing so clearly
+400369214	in an explicit manner
+400369364	without doubting or questioning
+400369478	in an important way
+400369664	in an important way or to an important degree
+400369961	to an impracticable degree
+400370083	in a precise manner
+400370277	in an imprecise manner
+400370459	just as it should be
+400370603	in an impregnable manner
+400370785	in an improvident manner
+400370928	in a provident manner
+400371084	in a prudent manner
+400371348	in an imprudent manner
+400371514	in an adequate manner or to an adequate degree
+400371665	in an inadequate manner or to an inadequate degree
+400371842	in an incisive manner
+400371950	in an intentionally unkind way
+400372056	without revealing one's identity
+400372217	in an incomparable manner or to an incomparable degree
+400372393	in a comparable manner or to a comparable degree
+400372559	in an incongruous manner
+400372716	in a manner tending to attract attention
+400372967	in a manner intended to avoid attracting attention
+400373140	in an incriminating manner
+400373228	in a manner impossible to cure
+400373337	to an incurable degree
+400373447	in an indelible manner
+400373649	to an inexpressible degree
+400374004	in an indeterminable manner
+400374152	with indifference; in an indifferent manner
+400374285	in an indignant manner
+400374490	with discretion; prudently and with wise self-restraint
+400374744	without discretion or wisdom or self-restraint
+400374926	in an indolent manner
+400375046	in a manner or to a degree that could not be doubted
+400375361	in an indulgent manner
+400375553	in an industrious manner
+400375685	in an inextricable manner
+400375875	exerting influence
+400375953	in an informative manner
+400376107	in an uninformative manner
+400376350	not many times
+400376634	in an ingenious manner
+400376847	in a flattering and ingratiating manner
+400376993	in an inherent manner
+400377186	in an unreproducible manner
+400377343	in an iniquitous manner
+400377503	in an innate manner
+400377640	in a naively innocent manner
+400377757	in a not unlawful manner
+400377896	at an inconvenient time
+400378096	at an opportune time
+400378258	in an inquiring manner
+400378403	in an insatiable manner; with persistence but without satisfaction
+400378591	to an insatiable degree
+400378713	in an invulnerable manner
+400378927	in a manner free from fear or risk
+400379164	in a manner involving risk
+400379352	in a confident and unselfconscious manner
+400379514	in a tentative and self-conscious manner
+400379694	in a sensitive manner
+400379859	in an insensitive manner
+400380042	in a harmfully insidious manner
+400380195	with sincerity; without pretense
+400380495	without sincerity
+400380634	very sincerely
+400380718	in an insinuating manner
+400380955	in an insipid manner
+400381063	to such an extent or degree; so
+400381131	with inspiration; in an inspiring manner
+400381262	in a strong substantial way
+400381386	not substantially; lacking substantial expression or fullness
+400381504	in a disrespectful and insulting manner
+400381646	to an insuperable degree
+400381801	in an interchangeable manner
+400381934	between departments
+400382065	to an intermediate degree
+400382155	(spatial sense) seeming to have no bounds
+400382291	in an intermittent manner
+400382423	in a questioning format
+400382508	in a narrow-minded manner
+400382666	in a tolerant manner
+400382827	in an intolerant manner
+400382927	in a transitive manner
+400383087	in an intransitive manner
+400383263	in an intravenous manner
+400383390	in an intuitive manner
+400383609	in an inventive manner
+400383775	in a manner arousing resentment
+400383864	in an invincible manner
+400383984	without being seen
+400384120	in a visible manner
+400384235	in an irate manner
+400384340	in an ironic manner
+400384453	contrary to plan or expectation
+400384582	in an irrelevant manner
+400384736	in an irretrievable manner
+400384850	in an irreverent manner
+400385104	without respect
+400385261	in an irreversible manner
+400385396	in a manner that jars and irritates
+400385526	with jealousy
+400385631	in an immature manner
+400385805	in a mature manner
+400385934	with jerking motions
+400386040	in jest
+400386220	with humor
+400386371	by journalists
+400386509	in a jovial manner
+400386616	in a judicious manner
+400386745	in an injudicious manner
+400386914	in a keen or penetrating way
+400387120	in a very humorous manner
+400387237	in a laborious manner
+400387445	in an idle and lackadaisical manner
+400387593	in a weak and unconvincing manner
+400387726	toward land
+400387850	at a distant time in the past (chiefly Scottish)
+400387954	in a languid and lethargic manner
+400388085	in a languorous manner
+400388211	with the wind abaft the beam
+400388297	at a distance, wide of something (as of a mark)
+400388378	in a lascivious manner
+400388491	in a lateral direction or location
+400388669	to or by or from the side
+400388921	so as to arouse or deserve laughter
+400389158	in a permissively lenient manner
+400389359	armed and prepared for fighting
+400389429	in a slow and lazy manner
+400389570	toward or on the left; also used figuratively
+400389732	toward or on the right; also used figuratively
+400389887	connecting the notes; in music
+400389998	separating the notes; in music
+400390113	in the direction of the length
+400390283	across time
+400390398	in music
+400390494	without energy; in a lethargic manner
+400390651	in a lewd and obscene manner
+400390848	in a licentious and promiscuous manner
+400391087	in a lifeless manner
+400391203	without animation or vitality
+400391325	in a yearning manner
+400391499	in a clear and lucid manner
+400391708	in an unenthusiastically lukewarm manner
+400391862	in an elegantly luxuriant way
+400392051	in an abundant and luxuriant manner
+400392194	so as to be manageable
+400392325	so as to be unmanageable
+400392480	in a manful manner; with qualities thought to befit a man
+400392720	without qualities thought to befit a man
+400392845	with few burdens
+400392962	in a light-handed manner
+400393047	in a light-hearted manner
+400393212	moving with quick light steps
+400393380	with regard to or concerning limnology
+400393479	without rigidity
+400393575	by an unbroken line of descent
+400393707	by descent through the female line
+400393801	by descent through the male line
+400393893	in a slow, leisurely or prolonged way
+400394078	with a lisp
+400394150	in a listless manner
+400394265	in a livid manner
+400394336	in a lofty manner
+400394435	in a logarithmic manner
+400394594	for more time
+400394686	for the most time
+400394779	in a chatty loquacious manner
+400395053	in a low position; near the ground
+400395144	in the lowest position; nearest the ground
+400395274	in a sorrowful lugubrious manner
+400395442	in a lurid manner
+400395592	so as to produce a delightful taste
+400395807	in a lustful manner
+400395924	in a lyrical manner
+400396055	in a magnanimous manner
+400396196	in a rhetorically grandiloquent manner
+400396366	in a majestic manner
+400396497	in a benevolent manner
+400396626	in a malevolent manner
+400396753	in a malignant manner, as of a tumor that spreads
+400396860	in a malign and evil manner
+400396942	in a managerial manner
+400397023	in a mangy manner
+400397094	in a maniacal manner or to a maniacal degree
+400397239	in an artfully manipulative manner
+400397334	in a masochistic manner
+400397478	to a massive degree or in a massive manner
+400397648	in a skillfully masterful manner; with the skill of a master
+400397820	in a materialistic manner
+400397959	in a maternal manner; as a mother
+400398104	in a mawkish and emotional manner
+400398267	to a maximal degree
+400398433	to a minimal degree
+400398603	to a meager degree or in a meager manner
+400398920	to an ample degree or in an ample manner
+400399101	in a meandering manner
+400399231	in a meaningful manner; so as to be meaningful
+400399370	in a miserly manner
+400399514	poorly or in an inferior manner
+400399624	in a despicable, ignoble manner
+400399834	in a meanspirited manner
+400399919	to an immeasurable degree; beyond measurement
+400400108	to a measurable degree
+400400243	in a mechanistic manner
+400400432	in a medial position
+400400548	in a meditative manner
+400400747	in a mellow manner
+400400865	in a melodious manner
+400401016	in an unmelodious manner
+400401152	in an overly emotional manner
+400401299	as in a melodrama
+400401443	in a memorable manner
+400401612	in an unmemorable manner
+400401712	in a menacing manner
+400401884	in a mendacious and untruthful manner
+400402102	with truth
+400402308	in a menial manner
+400402381	without pity; in a merciless manner
+400402632	in a meretricious manner
+400402786	in a meritorious manner
+400402908	in a messy, untidy manner
+400403093	in a tidy manner
+400403255	in a methodical manner
+400403375	with regard to meter
+400403491	in a rhythmic manner
+400403618	in an unreasonably senseless manner
+400403803	without intellectual involvement
+400403940	at or near or toward the center of a ship
+400404127	in the middle of the week
+400404188	in a mincing manner
+400404305	in the manner of a minister or clergyman
+400404465	in minute detail
+400404674	in a miraculous manner
+400404848	in a miserable manner
+400404962	in a misty manner
+400405085	much
+400405159	in a momentous way
+400405235	in a monotonous manner
+400405423	in a moody manner
+400405577	in a morbid manner or to a morbid degree
+400405717	in a morose manner
+400405821	in a morphological manner; with regard to morphology
+400405983	in such a manner that death ensues (also in reference to hatred, jealousy, fear, etc.)
+400406221	without moving; in a motionless manner
+400406411	with sadness; in a sad manner
+400406532	in a mournful manner
+400406659	in a mundane manner
+400406789	in a worldly manner
+400406926	as if bent on murder
+400407079	unclearly; opaquely
+400407179	in a musical manner
+400407299	in an unmusical manner
+400407429	in a reflective manner
+400407555	in a mutual or shared manner
+400407778	(often followed by for') in exchange or in reciprocation
+400408067	in a naive manner
+400408198	without clothing
+400408380	in an exposed manner; without protection or defense
+400408548	in a narrow-minded manner
+400408778	in a broad-minded manner
+400408963	in a nasty ill-tempered manner
+400409125	extending throughout an entire nation
+400409329	in a natty manner; with smartness
+400409457	in a jaunty fashionable manner
+400409589	not this merely but also; not only so but
+400409712	(comparative of near' or close') within a shorter distance
+400409931	(superlative of near' or close') within the shortest distance
+400410115	in an essential manner
+400410285	as a highly likely consequence
+400410408	in an unnecessary manner
+400410542	even or close in a race or competition or comparison
+400410775	in a nefarious manner or to a nefarious degree
+400410919	in a neglectful manner
+400411000	in a negligent manner
+400411110	in an anxiously nervous manner
+400411237	in a neurotic manner
+400411369	with nervous excitement
+400411507	at no time hereafter
+400411619	near in time or place or relationship
+400411953	very close
+400412120	at the end of each day
+400412227	by a factor of nine
+400412336	in a noble manner
+400412430	in no manner; in no way
+400412530	without stopping
+400412630	in a nostalgic manner
+400412791	to a notorious degree
+400412955	with regard to nutrition
+400413081	in number; with regard to numbers
+400413337	in a numb manner; without feeling
+400413480	in no manner
+400413571	to, toward, or in the northeast
+400413665	to, toward, or in the northwest
+400413759	to, toward, or in the north-northeast
+400413857	to, toward, or in the north-northwest
+400413955	with objectivity
+400414088	in a subjective way
+400414231	to an obscene degree
+400414319	in an obsequious manner
+400414506	in an observant manner
+400414618	in manner that attracts attention
+400414799	in an obtrusive manner
+400414897	in an unobtrusive manner
+400415132	in an officious manner
+400415297	in an obstructive manner
+400415483	illegally in advance of the ball or puck
+400415559	in an onerous manner
+400415635	in an opaque manner
+400415752	in respect to operation
+400415941	in a heavy and oppressive way
+400416070	in an optimal and most desirable way
+400416162	with optimism; in an optimistic manner
+400416346	with pessimism; in a pessimistic manner
+400416529	in an optional manner
+400416660	in an obligatory manner
+400416794	in a sumptuous and opulent manner
+400416968	with regard to organization
+400417110	by means of osmosis
+400417187	with ostentation; in an ostentatious manner
+400417406	in an outlandish manner
+400417543	in an outspoken manner
+400417692	in an overbearing manner
+400417776	on or to the other side of a page
+400417873	more than necessary

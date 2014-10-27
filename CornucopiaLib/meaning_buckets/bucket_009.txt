@@ -1,0 +1,1000 @@
+101574219	American orioles; American blackbirds; bobolinks; meadowlarks
+101574545	American songbird; male is black and orange or yellow
+101574815	type genus of the Icteridae
+101574969	a kind of New World oriole
+101575130	eastern subspecies of northern oriole
+101575295	western subspecies of northern oriole
+101575423	the male is chestnut-and-black
+101575551	a genus of passerine birds including the meadowlarks
+101575715	North American songbirds having a yellow breast
+101575881	a meadowlark of eastern North America
+101576001	a meadowlark of western North America
+101576124	a genus of tropical American orioles
+101576268	black-and-red or black-and-yellow orioles of the American tropics
+101576416	bobolinks
+101576539	migratory American songbird
+101576686	any bird of the family Icteridae whose male is black or predominantly black
+101576911	grackles
+101577031	long-tailed American blackbird having iridescent black plumage
+101577201	eastern United States grackle
+101577312	a genus of Icteridae
+101577442	North American blackbird whose bluish-black plumage is rusty-edged in the fall
+101577638	cowbirds
+101577758	North American blackbird that follows cattle and lays eggs in other birds' nests
+101577911	red-winged blackbirds
+101578042	North American blackbird with scarlet patches on the wings
+101578218	Old World orioles
+101578386	mostly tropical songbird; the male is usually bright orange and black
+101578582	type genus of the Oriolidae
+101578717	bright yellow songbird with black wings
+101578853	a genus of Old World orioles
+101578999	greenish-yellow Australian oriole feeding chiefly on figs and other fruits
+101579147	Old World starlings
+101579336	gregarious birds native to the Old World
+101579504	type genus of the Sturnidae: common starlings
+101579676	gregarious bird having plumage with dark metallic gloss; builds nests around dwellings and other structures; naturalized worldwide
+101579906	only the rose-colored starlings; in some classifications considered a separate genus
+101580099	glossy black bird with pink back and abdomen; chiefly Asian
+101580300	tropical Asian starlings
+101580459	mynas
+101580582	dark brown crested bird of southeastern Asia
+101580727	mynas
+101580821	glossy black Asiatic starling often taught to mimic speech
+101580982	crow; raven; rook; jackdaw; chough; magpie; jay
+101581216	birds of the crow family
+101581462	type genus of the Corvidae: crows and ravens
+101581669	black birds having a raucous call
+101581790	common crow of North America
+101581901	large black bird with a straight bill and long wedge-shaped tail
+101582051	common gregarious Old World bird about the size and color of the American crow
+101582219	common black-and-grey Eurasian bird noted for thievery
+101582370	a European corvine bird of small or medium size with red legs and glossy black plumage
+101582509	subfamily of the crow family: jays
+101582718	crested largely blue bird
+101582866	type genus of the Garrulinae: Old World jays
+101583020	a European jay
+101583131	fawn-colored jay with black-and-white crest and blue-and-black wings
+101583285	New World jays
+101583413	a North American jay
+101583511	common jay of eastern North America; bright blue with grey breast
+101583682	Canada jays
+101583807	a jay of northern North America with black-capped head and no crest; noted for boldness in thievery
+101584075	a Canada jay with a white head; widely distributed from Montana to Arizona
+101584248	nutcrackers
+101584371	speckled birds that feed on nuts
+101584515	Old World nutcracker
+101584625	nutcracker of the western United States
+101584752	magpies
+101584861	long-tailed black-and-white crow that utters a raucous chattering call
+101585039	a common magpie of Eurasia
+101585139	a magpie of Rocky Mountains in North America
+101585266	Australian birds formerly included in the family Laniidae
+101585497	black-and-white oscine birds that resemble magpies
+101585684	type genus of the Cracticidae: Australian butcherbirds
+101585850	large carnivorous Australian bird with the shrike-like habit of impaling prey on thorns
+101586014	bell magpies
+101586136	bluish black fruit-eating bird with a bell-like call
+101586277	in some classifications placed in the family Laniidae: Australian piping crows
+101586469	crow-sized black-and-white bird; a good mimic often caged
+101586645	wrens
+101586866	any of several small active brown birds of the northern hemisphere with short upright tails; they feed on insects
+101587170	type genus of the Troglodytidae
+101587336	small wren of coniferous forests of northern hemisphere
+101587494	common American wren that nests around houses
+101587635	marsh wrens
+101587762	a wren of the genus Cistothorus that frequents marshes
+101587928	American wren that inhabits tall reed beds
+101588063	small American wren inhabiting wet sedgy meadows
+101588218	a genus of Troglodytidae
+101588356	wren inhabiting badlands and mesa country of western United States and Mexico
+101588531	Carolina wrens
+101588661	large United States wren with a musical call
+101588811	alternative classifications for the cactus wrens
+101589015	large harsh-voiced American wren of arid regions of the United States southwest and Mexico
+101589182	sometimes considered a subfamily of Troglodytidae: mockingbirds; catbirds; thrashers
+101589432	type genus of the family Mimidae: mockingbirds
+101589582	long-tailed grey-and-white songbird of the southern United States able to mimic songs of other birds
+101589789	a genus of Mimidae
+101589919	mockingbird of Mexico
+101590047	catbirds
+101590167	North American songbird whose call resembles a cat's mewing
+101590354	thrashers
+101590475	thrush-like American songbird able to mimic other birdsongs
+101590643	common large songbird of eastern United States having reddish-brown plumage
+101590813	alternative names for the family comprising the New Zealand wrens
+101591072	birds of New Zealand that resemble wrens
+101591230	type genus for the Xenicidae
+101591366	short-tailed bird resembling a wren
+101591499	a genus of Xenicidae
+101591637	small green-and-bronze bird
+101591766	creepers
+101591927	any of various small insectivorous birds of the northern hemisphere that climb up a tree trunk supporting themselves on stiff tail feathers and their feet
+101592223	type genus of the Certhiidae
+101592359	a common creeper in North America with a down-curved bill
+101592534	common European brown-and-buff tree creeper with down-curved bill
+101592683	wall creepers; in some classifications placed in family Sittidae
+101592861	crimson-and-grey songbird that inhabits town walls and mountain cliffs of southern Eurasia and northern Africa
+101593084	nuthatches
+101593224	any of various small short-tailed songbirds with strong feet and a sharp beak that feed on small nuts and insects
+101593478	type genus of the Sittidae
+101593646	a kind of nuthatch
+101593764	bluish-grey nuthatch with reddish breast; of northern coniferous forests
+101593942	bluish-grey nuthatch with black head and white breast; of eastern North America
+101594131	titmice and chickadees
+101594338	small insectivorous birds
+101594551	type genus of the family Paridae
+101594725	any of various small grey-and-black songbirds of North America
+101594898	chickadee having a dark crown
+101595028	crested titmouse of eastern and midwestern United States
+101595181	southern United States chickadee similar to the blackcap but smaller
+101595335	widely distributed European titmouse with bright cobalt blue wings and tail and crown of the head
+101595533	a genus of Paridae
+101595669	active grey titmice of western North America
+101595797	a genus of Paridae
+101595923	small brown bird of California resembling a wren
+101596064	a genus of Paridae
+101596194	very small yellow-headed titmouse of western North America
+101596346	a family of birds of the suborder Oscines
+101596498	type genus of the Irenidae: fairy bluebirds
+101596645	fruit-eating mostly brilliant blue songbird of the East Indies
+101596798	swallows and martins
+101597013	small long-winged songbird noted for swift graceful flight and the regularity of its migrations
+101597252	type genus of the Hirundinidae
+101597428	common swallow of North America and Europe that nests in barns etc.
+101597609	North American swallow that lives in colonies and builds bottle-shaped mud nests on cliffs and walls
+101597809	of Australia and Polynesia; nests in tree cavities
+101597971	a genus of Hirundinidae
+101598091	bluish-green-and-white North American swallow; nests in tree cavities
+101598265	any of various swallows with squarish or slightly forked tail and long pointed wings; migrate around Martinmas
+101598482	a genus of Hirundinidae
+101598615	common small European martin that builds nests under the eaves of houses
+101598783	a genus of Hirundinidae
+101598914	swallow of the northern hemisphere that nests in tunnels dug in clay or sand banks
+101599120	a genus of Hirundinidae
+101599249	large North American martin of which the male is blue-black
+101599402	wood swallows
+101599528	type genus of the Artamidae
+101599663	Australasian and Asiatic bird related to the shrikes and resembling a swallow
+101599835	tanagers
+101599977	any of numerous New World woodland birds having brightly colored males
+101600192	a genus of Thraupidae
+101600378	the male is bright red with black wings and tail
+101600547	of western North America; male is black and yellow and orange-red
+101600715	of middle and southern United States; male is deep rose-red the female mostly yellow
+101600912	common tanager of southwestern United States and Mexico
+101601073	shrikes
+101601229	any of numerous Old World birds having a strong hooked bill that feed on smaller animals
+101601461	type genus of the Laniidae: typical shrikes
+101601629	shrikes that impale their prey on thorns
+101601800	a common European butcherbird
+101601910	a butcherbird of northern North America
+101602029	a butcherbird of western North America; grey with white underparts
+101602197	a common shrike of southeastern United States having black bands around the eyes
+101602382	a shrike of central North America; winters in Texas and the southern Mississippi valley
+101602560	an African bush shrikes
+101602726	an African shrike
+101602838	a genus of Malaconotinae
+101602982	a kind of bush shrike
+101603121	bowerbirds
+101603298	any of various birds of the Australian region whose males build ornamented structures resembling bowers in order to attract females
+101603550	type genus of the Ptilonorhynchidae
+101603709	of southeast Australia; male is glossy violet blue; female is light grey-green
+101603909	a genus of Ptilonorhynchidae
+101604051	large bowerbird of northern Australia
+101604191	water ouzels
+101604335	small stocky diving bird without webbed feet; frequents fast-flowing streams and feeds along the bottom
+101604560	type genus of the family Cinclidae
+101604721	a water ouzel of Europe
+101604850	a water ouzel of western North America
+101604994	small insectivorous American songbirds
+101605147	type genus of the Vireonidae
+101605271	any of various small insectivorous American birds chiefly olive-grey in color
+101605473	of northern North America having red irises and an olive-grey body with white underparts
+101605641	of eastern North America having a bluish-grey head and mostly green body
+101605793	common vireo of northeastern North America with bluish slaty-grey head
+101605957	a family of birds of the suborder Oscines
+101606119	waxwings
+101606241	brown velvety-plumaged songbirds of the northern hemisphere having crested heads and red waxy wing tips
+101606453	widely distributed over temperate North America
+101606594	large waxwing of northern North America; similar to but larger than the cedar waxwing
+101606764	term used in former classifications; erroneously grouped together birds of the orders Falconiformes and Strigiformes
+101606971	any of numerous carnivorous birds that hunt and kill other animals
+101607266	chiefly diurnal carnivorous birds having hooked beaks and long talons with opposable hind toe: falcons; hawks; eagles; ospreys; caracaras; vultures
+101607609	in some classifications an alternative name for the Falconiformes
+101607760	hawks; Old World vultures; kites; harriers; eagles
+101608271	diurnal bird of prey typically having short rounded wings and a long tail
+101608738	an unfledged or nestling hawk
+101608818	male hawk especially male peregrine or gyrfalcon
+101608976	type genus of the family Accipitridae
+101609163	large hawk of Eurasia and North America used in falconry
+101609313	small hawk of Eurasia and northern Africa
+101609450	bluish-grey North American hawk having a darting flight
+101609619	nontechnical term for any hawks said to prey on poultry
+101609744	broad-winged soaring hawks
+101609950	any hawk of the genus Buteo
+101610070	dark brown American hawk species having a reddish-brown tail
+101610241	large hawk of the northern hemisphere that feeds chiefly on small rodents and is beneficial to farmers
+101610453	North American hawk with reddish brown shoulders
+101610603	the common European short-winged hawk
+101610727	a common European bird of prey; dull brown with white-streaked underparts
+101610906	Old World hawk that feeds on bee larvae and small rodents and reptiles
+101611073	any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals
+101611326	a genus including the common European kits
+101611455	dark Old World kite feeding chiefly on carrion
+101611575	a genus of kites
+101611703	graceful North American black-and-white kite
+101611877	a genus of small kites of both Old and New Worlds
+101612032	grey-and-white American kite of warm and tropical regions
+101612190	a genus of haws comprising the harriers
+101612392	hawks that hunt over meadows and marshes and prey on small terrestrial animals
+101612597	Old World harrier frequenting marshy regions
+101612741	brownish European harrier
+101612867	common harrier of North America and Europe; nests in marshes and open land
+101613067	harrier eagles
+101613193	any of numerous large Old World hawks intermediate in some respects between typical hawks and typical eagles
+101613399	a family of birds of the order Falconiformes
+101613596	diurnal birds of prey having long pointed powerful wings adapted for swift flight
+101613893	a genus of Falconidae
+101614113	a widely distributed falcon formerly used in falconry
+101614315	female falcon especially a female peregrine falcon
+101614441	large and rare Arctic falcon having white and dark color phases
+101614610	small Old World falcon that hovers in the air against a wind
+101614763	small North American falcon
+101614916	small falcon of Europe and America having dark plumage with black-barred tail; used in falconry
+101615117	small Old World falcon formerly trained and flown at small birds
+101615269	any of various long-legged carrion-eating hawks of South America and Central America
+101615444	a genus of Falconidae
+101615596	widespread from southern United States to Central America; rusty black with black-and-white breast and tail
+101615818	South American caracara
+101615935	any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight
+101616256	a bird that is still young
+101616448	a young eagle
+101616550	a genus of Accipitridae
+101616679	large black-and-white crested eagle of tropical America
+101616836	a genus of Accipitridae
+101616984	large eagle of mountainous regions of the northern hemisphere having a golden-brown head and neck
+101617197	brownish eagle of Africa and parts of Asia
+101617331	an immature golden eagle
+101617410	a genus of Accipitridae
+101617566	a large eagle of North America that has a white head and dark wings and body
+101617762	any of various large eagles that usually feed on fish
+101617944	found on coasts of the northwestern Pacific
+101618099	bulky greyish-brown eagle with a short wedge-shaped white tail; of Europe and Greenland
+101618344	of southeast Europe and central Asia
+101618466	ospreys
+101618590	type genus of the Pandionidae
+101618727	large harmless hawk found worldwide that feeds on fish and builds a bulky nest often occupied for years
+101618959	any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion
+101619192	in some classifications considered the family comprising the Old World vultures which are more often included in the family Accipitridae
+101619405	any of several large vultures of Africa and Eurasia
+101619611	a genus of Accipitridae
+101619736	large vulture of southern Europe and northern Africa having pale plumage with black wings
+101619930	in some classifications the type genus of the family Aegypiidae
+101620084	the largest Eurasian bird of prey; having black feathers hanging around the bill
+101620274	a genus of Accipitridae
+101620407	small mostly white vulture of Africa and southern Eurasia
+101620590	a genus of Accipitridae
+101620723	of southern Eurasia and northern Africa
+101620861	secretary birds
+101620997	type genus of the Sagittariidae
+101621144	large long-legged African bird of prey that feeds on reptiles
+101621312	condors; turkey buzzards; king vultures
+101621563	large birds of prey superficially similar to Old World vultures
+101621793	type genus of the Cathartidae: turkey vultures
+101621951	a New World vulture that is common in South America and Central America and the southern United States
+101622177	the largest flying birds in the western hemisphere
+101622316	a bird that is usually restricted to the Andean condor
+101622476	large vulture of the high Andes having black plumage and white neck ruff
+101622644	containing solely the California condor
+101622776	North American condor; chiefly dull black; almost extinct
+101622923	a genus of Cathartidae
+101623055	American vulture smaller than the turkey buzzard
+101623216	usually containing only the king vulture
+101623376	large black-and-white vulture of South America and Central America; have colorful wattles and wartlike protuberances on head and neck
+101623608	owls
+101623768	nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes
+101624276	young owl
+101624355	a family of nocturnal birds of the order Strigiformes
+101624635	a genus of Strigidae
+101624761	small European owl
+101624871	a genus of Strigidae
+101624993	large owls having prominent ear tufts
+101625124	brown North American horned owl
+101625237	owls lacking ear tufts
+101625420	large dish-faced owl of northern North America and western Eurasia
+101625600	reddish-brown European owl having a round head with black eyes
+101625751	large owl of eastern North America having its breast and abdomen streaked with brown
+101625925	a genus of Strigidae
+101626066	small North American owl having hornlike tufts of feathers whose call sounds like a quavering whistle
+101626256	any owl that has a screeching cry
+101626347	any of several small owls having ear tufts and a whistling call
+101626521	a large owl of North America found in forests from British Columbia to central Mexico; has dark brown plumage and a heavily spotted chest
+101626756	European scops owl
+101626853	Asian scops owl
+101626946	any owl that hoots as distinct from screeching
+101627047	a genus of hawk-like owls
+101627178	grey-and-white diurnal hawk-like owl of northern parts of the northern hemisphere
+101627348	a genus of European owls
+101627474	slender European owl of coniferous forests with long ear tufts
+101627628	a genus of Strigidae
+101627762	almost extinct owl of New Zealand
+101627916	comprising only the barn owls
+101628058	type and only genus of the family Tytonidae
+101628203	mottled buff and white owl often inhabiting barns and other structures; important in rodent control
+101628388	the class of vertebrates that live on land but breed in water; frogs; toads; newts; salamanders; caecilians
+101628775	any family of amphibians
+101629241	any genus of amphibians
+101630065	cold-blooded vertebrate typically living on land but breeding in water; aquatic larvae undergo metamorphosis into adult form
+101630427	earliest fossil amphibian ever found; of the Devonian; found in Pennsylvania
+101630617	fossil amphibian of the Devonian having well-developed forelimbs; found in Pennsylvania
+101630789	second earliest fossil amphibian ever found; of the Devonian; found in Greenland
+101630972	early tetrapod amphibian found in Greenland
+101631091	salamanders; newts; congo snakes
+101631411	amphibians that resemble lizards
+101631526	salamanders
+101631734	type genus of the Salamandridae
+101631917	any of various typically terrestrial amphibians that resemble lizards and that return to water only to breed
+101632460	a kind of European salamander
+101632603	European salamander having dark skin with usually yellow spots
+101632789	ovoviviparous amphibian of the Alps
+101632925	small usually bright-colored semiaquatic salamanders of North America and Europe and northern Asia
+101633174	chiefly aquatic salamanders
+101633311	small semiaquatic salamander
+101633436	newts
+101633542	red terrestrial form of a common North American newt
+101633676	Pacific newts
+101633816	any of several rough-skinned newts found in western North America
+101633995	newt of humid coast from Alaska to southern California
+101634153	newt that is similar to Taricha granulosa in characteristics and habitat
+101634304	a newt in its terrestrial stage of development
+101634400	New World salamanders
+101634544	type genus of the Ambystomatidae
+101634688	small to moderate-sized terrestrial or semiaquatic New World salamander
+101634949	brownish-black burrowing salamander of southeastern United States
+101635099	glossy black North American salamander with yellow spots
+101635242	widely distributed brown or black North American salamander with vertical yellowish blotches
+101635418	larval salamander of mountain lakes of Mexico that usually lives without metamorphosing
+101635593	any of several large aquatic salamanders
+101635688	large aquatic salamanders: hellbenders; giant salamanders
+101635891	type genus of the Cryptobranchidae
+101636047	large salamander of North American rivers and streams
+101636219	giant salamanders; in some classifications included in the genus Cryptobranchus
+101636422	large (up to more than three feet) edible salamander of Asia
+101636590	mud puppies
+101636733	type genus of the Proteidae
+101636868	European aquatic salamander with permanent external gills that lives in caves
+101637033	a genus of Proteidae
+101637163	aquatic North American salamander with red feathery external gills
+101637325	large and small highly aquatic salamanders
+101637532	type genus of the Dicamptodontidae
+101637668	salamanders found near cold streams throughout the year
+101637817	large (to 7 inches) salamander of western North America
+101637984	olympic salamanders
+101638121	small large-eyed semiaquatic salamander of the United States Northwest
+101638300	small mostly terrestrial New World salamanders having neither lungs nor gills as adults
+101638605	type genus of the Plethodontidae
+101638768	mostly terrestrial salamanders that breathe through their thin moist skin; lay eggs in moist places on land; rarely enter water
+101638993	common salamander of eastern North America
+101639151	salamander of the Pacific coast of North America
+101639316	an amphibian genus of Plethodontidae
+101639470	common North American salamander mottled with dull brown or greyish-black
+101639625	climbing salamanders
+101639753	any of several North American salamanders adapted for climbing with well-developed limbs and long somewhat squared-off toes
+101639979	yellow-spotted brown salamander of California woodlands
+101640119	slender salamanders
+101640256	any of several small slim salamanders of the Pacific coast of the United States
+101640437	web-toed salamanders
+101640573	any of several salamanders with webbed toes and very long extensile tongues; excellent climbers that move with ease over smooth rock surfaces
+101640835	primarily a cave dweller in the Mount Shasta area
+101640970	similar to Shasta salamander; lives in cliff crevices and taluses
+101641123	congo snakes
+101641252	congo snakes
+101641363	aquatic eel-shaped salamander having two pairs of very small feet; of still muddy waters in the southern United States
+101641593	sirens
+101641712	a genus of Sirenidae
+101641828	eellike aquatic North American salamander with small forelimbs and no hind limbs; have permanent external gills
+101642010	frogs, toads, tree toads
+101642406	any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species
+101643024	a family nearly cosmopolitan in distribution: true frogs
+101643208	type genus of the Ranidae
+101643487	insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs
+101643847	wide-ranging light-brown frog of moist North American woodlands especially spruce
+101644032	common North American green or brownish frog having white-edged dark oval spots
+101644218	largest North American frog; highly aquatic with a deep-pitched voice
+101644380	similar to bullfrog; found in or near marshes and ponds; of United States and Canada
+101644571	mountain frog found near water; of United States Northwest to California
+101644738	largest living frog; up to a foot and weighing up to 10 lbs; Africa
+101644898	a meadow frog of eastern North America
+101645032	Mexican frog found within a jump or two of water
+101645180	a common semiterrestrial European frog
+101645312	New World frogs; in some classifications essentially coextensive with the family Bufonidae
+101645584	toothed frogs: terrestrial or aquatic or arboreal
+101645733	completely terrestrial robber frogs
+101645896	small terrestrial frog of tropical America
+101646015	barking frogs
+101646148	of southwest United States and Mexico; call is like a dog's bark
+101646328	type genus of the Leptodactylidae; in some classifications placed in the family Bufonidae
+101646537	large toothed frog of South America and Central America resembling the bullfrog
+101646745	Old World tree frogs
+101646886	type genus of the Polypedatidae
+101647014	any of various Old World arboreal frogs distinguished from true frogs by adhesive suckers on the toes
+101647183	family of one species of frog: tailed frog
+101647340	type genus of the Ascaphidae; in some classifications included in the family Leiopelmatidae
+101647541	western North American frog with a taillike copulatory organ
+101647734	primitive New Zealand frogs
+101647919	type and sole genus of the family Leiopelmatidae
+101648107	primitive New Zealand frog with four unwebbed toes on forefeet and five on hind feet
+101648275	true toads
+101648417	tailless amphibian similar to a frog but more terrestrial and having drier warty skin
+101648775	type genus of the Bufonidae; common toads of New and Old Worlds
+101648933	any toad of the genus Bufo
+101649029	largest known toad species; native to Central America; valuable destroyer of insect pests
+101649196	common toad of Europe
+101649289	common brownish-yellow short-legged toad of western Europe; runs rather than hops
+101649443	common toad of America
+101649543	Eurasian toad with variable chiefly green coloring
+101649674	small green or yellow-green toad with small black bars and stripes
+101649821	of high Sierra Nevada meadows and forest borders
+101649944	nocturnal burrowing toad of mesquite woodland and prairies of the United States southwest
+101650107	a uniformly warty stocky toad of washes and streams of semiarid southwestern United States
+101650281	of a great variety of habitats from southern Alaska to Baja California west of the Rockies
+101650444	family of Old World toads having a fixed disklike tongue
+101650642	midwife toads
+101650780	European toad whose male carries the fertilized eggs wrapped around its hind legs until they hatch
+101650997	similar in habit to Alytes obstetricians
+101651135	fire-bellied toads
+101651261	toad of central and eastern Europe having red or orange patches mixed with black on its underside
+101651459	the amphibian family of spadefoot toads
+101651634	New World spadefoot toads
+101651811	a burrowing toad of the northern hemisphere with a horny spade-like projection on each hind foot
+101652053	this spadefoot toad live in California
+101652197	this spadefoot toad lives in the southwestern United States
+101652367	this spadefoot toad lives in plains and hills and river bottoms in areas of low rainfall east of the Rocky Mountains
+101652589	the amphibian family of tree frogs
+101652808	arboreal amphibians usually having adhesive disks at the tip of each toe; of southeast Asia and Australia and America
+101653150	the type genus of the Hylidae; tree toads
+101653331	a small brown tree toad having a shrill call heard near wetlands of eastern United States and Canada in early spring
+101653542	the most commonly heard frog on the Pacific coast of America
+101653700	a small chiefly ground dweller that stays within easy jumping distance of water; of United States southwest and northern Mexico
+101653926	a form of tree toad
+101654011	cricket frogs
+101654128	either of two frogs with a clicking call
+101654282	a cricket frog of eastern and central United States
+101654419	a cricket frog of eastern United States
+101654541	chorus frogs
+101654667	any of several small North American frogs having a loud call
+101654804	burrowing tree frogs
+101654938	terrestrial burrowing nocturnal frog of grassy terrain and scrub forests having very hard upper surface of head; of the United States southwest
+101655224	narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide
+101655491	primarily tropical narrow-mouthed toads
+101655667	small secretive toad with smooth tough skin of central and western North America
+101655864	small toad of southeastern United States
+101656025	sheep frogs
+101656150	mostly of Central America
+101656251	tongueless frogs
+101656414	almost completely aquatic frog native to Africa and Panama and northern South America
+101656616	type genus of the Pipidae
+101656724	a South American toad; incubates its young in pits in the skin of its back
+101656886	in some classifications the family of the genus Xenopus which is otherwise included in the family Pipidae
+101657070	an African clawed frog; in some classifications made the type genus of a separate family Xenopodidae
+101657278	a tongueless frog native to Africa; established in the United States as result of release of laboratory and aquarium animals
+101657504	a South American toad
+101657598	an order of amphibians including caecilians
+101657757	coextensive with the order Gymnophiona: legless amphibians
+101657985	any of the small slender limbless burrowing wormlike amphibians of the order Gymnophiona; inhabit moist soil in tropical regions
+101658218	extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; Devonian through Triassic
+101658592	an amphibian of the superorder Labyrinthodontia
+101658719	formerly a suborder of Stegocephalia; amphibia having vertebrae whose component elements are fused into a single piece
+101658981	in former classifications a division of class Amphibia comprising all pre-Jurassic and some later extinct large salamandriform amphibia
+101659217	formerly a suborder of Stegocephalia; large Carboniferous and Permian amphibians having vertebrae in which some elements remain separate
+101659454	a family of reptiles
+101660364	a genus of reptiles
+101663360	class of cold-blooded air-breathing vertebrates with completely ossified skeleton and a body usually covered with scales or horny plates; once the dominant land animals
+101663732	any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms
+101664045	oldest known reptiles; turtles and extinct Permian forms
+101664233	primitive reptile having no opening in the temporal region of the skull; all extinct except turtles
+101664459	reptile having a pair of openings in the skull behind each eye
+101664701	used in former classifications to include all living reptiles except turtles; superseded by the two subclasses Lepidosauria and Archosauria
+101664915	tortoises and turtles
+101665263	a reptile of the order Chelonia
+101665425	any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming
+101665810	green turtles; hawksbills
+101666042	any of various large turtles with limbs modified into flippers; widely distributed in warm seas
+101666300	green turtles
+101666423	large tropical turtle with greenish flesh used for turtle soup
+101666580	loggerhead turtles
+101666706	very large carnivorous sea turtle; wide-ranging in warm open seas
+101666885	ridleys
+101667010	a marine turtle
+101667133	grey sea turtle of the Atlantic and Gulf Coasts of North America
+101667315	olive-colored sea turtle of tropical Pacific and Indian and the southern Atlantic oceans
+101667503	hawksbills
+101667631	pugnacious tropical sea turtle with a hawk-like beak; source of food and the best tortoiseshell
+101667879	sea turtles
+101668013	type genus of the Dermochelyidae: leatherback turtles
+101668182	wide-ranging marine turtle with flexible leathery carapace; largest living turtle
+101668402	snapping turtles
+101668573	large aggressive freshwater turtle with powerful jaws
+101668743	snapping turtles
+101668869	large-headed turtle with powerful hooked jaws found in or near water; prone to bite
+101669072	includes the alligator snapping turtle
+101669226	large species having three ridges on its back; found in southeastern United States
+101669443	mud turtles; musk turtles
+101669608	type genus of the Kinosternidae
+101669755	bottom-dwelling freshwater turtle inhabiting muddy rivers of North America and Central America
+101669943	musk turtles
+101670073	small freshwater turtle having a strong musky odor
+101670211	box and water turtles
+101670419	any of various edible North American web-footed turtles living in fresh or brackish water
+101670600	American terrapins
+101670732	of marshes along Atlantic and Gulf Coasts of United States
+101670898	sliders; red-bellied terrapin
+101671077	freshwater turtle of Chesapeake Bay tributaries having red markings on the lower shell
+101671306	freshwater turtle of United States and South America; frequently raised commercially; some young sold as pets
+101671533	large river turtle of the southern United States and northern Mexico
+101671709	box turtles
+101671832	chiefly terrestrial turtle of North America; shell can be closed tightly
+101672013	primarily a prairie turtle of western United States and northern Mexico
+101672168	painted turtles
+101672295	freshwater turtles having bright yellow and red markings; common in the eastern United States
+101672524	land tortoises
+101672733	usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except Australia and Antarctica
+101673019	type genus of the Testudinidae
+101673176	small land tortoise of southern Europe
+101673314	giant tortoises
+101673443	very large tortoises of the Galapagos and Seychelles islands
+101673602	gopher tortoises
+101673766	burrowing edible land tortoise of southeastern North America
+101673953	possible new genus for desert and Texas tortoises based on recent research
+101674120	burrowing tortoise of the arid western United States and northern Mexico; may be reclassified as a member of genus Xerobates
+101674346	close relative to the desert tortoise; may be reclassified as a member of genus Xerobates
+101674515	soft-shelled turtles
+101674673	voracious aquatic turtle with a flat flexible shell covered by a leathery skin; can inflict painful bites
+101674916	type genus of the Trionychidae
+101675073	river turtle of western United States with a warty shell; prefers quiet water
+101675252	river turtle of Mississippi basin; prefers running water
+101675408	diapsid reptiles: lizards; snakes; tuataras
+101675591	tuataras; extinct forms from middle Triassic
+101675759	coextensive with the order Rhynchocephalia: tuataras
+101675923	only extant member of the order Rhynchocephalia of large spiny lizard-like diapsid reptiles of coastal islands off New Zealand
+101676144	diapsid reptiles: snakes and lizards
+101676309	true lizards; including chameleons and geckos
+101676857	any of various reptiles of the suborder Sauria which includes lizards; in former classifications included also the crocodiles and dinosaurs
+101677105	relatively long-bodied reptile with usually two pairs of legs and a tapering tail
+101677491	geckos
+101677631	any of various small chiefly tropical and usually nocturnal insectivorous terrestrial lizards typically with immovable eyelids; completely harmless
+101677866	flying geckos
+101677993	a gecko that has membranous expansions along the sides of its body and limbs and tail that enable it to glide short distances
+101678240	banded geckos
+101678363	any of several geckos with dark bands across the body and differing from typical geckos in having movable eyelids; of United States southwest and Florida Gulf Coast
+101678605	Australian and Tasmanian lizards
+101678754	type genus of the Pygopodidae; snake-shaped pleurodont lizard with no forelimbs and only rudimentary hind limbs
+101678954	New World lizards
+101679396	lizards of the New World and Madagascar and some Pacific islands; typically having a long tail and bright throat patch in males
+101679883	type genus of the Iguanidae
+101680007	large herbivorous tropical American arboreal lizards with a spiny crest along the back; used as human food in Central America and South America
+101680254	marine iguanas
+101680388	shore-dwelling seaweed-eating lizard of the Galapagos Islands
+101680554	desert iguanas
+101680684	small long-tailed lizard of arid areas of southwestern United States and northwestern Mexico
+101680878	chuckwallas
+101680984	a herbivorous lizard that lives among rocks in the arid parts of southwestern United States and Mexico
+101681163	zebra-tailed lizard
+101681298	swift lizard with long black-banded tail and long legs; of deserts of United States and Mexico
+101681528	fringe-toed lizard
+101681646	with long pointed scales around toes; of deserts of United States and Mexico
+101681819	earless lizards
+101681948	any of several slender lizards without external ear openings: of plains of western United States and Mexico
+101682135	collared lizards
+101682267	any of several robust long-tailed lizards with collars of two dark bands; of central and western United States and northern Mexico
+101682478	leopard lizards
+101682603	any of several large lizards with many dark spots; of western United States and northern Mexico
+101682778	spiny lizards
+101682905	any of numerous lizards with overlapping ridged pointed scales; of North America and Central America
+101683119	spiny lizard often seen basking on fences in the United States and northern Mexico
+101683296	common western lizard; seen on logs or rocks
+101683454	small active lizard of United States and north to British Columbia
+101683624	a ground dweller that prefers open ground and scattered low bushes; of United States west between Rocky and Sierra Nevada Mountains
+101683841	a reptile genus of Iguanidae
+101683969	one of the most abundant lizards in the arid western United States
+101684154	a reptile genus of Iguanidae
+101684294	a climbing lizard of western United States and northern Mexico
+101684453	horned lizards
+101684581	insectivorous lizard with hornlike spines on the head and spiny scales on the body; of western North America
+101684813	of arid and semiarid open country
+101684934	a reptile genus of Iguanidae
+101685076	small crested arboreal lizard able to run on its hind legs; of tropical America
+101685229	New World chameleons
+101685355	small arboreal tropical American insectivorous lizards with the ability to change skin color
+101685561	worm lizards
+101685677	type genus of the Amphisbaenidae
+101685842	a lizard of the genus Amphisbaena; harmless wormlike limbless lizard of warm or tropical regions having concealed eyes and ears and a short blunt tail
+101686069	night lizards
+101686199	small secretive nocturnal lizard of southwestern North America and Cuba; bear live young
+101686365	skinks
+101686541	type genus of Scincidae
+101686653	a reptile genus of Scincidae
+101686774	alert agile lizard with reduced limbs and an elongated body covered with shiny scales; more dependent on moisture than most lizards; found in tropical regions worldwide
+101687076	New World skinks
+101687219	found in western North American grasslands and open woodlands
+101687382	frequents oak and pine habitats in rocky mountainous areas of United States southwest and Mexico
+101687582	small family of spiny ovoviviparous African lizards
+101687748	type genus of the Cordylidae; spiny lizards somewhat resembling tiny crocodiles
+101687918	whiptails; etc.
+101688080	tropical New World lizard with a long tail and large rectangular scales on the belly and a long tail
+101688320	whiptails
+101688449	any of numerous very agile and alert New World lizards
+101688685	very swift lizard of eastern and central United States
+101688861	having distinct longitudinal stripes: of Colorado Plateau from Arizona to western Colorado
+101689044	having longitudinal stripes overlaid with light spots; upland lizard of United States southwest and Mexico
+101689250	active lizard having a network of dusky dark markings; of semiarid areas from Oregon and Idaho to Baja California
+101689449	markings are darker and more marked than in western whiptail; from southeastern Colorado to eastern Chihuahua
+101689650	tejus
+101689769	large (to 3 feet) blackish yellow-banded South American lizard; raid henhouses; used as food
+101689931	crocodile-like lizard of South America having powerful jaws for crushing snails and mussels
+101690082	an Old World reptile family of Sauria
+101690306	a lizard of the family Agamidae
+101690497	type genus of the Agamidae
+101690619	small terrestrial lizard of warm regions of the Old World
+101690747	frilled lizards
+101690884	large arboreal insectivorous Australian lizard with a ruff of skin around the neck
+101691069	a reptile genus known as flying dragons or flying lizards
+101691230	any of several small tropical Asian lizards capable of gliding by spreading winglike membranes on each side of the body
+101691453	genus of Australian desert lizard
+101691602	any lizard of the genus Moloch
+101691722	desert lizard that feeds on ants
+101691867	alligator lizards
+101692052	any of a small family of lizards widely distributed in warm areas; all are harmless and useful as destroyers of e.g. slugs and insects
+101692319	alligator lizards
+101692452	slim short-limbed lizard having a distinctive fold on each side that permits expansion; of western North America
+101692646	type genus of the Anguidae: blindworms
+101692790	small burrowing legless European lizard with tiny eyes; popularly believed to be blind
+101692980	glass lizards
+101693107	snakelike lizard of Europe and Asia and North America with vestigial hind limbs and the ability to regenerate its long fragile tail
+101693344	monotypic family of Mexican lizards
+101693498	type and sole genus of Xenosauridae: slender-bodied Mexican lizards having the upper surface covered with tiny granules and tubercles
+101693726	legless lizards
+101693858	degenerate wormlike burrowing lizard of California closely related to alligator lizards
+101694025	stout-bodied lizards
+101694166	one species
+101694293	a stout-bodied pleurodont lizard of Borneo
+101694423	only known venomous lizards
+101694592	any of two or three large heavy-bodied lizards; only known venomous lizards
+101694784	type genus of the Helodermatidae; American venomous lizards
+101694974	large orange and black lizard of southwestern United States; not dangerous unless molested
+101695164	lizard with black and yellowish beadlike scales; of western Mexico
+101695354	Old World lizards
+101695505	Old World terrestrial lizard
+101695661	type genus of the Lacertidae
+101695816	a common and widely distributed lizard of Europe and central Asia
+101695975	a common Eurasian lizard about a foot long
+101696113	Old World chameleons; in some classifications they are considered a superfamily of Sauria
+101696424	lizard of Africa and Madagascar able to change skin color and having a projectile tongue
+101696636	type genus of the Chamaeleontidae
+101696819	a chameleon found in Africa
+101696952	a kind of chameleon
+101697071	monitor lizards
+101697199	type and sole extant genus of the Varanidae
+101697350	any of various large tropical carnivorous lizards of Africa and Asia and Australia; fabled to warn of crocodiles
+101697596	destroys crocodile eggs
+101697701	the largest lizard in the world (10 feet); found on Indonesian islands
+101697900	a large subclass of diapsid reptiles including: crocodiles; alligators; dinosaurs; pterosaurs; plesiosaurs; ichthyosaurs; thecodonts
+101698322	extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts
+101698667	early archosaurian carnivore
+101698792	early archosaurian carnivore
+101698923	crocodiles; alligators; caimans; gavials
+101699166	former name for the order Crocodylia
+101699274	extant archosaurian reptile
+101699490	true crocodiles
+101699643	type genus of the Crocodylidae
+101699819	large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters
+101700098	a dangerous crocodile widely distributed in Africa
+101700252	estuarine crocodile of eastern Asia and Pacific islands
+101700390	a variety of crocodile
+101700478	a genus of Malayan crocodiles
+101700619	crocodile of southeast Asia similar to but smaller than the gavial
+101700785	alligators; caimans
+101700944	type genus of the Alligatoridae
+101701075	either of two amphibious reptiles related to crocodiles but with shorter broader snouts
+101701281	large alligator of the southeastern United States
+101701423	small alligator of the Yangtze valley of China having unwebbed digits
+101701577	caimans
+101701681	a semiaquatic reptile of Central and South America that resembles an alligator but has a more heavily armored belly
+101701895	caiman with bony ridges about the eyes; found from southern Mexico to Argentina
+101702056	gavials
+101702178	type genus of the Gavialidae
+101702316	large fish-eating Indian crocodilian with a long slender snout
+101702472	any of numerous extinct terrestrial reptiles of the Mesozoic era
+101702717	extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods)
+101703111	herbivorous dinosaur with a pelvis like that of a bird
+101703395	primitive ornithischian dinosaur found in Argentina; early Triassic
+101703565	primitive dinosaur found in Argentina
+101703693	primitive ornithischian dinosaur found in Brazil
+101703846	primitive dinosaur found in Brazil
+101703975	armored dinosaurs: stegosaurs and ankylosaurs
+101704192	dinosaurs having bony armour
+101704338	quadrupedal armored herbivore of the Jurassic and Cretaceous
+101704500	herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon
+101704728	armored herbivorous dinosaurs of the Cretaceous
+101704897	having the back covered with thick bony plates; thought to have walked with a sprawling gait resembling a lizard's
+101705120	heavily armored and highly spiked dinosaur with semi-upright posture
+101705264	includes boneheaded (pachycephalosaurs) and horned (ceratopsian) dinosaurs
+101705503	boneheaded dinosaurs; late Cretaceous
+101705652	bipedal herbivorous dinosaurs with bony crowns
+101705802	bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found
+101705982	horned dinosaurs
+101706210	any of several four-footed herbivorous dinosaurs with enormous beaked skulls; of the late Cretaceous in North America and Mongolia
+101706507	American ceratopsian dinosaurs
+101706637	small horned dinosaurs
+101706744	small horned dinosaur
+101706825	genus of herbivorous horned dinosaurs
+101706964	huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill
+101707138	genus of horned dinosaurs
+101707267	an unusual ceratopsian dinosaur having many large spikes around the edge of its bony frill and a long nose horn; late Cretaceous
+101707488	most primitive genus of horned dinosaurs; early Cretaceous
+101707651	primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal
+101707888	widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon)
+101708232	bipedal herbivorous dinosaur
+101708358	duck-billed dinosaurs; upper Cretaceous
+101708575	any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic
+101708888	genus of large duck-billed dinosaurs; late Cretaceous
+101709042	one of the largest and most famous duck-billed dinosaurs
+101709174	genus of duck-billed dinosaurs of late Cretaceous
+101709327	duck-billed dinosaur with nasal passages that expand into a crest like a hollow helmet
+101709506	duck-billed dinosaurs of Canada
+101709641	duck-billed dinosaur from Canada found as a fossilized mummy with skin
+101709790	a reptile genus of the suborder Euronithopoda
+101709935	large duck-billed dinosaur of the Cretaceous period
+101710074	iguanodons
+101710207	type genus of the Iguanodontidae
+101710339	massive herbivorous bipedal dinosaur with a long heavy tail; common in Europe and northern Africa; early Cretaceous period
+101710536	extinct terrestrial reptiles: theropods (carnivorous); sauropods (herbivorous)
+101710747	herbivorous or carnivorous dinosaur having a three-pronged pelvis like that of a crocodile
+101710973	gigantic herbivorous dinosaurs having huge bodies with long necks and small heads: Prosauropoda and Sauropoda (apatosaurus, diplodocus and titanosaurs)
+101711289	the earliest known dinosaurs
+101711419	any of the sauropod dinosaurs
+101711639	very large herbivorous dinosaur of the Jurassic and Cretaceous having a small head a long neck and tail and five-toed limbs; largest known land animal
+101711919	large quadrupedal herbivorous dinosaurs with very long neck and tail; late Jurassic
+101712125	huge quadrupedal herbivorous dinosaur common in North America in the late Jurassic
+101712364	huge quadrupedal herbivorous dinosaur; late Jurassic
+101712517	a dinosaur that could grow to be as tall as a building five stories tall
+101712676	a reptile genus of the suborder Sauropoda
+101712818	a huge quadrupedal herbivore with long neck and tail; of late Jurassic in western North America
+101712989	herbivorous dinosaurs of the Cretaceous
+101713170	genus of herbivorous dinosaurs flourishing during the Cretaceous in South America
+101713388	amphibious quadrupedal herbivorous dinosaur with a long thin neck and whiplike tail; of the Cretaceous mostly in the southern hemisphere
+101713634	enormous dinosaur of the middle Cretaceous found in Argentina
+101713801	huge herbivorous dinosaur of Cretaceous found in Argentina
+101713938	genus of large herbivorous dinosaurs of Cretaceous found in western North America
+101714137	huge herbivorous dinosaur of the Cretaceous found in western North America
+101714303	carnivorous saurischian dinosaurs with short forelimbs; Jurassic and Cretaceous
+101714649	any of numerous carnivorous dinosaurs of the Triassic to Cretaceous with short forelimbs that walked or ran on strong hind legs
+101715073	primitive saurischian dinosaurs
+101715247	primitive saurischian carnivorous dinosaurs
+101715393	primitive medium-sized theropod; swift-running bipedal carnivorous dinosaur having grasping hands with sharp claws and a short horn between the nostrils; Jurassic in North America
+101715681	late Triassic carnivorous saurischian dinosaurs
+101715811	one of the oldest known dinosaurs; late Triassic; cannibalistic
+101715951	largest carnivorous land animals ever known
+101716149	large carnivorous bipedal dinosaur having huge claws
+101716276	includes a single species
+101716405	large carnivorous bipedal dinosaur having enormous teeth with knifelike serrations; may have been a scavenger rather than an active predator; later Cretaceous period in North America
+101716700	carnivorous dinosaur of North America; late Jurassic
+101716872	late Jurassic carnivorous dinosaur; similar to but somewhat smaller than tyrannosaurus
+101717045	a reptile genus of Theropoda
+101717177	very small bipedal carnivorous dinosaur of the late Jurassic in Bavaria
+101717327	primitive theropod found in Argentina; early Triassic
+101717484	a kind of theropod dinosaur found in Argentina
+101717623	primitive theropod found in Argentina; early Triassic
+101717775	a theropod dinosaur of the genus Eoraptor
+101717890	megalosaurs
+101718024	type genus of the Megalosauridae
+101718159	gigantic carnivorous bipedal dinosaur of the Jurassic or early Cretaceous in Europe
+101718333	lightly built medium-size theropods
+101718529	lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes
+101718763	small toothless saurischian dinosaurs; later Cretaceous period in Canada
+101718939	small light-boned toothless dinosaur resembling an ostrich in size and proportions
+101719100	a reptile genus of Ornithomimida
+101719235	lightly built medium-sized theropod with long limbs and neck
+101719373	advanced theropods including oviraptorids and dromaeosaurs and possibly even modern birds
+101719657	advanced carnivorous theropod
+101719870	advanced carnivorous theropod
+101719976	advanced carnivorous theropod
+101720108	small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs
+101720307	swift-running bipedal dinosaurs
+101720501	a kind of maniraptor
+101720598	advanced bipedal carnivorous dinosaur
+101720737	swift agile wolf-sized bipedal dinosaur having a large curved claw on each hind foot; of the Cretaceous
+101720917	advanced bipedal carnivorous dinosaur
+101721055	large (20-ft) and swift carnivorous dinosaur having an upright slashing claw 15 inches long on each hind foot; early Cretaceous
+101721273	authorities disagree over whether to classify the genus as bird or dinosaur
+101721449	a turkey-sized long-legged fossil 75 million years old found in the Gobi Desert having bird-like fused wrist bones and keeled breastbone and a long tail resembling a dinosaur's; short forelimbs end in a single claw instead of wings; classification as bird or dinosaur is in dispute
+101721816	extinct reptiles of the Permian to Jurassic considered ancestral to mammals
+101722044	extinct reptile having a single pair of lateral temporal openings in the skull
+101722286	extinct mammal-like reptiles found inhabiting all continents from the mid Permian to late Triassic
+101722555	probably warm-blooded; considered direct ancestor of mammals
+101722758	a reptile genus of Therapsida
+101722907	shrew-sized protomammal from the Alberta region of Canada; from about 55 million years ago (much more recent than other mammal-like reptiles)
+101723137	a division of the order Therapsida from the Triassic period comprising small carnivorous tetrapod reptiles often with mammal-like teeth
+101723408	small carnivorous reptiles
+101723508	a genus of reptiles of the division Cynodontia
+101723651	a division of Therapsida
+101723815	a kind of therapsid
+101723910	early reptile found in Argentina
+101724045	extinct reptiles of the later Triassic period
+101724208	intermediate in form between the therapsids and most primitive true mammals
+101724359	edaphosaurus; dimetrodon
+101724539	large primitive reptile having a tall spinal sail; of the Permian or late Paleozoic in Europe and North America
+101724726	a family of reptiles of the order Pelycosauria
+101724895	type genus of the Edaphosauridae
+101725030	heavy-bodied reptile with a dorsal sail or crest; of the late Paleozoic
+101725179	a reptile genus of Pelycosauria
+101725311	carnivorous dinosaur of the Permian in North America having a crest or dorsal sail
+101725469	extinct flying reptiles: pterosaurs
+101725639	an extinct reptile of the Jurassic and Cretaceous having a bird-like beak and membranous wings supported by the very long fourth digit of each forelimb
+101725900	a reptile family in the order Pterosauria
+101726066	a reptile genus of Pterodactylidae
+101726220	extinct flying reptile
+101726319	extinct terrestrial reptiles having teeth set in sockets; of the late Permian to Triassic
+101726524	presumably in the common ancestral line to dinosaurs and crocodiles and birds
+101726696	extinct marine reptiles: ichthyosaurs
+101726872	any of several marine reptiles of the Mesozoic having a body like a porpoise with dorsal and tail fins and paddle-shaped limbs
+101727111	later ichthyosaurs of the Jurassic and Cretaceous; widely distributed in both hemispheres
+101727344	type genus of the Ichthyosauridae
+101727481	ichthyosaurs of the Jurassic
+101727588	a reptile genus of Ichthyosauridae
+101727727	an ichthyosaur of the genus Stenopterygius
+101727881	extinct marine reptiles: plesiosaurs; nothosaurs
+101728068	any of the plesiosaurs
+101728211	a reptile genus of suborder Plesiosauria
+101728354	extinct marine reptile with a small head on a long neck a short tail and four paddle-shaped limbs; of the Jurassic and Cretaceous
+101728574	a suborder of Sauropterygia
+101728720	a genus of Nothosauria
+101728844	extinct marine reptile with longer more slender limbs than plesiosaurs and less completely modified for swimming
+101729031	snakes
+101729333	limbless scaly elongate reptile; some are venomous
+101729601	nonvenomous snakes; about two-thirds of all living species
+101730287	mostly harmless temperate-to-tropical terrestrial or arboreal or aquatic snakes
+101730907	any of various harmless North American snakes that were formerly believed to take tail in mouth and roll along like a hoop
+101731086	thunder snake
+101731213	small reddish wormlike snake of eastern United States
+101731379	a genus of reptiles of the family Colubridae including ringneck snakes
+101731561	any of numerous small nonvenomous North American snakes with a yellow or orange ring around the neck
+101731774	a genus of small colubrid snakes containing the North American hognose snakes
+101731963	harmless North American snake with upturned nose; may spread its head and neck or play dead when disturbed
+101732174	leaf-nosed snakes
+101732313	any of various pale blotched snakes with a blunt snout of southwestern North America
+101732479	North American green snakes
+101732618	either of two North American chiefly insectivorous snakes that are green in color
+101732826	of western and central United States
+101732948	of southern and eastern United States
+101733070	African green snakes
+101733204	any of numerous African colubrid snakes
+101733320	racers
+101733453	slender fast-moving North American snakes
+101733601	blackish racer of the eastern United States that grows to six feet
+101733778	bluish-green blacksnake found from Ohio to Texas
+101733918	slender fast-moving Eurasian snake
+101734059	whip snakes
+101734186	any of several small fast-moving snakes with long whiplike tails
+101734405	a whipsnake of southern United States and Mexico; tail resembles a braided whip
+101734582	a whipsnake of scrublands and rocky hillsides
+101734734	both terrestrial and arboreal snake of United States southwest
+101734885	any of various nonvenomous rodent-eating snakes of North America and Asia
+101735086	North American rat snakes
+101735255	large harmless snake of southeastern United States; often on farms
+101735430	large harmless shiny black North American snake
+101735630	large North American snake
+101735735	Asian rat snakes
+101735855	enter buildings in pursuit of prey
+101735987	glossy snake
+101736107	nocturnal burrowing snake of western United States with shiny tan scales
+101736275	bull snakes
+101736398	any of several large harmless rodent-eating North American burrowing snakes
+101736598	bull snake of western North America that invades rodent burrows
+101736745	any of several bull snakes of eastern and southeastern United States found chiefly in pine woods; now threatened
+101736914	king snakes and milk snakes
+101737059	any of numerous nonvenomous North American constrictors; feed on other snakes and small mammals
+101737278	widespread in United States except northern regions; black or brown with yellow bands
+101737449	nonvenomous tan and brown king snake with an arrow-shaped occipital spot; southeastern ones have red stripes like coral snakes
+101737703	garter snakes
+101737830	any of numerous nonvenomous longitudinally-striped viviparous North American and Central American snakes
+101738080	a garter snake that is widespread in North America
+101738218	slender yellow-striped North American garter snake; prefers wet places
+101738369	yellow- or reddish-striped snake of temperate woodlands and grasslands to tropics
+101738539	lined snakes
+101738673	secretive snake of city dumps and parks as well as prairies and open woods; feeds on earthworms; of central United States
+101738897	ground snakes
+101739016	small shy brightly-ringed terrestrial snake of arid or semiarid areas of western North America
+101739210	ground snakes
+101739337	ground snakes
+101739437	in some classifications placed in genus Haldea; small reddish-grey snake of eastern North America
+101739662	any of various mostly harmless snakes that live in or near water
+101739838	water snakes; a cosmopolitan genus
+101739997	North American water snakes
+101740113	in some classifications placed in the genus Nerodia; western United States snake that seldom ventures far from water
+101740369	any of numerous North American water snakes inhabiting fresh waters
+101740516	harmless European snake with a bright yellow collar; common in England
+101740706	a small harmless grass snake
+101740816	a genus of Colubridae
+101740947	harmless woodland snake of southeastern United States
+101741111	sand snakes
+101741242	small North American burrowing snake
+101741372	a sand snake of southwestern United States; lives in fine to coarse sand or loamy soil in which it swims'; banding resembles that of coral snakes
+101741606	black-headed snakes
+101741735	small secretive ground-living snake; found from central United States to Argentina
+101741901	vine snakes
+101742022	slender arboreal snake found from southern Arizona to Bolivia
+101742159	lyre snakes
+101742288	mildly venomous snake with a lyre-shaped mark on the head; found in rocky areas from southwestern United States to Central America
+101742512	of desert regions of southwestern North America
+101742646	night snakes
+101742772	nocturnal prowler of western United States and Mexico
+101742924	blind snakes
+101743034	blind snakes
+101743192	wormlike burrowing snake of warm regions having vestigial eyes
+101743362	blind snakes of Asia and Africa and Americas
+101743526	burrows among roots of shrubs and beneath rocks in desert and rocky hillside areas and beach sand of western United States
+101743757	a genus of Colubridae
+101743873	large dark-blue nonvenomous snake that invades burrows; found in southern North America and Mexico
+101744083	a variety of indigo snake
+101744203	any of various large nonvenomous snakes that kill their prey by crushing it in its coils
+101744385	boas and pythons
+101744584	any of several chiefly tropical constrictors with vestigial hind limbs
+101744813	very large boa of tropical America and West Indies
+101744951	boas of western North America
+101745088	boa of grasslands and woodlands of western North America; looks and feels like rubber with tail and head of similar shape
+101745321	boas of western North America
+101745462	boa of rocky desert of southwestern United States
+101745608	anacondas
+101745727	large arboreal boa of tropical South America
+101745864	Old World boas: pythons; in some classifications considered a separate family from Boidae
+101746090	in some classifications a family separate from Boidae comprising Old World boas
+101746246	large Old World boas
+101746428	Old World boas
+101746577	Australian python with a variegated pattern on its back
+101746741	of southeast Asia and East Indies; the largest snake in the world
+101746911	very large python of southeast Asia
+101747042	very large python of tropical and southern Africa
+101747196	a python having the color of amethyst
+101747298	cobras; kraits; mambas; coral snakes; Australian taipan and tiger snakes
+101747766	any of numerous venomous fanged snakes of warmer parts of both hemispheres
+101748125	any of several venomous New World snakes brilliantly banded in red and black and either yellow or white; widely distributed in South America and Central America
+101748421	coral snakes
+101748543	ranges from Central America to southeastern United States
+101748704	coral snakes
+101748832	ranges from Central America to southwestern United States
+101749000	any of various venomous elapid snakes of Asia and Africa and Australia
+101749206	Asian coral snakes
+101749368	of India
+101749459	African coral snakes
+101749593	small widely distributed arboreal snake of southern Africa banded in black and orange
+101749785	Australian coral snakes
+101749926	small venomous but harmless snake marked with black-and-white on red
+101750107	copperheads
+101750230	venomous but sluggish reddish-brown snake of Australia
+101750380	cobras
+101750526	venomous Asiatic and African elapid snakes that can expand the skin of the neck into a hood
+101750741	(zoology) an expandable part or marking that resembles a hood on the head or neck of an animal
+101750905	a cobra of tropical Africa and Asia
+101751030	cobra used by the Pharaohs as a symbol of their power over life and death
+101751201	king cobra
+101751327	aggressive cobra widely distributed in Africa; rarely bites but spits venom that may cause blindness
+101751547	large cobra of southeastern Asia and the East Indies; the largest venomous snake; sometimes placed in genus Naja
+101751782	ringhals
+101751885	highly venomous snake of southern Africa able to spit venom up to seven feet
+101752069	mambas
+101752223	arboreal snake of central and southern Africa whose bite is often fatal
+101752383	a highly venomous southern African mamba dreaded because of its quickness and readiness to bite
+101752580	green phase of the black mamba
+101752668	Australian elapid snakes
+101752808	venomous Australian snake resembling an adder
+101752956	tiger snakes
+101753078	highly venomous brown-and-yellow snake of Australia and Tasmania
+101753239	venomous Australian blacksnakes
+101753384	large semiaquatic snake of Australia; black above with red belly
+101753561	kraits
+101753677	brightly colored venomous but nonaggressive snake of southeastern Asia and Malay peninsula
+101753856	sluggish krait banded with black and yellow
+101753994	taipans
+101754113	large highly venomous snake of northeastern Australia
+101754262	sea snakes

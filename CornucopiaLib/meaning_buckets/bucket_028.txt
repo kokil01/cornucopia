@@ -1,0 +1,1000 @@
+104865686	the trait of feeling no fear
+104865863	fearless self-possession in the face of danger
+104866016	the trait of being willing to undertake things that involve risk or danger
+104866408	the trait of being adventurous
+104866554	boldness as manifested in rash and daredevil behavior
+104866680	fearless daring
+104866867	behavior marked by a bold defiance of the proprieties and lack of shame
+104867047	the trait of showing courage and determination in spite of possible loss or injury
+104867296	the trait of lacking courage
+104867503	meanspirited cowardice
+104867600	the trait of lacking boldness and courage
+104867817	the trait of being afraid
+104867990	fearfulness in venturing into new and unknown places or activities
+104868216	contemptible fearfulness
+104868374	abject pusillanimity
+104868452	despicable cowardice
+104868550	the trait of lacking courage and determination; fearful of loss or injury
+104868717	the trait of being resolute
+104869236	the trait of resolutely controlling your own behavior
+104869467	control of your emotions
+104869613	freedom from wavering or indecision; constancy of resolve or conduct
+104869823	resoluteness evidenced by strength of character
+104869978	self-control in a crisis; ability to say or do the right thing in an emergency
+104870119	firm resoluteness in purpose or opinion or action
+104870305	resolute adherence to your own ideas or desires
+104870589	the trait of refusing to repent
+104870728	the trait of being intransigent; stubbornly refusing to compromise
+104870906	characterized by one unified purpose
+104871024	resoluteness by virtue of being unyielding and inflexible
+104871200	the trait of resoluteness as evidenced by firmness of character or purpose
+104871431	the quality of being determined to do or achieve something; firmness of purpose
+104871746	persistent determination
+104872055	tireless determination
+104872247	steadfast resolution
+104872345	persevering determination to perform a task
+104872733	great and constant diligence and attention
+104872953	the quality of being intent and concentrated
+104873152	the quality of concentrating on one central objective
+104873309	the quality of being constantly diligent and attentive
+104873469	diligent study
+104873596	exaggerated studiousness
+104873696	the trait of being irresolute; lacking firmness of purpose
+104873902	the trait of being unpredictably irresolute
+104874097	the trait of irresolution; a lack of firmness of character or purpose
+104874361	the quality of being open and truthful; not deceitful or hypocritical
+104874671	truth or reality
+104874770	the quality of hearty sincerity
+104874931	without hypocrisy
+104875102	the quality of not being open or truthful; deceitful or hypocritical
+104875361	insincerity by virtue of pretending to have qualities or beliefs that you do not really have
+104875563	the quality of being hypocritically devout
+104875718	smug self-serving earnestness
+104875961	the quality of deserving honor or respect; characterized by honor
+104876319	the quality of being honorable and having a good name
+104876469	conformity to high standards of ethics or excellence
+104876618	the quality of deserving veneration
+104876782	moral soundness
+104877024	complete and confirmed integrity; having strong moral principles
+104877253	characterized by integrity or probity
+104877401	the incapability of being corrupted
+104877535	the quality of elevation of mind and exaltation of character or ideals or conduct
+104877838	elevated ideals or conduct; the quality of believing that ideals should be pursued
+104878084	nobility in thought or feeling or style
+104878197	honorableness by virtue of being respectable and having a good reputation
+104878454	the quality of being polite and respectable
+104878569	the quality of being honest
+104878915	the quality of being honest and straightforward in attitude and speech
+104879211	having honest intentions
+104879431	the quality of being truthful
+104879609	unwillingness to tell lies
+104879726	openly straightforward or frank
+104879871	ingenuousness by virtue of being free from artful deceit
+104880021	a quality appropriate to a parent
+104880153	the quality of having or showing the tenderness and warmth and affection of or befitting a mother
+104880500	the benignity and protectiveness of or befitting a father
+104880745	the quality of not deserving honor or respect
+104880999	the quality of being ignoble
+104881134	lacking honor or integrity
+104881281	the quality of unscrupulous dishonesty
+104881418	morally dishonorable
+104881604	dishonorableness by virtue of lacking respectability or a good reputation
+104881867	the quality of being dishonest
+104882134	the quality of being deceptive
+104882308	an appearance of truth that is false or deceptive; seeming plausibility
+104882547	the quality of being fraudulent
+104882663	corruptness among public officials
+104882751	the quality of being deceitful and underhanded
+104882923	the quality of being a slippery rascal
+104883130	having a disposition to steal
+104883248	the quality of being untruthful
+104883430	the tendency to be untruthful
+104883569	the quality of being disingenuous and lacking candor
+104883756	the quality of being crafty
+104883900	the quality of being adroit in taking unfair advantage
+104884083	crafty artfulness (especially in deception)
+104884180	the quality of being faithful
+104884459	faithfulness and dependability in personal attachments (especially sexual fidelity)
+104884616	complete and wholehearted fidelity
+104884725	the quality of being loyal
+104884978	loyalty in the face of trouble and difficulty
+104885133	the loyalty that citizens owe to their country (or subjects to their sovereign)
+104885296	love of country and willingness to sacrifice for it
+104885629	loyalty to the interests of a particular region
+104885734	loyalty to the United States and its institutions
+104885841	fanatical patriotism
+104886056	the quality of being unfaithful
+104886287	unfaithfulness by virtue of being unreliable or treacherous
+104886535	the quality of being disloyal
+104886693	disloyalty to the government or to established authority
+104886853	disloyalty by virtue of subversive behavior
+104887074	the quality of aiding an enemy
+104887159	betrayal of a trust
+104887333	the quality of being designed to entrap
+104887468	the quality or character of being intellectually sophisticated and worldly through cultivation or experience or disillusionment
+104887768	lack of sophistication or worldliness
+104888025	the quality of innocent naivete
+104888228	an innocent quality or thing or act
+104888351	tendency to believe too readily and therefore to be easily deceived
+104888564	a lack of penetration or subtlety
+104888818	the trait of being well behaved
+104889024	the trait of practicing self discipline
+104889193	the trait of great self-denial (especially refraining from worldly pleasures)
+104889409	asceticism as a form of religious life; usually conducted in a community under a common rule and characterized by celibacy and poverty and obedience
+104889633	monasticism characterized by solitude in which the social dimension of life is sacrificed to the primacy of religious experience
+104889817	the trait of abstaining (especially from alcohol)
+104890008	the exercise of self constraint in sexual matters
+104890163	discipline in personal and social activities
+104890438	exhibiting restraint imposed on the self
+104890631	self-restraint in the expression of emotion (especially fear or grief)
+104890809	the trait of avoiding excesses
+104890999	moderation in or abstinence from alcohol or other drugs
+104891137	moderation in eating and drinking
+104891267	the quality of being inhibited
+104891372	voluntary control over urinary and fecal discharge
+104891497	an inhibition or ban resulting from social custom or emotional aversion
+104891645	the trait of lacking discipline
+104891822	an inability to resist the gratification of whims and desires
+104892012	indiscipline with regard to sensuous pleasures
+104892190	the quality of a rake
+104892286	the quality of lacking restraint
+104892466	the quality of being intemperate
+104892593	the trait of lacking restraint or control; reckless freedom from inhibition or worry
+104892804	freedom from restraint
+104892979	unrestrained excitement or enthusiasm
+104893185	lack of restraint in use of alcohol
+104893296	habitual eating to excess
+104893430	an excessive desire for food
+104893597	extreme gluttony
+104893841	the trait of being spurred on by a dislike of falling below your standards
+104893985	pride in your city
+104894076	the quality of being worthy of esteem or respect
+104894324	the trait of being unduly vain and conceited; false pride
+104894568	outspoken conceit
+104894692	an exaggerated opinion of your own importance
+104894896	adopting a vain conceited posture
+104894985	an exaggerated estimate of your own value and importance
+104895107	overbearing pride evidenced by a superior manner toward inferiors
+104895463	the trait of displaying arrogance by patronizing those considered inferior
+104895705	the manifestation of scorn and contempt
+104895898	overbearing pride or presumption
+104895983	the trait of being imperious and overbearing
+104896195	displaying a sense of being better than others
+104896357	the trait of condescending to those of lower social status
+104896532	tendency to associate with only a select group
+104896722	a disposition to be humble; a lack of false pride
+104896974	a disposition to be patient and long suffering
+104897161	the quality of lacking a strong character; an irresolute disposition
+104897307	the trait of utilizing knowledge and experience with common sense and insight
+104897556	the trait of forming opinions by distinguishing and evaluating
+104897741	wisdom as evidenced by the possession of knowledge
+104898060	wisdom in the management of public affairs
+104898205	the trait of judging wisely and objectively
+104898379	the trait of being circumspect and prudent
+104898528	the trait of acting stupidly or rashly
+104898753	the trait of being injudicious
+104898878	a ludicrous folly
+104899139	the quality of being asinine; stupidity combined with stubbornness
+104899279	the capacity to assess situations or circumstances shrewdly and to draw sound conclusions
+104899539	judgment based on observable phenomena and uninfluenced by emotions or personal prejudices
+104899739	judgment based on individual personal impressions and feelings and opinions rather than external facts
+104899989	discretion in practical affairs
+104900165	the prudence and care exercised by someone in the management of resources
+104900367	providence by virtue of planning prudently for the future
+104900553	prudence in avoiding waste
+104900720	extreme care in spending money; reluctance to spend money unnecessarily
+104900982	frugality in the expenditure of money or resources
+104901232	a lack of caution in practical affairs
+104901399	the trait of acting rashly and without prudence
+104901639	a frivolous lack of prudence
+104901747	a lack of prudence and care by someone in the management of resources
+104902002	the trait of spending extravagantly
+104902159	the trait of wasting resources
+104902441	the trait of believing in the honesty and reliability of others
+104902753	tendency to believe readily
+104902890	too much credulity
+104902968	the trait of not trusting others
+104903174	being of a suspicious nature
+104903356	diligence in keeping clean
+104903512	the trait of being meticulous about matters of taste or style
+104903710	the trait of being neat and orderly
+104903901	lack of cleanly habits
+104904055	habitual uncleanliness
+104904172	in the manner of a slattern
+104904329	the trait of being excessively fastidious and easily shocked
+104904605	the trait of being untidy and messy
+104904781	untidiness (especially of clothing and appearance)
+104904939	(behavioral attributes) the way a person behaves toward other people
+104905264	social deportment
+104905385	conduct as a citizen
+104905511	flamboyantly reckless and boastful behavior
+104905614	correct or appropriate behavior
+104905981	propriety in manners and conduct
+104906208	appropriate conduct; doing the right thing
+104906378	the quality of conformity to social expectations
+104906593	behavior that conforms to social conventions of the time
+104906750	the quality of being without an error or fault
+104906890	avoidance of expressions or actions that can be perceived to exclude or marginalize or insult people who are socially disadvantaged or discriminated against
+104907157	exaggerated and arrogant properness
+104907298	formality and propriety of manner
+104907413	the trait of behaving with reserve and decorum
+104907534	a sense of propriety and consideration for others
+104907774	the quality of being becoming
+104907916	the quality of conforming to standards of propriety and morality
+104908124	freedom from vanity or conceit
+104908329	excessive or affected modesty
+104908503	an improper demeanor
+104908776	lack of conformity to social expectations
+104908931	the use of expressions or actions that can be perceived to exclude or marginalize or insult groups who are socially disadvantaged or discriminated against
+104909173	inappropriate conduct
+104909342	the trait of being indelicate and offensive
+104909460	behavior or language bordering on indelicacy
+104909647	a lack of decorum
+104909845	a lack of consideration for others
+104909974	the quality of being unbecoming
+104910102	the quality of being indecent
+104910313	the trait of being vain and conceited
+104910424	the quality of being outrageous
+104910545	the trait of behaving in an obscene manner
+104910855	obscenity in speech or writing
+104910990	steadiness of mind under stress
+104911339	great coolness and composure under strain
+104911529	a disposition free from stress or emotion
+104911737	peace of mind
+104911841	a temperament that is perturbed and lacking in composure
+104912028	the trait of seeming ill at ease
+104912173	a disposition that is confused or nervous and upset
+104912365	the trait of being easily persuaded
+104912723	capable of being managed or controlled
+104912874	the trait of being agreeably submissive and manageable
+104913019	the attribute of having been domesticated
+104913203	the trait of being cooperative
+104913450	the trait of being willing to obey
+104913648	the trait of being willing to yield to the will of another person or a superior force etc.
+104913889	abject or cringing submissiveness
+104914100	fawning obsequiousness
+104914197	submission to others or to outside influences
+104914330	the quality of obedient submissiveness
+104914446	the trait of being hard to influence or control
+104914752	the trait of being unmanageable
+104915003	an intractably barbarous or uncultivated state of nature
+104915168	intentionally contemptuous behavior or attitude
+104915359	defiance of authority
+104915460	noisy defiance
+104915573	the trait of being prone to disobedience and lack of discipline
+104915898	likely to stop abruptly and unexpectedly
+104916012	the trait of being difficult to handle or overcome
+104916195	deliberate and stubborn unruliness and resistance to guidance or discipline
+104916447	meanspirited disagreeable contrariness
+104916591	the trait of being unwilling to obey
+104916740	an attribute of mischievous children
+104916898	the trait of indulging in disreputable pranks
+104917064	an unruly disposition to do as one pleases
+104917312	a way of acting or behaving
+104917554	dignified manner or conduct
+104917739	manner or conduct of a physician in the presence of a patient
+104917861	formality in bearing and appearance
+104918025	the manner and dress of a fop or dandy
+104918150	acting in a manner that is gentle and mild and even-tempered
+104918597	a manner that strictly observes all forms and ceremonies
+104918954	a ceremonial manner
+104919071	an elaborate manner of doing something
+104919229	a manner that does not take forms and ceremonies seriously
+104919417	a casual manner
+104919683	casualness in use of language
+104919787	an unceremonial manner
+104919909	a courteous manner
+104920159	a courteous manner that respects accepted social usage
+104920389	polished courtesy; elegance of manner
+104920499	the quality of being bland and gracious or ingratiating in manner
+104920745	excellence of manners or social conduct
+104920915	courtesy towards women
+104921016	courteous regard for people's feelings
+104921310	formal or perfunctory politeness
+104921469	a manner that is rude and insulting
+104921753	the manner of a rude or insensitive person
+104921871	a discourteous manner that ignores accepted social usage
+104922058	impoliteness resulting from ignorance
+104922168	an offensive lack of good manners
+104922298	an impolite manner that is vulgar and lacking tact or refinement
+104922542	deliberate discourtesy
+104922639	an abrupt discourteous manner
+104922864	a manner that is generally disrespectful and contemptuous
+104923043	the trait of being rude and impertinent; inclined to take liberties
+104923377	(Yiddish) unbelievable gall; insolence; audacity
+104923519	a basic or essential attribute shared by all members of a class
+104924469	the property of radiation that enables it to produce photochemical effects
+104924616	(physics) the property of being isotropic; having the same value when measured in different directions
+104924857	the property of being anisotropic; having a different value when measured in different directions
+104925047	any measurable property of a device measured under closely specified conditions
+104925230	the property of being connected or the degree to which something has connections
+104925387	trueness of course toward a goal
+104925675	the quality of being direct and straightforward
+104925944	lack of an intervening or mediating agency
+104926188	the quality of being obviously directed at a particular person or thing
+104926386	having the characteristic of lacking a true course toward a goal
+104926635	a quality characterized by indirect reference
+104926757	the quality of being mediate
+104926889	the quality of being oblique and rambling indirectly
+104927049	the quality of being discursive
+104927177	the characteristic of being strong enough to withstand intellectual challenge
+104927414	a rural characteristic or trait
+104927612	a distinctive characteristic
+104927745	(physics) the property of matter and electromagnetic radiation that is characterized by the fact that some properties can be explained best by wave theory and others by particle theory
+104928044	the total of inherited attributes
+104928188	any attribute or immaterial possession that is inherited from ancestors
+104928485	personal characteristics that are inherited at birth
+104928594	a person's social heritage: previous experience or training
+104928753	a right or privilege that you are entitled to at birth
+104928931	properties acquired during a person's formative years
+104929077	the result of good upbringing (especially knowledge of correct social behavior)
+104929290	the properties acquired as a consequence of the way you were treated as a child
+104929515	(genetics) attributes acquired via biological heredity from the parents
+104929774	(genetics) the tendency of a crossbred organism to have qualities superior to those of either parent
+104929964	inherited properties shared with others of your bloodline
+104930201	(genetics) traits that tend to be inherited together as a consequence of an association between their genes; all of the genes of a given chromosome are linked (where one goes they all go)
+104930476	hereditary pattern in which a dominant gene on the X chromosome causes a characteristic to be manifested in the offspring
+104930673	hereditary pattern in which a recessive gene on the X chromosome results in the manifestation of characteristics in male offspring and a carrier state in female offspring
+104930920	properties attributable to your ancestry
+104931084	ancestry of a purebred animal
+104931180	descent from parents both of one pure breed
+104931280	how long something has existed
+104931668	age measured by the time (years and months) that something or someone has existed
+104931851	a person's age measured by matching their bone development (as shown by X rays) with bone development of an average person of known chronological age
+104932055	a measure of a child's development (in body size or motor skill or psychological function) expressed in terms of age norms
+104932241	the age of an embryo counting from the time of fertilization
+104932395	the level of intellectual development as measured by an intelligence test
+104932525	the quality of being old; the opposite of newness
+104932754	the property of being out of date and not current
+104932933	extreme oldness
+104933072	the property of being no longer fashionable
+104933215	the quality of being quaint and old-fashioned
+104933394	the oldness of wines
+104933485	great age (especially grey or white with age)
+104933604	the quality of being new; the opposite of oldness
+104933797	the property of being very new
+104933905	the property of being pure and fresh (as if newly made); not stale or deteriorated
+104934275	a pleasing firmness and freshness
+104934445	the property of having happened or appeared not long ago
+104934622	the opposite of youngness
+104934809	the property characteristic of old age
+104934969	the state of being senile
+104935067	the property of being long-lived
+104935185	having lost purity and freshness as a consequence of aging
+104935371	the quality of smelling or tasting old or stale or mouldy
+104935593	the opposite of oldness
+104935762	the freshness and vitality characteristic of a young person
+104935937	a property characteristic of a child
+104936080	how something is done or how it happens
+104936599	the style of a particular artist or school or movement
+104936919	the artistic style of early 16th century painting in Florence and Rome; characterized by technical mastery and heroic composition and humanistic content
+104937153	a manner of dealing with something artistically
+104937316	the manner in which fabric hangs or falls
+104937484	the manner in which something fits
+104937655	a particular mode in which something is manifested
+104937809	a manner of living that reflects the person's values and attitudes
+104938027	a hectic and pressured lifestyle often characterized by recklessness or dissipation
+104938218	a lifestyle given to easy indulgence of the appetites
+104938329	a vain and frivolous lifestyle especially in large cities
+104938444	the way something is organized or arranged
+104938605	a distinguishing style
+104938744	the property of appealing to people in general (usually by appearing to have qualities in common with them)
+104938910	a way of doing or being
+104939014	the way a garment hangs
+104939142	the manner of construction of something and the arrangement of its parts
+104939455	(computer science) the structure and organization of a computer's hardware or system software
+104939738	(computer science) a kind of computer architecture that has a large number of instructions hard coded into the CPU chip
+104940052	(computer science) a kind of computer architecture that has a relatively small set of computer instructions that it can perform
+104940374	the cellular composition of a bodily structure
+104940540	the underlying structure
+104940721	the way in which someone or something is composed
+104941029	what an organism looks like as a consequence of the interaction of its genotype and the environment
+104941220	the particular alleles at specified loci present in an organism
+104941397	the physical composition of something (especially with respect to the size and shape of the small constituents of a substance)
+104941723	the property of holding together and retaining its shape
+104942180	resistance of a liquid to shear forces (and hence to flow)
+104942416	the property of sticking to a surface
+104942582	a property resembling or being covered with slime
+104942705	the property of sticking together (as of glue and wood) or the joining of surfaces of different composition
+104943081	the property of being cohesive and sticky
+104943390	the property of having a viscosity like jelly
+104943580	resistance to flow
+104943762	a property midway between a solid and a liquid
+104943867	the property of having the thickness of heavy cream
+104944023	a consistency of low viscosity
+104944220	the property of flowing easily
+104944604	the property of resembling the viscosity of water
+104944764	a quality of water that contains dissolved mineral salts that prevent soap from lathering
+104945025	the property of being rigid and resistant to pressure; not easily scratched; measured on Mohs scale
+104945287	the property of being unyielding to the touch
+104945405	the property of giving little resistance to pressure and being easily cut or molded
+104945651	the property of being able to occupy less space
+104945879	the property of being incompressible
+104946015	a light softness
+104946223	a flabby softness
+104946375	a mushy pulpy softness
+104946501	the consistency of something that breaks under pressure
+104946724	firm but easily broken
+104946919	excessive breakableness
+104947049	having or breaking into thin crisp flakes
+104947164	a consistency of something that does not break under pressure
+104947323	the property of being porous; being able to absorb fluids
+104947556	the porosity of a sponge
+104947673	the property of something that can be pervaded by a liquid (as by osmosis or diffusion)
+104947907	the quality of being penetrable (by people or light or missiles etc.)
+104948141	the property of being absorbent
+104948301	the consistency of a solid
+104948502	the consistency of a compact solid
+104948630	the amount per unit size
+104948864	the density of a substance relative to the density of water
+104948986	the density of a gas relative to the density of hydrogen
+104949119	the property of something that cannot be pervaded by a liquid
+104949349	the power of retaining liquid
+104949550	holding urine in the urinary bladder
+104949693	the quality of being impenetrable (by people or light or missiles etc.)
+104949915	the property of not being absorbent
+104950046	a natural or acquired habit or characteristic tendency in a person or thing
+104950331	a disposition to behave in a certain way
+104950544	a disposition to biting
+104950641	a disposition in advance to react in a particular way
+104950755	being disposed to do something
+104950881	a disposition toward schism and secession from a larger group; the principles and practices of separatists
+104951225	a characteristic likelihood of or natural disposition toward a certain condition or character or effect
+104951589	the tendency to float in water or other liquid
+104951690	(chemistry) the tendency of an atom or radical to attract electrons in the formation of an ionic bond
+104951887	(cytology) the capacity of cells or cell parts to stain specifically with certain dyes
+104952087	the tendency of cells to stain with basic dyes
+104952234	an inclination to want things
+104952431	strong desire for something (not food or drink)
+104952707	excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves
+104952935	extreme greed for material wealth
+104953119	excessive desire to possess or dominate
+104953255	strong desire to acquire and possess
+104953443	preoccupation with the acquisition and possession of books
+104953577	the property of retaining possessions that have been acquired
+104953730	a property perceived by touch
+104953937	the feel of mechanical action
+104954054	the feel of a surface or a fabric
+104954264	a soft or fuzzy surface texture
+104954363	a texture without roughness; smooth to the touch
+104954671	the smooth feel of silk fabric
+104954805	a slippery smoothness
+104955065	the quality of being soap or being covered with soap
+104955246	having a very fine texture
+104955418	a texture of a surface or edge that is not smooth but is irregular and uneven
+104955780	the property of being scaly
+104955899	looseness or roughness in texture (as of cloth)
+104956082	soft lump or unevenness in a yarn; either an imperfection or created by design
+104956243	the roughness of a substance that causes abrasions
+104956433	the quality of being composed of relatively large particles
+104956630	a texture resembling that of sand
+104956737	roughness of nap produced by long woolly hairs
+104956858	the texture of a surface that has many bumps
+104956976	the quality of being covered with prickly thorns or spines
+104957203	optical properties
+104957303	an attribute of vision
+104957513	the quality of being well-groomed and neatly tailored
+104957714	the characteristic appearance of a surface having a tactile quality
+104957890	the direction, texture, or pattern of fibers found in wood or leather or stone or in a woven fabric
+104958129	texture produced by the fibers in wood
+104958248	a texture like that of wood
+104958363	a texture like that of marble
+104958550	the visual effect of illumination on objects or scenes as created in pictures
+104958893	an indication of radiant light drawn around the head of a saint
+104959052	lightness created by sunlight
+104959155	the lightness of a sunny day when there are no clouds in the sky
+104959297	an area of lightness in a picture
+104959419	the location of a visual perception along a continuum from black to white
+104959747	a light within the field of vision that is brighter than the brightness to which the eyes are adapted
+104959998	brightness enough to blind partially and temporarily
+104960121	the quality of shining with a bright reflected light
+104960363	a momentary brightness
+104960473	a spatially localized brightness
+104960557	merriment expressed by a brightness or gleam or animation of countenance
+104960855	the visual property of something having a milky brightness and a play of colors from the surface
+104961131	the quality of being bright and sending out rays of light
+104961589	the strength of a radio wave picked up by a radio telescope
+104961711	an appearance of reflected light
+104961860	the visual property of something that shines with reflected light
+104962097	a quality that outshines the usual
+104962337	the property of being smooth and shiny
+104962603	the glaze produced by repeated applications of French polish shellac
+104962731	a glossy finish on a fabric
+104962810	a lack of visual brightness
+104963084	the property of lights or sounds that lack brilliance or are reduced in intensity
+104963287	the property of having little or no contrast; lacking highlights or gloss
+104963596	a visual property that is subdued and free from brilliance or glare
+104963771	a visual attribute of things that results from the light they emit or transmit or reflect
+104964353	any of three colors from which all others can be obtained by mixing
+104964533	any of three pigments from which all colors can be obtained by mixing
+104964766	any of three primary colors of light from which all colors can be obtained by additive mixing
+104965031	any of the three colors that give the primary colors for light after subtraction from white light
+104965323	interwoven yarns of mixed colors producing muted greyish shades with flecks of color
+104965479	a soft shade of a color
+104965637	a strong deep vividness of hue
+104965811	the visual property of being without chromatic color
+104966042	an irregular arrangement of patches of color
+104966238	an absence of normal pigmentation especially in the skin (as in albinism) or in red blood cells
+104966407	a quality of a given color that differs slightly from another color
+104966744	a pale or subdued color
+104966849	a color that has hue
+104967256	a color lacking hue; white or grey or black
+104967454	the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)
+104967759	a very dark black
+104967906	the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)
+104968239	a very light white
+104968313	the whiteness that results from removing the color from something
+104968508	a shade of white the color of bleached bones
+104968649	a pure flat white with little reflectance
+104968760	a silvery-white color
+104968868	a neutral achromatic color midway between white and black
+104969239	a light shade of grey
+104969417	a very dark grey color
+104969572	grey with a mottled pattern of darker grey markings
+104969725	the color of freshly broken cast iron
+104969866	a greyish white
+104969961	red color or pigment; the chromatic color resembling the hue of blood
+104970288	a blood-red color
+104970378	a red pigment used in paints; basic lead chromate
+104970484	a bright orange-red color produced in cotton cloth with alizarine dye
+104970626	a variable color averaging a vivid red
+104970765	a deep and vivid red color
+104970917	a red color that reflects little light
+104971082	a dark purplish-red to blackish-red color
+104971178	a dark purplish-red color
+104971256	a dark brownish-red color
+104971339	a red as dark as red wine
+104971464	a red with a tinge of purple
+104971620	a red the color of ripe cherries
+104971763	a primary subtractive color for light; a dark purple-red color; the dye for magenta was discovered in 1859, the year of the battle of Magenta
+104971976	a dark purplish-red color
+104972055	a dark purplish-red to dark brownish-red color
+104972154	a variable color that is vivid red but sometimes with an orange tinge
+104972356	orange color or pigment; any of a range of colors between red and yellow
+104972548	a pale pinkish orange color
+104972628	an orange color closer to red than to yellow
+104972751	a reddish to vivid orange color
+104972838	yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons
+104973194	a light grayish yellow to near white
+104973291	a moderate yellow with a greenish tinge
+104973417	a deep yellow color
+104973605	a yellow color of low lightness with a brownish tinge
+104973720	a strong yellow color
+104973826	a dark yellow
+104973894	a shade of yellow tinged with orange
+104974018	a moderate yellow-orange to orange color
+104974118	a variable yellow tint; dull yellow, often diluted with white
+104974271	a shade of yellow tinged with green
+104974368	green color or pigment; resembling the color of growing grass
+104974738	the property of being somewhat green
+104974851	the property of a moderate green color resembling the waters of the sea
+104974978	the color of sage leaves
+104975059	dark to moderate or greyish green
+104975151	a brilliant green color
+104975233	the green color of an emerald
+104975316	a color that is lighter and greener than olive
+104975434	a shade of green tinged with yellow
+104975603	a blue-green color or pigment
+104975796	a primary subtractive color for light; has a blue-green color
+104975926	a light green color varying from bluish green to yellowish green
+104976072	blue color or pigment; resembling the color of the clear sky in the daytime
+104976419	a light shade of blue
+104976608	a pale blue color with grey in it
+104976717	a greyish blue color
+104976794	a dark greenish-blue color
+104976880	a dark shade of blue
+104976975	a shade of blue tinged with green
+104977129	a shade of blue tinged with purple
+104977236	a purple color or pigment
+104977489	a vivid purplish-red color; in ancient Rome and Byzantium, it was the color worn by an emperor or senior magistrate
+104977665	a blue-violet color
+104977737	a pale purple color
+104977811	a moderate purple
+104977898	a shade of purple tinged with red
+104978025	a variable color that lies beyond blue in the spectrum
+104978183	a light shade of red
+104978398	the quality of being pink
+104978478	a pink or reddish-pink color
+104978580	a dusty pink color
+104978714	a greyish-pink color
+104978789	a pink dye that was discovered in 1859, the year a battle was fought at Solferino
+104978942	a shade of pink tinged with yellow
+104979087	a variable color averaging a deep pink
+104979195	an orange of low brightness and saturation
+104979535	a moderate brown color
+104979617	the brown color of chestnuts
+104979718	a medium brown to dark-brown color
+104979870	a shade of brown that is yellowish or reddish; it is a greenish shade of brown when used to describe the color of someone's eyes
+104980068	a brown that is light but unsaturated
+104980217	a dark brown color
+104980287	a light brown the color of topaz
+104980377	a color or pigment varying around a light grey-brown color
+104980558	a very light brown
+104980653	a shade of brown with a tinge of red
+104980852	a bright reddish-brown color
+104980936	a reddish-brown color resembling the color of polished copper
+104981083	a reddish-brown color resembling the red soil used as body paint by American Indians
+104981224	a medium to dark tan color
+104981412	a color varying from dark purplish brown to dark red
+104981515	a shade of brown tinged with green
+104981607	a yellow-green color of low brightness and saturation
+104981730	a dull greyish to yellowish or light olive brown
+104981842	any of various pale or light colors
+104981948	dark yellowish brown
+104982041	a greyish brown
+104982126	a vivid blue to purple-blue color
+104982235	an attribute of color
+104982389	the quality of a color as determined by its dominant wavelength
+104982607	chromatic purity: freedom from dilution with white and hence vivid in hue
+104982879	being deficient in color
+104983006	either one of two chromatic colors that when mixed together give white (in the case of lights) or grey (in the case of pigments)
+104983255	appearance with regard to color
+104983455	coloring of the hair
+104983586	coloration of living tissues by pigment
+104983756	abnormal pigmentation
+104983834	abnormally dark skin caused by increased deposits of melatonin
+104983954	absence or loss of pigmentation (or less than normal pigmentation) in the skin or hair
+104984137	loss of color from the hair
+104984219	the coloring of a person's face
+104984514	the property of having a naturally light complexion
+104984679	a healthy reddish complexion
+104984828	unnatural lack of color in the skin (as from bruising or sickness or emotional distress)
+104985213	a sickly yellowish skin color
+104985317	the quality or state of being the color of tanned leather
+104985483	a swarthy complexion
+104985620	lightness or fairness of complexion
+104985810	a color produced by a pattern of differently colored dots that together simulate the desired color
+104986041	coloration making an organism less visible or attractive to predators
+104986251	conspicuous coloration or markings of an animal serving to warn off predators
+104986452	coloring serving as natural camouflage
+104986556	coloring that conceals or disguises an animal's shape
+104986674	relative darkness or lightness of a color
+104987007	having a light color
+104987119	having a dark or somber color
+104987257	any property detected by the olfactory system
+104987712	a pleasingly sweet olfactory property
+104987905	the attribute of having a strong offensive smell
+104988169	malodorousness resulting from a failure to bathe
+104988293	having the olfactory properties of musk
+104988388	the particular auditory effect produced by a given cause
+104988723	the auditory effect characterized by loud and constant noise
+104988907	a characteristic sound
+104989030	(music) two or more sounds or tones at the same pitch or in octaves
+104989190	the distinctive quality or pitch or condition of a person's speech
+104989362	a woman's voice with male qualities
+104989456	the absence of sound
+104989727	(poetic) tranquil silence
+104989994	the property of being speechless
+104990105	the property of making no sound
+104990262	the property of making no noise
+104990371	an attribute of sound
+104990651	the property of sounding like music
+104990937	the property of being suitable for singing
+104991097	the property of having a melody
+104991256	the musical pattern created by parts being played or sung together
+104991429	an agreeable sound property
+104991600	the property of sounding harmonious
+104991763	disagreeable sounds
+104991947	a harsh mixture of sounds
+104992058	a lack of harmony
+104992187	loud confusing disagreeable sounds
+104992313	the property of being noisy and lively and unrestrained
+104992447	the property of sound that varies with variation in the frequency of vibration
+104992829	the pitch used to tune instruments for concert performances; usually assigns 440 Hz to the A above middle C
+104993039	a pitch that is perceived as above other pitches
+104993179	the pitch range of the highest female voice
+104993303	the pitch range of the highest male voice
+104993396	pitch of the voice
+104993507	a pitch that is perceived as below other pitches
+104993663	a low pitch that is loud and voluminous
+104993775	the pitch range of the lowest female voice
+104993886	(of a musical instrument) the second highest instrument in a family of musical instruments
+104994045	the lowest part of the musical range
+104994132	(linguistics) a pitch or change in pitch of the voice that serves to distinguish words in tonal languages
+104994418	the property of producing accurately a note of a given pitch
+104994605	(music) the sound property resulting from a combination of organ stops used to perform a particular piece of music; the technique of selecting and adjusting organ stops
+104994869	(music) the distinctive property of a complex sound (a voice or noise or musical sound)
+104995327	any of a series of musical tones whose frequencies are integral multiples of the frequency of a fundamental
+104995507	the quality imparted to voiced speech sounds by the action of the resonating chambers of the throat and mouth and nasal cavities
+104995727	the timbre of a musical sound
+104995915	the quality of being harsh or rough or grating to the senses
+104996097	a throaty harshness
+104996251	the property of a sensation that is rich and pleasing
+104996598	a quality of the voice that is produced by nasal resonators
+104996748	exaggerated nasality in speech (as in some regional dialects)
+104996893	having the character of a loud deep sound; the quality of being resonant
+104997257	having the timbre of a loud high-pitched sound
+104997456	the magnitude of sound (usually in a specified direction)
+104997743	(music) a gradual increase in loudness
+104997910	a crescendo followed by a decrescendo
+104997999	a sound property that is free from loudness or stridency
+104998259	barely audible
+104998347	(music) a gradual decrease in loudness
+104998511	(music) low loudness
+104998633	the rhythmic property imparted by the accents and relative durations of notes in a piece of music
+104998860	rhythm as given by division into parts of equal duration
+104999057	a recurrent rhythmical series
+104999186	a jaunty rhythm in music
+104999341	a property appreciated via the sense of taste
+104999609	the property of being rancid
+104999748	the property of being seasoned with spice and so highly flavored
+105000012	a strong odor or taste property
+105000286	a tart spicy quality
+105000490	a hot spiciness
+105000591	the property of containing salt (as a compound or in solution)
+105000782	the relative proportion of salt in a solution
+105000930	the quality of being salty, as the saltiness of water
+105001060	the property of being acidic
+105001304	a sharp sour taste
+105001442	a sourness resembling that of vinegar
+105001591	the property of tasting as if it contains sugar
+105001792	the excessive sweetness of saccharin
+105001905	the sweetness of sugar
+105002002	the property of having a harsh unpleasant taste
+105002187	a sharp bitterness
+105002278	extreme bitterness
+105002389	the property of being acceptable to the mouth
+105002599	a pleasing palatability
+105002696	the property of stimulating the appetite
+105002958	extreme appetizingness
+105003105	having an appetizing flavor
+105003278	a pleasant flavor
+105003380	a juicy appetizingness
+105003520	the property of being unacceptable to the mouth
+105003736	extreme unpalatability to the mouth
+105003988	the property of spoiling the appetite
+105004197	the property of having no flavor
+105004447	lacking any distinctive or interesting taste property
+105004637	the property of being fit to eat
+105004810	the property of being easy to digest
+105004977	the property of being difficult to digest
+105005153	an attribute of the body
+105005419	the bodily attribute of being bipedal; having two feet
+105005582	superior development of one side of the body
+105005695	constitution of the human body
+105005865	a tall and thin physique
+105005981	a short and stout physique
+105006131	a category of physique
+105006276	slender, weak, and lightweight
+105006379	round, fat, and heavy
+105006471	muscular and big-boned
+105006566	excess bodily weight
+105006906	having the property of containing fat
+105007129	the bodily property of a protruding belly
+105007281	consisting of or covered with oil
+105007507	more than average fatness
+105007702	the property of excessive fatness
+105007882	obesity caused by overeating
+105007974	an extreme accumulation of fat on the buttocks
+105008078	the bodily property of being well rounded
+105008254	the property of having a plump and round body
+105008467	the bodily property of being attractively plump and vigorous and (of women) full-bosomed
+105008647	the property of having little body fat
+105008889	the bodily property of lacking flesh
+105009032	extreme leanness (usually caused by starvation or disease)
+105009338	the property of an attractively thin person
+105009517	(of a standing person) the distance from head to foot
+105009705	the property of being taller than average stature
+105009845	the property of being shorter than average stature
+105009987	characteristic way of bearing one's body
+105010255	manner of walking
+105010438	a stooping carriage in standing and walking
+105010588	beautiful carriage
+105010755	elegance and beauty of movement or expression
+105011015	the gracefulness of a person or animal that is quick and nimble
+105011256	the gracefulness of a person or animal that is flexible and supple
+105011459	the carriage of someone whose movements and posture are ungainly or inelegant
+105011697	an unpleasant lack of grace in carriage or form or movement or expression
+105011865	the carriage of someone whose movements and posture are extremely ungainly and inelegant
+105012060	the property of moving with pain or difficulty
+105012229	processes and functions of an organism
+105012434	a property having to do with the functioning of the body
+105012631	the property of being animated; having animal life as distinguished from plant life
+105012993	the property of being able to survive and grow
+105013204	the readiness to perceive sensations; elementary or undifferentiated consciousness
+105013469	not having life
+105013703	the inanimate property of something that has died
+105013933	lacking consciousness or ability to perceive sensations
+105014082	the properties that distinguish organisms on the basis of their reproductive roles
+105014464	those characteristics (both anatomical and psychological) that are strongly associated with one sex relative to the other
+105014744	the genetically determined sex characteristics bound up with reproduction (genitals and organs of reproduction)
+105014984	the genetically determined sex characteristics that are not functionally necessary for reproduction (pitch of the voice and body hair and musculature)
+105015269	having no evident sex or sex organs
+105015411	the properties characteristic of the male sex
+105015633	the masculine property of being capable of copulation and procreation
+105015775	the development of male secondary sexual characteristics in a female (or prematurely in a young boy)
+105015930	showing characteristics of both sexes
+105016127	the properties characteristic of the female sex
+105016354	any property used to characterize matter and energy and their interactions
+105016942	a property used to characterize materials in reactions that change their identity
+105017105	the property of changing readily from a solid or liquid to a vapor
+105017246	(physics) the property of a body that determines the fraction of the incident radiation or sound flux absorbed or absorbable by the body
+105017498	the property of being dissoluble
+105017690	the physical property of being soft and drippy
+105017811	the ability to reflect beams or rays
+105017985	the repetition of a sound resulting from reflection of the sound waves
+105018273	the echo of an echo
+105018346	a reflected television or radio or radar beam
+105018461	the property of being bent or deflected
+105018615	the deflection of a projectile resulting from the effects of wind
+105018752	the physical property of a medium as determined by its index of refraction
+105018974	the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)
+105019456	(thermodynamics) a thermodynamic quantity equal to the internal energy of a system plus the product of its volume and pressure
+105019769	(thermodynamics) a thermodynamic quantity representing the amount of energy in a system that is no longer available for doing mechanical work
+105020125	entropy calculated from the probability that a state could be reached by chance alone
+105020279	temperature measured on the absolute scale
+105020388	(cryogenics) the lowest temperature theoretically attainable (at which the kinetic energy of atoms and molecules is minimal); 0 Kelvin or -273.15 centigrade or -459.67 Fahrenheit
+105020645	the temperature above which a ferromagnetic substance loses its ferromagnetism and becomes paramagnetic
+105020826	the temperature at which the water vapor in the air becomes saturated and condensation begins
+105020993	the lowest temperature at which the vapor of a combustible liquid can be ignited in air
+105021151	the temperature below which a liquid turns into a solid
+105021283	the temperature at which a liquid boils at sea level
+105021492	temperature measured by a mercury thermometer
+105021626	the normal temperature of room in which people live
+105021740	temperature just below the boiling point
+105021894	body temperature in the morning before rising or moving about or eating anything
+105022063	temperature of the body; normally 98.6 F or 37 C in humans; usually measured to obtain a quick evaluation of a person's health
+105022301	the absence of heat
+105022647	coldness due to a cold environment
+105022862	the property of being moderately cold
+105023062	coldness as evidenced by frost
+105023185	the quality of being at a refreshingly low temperature
+105023355	the presence of heat
+105023635	the property of being warming
+105023737	the heat or the color of fire
+105023851	extreme heat
+105023937	the quality of having a moderate degree of heat
+105024120	a warmness resembling the temperature of the skin
+105024305	the hotness of something heated until it turns white
+105024414	the property of being perceptible by the mind or the senses
+105024624	quality or fact or degree of being visible; perceptible by the eye or obvious to the eye
+105024923	distance at which a given standard object can be seen with the unaided eye
+105025075	the quality of not being perceivable by the eye
+105025269	the quality of being luminous; emitting or reflecting light
+105025708	the luminous flux incident on a unit area
+105025840	light from heat
+105025951	light from nonthermal sources
+105026100	quality or fact or degree of being audible or perceptible by the ear
+105026329	the quality of not being perceptible by the ear
+105026505	the property of being imperceptible by the mind or the senses
+105026665	(physics) the resistance of a material to the establishment of a magnetic field in it
+105026827	the ability to respond to physical stimuli or to register small physical amounts or differences
+105027185	(electronics) a curve representing the output-to-input ratio of a transducer as a function of frequency
+105027391	the physical property of being magnetic
+105027524	the tendency of a body to return to its original shape after it has been stretched or compressed
+105027863	the physical property of a material that can return to its original shape or position after deformation that does not exceed its elastic limit
+105028147	the quality of a substance that is able to rebound
+105028317	the elasticity of something that can be stretched and returns to its original length
+105028511	the capacity for being stretched
+105028701	the elasticity and hardness of a metal object; its ability to absorb considerable energy before cracking
+105028906	the elasticity of a body that has been pulled out of shape by a shearing force
+105029050	the property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking
+105029339	the malleability of something that can be drawn into threads or wires or hammered into thin sheets
+105029525	the quality of being fibrous
+105029623	the property of being flexible; easily bent or shaped
+105029875	the property of being easily bent without breaking
+105030068	(golf) the flexibility of the shaft of a golf club
+105030188	the property of being pliant and flexible
+105030399	the lack of elasticity
+105030570	the physical property of something that has lost its elasticity
+105030757	the physical property of being inflexible and hard to bend
+105030907	the physical property of being stiff and resisting bending
+105031140	a lack of malleability
+105031259	a lack of physical flexibility
+105031420	the property of a body that causes it to have weight in a gravitational field
+105031782	the main mass of a thing
+105031857	the total mass of living matter in a given unit area
+105031963	the minimum mass of fissionable material that can sustain a chain reaction
+105032097	(physics) the mass of a body as measured when the body is at rest relative to an observer, an inherent property of the body
+105032295	(physics) the mass of a body in motion relative to the observer: it is equal to the rest mass multiplied by a factor that is greater than 1 and that increases as the magnitude of the velocity increases
+105032579	the property possessed by a large mass
+105032686	(physics) the mass of a body as measured by its gravitational attraction for other bodies
+105032859	(physics) the mass of a body as determined by the second law of motion from the acceleration of the body when it is subjected to a force that is not due to gravity
+105033101	(chemistry) the mass of an atom of a chemical element expressed in atomic mass units
+105033337	(physics) the mass of a body regarded relativistically as energy
+105033478	(chemistry) the sum of the relative atomic masses of the constituent atoms of a molecule
+105033674	the atomic weight of an element that has the same combining capacity as a given weight of another element; the standard is 8 for oxygen
+105033910	one-thousandth of an equivalent
+105034009	the vertical force exerted by a mass as a result of gravity
+105034301	the weight of a person's body
+105034442	a person's body weight (as an athlete's) at the beginning of the season (when first reporting for practice)
+105034612	a heavy motionless weight
+105034695	the property of being comparatively great in weight
+105035003	the property of being large in mass
+105035325	exceeding in heaviness; having greater weight
+105035514	weight expressed in pounds
+105035595	the weight of a motor vehicle, railroad car, or aircraft without its fuel or cargo
+105035728	the weight of the payload of a missile (not including the weight of the rocket)
+105035866	the property of being comparatively small in weight
+105036129	the property of something weightless and insubstantial
+105036303	the product of a body's mass and its velocity
+105036493	the product of the momentum of a rotating body and its distance from the axis of rotation
+105036760	the property of being sustainable
+105036872	the property of being physically or mentally strong
+105037315	a place of especial strength
+105037417	the strength of material expressed as the greatest longitudinal stress it can bear without tearing apart
+105037584	possessing muscular strength
+105037846	physical strength
+105037972	active strength of body or mind
+105038178	the property of being strong and healthy in constitution
+105038369	the property of being big and strong
+105038522	the property of having relatively little strength or vigor
+105038715	the property of being strong and resolute
+105038881	the property of something that is strongly built
+105039004	the muscle tone of healthy tissue
+105039183	the property being difficult or impossible to defeat
+105039348	strength of mind that enables one to endure adversity with courage
+105039506	fortitude and determination
+105039720	the power to withstand hardship or stress
+105039950	patient endurance especially of pain or distress
+105040073	enduring strength and energy
+105040201	staying power
+105040326	the property of being lean and tough and sinewy
+105040446	patient endurance of pain or unhappiness
+105040565	the power or capacity of an organism to tolerate unfavorable environmental conditions
+105040724	tolerance for alcohol
+105040836	the property of being invulnerable; the property of being incapable of being hurt (physically or emotionally)
+105041061	the quality of being unaffected by something
+105041203	authority given (in a will or deed) by a donor to a donee to appoint the beneficiaries of the donor's property
+105041380	capacity to produce strong physiological or chemical effects
+105041628	(chemistry) a property of atoms or radicals; their combining power given in terms of the number of hydrogen atoms (or the equivalent)
+105041916	valence characterized by the sharing of electrons in a chemical compound; the number of pairs of electrons an atom can share
+105042144	(biology) a relative capacity to unite or react or interact as with antigens or a biological substrate
+105042419	naval strength
+105042508	physical energy or intensity
+105042867	main force of a blow etc
+105042975	an impelling force or strength
+105043116	forceful exertion
+105043392	intense energy
+105043549	high level or degree; the property of being intense
+105043870	used of the degree of something undesirable e.g. pain or weather
+105044192	(of weather) the badness of the weather
+105044352	the quality of arousing fear or distress
+105044549	intensity or forcefulness of expression
+105044772	the greatest possible intensity
+105044892	too much emphasis
+105044968	the property of being wild or turbulent
+105045406	the property of being untamed and ferocious
+105045748	the strength of a solution; number of molecules of a substance in a given volume
+105045978	the concentration of a solution as determined by titration
+105046114	the number of moles of hydrogen ions per cubic decimeter
+105046261	(from potential of Hydrogen) the logarithm of the reciprocal of hydrogen-ion concentration in gram atoms per liter; provides a measure on a scale from 0 to 14 of the acidity or alkalinity of a solution (where 7 is neutral and greater than 7 is more basic and less than 7 is more acidic)
+105046680	pH values below 7
+105046787	excessive acidity
+105046863	pH values above 7
+105046973	pH value of 7
+105047061	concentration measured by the number of moles of solute per kilogram of solvent
+105047235	concentration measured by the number of moles of solute per liter of solution
+105047429	the property of lacking physical or mental strength; liability to failure under pressure or stress or strain
+105047987	lack of strength or vigor (especially from illness)
+105048093	the quality of lacking intensity or substance
+105048319	the property of being without strength
+105048474	the property of weakness by virtue of careless construction
+105048657	lack of physical strength
+105048749	lack of solid substance and strength
+105048866	the property of something that has been weakened or reduced in thickness or density
+105049025	lack of vitality
+105049166	susceptibility to fatigue; a tendency to get tired or lose strength
+105049292	weakness characterized by a lack of vitality or energy
+105049437	a place of especial vulnerability
+105049622	a seemingly small but actual mortal weakness
+105049727	a vital part that is vulnerable to attack
+105049874	the quality of being weak or unprotected
+105050025	susceptibility to injury or attack
+105050245	the property of being helpless in the face of attack
+105050503	vulnerability to forceful attack
+105050613	vulnerability to destruction
+105050775	the strength to resist destruction
+105050909	quality of being easily damaged or destroyed
+105051127	vulnerability to the elements; to the action of heat or cold or wind or rain
+105051366	exposure to the wind (as the exposed part of a vessel's hull which is responsible for wind resistance)
+105051538	exposure to the rays of the sun
+105051679	a property relating to time
+105051824	arrangement of events in time
+105051973	a following of one thing after another in time
+105052359	anything happening rapidly or in quick successive
+105052532	a planned recurrent sequence (of crops or personnel etc.)
+105052831	a continuous chronological succession without an interruption
+105052992	an unbroken chronological sequence
+105053160	the time when something happens
+105053622	the temporal property of becoming nearer in time

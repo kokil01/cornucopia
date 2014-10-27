@@ -1,0 +1,1000 @@
+security deposit	113372293
+security director	110594402
+security force	108227903
+security guard	110789727
+security intelligence	100822506
+security intelligence review committee	108363832
+security interest	113309007
+security measure	104173006
+security measures	100824977
+security review	100822744
+security service	108364133
+security staff	108369647
+security system	104173006 104173172
+sed rate	115302448
+sedalia	109130572
+sedan	104173342 104173497
+sedan chair	104173497
+sedate	200022309 300692613 302126493
+sedately	400449959
+sedateness	104655183
+sedation	100696553 114313714
+sedative	104173614 302316152
+sedative drug	104173614
+sedative-hypnotic	104173902
+sedative-hypnotic drug	104173902
+sedentary	300034685
+seder	101037699
+sedge	112170545
+sedge bird	101568240
+sedge family	112170268
+sedge warbler	101568240
+sedge wren	101568240 101588063
+sedgelike	300211580
+sedgy	300211671
+sediment	109451871 201992659 201992769
+sedimentary	301357937 302963446
+sedimentary clay	115046391
+sedimentary rock	114722161
+sedimentation	111465491
+sedimentation rate	115302448
+sedition	100774302
+seditious	300966472 301903445
+sedna	109452098
+seduce	200785293 201431211
+seducer	110594533 110594685
+seduction	100161235 100161352
+seductive	302104548
+seductively	400450023
+seductress	110594831
+sedulity	104873309
+sedulous	300757914
+sedulously	400229174
+sedulousness	104873309
+sedum	112806484
+sedum acre	112806857
+sedum rosea	112807033
+sedum telephium	112807224
+see	108604380 200592510 200600349 200624823 200664507 200692380 200705474 200922307 201159034 201473299 201638974 202026953 202029932 202114674 202133338 202133754 202134174 202135744 202155378 202160655 202491850 202493953 202494137 202498679 202555278
+see double	202137044
+see eye to eye	200807572
+see red	201790925
+see the light	200167742
+see through	200486078 202203487 202224514
+see to it	200664507
+see-through	302422186
+seeable	302525399
+seed	105411679 105843082 110594907 111704458 113156591 200179863 200188707 200517505 200660584 201503512 201544838 201655971 202222328
+seed beetle	102184697
+seed cake	107650214
+seed catalog	106500600
+seed catalogue	106500600
+seed coat	111702818
+seed corn	113389086
+seed fern	111625993
+seed grain	113389086
+seed lac	114726278
+seed leaf	111706867
+seed money	113377017
+seed oyster	101963428
+seed pearl	113393758
+seed plant	111572837
+seed shrimp	102000479
+seed stock	113388960
+seed vessel	111704733
+seed weevil	102184697
+seedbed	104174183
+seedcake	107650214
+seedcase	113160826
+seeded	301837963 302262534 302263243 302263364 302263965
+seeded player	110594907
+seeded raisin	107768850
+seeder	104174289 104174407 110595038
+seediness	104823992
+seedless	302263838
+seedless raisin	107768758
+seedling	111573045
+seedman	110595149
+seedpod	113159832
+seedsman	110595149
+seedtime	115263068 115316652
+seedy	301991889 302262825 302553095 302593709
+seeger	111310854 111310974
+seeing	105664382 105718807 302166146
+seeing eye dog	102111908
+seeing red	114430474
+seek	107365493 201072011 201318273 201843112 202245263 202535833
+seek out	201320084
+seek time	115294085
+seeker	104174550 110595231
+seeking	100790023 100948466
+seel	202173154
+seeland	108779530
+seem	202137900 202139137 202202748 202751757
+seeming	301879953
+seemingly	400040353
+seemliness	104907534
+seemly	301884969
+seep	202075902
+seepage	107446719
+seeping	301400896
+seer	110503115 110595515 110776101
+seersucker	104174722
+seesaw	104174820 201885027 201996283 201996407
+seethe	200325228 200520831 201771464 202712465
+seething	300089013
+segal	111311169
+segment	104172050 109452291 201561222 201565786
+segmental	302491629 302492468
+segmental arch	104175145
+segmentation	100398761 113470329
+segmentation cavity	101461883
+segmented	302491629
+segmented worm	101937081
+segno	106882321
+sego lily	112469205
+segovia	111311274
+segregate	110595667 200495549 201561000 202487728
+segregated	301329869
+segregation	101204674 108397071 113575324
+segregationism	106226742
+segregationist	110595760
+segregator	110595760
+segue	100202246 200783538
+segway	104175260
+segway ht	104175260
+segway human transporter	104175260
+sei whale	102067916
+seiche	107360795
+seidel	104175533
+seidlitz powder	115034204
+seidlitz powders	115034204
+seif dune	109452534
+seigneur	110105505
+seigneur de bayard	110858398
+seigneury	100604981 113273192
+seignior	110105505
+seigniorage	113344670
+seigniory	100604981 113273192
+seiji ozawa	111239492
+seine	104175602 109452656 201142610
+seine river	109452656
+seism	107443554
+seismal	302300962
+seismic	302300962
+seismic disturbance	107443876
+seismogram	104175777
+seismograph	104175901
+seismography	100605110
+seismologic	302919679
+seismological	302919679
+seismologist	110595965
+seismology	106130103
+seismosaur	101714137
+seismosaurus	101713938
+seiurus	101572753
+seiurus aurocapillus	101572908
+seize	200739481 200739661 201215136 201216178 201368542 202277394 202278138 202279327
+seize on	200603507
+seize with teeth	201448551
+seizer	110605673
+seizing	100813935 104176096
+seizure	100086039 100089301 100776783 114105423
+seizure-alert dog	102112339
+sekhet	109536565
+selachian	101484712
+selachii	101484240
+selaginella	113245352
+selaginella apoda	113245820
+selaginella eatonii	113246515
+selaginella eremophila	113246142
+selaginella lepidophylla	113246263
+selaginella rupestris	113245973
+selaginellaceae	113245154
+selaginellales	113244984
+selangor	108986024
+selar	102583622
+selar crumenophthalmus	102583739
+selcraig	111311814
+seldom	400035772
+select	200676526 302350415 302351005
+select committee	108342781
+selected	302130856
+selection	100162063 105798247 106412153 108416775 113584949
+selective	300779252 301869196
+selective amnesia	105681283
+selective information	105098731
+selective jamming	101253725
+selective lipectomy	100683333
+selective service	101160337 108370490
+selective service system	108370490
+selective-serotonin reuptake inhibitor	104176213
+selectively	400450175
+selectivity	105216256
+selectman	110596128
+selector	104176498 110451389
+selector switch	104176498
+selectwoman	110596270
+selenarctos	102136164
+selenarctos thibetanus	102136356
+selene	102580756 109594268
+selene setapinnis	102580864
+selene vomer	102581085
+selenic acid	114640251
+selenicereus	111874113
+selenicereus grandiflorus	111874448
+selenipedium	112103265
+selenium	114678354
+selenium cell	104176658
+selenolatry	101048812
+selenology	106107590
+seles	111311441
+seleucus	111311565
+seleucus i	111311565
+seleucus i nicator	111311565
+self	105683445 109628155 302805493
+self acceptance	104645829
+self-abasement	101168027
+self-abnegating	301303991
+self-abnegation	100206498
+self-absorbed	300102878
+self-absorption	105845452
+self-abuse	100857565
+self-accusation	107230888
+self-acting	300183525
+self-activating	300183525
+self-adapting program	106591628
+self-addressed	300051019
+self-aggrandisement	100374670
+self-aggrandising	301896819 302805676
+self-aggrandizement	100374670
+self-aggrandizing	301896819 302805676
+self-analysis	100706686 105794876
+self-annihilation	100223352
+self-appointed	300180976
+self-asserting	300157368
+self-assertion	101225632 107244980
+self-assertive	300157368 300206625
+self-assertiveness	105174764
+self-assurance	105705328
+self-assured	300340640
+self-aware	300573255
+self-awareness	105684449
+self-balancing	300897728
+self-centered	300102561
+self-centeredness	104842259
+self-centred	300102561
+self-collected	300532559
+self-colored	301204034
+self-coloured	301204034
+self-command	104869236
+self-complacency	107547101
+self-complacent	300591760
+self-conceited	301897840
+self-conceitedly	400290736
+self-concern	104842259
+self-condemnation	107230888
+self-confessed	300027946
+self-confidence	105705328
+self-confident	300340640
+self-conscious	300482955 300573255
+self-consciously	400450311
+self-consciousness	105684755 107522568
+self-consistent	300580049
+self-constituted	301640697
+self-contained	300525676 300532559
+self-contemplation	105794660
+self-contradiction	107221460
+self-contradictory	300580585 300943164
+self-control	101071502 104869236
+self-criticism	105742422
+self-cultivation	105765420
+self-deceit	105904195
+self-deception	105904195
+self-defeating	302343245
+self-defence	100826853
+self-defense	100826853
+self-denial	100206498 101071502 104889024
+self-denying	301303991 302106722
+self-deprecating	301636357
+self-depreciation	107524713
+self-destroy	201623473
+self-destruct	201623473
+self-destruction	100223352 100223633
+self-destructive	302068316
+self-determination	105206419 114016223
+self-digestion	113457091
+self-directed	300731669
+self-direction	114024516
+self-discipline	101071502 104889024
+self-disciplined	301304141
+self-discovery	100152134
+self-disgust	107522201
+self-distrust	107538525
+self-doubt	107538525
+self-drive	113269497
+self-educated	300834047
+self-education	105765420
+self-effacement	100055148
+self-effacing	300158534
+self-employed	300867010
+self-employed person	110130190
+self-enclosed	301662959
+self-established	301640697
+self-esteem	107523944
+self-evident	301623076
+self-evident truth	105902119
+self-evidently	400450666
+self-examination	105794660
+self-examining	301353522
+self-explanatory	301623785
+self-expression	107087111
+self-feeder	104176768
+self-fertilisation	107452590
+self-fertilised	300874998
+self-fertilization	107452590
+self-fertilized	300874998
+self-flagellation	101164747
+self-forgetful	302106841
+self-fulfillment	100063491
+self-generated	300182462 302290110
+self-giving	302106722
+self-governing	301066082
+self-government	114016223
+self-gratification	101075021 104892012
+self-hatred	107522201
+self-heal	112883994
+self-help	100803772
+self-hypnosis	114050263
+self-importance	104894692 107524045
+self-important	301895886
+self-imposed	302530981
+self-improvement	100262101
+self-incrimination	107253249
+self-induced	300182564 302805836
+self-inductance	113608728
+self-induction	111488978
+self-indulgence	100748969 104891822
+self-indulgent	301302635
+self-indulgently	400116998
+self-insurance	113369807
+self-interest	104842259 104842719
+self-involved	300102878
+self-justification	106754000
+self-knowledge	105814388
+self-limited	302805932
+self-loader	102762968
+self-loading	300183204
+self-locking	300183718
+self-love	104842491 107524235
+self-loving	302105974
+self-luminous	300283926
+self-made	302340696
+self-mortification	101168027
+self-moving	300183525
+self-opinionated	300289228
+self-organisation	101140720
+self-organization	101140720
+self-pity	107553660
+self-pollinated	300874998
+self-pollinating	302806085
+self-pollination	107453583
+self-portrait	104176996
+self-possessed	300532559
+self-possession	104869236
+self-praise	107244190
+self-preservation	100821619
+self-pride	107523944
+self-proclaimed	300691690
+self-produced	300182462
+self-propelled	300813733 301566881
+self-propelled vehicle	104177098
+self-propelling	300813733 301566881
+self-protection	100826853
+self-punishment	101165162
+self-raising flour	107609821
+self-realisation	100063491
+self-realization	100063491
+self-referent	300204100
+self-reformation	100262101
+self-regard	104894076
+self-registering thermometer	104177445
+self-regulating	300183525
+self-reliance	114024516
+self-reliant	300731669
+self-renewal	101251508
+self-renewing	302806222
+self-renunciation	100206498
+self-report inventory	106486274
+self-report personality inventory	106486274
+self-reproach	106726589 107551462
+self-reproof	106726589
+self-respect	104894076
+self-respectful	301897055
+self-respecting	301897055
+self-restraining	301304141
+self-restraint	104890438
+self-righteous	301786645
+self-righteously	400448011
+self-rising flour	107609821
+self-rule	114016223
+self-sacrifice	101208451
+self-sacrificing	302106722
+self-satisfaction	107547101
+self-satisfied	300591760 300592141
+self-sealing	300054781 301781390
+self-seeded	301838059
+self-seeker	110399075
+self-seeking	104842719 302106198
+self-service	100099759 302806312
+self-serving	302106198
+self-sowed	301838059
+self-sown	301838059
+self-starter	104177576 110596634
+self-stimulation	100857565
+self-styled	301924400
+self-sufficiency	114024516
+self-sufficient	300732883
+self-sufficing	300732883
+self-suggestion	100159625
+self-supporting	300733091
+self-sustained	301103041
+self-sustaining	300732883
+self-taught art	103867479
+self-torment	107512064
+self-torture	107512064
+self-whispered	300955497
+self-will	104869236 104870305
+self-willed	301618926
+self-winding	300183810
+self-worship	101046685
+self-worth	104894076
+selfish	302105605
+selfish person	110596414
+selfishly	400328482
+selfishness	104841836
+selfless	300102370
+selflessly	400272405
+selflessness	101208451 104840507
+selfsame	302076350
+selfsameness	104750726
+seljuk	108174988 302981905
+selkirk	111311814
+selkirk mountains	109452838
+selkup	106972920 109727131
+sell	101117483 200769680 202240448 202247246 202249738 202543073 202733758 202754081 202754230
+sell off	202249030
+sell out	200615215 202252366
+sell short	200673572 202247968
+sell someone out	200938795
+sell up	202252366
+sell-by date	115185465
+sellable	302069537
+seller	110596736
+seller's market	101100170
+sellers	111312095
+sellers' market	101100170
+selling	101115160
+selling agent	110597162
+selling point	104739626
+selling price	113325031
+selling race	107476788
+selloff	101122270
+sellotape	102996250 201334670
+sellout	100751514 101117127 107470798 109851585
+selma	109077079
+selsyn	104177755
+seltzer	107952788 107953219
+selva	108456361
+selvage	104177994 104178127
+selvedge	104177994 104178127
+selznick	111312197
+semantic	302852927
+semantic error	107314934
+semantic memory	105769157
+semantic relation	113829848
+semantic role	106342796
+semantically	400131423
+semanticist	110597272
+semantics	105929245 106189508
+semaphore	104178269 201042030 201042150
+semaphore plant	112538518
+semarang	108930003
+semasiology	106190264
+semblance	103673968 104685309 105948354
+semen	105411679
+semester	115229281 115250593
+semester hour	100066895
+semestral	301977201
+semestrial	301977201
+semi	104179403 104474900 107482533
+semi-abstraction	104178434
+semi-automatise	200481327
+semi-automatize	200481327
+semi-climber	111551785
+semi-climbing	301240035
+semi-detached house	104179168
+semi-dry	302564789
+semi-erect	301240127
+semi-evergreen	300917003
+semi-formal	301047445
+semi-processed	301959123
+semi-prostrate	301242490
+semi-skimmed milk	107862664
+semi-sweet chocolate	107619331
+semi-tuberous	303037758
+semi-upright	301240215
+semi-wild	302398217
+semiabstract	301988648
+semiannual	301976413
+semiannually	400256795
+semiaquatic	300125365 300126425
+semiarid	302564672
+semiautobiographical	302806463
+semiautomatic	104178690 300183204 300183939
+semiautomatic firearm	104178520
+semiautomatic pistol	104178690
+semibreve	106883626
+semicentenary	115276023 303010352
+semicentennial	115276023 303010352
+semicircle	113896890
+semicircular	302324396
+semicircular arch	104111478
+semicircular canal	105330776
+semicolon	106857789
+semicoma	105688680
+semicomatose	300575284
+semiconducting	300560245
+semiconducting material	114845418
+semiconductive	300560245
+semiconductor	104178892 114845418
+semiconductor device	104178892
+semiconductor diode	103207444
+semiconductor unit	104178892
+semiconscious	300573555
+semiconsciousness	105687747
+semidark	300277092
+semidarkness	114007770
+semidesert	108523368
+semidetached	300162222
+semidetached house	103261913
+semidiameter	105109562
+semiempirical	300863441
+semiepiphyte	113144068
+semifinal	107482533
+semifinalist	110597473
+semifluidity	104943762
+semiformal	301047445
+semigloss	104179291
+semihard	301155956
+semiliquid	302270049
+semiliterate	300834169 301425227 301425341
+semilunar	302052893
+semilunar bone	105279922
+semilunar cartilage	105295895
+semilunar valve	105402247
+semimajor axis	106019034
+semiminor axis	106019337
+semimonthly	106606580 301977079 400256661
+seminal	301692005 302806627
+seminal duct	105534849
+seminal fluid	105411679
+seminal vesicle	105535230
+seminar	100893825 108344746
+seminarian	110597614
+seminarist	110597614
+seminary	108301915 108302030
+seminiferous	302806748
+seminiferous tubule	105531894
+seminole	106925707 109687632
+seminole bread	111622542
+seminoma	114275666
+seminude	300461914
+semiofficial	301637533
+semiology	105985124
+semiopaque	300436239
+semiotic	302806865
+semiotical	302806865
+semiotician	110597272
+semiotics	105985124
+semiparasite	113141534
+semiparasitic	302807017
+semipermanent	301443874
+semipermeable	301777057
+semipermeable membrane	105454999
+semipolitical	301820315
+semiprecious	302511769
+semiprivate	301866705
+semipro	110597801
+semiprofessional	110597801
+semipublic	301867995
+semiquaver	106884584
+semirigid	301027617 301030526
+semiskilled	302238069
+semisoft	301158389
+semisolid	302268603
+semisweet	302404940
+semisynthetic	301577961
+semite	109660898 303127361
+semiterrestrial	302821255
+semitic	106999554 303127361 303127542
+semitic deity	109537037
+semitic-speaking	300501965
+semitone	106872225
+semitrailer	104179403
+semitrance	105689384
+semitransparency	104709699
+semitransparent	300434341
+semitropic	302940529
+semitropical	302940529
+semitropics	108692082
+semivowel	107129117
+semiweekly	106606334 301975786 400256331
+semnopithecus entellus	102491046
+semolina	107585586
+sempach	101296823
+sempiternal	301011536
+sempiternity	105060678
+sempstress	110053137
+sen	113694660
+senate	108178376 108178490
+senate campaign	107488472
+senate race	107488472
+senator	110597923
+senatorial	302807124
+senatorship	100605246
+send	200975088 201033289 201064577 201091334 201439891 201954657 201955339 202353564
+send a message	200744851
+send around	202047394
+send away	202407967 202471362
+send back	200952006
+send down	202507881
+send for	200794133
+send in	201440234 202493817
+send off	201064577 201518423 201958986
+send on	201959367
+send out	201439891
+send packing	202471362
+send word	200875364
+send-off	106642365 107344168
+send-up	106793148
+sendee	110598108
+sender	104479961 110598214
+sendero luminoso	108061428
+sending	100121986
+sendup	106793148
+sene	113730497
+seneca	106929185 109687763 111312381
+seneca lake	109453004
+seneca snakeroot	112726738
+senecan	303049579
+senecio	112031536
+senecio aureus	112020825
+senecio bigelovii	112031839
+senecio cineraria	112032089
+senecio cruentus	112022176
+senecio doublasii	112032307
+senecio glabellus	112032580
+senecio jacobaea	112032722
+senecio milkanioides	111981142
+senecio triangularis	112032979
+senecio vulgaris	112033224
+senefelder	111312652
+senega	112725980 112727000
+senega root	112726738
+senega snakeroot	112726738
+senegal	109018232
+senegal gum	114925309
+senegalese	109750166 303127711
+senegalese franc	113700805
+seneka snakeroot	112726738
+senesce	200248912
+senescence	104934809 113450179
+senescent	301649151
+seneschal	110303243
+senga root	112726738
+senhor	110598404
+senile	301649738
+senile dementia	114420111
+senile psychosis	114420111
+senility	104934969 115179150
+senior	110068026 110598514 301017278 301648667 302107054
+senior chief petty officer	110598628
+senior citizen	110396222
+senior class	108256304
+senior high	108426574
+senior high school	108426574
+senior master sergeant	110598821
+senior moment	105681167
+senior pilot	109912145
+senior status	113972794
+senior vice president	110599001
+seniority	104935067 113972794
+seniti	113712319
+senna	112519668
+senna alata	112519944
+senna alexandrina	112520484
+senna auriculata	112520262
+senna marilandica	112520814
+senna obtusifolia	112521023
+senna occidentalis	112521256
+sennacherib	111312799
+sennenhunde	102110072
+sennett	111312998
+sennit	104179573
+senor	106353232
+senora	106353385
+senorita	106353552
+sens	103997192
+sensate	300118465
+sensation	105659816 105720023 107530021 109781932 114060962
+sensational	301286013 302108860 302807248
+sensationalism	105979178 105985338 107102245 107262270
+sensationalist	110599287
+sensationalistic	302109222
+sensationally	400450751
+sense	105622440 105659816 105685345 105815020 106614825 200590704 200590864 202110460 202159678
+sense datum	105720023
+sense experience	105720023
+sense impression	105720023
+sense modality	105660241
+sense of balance	105667210
+sense of direction	105685585
+sense of duty	109207440
+sense of equilibrium	105667210
+sense of hearing	105665563
+sense of humor	104657558
+sense of humour	104657558
+sense of movement	105666830
+sense of purpose	105177927
+sense of responsibility	105685691
+sense of right and wrong	109207033
+sense of shame	109207440
+sense of smell	105666448
+sense of taste	105666071
+sense of the meeting	113995627
+sense of touch	105662964
+sense organ	105306677
+sense tagger	106589957
+sensed	301614125
+senseless	300443382 300574798 301951756 302513350
+senselessly	400403618 400450909
+senselessness	105181550
+sensibilise	200273190
+sensibility	105660771 105685989 107528087
+sensibilize	200273190
+sensible	300192753 301752636 301950023 302109764
+sensible horizon	108603184
+sensibleness	105158948
+sensibly	400217109
+sensify	200273190
+sensing	100878552 105718634
+sensing element	103185635
+sensitisation	100830831 113575546 114555585
+sensitise	200273190 200574748 200575009 202120261
+sensitised	302369499
+sensitiser	114748186
+sensitising	100830831 302115478
+sensitive	110325946 300417683 301717206 302109764 302110761 302113270
+sensitive fern	113219812
+sensitive pea	112514863
+sensitive plant	111775579 111775788
+sensitively	400379694
+sensitiveness	104850224 105026827 105660771 107527704
+sensitivity	104850224 105026827 105660771 107527704 114555374
+sensitization	100830831 113575546 114555585
+sensitize	200273190 200574748 200575009 202120261
+sensitized	302369499
+sensitizer	114748186
+sensitizing	100830831 302115478
+sensitometer	104179668
+sensor	103185635
+sensorial	302115945
+sensorimotor	302905688
+sensorimotor area	105497650
+sensorimotor region	105497650
+sensorineural	302905579
+sensorineural hearing loss	114575157
+sensorium	105497462
+sensory	300334509 302115945 302807248
+sensory activity	100878415
+sensory aphasia	114122654
+sensory deprivation	100425037
+sensory epilepsy	114113898
+sensory faculty	105659816
+sensory fiber	105483049
+sensory hair	101904469
+sensory nerve	105482786
+sensory neuron	105474544
+sensory receptor	105306677
+sensory system	105518353 105660241
+sensual	301260217 301783117
+sensualise	200133786
+sensualism	105985338 107504015
+sensualist	109652434
+sensuality	107504015
+sensualize	200133786 200728974 201684368
+sensually	400451334
+sensualness	107504015
+sensuous	300071036
+sensuously	400451059
+sensuousness	107528652
+sent	113722553 302116728
+sente	113709861
+sentence	101191772 106295743 115249488 200908688
+sentence stress	107100407
+sentence structure	106185823
+sentential	303003198
+sentential function	106296883
+sententious	300550536 301857046
+sententiously	400426848
+sentience	105013204 105659816 105685793
+sentiency	105659816
+sentient	300118196 300573688
+sentiment	105954491 107497091
+sentimental	300857592 302458360
+sentimentalisation	101221796
+sentimentalise	200012937 200534265 200580182
+sentimentalism	104635437 106788613
+sentimentalist	110599128
+sentimentality	104634863 107497268
+sentimentalization	101221796
+sentimentalize	200012937 200534265 200580182
+sentimentally	400451502
+sentimentise	200012937
+sentimentize	200012937
+sentinel	110290913
+sentry	110290913
+sentry box	104179837
+sentry duty	100731836
+sentry go	100731836
+seoul	108975724
+sep	115237535
+sep 11	115325294
+sepal	111711081
+sepaline	302807411
+sepaloid	302807411
+separability	114441397
+separable	300788558
+separably	400451818
+separate	104179965 106280438 200329612 200334996 200652006 200656296 201461602 201559703 201560556 202034003 202035003 202436167 202473085 202517971 202627934 300162033 300570805 301330323 302116958
+separate off	200334236
+separate out	201461293
+separated	300544502 300570568 301321452 302117727
+separately	400208995
+separateness	104750006 114024698 114437907
+separation	100384414 101203511 101203919 101256840 105097154 107310009 107346000 108664696 114437698
+separation energy	111449171
+separationism	101205155
+separationist	110599482
+separatism	101205155 104950881 108397071
+separatist	110599482 300732063
+separative	300471161 300567554 300567830
+separator	102999605
+separatrix	106857953
+sephardi	110599756
+sephardic jew	110599756
+sepia	101975052 104980653 115046494
+sepiidae	101974924
+sepiolite	114705606
+sepoy mutiny	101283647
+seppuku	100224229
+sepsis	114204330
+sept	107987168 115237535
+sept. 11	115325294
+septal	302807534
+septal defect	114492738
+septate	302807534
+septation	100399393
+septectomy	100688725
+september	115237535
+september 11	115325294
+september 17	115215487
+september 29	115211247
+september elm	112429222
+september equinox	115248546
+septenary	113767056
+septet	107055769 108004236 108004932 108264856 113767056
+septette	107055769 108004236 108004932 108264856
+septic	302121107 303010177
+septic sore throat	114208468
+septic tank	104180107
+septicaemia	114213319
+septicemia	114213319
+septicemic	302122467
+septicemic plague	114163441
+septillion	113775725
+septobasidiaceae	113090108
+septobasidium	113090295
+septobasidium pseudopedicellatum	113090533
+septrional	301609527
+septuagenarian	110599889
+septuagesima	115217107
+septuagesima sunday	115217107
+septuagint	106460067
+septum	105230233 111703912
+septuple	302227734
+sepulcher	102925268
+sepulchral	301371380 301629673 302807677
+sepulchre	102925268
+sepulture	102925268 107466297
+sequel	106411146 107310125
+sequela	114574206
+sequella	107309457
+sequenator	104180572
+sequence	101012400 104180233 105051973 107356983 108476263 200662242 200922096
+sequencer	104180405 104180572
+sequent	300123654 301671982
+sequential	301671982
+sequential operation	113576003
+sequentially	400293663
+sequester	200496744 200496934 200580444 202278138 202278767
+sequestered	301330526 301864995
+sequestrate	200496744 200496934
+sequestration	100088038 101204674 106567561 113575789
+sequin	104180759
+sequined	300056900
+sequoia	111661096
+sequoia gigantea	111661945
+sequoia national park	108626543
+sequoia sempervirens	111661485
+sequoia wellingtonia	111661945
+sequoiadendron	111661726
+sequoiadendron giganteum	111661945
+sequoya	111313147
+sequoyah	111313147
+seraglio	103499206
+serail	103499206
+serape	104180968
+seraph	109562983
+seraphic	301462871 302882150
+seraphical	302882150
+serax	103873353
+serb	109770407
+serbia	108834821
+serbia and montenegro	108834088
+serbian	109770407 302975487
+serbo-croat	106957857
+serbo-croatian	106957857
+serdica	108732291
+sere	302564004
+serenade	107056332 107067772 201707716
+serendipitous	301471467
+serendipity	111484294
+serene	300463228 300531862
+serenely	400452127
+sereness	114561074
+serengeti	109058573
+serengeti national park	109058770
+serengeti plain	109058573
+serenity	104911529 107531029
+serenoa	112618094
+serenoa repens	112618227
+serer	107009415
+serf	110599987
+serfdom	114021748
+serfhood	114021748
+serflike	301069303
+serge	104181087
+serge koussevitzky	111129960
+sergeant	110469095 110600224 110601342
+sergeant at arms	110600546
+sergeant first class	110113244
+sergeant fish	102576902
+sergeant major	102610100 110600730
+sergeant-at-law	110601342
+sergei aleksandrovich koussevitzky	111129960
+sergei diaghilev	110953200
+sergei eisenstein	110975475
+sergei mikhailovich eisenstein	110975475
+sergei pavlovich diaghilev	110953200
+sergei rachmaninoff	111271521
+sergei rachmaninov	111271521
+sergei sergeyevich prokofiev	111266992
+sergei vasilievich rachmaninoff	111271521
+sergei vasilievich rachmaninov	111271521
+serger	104181162
+serial	106606007 106633954 301671982 302388926 302807844 302808080
+serial killer	110600916
+serial monogamy	113989714
+serial murderer	110600916

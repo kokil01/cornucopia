@@ -1,0 +1,1000 @@
+ischemia	114189600
+ischemic	302762505
+ischemic anoxia	114067190
+ischemic hypoxia	114065245
+ischemic stroke	114189840
+ischia	108823994
+ischial bone	105282965
+ischigualastia	101723910
+ischium	105282965
+isentropic	302762661
+isere	109339218
+isere river	109339218
+iseult	110570822
+isfahan	108931785
+isherwood	111094274
+ishmael	110406011 111094563
+ishtar	109539633
+isi	108360461
+isidor feinstein stone	111339408
+isidore auguste marie francois comte	110925986
+isinglass	114705716
+isis	109535526
+iskcon	108114732
+islam	106244979 108112613
+islam nation	108241605
+islamabad	108999405
+islamic	302934823
+islamic army of aden	108041865
+islamic army of aden-abyan	108041865
+islamic calendar	115203888
+islamic calendar month	115241762
+islamic community	108044271
+islamic great eastern raiders-front	108042250
+islamic group	108028760 108044271
+islamic group of uzbekistan	108042588
+islamic jihad	108029497 108040127
+islamic jihad for the liberation of palestine	108040127
+islamic law	108472840
+islamic party of turkestan	108042588
+islamic republic of iran	108930441
+islamic republic of mauritania	108989171
+islamic republic of pakistan	108998272
+islamic resistance movement	108039012
+islamic state of afghanistan	108721268
+islamic ummah	108241605
+islamic unity	108029116
+islamise	200386356 200386923
+islamism	106244979 108112993
+islamist	109702199 110237005
+islamize	200386356 200386923
+islamophobia	106213338
+island	103592487 109339360
+island dispenser	103430323
+island hop	202100178
+island of guernsey	108907571
+island of jersey	108907465
+island-dweller	110237106
+islander	110237106
+islands of langerhans	105492966
+islay	108914095 112667158
+isle	109342362
+isle of man	108907943
+isle of skye	108913944
+isle of wight	109502368
+isle royal national park	108623762
+isles of langerhans	105492966
+isles of scilly	108907690
+islet	109342362
+islets of langerhans	105492966
+ism	105952149
+ismaili	110237222 302762762
+ismailian	110237222
+ismailism	106246646
+isn	108361228
+isoagglutination	113524548
+isoagglutinin	115053385
+isoagglutinogen	115053714
+isoantibody	115054049
+isobar	108606907
+isobilateral	302380686
+isobutyl nitrite	102933133
+isobutylene	114811440
+isobutylphenyl propionic acid	103561461
+isocarboxazid	103592611
+isochronal	300894862
+isochrone	108607088
+isochronous	300894862
+isoclinal	108607226 300894998
+isoclinic	300894998
+isoclinic line	108607226
+isocrates	111094759
+isocyanate	114948010
+isocyanic acid	114948100
+isocyclic	300680438
+isoetaceae	113246853
+isoetales	113246627
+isoetes	113247033
+isoflurane	103592792
+isogamete	105464919
+isogamy	113524716
+isogon	113889136
+isogonal line	108507850
+isogone	108507850
+isogonic	302056295
+isogonic line	108507850
+isogram	108607357
+isohel	108607611
+isolable	302118619
+isolate	200495205 200496744 200497851 200657049
+isolated	300570124 300596949 301330157 302117727 302118375 302259320
+isolating	300112415
+isolation	101204519 101242282 107517815 113524876 114438119
+isolationism	106674938
+isolationist	110237354 303034431
+isolationistic	303034431
+isolde	110570822
+isole egadi	108802757
+isoleucine	114948205
+isomer	114948326
+isomerase	114948497
+isomeric	302839573
+isomerisation	107430707
+isomerise	200576073 200576246
+isomerism	113962767
+isomerization	107430707
+isomerize	200576073 200576246
+isometric	106814598 300356893 300661127 300895100 302839687
+isometric exercise	100629089
+isometric line	106814598
+isometrical	300895100
+isometrics	100629089
+isometropia	114579280
+isometry	104755894 105138802 113808399 115303946
+isomorphic	302839802
+isomorphism	104751885
+isomorphous	302839802
+isomorphy	104751885
+isoniazid	103592884
+isopleth	108607357
+isopod	101993441
+isopoda	101993268
+isopropanol	114734068
+isopropyl alcohol	114734068
+isoproterenol	103593043
+isoptera	102225370
+isopteran	303149508
+isoptin	104535103
+isopyrum	111756291
+isopyrum biternatum	111756446
+isordil	103593215
+isoroku yamamoto	111421793
+isosceles	302381519
+isosceles triangle	113902856
+isosmotic	300898273
+isosmotic solution	114873537
+isosorbide	103593215
+isospondyli	102531165
+isostasy	114026917
+isotherm	108607728
+isothermal	300895263
+isothermic	302913910
+isothiocyanate	115057934
+isotonic	300357061 300898273 302415586 302839979
+isotonic exercise	100629371
+isotonic solution	114873537
+isotope	114643836
+isotopic	302913783
+isotropic	301363720
+isotropically	400012509
+isotropous	301363720
+isotropy	104924616
+israel	108810147 108810400
+israel baline	110867050
+israel strassberg	111341046
+israel zangwill	111424867
+israeli	109735229 302984470
+israeli defense force	108362540
+israeli monetary unit	113728288
+israelite	109700747 109735081
+israelites	108500946
+issachar	111094860
+issuance	101062158
+issue	101062158 101105519 103308910 105822417 105822776 106609182 107334509 110393697 111430739 113281089 113388766 200530070 200969657 201065071 201066821 202484912
+issue forth	202749796
+issuer	108071902
+issuing	101062158
+issus	101284131
+istanbul	109064260
+isthmian	302762894
+isthmian games	100517437
+isthmus	105274710 109342510
+isthmus of corinth	109342808
+isthmus of darien	109343145
+isthmus of kra	109343017
+isthmus of panama	109343145
+isthmus of suez	109343391
+isthmus of tehuantepec	109343517
+istiophoridae	102632682
+istiophorus	102633098
+istiophorus albicans	102633245
+isuprel	103593043
+isuridae	101486011
+isurus	101486621
+isurus glaucus	101487203
+isurus oxyrhincus	101486926
+isurus paucus	101487088
+it	106143961
+itaconic acid	114948611
+italia	108819530
+italian	106976989 109735443 302968612
+italian bee	102211763
+italian bread	107703371
+italian capital	108824749
+italian clover	111773612
+italian cypress	111653070
+italian dressing	107850136
+italian greyhound	102093684
+italian honeysuckle	112695656
+italian lira	113708481
+italian millet	112155787
+italian monetary unit	113708373
+italian parsley	112963332
+italian peninsula	108819216
+italian region	108821234
+italian renaissance	115284941
+italian republic	108819530
+italian rice	107891412
+italian rye	112145518
+italian ryegrass	112145518
+italian sandwich	107713570
+italian sonnet	106394359
+italian vegetable marrow	112180459
+italian vermouth	107915267
+italian woodbine	112695656
+italian-speaking	300500581
+italic	106362325 106840394 106974593 303087090 303087226
+italic language	106974593
+italicise	201752825
+italicize	201752825
+italo calvino	110900593
+italy	108819530
+itch	105731508 107505591 114203809 201829703 202124339 202125653 202125888
+itch mite	101784339
+itchiness	105731508
+itching	105731508
+itchy	301716780 302414962
+itchy feet	109206037
+item	103593583 105825971 106494090 106808603 113832132 400258092
+item-by-item	300732690
+itemisation	101013108
+itemise	200948137 200948620
+itemization	101013108
+itemize	200948137 200948620
+iterate	200344254 200960366
+iteration	101021071 113525111 113525376
+iterative	113827806 301971457
+iterative aspect	113827806
+ithaca	108802598 109144481
+ithaki	108802598
+ithiel town	111366705
+ithunn	109604512
+itinerant	110237501 302135946
+itinerary	105914300 106435021 108633886
+itinerate	202106525
+itineration	100312207
+itraconazole	103593855
+itsy-bitsy	301395585
+itty-bitty	301395585
+iud	103587265
+iv	101060907 113766444 302194304
+iva	112005522
+iva xanthifolia	112005790
+ivan iii	111095011
+ivan iii vasilievich	111095011
+ivan iv	111095209
+ivan iv vasilievich	111095209
+ivan lendl	111146071
+ivan pavlov	111247196
+ivan petrovich pavlov	111247196
+ivan sergeevich turgenev	111372030
+ivan the great	111095011
+ivan the terrible	111095209
+ivan turgenev	111372030
+ivanov	111095342
+ives	111095442 111095660
+ivied	301706593
+ivor armstrong richards	111280935
+ivory	104968508 114781726
+ivory black	114943034
+ivory coast	108754350
+ivory coast franc	113700103
+ivory gull	102045126
+ivory nut	112615294
+ivory palm	112615085
+ivory plant	112615085
+ivory tower	105682771
+ivory tree	111793348
+ivory-billed woodpecker	101843053
+ivory-nut palm	112615085
+ivorybill	101843053
+ivp	100908527 103587677
+ivry	101284306
+ivry la bataille	101284306
+ivy	111819447
+ivy arum	111809196
+ivy family	111817213
+ivy geranium	112708718
+ivy league	108249627
+ivy leaguer	110237713
+ivy-covered	301706593
+ivy-leaved geranium	112708718
+iw	100998266
+iwo	101284515
+iwo jima	101284515 108946841
+iww	108490184
+ix	113767410 302194800
+ixc	302202688
+ixia	112438191
+ixl	302197821
+ixobrychus	102014717
+ixobrychus exilis	102014839
+ixodes	101779673
+ixodes dammini	101779945
+ixodes dentatus	101781262
+ixodes neotomae	101780108
+ixodes pacificus	101780290
+ixodes persulcatus	101781128
+ixodes ricinus	101780858
+ixodes scapularis	101780550
+ixodes spinipalpis	101781442
+ixodid	101779346
+ixodidae	101779187
+iyar	115240790
+iyyar	115240790
+iz al-din al-qassam battalions	108057009
+izaak walton	111393094
+izanagi	109558112
+izanami	109558241
+izar	103593385
+izmir	109064797
+izzard	106846940
+j	106845190 113748184
+j particle	109345255
+j. b. rhine	111278914
+j. b. s. haldane	111043066
+j. c. maxwell	111186494
+j. craig ventner	111382568
+j. d. salinger	111298970
+j. e. johnston	111108761
+j. edgar hoover	111078909
+j. j. hill	111070052
+j. m. barrie	110854618
+j. m. synge	111347739
+j. p. morgan	111210436
+j. r. firth	110991256
+j.r.r. tolkien	111365176
+jab	100136131 100136772 100335761 201232540 201232914 201233119
+jabalpur	108923455
+jabat al-tahrir al-filistiniyyah	108054255
+jabber	106623345 201053828
+jabberer	110054510
+jabbering	106623345
+jabberwocky	106621649
+jabbing	100335761
+jabiru	102006493 102006785 102007146
+jabiru mycteria	102006493
+jaboncillo	112762552
+jabot	103594028
+jaboticaba	107781838 112353570
+jaboticaba tree	112353570
+jacamar	101845706
+jacaranda	112543980
+jacinth	114933735
+jack	102392595 102579206 103594138 103594280 103594407 103594500 103594700 103594859 107770660 110260997 110314263 113795187 201147831 201222108
+jack bean	112531744
+jack benny	110865020
+jack crevalle	102579537
+jack dempsey	110950342
+jack frost	109514353
+jack kennedy	111120990
+jack kerouac	111122483
+jack ladder	103596303
+jack lemmon	111145830
+jack london	111157738
+jack mackerel	102583310
+jack nicklaus	111226346
+jack oak	112291968 112295380
+jack of all trades	110178882 110237834
+jack off	201433266
+jack pine	111636058
+jack plane	103596119
+jack roosevelt robinson	111285721
+jack salmon	102560380
+jack the ripper	111097359
+jack up	201222108
+jack william nicklaus	111226346
+jack-a-lantern	113026089
+jack-by-the-hedge	111890887
+jack-in-the-box	103595775
+jack-in-the-pulpit	111800617 111804966
+jack-o'-lantern	103596028 111479768
+jack-o-lantern	113026089
+jack-o-lantern fungus	113026089
+jack-tar	110314263
+jackal	102117748
+jackanapes	110796655
+jackass	102392595 110177319
+jackass bat	102151164
+jackass penguin	102059689
+jackboot	103522007
+jackdaw	101582219
+jacket	103143740 103594978 103595493 103595662 107727216 200048507 201337613
+jacket crown	103143740
+jacket potato	107727116
+jackfruit	107770660 112421225
+jackfruit tree	112421225
+jackhammer	102692293
+jackie robinson	111285721
+jacking off	100857822
+jackknife	100445325 103042465 201967466
+jackknife clam	101961670
+jackknife-fish	102597686
+jacklight	103595919 201147831
+jackpot	113289706 113364789
+jackrabbit	102329680 202101954
+jacks	100486273
+jackscrew	103596215
+jacksmelt	102605390
+jacksnipe	102031381 102035423
+jackson	109123727 109127619 109163511 109182652 111095813 111096069 111096349 111096556 111096810 111096955 111097185
+jackson pollock	111261096
+jacksonia	112556960
+jacksonian	110237962 303087372
+jacksonian epilepsy	114111240
+jacksonville	109095763
+jackstones	100486273 103594500
+jackstraw	103596652
+jackstraws	100486461
+jacob	110238060 111097474
+jacob epstein	110979656
+jacob harmensen	110842566
+jacob's ladder	103596303 112830386
+jacob's rod	112463053
+jacob's staff	112402448
+jacobean	110238362 303087536
+jacobean lily	112443064
+jacobi	111097639
+jacobin	110238472
+jacobinic	303087658
+jacobinical	303087658
+jacobinism	106229986
+jacobite	110238659
+jacobs	111097752 111097917 111098049
+jacobus arminius	110842566
+jaconet	103596500
+jacopo robusti	111363203
+jacquard	103596779 103596985 111098193
+jacquard loom	103596779
+jacqueline cochran	110923474
+jacquemier's sign	114290023
+jacques alexandre cesar charles	110911970
+jacques anatole francois thibault	110997364
+jacques bernoulli	110867952
+jacques cartier	110904928
+jacques charles	110911970
+jacques costeau	110933255
+jacques derrida	110951203
+jacques etienne montgolfier	111208113
+jacques francois antoine ibert	111090521
+jacques francois fromental elie halevy	111043879
+jacques germain soufflot	111328872
+jacques lipchitz	111153768
+jacques loeb	111157165
+jacques louis david	110943824
+jacques lucien monod	111205806
+jacques marquette	111178146
+jacques monod	111205806
+jacques offenbach	111232524
+jacques tati	111352567
+jacques tatischeff	111352567
+jacques yves costeau	110933255
+jacquinia	112120320
+jacquinia armillaris	112120489
+jacquinia keyensis	112120704
+jactation	104632872
+jactitate	201894785
+jactitation	104632872 106770190 107244190
+jaculus	102354827
+jaculus jaculus	102354942
+jade	102384856 104975926 109792353 114948740 200074774 200075867 300377707
+jade green	104975926
+jade vine	112592286
+jade-green	300377707
+jaded	302085283 302442794
+jadeite	114702923
+jadestone	114948740
+jaeger	102046832
+jafar	111098394
+jafar umar thalib	111098394
+jaffa	108816047
+jaffa orange	107765071
+jaffar	111098394
+jaffar umar thalib	111098394
+jafnea semitosta	113052234
+jag	100750789 103597088 103597242 109343732 201258188
+jagannath	109553647
+jagannatha	109553647
+jagatai	106940824
+jagganath	109553647
+jaggary	115087522
+jagged	300915402 302254647
+jaggedly	400440739
+jaggedness	104779930
+jagger	111098640
+jaggery	115087522
+jaggery palm	112607893
+jagghery	115087522
+jaggy	300915402 302254647
+jaghatai	106940824
+jagua	112688343
+jaguar	102131577
+jaguarondi	102128341
+jaguarundi	102128341
+jaguarundi cat	102128341
+jahvey	109561429
+jahweh	109561429
+jai alai	100481377
+jail	103597432 202500005
+jail bird	110238791
+jail cell	102994757
+jail delivery	100096693
+jailbird	110238791
+jailbreak	100060809
+jailed	301068815
+jailer	110169387
+jailhouse	103597432
+jailor	110169387
+jain	302936655
+jainism	106249785 108115158
+jainist	109704463 302936655
+jaish-e-muhammad	108042950
+jaish-i-mohammed	108042950
+jak	107770660
+jakarta	108929492
+jakes	103865924
+jakob behmen	110873993
+jakob bernoulli	110867952
+jakob boehm	110873993
+jakob boehme	110873993
+jakob bohme	110873993
+jakob grimm	111036559
+jakob hermandszoon	110842566
+jakob liebmann beer	111197685
+jakob ludwig felix mendelssohn-bartholdy	111193907
+jakob ludwig karl grimm	111036559
+jakob-creutzfeldt disease	114123976
+jakobson	111098764
+jalalabad	108721930
+jalapeno	107737423 112921747
+jalapeno pepper	107737423
+jalopy	102927938
+jalousie	103597856 103698168
+jam	101255966 107658542 108200316 114432893 201058906 201479113 201495601 201527086 201527965 201997700 202068059
+jam session	100103194
+jam-packed	300562326
+jamaat ul-fuqra	108043292
+jamaica	108771562 108771766
+jamaica apple	107777437
+jamaica bayberry	112351408
+jamaica caper tree	111885898
+jamaica dogwood	112580023
+jamaica honeysuckle	112404892
+jamaica quassia	112739243 112739445
+jamaica rum	107921626
+jamaica shorts	102834779
+jamaica sorrel	112200149
+jamaican	109737488 303087860
+jamaican capital	108772071
+jamaican cherry	112214664
+jamaican dollar	113695659
+jamais vu	105692644
+jamb	103597960
+jambalaya	107885587
+jambeau	103462393
+jamberry	112932200 112932433
+jambon	107685636
+jamboree	100519725
+jambos	112353235
+jambosa	112352735
+james	106458381 109343891 109344086 111098972 111099242 111099382 111099534 111099792 111100164 111100341
+james a. garfield	111010729
+james abbott mcneill whistler	111403420
+james abraham garfield	111010729
+james agee	110829180
+james albert michener	111198621
+james alfred van allen	111378369
+james arthur baldwin	110851847
+james augustine aloysius joyce	111113106
+james augustus henry murray	111217089
+james augustus murray	111217089
+james baldwin	110851847
+james barrie	110854618
+james bay	109344244
+james bernoulli	110867952
+james bond	109613551
+james boswell	110878468
+james bowie	110879453
+james branch cabell	110897208
+james buchanan	110889518
+james buchanan brady	110880925
+james butler hickock	111069438
+james byron dean	110945818
+james cagney	110898596
+james clark ross	111291084
+james clerk maxwell	111186494
+james cleveland owens	111239283
+james cook	110928065
+james crichton	110934777
+james dean	110945818
+james dewey watson	111396196
+james douglas morrison	111212523
+james earl carter	110904583
+james earl carter jr.	110904583
+james edmund scripps	111310097
+james edward meade	111190594
+james fenimore cooper	110928879
+james francis thorpe	111361474
+james franck	110998418
+james garfield	111010729
+james george frazer	110999690
+james grover thurber	111361755
+james hargreaves	111049001
+james harold doolittle	110960045
+james harvey robinson	111285904
+james henry leigh hunt	111086762
+james hogg	111075802
+james howard meredith	111195995
+james hutton	111089251
+james i	111099792
+james ii	111100164
+james iv	111100341
+james ives	111095442
+james jerome hill	111070052
+james john corbett	110930173
+james joseph tunney	111371827
+james joyce	111113106
+james k. polk	111260723
+james knox polk	111260723
+james langston hughes	111085096
+james leonard farmer	110986657
+james madison	111168476
+james maitland stewart	111338166
+james marshall hendrix	111060020
+james mason	111183031
+james matthew barrie	110854618
+james mckeen cattell	110911180
+james meredith	111195995
+james merritt ives	111095442
+james michener	111198621
+james mill	111199492
+james monroe	111206032
+james murray	111217089
+james naismith	111219224
+james neville mason	111183031
+james parkinson	111243284
+james polk	111260723
+james prescott joule	111112730
+james riddle hoffa	111074168
+james river	109343891 109344086
+james scott connors	110927253
+james thomas farrell	110987303
+james thomas harris	111050675
+james thurber	111361755
+james tobin	111364230
+james usher	111377874
+james ussher	111377874
+james watson	111396196
+james watt	111396737
+james whitcomb riley	111282458
+james william fulbright	111005156
+james wilson	111411582
+james wyatt	111419616
+jamesian	302763006 302763126
+jamesonia	113232077
+jamestown	109173203
+jamestown weed	112924263
+jamison	111100591
+jamjar	103598309
+jammed	300562326
+jammer	103598118
+jammies	103883150
+jamming	101255966
+jammu and kashmir	108997987
+jampack	201527086
+jampan	103598221
+jampot	103598309
+jan	115234841
+jan amos komensky	110925320
+jan christian smuts	111326614
+jan evangelista purkinje	111268767
+jan hendrix oort	111235531
+jan hus	111087875
+jan steen	111334214
+jan swammerdam	111346149
+jan tinbergen	111362900
+jan van der meer	111383264
+jan van eyck	110984044
+jan vermeer	111383264
+jane austen	110848897
+jane doe	110238910
+jane fonda	110994128
+jane goodall	111027177
+jane jacobs	111097917
+jane seymour	111314670
+jangle	107400598 202177127
+jangling	300300873
+jangly	300300873
+janis joplin	111111535
+janissary	110239050 110239123
+janitor	110239247
+jansen	111100735
+jansenism	106198724
+jansenist	110239350
+january	115234841
+january 1	115207024 115217725 115218106
+january 19	115207404
+january 20	115184225 115210556
+january 6	115219341
+janus	109586748
+janus-faced	300237163 301225960 302485167
+jap	109738048
+jap clover	112563960
+japan	103598409 103598549 108940154 108941623 201686841
+japan allspice	111722167
+japan bittersweet	112769294
+japan cedar	111656655
+japan clover	112563960
+japan current	111510086
+japan tallow	114948924
+japan trench	109344433
+japan wax	114948924
+japanese	106942056 109737613 302976588
+japanese allspice	111722167
+japanese andromeda	112263976
+japanese angelica tree	111818965
+japanese apricot	112661600
+japanese archipelago	108940154
+japanese banana	112373361
+japanese barberry	111718714
+japanese barnyard millet	112138429
+japanese beech	112282702
+japanese beetle	102176025
+japanese bittersweet	112769294
+japanese black pine	111638741
+japanese brome	112132261
+japanese capital	108943121
+japanese carpet grass	112167005
+japanese cedar	111656655
+japanese cherry	112670078
+japanese chess	112132261
+japanese chestnut	112284105
+japanese clover	112563960
+japanese crab	107804316
+japanese deer	102434622
+japanese deity	109557539
+japanese flowering cherry	112670078 112670300
+japanese honeysuckle	112696637
+japanese hop	112419031
+japanese iris	112434540
+japanese islands	108940154
+japanese ivy	113168991
+japanese lacquer tree	112788408
+japanese lawn grass	112167171
+japanese leaf	111802127
+japanese leek	112454457
+japanese lilac	112331930
+japanese lime	112224549
+japanese linden	112224549
+japanese maple	112776487 112776636
+japanese medlar	112650427
+japanese millet	112138429
+japanese monetary unit	113731696
+japanese morning glory	112849551
+japanese oak	112286117 112295834
+japanese oyster	101963875
+japanese pagoda tree	112590899
+japanese persimmon	112792150
+japanese pink	111829401
+japanese plum	107779768 112650427 112669454
+japanese poinsettia	112941281
+japanese privet	112328964
+japanese quince	112645482
+japanese radish	111915561
+japanese red army	108043657
+japanese red pine	111638530
+japanese rose	112642833
+japanese snowbell	112798538
+japanese spaniel	102088434
+japanese spurge	112768131
+japanese stranglehold	100815935
+japanese sumac	112788408
+japanese table pine	111638530
+japanese tree lilac	112331741
+japanese umbrella pine	111680751
+japanese varnish tree	112218803 112788408
+japanese wistaria	112601402
+japanese yew	111682822
+japanese-speaking	300500674
+jape	106790941
+japery	100514412
+japheth	110239448
+japonica	112645329 112950360
+jar	103598713 107353698 113789962 201500503 201773011 201868851 201869037 202673757
+jar against	201242872
+jarful	113789962
+jargon	107085057 107171981 114949053
+jargoon	114949053
+jaroslav hasek	111053866
+jarrell	111100874
+jarring	300301062
+jarringly	400385396
+jarvik artificial heart	103599049
+jarvik heart	103599049
+jasmine	112327234
+jasmine tobacco	112928431
+jasminum	112327036
+jasminum mesnyi	112327455
+jasminum nudiflorum	112327593
+jasminum officinale	112327757
+jasminum sambac	112327972
+jason	109615558
+jasper	114949171
+jasper johns	111107921
+jaspers	111100977
+jassid	102261788
+jassidae	102261562
+jat	110239549
+jati	108323301
+jatropha	112946154
+jatropha curcus	112946343
+jatropha stimulosus	112945939
+jatropha urens	112945939
+jaun gris	111037016
+jaundice	104650754 114343111 200106477 200478038
+jaundice of the newborn	114343443
+jaundiced	300286372 301181100
+jaunt	100312635 201846997
+jauntily	400409457
+jauntiness	104641154 104821256
+jaunting car	103599197
+jaunty	300365225 300975112
+jaunty car	103599197
+java	106913829 107945759 108928021
+java finch	101546273
+java man	102476351
+java olives	112216251
+java pepper	113170955
+java sparrow	101546273
+javan	110239750 303088091
+javanese	106952208 110239750 303088091
+javanthropus	102476913
+javel water	114946112
+javelin	103599335 107485560
+javelina	102400396
+javelle water	114946112
+jaw	103599464 105553673 105610915 200826456 201039370 201040538 201203727
+jawaharlal nehru	111222823
+jawan	110239898
+jawbone	105283404 201041034
+jawbreaker	106316375 107614732
+jawed	302607430
+jawfish	102614191
+jawless	302607733
+jawless fish	101476924
+jawless vertebrate	101476924
+jaws of life	103599710
+jay	101582718 111101101
+jay cooke	110928286
+jay gould	111029269
+jaybird	101583511
+jayshullah	108044067
+jaywalk	201919246
+jaywalker	110240030
+jazz	107075016 107076737 107151419 201429048 201729611
+jazz age	115280250
+jazz around	201886682
+jazz band	108267223
+jazz festival	100519095
+jazz group	108267223
+jazz musician	110240156
+jazz up	200193003
+jazzman	110240156
+jazzy	300408497 302027094
+jdam	103606655
+je ne sais quoi	103600372
+jealous	300892058 302473333
+jealously	400304549 400385526
+jealousy	105714023 107565545
+jean	103179855
+jean anouilh	110838319
+jean antoine watteau	111396934
+jean arp	110843750
+jean auguste dominique ingres	111091828
+jean baptiste camille corot	110931700
+jean baptiste de lamarck	111134781
+jean baptiste donatien de vimeur	111286693
+jean baptiste joseph fourier	110996464
+jean baptiste lully	111164850
+jean baptiste racine	111271778
+jean bernard leon foucault	110996000
+jean bernoulli	110868096
+jean caulvin	110900150
+jean cauvin	110900150
+jean chauvin	110900150
+jean cocteau	110923859
+jean de la fontaine	111134627
+jean edouard vuillard	111389546
+jean francois champollion	110909963
+jean francois millet	111200347
+jean genet	111013932
+jean giraudoux	111021207
+jean harlow	111049128
+jean honore fragonard	110997155
+jean laffite	111134413
+jean lafitte	111134413
+jean louis charles garnier	111011299
+jean louis rodolphe agassiz	110828921
+jean luc godard	111022680
+jean martin charcot	110911582
+jean monnet	111205670
+jean nicholas arthur rimbaud	111282755
+jean paul marat	111175567
+jean piaget	111254282
+jean racine	111271778
+jean sibelius	111319362
+jean-baptiste poquelin	111204684
+jean-claude duvalier	110966742
+jean-frederic joliot	111108959
+jean-frederic joliot-curie	111108959
+jean-jacques rousseau	111292679
+jean-louis lebris de kerouac	111122483
+jean-paul sartre	111302276
+jean-philippe rameau	111272905
+jeanne antoinette poisson	111261645
+jeanne d'arc	111101343
+jeannette rankin	111273792
+jeans	103599921
+jebel musa	109344600
+jed'dah	109017204
+jeddah	109017204
+jeep	103600138
+jeer	106729173 200851872
+jeerer	110580748
+jeering	106729173 302002696
+jeeringly	400349656
+jeffers	111101663
+jefferson	111101818
+jefferson city	109129534
+jefferson davis	110944401
+jefferson davis' birthday	115214519
+jeffersonian	110240477 302763268
+jeffrey pine	111635164
+jeffrey's pine	111635164
+jehad	100998599
+jehovah	109559474 109561429
+jehovah's witness	110268074
+jehovah's witnesses	108108541
+jejunal artery	105356246
+jejune	301348845 301495744 302344882
+jejunely	400385631
+jejuneness	104798663 105213841 114449972
+jejunitis	114371475
+jejunity	104798663 105213841
+jejunoileitis	114371581
+jejunostomy	100682694
+jejunum	105542880
+jekyll and hyde	110240594
+jell	200443624
+jell-o	107629424
+jellaba	103600248
+jelled	302268326
+jellied	302268326
+jellify	200508224 200508412
+jello	107629424
+jelly	107658915 107659590 114949336 200508224
+jelly bean	107622278
+jelly doughnut	107654953
+jelly egg	107622278
+jelly fungus	113080950
+jelly roll morton	111213048
+jellyfish	101913388 101915807
+jellyleaf	112207071
+jellylike	302425406
+jellyroll	107647966
+jem	108042950
+jemaah islamiyah	108044271
+jemmy	103604544
+jena	101284782
+jenghiz khan	111014304
+jenner	111102125

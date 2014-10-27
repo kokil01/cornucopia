@@ -1,0 +1,1000 @@
+301468855	blindly or excessively devoted or adoring
+301468953	like or in the manner of a lover
+301469051	excessively fond
+301469122	easily moved to love
+301469220	(often derogatory) openly expressing love and affection (especially through physical contact)
+301469391	foolishly fond of or submissive to your wife
+301469508	not giving or reciprocating affection
+301469690	sexually unresponsive
+301469871	without love
+301469961	lacking affection or warm feeling
+301470099	neither expressive of nor exciting sexual love or romance
+301470213	relating to small (not capitalized) letters that were kept in the lower half of a compositor's type case
+301470449	lowercase
+301470615	relating to capital letters which were kept in the top half of a compositor's type case
+301470834	uppercase
+301471012	having or bringing good fortune
+301471234	having the power to prevent evil or bad luck
+301471335	having or bringing unusually good luck
+301471467	lucky in making unexpected and fortunate discoveries
+301471597	having or bringing misfortune
+301471765	(usually used colloquially) causing or accompanied by misfortune
+301471909	used of a singer or singing voice that is light in volume and modest in range
+301472076	used of a singer or singing voice that is marked by power and expressiveness and a histrionic or theatrical style
+301472305	(of a bed) having the sheets and blankets set in order
+301472431	(of a bed) not having the sheets and blankets set in order
+301472592	having the properties of a magnet; i.e. of attracting iron or steel
+301472842	capable of being magnetized or attracted by a magnet
+301473056	impervious to the effects of a magnetic field; resistant to magnetization
+301473213	determined by earth's magnetic fields
+301473411	determined by geography
+301473564	determined with reference to the earth's axis rather than the magnetic poles
+301473728	capable of being magnetized
+301473828	not capable of being magnetized
+301473917	greater in number or size or amount
+301474175	more than half
+301474283	inferior in number or size or amount
+301474453	greater in scope or effect
+301474638	lesser in scope or effect
+301474763	of full legal age
+301474869	not of legal age
+301475013	(of a scale or mode) having half steps between the third and fourth degrees and the seventh and eighth degrees
+301475232	(of a scale or mode) having half steps between the second and third degrees, and (usually) the fifth and sixth degrees, and the seventh and eighth degrees
+301475494	of the field of academic study in which one concentrates or specializes
+301475652	of your secondary field of academic concentration or specialization
+301475771	of greater importance or stature or rank
+301475933	indicating the most important performer or role
+301476226	of lesser importance or stature or rank
+301476496	of little importance or influence or power; of minor status
+301476701	not of major importance
+301476823	of greater seriousness or danger
+301476969	of lesser seriousness or danger
+301477139	of or relating to a style of writing characterized by somewhat rounded capital letters; 4th to 8th centuries
+301477339	of the nature of a majuscule or written in majuscules
+301477467	of or relating to a small cursive script developed from uncial; 7th to 9th centuries
+301477656	capable of being managed or controlled
+301477949	capable of being administered or managed
+301478085	capable of being controlled
+301478184	manageable by a supervising agent
+301478303	capable of being steered or directed
+301478425	hard to control
+301478687	incapable of being controlled
+301478913	difficult or impossible to manage or control
+301479040	incapable of being checked or restrained
+301479138	possessing qualities befitting a man
+301479353	calling for the strength of a man
+301479461	not possessing qualities befitting a man
+301479632	having unsuitable feminine qualities
+301479823	having characteristics associated with women and considered undesirable in men
+301479992	being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation
+301480384	for or pertaining to or composed of men or boys
+301480558	capable of fertilizing female organs
+301480698	resembling or being a phallus
+301480871	overly concerned with masculinity and male sexuality
+301481018	capable of fathering offspring
+301481113	being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop
+301481489	for or pertaining to or composed of women or girls
+301481660	capable of producing eggs and bearing offspring
+301481789	having gynoecia, or pistils, the ovule-bearing organ of a seed plant
+301481933	having both male and female characteristics
+301482214	having an ambiguous sexual identity
+301482332	having both male and female morphological characteristics
+301482488	of animal or plant; having both male female reproductive organs
+301482683	having sexual characteristics intermediate between those of male and female
+301482816	having internal reproductive organs of one sex and external sexual characteristics of the other sex
+301483022	not distinguished on the basis of sex
+301483112	having a crew
+301483247	lacking a crew
+301483387	lacking a pilot
+301483493	having or as if having an identifying mark or a mark as specified; often used in combination
+301483799	marked with an asterisk
+301483910	marked with stripes or bands
+301483991	deeply affected or marked by mental or physical pain or injury
+301484223	clearly indicated
+301484321	having markings suggestive of a mask
+301484442	not having an identifying mark
+301484589	not marked with an asterisk
+301484709	marked with a brand
+301484820	not marked with a brand
+301484919	joined in matrimony
+301485119	of or relating to two people who are married to each other
+301485239	of or relating to a marriage partner
+301485327	wearing a wedding ring; lawfully married
+301485447	having been taken in marriage
+301485535	not married or related to the unmarried state
+301485858	of someone whose marriage has been legally dissolved
+301485965	of someone who has no marriage partner
+301486058	of someone who has not been married
+301486172	single because of death of the spouse
+301486263	mated sexually
+301486383	mated sexually
+301486450	not mated sexually
+301486558	not mated sexually
+301486631	associated with men and not with women
+301486869	used of men; markedly masculine in appearance or manner
+301486984	characteristic of a man
+301487257	characteristic of a man as distinguished from a woman
+301487390	associated with women and not with men
+301487649	attractively feminine
+301487758	characteristic of or peculiar to a woman
+301487958	befitting or characteristic of a maiden
+301488121	used of competitive activities in which only women take part
+301488294	befitting or characteristic of a woman especially a mature woman
+301488561	befitting or characteristic of a fully mature woman
+301488708	resembling a woman
+301488809	not womanly
+301489015	used of girls; wild and boisterous
+301489135	resembling or imitative of or suggestive of a man rather than a woman
+301489278	not suitable for a woman
+301489391	of grammatical gender
+301489504	of grammatical gender
+301489634	of grammatical gender
+301489796	going well together; possessing harmonizing qualities
+301490011	intentionally matched
+301490161	being two identical
+301490267	occurring in pairs or as a pair
+301490392	used of relations such that each member of one set is associated with one member of a second set
+301490545	either not matched or unsuitably matched
+301490696	not easy to combine harmoniously
+301490840	of the remaining member of a pair
+301490990	directly relevant to a matter especially a law case
+301491306	having crucial relevance
+301491429	of no importance or relevance especially to a law case
+301491608	having reached full natural growth or development
+301491979	(of animals) fully developed
+301492219	bursting into flower
+301492369	capable of bearing fruit
+301492448	fully ripe; at the height of bloom
+301492570	of leafy vegetables; having formed into a head
+301492688	of girls or women who are eligible to marry
+301492817	past the stage of full bloom
+301492920	being at the best stage of development
+301493085	not yet mature
+301493424	in the state of development between puberty and maturity
+301493620	of an organism prior to birth or hatching
+301493868	initial
+301493965	immature of its kind; especially being or characteristic of immature insects in the newly hatched wormlike feeding stage
+301494217	(especially of human beings) at the age immediately before puberty; often marked by accelerated growth
+301494429	of an inactive stage in the development of some insects, between the larval and the pupal stages
+301494602	(of animals especially human beings) having arrived at the onset of puberty (the age at which sex glands become functional) but not yet fully mature
+301494903	of the insects in the chrysalis (cocoon) or post larval stage
+301495053	not yet fully developed
+301495137	characteristic of maturity
+301495274	characteristic of late maturity verging on decline
+301495405	at the highest point of development especially in judgment or knowledge
+301495542	characteristic of a lack of maturity
+301495744	displaying or suggesting a lack of maturity
+301496055	characteristic of a baby
+301496164	indicating a lack of maturity
+301496321	fully developed or matured and ready to be eaten or used
+301496571	of wines, fruit, cheeses; having reached a desired or final condition; (aged' pronounced as one syllable)
+301496784	having a full and pleasing flavor through proper aging
+301496955	too ripe and beginning to turn soft
+301497045	not fully developed or mature; not ripe
+301497294	not subjected to an aging process
+301497421	occurring at or dependent on a particular season
+301497577	operating or continuing throughout the year
+301497734	in keeping with the season
+301497888	not in keeping with (and usually undesirable for) the season
+301498107	aged or processed
+301498214	(used of concrete or mortar) kept moist to assist the hardening
+301498329	not aged or processed
+301498446	not seasoned
+301498529	gestated for the entire duration of normal pregnancy
+301498683	born after a gestation period of less than the normal time
+301498873	the greatest or most complete or best possible
+301499060	greatest or maximal in degree; extreme
+301499316	the least possible
+301499606	of questionable or minimal quality
+301499757	so small as to be meaningless; insignificant
+301499887	insignificantly small; a matter of form only (tokenish' is informal)
+301500110	having only essential or minimal features
+301500270	having a meaning or purpose
+301500539	being on topic and prompting thought
+301500681	rich in significance or implication
+301500913	having meaning through having an aim
+301501055	having no meaning or direction or purpose
+301501421	devoid of significance or force
+301501635	signifying nothing
+301501755	lacking the thinking capacity characteristic of a conscious being
+301501931	having no intelligible meaning
+301502106	without meaning
+301502253	capable of being measured
+301502441	impossible to measure
+301502652	very great; limitless
+301502766	without limits in extent or size or quantity
+301503136	like or containing meat
+301503281	lacking meat
+301503365	using (or as if using) mechanisms or tools or devices
+301503678	resembling the unthinking functioning of a machine
+301503926	resembling the action of a machine
+301504095	explained in terms of physical forces
+301504234	equipped with machinery
+301504351	operated by a mechanism
+301504445	not mechanical
+301504555	not mechanistic
+301504631	not mechanized
+301504792	containing or constituting or characterized by pleasing melody
+301505184	having a melody (as distinguished from recitative)
+301505298	richly melodious
+301505397	smooth and flowing
+301505500	pleasing to the ear
+301505669	suitable for or suggestive of singing
+301505778	lacking melody
+301505874	having a musical sound; especially a pleasing tune
+301506062	not having a musical sound or pleasing tune
+301506186	having members; normally used in chemistry in combination with a number
+301506475	of a chemical compound having a ring with three members
+301506604	of a chemical compound having a ring with four members
+301506731	of a chemical compound having a ring with five members
+301506858	of a chemical compound having a ring with six members
+301507054	of a chemical compound having a ring with seven members
+301507183	of a chemical compound having a ring with eight members
+301507312	of a chemical compound having a ring with nine members
+301507439	of a chemical compound having a ring with ten members
+301507565	of a group or set having no members
+301507657	extracted from a source of supply as of minerals from the earth
+301507826	of coal, as contrasted with coal obtained from a strip mine
+301507961	well known and commonly used
+301508109	mined near the earth's surface by stripping
+301508210	not mined
+301508304	characteristic of or resembling or accompanied by music
+301508605	sung or uttered rhythmically in a monotone
+301508720	smooth and flowing in quality; entirely free of harshness
+301508860	suitable for singing
+301508997	not musical in nature
+301509141	talented in or devoted to music
+301509298	devoted to or appreciative of music
+301509465	lacking interest in or talent for music
+301509670	changed from a solid to a liquid state
+301509937	(of solid matter) reduced to a liquid form
+301510064	capable of being melted and fused
+301510205	reduced to liquid form by heating
+301510340	no longer frozen solid
+301510449	not melted
+301510624	not thawed
+301510687	retaining a solid form
+301510813	showing or giving mercy
+301511081	having or showing no mercy
+301511487	ruthless in competition
+301511671	unrelenting and deadly
+301511765	without mercy or pity
+301511999	resembling a tiger in fierceness and lack of mercy
+301512123	undergoing metamorphosis
+301512271	undergoing slight or no metamorphosis
+301512398	moderate in type or degree or effect or force; far from extreme
+301512745	soft and mild; not harsh or stern or severe
+301512941	behaving in or having a mild or gentle manner
+301513046	not extreme
+301513206	possessing or displaying a distinctive feature to a heightened degree
+301514035	made more severe or intense especially in law
+301514159	very intense
+301514343	marked by great zeal or violence
+301514513	punishingly harsh
+301514641	so intense as to be almost uncontrollable
+301514758	intensely focused
+301514879	very strong; urgently felt
+301515033	intense or extreme
+301515139	intense or sharp
+301515272	of the greatest possible degree or extent or intensity
+301515606	marked by extreme intensity of emotions or convictions; inclined to react violently; fervid
+301515894	made more intense
+301516027	characterized by a high degree or intensity; often used as a combining form
+301516279	of force; of the greatest possible intensity
+301516397	so intense as to be almost touched or felt
+301516542	of the greatest intensity; complete
+301516701	very severe
+301516806	so extremely intense as to evoke screams
+301516947	intensely or extremely bad or unpleasant in degree or quality
+301517273	(used as complement) to the utmost degree
+301517459	painfully severe
+301517595	not faint or feeble
+301517702	very great or intense
+301517859	(of darkness) densely dark
+301518034	continuing at full strength or intensity
+301518224	(of colors or sounds) intensely vivid or loud
+301518457	of agriculture; intended to increase productivity of a fixed area by expending more capital and labor
+301518681	of agriculture; increasing productivity by using large areas with minimal outlay and labor
+301518910	connected by participation or association or use
+301519363	taking part in an activity
+301519608	having become involved involuntarily
+301519775	involved in or affected by or having a claim to or share in
+301520097	deeply involved especially in something complicated
+301520290	involved in military hostilities
+301520429	culpably involved
+301520688	deeply involved
+301520915	not involved
+301521044	not occupied or engaged with
+301521164	associated with or performed by members of the armed services as contrasted with civilians
+301521400	(used of military forces) designed for military operations abroad
+301521609	of or relating to the armed forces
+301521715	engaging in or ready for combat
+301521838	member of armed forces whose duties do not include fighting as e.g. a chaplain or surgeon
+301522004	associated with civil life or performed by persons who are not active members of the military
+301522244	applying to ordinary citizens as contrasted with the military
+301522378	used of civilians in time of war
+301522469	characteristic of or associated with soldiers or the military
+301522660	imbued with militarism
+301522777	(of persons) befitting a warrior
+301522943	suggesting war or military life
+301523038	not associated with soldiers or the military
+301523250	not conforming to military standards
+301523367	made less severe or intense
+301523548	(of pain or sorrow) made easier to bear
+301523663	decreased in severity; made less harsh
+301523756	allayed
+301523886	not diminished or moderated in intensity or severity; sometimes used as an intensifier
+301524174	without qualification; used informally as (often pejorative) intensifiers
+301524775	informal intensifiers
+301525027	incorrigible
+301525136	not lessened or diminished
+301525258	adjusted or attuned by adding a counterbalancing element
+301525412	not moderated or controlled
+301525546	not made less extreme
+301525661	made hard or flexible or resilient especially by heat treatment
+301525895	capable of being hardened by some additive or other agent
+301526024	baked or hardened by exposure to sunlight; not burned
+301526157	not brought to a proper consistency or hardness
+301526333	(of metal or glass) not annealed and consequently easily cracked or fractured
+301526495	moving or capable of moving readily (especially from place to place)
+301527014	moved or conveyed by or through air
+301527104	able to walk about
+301527255	inclined to move or be moved about
+301527368	capable of maneuvering or changing position
+301527569	using vehicles
+301527686	(of spores or microorganisms) capable of movement
+301527843	capable of being moved or conveyed from one place to another
+301528087	strolling or walking around
+301528221	designed or suitable for competing in a race
+301528334	capable of being raised
+301528463	adapted to wandering or roaming
+301528564	capable of being rotated
+301528681	conveyed by sea
+301528751	capable of being transplanted
+301528841	able to move freely in all directions
+301529136	transported by water
+301529235	not capable of movement or of being moved
+301529439	not able or intended to be moved
+301529621	(of spores or microorganisms) not capable of movement
+301529778	not moving or operating freely
+301529895	easily or conveniently transported
+301530103	portable by one man
+301530181	(of personal property as opposed to real estate) can be moved from place to place (especially carried by hand)
+301530381	of or involving food to be taken and eaten off the premises
+301530599	not portable; not easily moved or transported
+301530701	capable of being removed or taken away or dismissed
+301530888	subject to dismissal
+301531024	capable of being extracted
+301531194	incapable of being removed or away or dismiss
+301531364	appointed for life and not subject to dismissal except for a grave crime
+301531539	containing or made of or resembling or characteristic of a metal
+301532049	consisting completely of metal
+301532158	containing alum or aluminum
+301532245	containing antimony
+301532358	containing or yielding silver
+301532468	containing gold
+301532582	formed of two different metals or alloys; especially in sheets bonded together
+301532763	made from or consisting of bronze
+301532849	made from or covered with gold
+301533065	resembling metal
+301533172	made from or largely consisting of silver
+301533286	thin and metallic in sound; lacking resonance
+301533412	not containing or resembling or characteristic of a metal
+301533598	of or being a nonmetallic element that has some of the properties of metal
+301533762	characterized by metamorphosis or change in physical form or substance
+301534016	characterized by incomplete metamorphosis; having the same number of body segments in successive stages
+301534195	(of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult
+301534497	(of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage
+301534741	(of an insect) undergoing complete metamorphosis
+301534920	produced by metamorphosis
+301535138	changed in constitution or structure or composition by metamorphism
+301535299	not metamorphic
+301535393	undergoing no (or only slight) metamorphosis
+301535494	being within reasonable or average limits; not excessive or extreme
+301536076	around the middle of a scale of evaluation
+301536268	avoiding excess
+301536380	not excessive or extreme
+301536573	neither too great nor too little
+301536705	not excessive
+301536772	not extreme, especially in political views
+301536879	advocating minimal reforms (as in government or politics)
+301537031	not large but sufficient in size or amount
+301537239	beyond reasonable limits
+301537654	much greater than the normal
+301537778	extreme
+301537901	represented as greater than is true or reasonable
+301538069	beyond normal limits
+301538377	greatly exceeding bounds of reason or moderation
+301538743	far more than usual or expected
+301538953	far beyond a norm in quantity or amount or degree; to an utmost degree
+301539177	beyond a norm in views or actions
+301539365	(used of opinions and actions) far beyond the norm
+301539576	beyond a norm in opinion or actions
+301539678	complete or extreme
+301539804	belonging to the modern era; since the Middle Ages
+301540189	characteristic of the present
+301540371	(used as a combining form) recent or new
+301540540	of or relating to British universities founded in the late 19th century or the 20th century
+301540736	extremely modern
+301540840	of or relating to a popularization of art deco that used bright colors and rectangular shapes
+301541006	not modern; of or characteristic of an earlier time
+301541239	belonging to a period before a war especially the American Civil War
+301541364	relating to the time before automobiles (and other inventions) changed the way people lived in industrialized nations
+301541543	as if belonging to the Middle Ages; old-fashioned and unenlightened
+301541723	characteristic of former times especially in Europe
+301541854	typical of the moral standards or conduct of the age of Queen Victoria
+301541980	not offensive to sexual mores in conduct or appearance
+301542280	affectedly modest or shy especially in a playful or provocative way
+301542473	observing conventional sexual mores in speech or behavior or dress
+301542711	sufficiently clothed to see visitors or appear in public
+301542858	extremely modest or shy
+301543026	offending against sexual mores in conduct or appearance
+301543190	offending against sexual mores in conduct or appearance
+301543393	marked by simplicity; having a humble opinion of yourself
+301543612	not arrogant or presuming
+301543810	having or showing an exaggerated opinion of your importance, ability, etc
+301544055	having or suggesting a consciousness of high position
+301544270	presumptuously arrogant
+301544533	changed in form or character
+301544805	changed in order to improve or made more fit for a particular purpose
+301545039	restricted in meaning; (as e.g. man' in a tall man')
+301545181	not changed in form or character
+301545324	not changed in form or character for a purpose
+301545426	not restricted or modified in meaning
+301545616	changed or adjusted in pitch, tone, or volume
+301545735	toned down
+301545800	characterized by lack of variation in pitch, tone, or volume
+301545995	sounded or spoken in a tone unvarying in pitch
+301546238	pertaining to large units of behavior
+301546419	relating to simple or elementary organization
+301546656	having pistils and stamens in the same flower
+301546796	of or relating to monoclinous plants
+301546911	having pistils and stamens in separate flowers
+301547032	having male and female reproductive organs in the same plant or animal
+301547255	having male and female reproductive organs in separate clusters on the same plant
+301547392	having several forms of gametoecia on the same plant
+301547528	having male and female reproductive organs mixed in the same gametoecium
+301547669	having male and female reproductive organs separate in a single gametoecium
+301547800	having male and female reproductive organs in separate plants or animals
+301547939	consisting of a single melodic line
+301548104	having a single melodic line with accompaniment
+301548226	having a single vocal part
+301548336	having two or more independent but harmonically related melodic parts sounding together
+301548514	(used of relationships and of individuals) having one mate
+301548747	having only one husband at a time
+301548855	having one head or chief wife at a time (along with concubines)
+301549023	having more than one mate at a time; used of relationships and individuals
+301549226	of illegal marriage to a second person while legally married to a first
+301549370	having more than one husband at a time
+301549484	having more than one wife at a time
+301549594	using or knowing only one language
+301549738	using or knowing more than one language
+301549944	using or knowing two languages
+301550071	having a command of or composed in many languages
+301550277	using or knowing three languages
+301550389	having a valence of 1
+301550516	having more than one valence, or having a valence of 3 or higher
+301550760	used of a chromosome that is not paired or united with its homologous chromosome during synapsis
+301550993	used of homologous chromosomes associated in pairs in synapsis
+301551174	used of the association of three or more homologous chromosomes during the first division of meiosis
+301551387	of a sequence or function; consistently increasing and never decreasing or consistently decreasing and never increasing in value
+301551637	consistently decreasing
+301551762	consistently increasing
+301551888	not monotonic
+301551998	containing only one kind of antibody
+301552128	containing several antibodies each capable of counteracting a specific antigen
+301552360	concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles
+301552843	abstaining from unlawful sexual intercourse
+301552957	morally pure
+301553074	narrowly and conventionally moral
+301553236	morally justified
+301553334	deliberately violating accepted principles of right and wrong
+301553629	unrestrained by convention or morality
+301554025	marked by excessive self-indulgence and moral decay
+301554321	giving offense to moral sensibilities and injurious to reputation
+301554661	morally contaminated
+301554795	sanctioned by custom or morality especially sexual morality
+301554929	contrary to accepted morality (especially sexual morality) or convention
+301555136	characterized by adultery
+301555383	not morally right or permissible
+301555487	based on or manifesting objectively defined standards of rightness or morality
+301555734	having high principles
+301555818	lacking principles or moral scruples
+301555990	a quantifier that can be used with count nouns and is often preceded by as' or too' or so' or that'; amounting to a large but indefinite number
+301556519	in great numbers
+301556612	each of a large indefinite number
+301556776	amounting to a large indefinite number
+301556991	relatively many but unspecified in number
+301557159	innumerable but many
+301557242	a quantifier that can be used with count nouns and is often preceded by a'; a small but indefinite number
+301557697	more than one but indefinitely small in number
+301557851	very few
+301557986	(quantifier used with mass nouns) great in quantity or degree or extent
+301558282	very great in quantity; overabundant
+301558420	relatively much but unspecified in amount or extent
+301558587	of so extreme a degree or extent
+301558769	too much to be measured
+301558903	(quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with a') at least some
+301559333	slight or limited; especially in degree or intensity or scope
+301559526	(comparative of much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree
+301559809	(comparative of little' usually used with mass nouns) a quantifier meaning not as great in amount or degree
+301560125	the superlative of much' that can be used with mass nouns and is usually preceded by the'; a quantifier meaning the greatest in amount or extent or degree
+301560454	the superlative of little' that can be used with mass nouns and is usually preceded by the'; a quantifier meaning smallest in amount or extent or degree
+301560748	(comparative of many' used with count nouns) quantifier meaning greater in number
+301561009	(comparative of few' used with count nouns) quantifier meaning a smaller number of
+301561306	(nonstandard in some uses but often idiomatic with measure phrases) fewer
+301561513	(superlative of many' used with count nouns and often preceded by the') quantifier meaning the greatest in number
+301561779	(superlative of few' used with count nouns and usually preceded by the') quantifier meaning the smallest in number
+301562007	subject to death
+301562183	of earthly origin (as mortals are)
+301562296	not subject to death
+301562479	of an imaginary flower that never fades
+301562587	never dying
+301562684	characterized by divine or godlike nature
+301562778	provided with a motive or given incentive for action
+301563034	moved to action
+301563142	urged or forced to action through moral pressure
+301563305	without motivation
+301563435	having no justifying cause or reason
+301563663	occurring without motivation or provocation
+301563877	equipped with a motor or motors
+301564048	having two motors
+301564121	having three motors
+301564197	having no motor
+301564296	being excited or provoked to the expression of an emotion
+301564558	deeply affected by a strong feeling
+301564713	emotionally unmoved
+301564906	arousing or capable of arousing deep emotion
+301565214	arousing affect
+301565472	having a deeply disquieting or disturbing effect
+301565673	causing gladness and pleasure
+301565822	exciting strong but not unpleasant emotions
+301565957	not arousing emotions
+301566087	not arousing affect
+301566164	in motion
+301566560	traveling by foot
+301566677	traveling on horseback
+301566809	moving toward one
+301566881	containing within itself the means of propulsion or movement
+301567061	traveling by wheeled vehicle such as bicycle or automobile e.g.
+301567202	being moved or acted upon by moving air or vapor
+301567385	moving swiftly
+301567540	streaming or flapping or spreading wide as if in a current of air
+301567742	characterized by motion
+301567887	having transportation available
+301567971	ceaselessly in motion
+301568106	moving in a twisting or snake-like or wormlike fashion
+301568316	moving very rapidly to and fro or up and down
+301568466	not in motion
+301568708	not in physical motion
+301568905	rendered motionless for lack of wind
+301568996	fixed and unmoving
+301569274	absolutely still
+301569431	unable to move or resist motion
+301569532	not moving and therefore easy to attack
+301569645	standing still
+301569789	used of a series of photographs presented so as to create the illusion of motion
+301570001	made to appear to move as living creatures do
+301570144	used of pictures; of a single or static photograph not presented so as to create the illusion of motion; or representing objects not capable of motion
+301570420	(used of grass or vegetation) cut down with a hand implement or machine
+301570616	newly mown
+301570681	(used of grass or vegetation) not cut down with a hand implement or machine
+301570869	characteristic of or befitting a seaman; indicating competent seamanship
+301571027	not seamanlike
+301571118	inexperienced in seamanship
+301571309	being or concerning or limited to a continent especially the continents of North America or Europe
+301571596	involving the entire continent
+301571687	spanning or crossing or on the farther side of a continent
+301571893	extending or taking place between or among continents
+301572087	spanning or extending throughout the entire world
+301572255	limited to or in the interests of a particular nation
+301572485	devotion to the interests or culture of a particular nation including promoting the interests of one country over those of others
+301572768	concerning or belonging to all or at least two or more nations
+301573077	involving the entire earth; not limited or provincial in scope
+301573395	influenced by or advocating internationalism
+301573559	involving or operating in several nations or nationalities
+301573759	transcending established national boundaries or spheres of interest
+301573942	involving and relating to the mutual relations of states especially of the United States
+301574200	relating to or existing within the boundaries of a state
+301574358	in accordance with nature; relating to or concerning nature
+301574679	not far removed from or suggestive of nature
+301574863	not in accordance with or determined by nature; contrary to nature
+301575140	effected by force or injury rather than natural causes
+301575285	existing in or produced by nature; not artificial or imitation
+301575574	not artificially colored or bleached
+301575756	contrived by art rather than nature
+301576262	deliberately arranged for effect
+301576402	having particular physiological functions augmented or replaced by electronic or electromechanical components
+301576564	(used of color) artificially produced; not natural
+301576718	without substance
+301576851	artificial as if portrayed in a film
+301576997	using artistic forms and conventions to create effects; not natural or spontaneous
+301577224	having the appearance of being real but lacking capacity to function
+301577367	artificial and inferior
+301577494	not produced by natural forces
+301577631	not genuine or real; being an imitation of the genuine article
+301577961	not of natural origin; prepared or made artificially
+301578155	closely resembling the genuine article
+301578282	lacking substance or vitality as if produced by painting
+301578429	existing in or in conformity with nature or the observable world; neither supernatural nor magical
+301578652	according with material things or natural laws (other than those peculiar to living matter)
+301578839	not existing in nature or subject to explanation according to natural laws; not physical or material
+301579318	resembling or characteristic of a phantom
+301579692	suggestive of the supernatural; mysterious
+301579817	suggesting the operation of supernatural influences
+301580203	suggestive of an elf in strangeness and otherworldliness
+301580464	possessing or using or characteristic of or appropriate to supernatural powers
+301580944	being or having the character of a miracle
+301581122	transcending physical matter or the laws of nature
+301581254	given to or produced by or used in the art of conjuring up the dead
+301581495	existing outside of or not in accordance with nature
+301581736	possessing or believed to possess magic power especially protective power
+301581907	existing or extending beyond the physical world
+301582081	being or having the character of witchcraft
+301582180	(of a musical note) being neither raised nor lowered by one chromatic semitone
+301582381	(of a musical note) raised in pitch by one chromatic semitone
+301582560	(of a musical note) lowered in pitch by one chromatic semitone
+301582720	furthest or highest in degree or order; utmost or extreme
+301583091	representing a level of the highest possible achievement or attainment
+301583264	expected to follow in the indefinite future from causes already operating
+301583536	conclusive in a process or progression
+301583712	of something done as a final recourse (especially to prevent a crisis or disaster)
+301583875	final or last in your life or progress
+301584016	closest in degree or order (space or time) especially in a chain of causes and effects
+301584261	immediately before or after as in a chain of cause and effect
+301584458	absolutely essential
+301584714	absolutely necessary; vitally necessary
+301585009	necessary (for someone) as a duty or responsibility; morally binding
+301585183	necessary for relief or supply
+301585376	required by obligation or compulsion or convention
+301585523	not necessary
+301585713	more than is needed, desired, or required
+301586457	unnecessary and unwarranted
+301586632	not absolutely necessary
+301586714	kept in reserve especially for emergency use
+301586869	remaining after all deductions
+301587006	clear of charges or deductions
+301587106	(of salary or wages) remaining after all deductions including taxes
+301587229	before any deductions
+301587354	including everything
+301587448	affected with emotional disorder
+301587894	suffering from abulia; showing abnormal inability to act or make decisions
+301588067	caused by or suggestive of psychological compulsion
+301588288	suffering from or characterized by delusions
+301588425	emotionally unstable and having difficulty coping with personal relationships
+301588572	suffering from hypochondria
+301588695	characterized by or arising from psychoneurotic hysteria
+301588977	suffering from megalomania
+301589132	obsessed with a single subject or idea
+301589265	(used of women) affected with excessive sexual desire
+301589430	characterized by or constituting an obsession
+301589720	characterized by obsessions and compulsions
+301589899	caused by or evidencing a mentally disturbed condition
+301590087	suffering from irrational fears
+301590189	used of illness or symptoms resulting from neurosis
+301590300	marked by withdrawal and inability to form close relationships
+301590417	not neurotic
+301590602	mentally and emotionally stable
+301590750	pleasant or pleasing or agreeable in nature or appearance
+301591160	agreeable or pleasing
+301591274	(of persons) having pleasing manners or behavior
+301591485	offensive or even (of persons) malicious
+301591882	vile; despicable
+301592051	very unpleasant or offensive
+301592194	characterized by malice
+301592357	(of birds) remaining in the nest for a time after hatching
+301592472	(of birds) leaving the nest shortly after hatching
+301592579	having or showing or indicative of high or elevated character
+301592833	investing with dignity or honor
+301593026	of high moral or intellectual value; elevated in nature or style
+301593452	noble and generous in spirit
+301593624	completely lacking nobility in character or quality or purpose
+301594057	having or showing an ignoble lack of honor or morality
+301594451	base and cowardly
+301594522	of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times
+301594891	belonging to or characteristic of the nobility or aristocracy
+301595457	of or befitting a lord
+301595634	belonging to the peerage
+301595801	belonging to or befitting a supreme ruler
+301596106	having the rank of or resembling or befitting a king
+301596302	having the characteristics of or befitting or worthy of a monarch
+301596515	having the rank of or befitting a prince
+301596669	having the rank of or resembling or befitting a queen
+301596916	being of the rank of a monarch
+301597049	of humble birth or origins
+301597282	of low birth or station (base' is archaic in this sense)
+301597504	of or associated with the great masses of people
+301597905	belonging to the common people, especially in regard to speech patterns, attitudes, etc.
+301598062	not of the nobility
+301598231	conforming with or constituting a norm or standard or level or type or social norm; not abnormal
+301598728	approximating the statistical norm or average or expected value
+301599054	relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values)
+301599393	relating to or constituting the most frequent value in a distribution
+301599632	functioning or occurring in a normal way; lacking abnormalities or deficiencies
+301599894	not deviating from what is normal
+301600022	conforming to a type
+301600178	not normal; not typical or usual or regular or conforming to a norm
+301600704	markedly different from an accepted norm
+301601037	deviating from the general or common order or type
+301601256	conducting nerve impulses in a direction opposite to normal
+301601391	deviating from normal expectations; somewhat odd, strange, or abnormal
+301601687	having abnormally short finger or toes
+301601822	markedly subnormal in structure or function or intelligence or behavior
+301601969	characteristic of a freak
+301602091	(used of sexual behavior) showing or appealing to bizarre or deviant tastes
+301602284	below normal or average
+301602510	exceeding the normal or average
+301602707	occurring in an abnormal part of the body instead of the usual site involved in that function
+301602901	being approximately average or within certain limits in e.g. intelligence and development
+301603174	departing from the normal in e.g. intelligence and development
+301603441	deviating widely from a norm of physical or mental ability; used especially of children below normal in intelligence
+301603696	having abnormally high blood pressure
+301603810	having abnormally low blood pressure
+301603922	having normal blood pressure
+301604027	in accordance with scientific laws
+301604114	not in accordance with scientific laws
+301604364	beyond normal physical explanation
+301604480	outside the sphere of physical science
+301604623	moving an object without apparent use of physical means
+301604756	beyond the range of the normal or scientifically explainable
+301604915	situated in or facing or moving toward or coming from the north
+301605295	moving toward the north
+301605470	situated in the northern part of a centrally located area in some geographical region
+301605651	coming from the north; used especially of wind
+301605879	situated in or oriented toward the north
+301606044	situated farthest north
+301606174	situated in or oriented toward the northeast
+301606345	coming from the northeast
+301606483	toward the northeast
+301606563	situated in or oriented toward the northwest
+301606694	coming from the northwest
+301606832	toward the northwest
+301606912	situated in or facing or moving toward or coming from the south
+301607265	moving toward the south
+301607379	situated in the southern part of a centrally located area in some geographical region
+301607548	from the south; used especially of wind
+301607761	situated in or oriented toward the south
+301607936	situated farthest south
+301608100	situated in or oriented toward the southeast
+301608231	coming from the southeast
+301608371	toward the southeast
+301608451	situated in or oriented toward the southwest
+301608582	coming from the southwest
+301608728	toward the southwest
+301608808	situated in or coming from regions of the north
+301609035	comprising or throughout far northern regions
+301609148	being in or of a region of the United States generally including states of the upper Mississippi valley and Great Lakes region lying north of the Ohio River and the southern boundaries of Kansas and Missouri and between the western boundary of Pennsylvania and the eastern boundaries of Montana and Wyoming and Colorado
+301609527	of northern regions; from the seven stars (or seven plowing oxen) of Ursa Major
+301609663	situated in or coming from regions of the south
+301609909	of the south or coming from the south
+301610027	located in the south or characteristic of southern people or places
+301610151	being in or of a region of the United States including the states of the lower Mississippi valley and east of the Rio Grande
+301610335	in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line
+301610640	used to signify the Union forces in the American Civil War (who wore blue uniforms)
+301610796	being of or having to do with the northern United States and those loyal to the Union during the American Civil War
+301611052	used by Southerners for an inhabitant of a northern state in the United States (especially a Union soldier)
+301611230	in or characteristic of a region of the United States south of (approximately) the Mason-Dixon line
+301611524	of or having to do with the southern Confederacy during the American Civil War
+301611702	used to signify the Confederate forces in the American Civil War (who wore grey uniforms)
+301611875	having a nose (either literal or metaphoric) especially of a specified kind
+301612074	having an aquiline nose
+301612154	having a blunt nose
+301612326	having a sharply pointed nose
+301612413	having a tubular nose
+301612491	having no nose
+301612560	being perceived or observed
+301612709	perceived with the mind
+301612846	not noticed
+301613047	not noticed inadvertently
+301613238	disregarded
+301613430	not taken into account
+301613579	not seen or observed
+301613725	not perceived or commented on
+301613825	perceived or discerned
+301613997	detected by means of the senses
+301614125	detected by instinct or inference rather than by recognized perceptual cues
+301614386	detected or perceived by the sense of hearing
+301614524	not perceived or discerned
+301614732	not discovered
+301614867	having been learned or found or determined especially by investigation
+301615012	discovered or determined by scientific observation
+301615331	not yet having been ascertained or determined
+301615480	not explained
+301615595	injurious to physical or mental health
+301615857	exceedingly harmful
+301616018	harmful to the mind or morals
+301616211	causing blisters
+301616367	not injurious to physical or mental health
+301616501	having no adverse effect
+301616581	dutifully complying with the commands or instructions of those in authority
+301617155	willing to carry out the orders or wishes of another without protest
+301617433	quick to comply
+301617602	willingly obedient out of a sense of duty and respect
+301617863	prepared to accurately process date and time data between and into the 20th and 21st centuries
+301618017	not obeying or complying with commands of those in authority
+301618393	resistant to guidance or discipline
+301618681	stubbornly resistant to authority or control
+301618926	habitually disposed to disobedience and opposition
+301619112	refusing to submit to authority
+301619332	undistorted by emotion or personal bias; based on observable phenomena
+301619612	scientifically detached; unemotional
+301619777	having no personal preference
+301619937	capable of being verified
+301620077	taking place within the mind and modified by individual bias
+301620309	particular to a given individual
+301620396	emanating from a person's emotions and prejudices
+301620502	(of e.g. evidence) not objective or easily verified
+301620626	caused by law or conscience to follow a certain course
+301620950	under a moral obligation to someone
+301621043	under a moral obligation to do something
+301621156	owing gratitude or recognition to another for help or favors etc
+301621296	under a legal obligation to someone
+301621407	required or under orders
+301621562	paying tribute
+301621654	not obligated
+301621743	free of moral obligation
+301621827	restricted to a particular condition of life
+301622011	able to exist under more than one set of conditions
+301622205	easily perceived by the senses or grasped by the mind
+301622528	clearly revealed to the mind or the senses or judgment
+301623076	evident without proof or argument
+301623286	capable of being demonstrated or proved
+301623560	clearly manifest; evident
+301623656	so obvious as to be easily solved or decided
+301623785	needing no explanation
+301623870	easily understood or seen through (because of a lack of subtlety)
+301624061	made more obvious or prominent
+301624233	not immediately apparent
+301624467	not readily apparent
+301624582	not provable
+301624690	shut off to passage or view or hindered from action
+301625074	preventing entry or exit or a course of action
+301625261	completely obstructed or closed off
+301625449	stopped up; clogged up
+301625605	at a complete standstill because of opposition of two unrelenting forces or factions
+301625861	made difficult or slow
+301625988	closed off
+301626075	(of a nose) blocked
+301626214	affected with a sensation of stoppage or obstruction
+301626369	affected with or obstructed by a clot of coagulated blood
+301626483	free from impediment or obstruction or hindrance
+301626686	affording free passage or view
+301626929	(of a bodily tube or passageway) open; affording free passage
+301627089	not slowed or prevented
+301627269	freed of obstructions
+301627368	held or filled or in use
+301627541	(of facilities such as telephones or lavatories) unavailable for use by anyone else or indicating unavailability; (engaged' is a British term for a busy telephone line)
+301627925	(of time) taken up
+301628017	not held or filled or in use
+301628191	not occupied or in use
+301628296	not taken up by scheduled activities
+301628448	seized and controlled as by military invasion
+301628584	not seized and controlled
+301628714	that has been withdrawn or retreated from
+301628814	unpleasant or disgusting especially to the senses
+301629244	offensive to the mind
+301629673	gruesomely indicative of death or the dead
+301629941	annoying and unpleasant
+301630074	highly offensive; arousing aversion or disgust
+301630621	suggesting the horror of death and decay
+301630743	grossly offensive to decency or morality; causing horror
+301631055	causing disapproval or protest
+301631230	very offensive in smell or taste
+301631347	dirty and disgusting
+301631496	of the nature of vermin; very offensive or repulsive
+301631640	giving no offense
+301631816	not causing disapproval
+301632017	morally wholesome or acceptable
+301632146	morally offensive
+301632363	causing anger or annoyance
+301632592	expressing offensive reproach
+301632738	not causing anger or annoyance
+301632900	incapable of offending or attacking
+301633007	for the purpose of attack rather than defense
+301633273	designed to inflict death or personal injury rather than material destruction
+301633410	disposed to attack
+301633554	designed for or consisting of a brief attack followed by a quick escape
+301633742	involving invasion or aggressive attack
+301633893	characterized by plundering or pillaging or marauding
+301634094	actively attacking
+301634178	intended or appropriate for defending against or deterring aggression or attack
+301634500	designed for defense from a surface position against air attack
+301634640	defensive against enemy submarines
+301634734	designed for defense against armored vehicles
+301634834	attempting to or designed to prevent an opponent from winning or scoring
+301635000	(fencing) in a defensive stance
+301635086	offending against or breaking a law or rule
+301635278	transgressing a moral or divine law
+301635447	violating or tending to violate or offend against
+301635764	not offending
+301635891	offering or expressing apology
+301636127	attempting to justify or defend in speech or writing
+301636357	conscious of your own shortcomings
+301636454	unwilling to make or express an apology
+301636580	having official authority or sanction
+301636851	sanctioned by established authority
+301637031	by virtue of an office or position
+301637196	characteristic of or befitting a person in authority
+301637359	given formal standing or endorsement; made official or legitimate by the observance of proper procedures
+301637533	having some official authority or sanction
+301637634	not having official authority or sanction
+301637923	performed speedily and without formality
+301638070	not officially recognized or controlled
+301638242	without official authorization
+301638407	without explicit official permission
+301638538	having been established or made firm or received the rite of confirmation
+301638779	verified officially
+301638894	not finally established or settled
+301639061	not officially established
+301639189	brought about or set up or accepted; especially long established
+301639694	(used especially of ideas or principles) deeply rooted; firmly fixed or held
+301640023	established firmly and securely
+301640151	established as if settled into a groove or rut
+301640266	in accordance with recognized or accepted standards or principles
+301640424	(of a church) given official status as a national or state institution
+301640568	provided with a secure reputation
+301640697	constituted by or established by itself
+301640818	long-established
+301640899	not established
+301641029	not having a secure reputation
+301641174	established by conditioning or learning
+301641326	not established by conditioning or learning
+301641513	inexperienced
+301641596	taking place or located at the site
+301641725	at the scene of action
+301641908	taking place or located away from the site
+301642046	situated or taking place in the area of a stage not visible to the audience
+301642195	situated or taking place on the area of a stage visible to the audience
+301642320	not on the streets
+301642453	at the sides of streets
+301642580	of long duration; not new
+301643104	belonging to or lasting from times long ago
+301643372	so extremely old as seeming to belong to an earlier period
+301643588	made in or typical of earlier times and valued for its age
+301643778	a Scottish word
+301643862	passed on from one person to another
+301644033	ancient
+301644115	long past; beyond the limits of memory or tradition or recorded history
+301644266	belonging to time long gone
+301644403	having existed or persisted or continued in a particular role or state for a long time
+301644583	mended usually clumsily by covering a hole with a patch
+301644709	previously used or owned by another
+301644845	of a declining industry or technology
+301644956	changed to a yellowish color by age
+301645077	not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered
+301645705	conspicuously new
+301645893	(of a cycle) beginning or occurring again
+301646036	newest or most recent
+301646166	having just or recently arisen or come into existence
+301646326	(of a new kind or fashion) gratuitously new
+301646523	newly discovered
+301646687	pleasantly new or different
+301646821	of or characteristic of a parvenu
+301646919	new
+301647099	markedly new or introducing radical change
+301647285	newly come into prominence
+301647393	of an industry or technology; new and developing
+301647536	not yet proved or subjected to testing
+301647702	not yet put into use
+301647815	being used or worked for the first time
+301647922	being in its early stage
+301648062	(used especially of persons) having lived for a relatively long time or attained a specific age
+301648667	advanced in years; (aged' is pronounced as two syllables)
+301648983	having attained a specific age; (aged' is pronounced as one syllable)
+301649151	growing old
+301649289	very old
+301649409	of or like a feeble old woman
+301649490	being at least 100 years old
+301649594	(of fabrics and paper) grown dark in color over time
+301649738	mentally or physically infirm with age
+301649932	honorably retired from assigned duties and retaining your title along with the additional title emeritus' as in professor emeritus'
+301650120	showing characteristics of age, especially having grey or white hair
+301650463	being roughly between 45 and 65 years old
+301650562	being from 90 to 99 years old
+301650720	being from 80 to 89 years old
+301650808	somewhat elderly
+301650877	too old to be useful
+301651088	being from 60 to 69 years old
+301651236	impressive by reason of age
+301651383	(used of living things especially persons) in an early period of life or development or growth
+301652043	one year of age

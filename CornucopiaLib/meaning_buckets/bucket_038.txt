@@ -1,0 +1,1000 @@
+106858649	a name given to a product or service
+106864566	trade name of a company that produces musical recordings
+106864792	a formally registered symbol identifying the manufacturer or distributor of a product
+106868085	a mark on an article of trade to indicate its origin and authenticity
+106868257	a symbol that is the result of printing or engraving
+106868482	an impression produced by pressure or printing
+106868613	an identification of a publisher; a publisher's name along with the date and address and edition that is printed at the bottom of the title page
+106868867	a small piece of adhesive paper that is put on an object to show that a government tax has been paid
+106869035	a stamp affixed to a document (as to attest to its authenticity or to seal it)
+106869239	(Judaism) either of two small leather cases containing texts from the Hebrew Scriptures (known collectively as tefillin); traditionally worn (on the forehead and the left arm) by Jewish men during morning prayer
+106869537	a symbol of cowardice
+106869618	(music) a series of notes differing in pitch according to a specific scheme (usually within an octave)
+106869934	(music) a short lively tune played on brass instruments
+106870172	a rapid series of ascending or descending notes on the musical scale
+106870314	(music) rapid sliding up or down the musical scale
+106870537	the entire scale of musical notes
+106870641	(music) an elaborate run of several notes sung to one syllable
+106870776	(music) the first note of a diatonic scale
+106870917	(music) the second note of a diatonic scale
+106871036	(music) the third note of a diatonic scale; midway between the tonic and the dominant
+106871194	(music) the fourth note of the diatonic scale
+106871316	(music) the fifth note of the diatonic scale
+106871434	(music) the sixth note of a major or minor scale (or the third below the tonic)
+106871589	(music) the seventh note of the diatonic scale
+106871724	a sustained bass note
+106871829	the difference in pitch between two notes
+106872106	a musical interval of two semitones
+106872225	the musical interval between adjacent keys on a keyboard instrument
+106872359	half of a semitone
+106872451	a musical interval of eight tones
+106872554	the musical interval between one note and another three notes away from it
+106872724	the musical interval between one note and another four notes away from it
+106872850	the musical interval between one note and another five notes away from it
+106872975	the musical interval between one note and another six notes away from it
+106873099	the musical interval between one note and another seven notes away from it
+106873227	a note that alternates rapidly with another note a semitone above it
+106873373	a scale with eight notes in an octave; all but two are separated by whole tones
+106873531	any of a system of modes used in Gregorian chants up until 1600; derived historically from the Greek mode
+106873749	any of the descending diatonic scales in the music of classical Greece
+106873876	a diatonic scale with notes separated by whole tones except for the 3rd and 4th and 7th and 8th
+106874070	a diatonic scale with notes separated by whole tones except for the 2nd and 3rd and 5th and 6th
+106874246	a 12-note scale including all the semitones of the octave
+106874365	a musical scale with fewer than seven notes
+106874485	a gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted
+106874680	any of various fixed orders of the various diatonic notes within an octave
+106874910	(music) the system of five horizontal lines on which the musical notes are written
+106875109	any of the 5 horizontal marks comprising a staff
+106875252	one of the areas between or below or above the lines of a musical staff
+106875449	a short line; a notation for extending the range above or below the staff
+106875612	a musical notation written on a staff indicating the pitch of the notes following it
+106875855	a clef that puts the G above middle C on the second line of a staff
+106876004	a clef that puts the F below middle C on the fourth line of a staff
+106876136	a clef that puts middle C on the third line of a staff
+106876259	a movable clef that puts middle C on one of the lines of a staff
+106876376	a clef that puts middle C on the bottom line of the staff
+106876492	a clef that puts middle C on the fourth line of the staff; used for writing music for bassoons or cellos or tenor horns
+106876668	the sharps or flats that follow the clef and indicate the key
+106876801	any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music
+106877064	the absence of a key; alternative to the diatonic system
+106877242	a key whose harmony is based on the major scale
+106877358	a key based on the minor scale
+106877457	the basic key in which a piece of music is written
+106877574	a musical notation indicating the number of beats to a measure and kind of note that takes a beat
+106877775	musical notation for a repeating pattern of musical beats
+106877950	notation marking the end of principal parts of a musical composition; two adjacent bar lines
+106878099	a musical time signature indicating two or four half notes to a measure
+106878227	a musical notation indicating a silence of a specified duration
+106878395	a notation representing the pitch and duration of a musical sound
+106879003	(music) a curved line spanning notes that are to be played legato
+106879174	(music) a slur over two notes of the same pitch; indicates that the note is to be sustained for their combined time value
+106879382	(music) the keynote of the scale of C major
+106879492	(music) the major scale having no sharps or flats
+106879649	a musical notation indicating one half step higher than the note named
+106879807	a musical notation of two sharps in front of a note indicating that it is to be raised by two semitones
+106879969	a musical notation indicating one half step lower than the note named
+106880107	a musical notation of two flats in front of a note indicating that it is to be lowered by two semitones
+106880268	a notation cancelling a previous sharp or flat
+106880395	a musical notation that makes a note sharp or flat or natural although that is not part of the key signature
+106880560	a musical notation (over a note or chord or rest) that indicates it is to be prolonged by an unspecified amount
+106880725	a system of naming the notes of a musical scale by syllables instead of letters
+106880930	a system of solmization using the solfa syllables: do, re, mi, fa, sol, la, ti
+106881093	one of the names for notes of a musical scale in solmization
+106881359	the syllable naming the first (tonic) note of any major scale in solmization
+106881495	the syllable naming the second (supertonic) note of any major scale in solmization
+106881632	the syllable naming the third (mediant) note of any major scale in solmization
+106881759	the syllable naming the fourth (subdominant) note of the diatonic scale in solmization
+106881894	the syllable naming the fifth (dominant) note of any musical scale in solmization
+106882036	the syllable naming the sixth (submediant) note of a major or minor scale in solmization
+106882179	the syllable naming the seventh (subtonic) note of any musical scale in solmization
+106882321	(music) a notation written at the beginning or end of a passage that is to be repeated
+106882478	(music) a notation written above a note and indicating that it is to be played with a strong initial attack
+106882660	a chord whose notes are played in rapid succession rather than simultaneously
+106882792	an accented chord
+106882865	the note designated by the first ledger line below the treble staff; 261.63 hertz
+106883001	a combination of three or more notes that blend harmoniously when sounded together
+106883261	a three-note major or minor chord; a note and its third and fifth tones
+106883399	a triad with a seventh added
+106883487	a nonharmonic note inserted for transition between harmonic notes
+106883626	a musical note having the longest time value (equal to four beats in common time)
+106883776	a musical rest equal in duration to four beats in common time
+106883894	a musical note having the time value of half a whole note
+106884015	a musical rest having the time value of half a whole rest or equal in duration to two beats in common time
+106884177	a musical note having the time value of a quarter of a whole note
+106884312	a musical rest having one-fourth the time value of a whole rest
+106884434	a musical note having the time value of an eighth of a whole note
+106884584	a musical note having the time value of a sixteenth of a whole note
+106884725	a musical note having the time value of a thirty-second of a whole note
+106884878	a musical note having the time value of a sixty-fourth of a whole note
+106885033	an embellishing note usually written in smaller size
+106885172	the musical quality of the voice while singing
+106885404	the lowest adult male singing voice
+106885529	a very deep bass voice
+106885612	the second lowest adult male singing voice
+106885726	the adult male singing voice above baritone
+106885835	the highest adult male singing voice
+106885955	the lowest female singing voice
+106886067	the female singing voice between contralto and soprano
+106886189	the highest female voice; the voice of a boy before puberty
+106886302	communication that relies on vision
+106886621	a signal that involves visual communication
+106886977	a fire lighted at night as a signal
+106887069	a visual warning signal
+106887235	a visual signal to control the flow of traffic at intersections
+106887441	a signal to proceed
+106887547	the signal to stop
+106887621	a cautionary sign of danger
+106887738	a colored warning light on an instrument panel (as for low oil pressure)
+106887887	the signal to proceed with caution
+106887980	a burst of light used to communicate or illuminate
+106888144	a rectangular piece of fabric used as a signalling device
+106888338	a flag longer than it is wide (and often tapering)
+106888442	one of an international code of flag signals used between ships
+106888602	a blue flag with a white square in the center indicates that the vessel is ready to sail
+106888747	language expressed by visible hand gestures
+106888933	an alphabet of manual signs
+106889057	the sign language used in the United States
+106889194	a gesture that is part of a sign language
+106889359	the use of movements (especially of the hands) to communicate familiar or prearranged signals
+106889821	a deliberate and vigorous gesture or motion
+106889942	communication via the movements or attitudes of the body
+106890058	a beckoning gesture
+106890128	a gesture executed with the facial muscles
+106890431	an expression of openmouthed astonishment
+106890559	a gaping grimace
+106890628	a contorted facial expression
+106890792	a disdainful grimace
+106890899	a facial expression of dislike or displeasure
+106891040	a silly self-conscious smile
+106891121	a facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement
+106891454	a facial expression characteristic of a person laughing
+106891630	a smile expressing smugness or scorn instead of pleasure
+106891756	an angry vicious expression
+106891853	a serious facial expression giving no evidence of interest or amusement
+106891984	closing one eye quickly as a signal
+106892106	the facial expression of sudden pain
+106892230	a visual presentation showing how something works
+106892571	something intended to communicate a particular impression
+106892816	a meeting of the eyes between two people that expresses meaningful nonverbal communication
+106893063	a display of force or power
+106893184	cheap or pretentious or vain display
+106893299	expression without words
+106893583	showing by example
+106893714	a visible symbol representing an abstract idea
+106894274	a symbol for love in the form of a cherubic naked boy with wings and a bow and arrow
+106894410	the symbol of the Democratic Party; introduced in cartoons by Thomas Nast in 1874
+106894544	an emblem of peace
+106894613	an emblem representing power
+106894712	the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874
+106894848	bundle of rods containing an axe with the blade protruding; in ancient Rome it was a symbol of a magistrate's power; in modern Italy it is a symbol of fascism
+106895059	an emblem flown as a symbol of nationality
+106895188	the emblem on the flag of the Soviet Union
+106895294	the emblem of socialist revolution
+106895383	a six-pointed star formed from two equilateral triangles; an emblem symbolizing Judaism
+106895611	an emblem (a small piece of plastic or cloth or metal) that signifies your status (rank or membership or affiliation etc.)
+106896003	a badge award to Boy Scouts in recognition of special projects
+106896123	a badge worn to show official position
+106896324	figure of a lamb; emblematic of Christ
+106896433	the emblem of Canada
+106896510	an emblem indicating that a taxicab is registered
+106896615	an emblem (an eagle with wings and legs spread) on the obverse of the Great Seal of the United States
+106896775	the official emblem of the Nazi Party and the Third Reich; a cross with the arms bent at right angles in a clockwise direction
+106897006	the cloak as a symbol of authority
+106897147	the Crown (or the reigning monarch) as the symbol of the power and authority of a monarchy
+106897387	the symbol of the power of the British monarchy
+106897570	an insignia used by the medical profession; modeled after the staff of Hermes
+106897720	an insignia worn on a military uniform
+106897840	something worn on the shoulder of a military uniform as an emblem of a division etc.
+106898004	an insignia worn to indicate years of service
+106898133	evidence of identity; something that identifies a person or thing
+106898439	evidence proving that you are who you say you are; evidence establishing that you are among the group of people already known to the system; recognition by the system leads to acceptance
+106898956	evidence proving that you are not who you say you are not; evidence establishing that you are not among a group of people already known to the system; recognition by the system leads to rejection
+106899323	identification of criminals and terrorist by means of videotapes of their faces
+106899538	a generic term for any identifying characteristic
+106899705	using speech characteristics or dialect to identify a speaker's race or religion or social class
+106899868	recording a person's behavior and analyzing psychological characteristics in order to predict or assess their ability in a certain sphere or to identify a particular group of people
+106900105	a card that identifies the bearer as an alien with permanent resident status in the United States
+106900328	a card or badge used to identify the bearer
+106900491	a number you choose and use to gain access to various accounts
+106900649	the projection of an image from a film onto a screen
+106900776	exhibiting openly in public view
+106901012	(psychiatry) the display of previously inhibited emotions (often in actions rather than words); considered to be healthy and therapeutic
+106901224	an impressive display
+106901395	the display of a motion picture
+106901556	a screening for a select audience in advance of release for the general public
+106901724	an advertisement consisting of short scenes from a motion picture that will appear in the near future
+106901898	a preview to test audience reactions
+106901994	anything that is seen
+106902188	something or someone seen (especially a notable or unusual sight)
+106902380	a gaudy outward display
+106902641	a swaggering show of courage
+106902751	extravagant and conspicuous behavior intended to attract attention to yourself
+106902925	ostentatious display of elegance
+106903050	an ostentatious display (of effort or extravagance etc.)
+106903178	an ostentatious and inappropriate display of learning
+106903304	the act of waving
+106903423	a display of ornamental speech or language
+106903520	a showy gesture
+106903627	an ornamental embellishment in writing
+106903738	a flourish added after or under your signature (originally to protect against forgery)
+106903896	the act of displaying something ostentatiously
+106904072	the act of making something publicly available; presenting news or other information by broadcasting or printing it
+106904389	putting on display for the first time
+106904543	a dramatic or musical entertainment
+106905066	a short performance that is part of a longer program
+106905397	an act so striking or impressive that the show must be delayed until the audience quiets down
+106905573	a performance to raise money for a charitable cause
+106905696	a concert given for the benefit of some charitable cause
+106905814	a performance of music by players or singers not involving theatrical staging
+106906018	a performance of rock music
+106906104	performance by or technique of a pianist
+106906222	performance of a play by a group of readers
+106906324	the first public performance of a play or movie
+106906480	performance of music or dance especially by soloists
+106906604	a performance of a musical composition or a dramatic role etc.
+106906811	theatrical performance combining singing and dancing
+106906924	a performance of a play
+106907150	a theatrical performance held during the daytime (especially in the afternoon)
+106907282	a lavishly produced performance
+106907410	(music) the first public performance (as of a dramatic or musical work) anywhere in the world
+106907583	a language that is deliberately created for a specific purpose
+106908197	an artificial language related to Ido
+106908287	an artificial language intended for international use as an auxiliary language
+106908417	a simplified form of English proposed for use as an auxiliary language for international communication; devised by C. K. Ogden and I. A. Richards
+106908622	an artificial language
+106908705	an artificial language based on Esperanto and Ido
+106908812	an artificial language based as far as possible on words common to all the European languages
+106908961	an artificial language proposed as an auxiliary European language
+106909080	an artificial language proposed for use as an auxiliary international language; based on Volapuk but with a vocabulary selected on the basis of the maximum internationality of the roots
+106909325	an artificial language proposed for use as an auxiliary international language; based on words common to English and the Romance languages
+106909521	an artificial language that is a revision and simplification of Esperanto
+106909644	an artificial language based on Latin
+106909737	an artificial language
+106909818	an artificial language
+106909905	an artificial language
+106909981	an artificial language based on Esperanto
+106910082	an artificial language
+106910157	an artificial language based on Latin
+106910250	an artificial language
+106910329	an artificial language
+106910403	an artificial international language using characters (as mathematical symbols) instead of words to express ideas
+106910573	an artificial language for international use that rejects all existing words and is based instead on an abstract analysis of ideas
+106910752	an artificial language
+106910828	an artificial language
+106910905	one of the first artificial language constructed for use as an auxiliary international language; based largely on English but with some German and French and Latin roots
+106911128	(computer science) a language designed for programming computers
+106911570	an algorithmic language having statements that resemble algebraic expressions
+106911748	an artificial language designed to express algorithms
+106911886	a language whose statements resemble terminology of the user
+106912086	a low-level programing language; close approximation to machine language
+106912222	a source language consisting of procedural operators that invoke functions to be executed
+106912409	a programming language designed for use on a specific class of computers
+106912621	a problem-oriented language requiring little knowledge of the computer on which it will be run
+106912781	a problem-oriented language used to describe job requirements to an operating system
+106912932	a language that can be used to describe languages
+106913058	a programming language whose expressions are assembled in more than one dimension
+106913283	a computer language into which something written in another computer language is to be translated
+106913460	(computer science) a programming language that enables the programmer to associate a set of procedures with each type of data structure
+106913829	a platform-independent object-oriented programming language
+106913939	a programming language whose expressions are represented by strings of characters
+106914109	a language that cannot be used as its own metalanguage
+106914247	a language used to describe the syntax of another language
+106914367	a programming language that (like natural language) can be used as its own metalanguage
+106914540	(from a combination of ALGOrithmic and Language); a programming language used to express computer programs as algorithms
+106914712	a flexible procedure-oriented programing language that manipulates symbols in the form of lists
+106914885	a program written in LISP
+106914969	a computer language designed in Europe to support natural language processing
+106915138	a high-level programing language for mathematical and scientific purposes; stands for formula translation
+106915297	a program written in FORTRAN
+106915387	common business-oriented language
+106915472	a general-purpose programing language closely associated with the UNIX operating system
+106915607	a program written in C
+106915685	a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use
+106915891	a programing language designed to teach programming through a top-down modular approach
+106916031	software that provides better performance than an earlier version did
+106916172	the language that a person has spoken from earliest childhood
+106916295	a language that originated in a specified place and was not brought to that place from elsewhere
+106916475	an indigenous language that contributes features to the language of an invading people who impose their language on the indigenous population
+106916748	the language of a later invading people that is imposed on an indigenous population and contributes features to their language
+106916947	a human written or spoken language used by a community; opposed to e.g. a computer language
+106917524	one's native language; the language learned by children and passed from one generation to the next
+106917719	a language in which different tones distinguish different meanings
+106917917	a tone language that uses pitch changes
+106918019	a tone language that uses different voice registers
+106918134	a mother tongue that originates from contact between two languages
+106918289	a creole language spoken by most Haitians; based on French and various African languages
+106918456	an artificial language used for trade between speakers of different languages
+106918604	a pidgin incorporating Chinook and French and English words; formerly used as a lingua franca in northwestern North America
+106918804	a trade language widely used in Chad
+106918892	a common language used by speakers of different languages
+106919215	any of the languages spoken by Amerindians
+106919747	family of North American Indian languages spoken from Labrador to South Carolina and west to the Great Plains
+106920343	a language spoken by the Atakapa of the Gulf Coast of Louisiana and Texas
+106920504	a group of Amerindian languages (the name coined by an American anthropologist, Edward Sapir)
+106920824	the Algonquian language spoken by the Abnaki and Penobscot
+106920935	the Algonquian language spoken by the Algonkian
+106921067	the Algonquian language spoken by the Arapaho
+106921177	the Siouan language spoken by the Biloxi
+106921270	any of the Algonquian languages spoken by the Blackfoot
+106921381	the Siouan language spoken by the Catawba
+106921476	the Algonquian language spoken by the Cheyenne
+106921577	the Siouan language spoken by the Iowa and Oto and Missouri
+106921744	a dialect of the Chiwere language spoken by the Iowa
+106921855	a dialect of the Chiwere language spoken by the Missouri
+106921966	a dialect of the Chiwere language spoken by the Oto
+106922074	the Algonquian language spoken by the Cree
+106922167	a Siouan language spoken by the Crow
+106922254	the Siouan language spoken by the Dakota
+106922347	the Algonquian language spoken by the Delaware
+106922448	a branch of the Siouan languages
+106922624	the Algonquian language of the Fox
+106922708	a Siouan language spoken by the Hidatsa
+106922815	a Siouan language spoken by the Hunkpapa
+106922910	the Algonquian language of the Illinois and Miami
+106923014	the Na-Dene language of the Haida
+106923099	the Dhegiha dialect spoken by the Kansa
+106923199	the Algonquian language of the Kickapoo
+106923293	the Algonquian language of the Malecite and Passamaquody
+106923415	the Algonquian language of the Massachuset
+106923531	the Algonquian language spoken by the Menomini
+106923644	the Algonquian language of the Micmac
+106923734	the Algonquian language spoken by the Mohican
+106923843	the Algonquian language spoken by the Nanticoke and Conoy
+106923956	a Siouan language spoken by the Ofo
+106924041	a Siouan language spoken by the Oglala
+106924142	the Algonquian language spoken by the Ojibwa
+106924260	the Dhegiha dialect spoken by the Omaha
+106924351	the Dhegiha dialect spoken by the Osage
+106924442	the Algonquian language of the Pamlico
+106924534	the Dhegiha dialect spoken by the Ponca
+106924633	the Algonquian language spoken by the Potawatomi
+106924738	the Algonquian language of the Powhatan
+106924832	the Dhegiha dialect spoken by the Quapaw
+106924925	the Algonquian language spoken by the Shawnee
+106925024	the Muskhogean language of the Alabama
+106925116	the Muskhogean language of the Chickasaw
+106925212	the Muskhogean language of the Choctaw
+106925313	the Muskhogean language spoken by the Hitchiti
+106925414	the Muskhogean language spoken by the Koasati
+106925513	the Muskhogean language spoken by the Muskogee
+106925614	the Siouan language spoken by the Santee
+106925707	the Muskhogean language of the Seminole
+106925801	the Na-Dene language spoken by the Tlingit
+106925897	the Siouan language spoken by the Tutelo
+106925990	the Siouan language spoken by the Winnebago
+106926089	a family of North American Indian languages spoken in the southeastern United States
+106926411	a family of North American Indian languages
+106926544	a family of Amerindian languages spoken in Washington and British Columbia
+106926724	a group of Mosan languages spoken in Washington
+106926845	a Chemakuan language spoken by the Chemakum
+106926943	a family of Mosan language spoken in northwestern United States and western Canada
+106927107	a Salishan dialect spoken by the Skagit
+106927199	a family of North American Indian languages of British Columbia and Washington
+106927388	a Wakashan language spoken by the Kwakiutl
+106927485	a Wakashan language spoken by the Nootka
+106927578	the language spoken by the Shoshone (belonging to the Uto-Aztecan family)
+106927706	the Shoshonean language spoken by the Comanche
+106927807	the Shoshonean language spoken by the Hopi
+106927900	the Shoshonean language spoken by the Paiute
+106927997	the Shoshonean language spoken by the Utes
+106928089	a subfamily of Uto-Aztecan languages spoken mainly in the southwestern United States
+106928377	a family of North American Indian languages spoken widely in the Midwest by the Caddo
+106928597	the Caddoan language spoken by the Arikara
+106928703	the Caddoan language spoken by the Pawnee
+106928797	the Caddoan language spoken by the Wichita
+106928893	the Iroquoian language spoken by the Cherokee
+106928993	the Iroquoian language spoken by the Cayuga
+106929089	the Iroquoian language spoken by the Mohawk
+106929185	the Iroquoian language spoken by the Seneca
+106929281	the Iroquoian language spoken by the Oneida
+106929377	the Iroquoian language spoken by the Onondaga
+106929477	the Iroquoian language spoken by the Tuscarora
+106929579	a family of North American Indian languages spoken by the Iroquois
+106929859	the language of the Quechua which was spoken by the Incas
+106930056	the language spoken by the Guarani of Paraguay and Bolivia
+106930168	the language spoken by the Maraco
+106930273	the language spoken by the Tupi of Brazil and Paraguay
+106930378	a family of South American Indian languages
+106930540	a family of South American Indian languages spoken in northeastern South America
+106930702	the family of languages spoken by the Carib
+106930818	the family of languages that includes Eskimo and Aleut
+106930991	the language spoken by the Eskimo
+106931088	the language spoken by the Aleut
+106931172	a family of American Indian languages
+106931416	the Uto-Aztecan language spoken by the Pima
+106931510	the Uto-Aztecan language spoken by the Aztec
+106931608	the Uto-Aztecan language spoken by the Nahuatl
+106931708	the Uto-Aztecan language of the Cahita
+106931799	the Uto-Aztecan language of the Tatahumara
+106931898	the language of the Zapotec
+106931991	a family of American Indian languages spoken by Mayas
+106932210	the language of the Apache
+106932325	an Apache language
+106932407	an Apache language
+106932489	the Athapaskan language spoken by the Navaho
+106932595	the Athapaskan language spoken by the Hupa
+106932688	the Athapaskan language spoken by the Mattole
+106932787	the language spoken by the Chipewyan
+106932906	a family of North American Indian languages spoken by the Sioux
+106933274	a family of North American Indian language spoken in southwestern United States
+106933442	the Tanoan language spoken by the Kiowa
+106933533	a family of Amerindian languages spoken in California
+106933771	the Hokan language spoken by the Chimariko
+106933869	the Hokan language spoken by the Esselen
+106933963	a group of languages of the Hokan family
+106934077	the Kulanapan language spoken by the Pomo
+106934169	a group of languages of the Hokan family
+106934283	the Quoratean language of the Karok
+106934370	a group of languages of the Hokan family in California
+106934532	the Shastan language spoken by the Achomawi
+106934630	the Shastan language spoken by the Atsugewi
+106934728	the Shastan language spoken by the Shasta
+106934822	a group of language of the Hokan family in Arizona and California and Mexico
+106935166	the Yuman language spoken by the Akwa'ala
+106935262	the Yuman language spoken by the Cochimi
+106935356	the Yuman language spoken by the Cocopa
+106935458	the Yuman language spoken by the Diegueno
+106935554	the Yuman language spoken by the Havasupai
+106935652	the Yuman language spoken by the Kamia
+106935742	the Yuman language spoken by the Kiliwa
+106935843	the Yuman language spoken by the Maricopa and the Halchidhoma
+106935959	the Yuman language spoken by the Mohave
+106936060	the Yuman language spoken by the Walapai
+106936175	the Yuman language spoken by the Yavapai
+106936269	the Yuman language spoken by the Yuma
+106936357	a language group of the Hokan family
+106936481	the Yanan language spoken by the Yahi
+106936569	the Yanan language spoken by the Yana
+106936657	a family of Amerindian language spoken in the great interior valley of California
+106936991	a group of Penutian languages spoken to the west of the Sacramento river
+106937153	a Copehan language spoken by the Patwin
+106937245	a Copehan language spoken by the Wintun
+106937337	a Penutian language spoken by the Costanoan
+106937436	a Penutian language spoken by the Yokuts in the San Joaquin Valley
+106937567	a Penutian language spoken by the Miwok
+106937672	a Penutian language spoken by the Maidu
+106937773	a Penutian language spoken by the Chinook
+106937880	a Penutian language spoken by the Kalapuya
+106937991	a Penutian language spoken by the Kusan
+106938082	a Penutian language spoken by the Shahaptian
+106938212	the Shahaptian language spoken by the Nez Perce
+106938315	a Penutian language spoken by the Takelma
+106938421	a Penutian language spoken by the Tsimshian
+106938520	a Mayan language spoken by the Kekchi
+106938610	a Mayan language spoken by the Mam
+106938694	a Mayan language spoken by the Yucatec
+106938797	the Mayan language spoken by the Quiche
+106938889	the Mayan language spoken by the Cakchiquel
+106938989	a group of related languages spoken in Asia and southeastern Europe
+106939235	a subfamily of Altaic languages
+106939575	a Turkic language spoken by the Turks
+106939666	the Turkic language spoken by the Turkoman
+106939784	the Turkic language spoken by the Azerbaijani
+106939905	the Turkic language spoken by the Kazak
+106940005	the Turkic language spoken by the Tatar living from the Volga to the Ural Mountains
+106940140	the Turkic language spoken by the Uzbek
+106940263	the Turkic language spoken by approximately 7,000,000 Uighur in extreme northwestern China
+106940422	the Turkic language spoken by the Yakut
+106940513	the Turkic language spoken by the Kirghiz
+106940628	the Turkic language spoken by the Karakalpak
+106940729	the Turkic language spoken by the Chuvash
+106940824	a Turkic literary language of medieval central Asia (named for one of the sons of Genghis Khan)
+106941011	an indigenous and isolated language of unknown origin spoken by the Chukchi that is pronounced differently by men and women
+106941207	a family of Altaic languages spoken in Mongolia and neighboring areas
+106941387	the Tungusic language of the Evenki in eastern Siberia
+106941521	the Tungusic language spoken by the Manchu
+106941616	a family of Altaic language spoken in Mongolia
+106941785	the language of the Khalkha that is the official language of the Mongolian People's Republic
+106941948	the Altaic language spoken by Koreans
+106942056	the language (usually considered to be Altaic) spoken by the Japanese
+106942236	the language (related to Japanese) that is spoken by the people of the Ryukyu Islands
+106942395	a group of Sino-Tibetan languages
+106942519	any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system
+106942870	the dialect of Chinese spoken in Beijing and adopted as the official language for all of China
+106943075	a dialect of Chinese spoken in the Yangtze delta
+106943204	the dialect of Chinese spoken in Canton and neighboring provinces and in Hong Kong and elsewhere outside China
+106943410	any of the forms of Chinese spoken in Fukien province
+106943581	a dialect of Chinese spoken in southeastern China by the Hakka
+106943711	the family of tonal languages spoken in eastern Asia
+106943976	a branch of the Sino-Tibetan family of languages spoken from Tibet to the Malay Peninsula
+106944276	the Tibeto-Burman language spoken in Sichuan
+106944382	the Tibeto-Burman language spoken in the Dali region of Yunnan
+106944501	the Tibeto-Burman language spoken in Tibet and Nepal and Bhutan and Sikkim
+106944668	the Tibeto-Burman language spoken in northeastern India and adjacent regions of western Burma
+106944907	the Tibeto-Burman language spoken in the Thailand and Burmese borderlands
+106945042	the Tibeto-Burman language spoken in northern Burma and Yunnan
+106945212	the official language of Burma
+106945314	languages spoken by hill tribes in northern Burma and neighboring areas
+106945511	a Loloish language
+106945580	a Loloish language
+106945656	a Loloish language
+106945725	a Loloish language
+106945799	Tibeto-Burman languages spoken in northernmost Burma and adjacent China and India
+106945962	a Kachinic language
+106946056	Kamarupan languages spoken in western Burma and Bangladesh and easternmost India
+106946206	Kamarupan languages spoken in northeastern India and western Burma
+106946323	Kamarupan languages spoken in the states of Manipur and Assam in northeastern India
+106946466	Kamarupan languages spoken in the state of Assam in northeastern India
+106946601	little known Kamarupan languages
+106946708	Himalayish language spoken in Tibet
+106946797	Himalayish language spoken in the Kathmandu valley of Nepal
+106946909	a family of Sino-Tibetan languages spoken in southeastern Asia
+106947086	a group of Kadai languages
+106947166	the most widespread and best known of the Kadai family of languages
+106947625	a branch of the Tai languages
+106947710	a branch of the Tai languages
+106947793	a branch of the Tai languages
+106947888	a branch of the Tai languages
+106948000	a branch of the Tai languages
+106948091	a branch of the Tai languages
+106948194	a branch of the Tai languages
+106948290	a branch of the Tai languages
+106948371	the Tai language of a Buddhist people living in the area of the Mekong River in Thailand and Laos
+106948518	a branch of the Tai languages
+106948600	a branch of the Tai languages
+106948688	a branch of the Tai languages
+106948767	a branch of the Tai languages
+106948847	a branch of the Tai languages
+106948926	a branch of the Tai languages
+106949067	a branch of the Tai languages
+106949156	a branch of the Tai languages
+106949238	a branch of the Tai languages
+106949317	a branch of the Tai languages
+106949397	a family of languages spoken in southern and southeastern Asia
+106949600	a family of languages spoken by people scattered throughout central India
+106949725	a branch of the Austro-Asiatic languages
+106949875	a language of uncertain affiliation spoken by the Hmong
+106950006	the Mon-Khmer language spoken in Vietnam
+106950125	the Mon-Khmer language spoken in Cambodia
+106950218	the Mon-Khmer language spoken by the Mon
+106950308	the family of languages spoken in Australia and Formosa and Malaysia and Polynesia
+106950545	the branch of the Austronesian languages spoken from Madagascar to the central Pacific
+106950762	an eastern subfamily of Malayo-Polynesian languages
+106950967	the Polynesian language spoken by the Tongan people
+106951071	the Oceanic language spoken on Tahiti
+106951163	the Oceanic language spoken by the Maori in New Zealand
+106951270	the Oceanic languages spoken on Hawaii
+106951400	the Oceanic language spoken on Fiji
+106951506	a western subfamily of Malayo-Polynesian languages
+106951664	a western subfamily of Western Malayo-Polynesian languages
+106951828	the Malay language spoken in Malaysia
+106951975	the dialect of Malay used as the national language of the Republic of Indonesia or of Malaysia
+106952208	the Indonesian language spoken on Java
+106952319	the Indonesian language spoken on West Java
+106952418	the Indonesian language of the people of Bali
+106952518	official language of the Philippines; based on Tagalog; draws its lexicon from other Philippine languages
+106952763	the language of the Tagalog on which Filipino is based
+106952871	language of the people of Cebu in the Philippines; its lexicon contributes to the official language of the Philippines
+106953052	the Austronesian languages spoken by Australian aborigines
+106953264	a language of Australian aborigines
+106953363	a language of Australian aborigines
+106953463	the Austronesian languages spoken on Formosa
+106953616	a language spoken by a Malaysian people on Formosa
+106953731	a Formosan language
+106953803	a Formosan language
+106953877	any of the indigenous languages spoken in Papua New Guinea or New Britain or the Solomon Islands that are not Malayo-Polynesian languages
+106954103	a family of languages spoken in southern Africa
+106954241	any of the Khoisan languages spoken by the pastoral people of Namibia and South Africa
+106954406	the family of languages that by 1000 BC were spoken throughout Europe and in parts of southwestern and southern Asia
+106954856	a prehistoric unrecorded language that was the ancestor of all Indo-European languages
+106955014	the Indo-European language spoken by the people of Albania
+106955181	the dialect of Albanian spoken in northern Albania and Yugoslavia
+106955312	the dialect of Albanian spoken in southern Albania and in areas of Greece and Italy
+106955461	the Indo-European language spoken predominantly in Armenia, but also in Azerbaijan
+106955636	a minor and almost extinct branch of the Indo-European languages; spoken along the Dalmatian coast
+106955789	an extinct branch of the Indo-European language family thought by some to be related to Armenian
+106955983	a Thraco-Phrygian language spoken by the ancient people of Thrace but extinct by the early Middle Ages
+106956140	a Thraco-Phrygian language spoken by the ancient inhabitants of Phrygia and now extinct--preserved only in a few inscriptions
+106956320	a family of Indo-European languages including the Slavic and Baltic languages
+106956533	a branch of the Indo-European family of languages
+106956918	the Slavic language into which the Bible was translated in the 9th century
+106957110	the Slavic language that is the official language of Russia
+106957242	the Slavic language spoken in Belarus
+106957385	the Slavic language spoken in the Ukraine
+106957482	the Slavic language of Poland
+106957582	the Slavic language spoken in Slovakia
+106957673	the Slavic language of Czechs
+106957772	the Slavic language of Slovenes
+106957857	the Slavic language of the Serbs and Croats; the Serbian dialect is usually written in the Cyrillic alphabet and the Croatian dialect is usually written in the Roman alphabet
+106958106	a Slavonic language spoken in rural area of southeastern Germany
+106958235	the Slavic language of modern Macedonia
+106958331	a Slavic language spoken in Bulgaria
+106958441	a branch of the Indo-European family of languages related to the Slavonic languages; Baltic languages have preserved many archaic features that are believed to have existed in Proto-Indo European
+106958779	a dead language of the (non-German) Prussians (extinct after 1700); thought to belong to the Baltic branch of Indo-European
+106958961	the official language of Lithuania; belongs to the Baltic branch of Indo-European
+106959117	the official language of Latvia; belongs to the Baltic branch of Indo-European
+106959259	a branch of the Indo-European family of languages; members that are spoken currently fall into two major groups: Scandinavian and West Germanic
+106959585	a branch of the Germanic languages
+106959794	an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries
+106960241	the English language as used in the United States
+106960420	a nonstandard form of American English characteristically spoken by African Americans in the United States
+106960779	the nonstandard dialect of natives of the east end of London
+106960911	the nonstandard dialect of natives of Newcastle-upon-Tyne
+106961022	English as spoken by educated persons in southern England
+106961158	the approved pronunciation of British English; originally based on the King's English as spoken at public schools and at Oxford and Cambridge Universities (and widely accepted elsewhere in Britain); until recently it was the pronunciation of English used in British broadcasting
+106961523	English from about 1100 to 1450
+106961705	the dialect of Middle English that replaced West Saxon as the literary language and which developed into Modern English
+106961883	a dialect of Middle English
+106961969	a dialect of Middle English that developed into Scottish Lallans
+106962088	a dialect of Middle English
+106962169	a dialect of Middle English
+106962268	English since about 1450
+106962353	English prior to about 1100
+106962524	a literary dialect of Old English
+106962614	one of the major dialects of Old English
+106962708	one of the major dialects of Old English
+106962811	the dialect of English spoken at Oxford University and regarded by many as affected and pretentious
+106962971	the dialect of English used in Scotland
+106963162	a dialect of English spoken in the Lowlands of Scotland
+106963290	the standard German language; developed historically from West Germanic
+106963648	High German prior to 1200
+106963735	High German from 1100 to 1500
+106963829	a dialect of High German including some Hebrew and other words; spoken in Europe as a vernacular by many Jews; written in the Hebrew script
+106964877	a dialect of High German spoken in parts of Pennsylvania and Maryland
+106965011	a German dialect spoken in northern Germany
+106965162	Low German prior to 1200
+106965242	Low German from 1100 to 1500
+106965334	the West Germanic language of the Netherlands
+106965467	one of two official languages of Belgium; closely related to Dutch
+106965623	an official language of the Republic of South Africa; closely related to Dutch and Flemish
+106965794	the Germanic language of Scandinavia up until about 700
+106965907	the extinct Germanic language of medieval Scandinavia and Iceland from about to 700 to 1350
+106966072	the extinct dialect of Old Norse that was spoken in Iceland up until about 1600
+106966211	either of two distinct works in Old Icelandic dating from the late 13th century and consisting of 34 mythological and heroic ballads composed between 800 and 1200; the primary source for Scandinavian mythology
+106966471	the northern family of Germanic languages that are spoken in Scandinavia and Iceland
+106966788	a Scandinavian language that is the official language of Denmark
+106966923	a Scandinavian language that is the official language of Iceland
+106967043	a Scandinavian language that is spoken in Norway
+106967201	book language; one of two official languages of Norway; closely related to Danish
+106967380	in 1929 this dialect of Norwegian was officially renamed Bokmal
+106967508	one of two official languages of Norway; based on rural dialects
+106967665	a Scandinavian language that is the official language of Sweden and one of two official languages of Finland
+106967827	a Scandinavian language (closely related to Icelandic) that is spoken on the Faroe Islands
+106967982	a West Germanic language spoken in Friesland in the northwestern Netherlands; a near relative of English
+106968158	the Frisian language until the 16th century; the Germanic language of ancient Frisia
+106968300	an extinct branch of the Germanic languages
+106968446	extinct East Germanic language of the ancient Goths; the only surviving record being fragments of a 4th-century translation of the Bible by Bishop Ulfilas
+106968671	a (postulated) group of languages including many of the indigenous languages of Russia (but not Russian)
+106968869	a family of Ural-Altaic languages
+106969027	a family of Uralic languages indigenous to Scandinavia and Hungary and Russia and western Siberia (prior to the Slavic expansion into those regions)
+106969284	one of two branches of the Finno-Ugric languages; a family of languages including Finnish and Estonian (but not Hungarian)
+106969534	the Finnic language spoken by the Votyak
+106969636	a group of Finnic languages spoken in the northwest Urals
+106969782	the Finnic language spoken by the Komi
+106969880	a group of Finnic languages spoken around the Volga river
+106970027	the Finnic language spoken by the Cheremis
+106970143	the Finnic language spoken by the Mordvinians
+106970264	a group of Finnic languages including Finnish and Estonian
+106970508	the Finnic language spoken by the people of Livonia in Estonia and Latvia
+106970636	the official language of Estonia; belongs to the Baltic-Finnic family of languages
+106970803	a Finnic language spoken by the people of Karelia
+106970918	a Baltic-Finnic language
+106970995	the official language of Finland; belongs to the Baltic Finnic family of languages
+106971157	a Finnic language spoken by the Veps
+106971262	a Finnic language spoken by the Ingrian
+106971355	one of the two branches of the Finno-Ugric family of languages; spoken in Hungary and northwestern Siberia
+106971576	the official language of Hungary (also spoken in Rumania); belongs to the Ugric family of languages
+106971758	a Ugric language (related to Hungarian) spoken by the Ostyak
+106971880	the Ugric language (related to Hungarian) spoken by the Vogul
+106972001	any of the languages spoken by the Lapps and generally assumed to be Uralic languages
+106972167	the language of nomadic Lapps in northern Scandinavia and the Kola Peninsula
+106972324	the Uralic languages spoken by the Samoyed in northwestern Siberia
+106972528	a Uralic language spoken by a Samoyed of northern Siberia
+106972672	the Uralic language spoken by the Yeniseian
+106972823	the Uralic language spoken by the Nganasan
+106972920	the Uralic language spoken by the Ostyak-Samoyed
+106973038	a branch of the Indo-European languages that (judging from inscriptions and place names) was spread widely over Europe in the pre-Christian era
+106973306	any of several related languages of the Celts in Ireland and Scotland
+106973518	the Celtic language of Ireland
+106973688	Irish Gaelic up to about 1100
+106973773	Irish Gaelic from 1100 to 1500
+106973862	the Gaelic of Scotland
+106973961	the ancient Gaelic formerly spoken on the Isle of Man; the language is sometimes used on ceremonial occasions
+106974139	a southern group of Celtic languages
+106974297	a Celtic language of Wales
+106974421	a Celtic language spoken in Cornwall
+106974511	a Celtic language of Brittany
+106974593	a branch of the Indo-European languages of which Latin is the chief representative
+106974800	a group of dead languages of ancient Italy; they were displace by Latin
+106974984	an extinct Italic language of ancient southern Italy
+106975090	an extinct Italic language of ancient southern Italy
+106975194	an extinct Osco-Umbrian language of ancient Italy that survives only in a few inscriptions
+106975340	any dialect of the language of ancient Rome
+106975694	the oldest recorded Latin (dating back at early as the 6th century B.C.)
+106975822	the language of educated people in ancient Rome
+106976032	any dialect of Latin other than classical Latin
+106976171	nonclassical Latin dialects spoken in the Roman Empire; source of Romance languages
+106976313	the form of Latin written between the 3rd and 8th centuries
+106976446	Latin used for liturgical purposes during the Middle Ages
+106976564	Latin since the Renaissance; used for scientific nomenclature
+106976693	the group of languages derived from Latin
+106976989	the Romance language spoken in Italy
+106977227	the Italian language up to the middle of the 16th century
+106977342	the Italian dialect spoken in Sardinia; sometimes considered a separate language with many loan words from Spanish
+106977530	a dialect of Italian spoken in Tuscany (especially Florence)
+106977643	the Romance language spoken in France and in countries colonized by France
+106978029	medieval provincial dialects of French spoken in central and northern France
+106978186	medieval provincial dialects of French formerly spoken in the south of France
+106978360	the earliest form of the French language; 9th to 15th century
+106978478	the medieval Norman dialect of Old French
+106978614	the French (Norman) language used in medieval England
+106978741	the French language as spoken in Quebec, Canada
+106978850	a dialect of French spoken in Belgium and adjacent parts of France
+106978970	the medieval dialects of Langue d'oc (southern France)
+106979090	the Romance language spoken in Portugal and Brazil
+106979234	a language spoken in Galicia, an Autonomus Community of Spain
+106979369	the language of the Basque people; of no known relation to any other language
+106979499	the Romance language spoken in most of Spain and the countries colonized by Spain
+106979859	the Spanish language as spoken in Castile
+106979956	the Spanish dialect spoken by Sephardic Jews but written in the Hebrew script
+106980102	the dialect of Spanish spoken in Mexico
+106980203	the Romance language spoken in Catalonia in eastern Spain (related to Spanish and Occitan)
+106980384	Romance dialects spoken in parts of southeastern Switzerland and northern Italy and the Tyrol
+106980609	a Rhaeto-Romance dialect spoken in northeastern Italy
+106980726	a Rhaeto-Romance dialect of Romansh spoken in southeastern Switzerland
+106980848	the Rhaeto-Romance language spoken in southeastern Switzerland; it is an official language of Switzerland
+106981017	an eastern Romance language spoken in Romania
+106981128	an extinct ancient language of unknown affinities; spoken by the Elamites
+106981275	an ancient language spoken by the Kassites
+106981381	a branch of the Indo-European language family that originated in central Asia during the first millennium A.D.
+106981583	a dialect of Tocharian
+106981692	a dialect of Tocharian
+106981803	(Hinduism) an ancient language of India (the language of the Vedas and of Hinduism); an official language of India although it is now used only for religious purposes
+106982379	the Indic language of Sind which is spoken also in western India
+106982496	the Indic language of the Gypsies
+106982590	the official literary language of Pakistan, closely related to Hindi; widely used in India (mostly by Moslems); written in Arabic script
+106982777	the most widely spoken of modern Indic vernaculars; spoken mostly in the north of India; along with English it is the official language of India; usually written in Devanagari script
+106983047	a form of Hindi spoken around Delhi
+106983184	the Indic language spoken in Bihar (and by some people in Pakistan and Bangladesh)
+106983319	a subfamily of Indic languages
+106983458	the Magadhan language spoken by the Assamese people; closely related to Bengali
+106983620	a Magadhan language spoken by the Bengali people; the official language of Bangladesh and Bengal
+106983797	a Magadhan language that is spoken by the Oriya and is the official language of the Indian state of Orissa
+106983955	an Indic language; the state language of Maharashtra in west central India; written in the Devanagari script
+106984128	the Indic language spoken by the people of India who live in Gujarat in western India
+106984279	the Indic language spoken by people in Pakistan and Punjab
+106984401	the Indic language spoken by the people of Sri Lanka
+106984532	the branch of the Indo-European family of languages including the Indic and Iranian language groups
+106984750	a branch of the Indo-Iranian family of languages
+106984971	any of a group of Indic languages spoken in Kashmir and eastern Afghanistan and northern Pakistan
+106985218	a Dardic language spoken in northern Kashmir
+106985314	a Dardic language spoken in northwestern Pakistan
+106985416	a Dardic language spoken by the Kafir in northeastern Afghanistan
+106985534	the official state language of Kashmir
+106985645	the official state language of Nepal
+106985752	any of the vernacular Indic languages of north and central India (as distinguished from Sanskrit) recorded from the 3rd century BC to the 4th century AD
+106985994	an ancient Prakrit language (derived from Sanskrit) that is the scriptural and liturgical language of Theravada Buddhism
+106986165	any of the modern Indic languages
+106986270	the modern Persian language spoken in Iran
+106986601	an ancient Iranian language
+106986707	an ancient Iranian language
+106986787	the language of Persia (Iran) in any of its ancient forms
+106986943	an Iranian language spoken in Afghanistan
+106987050	the Iranian language of the Tajik that is closely related to Farsi; spoken in Iran and Tajikistan
+106987218	an Iranian language spoken in Turkey and Iran and Iraq and Syria and Russia
+106987347	an Iranian language spoken in Pakistan and Iran and Afghanistan and Russia and the Persian gulf
+106987506	the Iranian language of the Zoroastrian literature of the 3rd to 10th centuries
+106987667	the Iranian language spoken in the Parthian kingdom (250 BC to AD 226)
+106987792	an Iranian language spoken in Afghanistan and Pakistan; the official language of Afghanistan
+106988028	a northeastern Iranian language spoken in Russia
+106988129	the Iranian language spoken by the ancient Scythians
+106988254	an extinct branch of the Indo-European family of languages known from inscriptions and important in the reconstruction of Proto-Indo European
+106988562	the language of the Hittites and the principal language of the Anatolian group of languages; deciphered from cuneiform inscriptions
+106988747	an Anatolian language
+106988821	an Anatolian language
+106988904	an Anatolian language
+106988978	an Anatolian language
+106989052	the Hellenic branch of the Indo-European family of languages
+106989340	the Greek language as spoken and written today
+106989493	the modern Greek vernacular
+106989619	literary style of Modern Greek containing features borrowed from Koine
+106989747	the Greek language in the 3rd to 8th centuries
+106989850	the Greek language from about 600 to 1200 AD
+106989988	a Greek dialect that flourished under the Roman Empire
+106990094	the Greek language prior to the Roman Empire
+106990270	the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia
+106990460	the dialect of Ancient Greek spoken in Thessaly and Boeotia and Aeolis
+106990608	the dialect of Ancient Greek spoken by Arcadians
+106990728	the dialect of Ancient Greek spoken in Doris
+106990840	a number of languages spoken in the Caucasus that are unrelated to languages spoken elsewhere
+106991082	a northern Caucasian language spoken by the Chechen
+106991187	a northern Caucasian language spoken by the Circassian
+106991316	a Circassian language spoken by the Abkhaz
+106991426	a southern Caucasian language with 3 million speakers and a long literary tradition
+106991564	an extinct Caucasian language spoken exclusively in Turkey
+106991674	a large family of languages spoken in south and central India and Sri Lanka
+106991909	a Dravidian language spoken primarily in southern India
+106992152	a Dravidian language closely related to Tamil that is spoken in a hilly section of southwestern India
+106992305	a Dravidian language spoken by the Kota
+106992403	the Dravidian language spoken by the Toda in southern India
+106992513	the dialect of Kannada that is spoken by the Badaga
+106992617	a Dravidian language spoken in southern India
+106992745	a Dravidian language spoken by the Tulu
+106992835	a Dravidian language (closely related to Tamil) that is spoken in southwestern India
+106992975	the Dravidian language spoken since prehistoric times by the Tamil in southern India and Sri Lanka
+106993125	a Dravidian language spoken primarily in south central India
+106993381	a Dravidian language spoken by the Telugu in southeastern India
+106993497	a Dravidian language spoken by the Savara in southeastern India (north of Madras)
+106993631	a Dravidian language spoken by the Gond in south central India
+106993745	a Dravidian language spoken in south central India
+106993847	a Dravidian language spoken in south central India
+106993949	the Dravidian language spoken by the Kui in southeastern India
+106994061	a Dravidian language spoken in southeast India
+106994158	a Dravidian language spoken primarily in central India
+106994366	the Dravidian language spoken by the Kolam in central India
+106994478	a Dravidian language spoken in south central India
+106994580	a Dravidian language spoken in south central India
+106994682	a Dravidian language spoken in south central India
+106994785	the Dravidian language spoken by the Gadaba
+106994881	a Dravidian language spoken primarily in eastern India
+106995051	a Dravidian language spoken in eastern India
+106995147	the Dravidian language spoken by the Malto
+106995241	an isolated Dravidian language spoken by the Brahui in Pakistan
+106995357	the chief member of the Chadic family of Afroasiatic languages; widely used as a trading language
+106995515	a Chadic language spoken in northern Nigeria and closely related to Hausa
+106995649	a Chadic language spoken in northern Nigeria and closely related to Hausa
+106995774	a Chadic language spoken in northern Nigeria
+106995885	a Chadic language spoken in northern Nigeria
+106995980	a Chadic language spoken in northern Nigeria
+106996076	a Chadic language spoken in northern Nigeria
+106996181	a group of Chadic languages spoken in northern Nigeria; Hausa in the most important member
+106996455	a three-tone Chadic language
+106996555	a Chadic language spoken south of Lake Chad
+106996657	a Chadic language spoken south of Lake Chad
+106996761	a Chadic language spoken in the Mandara mountains in Cameroon; has only two vowels
+106996907	a Chadic language spoken south of Lake Chad
+106997011	a Chadic language spoken south of Lake Chad
+106997106	a Chadic language spoken south of Lake Chad
+106997216	a Chadic language spoken south of Lake Chad
+106997310	a Chadic language spoken south of Lake Chad
+106997406	a Chadic language spoken south of Lake Chad
+106997518	a Chadic language spoken south of Lake Chad
+106997613	a group of Chadic languages spoken in the border area between Cameroon and Nigeria south of Lake Chad
+106997970	a Chadic language spoken in Chad
+106998064	a Chadic language spoken in Chad
+106998150	a Chadic language spoken in Chad
+106998233	a Chadic language spoken in Chad; uses seven vowels plus differences in vowel length
+106998382	a Chadic language spoken in Chad
+106998467	a Chadic language spoken in Chad
+106998552	a group of Chadic languages spoken in Chad
+106998760	an independent group of closely related Chadic languages spoken in the area between the Biu-Mandara and East Chadic languages
+106998936	a family of Afroasiatic tonal languages (mostly two tones) spoken in the regions west and south of Lake Chad in north central Africa
+106999218	a large family of related languages spoken both in Asia and Africa
+106999554	a major branch of the Afro-Asiatic language family
+106999784	the ancient Canaanitic language of the Hebrews that has been revived as the official language of Israel
+107000069	Hebrew used in Israel today; revived from ancient Hebrew
+107000185	an ancient branch of the Semitic languages
+107000319	an extinct language of the Assyrians in ancient Mesopotamia
+107000472	the dominant and official language of Ethiopia; a Semitic language much influenced by the Cushitic language with which Amhara have been in close contact
+107000717	the Semitic language of the Arabs; spoken in a variety of dialects
+107000967	a Semitic language originally of the ancient Arameans but still spoken by other people in southwestern Asia
+107001200	the form of Aramaic that was spoken in Palestine in the time of the New Testament
+107001344	the language of modern Iraq
+107001468	the form of Aramaic used by the Mandeans
+107001573	the national language of the Republic of Malta; a Semitic language derived from Arabic but with many loan words from Italian, Spanish, and Norman-French
+107001806	a group of Semitic languages
+107001985	the extinct language of the Semitic people who occupied Canaan before the Israelite conquest
+107002133	the extinct language of an ancient Semitic people who dominated trade in the ancient world
+107002317	the Phoenician dialect of ancient Carthage
+107002429	an extinct Semitic language of northern Syria
+107002529	a group of languages in northern Africa related to Semitic
+107002660	the ancient and now extinct language of Egypt under the Pharaohs; written records date back to 3000 BC
+107002853	a simplified cursive form of the ancient hieratic script
+107003031	the liturgical language of the Coptic Church used in Egypt and Ethiopia; written in the Greek alphabet
+107003204	a cluster of related dialects that were once the major language of northern Africa west of Egypt; now spoken mostly in Morocco
+107003401	the dialect of Berber spoken by the Tuareg
+107003496	a group of languages spoken in Ethiopia and Somalia and northwestern Kenya and adjacent regions
+107003664	the Cushitic language spoken by the Somali
+107003777	a group of related languages spoken in a valley of southern Ethiopia; closely related to Cushitic languages
+107003937	the family of languages that includes most of the languages spoken in Africa south of the Sahara; the majority of them are tonal languages but there are important exceptions (e.g., Swahili or Fula)
+107004282	a group of languages spoken in the relatively small Kordofan area of the south Sudan
+107004424	a family of African language spoken in west Africa
+107004640	a family of languages widely spoken in the southern half of the African continent
+107005260	the Bantu language of the Chewa of east central Africa
+107005369	a Bantu language spoken in southern Somalia
+107005467	a Bantu language that is one of the two major languages of Zimbabwe
+107005589	a Bantu language spoken in Cameroon
+107005675	a Bantu language spoken in western Kenya
+107005768	a Bantu language spoken in the coastal regions of eastern Kenya
+107005885	a Banto language spoken by the Herero in Namibia, Botswana, and Angola
+107006008	a Bantu language spoken by the Kamba in Kenya
+107006105	a Bantu language spoken by the Chaga in northern Tanzania
+107006233	a Bantu language
+107006307	a Bantu language
+107006379	the Bantu language spoken by the Kongo living in the tropical forests of Zaire and Congo and Angola
+107006530	a Bantu language spoken in southeastern Congo
+107006637	the Bantu language of the Buganda people; spoken in Uganda
+107006749	a Bantu language
+107006817	a Bantu language
+107006885	a Bantu language spoken in southern coastal Tanzania
+107006989	a group of southern Bantu languages
+107007148	a Bantu language sometimes considered a dialect of Zulu
+107007268	a Bantu language closely related to Zulu
+107007360	a Bantu language closely related to Zulu
+107007452	a Bantu language of considerable literary importance in southeastern Africa
+107007578	a Bantu language spoken in central Tanzania
+107007676	a Bantu language spoken in the Kenyan coastal areas of East Africa
+107007795	a Bantu language spoken in Zimbabwe
+107007882	any of the mutually intelligible southern Bantu languages of the Sotho in Botswana and South Africa and Lesotho
+107008099	a Bantu language spoken in Angola
+107008186	the dialect of Sotho spoken by the Basotho; an official language of Lesotho
+107008324	the dialect of Sotho spoken by the Tswana in Botswana
+107008452	the most widely spoken Bantu languages; the official language of Kenya and Tanzania and widely used as a lingua franca in east and central Africa
+107008689	the language of the Tongan people of south central Africa (Zambia and Rhodesia)
+107008820	a group of Niger-Congo languages spoken primarily in southeastern Mali and northern Ghana
+107008969	a group of languages spoken in the extreme western part of West Africa
+107009170	a family of languages of the Fulani of West Africa and used as a lingua franca in the sub-Saharan regions from Senegal to Chad; the best known of the West African languages
+107009415	a West African language closely related to Fula; spoken primarily in Senegal and Gambia
+107009554	the West African language of the Wolof in Senegal; related to Fula
+107009672	a group of African languages in the Niger-Congo group spoken from Senegal east as far as the Ivory Coast
+107009828	a group of African language in the Niger-Congo group spoken from the Ivory Coast east to Nigeria
+107010028	a Kwa language spoken by the Yoruba in southwestern Nigeria
+107010146	a Kwa language spoken in Ghana and the Ivory Coast
+107010247	a Kwa language spoken by the Ewe in Ghana and Togo and Benin
+107010357	a family of East African languages spoken by Nilotic peoples from the Sahara south to Kenya and Tanzania
+107010598	a group of Nilo-Saharan language spoken in parts of the Sudan and Zaire and Uganda and Tanzania
+107010768	a group of languages of East Africa belonging to the Chari-Nile group
+107010982	a Nilotic language
+107011052	a Nilotic language
+107011120	a Nilotic language
+107011190	a Nilo-Saharan language spoken in parts of Chad
+107011291	a Nilo-Saharan language spoken by the Songhai in Mali and Niger
+107011408	photographs or other visual representations in a printed publication
+107011705	visual communication by a skillful combination of text and pictures in advertisements, magazines, books, etc.
+107011893	artwork that helps make something clear or attractive
+107012096	illustrations used to decorate or explain a text
+107012307	a diagram or picture illustrating textual material
+107012462	a visual display of information
+107012805	a chart or graph showing the movements or progress of an object
+107012937	a visual representation of the relations between certain quantities, represented as points, plotted with reference to a set of axes
+107013504	(electronics) a graph of frequency response with signal amplitude or gain plotted against frequency
+107013729	a line on a graph representing data
+107013853	(electronics) graph showing how a particular characteristic of a device varies with other parameters
+107014082	a chart showing the lines of responsibility between departments of a large organization
+107014234	a chart displaying colors
+107014335	a chart in which complementary colors (or their names) are arranged on opposite sides of a circle
+107014505	a chart with bars whose lengths are proportional to quantities
+107014653	a bar chart representing a frequency distribution; heights of the bars represent observed frequencies
+107014810	a chart that is read from a fixed distance; used as a test of vision
+107014934	a chart with several sheets hinged at the top; sheets can be flipped over to present information sequentially
+107015100	a hand-held device, usually of paper, cardboard, or plastic, for conducting simple calculations or looking up information
+107015315	a circular slide chart having rotating parts
+107015428	a circular chart divided into triangular areas proportional to the percentages of the whole
+107015575	a chart showing the relative positions of the stars in a particular part of the sky
+107015715	an analysis (often in graphical form) representing the extent to which something exhibits various characteristics
+107015979	a chart showing the number of people as a function of their ages
+107016108	information set out in tabular form
+107016235	an illustration that is drawn by hand and published in a book, magazine, or newspaper
+107016468	a sequence of drawings telling a story in a newspaper or comic book
+107016684	a single drawing in a comic strip
+107016788	a graphical recording made by a ballistocardiograph
+107016923	a graphical image of the brain produced by an echoencephalograph
+107017051	a graphical image of the heart produced by an echocardiograph
+107017173	a graphical recording of the cardiac cycle produced by an electrocardiograph
+107017357	a graphical record of electrical activity of the brain; produced by an electroencephalograph
+107017538	a graphical record of electric currents associated with muscle contractions
+107017680	a graphical recording of the electrical activity of the retina that results when light is flashed into the eye
+107017854	a graph purporting to show the relation between tax rates and government income; income increases as tax rates increase up to an optimum beyond which income declines
+107018078	a graph showing the rate of learning (especially a graph showing the amount recalled as a function of the number of attempts to recall)
+107018274	a graphical recording of muscle activity
+107018386	graphical representation (in polar or Cartesian coordinates) of the spatial distribution of radiation from an antenna as a function of angle
+107018639	the enhanced response of an antenna in a given direction as indicated by a loop in its radiation pattern
+107018831	the maximum lobe in the radiation pattern which is intended to be along the forward axis and which gives the effect of a beam
+107019013	a graphical record of speed and distance produced by a tachograph
+107019134	a graphical record produced by a thermograph
+107019235	the art of writing and producing plays
+107019828	the theater as a profession (usually the stage')
+107020067	a presentation for the stage or screen or radio or television
+107020287	the production of a drama on the stage
+107020457	a highly successful theatrical production
+107020560	a sensational bit of stagecraft
+107020672	theatrical productions performed by a stock company during the summer
+107020800	a play for performance on the stage or television or in a movie etc.
+107021061	a dramatic work intended for performance by actors on a stage
+107021660	a brief dramatic piece (usually comic) presented after a play
+107021796	an incomplete piece
+107021965	a play of a macabre or horrific nature
+107022063	a missing piece (as a gap in a manuscript)
+107022158	a small fragment
+107022277	plays stressing the irrational or illogical aspects of life, usually to show that modern life is pointless
+107022537	an introduction to a play

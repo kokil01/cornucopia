@@ -1,0 +1,1000 @@
+100983797	the act of collecting information
+100983916	the operation of gathering information about an enemy
+100984239	intelligence of all types and forms of immediate interest; usually disseminated without delays for evaluation or interpretation
+100984433	intelligence that is required for the planning and conduct of tactical operations
+100984622	tactical intelligence on the natural and man-made characteristics of an area
+100984765	intelligence that is required for forming policy and military plans at national and international levels
+100984938	intelligence information gathered from communications intelligence or electronics intelligence or telemetry intelligence
+100985188	intelligence derived from electromagnetic radiations from foreign sources (other than radioactive sources)
+100985373	technical and intelligence information derived from foreign communications by other than the intended recipients
+100985568	intelligence derived from the interception and processing and analysis of foreign telemetry
+100985737	an intelligence operation so planned and executed as to insure concealment
+100985897	a clandestine rescue operation to bring a defector or refugee or an operative and family out of danger
+100986068	military actions designed to influence the perceptions and attitudes of individuals, groups, and foreign governments
+100986281	an intelligence operation so planned as to permit plausible denial by the sponsor
+100986443	a covert operation not attributable to the organization carrying it out
+100986576	the collection of intelligence openly without concealment
+100986695	the act of reconnoitring (especially to gain information about an enemy or potential enemy)
+100987094	reconnaissance (by shortening)
+100987192	exploring in order to gain information
+100987442	reconnaissance either by visual observation from the air or through the use of airborne sensors
+100987602	a method of reconnaissance in which fire is placed on a suspected enemy position in order to cause the enemy to disclose his presence by moving or returning fire
+100987832	an offensive operation designed to discover or test the enemy's strength (or to obtain other information)
+100988007	a quick look around (originally military slang)
+100988166	the detection and identification and evaluation and location of foreign electromagnetic radiations (other than radioactive)
+100988361	intelligence activities concerned with identifying and counteracting the threat to security posed by hostile intelligence organizations or by individuals engaged in espionage or sabotage or subversion or terrorism
+100988749	the aspect of counterintelligence designed to detect and prevent subversive activities
+100988899	counterintelligence designed to detect and counteract sabotage
+100989024	the act of firing weapons or artillery at an enemy
+100989861	firing at enemy aircraft
+100989949	the heavy fire of artillery to saturate an area rather than hit a specific target
+100990263	the simultaneous firing of all the armament on one side of a warship
+100990406	rapid simultaneous discharge of firearms
+100990642	fire delivered on a specific target in response to a request from the supported unit
+100990782	fire on enemy troops or weapons or positions that are near the supported unit and are the most immediate and serious threat to it
+100990979	fire that makes it difficult for the enemy to fire on your own individuals or formations
+100991208	fire on objectives not in the immediate vicinity of your forces but with the objective of destroying enemy reserves and weapons and interfering with the enemy command and supply and communications
+100991471	fire delivered in support of part of a force (as opposed to general supporting fire delivered in support of the force as a whole)
+100991669	fire from two or more weapons directed at a single target or area (as fire by batteries of two or more warships)
+100991859	fire intended to neutralize or destroy enemy weapons
+100992023	fire delivered to neutralize or destroy indirect fire weapon systems
+100992157	bombardment intended to destroy or neutralize enemy weapons
+100992281	mortar fire intended to destroy or neutralize enemy weapons
+100992405	intensive prearranged fire delivered when the immanence of enemy attack is discovered
+100992560	fire from two or more points so that the lines of fire cross
+100992676	fire delivered for the sole purpose of destroying material objects
+100992805	fire delivered on a target that is visible to the person aiming it
+100992929	fire dispersed so as to engage effectively an area target
+100993049	fire that injures or kills an ally
+100993156	fire that injures or kills an enemy
+100993250	fire approximately parallel to the ground; the center of the cone of fire does rise above 1 meter from the ground
+100993422	fire designed to disturb the rest of enemy troops and to curtail movement and to lower enemy morale
+100993582	fire delivered on a target that is not itself used as the point of aim for the weapons
+100993728	fire directed to an area to prevent the enemy from using that area
+100993858	fire that is delivered in order to render the target ineffective or unusable
+100994000	fire for which the point of impact (the burst) can be seen by an observer; fire can be adjusted on the basis of the observations
+100994188	fire delivered on a target in preparation for an assault
+100994307	gunfire aimed a target that is being tracked by radar
+100994417	use of chemical analysis to estimate the age of geological specimens
+100994630	geological dating that relies on the proportions of radioactive potassium in a rock sample and its decay product, argon
+100994818	a chemical analysis used to determine the age of organic materials based on their content of the radioisotope carbon 14; believed to be reliable up to 40,000 years
+100995081	geological dating based on the proportions of radioactive rubidium into its decay product strontium; radioactive rubidium has a half-life of 47,000,000,000 years
+100995314	fire delivered to obtain accurate data for subsequent effective engagement of targets
+100995463	prearranged fire delivered at a predetermined time
+100995574	moving over territory to search for something
+100995737	fire distributed in depth by successive changes in the elevation of the gun
+100995873	a very thorough search of a person or a place
+100996042	fire delivered by supporting units to protect or assist a unit in combat
+100996230	fire on or about a weapon system to degrade its performance below what is needed to fulfill its mission objectives
+100996407	fire for which the point of impact (the bursts) cannot be observed
+100996535	fire delivered by artillery
+100996709	intense and continuous artillery fire
+100996831	fire from a cannon that is fired at an elevation greater than that for the maximum range
+100996981	artillery fire delivered by a mortar
+100997075	artillery or mortar fire delivered in a constant direction at several quadrant elevations
+100997220	electronic warfare undertaken to prevent or reduce an enemy's effective use of the electromagnetic spectrum
+100997442	electronic warfare undertaken to insure effective friendly use of the electromagnetic spectrum in spite of the enemy's use of electronic warfare
+100997674	electronic warfare undertaken under direct control of an operational commander to locate sources of radiated electromagnetic energy for the purpose of immediate threat recognition
+100997941	the deliberate insertion of electromagnetic energy into transmission paths with the objective of confusing or deceiving operators
+100998142	the use of harmful bacteria as a weapon
+100998266	the use of information or information technology during a time of crisis or conflict to achieve or promote specific objectives over a specific adversary or adversaries
+100998599	a holy struggle or striving by a Muslim for a moral or spiritual or political goal
+100998759	a war in which the major nations of the world are involved
+100998911	the act or process of assigning numbers to phenomena according to a rule
+100999979	measuring the intensity of electromagnetic radiation (especially of the sun's rays)
+101000138	measuring sensitivity to pain or pressure
+101000271	recording anemometrical measurements
+101000365	measuring wind speed and direction
+101000456	the precise measurement of angles
+101000546	measurement and study of the human body and its parts and capacities
+101000710	measurement of the pH level and the oxygen and carbon dioxide concentrations in arterial blood; important in diagnosis of many respiratory diseases
+101000924	measuring sensitivity of hearing
+101001031	measuring the depths of the oceans
+101001187	the act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument
+101001530	(music) calibrating something (an instrument or electronic circuit) to a standard frequency
+101001729	the act of adjusting something to match a standard
+101002010	the act of adjusting or aligning the parts of a device in relation to each other
+101002218	the accurate adjustment of the line of sight of a telescope
+101002353	an adjustment of the intervals (as in tuning a keyboard instrument) so that the scale can be used to play in different keys
+101002552	the division of the scale based on an octave that is divided into twelve exactly equal semitones
+101002785	the adjustment of a radio receiver or other circuit to a required frequency
+101002911	adjustments made to an engine to improve its performance
+101003039	an adjustment that causes something to occur or recur in unison
+101003286	the alignment of the wheels of a motor vehicle closer together at the bottom than at the top
+101003431	the alignment of the front wheels of a motor vehicle closer together at the front than at the back
+101003582	the act of adjusting an organ pipe (or wind instrument) so that it conforms to the standards of tone and pitch and color
+101003756	measurement of quantities of heat
+101003865	measurement of human heads
+101003950	measuring the optical density of a substance by shining light on it and measuring its transmission
+101004107	measuring the dose of radiation emitted by a radioactive source
+101004226	measurement of a fetus (especially the diameter of the head)
+101004355	the measurement of specific gravity
+101004496	measurement of the elevation of land above sea level
+101004619	a generic term used to cover any application of measurement techniques to the quantification of mental functions
+101004814	measuring with a micrometer
+101004898	the act of making and recording a measurement
+101005055	measurement of the dimensions of the bony birth canal (to determine whether vaginal birth is possible)
+101005214	measurement of the properties of light (especially luminous intensity)
+101005377	the study of chemical compounds inside a cell by means of a cytophotometer
+101005512	the act of discovering or expressing the quantity of something
+101005671	the act of arranging in grades
+101005878	a gradation involving small or imperceptible differences between grades
+101006014	the act of moving away in different direction from a common point
+101006319	measurement of the amount of radioactive material (usually carbon 14) that an object contains; can be used to estimate the age of the object
+101006524	the act of measuring with meters or similar instruments
+101006717	measurement at regular intervals of the amplitude of a varying waveform (in order to convert it to digital form)
+101006903	the act of measuring depth of water (usually with a sounding line)
+101007042	locating a source of sound (as an enemy gun) by measurements of the time the sound arrives at microphones in known positions
+101007226	act of measuring or arranging or adjusting according to a scale
+101007415	the use of a spirometer to measure vital capacity
+101007521	the practice of measuring angles and distances on the ground so that they can be accurately plotted on a map
+101007756	the act of scaling in weight or quantity or dimension
+101007899	estimation of the amount of lumber in a log
+101007996	diagnosis of neuromuscular disorders with the use of an electromyograph
+101008130	a diagnostic procedure to detect breast tumors by the use of X rays
+101008255	diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors
+101008478	the use of thermography to detect breast tumors (which appear as hot spots)
+101008617	any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc
+101008995	a psychometric test of intelligence
+101009215	revision of the Binet-Simon Scale
+101009314	the first intelligence test
+101009405	any test that is intended to assess personality
+101009551	any personality test designed to yield information about someone's personality on the basis of their unrestricted response to ambiguous objects or situations
+101009849	a projective tests using bilaterally symmetrical inkblots; subjects state what they see in the inkblot
+101010039	a projective technique using black-and-white pictures; subjects tell a story about each picture
+101010213	one of a battery of related tests
+101010320	the activity or result of distributing or disposing persons or things properly or methodically
+101010743	an arrangement of events that attempts to achieve a maximum effect
+101010943	a deliberately haphazard arrangement of observations so as to simulate chance
+101011132	systematic organization; the act of organizing something according to a system or a rationale
+101011449	the act of codifying; arranging in a systematic order
+101011579	the act of making formal (as by stating formal rules governing classes of expressions)
+101011813	the act of putting things in a sequential arrangement
+101012187	an arrangement according to rank
+101012276	the act of arranging in a graduated series
+101012400	the action of following in order
+101012626	successive change from one thing or state to another and back again
+101012843	the act of laying out (as by making plans for something)
+101012970	the act of putting in alphabetical order
+101013108	the act of making a list of items
+101013367	making an itemized list of merchandise or supplies on hand
+101013662	an instance of stocktaking
+101013825	calling out an official list of names
+101013972	a call of names of those receiving mail
+101014067	a call of the names of personnel at a military assembly
+101014199	a call of students' names in a classroom
+101014302	the activity of putting things together in groups
+101014550	the grouping of musical phrases in a melodic line
+101014654	the act of distributing things into classes or categories of the same type
+101015098	the act of classifying and providing an index in order to make items easier to retrieve
+101015258	classifying something again (usually in a new category)
+101015376	the act of assigning (someone or something) to a particular class or category
+101015546	the act or process or arranging persons into classes or social strata
+101015712	practice of classifying plants and animals according to their presumed natural relationships
+101015913	classification according to general type
+101016008	the act of gathering something together
+101016432	the act of collecting in a mass; the act of agglomerating
+101016549	assembling in proper numerical or logical sequence
+101016673	the act of compiling (as into a single book or file or list)
+101016932	the act of gathering something
+101017117	gathering to a center
+101017252	the gathering of a ripened crop
+101017419	the harvesting of hay
+101017493	the activity of collecting bottles
+101017631	the collection and study of mollusc shells
+101017785	the collection and removal of garbage
+101017938	the collection and study of money (and coins in particular)
+101018143	the act or process of picking up or collecting from various places
+101018362	the collection and study of postage stamps
+101018570	the collection and study of airmail stamps
+101018690	the collection of taxes
+101018774	grouping by class or kind or size
+101018915	the act of organizing as a territory
+101019109	sorting and allocating aid on the basis of need for or likely benefit from medical treatment or food
+101019262	the act of bearing the weight of or strengthening
+101019492	the act of propping up with shores
+101019643	the act of suspending something (hanging it from above so it moves freely)
+101019929	the act of continuing an activity without interruption
+101020308	the act of prolonging something
+101020572	the act of doing or performing again
+101020893	(psychiatry) mechanical and meaningless repetition of the words of another person (as in schizophrenia)
+101021071	doing or saying again; a repeated performance
+101021190	repetition of an act needlessly
+101021314	the act of repeating over and again (or an instance thereof)
+101021466	an act of copying
+101021645	the act of copying or making a duplicate (or duplicates) of something
+101021843	the act of making copies
+101022059	the immediate rebroadcast of some action (especially sports action) that has been recorded on videotape
+101022304	the reproduction of sound
+101022430	the reproduction of sound with little or no distortion
+101022570	the capacity of a system to reproduce loud sounds without distortion
+101022712	the act of reproducing recorded sound
+101022878	copying (or trying to copy) the actions of someone else
+101023061	an imitation or repetition
+101023212	effort to equal or surpass another
+101023338	the resemblance of an animal species to another species or to natural objects; provides concealment and protection from predators
+101023521	the act of persisting or persevering; continuing or repeating behavior
+101023831	the act of abiding (enduring without yielding)
+101023950	the continuance of something begun with a view to its completion
+101024120	something that survives
+101024234	something that has survived from the past
+101024425	the act of discontinuing or breaking off; an interruption (temporary or permanent)
+101024766	the discontinuation of a franchise; especially the discontinuation of the right to vote
+101024934	the act by a donor that terminates the right of a person to inherit
+101025080	the act or instance of a planned discontinuation
+101025184	(law) a proceeding that permits a person to enter into a lawsuit already in progress; admission of person not an original party to the suit so that person can protect some right or interest that is allegedly affected by the proceedings
+101025578	a mode of conducting legal and parliamentary proceedings
+101025762	a particular course of action intended to achieve a result
+101026334	a procedure employed by medical or dental practitioners
+101026489	a procedure employed by a dentist
+101026585	(genetics) the process of locating genes on a chromosome
+101026753	a procedure for operating something or for dealing with a given situation
+101026910	a prescribed procedure to be followed routinely
+101027196	a standard procedure that is followed mindlessly
+101027353	the act of becoming stiff
+101027505	needlessly time-consuming procedure
+101027620	(law) a procedure whereby a party to a suit says that a particular line of questioning or a particular witness or a piece of evidence or other matter is improper and should not be continued and asks the court to rule on its impropriety or illegality
+101027962	(law) an objection grounded on the judge's relationship to one of the parties
+101028133	indirect procedure or action
+101028258	a long and complicated and confusing procedure
+101028424	an unvarying or habitual method or procedure
+101028575	an exhausting routine that leaves no time for relaxation
+101028686	a settled and monotonous routine that is hard to escape
+101028839	any activity that is performed in an especially solemn elaborate or formal way
+101029173	an ancient ritual for preparing and serving and drinking tea
+101029321	the proper or conventional behavior on some solemn occasion
+101029604	a ceremonial purification of the Roman population every five years following the census
+101029801	any customary observance or practice
+101030024	a ceremony having religious meaning
+101030323	a military custom performed in observance of some event or anniversary
+101030476	a religious meal shared as a sign of love and fellowship
+101030597	the activity of worshipping
+101031146	the elevation of a person (as to the status of a god)
+101031355	worship of ancestors
+101031438	an established ceremony prescribed by a religion
+101031703	the rite of staying awake for devotional purposes (especially on the eve of a religious festival)
+101031915	a vigil held over a corpse the night before burial
+101032065	a vigil before certain feasts (as e.g. Easter)
+101032184	rites performed in connection with a death or burial
+101032312	secret rite in the cults of ancient Greek or Roman deities involving singing and dancing and drinking and sexual activity
+101032520	offensive terms for the practices and rituals of the Roman Catholic Church
+101032674	the practice of quoting from books or plays etc.
+101032852	the prescribed procedure for conducting religious ceremonies
+101033055	exaggerated emphasis on the importance of rites or ritualistic forms in worship
+101033226	the act of circumcising performed on males eight days after birth as a Jewish and Muslim religious rite
+101033424	the Jewish rite of circumcision performed on a male child on the eighth day of his life
+101033595	going without clothes as a social practice
+101033737	the habitual practice of systematization and classification
+101033890	the practice of adopting the clothes or the manner or the sexual role of the opposite sex
+101034072	the act of public worship following prescribed rules
+101034400	a service conducted in a house of worship
+101034842	a short religious service
+101034924	a service at which people sing hymns and pray together
+101035056	a service conducted in a place of worship that has its own altar
+101035216	a rite or body of rites prescribed for public worship
+101035377	the Christian worship services
+101035490	a religious rite or service prescribed by ecclesiastical authorities
+101035746	canonical prayers recited daily by priests (e.g. the breviary of the Roman Catholic Church)
+101035935	a Roman Catholic office honoring the Virgin Mary; similar to but shorter than the Divine Office
+101036109	an office read or sung before a burial mass in the Roman Catholic Church
+101036265	service committing a body to the grave
+101036417	a service in the Roman Catholic Church formerly read or chanted at 3 PM (the ninth hour counting from sunrise) but now somewhat earlier
+101036603	a late afternoon or evening worship service
+101036717	(Roman Catholic Church) vespers of the office for the dead
+101036848	a devotional service (especially on New Year's Eve)
+101036957	a formal religious ceremony conferring a specific grace on those who receive it; the two Protestant ceremonies are baptism and the Lord's Supper; in the Roman Catholic Church and the Eastern Orthodox Church there are seven traditional rites accepted as instituted by Jesus: baptism and confirmation and Holy Eucharist and penance and holy orders and matrimony and extreme unction
+101037536	the traditional Passover supper of Jesus with his disciples on the eve of his crucifixion
+101037699	(Judaism) the ceremonial dinner on the first night (or both nights) of Passover
+101037885	a Christian sacrament commemorating the Last Supper by consecrating bread and wine
+101038226	the part of the Eucharist when bread and wine are offered to God
+101038365	the act of participating in the celebration of the Eucharist
+101038656	participation in Holy Communion by members of more than one church (eg Catholic and Orthodox)
+101038810	the act of becoming betrothed or engaged
+101038935	the ceremony or sacrament of marriage
+101039028	the act of marrying; the nuptial ceremony
+101039326	a ritual performed in some cultures at times when an individual changes status (as from adolescence to adulthood)
+101039501	archaic terms for a wedding or wedding feast
+101039609	a marriage performed by a government official rather than by a clergyman
+101039742	a marriage for love's sake; not an arranged marriage
+101039851	a Christian sacrament signifying spiritual cleansing and rebirth
+101040179	the act of baptizing someone by pouring water on their head
+101040293	the act of sprinkling water in baptism (rare)
+101040407	giving a Christian name at baptism
+101040517	a form of baptism in which part or all of a person's body is submerged
+101040661	baptism by immersion three times (in the names in turn of the Trinity)
+101040793	a sacrament admitting a baptized person to full participation in the church
+101040927	a ceremony held in the synagogue (usually at Pentecost) to admit as adult members of the Jewish community young men and women who have successfully completed a course of study in Judaism
+101041172	a Catholic sacrament; repentance and confession and atonement and absolution
+101041339	(Roman Catholic Church) the act of a penitent disclosing his sinfulness before a priest in the sacrament of penance in the hope of absolution
+101041592	the act of being shriven
+101041669	a Catholic sacrament; a priest anoints a dying person with oil and prays for salvation
+101041854	the sacrament of ordination
+101041957	a religious ceremony in which something is made holy
+101042160	(Roman Catholic Church) an act of the Pope who declares that a deceased person lived a holy life and is worthy of public veneration; a first step toward canonization
+101042422	(Roman Catholic and Eastern Orthodox Church) the act of admitting a deceased person into the canon of saints
+101042678	(religion) sanctification of something by setting it apart (usually with religious rites) as dedicated to God
+101042975	loyalty and commitment to the interests of your own minority or ethnic group rather than to society as a whole
+101043143	a solemn commitment of your life or your time to some cherished purpose (to a service or a goal)
+101043381	the act of offering the bread and wine of the Eucharist
+101043530	the act of contributing to the funds of a church or charity
+101043706	anointing as part of a religious ceremony or healing ritual
+101043867	the act of pouring a liquid offering (especially wine) as a religious ceremony
+101044000	the act of communicating with a deity (especially as a petition or in adoration or contrition or thanksgiving)
+101044274	(Roman Catholic Church and Protestant Churches) the celebration of the Eucharist
+101044497	a solemn and elaborate Mass with music
+101044610	a Mass recited without music
+101044693	a Mass celebrated for the dead
+101044796	(usually plural) religious observance or prayers (usually spoken silently)
+101045030	(Hinduism) loving devotion to a deity leading to salvation and nirvana; open to all persons independent of caste or sex
+101045221	a Roman Catholic devotion consisting of prayers on nine consecutive days
+101045365	(Roman Catholic Church) a devotion consisting of fourteen prayers said before a series of fourteen pictures or carvings representing successive incidents during Jesus' passage from Pilate's house to his crucifixion at Calvary
+101045725	the act of praying for divine protection
+101045852	the act of worshiping blindly and to excess
+101046021	the worship given to God alone
+101046116	the worship of idols; the worship of physical objects or images as gods
+101046365	the idolization of William Shakespeare
+101046460	the worship of sacred images
+101046545	religious zeal; the willingness to serve God
+101046685	the worship of yourself
+101046791	the worship of the Bible
+101046907	the worship of words
+101047015	the worship of symbols
+101047126	the worship of human beings
+101047230	the worship of women
+101047337	the worship of a lord because of his rank or title
+101047444	the worship of miracles
+101047545	the worship of places
+101047638	the worship of trees
+101047731	the worship of planets or stars
+101047848	the worship of the cosmos
+101047930	the acts or rites of worshiping devils
+101048091	the worship of fire
+101048181	the worship of saints
+101048272	the worship of the sun
+101048365	the worship of animals
+101048495	the worship of fish
+101048588	the worship of a single god but without claiming that it is the only god
+101048716	the worship of snakes
+101048812	the worship of the moon
+101048908	the activity of causing to have energy and be active
+101049115	the activity of thrilling or markedly exciting some person or group
+101049262	bringing again into activity and prominence
+101049727	the revival of learning and culture
+101049861	the activity of spiritual or physical renewal
+101049983	a revival from inactivity and disuse
+101050134	the act of reviving a person and returning them to consciousness
+101050390	the activity of giving vitality and vigour to something
+101050621	the activity of formally presenting something (as a prize or reward)
+101050836	the activity of keeping something secret
+101051190	the act of concealing the identity of something by modifying its appearance
+101051399	activity that tries to conceal something
+101051609	the act of concealing the existence of something by obstructing the view of it
+101051916	a false identity and background (especially one created for an undercover agent)
+101052111	concealment that attempts to prevent something scandalous from becoming public
+101052280	the secrecy of police officers who lie or look the other way to protect other police officers
+101052551	concealing something under the ground
+101052687	the act of burying again
+101052796	an action intended to conceal or confuse or obscure
+101053006	avoiding detection by moving carefully
+101053145	concealing the source of illegally gotten money
+101053255	the act of putting something in a certain place
+101053725	the act of positioning close together (or side by side)
+101054002	the careful juxtaposition of shapes in a pattern
+101054139	the act or fact of interposing one thing between or among others
+101054296	the act of orienting
+101054374	the act of fixing firmly in place
+101054542	the act of planting or setting in the ground
+101054663	the act of placing in a new position
+101054777	the act of putting something in position
+101054991	the placement of one thing on top of another
+101055131	the placement of the fingers for playing different notes (or sequences of notes) on a musical instrument
+101055328	(geometry) the placement of one object ideally in the position of another one in order to show that the two coincide
+101055541	continuing or remaining in a place or state
+101055844	the act of dwelling in a place
+101056151	the act of lodging
+101056259	an act of being a tenant or occupant
+101056469	the act of dwelling in or living permanently in a place (said of both animals and men)
+101056800	the act of living together and having a sexual relationship (especially without being married)
+101056989	cohabitation without being legally married
+101057089	the act of encamping and living in tents in a camp
+101057284	a temporary stay (e.g., as a guest)
+101057417	a visit in an official or professional capacity
+101057612	(often plural) a series of professional calls (usually in a set order)
+101057878	a brief social visit
+101058160	the activity of making visits
+101058335	a brief stay in the course of a journey
+101058637	a break in a journey for the night
+101058728	a brief stop at a pit during an automobile race to take on fuel or service the car
+101058865	a stop during an automobile trip for rest and refreshment
+101058977	a stop made by a touring musical or theatrical group to give a performance
+101059124	the activity of supplying or providing something
+101059555	supplying dry land with water by means of ditches etc
+101059683	the act of supplying food and nourishment
+101059973	feeding an infant
+101060105	feeding a baby or animal whenever it shows a need
+101060215	feeding that consists of the delivery of a nutrient solution (as through a nasal tube) to someone who cannot or will not eat
+101060463	feeding consisting of delivering liquid nutrients through a tube passing through the nose and into the stomach
+101060639	feeding a nutrient solution into the stomach through a tube through a surgically created opening
+101060794	nourishing at the breast
+101060907	administration of nutrients through a vein
+101061020	excessive feeding
+101061113	feeding someone (as a baby) from a spoon
+101061230	feeding a baby or animal according to a fixed schedule (e.g., every 4 hours)
+101061369	administration of a nutritionally adequate solution through a catheter into the vena cava; used in cases of long-term coma or severe burns or severe gastrointestinal syndromes
+101061643	the activity of supplying or taking on fuel
+101061824	the preservation of mental and physical health by preventing or treating illness through services offered by the health profession
+101062025	the provision of health care
+101062158	the act of providing an item for general use or for official purposes (usually in quantity)
+101062454	(corporation law) the authorization and delivery of shares of stock for sale to the public or the shares thus offered at a particular time
+101062669	handling an operation that involves providing labor and materials be supplied as needed
+101062848	the act of supplying something
+101062953	the activity of supplying a stock of something
+101063127	the act or process of providing aid or help of any sort
+101063257	the act of demanding
+101063450	act of demanding or levying by force or authority
+101063650	unjust exaction (as by the misuse of authority)
+101063869	demand for something as rightful or due
+101064060	demand for payment in accordance with an insurance policy
+101064179	a gradual depletion of energy or resources
+101064392	depletion or loss of intellectual and technical personnel
+101064507	being inactive; being less active
+101064741	temporary inactivity
+101064921	a pause from doing something (as work)
+101065158	a week or more of recess during the spring term at school
+101065274	the act of pausing uncertainly
+101065502	the act of suspending activity temporarily
+101065621	an interruption or temporary suspension of progress or movement
+101065863	the act of waiting (remaining inactive in one place while expecting something)
+101066072	freedom from activity (work or strain or responsibility)
+101066392	confinement to bed continuously (as in the case of some sick or injured persons)
+101066537	relaxed and easy activity
+101066682	a long stay in bed in the morning
+101066787	quiet and inactive restfulness
+101066981	inactivity that is passive and monotonous, comparable to the inactivity of plant life
+101067210	freedom to choose a pastime or enjoyable activity
+101067365	having no employment
+101067531	carefree idleness
+101067611	time that is free from duties or responsibilities
+101067729	the act of taking a vacation
+101067869	a holiday where you do the same things you do at work
+101067985	the practice of taking holidays in a caravan
+101068087	the act of delaying; inactivity resulting in something being put off until a later time
+101068469	detention of a ship or freight car or other cargo beyond its scheduled time of departure
+101068613	a delay in enforcing rights or claims or privileges; refraining from acting
+101068805	act of putting off to a future time
+101068994	the act of postponing to another time or place
+101069116	discontinuation of the meeting (of a legislative body) without dissolving it
+101069286	the act of procrastinating; putting off or delaying or defering an action to a later time
+101069501	the act of slowing down or falling behind
+101069743	the deliberate act of delaying and playing instead of working
+101069936	(law) a tactic for delaying or obstructing legislation by making long speeches
+101070108	the action of interjecting or interposing an action or remark that interrupts
+101070347	the act of tarrying
+101070452	an instance of sudden interruption
+101070557	shouting to interrupt a speech with which you disagree
+101070697	act or practice of refraining from indulging an appetite
+101070936	rigorous self-denial and active self-restraint
+101071049	abstaining from sexual relations (as because of religious vows)
+101071235	(Christianity) the act of mortifying the lusts of the flesh by self-denial and privation (especially by bodily pain or discomfort inflicted on yourself)
+101071502	the act of denying yourself; controlling your impulses
+101071701	abstaining from excess
+101071791	abstaining from alcohol
+101071904	abstaining from food
+101072111	the act of restricting your food intake (or your intake of particular foods)
+101072356	control of the flow of traffic in a building or a city
+101072490	the control of traffic by a policeman stationed at an intersection
+101072632	control (by agreement among producers or by government) of the price of a commodity in interstate commerce
+101072816	(psychology) the conscious exclusion of unacceptable thoughts or desires
+101073014	the act of tolerating something
+101073137	lightening a penalty or excusing from a chore by judges or parents or teachers
+101073335	leniency and compassion shown toward offenders by a person or agency charged with administering justice
+101073670	an activity that affords enjoyment
+101073845	an activity that affords excessive pleasure and enjoyment
+101073996	act of receiving pleasure from something
+101074160	the passionate and demonstrative activity of expressing grief
+101074326	the activity of laughing; the manifestation of joy or mirth or scorn
+101074489	act of fulfilling a desire or need or appetite
+101074704	the act or an instance of satisfying
+101074908	the act of achieving full gratification
+101075021	the act of satisfying your own desires and giving yourself pleasure
+101075165	the act of indulging or gratifying a desire
+101075480	the act of one who pleases
+101075579	excessive indulgence
+101075748	any act of immoderate indulgence
+101075919	the act of hindering or obstructing or impeding
+101076176	(biochemistry) interference in or inhibition of the physiological action of a chemical substance by another having a similar structure
+101076422	the act of obstructing
+101076618	the act of blocking
+101076894	the interdiction of a nation's lines of communication at sea by the use of naval power
+101077041	the action of an armed force that surrounds a fortified place and isolates it while continuing to attack
+101077491	the act of freeing a city or town that has been besieged
+101077649	a tactic used to mislead or delay
+101077817	stalling or delaying especially by refusing to answer questions or cooperate
+101077970	the act of stopping something
+101078283	the act or process of complicating
+101078412	the act or process of discouraging actions or preventing occurrences by instilling fear or doubt or anxiety
+101078648	the act of discouraging
+101078787	the military doctrine that an enemy will be deterred from using nuclear weapons as long as he can be destroyed as a consequence
+101079114	(military) a tunnel dug to defeat similar activities by the enemy
+101079274	the act of preventing
+101079662	the act of preventing something from occurring
+101079805	the act of prevention by legal means
+101080010	the act of preventing someone from participating by finding them unqualified
+101080203	the act of intercepting; preventing something from proceeding or arriving
+101080496	the prevention of something increasing or spreading (especially the prevention of an increase in the number of countries possessing nuclear weapons)
+101080966	the act of preventing something by anticipating and disposing of it effectively
+101081219	the prevention of disease
+101081320	(sports) the act of preventing the opposition from scoring
+101081528	forceful prevention; putting down by power or authority
+101081875	the minimization of tax liability by lawful methods
+101081986	(law) the disqualification of a judge or jury by reason of prejudice or conflict of interest; a judge can be recused by objections of either party or judges can disqualify themselves
+101082290	action taken by a group of people
+101083121	activity considered appropriate on social occasions
+101083270	the practice of communal living and common ownership
+101083380	the act of forming an alliance or confederation
+101083552	the act of consorting with or joining with others
+101083791	associating with others in a brotherly or friendly way; especially with an enemy
+101083985	the act of becoming formally connected or joined
+101084198	affiliation anew
+101084274	the action of people mingling and coming into contact
+101084472	the action of changing from colonial to independent status
+101084644	the act of disbanding
+101084810	the act terminating an established state of affairs; especially ending a connection with the Church of England
+101085001	the act of distributing or spreading or apportioning
+101085274	distributing again
+101085428	the act of dispensing (giving out in portions)
+101085569	the act of distributing by allotting or apportioning; distribution according to a plan
+101086104	a new apportionment (especially a new apportionment of congressional seats in the United States on the basis of census results)
+101086413	a redistribution of something
+101086561	the act of apportioning or distributing something
+101086772	a reapportioning of something
+101086856	the act of rationing
+101087022	the allotment of some amount by dividing something
+101087261	the act of distributing playing cards
+101087491	an incorrect deal
+101087580	distribution of part of the federal tax income to states and municipalities
+101087717	a distribution in shares
+101087861	acting generously
+101088005	the act of giving
+101088280	the act of conferring an honor or presenting a gift
+101088496	the act of granting rights
+101088668	the act of endowing with a permanent source of income
+101088869	governmental provision of economic assistance to persons in need
+101089102	government provision for unemployed, injured, or aged people; financed by contributions from employers and employees as well as by government revenue
+101089422	social insurance program in Britain; based on contributions from employers and employees; provides payments to unemployed and sick and retired people as well as medical services
+101089664	benefits paid to bring incomes up to minimum levels established by law
+101089863	social welfare program in the U.S.; includes old-age and survivors insurance and some unemployment insurance and old-age assistance
+101090092	aid for the aged or indigent or handicapped
+101090228	money received from the state
+101090361	payment by a United States agency to unemployed people
+101090487	insurance paid to the elderly
+101090580	insurance paid to surviving spouses
+101090681	social insurance for the disabled
+101090781	social insurance for the ill and injured
+101090933	health care for the aged; a federally administered system of health insurance available to persons aged 65 and over
+101091103	health care for the needy; a federally and state-funded program
+101091221	health care that is provided by a health care professional in the first contact of a patient with the health care system
+101091407	voluntary promotion of human welfare
+101091559	an activity or gift that benefits the public at large
+101091702	act of giving in common with others for a common purpose especially to a charity
+101091942	a pledged contribution
+101092041	money or goods contributed to the poor
+101092149	making voluntary contributions to aid the poor
+101092266	giving money or food or clothing to a needy person
+101092370	transactions (sales and purchases) having the objective of supplying commodities (goods and services)
+101093829	the commercial exchange (buying and selling on domestic or international markets) of goods and services
+101094239	trade that is conducted legally
+101094327	trade that satisfies certain criteria on the supply chain of the goods involved, usually including fair payment for producers; often with other social and environmental considerations
+101094567	international trade free of government interference
+101094693	an agreement for free trade between the United States and Canada and Mexico; became effective in 1994 for ten years
+101094898	commerce conducted electronically (as on the internet)
+101095009	reciprocal transfer of equivalent sums of money (especially the currencies of different countries)
+101095304	act of exchanging one type of money or security for another
+101095456	conversion of an investment trust into a unit investment trust
+101095590	disposing of money or property with the expectation that the same thing (or an equivalent) will be returned
+101095779	the act of lending money at an exorbitant rate of interest
+101095889	a kind of hedged investment meant to capture slight differences in price; when there is a difference in the price of something on two different markets the arbitrageur simultaneously buys at the lower price and sells at the higher price
+101096217	arbitrage involving risk; as in the simultaneous purchase of stock in a target company and sale of stock in its potential acquirer; if the takeover fails the arbitrageur may lose a great deal of money
+101096499	a corporation's first offer to sell stock to the public
+101096649	the activity of providing goods and services involving financial and commercial and industrial aspects
+101097658	activity undertaken as part of a commercial enterprise
+101097871	a business especially one run on a large scale
+101098150	the volume of commercial activity
+101098359	the business given to a commercial establishment by its customers
+101098579	any enterprise in which losses and gains cancel out
+101098778	habitual patronage
+101098902	very large and profitable volume of commercial activity
+101099024	a particular kind of commercial enterprise
+101099197	the world of commercial activity where goods and services are bought and sold
+101099644	an illegal market in which goods or currencies are bought and sold in violation of rationing or controls
+101099825	a market in which more people want to sell than want to buy
+101099976	an unofficial market in which goods are bought and sold at prices lower than the official price set by a regulatory agency
+101100170	a market in which more people want to buy than want to sell
+101100309	the market in which workers compete for jobs and employers compete for workers
+101100446	a commercial enterprise owned by the people who work for it
+101100603	the commercial activity of providing funds and capital
+101100873	the financial activities of corporation
+101101014	the act of financing
+101101136	large and complex financial transactions (often used with the implication that those individuals or institutions who engage in them are unethical)
+101101341	the act of investing; laying out money or capital in an enterprise with the expectation of profit
+101101673	investing in United States businesses by foreign citizens (often involves stock ownership of the business)
+101101851	investing with borrowed money as a way to amplify potential gains (at the risk of greater losses)
+101102052	financing a commercial enterprise by bond or stock shares
+101102178	transacting business with a bank; depositing or withdrawing funds or requesting a loan etc.
+101102396	banking in which transactions are conducted by means of electronic communication (via telephone or computer)
+101102563	engaging in the business of keeping money for savings and checking accounts or for exchange or for issuing loans and credit etc.
+101102782	a jointly owned commercial enterprise (usually organized by farmers or consumers) that produces and distributes goods and services and is run for the benefit of its owners
+101103019	the business of selling merchandise at a discount
+101103132	the business of selling real estate
+101103234	the business of drawing public attention to goods and services
+101103476	forceful and insistent advertising
+101103566	suggestive or persuasive advertising
+101103658	circulating printed notices as a means of advertising
+101103863	the business of issuing printed matter for sale or distribution
+101104161	(computer science) the use of microcomputers with graphics capacity to produce printed materials
+101104341	the communication of something to the public; making information generally known
+101104479	the act of publishing again
+101104617	a writing for publication especially one of a collection of writings as an article or story
+101104767	publication in serial form
+101104905	the craft of composing type and printing from it
+101105064	the business of producing printed material for sale or distribution
+101105279	the act of intaglio printing
+101105397	using photography to produce a plate for printing
+101105519	the act of issuing printed materials
+101105693	the business of packing
+101105869	wholesale packaging of meat for future sale (including slaughtering and processing and distribution to retailers)
+101106079	the act of packaging cargo into unit loads
+101106229	providing food and services
+101106311	a large-scale farming enterprise
+101106449	growing vegetables for the market
+101106542	the commercial activity involved in repairing old structures or constructing new ones
+101106943	construction of inferior buildings for a quick profit
+101107057	the act of laying slates for a roof
+101107164	the commercial enterprise of moving goods and materials
+101107540	transportation by air
+101107642	ship traffic
+101107814	the activity of transporting goods by truck
+101108023	the work of taking something away in a cart or truck and disposing of it
+101108177	transporting goods commercially at rates cheaper than express rates
+101108365	rapid transport of goods
+101108492	transport by boat or aircraft
+101108620	trade from upper-class customers
+101108713	the act of transacting within or between groups (as carrying on commercial activities)
+101109264	transactions of professional or public interest
+101109454	affairs between nations
+101109631	financial transactions at a brokerage; having to do with the execution of trades and keeping customer records
+101109837	transferring ownership
+101110055	(law) the voluntary and absolute transfer of title and possession of real property from one person to another
+101110307	act of transferring property title from one person to another
+101110546	act of transferring a title or right or claim to another
+101110658	the voluntary transfer of something (title or possession) from one party to another
+101110876	the delivery of personal property in trust by the bailor to the bailee
+101111019	the transfer of goods and services to an ally to aid in a common cause
+101111216	transfer of property from ecclesiastical to civil possession
+101111372	the act of giving something in return for something received
+101111592	an equal exchange
+101111839	the swapping of horses (accompanied by much bargaining)
+101111968	act of exchanging favors for mutual gain; especially trading of influence or votes among legislators to gain passage of certain projects
+101112179	a particular instance of buying or selling
+101112538	a deal to provide military arms
+101112625	a business deal on a trivial scale
+101112716	a transaction in the stock market at a price below the price of the preceding transaction
+101112878	a transaction in the stock market at a price above the price of the preceding transaction
+101113038	obtaining funds from a lender
+101113141	borrowing and leaving an article as security for repayment of the loan
+101113280	the act of paying for the use of something (as an apartment or house or car)
+101113474	the transaction in 1867 in which the United States Secretary of State William Henry Seward purchased Alaska from Russia
+101113655	the commercial activity of buying and bringing in goods from a foreign country
+101113857	the commercial activity of selling and shipping goods to a foreign country
+101114037	secretly importing prohibited goods or goods on which duty is due
+101114194	the smuggling of guns and ammunition into a country secretly and illegally
+101114325	the commercial processes involved in promoting and selling and distributing a product or service
+101114662	marketing via a promotion delivered directly to the individual prospective customer
+101114808	marketing based on studies of  consumers' sensorimotor, cognitive, and affective responses
+101114977	the commercial activity of transporting and selling goods from a producer to a consumer
+101115160	the exchange of goods for an agreed sum of money
+101115705	a way of selling a company's product either directly or via distributors
+101115977	buying and selling; especially illicit trade
+101116165	traffic in illegal drugs
+101116282	traffic in ecclesiastical offices or preferments
+101116394	traffic in slaves; especially in Black Africans transported to America in the 16th to 19th centuries
+101116568	the selling of goods to consumers; usually in small quantities and not for resale
+101116756	the selling of goods to merchants; usually in large quantities for resale to consumers
+101116934	a particular instance of selling
+101117127	the selling of an entire stock of something
+101117338	the sale by a company of a product line or a subsidiary or a division
+101117483	the activity of persuading someone to buy
+101117669	selling (an article or cartoon) for publication in many magazines or newspapers at the same time
+101117910	selling goods abroad at a price below that charged in the domestic market
+101118055	a method of selling in which the price is reduced until a buyer is found
+101118187	the activities involved in selling commodities directly to consumers
+101118347	the use of the telephone as an interactive medium for promotion and sales
+101118527	automatic transmission and measurement of data from remote sources by wire or radio or other means
+101118681	the measurement of temperature
+101118787	the measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances
+101119017	the measurement of intraocular pressure by determining the amount of force needed to make a slight indentation in the cornea
+101119197	receiving orders via telephone
+101119289	the act of selling goods for a living
+101119485	a commercial undertaking that risks a loss but promises a profit
+101119639	the measurement of viscosity
+101119775	the selling of something purchased
+101119862	the general activity of selling
+101120044	an occasion (usually brief) for buying at specially reduced prices
+101120503	a sale of miscellany; often for charity
+101120659	bazaar at which books are sold or auctioned off in order to raise funds for a worthy cause
+101120816	a fair at which objects made by craftsmen are offered for sale
+101120935	an outdoor sale at which people sell things from the trunk of their car
+101121097	a sale to reduce inventory
+101121211	a sale intended to dispose of all remaining stock
+101121333	a sale of merchandise supposedly damaged by fire
+101121437	a sale of assets at very low prices typically when the seller faces bankruptcy
+101121571	an outdoor sale of used personal or household items held on the seller's premises
+101121722	a sale of all the tangible assets of a business that is about to close
+101121941	a sale in order to obtain money (as a sale of stock or a sale of the estate of a bankrupt person) or the money so obtained
+101122171	a sale of donated articles
+101122270	a sale of a relatively large number of assets (stocks or bonds or commodities) at a low price typically done to dispose of them rather than as normal trade
+101122497	a sale of household linens
+101122580	the trade of a funeral director
+101122669	the craft of upholstering
+101122769	the act of paying money
+101123176	the deliberate act of failing to pay money
+101123391	payment of an obligation in a series of installments or transfers
+101123566	payment (usually by doctors or lawyers) of part of the fee in return for the referral
+101123711	the act of paying too much
+101123813	payment in advance
+101123906	payment for the release of someone
+101124011	the act of returning money received previously
+101124176	the act of paying for goods or services or to recompense for losses
+101124358	giving in acknowledgment of obligation
+101124470	the act of spending or disbursing money
+101124708	payment by one nation for protection by another
+101124809	the act of paying less than required
+101124922	the act of spending money for goods or services
+101125075	spending money raised by borrowing; used by governments to stimulate their economy
+101125259	the reduction of the value of an asset by prorating its cost over a period of years
+101125416	the movement of persons from one country or locality to another
+101125625	a large migration of people to a newly discovered gold field
+101125741	a headlong rush of people on a common impulse
+101125919	control exerted (actively or passively) by group action
+101126431	social control achieved as a manifestation of self-will or general consent
+101126567	a mechanism of social control for enforcing a society's standards
+101126705	control over the growth of population; a government program
+101126829	the activities and affairs involved in managing a state or a government
+101127115	the act of governing; exercising authority
+101127883	government that is inefficient or dishonest
+101128014	the act of making or enacting laws
+101128280	legislation that makes something illegal
+101128472	legislation that makes something legal that was formerly illegal
+101128656	(law) government activities seeking to dissolve corporate trusts and monopolies (especially under the United States antitrust laws)
+101128885	the craft and science of growing grapes and making wine
+101129030	the cultivation of grapes and grape vines; grape growing
+101129177	the passing of a law by a legislative body
+101129340	the act of enforcing; ensuring observance of or obedience to
+101129566	the act of compelling by force of authority
+101129700	the act of accomplishing some aim or executing some order
+101129944	the act of imposing something (as a tax or an embargo)
+101130195	the imposition of duties or quotas on imports in order to protect domestic industry against foreign competition
+101130458	ensuring obedience to the laws
+101130587	the actions of a vigilance committee in trying to enforce the laws
+101130711	social control by dominating
+101130868	domination of a political organization by a party boss
+101130976	the act of mastering or subordinating someone
+101131127	domination (of a market or commodity) to the exclusion of others
+101131305	the adoption of the behavior patterns of the surrounding culture
+101131684	socialization through training and education to develop one's mind or manners
+101131853	helping someone grow up to be an accepted member of the community
+101132241	the social force that binds you to the courses of action demanded by that force
+101132881	an obligation arising out of considerations of right and wrong
+101133056	the obligation of those of high rank to be honorable and generous (often used ironically)
+101133226	the duty of proving a disputed charge
+101133325	the responsibilities of a citizen
+101133456	the civic duty to serve on a jury
+101133545	duty of a child to its parents
+101133651	some duty that is essential and urgent
+101133746	a duty that is incumbent upon you
+101133836	acts which the law requires be done or forborne
+101133977	the legal duty of a fiduciary to act in the best interests of the beneficiary
+101134115	the care that a reasonable man would exercise under the circumstances; the standard for determining legal duty
+101134314	supervised care for delinquent or neglected children usually in an institution or substitute home
+101134469	more attention and consideration than is normally bestowed by prudent persons
+101134648	the guardianship and control exercised by a deity
+101134793	such care as a careless or inattentive person would exercise
+101134911	all that is normally required in some area of responsibility
+101135030	the supposed responsibility of the white race to provide care for their non-white subjects
+101135185	behavior intended to please your parents
+101135427	the control of a country by military forces of a foreign power
+101135602	the act of managing something
+101136081	the direction of an orchestra or choir
+101136254	creation and maintenance of a database
+101136358	the management of money and credit and banking and investments
+101136565	the management of a household
+101136651	bad or dishonest management by persons supposed to act on another's behalf
+101136800	management that is careless or inefficient
+101137020	the complete mismanagement or mishandling of a situation
+101137182	the management of someone or something
+101137484	the act of treating waste or pollutants by the use of microorganisms (as bacteria) that can break down the undesirable substances
+101137693	method or manner of conduct in relation to others
+101137850	management by overseeing the performance or operation of a person or group
+101138116	keeping watch over examination candidates to prevent cheating
+101138273	a method of tending to or managing the affairs of a some group of people (especially the group's business affairs)
+101138586	the way of administering a business
+101138696	administration of the activities contributing directly to an organization's output
+101138840	the act of organizing a business or an activity related to a business
+101139306	the act of administering or being in charge of something
+101139527	the tiresome but essential details that must be taken care of and tasks that must be performed in running an organization
+101139776	shrewd or crafty management of public affairs
+101139918	an organization chartered for other than profit-making activities
+101140081	the organization of a business according to scientific principles of management in order to increase efficiency
+101140308	the imposition of a new organization; organizing differently (often involving extensive and drastic changes)
+101140720	organizing yourself (especially organizing your own labor union)
+101140868	organizing into or administering as a syndicate
+101140991	the act of conferring legality or sanction or formal warrant
+101141321	the act of final authorization
+101141515	the act of giving a formal (usually written) authorization
+101141811	sanction by a religious rite
+101141957	by the sanction or authority of
+101142070	authoritative approval
+101142151	the act of certifying or bestowing a franchise on
+101142350	the act of withdrawing certification or terminating a franchise
+101142514	the act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards)
+101142792	the act of granting authority to undertake certain functions
+101142979	the commission that is given to a government and its policies through an electoral victory
+101143160	authorizing subordinates to make certain decisions
+101143481	the delegation of authority (especially from a central to a regional government)
+101143687	formal authorization to get a loan (usually from a bank)
+101143803	routine authorization of an action without questions
+101143914	permission to proceed
+101144050	formal permission to depart
+101144162	the act of allowing
+101144335	an exemption from some rule or obligation
+101144471	an official dispensation to act contrary to a rule or regulation (typically a building regulation)
+101144645	official recognition of the right of individuals to hold dissenting opinions (especially in religion)
+101144840	management through specified channels of communication
+101145128	the production of a canal or a conversion to canals
+101145325	the activity of putting or setting in order in advance of some act or purpose
+101145712	performing mild exercises to prepare for some more strenuous activity
+101145922	the distribution of forces in preparation for battle or work
+101146093	preliminary preparation as a basis or foundation
+101146273	the withdrawal and redistribution of forces in an attempt to use them more effectively
+101146470	final preparation and adjustments
+101146559	the act of making something ready
+101146646	an act of formulating a program for a definite course of action
+101146868	setting an order and time for planned events
+101147068	act or process of unloading and loading and servicing a vessel or aircraft for a return trip
+101147229	exercising in preparation for strenuous activity
+101147389	the act of guiding or showing the way
+101147528	a sudden and decisive change of government illegally or by force
+101147732	a sudden and decisive overthrow of a government that gained power by a coup d'etat
+101147872	the act of controlling by restraining someone or something
+101148201	a figurative restraint
+101148418	a depressing restraint
+101148552	the act of restraining power or action or limiting excess
+101148801	the act of limiting movement or making incapable of movement
+101149089	the act of restraining of a person's liberty by confining them
+101149281	the act of confining someone in a prison (or as if in a prison)
+101149506	the act of confining prisoners to their cells (usually to regain control during a riot)
+101149648	confinement to your own home
+101149735	(law) confinement without legal authority
+101149860	holding by the police
+101149964	the act of containing; keeping something from spreading
+101150189	a strategy of defense in cases of bioterrorism; vaccination only of people exposed and others who are in contact with them
+101150463	the act of withholding or withdrawing some book or writing from publication or circulation
+101150677	severely repressive actions
+101150778	the imposition of order or discipline
+101150893	imposition again
+101150986	any act that tends to prevent free competition in business
+101151109	the act of keeping something within specified bounds (by force if necessary)
+101151399	restriction imposed by the government on documents or weapons that are available only to certain authorized people
+101151610	reduction or removal by the government of restrictions on a classified document or weapon
+101151798	a restriction that is insisted upon as a condition for an agreement
+101151975	the act of circumscribing
+101152116	the act of constraining; the threat or use of force to control the thoughts or behavior of others
+101152288	restrictions placed on the immature
+101152406	the action or process of compressing
+101152591	decrease in the diameter of blood vessels
+101152695	act of depriving someone of food or money or rights
+101152962	the act of making someone poor
+101153157	the act of depriving of food or subjecting to famine
+101153433	the act of appeasing (as by acceding to the demands of)
+101153592	the act of appeasing someone or causing someone to be more favorably inclined
+101153902	the act of placating and overcoming distrust and animosity
+101154100	the act of bringing something under international control
+101154283	changing something from private to state ownership or control
+101154528	changing something from state to private ownership or control
+101154795	the action of rendering national in character
+101154956	the action of forming or becoming a nation
+101155078	the act of causing tribal people to abandon their customs and adopt urban ways of living
+101155282	the organization of a nation or economy on the basis of collectivism
+101155468	the organization of a nation of the basis of communism
+101155634	a change from private property to public property owned by the community
+101155800	the act of constituting a political unity out of a number of separate states or colonies or provinces so that each member retains the management of its internal affairs
+101156043	unfair treatment of a person or group on the basis of prejudice
+101156356	(politics) granting favors or giving contracts or making appointments to office in return for political support
+101156578	the system of patronage in communist countries; controlled by committees in the Communist Party
+101156732	discrimination in favor of the able-bodied
+101156868	discrimination on the basis of a person's age
+101156974	favoritism shown to friends and associates (as by appointing them to positions without regard for their qualifications)
+101157148	discrimination against people who are overweight
+101157259	discrimination in favor of heterosexual and against homosexual people
+101157387	favoritism shown to relatives or close friends by those in power (as by giving them jobs)
+101157531	discriminatory or abusive behavior towards members of another race
+101157740	a form of racism consisting of the (alleged) policy of policemen who stop and search vehicles driven by persons belonging to particular racial groups
+101157952	the activity of changing something (art or education or society or morality etc.) so it is no longer under the control or influence of religion
+101158209	the act of changing the institution that invests your pension plan without incurring a tax penalty
+101158380	discriminatory or abusive behavior towards members of the opposite sex
+101158557	activity indicative of belief in the superiority of men over women
+101158749	discrimination (usually in employment) that excludes one sex (usually women) to the benefit of the other sex
+101158925	act of assembling and putting into readiness for war or other emergency:
+101159386	the act of equiping with weapons in preparation for war
+101159625	the act of renovating and fitting out a ship
+101159762	outfitting a ship again (by repairing or replacing parts)
+101159871	the act of arming again
+101160044	act of reducing or depriving of arms
+101160337	compulsory military service
+101160551	the act of drafting into military service
+101160677	act of changing from a war basis to a peace basis including disbanding or discharging troops
+101161030	the act of militarizing again
+101161177	the imposition of standards or regulations
+101161512	the act of stabilizing something or making it more stable
+101161948	the action of destabilizing; making something less stable (especially of a government or country or economy)
+101162263	the act of stylizing; causing to conform to a particular style
+101162451	the act of conventionalizing; conforming to a conventional style
+101162657	the imposition of taxes; the practice of the government in levying taxes on the subjects of a state
+101162829	the act of punishing
+101163216	the act of inflicting corporal punishment with repeated blows
+101163504	verbal punishment
+101163648	the infliction of physical injury on someone convicted of committing a crime
+101163898	punishment prohibited by the 8th amendment to the U.S. Constitution; includes torture or degradation or punishment too severe for the crime committed
+101164122	a punishment in which a student must stay at school after others have gone home
+101164308	the act of disciplining
+101164552	punishment of a group by cutting off commercial dealings with them
+101164747	self-punishment inflicted by whipping
+101164866	putting someone in prison or in jail as lawful punishment
+101165019	punishment for one's actions
+101165162	punishment inflicted on yourself
+101165274	the act of slapping on the buttocks
+101165418	threat of a penalty
+101165537	beating with a whip or strap or rope as a form of punishment
+101165806	beating as a source of erotic or religious stimulation
+101165919	the act of whipping with a horsewhip
+101166076	the use of electricity to administer punishment or torture
+101166269	putting a condemned person to death
+101166553	a form of punishment in which a person is forced to run between two lines of men facing each other and armed with clubs or whips to beat the victim
+101166765	punishment inflicted by kicking the victim in the behind
+101166884	the act of pelting with stones; punishment inflicted by throwing stones at the victim (even unto death)
+101167108	execution by fire
+101167220	the burning to death of heretics (as during the Spanish Inquisition)
+101167364	a form of capital punishment; victim is suspended by the neck from a gallows or gibbet until dead
+101167602	execution by electricity
+101167714	execution by cutting off the victim's head
+101167827	the act of executing by a method widespread in the ancient world; the victim's hands and feet are bound or nailed to a cross
+101168027	voluntary self-punishment in order to atone for some wrongdoing
+101168182	the official act of consigning a person to confinement (as in a prison or mental hospital)
+101168409	(law) the reduction in severity of a punishment imposed by law
+101168582	the social control of offenders through a system of imprisonment and rehabilitation and probation and parole
+101168748	the act of changing one thing for another thing
+101169007	(sports) an unbroken sequence of several successive strokes
+101169250	an exchange that occurs as a compromise
+101169416	the act of submitting; usually surrendering power to another
+101169636	the act of obeying; dutiful or submissive behavior with respect to another person
+101169875	the act of obeying meanly (especially obeying in a humble manner or for unworthy reasons)
+101170038	abject submission; the emotional equivalent of prostrating your body
+101170200	bitter conflict; heated often violent dissension
+101170337	any hard struggle between equally matched groups
+101170442	a bitter struggle for territory or power or control or rights
+101170689	actions counter to the main group activity
+101170859	a protest action by labor or minority groups to obtain their demands
+101171059	the act of competing as for profit or a prize
+101171330	a contest in which intelligence rather than violence is used
+101171451	a struggle between rivals
+101171602	a series of competing bids
+101171690	competition (real or figurative) for popular support
+101171807	group action in opposition to those in power
+101172088	group refusal to resort to violence even in defense against violence
+101172234	the act of hostile groups opposing each other
+101172537	resistance by potential customers to aggressive selling practices
+101172665	strife resulting from a lack of agreement
+101172810	a defiant act
+101172896	violence exhibited by drivers in traffic
+101172992	a public act of violence by an unruly mob
+101173156	a riot caused by hatred for one another of members of different races in the same community

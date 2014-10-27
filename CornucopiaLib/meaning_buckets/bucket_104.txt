@@ -1,0 +1,1000 @@
+301290810	strongly marked; easily noticeable
+301290974	undesirably noticeable
+301291153	not noticeable; not drawing attention
+301291360	not obtrusive or undesirably noticeable
+301291519	made more desirable or valuable or profitable; especially made ready for use or marketing
+301291813	(used of soaps or cleaning agents) having a substance (an abrasive or filler) added to increase effectiveness
+301292018	(of real estate) made more useful and profitable as by building or laying out roads
+301292206	(of land) improved by gardening or landscape architecture
+301292352	not made more desirable or valuable or profitable; especially not made ready for use or marketing
+301292603	(of roads) not leveled or drained; unsuitable for all year travel
+301292730	(of domestic animals) not selectively bred
+301292824	rid of objects or obstructions such as e.g. trees and brush
+301293151	having had all the trees removed at one time
+301293297	(of land) made ready for development or agriculture by clearing of trees and brush
+301293456	not cleared; not rid of objects or obstructions
+301293670	(of land) not cleared of trees and brush; in the wild or natural state
+301293889	occurring at or characteristic of a formal investiture or induction
+301294070	occurring at or marking the close of a term of office
+301294221	of a speech expressing leave-taking
+301294357	located within the hull or nearest the midline of a vessel or aircraft
+301294514	located away from the midline of a vessel or aircraft
+301294712	of a motor designed to be attached to the outside of a boat's hull
+301294880	produced by inbreeding
+301294973	bred of closely related parents
+301295060	bred of parents not closely related; having parents of different classes or tribes
+301295251	(often followed by to') having a preference, disposition, or tendency
+301295534	(usually followed by to') naturally disposed toward
+301295806	(followed by of' or to') having a strong preference or liking for
+301296007	having a tendency (to); often used in combination
+301296172	having more than the average number of accidents
+301296281	unwilling because of mild dislike or disapproval
+301296519	having feelings of aversion or unwillingness
+301296665	(usually followed by to') strongly opposed
+301297005	disinclined to become involved
+301297174	entering upon a position of office vacated by another
+301297308	retiring from a position or office
+301297423	arriving at a place or position
+301297706	directed or moving inward or toward a center
+301297879	appointed but not yet installed in office
+301297980	elected but not yet installed in office
+301298098	(of elected officers) elected but not yet serving
+301298266	directed or bound inward
+301298378	flowing inward
+301298459	pouring inward
+301298564	leaving a place or a position
+301298781	that is going out or leaving
+301298958	that is flowing outward
+301299067	directed outward or serving to direct something outward
+301299212	of a person who has held and relinquished a position or office
+301299391	of reasoning; proceeding from particular facts to a general conclusion
+301299595	involving inferences from general principles
+301299839	capable of being deduced
+301299937	expressing or preceding an inference
+301300082	resembling or dependent on or arrived at by inference
+301300273	of reasoning; proceeding from general premisses to a necessary and specific conclusion
+301300436	characterized by or given to yielding to the wishes of someone
+301300778	luxuriously self-indulgent
+301300894	preoccupied with the pursuit of pleasure and especially games of chance
+301301187	displaying luxury and furnishing gratification to the senses
+301301656	given to social pleasures often including dissipation
+301301832	devoted to pleasure
+301302121	given to excessive indulgence of bodily appetites especially for intoxicating liquors
+301302333	excessively indulgent
+301302432	gratifying tastes, appetites, or desires
+301302635	indulgent of your own appetites and desires
+301302836	characterized by strictness, severity, or restraint
+301303135	of a stern or strict bearing or demeanor; forbidding in aspect
+301303318	morally rigorous and strict
+301303596	designed to promote discipline
+301303896	befitting a monk; inclined to self-denial
+301303991	used especially of behavior
+301304141	used of nonindulgent persons
+301304251	unsparing and uncompromising in discipline or judgment
+301304559	having highly developed industries
+301304775	(used of societies) having high industrial development
+301304927	made industrial; converted to industrialism
+301305072	of or relating to a society or economy marked by a lessened importance of manufacturing and an increase of services, information, and research
+301305303	not having highly developed manufacturing enterprises
+301305479	relating to societies in which capital needed to industrialize is in short supply
+301305634	not converted to industrialism
+301305746	easily spread
+301305977	(of disease) capable of being transmitted by infection
+301306233	easily diffused or spread as from one person to another
+301306384	that infects or taints
+301306479	not infectious
+301306571	(of disease) not capable of being passed on
+301306711	being of the underworld
+301306881	dwelling beneath the surface of the earth
+301307016	of or relating to or characteristic of Hades or Tartarus
+301307185	hellish
+301307309	being or coming from on high
+301307505	providing or conveying information
+301307737	giving advice
+301308058	clarifying by use of examples
+301308179	full of news
+301308279	disclosing unintentionally something concealed
+301308562	lacking information
+301308659	not providing news or information
+301308747	possessing intellectual or esoteric knowledge of spiritual things
+301308884	uncertain of all claims to knowledge
+301309042	holding that only material phenomena can be known and knowledge of spiritual matters or ultimate causes is impossible
+301309228	having much knowledge or education
+301309600	being up to particular standard or level especially in being up to date in knowledge
+301309922	having received information
+301310022	(usually followed by with') well informed about or knowing thoroughly
+301310330	characterized by full comprehension of the problem involved
+301310526	informed about the latest trends
+301310645	evidencing the possession of inside information
+301310805	alert and fully informed
+301311044	(followed by to') informed about something secret or not generally known
+301311214	well informed or deeply versed through reading
+301311380	not informed; lacking in knowledge or information
+301311691	totally uninformed about what is going on; not having even a clue from which to infer what is occurring
+301311849	unaware because of a lack of relevant information or knowledge
+301312175	not knowledgeable about something specified
+301312383	not having or receiving news or information
+301312481	having received no information
+301312612	lacking information or instruction
+301312790	not informed through reading
+301312946	characterized by an inability to mask your feelings; not devious
+301313228	openly straightforward and direct without reserve or secretiveness
+301313500	without alteration or misrepresentation
+301313640	not straightforward or candid; giving a false appearance of frankness
+301314022	having an intended meaning altered or misrepresented
+301314276	having inhabitants; lived in
+301314560	inhabited by colonists
+301314660	inhabited by or as if by apparitions
+301314769	resided in; having tenants
+301314928	lived in by the owner
+301315060	furnished with people
+301315170	furnished with inhabitants
+301315331	densely populated
+301315421	of ferns and lichens that grow on rocks
+301315522	having a lower population density than normal or desirable
+301315694	not having inhabitants; not lived in
+301315959	forsaken by owner or inhabitants
+301316132	having lost inhabitants as by war or disease
+301316300	not leased to or occupied by a tenant
+301316479	with no people living there
+301316603	devoid of creatures
+301316789	not yet settled
+301316883	capable of being inherited
+301317151	inherited or inheritable by established rules (usually legal rules) of descent
+301317491	occurring among members of a family usually by heredity
+301317817	of or relating to an inheritable character that is controlled by a single pair of genes
+301317979	of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes
+301318203	having the legal right to inherit
+301318293	(meaning literally born') used to indicate the maiden or family name of a married woman
+301318461	not inheritable
+301318624	gotten through environmental forces
+301318798	present at birth but not necessarily hereditary; acquired during fetal development
+301318973	not acquirable by inheritance
+301319081	resulting from nurture
+301319176	held back or restrained or prevented
+301319421	characterized by or showing the suppression of impulses or emotions
+301319762	held in check with difficulty
+301319966	not inhibited or restrained
+301320185	unrestrained and uninhibited
+301320324	hearty and lusty
+301320424	not repressed
+301320522	given vent to
+301320640	(used of drugs) capable of being injected
+301320793	(used of drugs) not capable of being injected
+301320916	harmed
+301321194	scarred by battle
+301321272	discolored by coagulation of blood beneath the skin
+301321452	separated at the joint
+301321601	having been disembowelled
+301321683	suffering from physical injury especially that suffered in battle
+301321879	having edges that are jagged from injury
+301322003	having the surface exposed and painful
+301322124	not injured physically or mentally
+301322376	(of a woman) having the hymen unbroken
+301322525	not cut
+301322654	not injured or harmed
+301322759	not wounded
+301322826	free from evil or guilt
+301323136	freed from any question of guilt
+301323426	declared not guilty of a specific offense or crime; legally blameless
+301323657	free of guilt; not subject to blame
+301323940	responsible for or chargeable with a reprehensible act
+301324381	deserving blame
+301324481	deserving blame or censure as being wrong or evil or injurious
+301324891	guilty of murder or bloodshed
+301324996	liable to be accused, or cause for such liability
+301325188	affected by conscience
+301325275	guilty of crime or serious offense
+301325440	guilty of a misdeed
+301325573	liable to a fine
+301325654	feeling or revealing a sense of guilt
+301325798	liable to or deserving punishment
+301325911	in the act of committing a crime or other reprehensible act
+301326048	stimulating or exalting to the spirit
+301326159	tending to exalt
+301326286	depressing to the spirit
+301326401	serving to instruct or enlighten or inform
+301326767	that makes clear
+301326914	serving to demonstrate
+301327083	instructive (especially excessively)
+301327223	stubbornly insistent on theory without regard for practicality or suitability
+301327376	resulting in education
+301327517	providing knowledge
+301327635	serving or intended to explain or make clear
+301327822	serving to expound or set forth
+301327969	that provides interpretation
+301328145	manifestly demonstrative
+301328225	inclined to or marked by tedious moralization
+301328324	failing to instruct
+301328403	enlightening or uplifting so as to encourage intellectual or moral improvement
+301328643	not edifying
+301328729	tending to increase knowledge or dissipate ignorance
+301328965	failing to inform or clarify
+301329100	not segregated; designated as available to all races or groups
+301329367	attended by members of both sexes
+301329468	rid of segregation; having had segregation ended
+301329604	involving or composed of different races
+301329757	(of the handicapped) placed in regular school classes
+301329869	separated or isolated from others or a main group
+301330157	under forced isolation especially for health reasons
+301330323	separated according to race, sex, class, or religion
+301330526	kept separate and secluded
+301330632	restricted to whites only
+301330877	formed into a whole or introduced into another entity
+301331181	operating as a unit
+301331371	inserted as an integral part of a surrounding whole
+301331556	introduced into as a part of the whole
+301331705	incorporated unconsciously into your own psyche
+301331829	closely and firmly integrated
+301331959	not integrated; not taken into or made a part of a whole
+301332090	combined or mixed together so that the constituent parts are indistinguishable
+301332258	(used of metals) blended to obtain a desired property
+301332365	formed by blending unlike elements especially by reducing one element to particles and dispersing them throughout another substance
+301332568	not blended or mixed together
+301332671	not having undergone homogenization
+301332782	made or joined or united into one
+301332960	combined into or constituting a chemical compound
+301333066	composed of heterogeneous elements gathered into a mass
+301333259	(of a substance) taken into and retained in another substance
+301333458	being a single entity made by combining separate components
+301333614	made up of several components combined into a single entity
+301333738	not joined or united into one
+301333842	not constituting a compound
+301333938	combining and coordinating diverse elements into a whole
+301334196	relating to or involving combinations
+301334411	arranging or grouping
+301334492	combining into a single unit
+301334627	of rocks formed or occurring beneath the surface of the earth
+301334830	tending to cause breakup into constituent elements or parts
+301335022	of or belonging to or being a rock composed of fragments of older rocks (e.g., conglomerates or sandstone)
+301335237	causing organic decay
+301335338	appealing to or using the intellect
+301335859	highly cultured or educated
+301336070	having its source in or being guided by the intellect (as distinguished from experience or emotion)
+301336283	devoted to matters of the mind
+301336429	appealing to the mind
+301336561	intellectually appealing
+301336670	not intellectual
+301336838	smug and ignorant and indifferent or hostile to artistic and cultural values
+301337027	characteristic of a person who is not cultivated or does not have intellectual tastes
+301337229	requiring little mental effort
+301337350	having the capacity for thought and reason especially to a high degree
+301337785	mentally quick
+301337910	mentally quick and resourceful
+301338108	having or marked by unusual and impressive intelligence
+301338411	characterized by quickness and ease in learning
+301338661	being talented through inherited qualities
+301338856	apprehending and responding with speed and sensitivity
+301339037	having a keen intellect
+301339184	brilliantly clever
+301339324	having keenness and forcefulness and penetration in thought, expression, or intellect
+301339540	lacking intelligence
+301339790	not using intelligence
+301339879	well articulated or enunciated, and loud enough to be heard distinctly
+301340074	poorly articulated or enunciated, or drowned by noise
+301340267	spoken as if with a thick tongue
+301340439	resulting from one's intentions
+301340720	intentionally conceived
+301340892	carefully thought out in advance
+301341128	characterized by conscious design or purpose
+301341401	marked by good intentions though often producing unfortunate results
+301341768	not deliberate
+301341947	happening by chance or unexpectedly or unintentionally
+301342240	having no cause or apparent cause
+301342529	not done with purpose or intent
+301342767	done or made or performed with purpose and intent
+301343069	planned and made or fashioned artistically
+301343200	not done or made or performed with purpose or intent
+301343309	increasing in strength or intensity
+301343475	making worse
+301343575	intensifying by augmentation and enhancement
+301343744	accumulating and becoming more intense
+301343928	reaching a higher intensity
+301344043	lessening in intensity or strength
+301344206	moderating pain or sorrow by making it easier to bear
+301344543	capable of relieving pain
+301344784	moderating by making more temperate
+301344875	moderating by making pain or sorrow weaker
+301344973	arising or occurring between species
+301345111	arising or occurring within a species; involving the members of one species
+301345290	having or showing interest; especially curiosity or fascination or concern
+301345607	not having or showing interest
+301345797	marked by a lack of interest
+301346048	uninterested because of frequent exposure or indulgence
+301346259	showing indifference or disregard
+301346527	having lost or been caused to lose interest because of overexposure
+301346766	arousing or holding the attention
+301347019	capable of arousing and holding the attention
+301347192	agreeably diverting
+301347333	providing enjoyment; pleasantly entertaining
+301347532	capable of arousing interest or curiosity
+301347682	sufficiently interesting to be reported in a newspaper
+301347811	arousing no interest or attention or curiosity or excitement
+301348155	so lacking in interest as to cause mental weariness
+301348845	lacking interest or significance or impact
+301349046	inducing mental lethargy
+301349191	lacking wit or imagination
+301349386	labored and dull
+301349498	(of a book) poorly written and not entertaining
+301349603	carried on within the bounds of an institution or community
+301349826	occurring within an institution or community
+301349986	carried on outside the bounds of an institution or community
+301350196	used of competition between colleges or universities
+301350340	between two or more institutions etc
+301350461	used of competition or cooperation between secondary schools
+301350597	functioning outside the boundaries or precincts of an organized unit
+301350783	within the legal power or authority or a person or official or body etc
+301350931	beyond the legal power or authority of a person or official or body etc
+301351106	belonging to a thing by its very nature
+301351376	existing as an essential constituent or characteristic
+301351683	innermost or essential
+301351889	not forming an essential part of a thing or arising or originating from the outside
+301352283	associated by chance and not an integral part
+301352608	added or derived from something outside; not inherent
+301352775	not contained in or deriving from the essential nature of something
+301353073	coming from the outside
+301353342	not essential
+301353522	given to examining own sensory and perceptual experiences
+301353724	not introspective; examining what is outside yourself
+301353869	directed inward; marked by interest in yourself or concerned with inner feelings
+301354150	somewhat introverted
+301354239	directed outward; marked by interest in others or concerned with external reality
+301354485	being concerned with the social and physical environment
+301354685	being somewhat extroverted
+301354770	intermediate between introversive and extroversive
+301354915	tending to intrude (especially upon privacy)
+301355168	gradually intrusive without right or permission
+301355409	intrusive in a meddling or offensive manner
+301355743	not interfering or meddling
+301355862	thrusting inward
+301356001	projecting inward
+301356074	thrusting outward
+301356364	jutting or overhanging
+301356466	curving outward
+301356714	sticking out; protruding
+301356830	extending out above or beyond a surface or boundary
+301357156	having an upper part projecting beyond the lower
+301357278	(especially of eyes) bulging or protruding as with fear
+301357429	having a lower part projecting beyond the upper
+301357598	having a swelling on one side
+301357773	produced by the action of fire or intense heat
+301357937	produced by the action of water
+301358055	of rock material; forced while molten into cracks between layers of other rock
+301358226	of igneous rock that has solidified beneath the earth's surface; granite or diorite or gabbro
+301358404	of rock material; forced out while molten through cracks in the earth's surface
+301358594	igneous rock produced by eruption and solidified on or near the earth's surface; rhyolite or andesite or basalt
+301358814	marked by a tendency to spread especially into healthy tissue
+301358991	tending to spread quickly
+301359131	not invading healthy tissue
+301359213	relating to a technique in which the body is entered by puncture or incision
+301359363	relating to a technique that does not involve puncturing the skin or entering a body cavity
+301359531	imparting strength and vitality
+301359780	giving spirit and vivacity
+301359875	imparting vitality and energy
+301360054	used of a medicine that is strengthening
+301360190	making lively and cheerful
+301360332	giving or having the power to give life and spirit
+301360590	tending to impart new life and vigor to
+301360814	impairing the strength and vitality
+301360944	causing debilitation
+301361079	having a debilitating effect
+301361211	attractive and tempting
+301361382	conveying an invitation
+301361543	very pleasantly inviting
+301361694	arousing desire or expectation for something unattainable or mockingly out of reach
+301361883	neither attractive nor tempting
+301362007	not appealing to the senses
+301362125	of a biological process occurring in an artificial environment outside the living organism
+301362306	of a biological process occurring within a living organism
+301362459	(of linens or clothes) smoothed with a hot iron
+301362613	compacted by ironing
+301362687	made smooth by ironing
+301362777	(of linens or clothes) not ironed
+301363001	used of fabrics that do not require ironing
+301363147	(of laundry) dried but not ironed
+301363237	(of clothing) not smoothed with heat
+301363329	marked by wrinkles
+301363487	not having been made smooth by having hands run over the surface
+301363608	not wrinkled or creased
+301363720	invariant with respect to direction
+301363878	having properties with uniform values along all axes
+301364023	not invariant with respect to direction
+301364180	having properties with different values along different axes
+301364330	showing or causing joy and pleasure; especially made happy
+301364621	experiencing or expressing gladness or joy
+301364779	experiencing or showing sorrow or unhappiness
+301365189	tinged with sadness
+301365303	filled with or evoking sadness
+301365514	depressed
+301365600	characterized by or causing or expressing sadness
+301365866	showing pensive sadness
+301366069	very sad; especially involving grief or death or destruction
+301366286	manifesting both tragic and comic aspects
+301366529	full of or producing joy
+301366740	experiencing or bestowing celestial joy
+301366852	extremely joyful
+301366924	experiencing or marked by or expressing sorrow especially that associated with irreparable loss
+301367501	experiencing intense pain especially mental pain
+301367733	sorrowful through loss or deprivation
+301367909	expressive of severe grief or regret
+301368019	full of sorrow
+301368155	showing sorrow
+301368323	expressing sorrow often for something past
+301368460	causing or marked by grief or anguish
+301368701	vocally expressing grief or sorrow or resembling such expression
+301368978	excessively mournful
+301369073	expressing sorrow
+301369193	of things that make you feel sad
+301369441	affected by or full of grief or woe
+301369634	full of or characterized by joy
+301369924	feeling great rapture or delight
+301370127	full of high-spirited delight
+301370347	offering fun and gaiety
+301370567	full of or showing high-spirited merriment
+301371108	not experiencing or inspiring joy
+301371380	suited to or suggestive of a grave or burial
+301371573	lacking mirth
+301371642	not smiling
+301371709	full of juice
+301371864	served in its natural juices or gravy
+301371994	tender and full of juice
+301372201	abounding in sap
+301372331	lacking juice
+301372418	destitute of sap and other vital juices; dry
+301372590	used especially of what is legally or ethically right or proper or fitting
+301372980	acceptable to your conscience
+301373068	being precisely fitting and right
+301373232	given or inflicted in requital according to merits or deserts
+301373402	legally valid
+301373517	violating principles of justice
+301373791	affording grounds for legal action
+301373936	not just or fair
+301374064	properly deserved
+301374185	fitting or appropriate and deserved; used especially of punishment
+301374324	not merited or deserved
+301374480	without cause
+301374573	not deserved or earned
+301374696	fitted with or secured by a key
+301374838	lacking or not requiring a key
+301374976	having or showing a tender and considerate and helpful nature; used especially of persons and their behavior
+301375495	characterized by kindness and warm courtesy especially of a king to his subjects
+301375700	kindness of disposition or manner
+301375875	showing or motivated by sympathy and understanding and generosity
+301376241	having or showing a kindly or tender nature
+301376472	having or proceeding from an innately kind disposition
+301376655	lacking kindness
+301376931	(of speech) harsh or hurtful in tone or character
+301377110	unkind or cruel or uncivil
+301377287	causing hurt
+301377387	lacking in sympathy and kindness
+301377508	capable of being known
+301377715	not knowable
+301377838	beyond and outside the ordinary range of human experience or understanding
+301378100	apprehended with certainty
+301378472	most familiar or renowned
+301378615	more familiar or renowned than the other of two
+301378757	widely known and esteemed
+301379134	having the identity known or established
+301379281	so celebrated as to having taken on the nature of a legend
+301379448	widely known and spoken of
+301379631	widely or fully known
+301379820	not known
+301380183	(of unknown regions) not yet surveyed or investigated
+301380333	unknown to most people
+301380414	(usually used with to') occurring or existing without the knowledge of
+301380647	eluding diagnosis
+301380745	not yet discovered
+301380859	previously unknown
+301381014	not yet identified
+301381145	fully apprehended as to purport or meaning or explanation
+301381355	fully understood or grasped
+301381597	understood in a certain way; made sense of
+301381804	not understood
+301382042	wrongly understood
+301382177	not fully understood
+301382287	not thought over and arranged systematically in the mind; not absorbed or assimilated mentally
+301382488	not fully apprehended
+301382631	bearing or marked with a label or tag
+301382770	lacking a label or tag
+301382914	mourned or grieved for
+301383053	not grieved for; causing no mourning
+301383193	existing or living or growing or operating in the air
+301383497	able to fly through the air (as a bird)
+301383647	relating to or characteristic of or occurring on or in the sea
+301383852	of or taking place in the deeper parts of the sea
+301384000	used on the high seas
+301384122	constituting or living in the open sea
+301384266	at some distance from the shore
+301384399	being or passing over or across the sea
+301384541	formed or situated or occurring beneath the ocean or the ocean bed
+301384703	crowned with or as if with laurel symbolizing victory
+301384833	not crowned with laurel; having no acclaim or reward
+301385012	above average in size or number or quantity or magnitude or extent
+301386320	fairly large in size
+301386516	inconceivably large
+301386618	large as a bear
+301386690	large or big relative to something else
+301386791	somewhat large
+301386869	as of a photograph; made larger
+301387015	being puffed out; used of hair style or clothing
+301387146	very large in expanse or scope
+301387372	of large size for its weight
+301387506	large in capacity
+301387664	so great in size or force or extent as to elicit awe
+301387980	large in quantity or size
+301388083	large enough for two
+301388189	extraordinarily large in size or extent or amount or power or degree
+301388597	inconceivably extended in space or time
+301388707	of great mass; huge and bulky
+301388944	very imposing or impressive; surpassing the ordinary (especially in size or scale)
+301389168	large in spatial extent or range or scope or quantity
+301389472	so exceedingly large or extensive as to suggest a giant or mammoth
+301389817	relatively large in size or number or extent; larger than others of its kind
+301390083	large and impressive in physical size or extent
+301390253	unusually great in size or amount or degree or especially extent or scope
+301390836	of great size and bulk
+301390996	(used informally) very large
+301391162	extra large
+301391261	having a relatively large mouth
+301391352	unusually large in scope
+301391476	constructed or drawn to a big scale
+301391589	being of the same size as an original
+301391743	large enough to be visible with the naked eye
+301391862	very large in scale or scope or capability
+301391956	very large; appropriate to the size of a man
+301392104	imposing in size or bulk or solidity
+301392385	imposing in scale or scope or degree or power
+301392568	of anything that is large but not the largest
+301392672	abnormally large
+301392780	like a mountain in size and impressiveness
+301392927	larger than normal for its kind
+301393064	excessively large
+301393149	very large; of exceptional size for its kind
+301393278	(used especially of beds) not as large as king-size
+301393421	allowing ample room for ranging
+301393522	extremely large
+301393617	of great force or power
+301393712	formed or rising in rounded masses
+301393834	large in volume or bulk
+301394026	(British informal) enormous
+301394189	including much
+301394303	limited or below average in number or quantity or magnitude or extent
+301395023	immeasurably small
+301395112	of smaller than atomic dimensions
+301395201	very small
+301395585	(used informally) very small
+301395848	small and unimpressive
+301396024	atypically small
+301396141	small and delicate
+301396311	used of small deformed creatures
+301396397	half the usual or regular size
+301396483	infinitely or immeasurably small
+301396681	smaller in size or amount or value
+301396822	so small as to be invisible without a microscope
+301396976	extremely small in scale or scope or capability
+301397075	being on a very small scale
+301397180	extremely small
+301397321	about the size of an olive
+301397405	small enough to be carried in a garment pocket
+301397563	(used especially of persons) of inferior size
+301397749	small in quantity
+301397927	small or little relative to something else
+301398033	rather small
+301398100	created or drawn on a small scale
+301398234	smaller than normal for its kind
+301398335	greater in size or importance or degree
+301398493	of less size or importance
+301398622	conformable to or allowed by law
+301398826	(of individuals) adhering strictly to laws and rules and customs
+301399052	contrary to or prohibited by or defiant of law
+301399338	disobedient to or defiant of law
+301399508	lax in enforcing laws
+301399633	unlawfully violating the rights of others
+301399805	treated or mixed with lead
+301399936	suppressing or eliminating engine knock in combustion engines
+301400130	not treated with lead
+301400256	(of gasoline) not containing tetraethyl lead
+301400390	permitting the unwanted passage of fluids or gases
+301400678	not airtight
+301400790	leaking in drops
+301400896	leaking out slowly
+301401002	allowing passage in and out
+301401203	of such close construction as to be impermeable
+301401532	not allowing air or gas to pass in or out
+301401652	designed to prevent dripping
+301401776	completely sealed; completely airtight
+301401869	not subject to leaks
+301401945	not permitting the passage of water
+301402100	well and tightly constructed
+301402239	not allowing water to pass in or out
+301402332	having cracks and crevices stopped up with a filler
+301402473	having narrow opening filled
+301402568	having cracks blocked with weather stripping
+301402675	not caulked or sealed
+301402752	made light by aerating, as with yeast or baking powder; often used as a combining form
+301402953	made without leavening
+301403102	on the side away from the wind
+301403241	towards the side away from the wind
+301403340	on the side exposed to the wind
+301403468	towards the side exposed to wind
+301403566	established by or founded upon law or official or accepted rules
+301403880	ordered by a court of law
+301403965	decreed by or proceeding from a court of justice
+301404109	of or relating to law or to legal rights and obligations
+301404228	authorized, sanctioned by, or in accordance with law
+301404417	formally approved and invested with legal authority
+301404536	prescribed or authorized by or punishable under a statute
+301404738	before a judge or court of law; awaiting judicial determination
+301404858	prohibited by law or by official or accepted rules
+301405347	of a crime or misdemeanor; punishable by a fine set by a judge
+301405502	forbidden by law
+301405584	distributed or sold illicitly
+301405767	involving or being or having the nature of a crime
+301406016	obtained illegally or by improper means
+301406155	taken for your own use in violation of a trust
+301406320	beyond the usual course of legal proceedings; legally unwarranted
+301406473	not regulated or sanctioned by law
+301406636	recently stolen or smuggled
+301406764	contrary to or forbidden by law
+301407046	prohibited by official rules
+301407199	branded or labeled falsely and in violation of statutory requirements
+301407374	(of an act or offense) subject to punishment by law
+301407509	done or sold illicitly and secretly
+301407608	lacking legal authority
+301407728	(of handwriting, print, etc.) capable of being read or deciphered
+301407924	(of a manuscript) having few alterations or corrections
+301408073	easily deciphered
+301408240	(of handwriting, print, etc.) not legible
+301408416	(of a manuscript) defaced with changes
+301408549	not easily deciphered
+301408719	converted from cryptic to intelligible language
+301408823	not deciphered
+301408930	(of a parent or child) related by blood; genetically related
+301409113	(of offspring) generated by procreation
+301409235	of parents and children; related by adoption
+301409390	providing or receiving nurture or parental care though not related by blood or legal ties
+301409612	of marriages and offspring; recognized as lawful
+301409825	born in wedlock; enjoying full filial rights
+301409933	(of marriages) of a marriage between one of royal or noble birth and one of lower rank; valid but with the understanding that the rank of the inferior remains unchanged and offspring do not succeed to titles or property of the superior
+301410239	having a legally established claim
+301410437	of marriages and offspring; not recognized as lawful
+301410710	conceived in adultery
+301410788	illegitimate
+301410881	born out of wedlock
+301411107	not having a known or legally responsible father
+301411212	(of marriages) illicit or informal
+301411393	having no legally established claim
+301411565	having a long narrow nose
+301411710	of or related to Old World monkeys that have nostrils together and opening downward
+301411901	of or related to New World monkeys having nostrils far apart or to people with broad noses
+301412193	(of ferns) having each sporangium formed from a single epidermal cell
+301412351	(of ferns) having sporangia that arise from a group of epidermal cells
+301412553	resembling or similar; having the same or some of the same characteristics; often used in combination
+301413008	of the same turn of mind
+301413090	resembling closely
+301413194	of the same kind
+301413335	marked by dissimilarity
+301413463	having the same or similar characteristics
+301413762	not alike or similar
+301413922	equal in amount or value
+301414148	not equal in amount
+301414308	has a good chance of being the case or of coming about
+301414776	at risk of or subject to experiencing something usually unpleasant
+301414991	apparently destined
+301415143	showing possibility of achievement or excellence
+301415272	has little chance of being the case or coming about
+301415578	(of a theory or explanation) highly imaginative but unlikely and unconvincing
+301415749	most unlikely or unsuitable
+301415921	very unlikely
+301416084	likely but not certain to be or become true or real
+301416338	equally probable
+301416413	having a reasonable basis for belief or acceptance
+301416600	appearing to be true or real
+301416708	not likely to be true or to occur or to have occurred
+301416974	mistakenly believed
+301417087	having or as if having limbs, especially limbs of a specified kind (usually used in combination)
+301417325	having boughs (of trees)
+301417403	having limbs that are used as flippers
+301417500	having heavy limbs
+301417577	having sharp limbs
+301417654	having no limbs
+301417775	having no boughs (of trees)
+301417858	small in range or scope
+301418056	relatively moderate, limited, or small
+301418331	limited in size or scope
+301418456	having no limits in range or scope
+301418768	having no apparent limits or bounds
+301418932	resembling the ocean in apparent limitlessness in extent or degree
+301419106	not confined or limited
+301419359	in a straight unbroken line of descent from parent to child
+301419660	based on or tracing descent through the female line
+301419810	based on or tracing descent through the male line
+301419956	tracing descent from either the paternal or the maternal line only
+301420079	descended from a common ancestor but through different lines
+301420302	designating or involving an equation whose terms are of the first degree
+301420529	linear with respect to each of two variables or positions
+301420660	designating or involving an equation whose terms are not of the first degree
+301420811	having a lining or a liner; often used in combination
+301420974	having a silk lining
+301421051	not having a lining or liner
+301421158	on a list
+301421220	not on a list
+301421356	(of telephone numbers) not listed in the telephone directory
+301421520	(of securities) not traded on a stock exchange
+301421662	limited to the explicit meaning of a word or text
+301421862	in accordance with fact or the primary meaning of a term
+301422022	(used of the meanings of words or text) not literal; using figures of speech
+301422335	expressing, composed of, or based on an analogy
+301422511	beyond the literal or primary sense
+301422657	expressing one thing in terms normally denoting another
+301422872	using the name of one thing for that of another with which it is closely associated
+301423210	characterized by romantic imagery
+301423361	using the name of a part for that of the whole or the whole for the part; or the special for the general or the general for the special; or the material for the thing made of it
+301423772	characterized by or of the nature of a trope or tropes; changed from its literal sense
+301423950	versed in literature; dealing with literature
+301424122	written and regarded for aesthetic value rather than content
+301424241	knowledgeable about literature
+301424364	lacking culture, especially in language and literature
+301424475	able to read and write
+301424552	not able to read or write
+301424760	having little acquaintance with writing
+301424971	having reading and writing skills insufficient for ordinary practical needs
+301425116	not yet having acquired the ability to read and write
+301425227	barely able to read and write
+301425341	able to read but not to write
+301425429	actually being performed at the time of hearing or viewing
+301425736	not recorded on film or tape
+301425829	set down or registered in a permanent form especially on film or tape for reproduction
+301426060	recorded for broadcast
+301426217	recorded on film; made into a movie
+301426364	recorded at one time for transmission later
+301426465	recorded on tape
+301426549	fit or suitable to live in or with
+301426724	fit for habitation
+301426871	unfit or unsuitable to live in or with
+301427029	not fit for habitation
+301427111	wearing livery
+301427226	not wearing livery
+301427328	(of weapons) charged with ammunition
+301427469	charged with an explosive
+301427579	still capable of exploding or being fired
+301427741	(of weapons) not charged with ammunition
+301427929	not charged with a bullet
+301428027	failing to detonate; especially not charged with an active explosive
+301428173	consisting of or having the character of loam
+301428308	having no loam
+301428402	affecting only a restricted part or area of the body
+301428581	confined or restricted to a particular location
+301428768	pertaining to the surface of a body part
+301428950	affecting the entire body
+301429146	affecting an entire system
+301429248	(especially of medicine) of disease or anything resembling a disease; attacking or affecting many individuals in a community or a population simultaneously
+301429622	(of plants) epidemic among plants of a single kind especially over a wide area
+301429883	(of animals) epidemic among animals of a single kind within a particular region
+301430061	epidemic over a wide geographical area
+301430206	likely to spread and cause an epidemic disease
+301430475	of or relating to a disease that originates outside the locality in which it occurs
+301430630	of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality
+301430995	of a disease that is constantly present in an animal community but only occurs in a small number of cases
+301431155	having the hands covered with gloves
+301431262	wearing a protective glove
+301431382	devoid of gloves
+301431454	wearing a hat or a hat of a particular kind
+301431640	wearing a turban
+301431711	not wearing a hat
+301431845	subject to guidance or control especially after launching
+301432011	operated and guided by radio
+301432133	guided automatically toward the target
+301432232	not subject to guidance or control after launching
+301432358	having legs of a specified kind or number
+301432549	resembling or functioning like a leg
+301432661	having straight legs
+301432743	having or as if having three legs
+301432882	not having legs
+301432984	capable of or reflecting the capability for correct and valid reasoning
+301433325	proceeding to a conclusion by reason or argument rather than intuition
+301433501	logically deductive
+301433589	based on exact thinking
+301433720	lacking in correct logical relation
+301433985	inconsistent with reason or logic or common sense
+301434242	not following logically as a consequence
+301434344	obtained through intuition rather than from reasoning or observation
+301434511	fully extended or stretched forth
+301434811	fully extended in width
+301434943	fully extended especially in length
+301435075	extended out irregularly
+301435193	with arms and legs stretched out and apart
+301435327	extended or spread over a wide area or distance
+301435480	not extended or stretched out
+301435587	used of women's clothing; very short with hemline above the knee
+301435769	used of women's clothing having a hemline at mid-calf
+301435956	used of women's clothing having a hemline at the ankle
+301436142	characterized by or causing dissipation of energy
+301436261	characterized by or causing no dissipation of energy
+301436368	primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified
+301436882	having notably more length than width; being long and slender
+301437093	drawn out or made longer spatially
+301437405	capable of being lengthened
+301437592	being of a considerable distance or length
+301437716	long and thin and often limp
+301437841	having a long handle
+301437935	suitable for or reaching long distances
+301438064	having a snout that is longer than average
+301438165	having relatively long fibers
+301438274	(of sheep) having relatively long wool
+301438382	deviating from a square or circle or sphere by being elongated in one direction
+301438550	(of words) long and ponderous; having many syllables
+301438766	having an elongated seating area
+301438878	(primarily spatial sense) having little length or lacking in length
+301439307	(of clothing) very short
+301439442	used of hair or haircuts
+301439546	(archaic) cut short
+301439665	cut short
+301439842	somewhat short
+301439911	limited to short distances
+301440039	having a snout that is shorter than average
+301440142	unusually short
+301440223	short and blunt
+301440346	shortened by or as if by means of parts that slide one within another or are crushed one into another
+301440626	terminating abruptly by having or as if having an end or point cut off
+301440837	primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified
+301441617	lasting through all time
+301441727	two months long; lasting two months
+301441837	of long duration
+301441946	lasting through an entire day
+301442029	relatively long in duration; tediously protracted
+301442370	existing for a long time
+301442580	lasting for eight days
+301442658	tiresomely long; seemingly without end
+301442932	lasting for an hour
+301443033	continuing through life
+301443205	active over a long period of time
+301443296	of a gilt-edged security; having more than 15 years to run before redemption
+301443448	somewhat long
+301443515	(of perishable goods) treated to stay fresh longer than usual
+301443650	over an extended time
+301443763	involving an extended span of time
+301443874	relating to or extending over a relatively long time
+301444145	having existed for a long time
+301444309	last through a month
+301444421	lasting, open, or operating through the whole night
+301444620	lasting an indefinitely long time; suggesting self-renewal
+301444757	of a task that takes time and patience
+301444856	lasting through a week
+301444970	lasting through a year
+301445077	primarily temporal sense; indicating or being or seeming to be limited in duration
+301445488	cut short in duration
+301445717	of short duration or distance
+301445865	(of speech) having quick short sounds
+301445988	lasting for a markedly brief time
+301446293	dealt with very quickly; to the point
+301446472	of a gilt-edged security; having less than 5 years to run before redemption
+301446624	relating to the near future
+301446733	relating to or extending over a limited period
+301446913	(of speech sounds or syllables) of relatively long duration
+301447121	of speech sounds or syllables of relatively short duration
+301447325	holding securities or commodities in expectation of a rise in prices
+301447511	not holding securities or commodities that one sells in expectation of a fall in prices
+301447704	running or extending in the direction of the length of a thing
+301447954	situated on or along or in the direction of an axis
+301448075	with the end of one object in contact lengthwise with the end of another object
+301448211	parallel with the keel of a boat or ship
+301448329	measured lengthwise
+301448449	running lengthwise
+301448596	lying or extending across the length of a thing or in a cross direction
+301448808	extending or lying across; in a crosswise direction; at right angles to the long axis
+301449131	representing a plane made by cutting across something at right angles to its length
+301449348	having or covered with a lid or lids; often used in combination
+301449523	not having or covered with a lid or lids
+301449640	not tight; not closely constrained or constricted or constricting
+301449882	not fitting closely; hanging loosely
+301450069	(of hair or clothing) worn loose
+301450193	closely constrained or constricted or constricting
+301450574	so tight as to tend to choke
+301450672	closed or squeezed together tightly
+301450828	fitting closely but comfortably
+301450949	so tight as to cling to the skin
+301451069	fitting snugly
+301451253	clamped as in a vise
+301451347	drawn together or squeezed physically or by extension psychologically
+301451588	made narrow; limited in breadth
+301451752	as if squeezed uncomfortably tight
+301451898	abnormally constricted body canal or passage
+301452075	not constricted physically or by extension psychologically
+301452245	without undue constriction as from e.g. tenseness or inhibition
+301452455	no longer in your possession or control; unable to be found or recovered
+301452757	lost temporarily; as especially put in an unaccustomed or forgotten place
+301452957	not able to be found
+301453072	not used to good advantage
+301453222	(of an animal) having no home or having wandered away from home
+301453386	unable to find your way
+301453492	come upon unexpectedly or after searching
+301453667	found after being lost
+301453748	spiritually or physically doomed or destroyed
+301454004	in danger of the eternal punishment of Hell
+301454181	destroyed physically or morally
+301454277	rescued; especially from the power and consequences of sin
+301454547	enjoying the bliss of heaven
+301454629	reclaimed by payment of a ransom
+301454716	delivered from danger
+301454803	saved from the bondage of sin
+301454917	capable of being saved from ruin
+301455045	not gained or won
+301455164	surrendered as a penalty
+301455267	not subject to defeat
+301455372	characterized by or producing sound of great volume or intensity
+301455863	loud and firm
+301455966	unpleasantly loud and penetrating
+301456160	loud and clear
+301456246	loud enough to cause (temporary) hearing loss
+301456404	loud enough to shake the very earth
+301456498	having an unusually harsh sound
+301456588	given to loud offensive talk
+301456675	having an unusually loud voice
+301456763	seemingly loud enough to break something; violently rattling or clattering
+301457023	in a vehement outcry
+301457181	resembling the sound of a trumpet
+301457273	full of the sound of voices
+301457415	(of sound) relatively low in volume
+301457764	being or made softer or less loud or clear
+301458000	(of speech or dialect) pleasing in sound; not harsh or strident
+301458191	quiet and soothing
+301458319	in a softened tone
+301458511	(of a voice) faint
+301458667	very low in volume
+301458817	making a low continuous indistinct sound
+301459000	characterized by soft sounds
+301459266	sound of quiet gentle steps
+301459351	having a speaking manner that is not loud or harsh
+301459489	(of sound) having marked deepness and body
+301459756	(used of the voice or sound) deep and resonant
+301459887	continuous full and low-pitched throbbing sound
+301460042	loud and resounding
+301460177	pleasantly full and mellow
+301460294	(of sounds) full and rich
+301460500	full and loud and deep
+301460679	having volume or deepness
+301460862	(of sound) lacking resonance or volume
+301461008	not full or rich
+301461111	(used chiefly as a direction or description in music) soft; in a quiet, subdued tone
+301461331	(chiefly a direction or description in music) very soft
+301461461	(chiefly a direction or description in music) very soft
+301461579	(used chiefly as a direction or description in music) loud; with force
+301461821	(chiefly a direction or description in music) loud and strong
+301461939	(chiefly a direction or description in music) very loud and strong
+301462080	protected against attack (especially by nuclear weapons)
+301462217	not protected against attack (especially by nuclear weapons)
+301462344	having characteristics that attract love or affection
+301462677	lovable especially in a childlike or naive way
+301462871	having a sweet nature befitting an angel or cherub
+301463188	inviting cuddling or hugging
+301463343	evoking or deserving hatred
+301463601	unequivocally detestable
+301463904	incapable of inspiring love or affection
+301464060	found pleasant or attractive; often used as a combining form
+301464214	easy to like; agreeable
+301464377	regarded with aversion
+301464519	such as to provoke dislike
+301464602	difficult or impossible to like
+301464744	held dear
+301464968	regarded with admiration
+301465046	regarded with deep or rapturous love (especially as if for a god)
+301465246	dearly loved
+301465383	favorite
+301465547	characterized by feeling or showing fond affection for
+301465804	preferred above all others and treated with partiality
+301466059	not loved
+301466248	caused to be unloved
+301466336	unhappy in love; suffering from unrequited love
+301466459	treated with dislike or contempt
+301466575	deprived of your rightful heritage
+301466668	rebuffed (by a lover) without warning
+301466802	receiving no love
+301466898	feeling or showing love and affection
+301467366	extravagantly or foolishly loving and indulgent
+301467633	having or displaying warmth or affection
+301467951	inclined toward or displaying love
+301468104	expressive of or exciting sexual love or romance
+301468358	fond and affectionate
+301468473	strongly attracted
+301468558	marked by foolish or unreasoning fondness

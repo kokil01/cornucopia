@@ -1,0 +1,1000 @@
+114386246	irregularity of cardiac rhythm; recurrent occurrences can be a precursor of ventricular fibrillation
+114386432	abnormally rapid heartbeat (over 100 beats per minute)
+114386544	fibrillation of heart muscles resulting in interference with rhythmic contractions of the ventricles and possibly leading to cardiac arrest
+114386772	muscular twitching of contiguous groups of muscle fibers
+114386888	a mark left (usually on the skin) by the healing of injured tissue
+114387190	bony tissue formed during the healing of a fractured bone
+114387318	raised pinkish scar tissue at the site of an injury; results from excessive tissue repair
+114387470	a scar or pit on the skin that is left by a pustule of smallpox or acne or other eruptive disease
+114387622	a scar from a cut made by a sword
+114387711	the scar left following inoculation with a vaccine
+114387837	abnormal hardening or thickening of tissue
+114387971	an area of skin that is thick or hard from continual pressure or friction (as the sole of the foot)
+114388207	a hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes
+114388385	tissue hardened by deposition of lime salts
+114388524	spots before the eyes caused by opaque cell fragments in the vitreous humor and lens
+114388761	a rise in the temperature of the body; frequently a symptom of infection
+114389024	extremely high fever (especially in children)
+114389146	a decrease in size of an organ caused by disease or disuse
+114389355	abnormal development (of organs or cells) or an abnormal structure resulting from such growth
+114389630	a disturbance in which bone that is undergoing lysis is replaced by an abnormal proliferation of fibrous tissue resulting in bone lesions or skin lesions
+114389891	fibrous dysplasia of bone affecting multiple bones
+114390038	fibrous dysplasia of bone confined to a single bone
+114390164	abnormal enlargement of a body part or organ
+114390410	gland enlargement
+114390485	enlargement of the right ventricle of the heart due to disease of the lungs or of the pulmonary blood vessels
+114390654	abnormally large fingers or toes
+114390746	hypertrophy of certain body parts (usually legs and scrotum); the end state of the disease filariasis
+114390961	hypertrophy of a limb
+114391054	swelling of the scrotum resulting from chronic lymphatic obstruction
+114391202	thickening of the skin (usually unilateral on an extremity) caused by congenital enlargement of lymph vessel and lymph vessel obstruction
+114391437	a disease caused by nematodes in the blood or tissues of the body causing blockage of lymphatic vessels
+114391597	an abnormal enlargement of the spleen
+114391693	excessive size; usually caused by excessive secretion of growth hormone from the pituitary gland
+114391888	enlargement of bones of hands and feet and face; often accompanied by headache and muscle pain and emotional disturbances; caused by overproduction of growth hormone by the anterior pituitary gland (due to a tumor)
+114392210	abnormal increase in number of cells
+114392322	enlarged prostate; appears to be part of the natural aging process
+114392469	underdevelopment of an organ because of a decrease in the number of cells
+114392599	loss of structural differentiation within a cell or group of cells often with increased capacity for multiplication, as in a malignant tumor
+114392813	transient cessation of respiration
+114392935	irregular breathing of newborns; periods of rapid breathing followed by apnea; believed to be associated with sudden infant death syndrome
+114393149	difficult or labored respiration
+114393318	form of dyspnea in which the person can breathe comfortably only when standing or sitting erect; associated with asthma and emphysema and angina pectoris
+114393527	a dyspneic condition
+114393672	apnea that occurs during sleep
+114393796	bleeding from a ruptured blood vessel in the brain
+114393931	the leakage of blood from a vessel into tissues surrounding it; can occur in injuries or burns or allergic reactions
+114394131	bleeding into the interior chamber of the eye
+114394230	bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer)
+114394397	bleeding from the nose
+114394487	bleeding of the gums
+114394566	irregular and infrequent or difficult evacuation of the bowels; can be a symptom of intestinal obstruction or diverticulitis
+114394854	difficulty in defecating (usually as a consequence of long continued voluntary suppression of the urge to defecate)
+114395025	accumulation of hardened feces in the rectum or lower colon which the person cannot move
+114395175	severe constipation resulting from an obstruction in the intestines
+114395318	frequent and watery bowel movements; can be a symptom of infection or food poisoning or colitis or a gastrointestinal tumor
+114395691	obscene terms for diarrhea
+114395804	diarrhea contracted in Mexico or Central America
+114395918	a reeling sensation; a feeling that you are about to fall
+114396143	a lack of vitality
+114396260	presence of abnormal high-pitched sound heard with a stethoscope when an airway is blocked (as in asthma or chronic bronchitis)
+114396462	any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug
+114396651	a blood clot formed within a blood vessel and remaining attached to its place of origin
+114396812	an abnormal particle (e.g. an air bubble or part of a clot) circulating in the blood
+114396987	(psychology) a mental condition in which the qualities of a state are relatively constant even though the state itself may be dynamic
+114397678	a state of individual psychological well-being based upon a sense of confidence and usefulness and purpose
+114397837	(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic
+114398169	(psychoanalysis) anxiety resulting from real or imagined threats to your sexual functions; originally applied only to men but can in principle apply to women
+114398410	chronic and abnormal anxiety about imaginary symptoms and ailments
+114398571	excessive anxiety
+114398646	a mental state in which the person has continual hallucinations
+114398768	distress and disorientation (especially in adolescence) resulting from conflicting pressures and uncertainty about one's self and one's role in society
+114398981	an uneasy psychological state
+114399166	extreme nervousness
+114399295	(psychology) nervousness resulting from mental stress
+114399593	(psychology) a state of mental or emotional strain or suspense
+114399902	nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)
+114400100	(psychology) stress at which a person breaks down or a situation becomes crucial
+114400260	(psychology) an erroneous belief that is held in the face of evidence to the contrary
+114400582	a delusion (common in paranoia) that you are much greater and more powerful and influential than you really are
+114400780	a delusion (common in paranoia) that others are out to get you and frustrate and embarrass you or inflict suffering on you; a complicated conspiracy is frequently imagined
+114401022	illusory perception; a common symptom of severe mental disorder
+114401235	illusory auditory perception of strange nonverbal sounds
+114401370	hallucinatory perception of colored lights
+114401469	any visual hallucination arising from heavy drinking
+114401582	an image vivid enough to be a hallucination but recognized as unreal
+114401716	a hallucinatory experience induced by drugs
+114401844	illusory visual perception
+114401991	visual hallucination of animals; sometimes occurring in delirium tremens
+114402117	the delusion that things (or everything, including the self) do not exist; a sense that everything is unreal
+114402302	a delusion concerning the body image or parts of the body
+114402422	the delusion that you have assumed the form of an animal
+114402535	the psychological state of someone who is functioning at a satisfactory level of emotional and behavioral adjustment
+114402765	the healthy psychological state of someone with good judgment
+114402906	normal or sound powers of mind
+114403108	a lucid state of mind; not confused
+114403234	the state of having good sense and sound judgment
+114403545	any disease of the mind; the psychological state of someone who has emotional or behavioral problems serious enough to require psychiatric intervention
+114403878	a cover term for a variety of mental disorders in which severe anxiety is a salient symptom
+114404122	an anxiety disorder characterized by chronic free-floating anxiety and such symptoms as tension or sweating or trembling or lightheadedness or irritability etc that has lasted for more than six months
+114404422	an anxiety disorder characterized by recurrent and persistent thoughts and feelings and repetitive, ritualized behaviors
+114404654	an anxiety disorder characterized by unpredictable panic attacks; the attacks are usually severe but brief
+114404821	an anxiety disorder characterized by extreme and irrational fear of simple things or social situations
+114405137	a morbid fear of small insects and mites and worms
+114405245	a morbid fear of open spaces (as fear of being caught alone in some public place)
+114405402	a morbid fear of men
+114405480	a morbid fear of spiders
+114405564	a morbid fear of women
+114405643	any phobia (other than agoraphobia) associated with relatively simple well-defined stimuli
+114406171	a morbid fear of great heights
+114406276	a morbid fear of pain
+114406372	a morbid fear of drowning
+114406472	a morbid fear of thunder and lightning
+114406568	a morbid fear of being dirty
+114406657	a morbid fear of being closed in a confined space
+114406767	a morbid fear of freezing
+114406849	irrational fear of computers or technology
+114406949	a morbid fear of water
+114407029	a symptom of rabies in humans consisting of an aversion to swallowing liquids
+114407164	a morbid fear of falling asleep
+114407253	a morbid fear of dirt or contamination
+114407366	a morbid fear of novelty
+114407446	a morbid fear of night or darkness
+114407538	a morbid fear of developing a phobia
+114407632	a morbid fear of sounds including your own voice
+114407756	a morbid fear of light
+114407836	a morbid fear of fire
+114407914	a morbid fear of being buried alive
+114408007	a morbid fear of death
+114408089	a morbid fear of the number 13
+114408201	a morbid fear of animals
+114408407	a morbid fear of cats
+114408487	a morbid fear of dogs
+114408565	a morbid fear of insects
+114408648	a morbid fear of snakes
+114408730	a morbid fear of mice
+114408808	any phobia (other than agoraphobia) associated with situations in which you are subject to criticism by others (as fear of eating in public or public speaking etc)
+114409139	an abnormal fear of Satan
+114409223	a child's sudden fear of attending school
+114409324	a morbid fear of battle or physical injury
+114409427	a fear of foreigners or strangers
+114409535	an anxiety disorder associated with serious traumatic events and characterized by such symptoms as survivor guilt, reliving the trauma in dreams, numbness and lack of involvement with reality, or recurrent thoughts and images
+114409880	a mental disorder that causes somatic symptoms
+114409995	a disorder in one's mental state
+114410102	a mental disorder characterized by the conversion of mental conflict into somatic forms (into paralysis or anesthesia having no apparent cause)
+114410373	a mental disorder involving loss of sensitivity in the hand and wrist
+114410607	a usually brief state of excitement and mental confusion often accompanied by hallucinations
+114410754	any mental disorder in which delusions play a significant role
+114410882	involuntary defecation not attributable to physical defects or illness
+114411009	the simultaneous occurrence of symptoms of a mental disorder (as delusions) in two persons who are closely related (as siblings or man and wife)
+114411212	inflexible and maladaptive patterns of behavior
+114411380	the condition of being unable to adapt properly to your environment with resulting emotional instability
+114411544	a personality disorder characterized by amorality and lack of affect; capable of violent acts without guilt feelings (psychopathic personality' was once widely used but was superseded by sociopathic personality' to indicate the social aspects of the disorder, but now antisocial personality disorder' is the preferred term)
+114412001	a mental disorder caused by stress of active warfare
+114412163	characterized by symptoms similar to but less severe than schizophrenia
+114412315	any mental disorder not caused by detectable organic abnormalities of the brain and in which a major disturbance of emotions is predominant
+114412645	a state of depression and anhedonia so severe as to require clinical intervention
+114412989	a state of clinical depression in which the person exhibits irritability and restlessness
+114413144	severe and progressive depression in infants who lose their mother and do not get a suitable substitute
+114413314	mild chronic depression
+114413514	a state of depression for which there is no apparent precipitating cause
+114413654	an inappropriate state of depression that is precipitated by events in the person's life (to be distinguished from normal grief)
+114413871	(psychiatry) a state of depression with all the classic symptoms (anhedonia and lethargy and sleep disturbance and despondency and morbid thoughts and feelings of worthlessness and sometimes attempted suicide) but with no known organic dysfunction
+114414244	a major depressive episode associated with the climacteric
+114414372	a term used for any state of depression that is not psychotic
+114414517	a state of depression so severe that the person loses contact with reality and suffers a variety of functional impairments
+114414724	a state of clinical depression in which the individual is lethargic and slow to initiate action
+114414885	a major depressive episode that occurs without the manic phase that occurs in the classic form of bipolar disorder
+114415065	a mood disorder; an affective disorder in which the victim tends to respond excessively and sometimes violently
+114415281	state of violent mental agitation
+114415548	a condition in which a large group of people exhibit the same state of violent mental agitation
+114415723	a psychological state characterized by delusions of grandeur
+114415896	extreme depression characterized by tearful sadness and irrational fears
+114416044	a mental disorder characterized by episodes of mania and depression
+114416267	a mild bipolar disorder that persists over a long time
+114416438	resembling schizophrenia but remaining within the bounds of normality
+114416566	a mental or personality disturbance not attributable to any known neurological or organic dysfunction
+114416843	neurotic disorder characterized by violent emotional outbreaks and disturbances of sensory and motor functions
+114417121	a form of hysteria having features of both conversion disorder and anxiety neurosis
+114417267	hysteria with cataleptic symptoms
+114417363	characterized by diffuse anxiety and often somatic manifestations of fear
+114417499	emotional dissociative disorder in which there is loss of contact with your own personal reality accompanied by feelings of unreality and strangeness
+114417884	dissociative disorder in which a person forgets who they are and leaves home to create a new life; during the fugue there is no memory of the former life; after recovering there is no memory for events during the dissociative state
+114418187	a relatively rare dissociative disorder in which the usual integrity of the personality breaks down and two or more independent personalities emerge
+114418422	relatively permanent disorder of the mind
+114418644	obsolete terms for legal insanity
+114418807	mental deterioration of organic or functional origin
+114419001	dementia observed during the last stages of severe chronic alcoholism; involves loss of memory for recent events although long term memory is intact
+114419359	dementia with onset before the age of 65
+114419500	a progressive form of presenile dementia that is similar to senile dementia except that it usually starts in the 40s or 50s; first symptoms are impaired memory which is followed by impaired thought and speech and finally complete helplessness
+114419835	a progressive form of presenile dementia found most often in middle-aged and elderly women and characterized by degeneration of the frontal and temporal lobes with loss of intellectual ability and transitory aphasia
+114420111	dementia of the aged; results from degeneration of the brain in the absence of cerebrovascular disease
+114420294	any disease or malformation of the nose
+114420444	enlargement of the nose with dilation of follicles and redness and prominent vascularity of the skin; often associated with excessive consumption of alcohol
+114420776	inflammatory degenerative disease of the brain caused by thiamine deficiency that is usually associated with alcoholism
+114420967	the state of being irrational; lacking powers of understanding
+114421118	a state of mental disturbance and disorientation
+114421293	informal terms for insanity
+114421471	any severe mental disorder in which contact with reality is lost or highly distorted
+114421683	acute delirium caused by alcohol poisoning
+114421794	a psychological disorder characterized by delusions of persecution or grandeur
+114421927	any of several psychotic disorders characterized by distortions of reality and disturbances of thought and language and withdrawal from social contact
+114422333	schizophrenia characterized by mild symptoms or by some preexisting tendency to schizophrenia
+114422520	a form of schizophrenia characterized by a tendency to remain in a fixed stuporous state for long periods; the catatonia may give way to short periods of extreme excitement
+114422842	a form of schizophrenia characterized by severe disintegration of personality including erratic speech and childish mannerisms and bizarre behavior; usually becomes evident during puberty; the most common diagnostic category in mental institutions
+114423256	a form of schizophrenia characterized by delusions (of persecution or grandeur or jealousy); symptoms may include anger and anxiety and aloofness and doubts about gender identity; unlike other types of schizophrenia the patients are usually presentable and (if delusions are not acted on) may function in an apparently normal manner
+114423729	schizophrenia of abrupt onset and relatively short duration (a few weeks or months)
+114423911	a disorder of the vocal organs that results in the loss of voice
+114424081	a disorder of oral speech
+114424383	a chronic disorder that occurs in tropical and non-tropical forms and in both children and adults; nutrients are not absorbed; symptoms include foul-smelling diarrhea and emaciation
+114424644	a urinary bladder disorder resulting from interruption of the reflex arc normally associated with voiding urine; absence of bladder sensation and over-filling of the bladder and inability to urinate voluntarily
+114424916	a urinary bladder disorder caused by a lesion in the nervous system
+114425048	a urinary bladder disorder resulting from spinal cord lesion or multiple sclerosis or trauma; absence of bladder sensation and incontinence and interrupted voiding of urine
+114425282	a speech disorder in which the same word is repeated several times in succession
+114425419	impaired articulatory ability resulting from defects in the peripheral motor nerves or in the speech musculature
+114425588	impaired ability to express ideas verbally; usually resulting from difficulties of reasoning (as in feeblemindedness or certain psychoses)
+114425781	speech disorder attributable to a disorder of phonation
+114425892	defective articulation of the l' phoneme or the phoneme r' is pronounced as l'
+114426029	speech defect involving excessive use or unusual pronunciation of the phoneme l'
+114426167	a speech defect that involves pronouncing s' like voiceless th' and z' like voiced th'
+114426326	a speech disorder involving hesitations and involuntary repetitions of certain sounds
+114426511	a mental state of extreme emotional disturbance
+114426686	an unhappy and worried mental state
+114426964	agitation resulting from active worry
+114427176	an excited state of agitation
+114427446	loss of emotional control often resulting in emotional collapse
+114427564	a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity
+114427864	a state of depression
+114428014	a state of nervous depression
+114428126	a constitutional tendency to be gloomy and depressed
+114428235	(formal) extreme depression
+114428345	a state of mild depression
+114428465	an informal expression for a mildly depressed state
+114428629	an exhilarating psychological state of pride and optimism; an absence of depression
+114428856	a state of altered consciousness induced by alcohol or narcotics
+114429025	a state of sustained elation
+114429178	the physical condition of concurrent perspiration and chill; associated with fear
+114429335	sudden mass fear and anxiety over anticipated events
+114429613	a period of general fear of communists
+114429707	a display of bad temper
+114429869	absence of a reflex; a sign of possible nerve damage
+114429977	the psychological state of being irritated or annoyed
+114430304	an experience that is irritating or frustrating or disappointing
+114430474	a state of irritation or annoyance
+114430615	a minor annoyance
+114430687	a lack of patience; irritation with anything that causes delay
+114430839	a state of agitated irritation
+114430940	a psychological state induced by (or as if induced by) a magical incantation
+114431199	being controlled by passion or the supernatural
+114431303	the state of being intensely interested (as by awe or terror)
+114431490	a condition or state of affairs almost beyond one's ability to deal with and requiring great effort to bear or overcome
+114431923	an unpleasant difficulty
+114432050	a situation from which extrication is difficult especially an unpleasant or trying one
+114432355	a predicament from which a skillful or graceful escape is impossible
+114432541	a dangerous or distressing predicament
+114432689	a difficult entangling situation
+114432775	a painful or straitened circumstance
+114432893	informal terms for a difficult situation
+114433122	a poor job; a mess
+114433284	a difficulty that can be overcome with effort
+114433493	difficulty that causes worry or emotional tension
+114433769	a difficulty or embarrassment that is hard to extricate yourself from
+114434009	a state of difficulty that needs to be resolved
+114434322	a social and political problem caused by conflict between races occupying the same or adjacent regions
+114434483	an economic problem caused by payments for imports being greater than receipts for exports
+114434647	a complex or critical or unusual difficulty
+114435176	a treacherous situation that tends to entrap and destroy
+114435288	a current state of general acceptance and use
+114435385	the state or quality of being recognized or acknowledged
+114435778	acceptance as satisfactory
+114435968	an informal British abbreviation of approval
+114436129	acceptance as true or valid
+114436286	the state of being contented with your situation in life
+114436566	acceptance without protest
+114436669	the state of being welcome
+114436815	the state of having rejected your religious beliefs or your political party or a cause (often in favor of opposing beliefs or causes)
+114437048	the state of being out of favor
+114437235	(politics) a state of disfavor
+114437397	the state of being excommunicated
+114437550	rejection by God; the state of being condemned to eternal misery in Hell
+114437698	the state of lacking unity
+114437907	the state of being several and distinct
+114438119	a state of separation between persons or groups
+114438384	the state or situation of being alone
+114438476	a state of social isolation
+114438567	the state of being alone in solitary isolation
+114438739	enforced isolation of patients suffering from a contagious disease in order to prevent the spread of disease
+114438922	the state of being isolated or detached
+114439177	separation resulting from hostility
+114439302	personal state of isolation and anxiety resulting from a lack of social control and regulation
+114439493	the condition of being concealed or hidden
+114439753	the state of being covert and hidden
+114439877	the chest considered as the place where secret thoughts are kept
+114440072	the state of being secret
+114440249	a state in which some integrated part of a person's life becomes separated from the rest of the personality and functions independently
+114440550	a mild state of dissociation
+114440704	dissociation so severe that the usually integrated functions of consciousness and perception of self break down
+114440955	lack of connection or continuity
+114441101	state of being disconnected
+114441397	the capability of being separated
+114441507	lack of cohesion or clarity or organization
+114441694	lacking order or coherence
+114441799	the state of being joined or united or linked
+114442066	the state of being combined into one body
+114442226	the state of being allied or confederated
+114442374	the state of being under federal control
+114442568	the state of being connected
+114442914	the state or condition of touching or of being in immediate proximity
+114443141	the state of being linked together as in a chain; union in a linked series
+114443293	(mathematics) a contact of two curves (or two surfaces) at which they have a common tangent
+114443478	the state of being tangent; having contact at a single point or along a line without crossing
+114443644	a state of being connected reciprocally
+114443868	the state of cohering or sticking together
+114444184	logical coherence and accordance with the facts
+114444358	the state of being joined together
+114444543	the state of being connected together as in memory or imagination
+114444777	the state of being unconnected in memory or imagination
+114444989	a close and intimate union
+114445128	the union (or attempted fusion) of different systems of thought or belief (especially in religion or philosophy)
+114445439	uninterrupted connection or union
+114445583	a condition superior to an earlier condition
+114445892	a condition inferior to an earlier condition; a gradual falling off from a better state
+114446155	an improvement that adds to the value of a property or facility
+114446275	a state in which things are improving; the result of developing (as in the early part of a game of chess)
+114446672	state of inadequate development
+114446832	the state of something that has been unused and neglected
+114447018	something that has been omitted
+114447144	a condition of decline following successes
+114447274	something or someone that has suffered ruin or dilapidation
+114447491	improvement (or an intended improvement) in the existing form or condition of institutions or practices etc.; intended to make a striking change for the better in social or political or religious affairs
+114447788	a reformation intended to counter the results of a prior reformation
+114447921	the state of being restored to its former good condition
+114448184	state of being mature; full development
+114448507	the state (and responsibilities) of a person who has attained maturity
+114448723	the state of being a man; manly qualities
+114448818	the state of being a parent
+114449005	the state of being ripe
+114449119	the state of being an adult woman
+114449257	early maturity; the state of being young or immature or inexperienced
+114449378	not having reached maturity
+114449729	the state in which women have stopped ovulating
+114449853	the state of not being ripe
+114449972	lacking and evidencing lack of experience of life
+114450140	the state of being premature
+114450314	in the state that someone is in between puberty and adulthood
+114450469	the state of a child between infancy and adolescence
+114450643	the earliest state of immaturity
+114450812	the state of taking in or encircling
+114450941	including entirely
+114451037	the state of being banished or ostracized (excluded from society by general consent)
+114451395	the state of being debarred (excluded from enjoying certain possessions or rights or practices)
+114451564	a relative position or degree of value in a graded group
+114451808	the level of safety from exposure to infectious agents; depends on work practices and safety equipment and facilities
+114452059	exposure only to infectious agents that do not ordinarily cause human disease
+114452200	exposure to infectious agents that can cause disease in humans but whose potential for transmission is limited
+114452374	exposure to infectious agents that can be transmitted by the respiratory route and which can cause serious infection
+114452554	exposure to exotic infectious agents that pose a high risk of life-threatening disease and can be transmitted as an aerosol and for which there is no vaccine or therapy
+114452786	standing or position on a scale
+114452888	position on a scale in relation to others in status or rank or achievement
+114453034	relative position in a graded series
+114453311	a step on some scale
+114453411	relative status
+114454342	not the highest rank in a classification
+114454441	the advanced level of a subject taken in school (usually two years after O level)
+114454595	the basic level of a subject taken in school
+114454764	the level of education that college students are assumed to have attained
+114454897	rank in a military organization
+114455063	the rank of a flag officer
+114455164	social status or position conferred by a system based on class
+114455328	high office or rank or station
+114455458	the state of being of noble birth
+114455593	the status of being ordained to a sacred office
+114455697	(in ancient Rome) position of imperial status
+114455855	a position of great esteem (and supposed superiority)
+114455993	office or position of an archdeacon
+114456089	the rank or dignity or position of a baronet or baroness
+114456210	the dignity or rank or position of a duke
+114456341	the dignity or rank or position of an earl or countess
+114456467	the dignity or rank or position of a king
+114456581	the dignity or rank or position of a prince
+114456698	the dignity or rank or position of a viscount or viscountess
+114456827	the status of a leader
+114456971	the state of being noble
+114457053	the state of being prominent: widely known or eminent
+114457235	a focus of public attention
+114457488	the state of being salient
+114457685	the state of being conspicuous
+114457795	degree of exposure to public notice
+114457988	a state of low visibility in which public notice is avoided
+114458147	a prominent status
+114458332	special importance or significance
+114458653	special emphasis attached to something
+114458819	the state of being first in importance
+114458911	high status importance owing to marked superiority
+114459136	preeminence in a particular category or group or field
+114459275	a high standing achieved through success or influence or wealth etc.
+114459495	an obscure and unimportant standing; not well known
+114459751	the state of being anonymous
+114459904	the state of being humble and unimportant
+114460133	an insignificant place
+114460235	the state of being disregarded or forgotten
+114460341	the state of being honored
+114460600	a state of high honor
+114460852	the state or quality of being widely honored and acclaimed
+114461018	the condition of being honored (esteemed or respected or well regarded)
+114461311	the state in which esteem has been lost
+114461442	high level of respect gained by impressive development or achievement
+114461591	the state of being held in high esteem and honor
+114461885	a bad reputation
+114462007	the reputation and popularity a person has
+114462159	good repute
+114462254	a person's reputation
+114462364	favorable public reputation
+114462478	evil fame or public reputation
+114462615	the state of being known for some unfavorable act or quality
+114462760	notoriety for some particular characteristic
+114462913	a state of shame or disgrace
+114463211	the state of being held in low esteem
+114463501	the state of being corrupt
+114463603	a state of dishonor
+114463954	state of disgrace or loss of self-respect
+114464089	a low or downcast state
+114464341	the state of being degenerate in mental or moral qualities
+114464549	(usually plural) a low moral state
+114464696	a state of extreme dishonor
+114464964	state of disgrace resulting from public abuse
+114465076	state of disgrace resulting from detestable behavior
+114465180	disgrace or shame
+114465291	the state that exists when one person or group has power over another
+114465827	position or state of being dominant or in control
+114465996	power to dominate or defeat
+114466215	the state of being predominant over others
+114466399	dominance or power through legal authority
+114466694	the state of being paramount; the highest rank or authority
+114466811	British dominion over India (1757-1947)
+114466900	the state of being controlled or governed
+114466998	royal authority; the dominion of a monarch
+114467142	the imperial authority symbolized by a scepter
+114467252	the position or authority of a suzerain
+114467378	dominance through threat of punishment and violence
+114467580	exclusive control or possession of something
+114467792	(economics) a market in which there are many buyers but only one seller
+114468110	(economics) a market in which goods or services are offered by several sellers but there is only one buyer
+114468291	(economics) a market in which control over the supply of a commodity is in the hands of a small number of producers and each one can influence prices and affect competitors
+114468538	a temporary monopoly on a kind of commercial trade
+114468692	something causing misery or death
+114468845	a state of being relaxed and feeling no pain
+114469215	the condition of being comfortable or relieved (especially after being relieved of distress)
+114469500	a (temporary) relief from harm or discomfort
+114469627	comfort in disappointment or misery
+114469764	a state of warm snug comfort
+114469959	the state of being suitable or opportune
+114470118	the state of being tense and feeling pain
+114470344	an inconvenient discomfort
+114470485	physical discomfort (as mild sickness or depression)
+114470631	disagreeable aftereffects from the use of drugs (especially alcohol)
+114470769	the character of being uncomfortable and unpleasant
+114470991	a contented state of being happy and healthy and prosperous
+114471282	an illusory state of wellbeing
+114471374	a healthy state of wellbeing free from disease
+114471666	lack of prosperity or happiness or health
+114471799	a state of ill-being due to affliction or misfortune
+114472158	a situation characterized by crowding and extremely harsh conditions
+114472291	a state of constant misery
+114472376	misery resulting from affliction
+114472488	extreme distress of body or mind
+114472592	a condition requiring relief
+114472871	the state of needing something that is absent or unavailable
+114473331	an acute insufficiency
+114473426	a deficiency or failure in neurological or mental functioning
+114473638	lack of a mineral micronutrient that is essential for normal nutrition or metabolism
+114473805	the condition of being short of something
+114474006	a state occasioned by scarcity of money and a shortage of credit
+114474157	the condition of being essential or indispensable
+114474370	the state of being absolutely required
+114474486	the state of being urgent; an earnest and insistent necessity
+114474655	a condition of urgency making it necessary to hurry
+114474815	the state of demanding notice or attention
+114475138	a state of critical urgency
+114475377	the condition of being filled to capacity
+114475617	the state of being satisfactorily full and unable to take on more
+114475760	the state of being more than full
+114475908	state of having the interior filled with matter
+114476082	the state of being invaded or overrun by parasites
+114476532	infestation with itch mites
+114476641	infestation of the human intestine with Ascaris roundworms
+114476756	(veterinary medicine) infestation with coccidia
+114476880	infestation with larval echinococci (tapeworms)
+114477020	infestation of the body with parasitic worms
+114477142	infestation of the intestines by hookworms which enter the body (usually) through the skin
+114477306	infestation of the body by the larvae of flies (usually through a wound or other opening) or any disease resulting from such infestation
+114477496	infestation with slender threadlike roundworms (filaria) deposited under the skin by the bite of black fleas; when the eyes are involved it can result in blindness; common in Africa and tropical America
+114477777	infestation with flukes obtained from eating raw fish; common in eastern Asia
+114477916	infestation with lice (Pediculus humanus) resulting in severe itching
+114478127	infestation of the scalp with lice
+114478239	infestation of body skin with lice
+114478340	infestation of the pubic hair by crab lice
+114478454	infestation with chiggers
+114478540	infestation by a roundworm; common in tropical areas with poor sanitation
+114478672	the state of containing nothing
+114478885	the state of being blank; void; emptiness
+114479000	the state of being hollow: having an empty space within
+114479148	the state of nonexistence
+114479295	nowhere to be found in a giant void
+114479414	being unoccupied
+114479502	the absence of matter
+114479586	the state of being without clothing or covering of any kind
+114479883	without clothing (especially in the phrase in the nude')
+114480034	informal terms for nakedness
+114480200	partial or complete nakedness
+114480341	the state of being unclothed and exposed (especially of a part of the body)
+114480489	the condition of having no hair on the top of the head
+114480666	the condition of being void of hair
+114480809	loss of hair (especially on the head) or loss of wool or feathers; in humans it can result from heredity or hormonal imbalance or certain diseases or drugs and treatments (chemotherapy for cancer)
+114481078	patchy baldness
+114481155	loss of hair on the crown of the head
+114481286	the state of being carelessly or partially dressed
+114481424	not wearing a jacket
+114481629	(Christian theology) a state of sanctification by God; the state of one who is under such divine influence
+114482041	the state of being condemned to eternal punishment in Hell
+114482211	(Old Testament) God's means of destroying sinners
+114482391	the state of being omniscient; having infinite knowledge
+114482541	the omniscience of a divine being
+114482633	the state of being omnipotent; having unlimited power
+114482780	the omnipotence of a divine being
+114482870	the state of being without a flaw or defect
+114483181	(used facetiously) refinement
+114483299	someone or something wonderful
+114483408	a highly developed state of perfection; having a flawless or impeccable quality
+114483841	state of perfection; the utmost degree
+114483991	the state of being unimpaired
+114484149	an undivided or unbroken completeness or totality with nothing wanting
+114484558	the state of being complete and entire; having everything that is needed
+114484815	the state of being total and complete
+114485103	completeness over a broad scope
+114485263	everything available; usually preceded by the'
+114485648	the state of being only a part; not total; incomplete
+114485777	the state of being crude and incomplete and imperfect
+114486149	incompleteness of details
+114486250	the state or an instance of being imperfect
+114486530	a flaw or weak point
+114486754	an imperfection in a plan or theory or legal document that causes it to fail or that reduces its effectiveness
+114486915	the character flaw or error of a tragic hero that leads to his downfall
+114487055	a lack of competence
+114487260	used of materials (especially metals) in a weakened state caused by long stress
+114487410	defect or weakness in a person's character
+114487589	an imperfection in a bodily system
+114487787	an imperfection in an object or machine
+114488096	a flaw on a surface resulting when an applied substance does not adhere (as an air bubble in a coat of paint)
+114488259	a fault or defect in a computer program, system, or machine
+114488377	a fault
+114488467	an imperfection in someone or something that is suggestive of a wart (especially in smallness or unattractiveness)
+114488632	a defect that is present at birth
+114489352	an abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological
+114489706	accumulation of urine in the kidney because of an obstruction in the ureter
+114489842	the condition of having no arms
+114489928	congenital absence of an arm or leg
+114490016	congenital absence of part of an arm or leg
+114490151	an abnormality of development in which the upper part of an arm or leg is missing so the hands or feet are attached to the body like stumps; rare condition that results from taking thalidomide during pregnancy
+114490430	protrusion of brain tissue through a congenital fissure in the skull
+114490558	congenital disorder characterized by high levels of cholesterol and early development of atherosclerosis
+114490756	a congenital anomaly of the central nervous system in which a sac protruding from the brain or the spinal meninges contains cerebrospinal fluid (but no nerve tissue)
+114490979	a congenital defect of the central nervous system in which a sac containing part of the spinal cord and its meninges protrude through a gap in the vertebral column; frequently accompanied by hydrocephalus and mental retardation
+114491269	congenital malformation of the skull in which the main axis of the skull is oblique
+114491430	congenital defect of having one or more extra chromosomes in somatic cells
+114491559	congenital condition in which external genitalia and internal sex organs have both male and female characteristics
+114491751	congenital condition in which a person has external genitalia of one sex and internal sex organs of the other sex
+114491932	a rare abnormality marked by premature aging (grey hair and wrinkled skin and stooped posture) in a child
+114492092	congenital malformation of the skull which is long and narrow; frequently accompanied by mental retardation
+114492277	a deformity in which there is an abnormal displacement of part of a limb away from the midline of the body
+114492454	a deformity in which part of a limb is turned inward to an abnormal degree
+114492598	a birth defect involving the heart
+114492738	a congenital abnormality in the septum between the left and right sides of the heart
+114492918	an abnormal opening between the left and right atria of the heart
+114493050	a common congenital heart defect; an abnormal opening in the septum dividing the ventricles allows blood to pass directly from the left to the right ventricle; large openings may cause congestive heart failure
+114493350	a congenital heart defect producing cyanosis; characterized by four symptoms: pulmonary stenosis and ventricular septal defect and malposition of the aorta over both ventricles and hypertrophy of the right ventricle
+114493728	syndrome resulting from a serious acute (sometimes fatal) infection associated with the presence of staphylococcus; characterized by fever and diarrhea and nausea and diffuse erythema and shock; occurs especially in menstruating women using highly absorbent tampons
+114494080	syndrome associated with bacterial meningitis; marked by sudden high fever and skin discoloration and petechiae with hemorrhage into the adrenal glands and cardiovascular collapse
+114494338	a rare congenital disorder associated with deletion of genetic material in chromosome 7; characterized by mental deficiency and some growth deficiency and elfin faces but an overly social personality and a remarkable gift for vocabulary
+114494638	syndrome consisting of intractable peptic ulceration with gastric hypersecretion and hyperacidity
+114494808	a not uncommon congenital defect in which a vertebra is malformed; unless several vertebrae are affected or there is myelomeningocele there are few symptoms; can be diagnosed by amniocentesis
+114495091	any of several congenital disorders marked by degeneration of the cerebellum and spinal cord resulting in spasticity and ataxia
+114495308	birth defect characterized by the presence of more than the normal number of fingers or toes
+114495510	birth defect in which there is partial or total webbing connecting two or more fingers or toes
+114495695	a congenital anomaly in which the mucous membrane under the tongue is too short limiting the mobility of the tongue
+114495883	the state of being defective
+114496110	the state of having bugs
+114496208	a wild or unrefined state
+114496484	an imperfection or defectiveness
+114496638	defectiveness or unsoundness
+114496806	your overall circumstances or condition in life (including everything that happens to you)
+114497239	an auspicious state resulting from favorable outcomes
+114497501	a manifestation of God's foresightful care for his creatures
+114497636	the condition of prospering; having good fortune
+114497848	a desirable state
+114498019	something for which to be thankful
+114498140	the condition of financial success
+114498302	the condition of being financially weak
+114498478	a state of prosperity or fame
+114498738	the highest level of an occupation (especially in entertainment)
+114498857	a profitable success
+114498989	an unfortunate state resulting from unfavorable outcomes
+114499245	a state of misfortune or affliction
+114499576	misfortune resulting in lost effort or money
+114499789	bad luck
+114499874	a state of extreme (usually irremediable) ruin and misfortune
+114500105	an extreme condition or state (especially of adversity or disease)
+114500281	the final extremity (however unpleasant it may be)
+114500436	a state of adversity (danger or affliction or need)
+114500660	an oppressive condition of physical or mental or social or economic distress
+114500791	hard or painful trouble or struggle
+114500926	a state of great suffering and distress due to adversity
+114501093	adversity resulting from being made a victim
+114501251	any affliction that causes great suffering
+114501461	lack of success
+114501727	the ability to meet maturing obligations as they come due
+114501875	the lack of financial resources
+114502017	inability to discharge all your debts as they come due
+114502268	a state of complete lack of some abstract property
+114502446	the inability of a bank to meet its credit obligations
+114502559	the failure of crops to produce a marketable surplus
+114502670	something doomed to failure
+114502904	the state of property that is in the hands of a receiver
+114503072	the state or fact of being an owner
+114503199	(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)
+114503649	(physical chemistry) a distinct state of matter in a system; matter that is identical in chemical composition and physical state and separated from other material by the phase boundary
+114504004	the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility
+114504356	the state in which a substance has no tendency to flow under moderate stress; resists forces (such as compression) that tend to deform it; and retains a definite size and shape
+114504664	the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container
+114505095	(physical chemistry) a fourth state of matter distinct from solid or liquid or gas and present in stars and fusion reactors; a gas becomes a plasma when it is heated until the atoms lose all their electrons, leaving a highly electrified collection of nuclei and free electrons
+114505513	capability of existing or happening or being true
+114505883	the state of being conceivable
+114506028	the state of being achievable
+114506204	the inherent capacity for coming into being
+114506436	the state of being not yet evident or active
+114506552	the possibility of future success
+114506710	incapability of existing or occurring
+114506932	the state of being impossible to conceive
+114507092	the state of being unattainable
+114507204	full of hope
+114507328	a state of confident hopefulness that events will be favorable
+114507501	a possibility due to a favorable combination of circumstances
+114507962	a rich opportunity or a prize
+114508100	a period of opportunity
+114508230	an opportunity to start over without prejudice
+114508362	an opportunity to state your case and be heard
+114508553	a place where opportunities abound
+114508648	an opportunity to do something
+114508833	opportunity especially for employment or promotion
+114509020	opportunity for
+114509110	the chance to speak
+114509257	a chance to do something
+114509395	a situation offering opportunities
+114509574	a single chance or instance
+114509706	anticipating with confidence of fulfillment
+114509858	a state in which all hope is lost or absent
+114510117	a state of melancholy depression
+114510223	an extreme state of adversity; the lowest point of anything
+114510351	being undiluted or unmixed with extraneous material
+114510610	the state of being unmixed with other material
+114510768	the condition of being impure
+114511027	being mixed with extraneous material; the product of adulterating
+114511182	the state of impairing the quality or reducing the value of something
+114511315	the state of being contaminated
+114511486	state of being contaminated with dust
+114511588	the state of containing dirty impurities
+114511702	something that is feculent
+114511784	the state of being putrid
+114511901	the condition of (corporate or personal) finances
+114512178	the condition of the economy
+114512397	a state of economic prosperity
+114512496	a state in which there is a short supply of cash to lend to businesses and consumers and interest rates are high
+114512697	a long-term economic state characterized by unemployment and low prices and low levels of trade and investment
+114512945	the economic crisis beginning with the stock market crash in 1929 and continuing through the 1930s
+114513107	the economic condition when everyone who wishes to work at the going wage rate for their type of labor is employed
+114513283	an economic state of growth with rising profits and full employment
+114513443	a state of declining economic condition
+114513694	the state of being obligated to do or pay something
+114513903	an obligation to pay money to another party
+114514148	the state of owing something (especially money)
+114514269	the state of being behind in payments
+114514385	a liability account showing how much is owed for goods and services purchased on credit
+114514618	an amount due (as at a restaurant or bar)
+114514755	obligations of all kinds taken as a whole
+114514855	the state of being rich and affluent; having a plentiful supply of material goods and money
+114515209	abundant wealth
+114515473	a freedom from financial difficulty that promotes a comfortable state
+114515700	in conditions of wealth and comfort
+114515833	wealth that is inherited rather than earned
+114515957	wealth as evidenced by sumptuous living
+114516218	wealth regarded as an evil influence
+114516307	the inherited wealth of established upper-class families
+114516537	sufficient resources to provide comfort and meet obligations
+114516729	the state of having little or no money and few or no material possessions
+114517010	a state of extreme poverty
+114517197	a state without friends or money or prospects
+114517300	a state of extreme poverty or destitution
+114517616	the state of being a beggar or mendicant
+114517770	a state of lacking money
+114517942	an economic condition that results in the elimination of marginally financed participants in an industry
+114518178	any economic condition or variable that serves to set wage rates
+114518300	the state of sanitation (clean or dirty)
+114518477	the state of being conducive to health
+114518664	a condition promoting sanitary practices
+114518814	(of non-living objects) the state of being free of pathogenic organisms
+114519050	the state of being clean and conducive to health
+114519173	a state that is not conducive to health
+114519345	a state characterized by foul or disgusting dirt and refuse
+114519564	a foul or degraded condition
+114519647	the state of aggregation of soil and its condition for supporting plant growth
+114519777	the state of being clean; without dirt or other impurities
+114520035	the habit of keeping free of superficial imperfections
+114520147	the state of being spotlessly clean
+114520294	a condition of regular or proper arrangement
+114520561	careful attention to order and appearance (as in the military)
+114520704	in working order
+114520817	the habit of being tidy
+114520949	the state of being neat and smart and trim
+114521095	a state of arrangement or appearance
+114521263	a condition of great disorder
+114521347	the state of being unsanitary
+114521680	the state of being covered with unclean things
+114521988	the state of being polluted
+114522151	discoloration due to dirtiness
+114522317	the state of being covered with dust
+114522427	the state of being grimy
+114522556	the state of being dirty with soot
+114522695	sordid dirtiness
+114522846	a condition in which things are not in their expected places
+114523178	the condition of being untidy
+114523318	a lack of order and tidiness; not cared for
+114523537	unkemptness of hair
+114523631	a state of confusion and disorderliness
+114523925	a condition in which an orderly system has been disrupted
+114524151	a confused multitude of things
+114524403	a jumble of things to be given away
+114524492	being within certain limits that define the range of normal functioning
+114524756	the state of being that is average; indicates normality but with connotations of mediocrity
+114524959	the state of being that is commonly observed
+114525129	the state of being that is typical
+114525310	an abnormal physical condition resulting from defective genes or developmental deficiencies
+114526480	collapse of an expanded lung (especially in infants); also failure of pulmonary alveoli to expand at birth
+114526644	any state that is not typical
+114526836	abnormally low oxygen content in arterial blood
+114526956	an abnormal state in which development has stopped prematurely
+114527130	an uncontrollable use of obscene language; often accompanied by mental disorders
+114527267	a state or condition markedly different from the norm
+114527592	a developmental abnormality in which there is only one eye
+114527705	any change in the normal structure or number of chromosomes; often results in physical or mental abnormalities
+114528007	chromosomal abnormality consisting of the absence of one chromosome from the normal diploid number
+114528160	chrosomal abnormality in which there is one more than the normal number of chromosomes in a cell
+114528328	a twist or aberration; especially a perverse or abnormal way of judging or acting
+114528491	an abnormal curvature of the vertebral column
+114528671	an abnormal backward curve to the vertebral column
+114528817	an abnormal inward (forward) curvature of the vertebral column
+114528966	an abnormal lateral curve to the vertebral column
+114529071	abnormal spinal curvature that results when osteoporosis causes the spine to collapse; seen most often in elderly women
+114529269	the state of being less than normal (especially with respect to intelligence)
+114529423	deviation from the normal or common order or form or rule
+114529622	excessive development of the breasts in males; usually the result of hormonal imbalance or treatment with certain drugs (including some antihypertensives)
+114529835	strabismus in which one or both eyes turn inward toward the nose
+114530005	a genetic abnormality resulting in short stature
+114530135	a form of dwarfism accompanied by fragile bones and bad teeth
+114530258	congenital disorder consisting of an inability to digest milk and milk products; absence or deficiency of lactase results in an inability to hydrolyze lactose
+114530522	presence of lactose in the urine; can occur during pregnancy or lactation
+114530652	the presence of myoglobin in the urine
+114530750	abnormally small production of urine; can be a symptom of kidney disease or obstruction of the urinary tract or edema or an imbalance of fluids and electrolytes in the body
+114530977	a genetic disorder of metabolism; lack of the enzyme needed to turn phenylalanine into tyrosine results in an accumulation of phenylalanine in the body fluids which causes various degrees of mental deficiency
+114531253	a genetic abnormality of metabolism causing abdominal pains and mental confusion
+114531389	an abnormal condition in which an older child or adult retains infantile characteristics
+114531553	the physical condition of blocking or filling a passage with an obstruction
+114531751	blockage of the intestine (especially the ileum) that prevents the contents of the intestine from passing to the lower bowel
+114531970	blockage or closure (as of a wound or body cavity) by (or as if by) a tampon (especially to stop bleeding)
+114532180	mechanical compression of the heart resulting from large amounts of fluid collecting in the pericardial space and limiting the heart's normal range of motion
+114532401	a form of infantilism characterized by physical underdevelopment but normal intelligence
+114532576	an abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical
+114532821	abnormally small arms
+114532901	an abnormally small head and underdeveloped brain
+114533093	an abnormal thickness of the lips
+114533185	an abnormal tightness of the foreskin preventing retraction over the glans
+114533314	the physiological state produced by a poison or other toxic substance
+114533706	poisoning resulting from the ingestion of an alkali compound (as lye or ammonia)
+114533849	poisoning resulting from excessive intake of caffeine containing products
+114534003	a toxic condition that results from inhaling and absorbing carbon monoxide gas
+114534250	poisoning due to ingesting or inhaling cyanide; common in smoke from fires and in industrial chemicals
+114534416	a toxic condition caused by inhaling or ingesting the insecticide Malathion
+114534557	poisoning by ingestion of ergot-infected grain products; characterized by thirst and diarrhea and nausea and cramping and vomiting and abnormal cardiac rhythms; in severe cases it can cause seizures and gangrene of the limbs
+114534836	a toxic condition caused by ingesting or inhaling mercury; acute mercury poisoning causes a metallic taste and vomiting and diarrhea and kidney problems that may lead to death
+114535093	a form of mercury poisoning among people who ate fish from mercury-contaminated waters of Minamata Bay off Japan in the 1950s; characterized by severe neurological degeneration
+114535332	toxic condition resulting from inhaling or ingesting naphthalene
+114535464	toxic condition caused by the ingestion or inhalation of large amounts of nicotine
+114535611	poisoning by snake venom
+114535690	poisoning caused by ingestion of paraquat; characterized by progressive damage to the esophagus and liver and kidneys
+114535872	a toxic condition resulting from inhalation or ingestion of the insecticide parathion; characterized by nausea and abdominal pains and headache and convulsions and sweating
+114536110	toxic condition resulting from ingesting or inhaling a pesticide
+114536276	poisoning caused by the excessive ingestion of salicylates (usually aspirin)
+114536419	the set of facts or circumstances that surround a situation or event
+114536664	the environment as it relates to living organisms
+114536861	the state of the environment in which a situation exists
+114537091	the setting for a narrative or fictional or dramatic account
+114537296	an environment offering affection and security
+114537546	the environmental condition
+114537641	a particular environment or walk of life
+114537994	the sphere of work by women
+114538093	a sphere of activity involving effort
+114538287	an idyllic realm of contentment and self-indulgence
+114538407	a domain in which something is dominant
+114538643	an area of control or responsibility
+114538779	beyond human control or responsibility
+114538946	a sphere of intense political activity
+114539065	a domain that seems to be specially reserved for someone
+114539235	the proper sphere or extent of your activities
+114539418	the district within the jurisdiction of an archbishop or a metropolitan or one of the territorial divisions of an ecclesiastical order
+114539684	a setting in which something can be displayed to best effect
+114539858	the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction
+114540103	the state of the environment
+114540345	undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities
+114540669	pollution that is rendered harmless by natural processes and so causes no permanent harm
+114540845	pollution that accumulates in the environment and may appear in the food chain
+114541014	pollution of the atmosphere
+114541231	rain containing acids that form in the atmosphere when industrial gas emissions (especially sulfur dioxide and nitrogen oxides) combine with water
+114541454	pollution resulting from an industrial plant discharging pollutants into the atmosphere
+114541612	unhealthy vapors rising from the ground or other sources
+114541821	air pollution caused by fine particles of soot (as from power plants or diesel engines)
+114541979	air pollution by a mixture of smoke and fog
+114542141	annoying and potentially harmful environmental noise
+114542273	harm to lakes and rivers resulting from the release of excessive waste heat into them
+114542422	pollution of the water in rivers and lakes
+114542526	condition in which the earth's surface is worn away by the action of water and wind
+114542699	the state of being clear of trees
+114542810	the condition of having reduced numbers of inhabitants (or no inhabitants at all)
+114542968	the weather in some location averaged over some long period of time
+114543275	the condition of being covered with glaciers or masses of ice; the result of glacial action
+114543544	the environmental condition in a region that lacks a favorable climate or terrain for life or growth
+114543725	the prevailing environmental conditions as they influence the prediction of weather
+114543880	the weather or climate at some place
+114544120	a large body of air with uniform characteristics horizontally
+114544272	an air mass of higher than normal pressure
+114544431	an air mass of lower pressure; often brings precipitation
+114544623	(meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern
+114544904	(meteorology) rapid inward circulation of air masses about a low pressure center; circling counterclockwise in the northern hemisphere and clockwise in the southern
+114545250	an atmosphere in which visibility is reduced because of a cloud of some substance
+114545556	(British informal) an airless smoky smelly atmosphere
+114545715	weather suitable for outdoor activities
+114545867	an absence of strong winds or rain
+114546010	good weather with comfortable temperatures
+114546172	the quality of weather that is deliciously mild and soothing
+114546411	calmness without winds
+114546558	a period of calm weather
+114546692	weather unsuitable for outdoor activities
+114546946	unpleasantly cold and damp weather
+114547038	the state of being stormy
+114547271	a turbulent and stormy state of the sea
+114547389	a mildly windy state of the air
+114547525	a state of wild storminess
+114547631	used of the sea during inclement or stormy weather
+114547800	the state of the sky when it is covered by clouds
+114547985	instability in the atmosphere
+114548089	strong turbulence in an otherwise cloudless region that subjects aircraft to violent updrafts or downdrafts
+114548263	the prevailing psychological state
+114548451	a particular environment or surrounding influence
+114548710	a cause of worry or gloom or trouble
+114548876	the special atmosphere of a place
+114548967	an atmosphere of depression and melancholy
+114549150	a bleak and desolate atmosphere
+114549379	a flashy vulgar tone or atmosphere believed to be characteristic of the American film industry
+114549634	an unwholesome atmosphere
+114549784	the general atmosphere of a place or situation and the effect that it has on people
+114550237	the spirit of the time; the spirit characteristic of an age or generation
+114550366	the state of not being susceptible
+114550556	the capacity of an organism to defend itself against harmful environmental agents
+114550773	(medicine) the condition in which an organism can resist disease
+114551032	the property of eliciting an immune response
+114551155	a form of acquired immunity in which the body produces its own antibodies against disease-causing antigens
+114551323	an impermanent form of acquired immunity in which antibodies against a disease are acquired naturally (as through the placenta to an unborn child) or artificially (as by injection of antiserum)
+114551579	production of antibodies against the tissues of your own body; produces autoimmune disease or hypersensitivity reactions
+114551795	immunity to a particular disease that is not innate but has been acquired during life; immunity can be acquired by the development of antibodies after an attack of an infectious disease or by a pregnant mother passing antibodies through the placenta to a fetus or by vaccination
+114552173	immunity to disease that occurs as part of an individual's natural biologic makeup
+114552354	natural immunity shared by all members of a particular race
+114552475	immunity from an obligation or duty
+114552684	a period during which offenders are exempt from punishment
+114552814	exemption from taxation or normal processes of law that is offered to diplomatic personnel in a foreign country
+114553010	legal exemption from liability for damages
+114553126	exemption from punishment or loss
+114553214	an exemption based on circumstances existing prior to the adoption of some policy; used to enfranchise illiterate whites in south after the American Civil War
+114553437	the condition of being something that is useful in reaching an end or carrying out a plan
+114553663	the state of being susceptible; easily affected
+114554005	the state of being legally obliged and responsible
+114554165	liability to taxation
+114554261	the state of being liable to assessment or taxation
+114554438	the susceptibility of something to a particular treatment
+114554658	person's predisposition to be affected by something (as a disease)
+114554805	(chemistry) the capacity of a substance to take part in a chemical reaction
+114554994	(pathology) abnormal sensitivity to stimulation
+114555200	a turning or tilting backward of an organ or body part
+114555374	susceptibility to a pathogen
+114555585	the state of being sensitive (as to an antigen)
+114555744	allergic reaction to a substance ingested in food
+114555852	an allergic reaction that becomes apparent in a sensitized person only minutes after contact
+114556060	a delayed allergic reaction to the injection of an antiserum caused by an antibody reaction to an antigen in the donor serum
+114556261	an allergic reaction that becomes apparent only hours after contact
+114556418	hypersensitivity reaction to a particular allergen; symptoms can vary greatly in intensity
+114556708	hypersensitivity to cold
+114556805	an inappropriate and excessive reaction to an allergen (as pollen or dust or animal hair or certain foods); severity ranges from mild allergy to severe systemic reactions leading to anaphylactic shock
+114557149	hypersensitivity reaction to the ingestion or injection of a substance (a protein or drug) resulting from prior contact with a substance
+114557398	pathological sensitivity
+114557539	rhinitis caused by an allergic reaction
+114557678	a symptom of allergic states; increased eosinophils in the blood
+114557801	a seasonal rhinitis resulting from an allergic reaction to pollen
+114557935	constitutional predisposition to a particular disease or abnormality
+114558059	ready susceptibility to chemical change
+114558173	susceptibility or responsiveness to suggestion
+114558298	the condition of containing or being covered by a liquid (especially water)
+114558658	the wetness of ground that is covered or soaked with water
+114559033	wetness caused by water
+114559245	wetness in the atmosphere
+114559409	a state of warm humidity
+114559507	a slight wetness
+114559687	unpleasant wetness
+114559809	a chilly dampness
+114559933	a heavy wetness
+114560040	the condition of not containing or being covered by a liquid (especially water)
+114560433	dryness resulting from the removal of water
+114560656	a shortage of rainfall
+114560852	a deficiency of moisture (especially when resulting from a permanent absence of rainfall)
+114561074	a withered dryness
+114561165	a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin
+114561337	a rare genetic condition characterized by an eruption of exposed skin occurring in childhood and photosensitivity with severe sunburn; inherited as a recessive autosomal trait in which DNA repair processes are defective so they are more likely to chromosome breaks and cancers when exposed to ultraviolet light
+114561715	abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A
+114561931	abnormal dryness of the mouth resulting from decreased secretion of saliva
+114562074	the state of being certain that adverse effects will not be caused by some agent under defined conditions
+114562413	safety from exposure to infectious agents
+114562510	safety as a consequence of entailing no risk
+114562631	having the strength to withstand attack
+114562767	the state of being saved or preserved from harm
+114562870	the state of being free from danger or injury
+114563126	the general security of public places
+114563295	the state of freedom from fear or danger
+114563428	protection against future loss
+114563562	the condition of being protected
+114563822	a system for international peace
+114563920	the Roman peace; the long period of peace enforced on states in the Roman Empire
+114564057	protection against harmful effects of radiation
+114564166	the causal agent resulting in death
+114564367	the condition of being susceptible to harm or injury
+114564646	a cause of pain or injury or loss
+114564849	a standard for judging when freedom of speech can be abridged
+114565140	the state of being dangerous
+114565279	the state of being subject to danger or injury
+114565454	a source of danger; a possibility of incurring loss or misfortune
+114565922	hazard to the health of those exposed to it
+114566043	hazard to humans or the environment resulting from biological agents or conditions
+114566181	(economics) the lack of any incentive to guard against a risk when you are protected against it (as by insurance)
+114566460	any condition of a job that can result in illness or injury
+114566585	a constant and imminent peril
+114566747	a potentially explosive state
+114566833	something that is a source of danger
+114567013	the threat to Western civilization said to arise from the power of Asiatic peoples
+114567154	a state of danger involving risk
+114567358	financial risk
+114567533	the state of being vulnerable or exposed
+114567761	the state of being exposed to risk or anxiety
+114567937	the physical condition of being stretched or strained
+114568274	the elastic tension of living muscles, arteries, etc. that facilitate response to stimuli
+114568647	extreme tonus; muscular rigidity; a common symptom in catatonic schizophrenia
+114568817	normal tonicity of the muscles
+114568955	abnormally long muscular contractions; slow relaxation of a muscle after a contraction
+114569150	myotonia of the extremities only; causes spastic deformity of the hand or foot
+114569287	a mild, rare, congenital form of myotonia characterized by muscle stiffness
+114569447	lack of normal muscular tension or tonus
+114569644	the condition of being physiologically lax
+114569829	the state of (good) health (especially in the phrases in condition' or in shape' or out of condition' or out of shape')
+114570034	good physical condition; being in shape or in condition
+114570198	a state of fitness and good health
+114570303	a formal way of referring to the condition of something
+114570446	a state or condition free from damage or decay
+114570638	fitness to traverse the seas
+114570780	fitness to fly
+114570961	poor physical condition; being out of shape or out of condition (as from a life of ease and luxury)
+114571235	the state of being weak in health or body (especially from old age)
+114571568	an abnormal loss of strength
+114571697	any general reduction in vitality and strength of body and mind resulting from a debilitating chronic disease
+114571935	the condition of being unable to perform as a consequence of physical or mental unfitness
+114572505	a disability that interferes with or prevents walking
+114572662	inability to walk
+114572876	abasia due to trembling of the legs
+114572974	abasia due to ataxia of the legs
+114573083	abasia related to abnormal movements of the legs
+114573192	abasia related to paralysis of the leg muscles
+114573301	abasia related to spasticity of the legs
+114573415	abasia due to spastic contractions of the leg muscles
+114573529	disability of walking due to crippling of the legs or feet
+114573787	lameness due to pain in leg muscles because the blood supply is inadequate; pain subsides with rest
+114573958	inability to stand due to muscular incoordination
+114574061	a condition of disability resulting from the loss of one or more limbs
+114574206	any abnormality following or resulting from a disease or injury or treatment
+114574389	impairment of the sense of hearing
+114574579	partial or complete loss of hearing
+114574738	hearing loss due to problems with the bones of the middle ear
+114574913	abnormal acuteness of hearing due to increased irritability of the sensory neural mechanism; characterized by intolerance for ordinary sound levels
+114575157	hearing loss due to failure of the auditory nerve

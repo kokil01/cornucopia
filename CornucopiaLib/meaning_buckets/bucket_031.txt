@@ -1,0 +1,1000 @@
+105445176	gene that produces the same phenotype in the organism whether or not its allele identical
+105445361	(genetics) either of a pair (or series) of alternative forms of a gene that can occupy the same locus on a particular chromosome and that control the same character
+105445706	an allele that produces the same phenotype whether its paired allele is identical or different
+105445891	an allele that produces its characteristic phenotype only when its paired allele is identical
+105446059	a specific gene that produces a recognizable trait and can be used in family or population studies
+105446218	one the genes that are involved in embryologic development
+105446354	one of various similar homeotic genes that are involved in bodily segmentation during embryonic development
+105446532	any gene that has an effect that causes the death of the organism at any stage of life
+105446676	any pair of genes that tend to be transmitted together
+105446862	a gene that modifies the effect produced by another gene
+105446989	a gene that has changed so that the normal transmission and expression of a trait is affected
+105447158	(genetics) a combination of alleles (for different genes) that are located closely together on the same chromosome and that tend to be inherited together
+105447386	the gene that is mutated in cystic fibrosis
+105447518	genes that are not competitors at the same locus
+105447622	a gene that activates the production of messenger RNA by adjacent structural genes
+105447783	a segment of DNA containing adjacent genes including structural genes and an operator gene and a regulatory gene
+105447986	a gene that disposes normal cells to change into cancerous tumor cells
+105448131	a gene that by itself has little effect on the phenotype but which can act together with others to produce observable variations
+105448332	a normal gene that has the potential to become an oncogene
+105448451	gene that produces its characteristic phenotype only when its allele is identical
+105448629	a gene that produces a repressor substance that inhibits an operator gene
+105448800	gene that prevents a nonallele from being transcribed
+105448914	a gene that controls the production of a specific protein or peptide
+105449044	a gene that suppresses the phenotypic expression of another gene (especially of a mutant gene)
+105449262	an exogenous gene introduced into the genome of another organism
+105449382	a suppressor gene that blocks unscheduled cell division
+105449505	a gene located on an X chromosome
+105449598	a gene located on a Y chromosome
+105449707	a threadlike strand of DNA in the cell nucleus that carries the genes in a linear order
+105450170	the sex chromosome that is present in both sexes: singly in males and doubly in females
+105450365	(genetics) normal complement of sex chromosomes in a female
+105450492	(genetics) abnormal complement of three X chromosomes in a female
+105450626	(genetics) abnormal complement of sex hormones in a male resulting in Klinefelter's syndrome
+105450787	(genetics) normal complement of sex hormones in a male
+105450909	(genetics) abnormal complement of sex hormones in a male who has two Y chromosomes
+105451060	the sex chromosome that is carried by men
+105451227	(genetics) a chromosome that determines the sex of an individual
+105451542	any chromosome that is not a sex chromosome; appear in pairs in body cells but as single chromosomes in spermatozoa
+105451751	one of two identical strands into which a chromosome splits during mitosis
+105451900	a specialized condensed region of each chromosome that appears during mitosis where the chromatids are held together to form an X shape
+105452186	a chromosome lacking a centromere
+105452285	a chromosome with the centromere near one end so that one chromosomal arm is short and one is long
+105452452	the appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes)
+105452675	a chromosome having two equal arms because the centromere is in median position
+105452823	a chromosome like a straight rod with the centromere in terminal position
+105452965	an organelle containing enzymes responsible for producing energy
+105453122	a large mitochondrion in a striated muscle fiber
+105453244	a specialized part of a cell; analogous to an organ
+105453582	star-shaped structure formed in the cytoplasm of a cell having fibers like rays that surround the centrosome during mitosis
+105453757	one of a pair of small cylindrical cell organelles near the nucleus in animal cells; composed of nine triplet microtubules and form the asters during mitosis
+105453970	an organelle in the cytoplasm of a living cell; they attach to mRNA and move down it one codon at a time and then stop until tRNA brings the required amino acid; when it reaches a stop codon it falls apart and releases the completed protein molecule for use by the cell
+105454343	small region of cytoplasm adjacent to the nucleus; contains the centrioles and serves to organize the microtubules
+105454547	the cytoplasm of a striated muscle fiber
+105454663	a tiny cavity filled with fluid in the cytoplasm of a cell
+105454794	the whitish fibrous membrane (albuginea) that with the cornea forms the outer covering and protection of the eyeball
+105454999	a membrane (as a cell membrane) that allows some molecules to pass through but not others
+105455175	a cell that is part of a bone
+105455333	a cell of an embryo
+105455538	an undifferentiated embryonic cell
+105455629	a cell from which tooth enamel develops
+105455725	a cell from which bone develops
+105455833	a nucleated cell in bone marrow from which red blood cells develop
+105455976	a cell from which connective tissue develops
+105456077	a cell from which a nerve cell develops
+105456173	an immature leukocyte normally found in bone marrow
+105456280	a precursor of leukocytes that normally occurs only in bone marrow
+105456403	an erythroblast having granules of ferritin
+105456504	a large bone marrow cell; regarded as the source of blood platelets
+105456649	cell that functions in the breakdown and resorption of bone tissue
+105456772	mature bone cell
+105456844	either of two types of cells (erythrocytes and leukocytes) and sometimes including platelets
+105457114	a cell without a nucleus (as an erythrocyte)
+105457237	abnormally large red blood cell (associated with pernicious anemia)
+105457373	abnormally large red blood cell present in pernicious anemia and folic acid deficiency
+105457535	blood cells that engulf and digest bacteria and fungi; an important part of the body's defense system
+105457946	a preparation of blood cells separated from the liquid plasma
+105458193	a macrophage that is found in connective tissue
+105458316	a large phagocyte; some are fixed and other circulate in the blood stream
+105458464	a cell that engulfs and digests debris and invading microorganisms
+105458675	a phagocyte that does not circulate in the blood but is fixed in the liver or spleen or bone marrow etc.
+105458841	a phagocyte that circulates in the blood
+105458960	an agranulocytic leukocyte that normally makes up a quarter of the white blood cell count but increases in the presence of infection
+105459271	a lymphocyte derived from bone marrow that provides humoral immunity; it recognizes free antigen molecules in solution and matures into plasma cells that secrete immunoglobulin (antibodies) that inactivate the antigens
+105459557	a small lymphocyte developed in the thymus; it orchestrates the immune system's response to infected or malignant cells
+105459780	T cell with CD4 receptor that recognizes antigens on the surface of a virus-infected cell and secretes lymphokines that stimulate B cells and killer T cells; helper T cells are infected and killed by the AIDS virus
+105460092	T cell with CD8 receptor that recognizes antigens on the surface of a virus-infected cell and binds to the infected cell and kill it
+105460341	an immature lymphocyte
+105460421	a cell that develops from a B lymphocyte in reaction to a specific antigen; found in bone marrow and sometimes in the blood
+105460633	the precursor of a plasma cell
+105460721	a leukocyte that has granules in its cytoplasm
+105460843	a type of granular leukocyte that functions in the ingestion of bacteria
+105460988	a large immature monocyte normally found in bone marrow
+105461099	a leukocyte with basophilic granules easily stained by basic stains
+105461233	the chief phagocytic leukocyte; stains with either basic or acid dyes
+105461391	a neutrophil that ingests small things (as bacteria)
+105461519	a leukocyte readily stained with eosin
+105461646	a mature blood cell that contains hemoglobin to carry oxygen to the bodily tissues; a biconcave disc that has no nucleus
+105462028	an abnormal red blood cell that has thorny projections of protoplasm
+105462154	an abnormally small red blood cell (less than 5 microns in diameter)
+105462278	an immature red blood cell containing a network of filaments or granules
+105462409	an abnormal red blood cell that has a crescent shape and an abnormal form of hemoglobin
+105462554	an abnormal red blood cell containing granules of iron not bound in hemoglobin
+105462689	an abnormal spherical red blood cell
+105462782	an abnormal red blood cell with the appearance of a dark ring surrounding a dark center; associated with anemia
+105462951	area consisting of a small depression in the retina containing cones and where vision is most acute
+105463139	area of the retina immediately surrounding the fovea
+105463266	a small yellowish central area of the retina that is rich in cones and that mediates clear detailed vision
+105463488	one of the cells of the retina that is sensitive to light
+105463658	the point where the optic nerve enters the retina; not sensitive to light
+105463833	a visual receptor cell in the retina that is sensitive to bright light and to color
+105464032	a visual receptor cell that is sensitive to dim light
+105464198	cells composed of fat
+105464308	a spermatozoon or an ovum; a cell responsible for transmitting DNA to the next generation
+105464521	a mature sexual reproductive cell having a single set of unpaired chromosomes
+105464777	either of a pair of unlike gametes especially those unlike in size
+105464919	either of a pair of conjugating gametes of the same size and structure
+105465045	the male reproductive cell; the male gamete
+105465371	a process at the anterior end of a sperm cell that produces enzymes to facilitate penetration of the egg
+105465549	the female reproductive cell; the female gamete
+105465749	mature ovum after penetration by sperm but before the formation of a zygote
+105465876	a small or immature ovum
+105465988	an immature animal or plant cell that develops into a gamete by meiosis
+105466152	a female gametocyte that develops into an ovum after two meiotic divisions
+105466279	a small cell containing little cytoplasm that is produced along with the oocyte and later discarded
+105466435	a swelling on the epididymis or the testis; usually contains spermatozoa
+105466566	a male gametocyte that develops into four spermatids
+105466677	an immature gamete produced by a spermatocyte; develops into a spermatozoon
+105466808	an elongated contractile cell that forms the muscles of the body
+105467033	a cell in the testes that secretes the hormone testosterone
+105467166	elongated cells found in the seminiferous tubules of the testis; apparently they nourish the spermatids
+105467345	an elongated contractile cell in striated muscle tissue
+105467529	one of many contractile filaments that make up a striated muscle fiber
+105467739	one of the segments into which a myofibril is divided
+105467867	muscle tissue that does not appear striated under the microscope; has the form of thin layers or sheets
+105468049	a muscle that contracts without conscious control and found in walls of internal organs such as stomach and intestine and bladder and blood vessels (excluding the heart)
+105468335	cells of the smooth muscles
+105468446	a system (including the thymus and bone marrow and lymphoid tissues) that protects the body from foreign substances and pathogenic organisms by producing the immune response
+105468755	the skin and its appendages
+105468925	a widely distributed system consisting of all the cells able to ingest bacteria or colloidal particles etc, except for certain white blood cells
+105469186	a widely distributed system of free and fixed macrophages derived from bone marrow
+105469392	the muscular system of an organism
+105469633	the system of muscles and tendons and ligaments and bones and joints and associated tissues that move the body and maintain its form
+105469891	the sensory and control apparatus consisting of a network of nerve cells
+105470250	a structure that is part of the nervous system
+105471025	the neural path of a reflex
+105471109	a cluster of nerve cells governing a specific bodily process
+105471525	the part of the brain (in a fold of the cerebral cortex of the temporal lobe on both sides of the brain) that receives impulses from the ear by way of the auditory nerve
+105471756	a threadlike extension of a nerve cell
+105472030	a nerve fiber encased in a sheath of myelin
+105472186	small gaps in the myelin sheath of medullated axons
+105472337	a layer of myelin encasing (and insulating) the axons of medullated nerve fibers
+105472591	thin membranous sheath around a nerve fiber
+105472723	any cell that covers the nerve fibers in the peripheral nervous system and forms the myelin sheath
+105472880	a nerve fiber that terminates on a muscle or gland and stimulates contraction or secretion
+105473044	a specialized structure at the peripheral end of some motor or sensory nerve fibers
+105473219	a cell that is specialized to conduct nerve impulses
+105473520	a nerve cell in the brain
+105473657	a neuron in the cerebral cortex with short dendrites and with either a long axon or a short axon that ramifies in the grey matter
+105473896	a large densely branching neuron that is the characteristic cell of the cerebellar cortex
+105474045	the flattened end of a motor neuron that transmits neural impulses to a muscle
+105474227	sensory end organ that responds to changes in osmotic pressure
+105474348	a neuron conducting impulses outwards from the brain or spinal cord
+105474544	a neuron conducting impulses inwards to the brain or spinal cord
+105474706	sustentacular tissue that surrounds and supports neurons in the central nervous system; glial and neural cells together compose the tissue of the central nervous system
+105475084	a cell of the neuroglia
+105475271	tissue consisting of large stellate neuroglial cells
+105475410	comparatively large neuroglial cell
+105475574	star-shaped cells with long processes; found in the white matter of the brain and spinal cord
+105475750	a kind of astrocyte found in the grey matter
+105475863	neuroglial tissue of mesodermal origin that can become phagocytic
+105476003	a cell of the microglia that may become phagocytic and collect waste products of nerve tissue
+105476175	tissue consisting of glial cells with sheetlike processes that form the myelin sheath of nerve fibers
+105476391	a cell of the oligodendroglia
+105476501	long nerve fiber that conducts away from the cell body of the neuron
+105476684	the terminal structure of an axon that does not end at a synapse
+105476892	microscopic sensory nerve endings in the skin that are not connected to any specific sensory receptor
+105477076	a specialized bulblike nerve ending located in the subcutaneous tissue of the skin; occurs abundantly in the skin of palms and soles and joints and genitals
+105477316	special nerve endings in the muscles and tendons and other organs that respond to stimuli regarding the position and movement of the body
+105477513	short fiber that conducts toward the cell body of the neuron
+105477665	a hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody
+105477841	a natural prolongation or projection from a part of an organism either animal or plant
+105478833	an outgrowth on a plant or animal such as a fowl's wattle or a protuberance near the hilum of certain seeds
+105479079	a fleshy wrinkled and often brightly colored fold of skin hanging from the neck or throat of certain birds (chickens and turkeys) or lizards
+105479281	a round bump on a bone where it forms a joint with another bone
+105479489	the condyle of the ramus of the mandible that articulates with the skull
+105479684	a sharp triangular process projecting from a bone
+105479857	the coronoid process that provides an attachment for the temporal muscle
+105480046	a condyle on the outer side of the lower extremity of the femur
+105480190	a condyle on the inner side of the lower extremity of the femur
+105480333	a projection on a bone above a condyle serving for the attachment of muscles and ligaments
+105480498	epicondyle near the lateral condyle of the femur
+105480611	thin projections forming a fringe (especially around the ovarian end of the Fallopian tube)
+105480756	(anatomy) a natural outgrowth or projection on an organ or body part such as the process of a vertebra
+105480970	small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals
+105481159	small abnormal bony outgrowth
+105481245	a small projection of tissue at the base of a hair or tooth or feather
+105481387	a small nipple-shaped protuberance concerned with taste, touch, or smell
+105481580	the junction between two neurons (axon-to-dendrite) or between a neuron and a muscle
+105481847	the junction between a nerve fiber and the muscle it supplies
+105481998	any bundle of nerve fibers running to various organs and tissues of the body
+105482390	a nerve that conveys impulses toward or to muscles or glands
+105482628	a nerve fiber that carries impulses toward the muscles or glands
+105482786	a nerve that passes impulses from receptors toward or to the central nervous system
+105483049	a nerve fiber that carries impulses toward the central nervous system
+105483214	a bundle of sensory nerve fibers going to the thalamus
+105483333	a bundle of fibers (especially nerve fibers)
+105483530	a bundle of myelinated nerve fibers following a path through the brain
+105483746	a bundle of nerve fibers passing from one side to the other of the brain or spinal cord
+105483908	any of the 12 paired nerves that originate in the brain stem
+105484244	any nerve whose activity tends to reduce the activity or tone of the body part it serves
+105484406	a bundle of myelinated neurons joining different parts of the brain
+105484567	either half of the cerebrum
+105484764	the cerebral hemisphere to the left of the corpus callosum that controls the right half of the body
+105484957	pear-shaped neural structure on either side of the brain in the rhinencephalon
+105485162	the cerebral hemisphere to the right of the corpus callosum that controls the left half of the body
+105485338	a center in the cerebral hemispheres that governs the sense of smell in lower animals; in humans it seems to mediate complex emotional behavior
+105485598	a collective term for numerous olfactory filaments in the nasal mucosa
+105485791	one of two enlargements at the terminus of the olfactory nerve at the base of the brain just above the nasal cavities
+105485988	the cranial nerve that serves the retina
+105486178	supplies extrinsic muscles of the eye
+105486336	either of the two cranial nerves on either side that control the superior oblique muscles of the eyes
+105486548	the main sensory nerve of the face and motor nerve for the muscles of mastication
+105486760	a small motor nerve supplying the lateral rectus muscle of the eye
+105486966	cranial nerve that supplies facial muscles
+105487155	a composite sensory nerve supplying the hair cells of the vestibular organ and the hair cells of the cochlea
+105487438	sensory nerve to the pharynx and back of the tongue; motor fibers innervate muscles that elevate the pharynx and larynx; includes parasympathetic fibers to the otic ganglion
+105487728	a mixed nerve that supplies the pharynx and larynx and lungs and heart and esophagus and stomach and most of the abdominal viscera
+105488053	arises from two sets of roots (cranial and spinal) that unite to form the nerve
+105488259	supplies intrinsic muscles of the tongue and other tongue muscles
+105488446	the portion of the vertebrate nervous system consisting of the brain and spinal cord
+105488747	that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord
+105489201	the part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts
+105489398	the cortical part of the neencephalon
+105489522	the olfactory cortex of the cerebrum
+105489649	the part of the hindbrain that develops into the pons and the cerebellum
+105489781	the more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex
+105489980	the two innermost layers of the meninges; cerebrospinal fluid circulates between these innermost layers
+105490181	the outermost (and toughest) of the 3 meninges
+105490328	the middle of the 3 meninges
+105490452	the highly vascular innermost of the 3 meninges
+105490574	a space in the meninges beneath the arachnoid membrane and above the pia mater that contains the cerebrospinal fluid
+105490774	the complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded
+105491040	greyish nervous tissue containing cell bodies as well as fibers; forms the cerebral cortex consisting of unmyelinated neurons
+105491329	whitish nervous tissue of the CNS consisting of neurons and their myelin sheaths
+105491542	the master gland of the endocrine system; located at the base of the brain
+105491850	the funnel-shaped stalk connecting the pituitary gland to the hypothalamus
+105492007	the anterior lobe of the pituitary body; primarily glandular in nature
+105492225	the anterior part of the anterior pituitary
+105492363	a thin piece of tissue that has become part of the posterior pituitary
+105492514	the posterior lobe of the pituitary body; primarily glandular in nature
+105492750	a small endocrine gland in the brain; situated beneath the back part of the corpus callosum; secretes melatonin
+105492966	cell clusters in the pancreas that form the endocrine part of that organ; secrete insulin and other hormones
+105493206	a major division of the vertebrate brain; situated above the medulla oblongata and beneath the cerebrum in humans
+105493508	either of two lateral lobes of the cerebellum
+105493640	a large laminar nucleus of grey matter within the white matter of each cerebral hemisphere
+105493811	the narrow central part of the cerebellum between the two hemispheres
+105493971	the anterior lobe of the cerebellum which was one of the earliest parts of the hindbrain to develop in mammals
+105494162	the layer of unmyelinated neurons (the grey matter) forming the cortex of the cerebrum
+105494572	any of various regions of the cerebral cortex
+105494876	cortical areas that are neither motor or sensory but are thought to be involved in higher processing of information
+105495075	one of four small oval masses that protrude slightly from the underside of the thalamus and function as synaptic centers on the way to the cerebral cortex
+105495346	a neural structure that serves as a processing station on the way from the retina to the occipital lobe of the cerebral cortex
+105495593	a neural structure that serves as the last of a series of processing centers along the auditory pathway from the cochlea to the temporal lobe of the cerebral cortex
+105495875	the cortical area that receives auditory information from the medial geniculate body
+105496037	the motor speech center in the left hemisphere of the brain in most people
+105496267	one of the cortical areas mapped out on the basis of its cytoarchitecture
+105496402	any of the convolutions of the outer surface of the frontal lobe of the cerebrum
+105496561	any of the convolutions of the outer surface of the temporal lobe of the cerebrum
+105496722	any of the convolutions of the outer surface of the parietal lobe of the cerebrum
+105496883	any of the convolutions of the outer surface of the occipital lobe of the cerebrum
+105497046	a large cortical area (in the left hemisphere in most people) containing all the centers associated with language
+105497292	the cortical area that influences motor movements
+105497462	the areas of the brain that process and register incoming sensory information and make possible the conscious awareness of the world
+105497650	an area of the cortex including the precentral gyrus and the postcentral gyrus and combining sensory and motor functions
+105497856	the cortical area that receives information from the lateral geniculate body of the thalamus
+105498022	the auditory word center; located in the posterior part of the superior temporal convolution in most people
+105498230	the tissue forming the outer layer of an organ or structure in plant or animal
+105498451	the inner part of an organ or structure in plant or animal
+105498635	the cortex of the adrenal gland; secretes corticosterone and sex hormones
+105498806	the cortex of the kidney containing the glomeruli and the convoluted tubules
+105498960	the medulla of the adrenal gland; secretes epinephrine
+105499113	a broad transverse nerve tract connecting the two cerebral hemispheres
+105499264	any of the important motor nerves on each side of the central nervous system that run from the sensorimotor areas of the cortex through the brainstem to motor neurons of the cranial nerve nuclei and the ventral root of the spinal cord
+105499645	anterior portion of the brain consisting of two hemispheres; dominant part of the brain in humans
+105499911	a folded part (as in skin or muscle)
+105500078	a convex fold or elevation in the surface of the brain
+105500307	either of two gyri on either side of the central sulcus
+105500458	the convolution of the frontal lobe that is bounded in back by the central sulcus and that contains the motor area
+105500654	the external surface of the body overlying the heart and stomach
+105500793	the convolution of parietal lobe that is bounded in front by the central sulcus
+105500955	(anatomy) a somewhat rounded subdivision of a bodily organ or part
+105501302	a small lobe or subdivision of a lobe
+105501410	that part of the cerebral cortex in either hemisphere of the brain lying directly behind the forehead
+105501644	the anterior part of the frontal lobe
+105501782	that part of the cerebral cortex in either hemisphere of the brain lying below the crown of the head
+105502017	that part of the cerebral cortex in either hemisphere of the brain lying in the back of the head
+105502269	the part of the occipital cortex that receives the fibers of the optic radiation from the lateral geniculate body and is the primary receptive area for vision
+105502585	that part of the cerebral cortex in either hemisphere of the brain lying inside the temples of the head
+105502823	lower or hindmost part of the brain; continuous with spinal cord; (bulb' is an old term for medulla oblongata)
+105503222	an almond-shaped neural structure in the anterior part of the temporal lobe of the cerebrum; intimately connected with the hypothalamus and the hippocampus and the cingulate gyrus; as part of the limbic system it plays an important role in motivation and emotional behavior
+105503632	the anterior portion of the brain; the part of the brain that develops from the anterior part of the neural tube
+105503912	a complex neural structure (shaped like a sea horse) consisting of grey matter and located on the floor of each lateral ventricle; intimately involved in motivation and emotion as part of the limbic system; has a central role in the formation of memories
+105504243	a long curved structure on the medial surface of the cerebral hemispheres; the cortical part of the limbic system
+105504453	the anterior division of the forebrain; the cerebrum and related parts of the hypothalamus
+105504641	the posterior division of the forebrain; connects the cerebral hemispheres with the mesencephalon
+105505014	any of several masses of subcortical grey matter at the base of each cerebral hemisphere that seem to be involved in the regulation of voluntary movement
+105505392	a tail-shaped basal ganglion located in a lateral ventricle of the brain
+105505573	a layer of grey matter in the brain adjacent to the lenticular nucleus
+105505699	a basal ganglion shaped like a lens and including the outer reddish putamen and the inner pale yellow pallidum
+105505951	the inner pale yellow part of the lenticular nucleus
+105506111	the outer reddish part of the lenticular nucleus
+105506232	an oval mass of grey matter located in the caudal part of the subthalamus; associated with the striate body
+105506424	a system of functionally related neural structures in the brain that are involved in emotional behavior
+105506695	the ventral part of the thalamus
+105506823	large egg-shaped structures of grey matter that form the dorsal subdivision of the diencephalon
+105507030	a basal part of the diencephalon governing autonomic nervous system
+105507193	a striped mass of white and grey matter located in front of the thalamus in each cerebral hemisphere; consists of the caudate nucleus and the lenticular nucleus
+105507479	the middle portion of the brain
+105507657	a layer of deeply pigmented grey matter in the midbrain; associated with the striate body; is involved in metabolic disturbances associated with Parkinson's disease and with Huntington's disease
+105507963	an essential visual center between the retina and the striate cortex
+105508116	an essential auditory center in the midbrain
+105508245	the posterior portion of the brain including cerebellum and brainstem
+105508463	the posterior part of the hindbrain in developing vertebrates; forms the medulla oblongata in adults
+105508643	a band of nerve fibers linking the medulla oblongata and the cerebellum with the midbrain
+105508836	the part of the brain continuous with the spinal cord and comprising the medulla oblongata and pons and midbrain and parts of the hypothalamus
+105509136	any fine network (especially one in the body composed of cells or blood vessels)
+105509362	any network of neurons or nuclei that function together to perform some function in the body
+105509583	any histologically identifiable mass of neural cell bodies in the brain or spinal cord
+105509741	a complex neural network in the central core of the brainstem; monitors the state of the body and functions in such processes as arousal and sleep and attention and muscle tone
+105510026	the network in the reticular formation that serves an alerting or arousal function
+105510207	one of four connected cavities in the brain; is continuous with the central canal of the spinal cord and contains cerebrospinal fluid
+105510506	an irregular ventricle between the third ventricle and the central canal of the spinal cord
+105510660	a narrow ventricle in the midplane below the corpus callosum; communicates with the fourth ventricle via the Sylvian aqueduct
+105510847	either of two horseshoe-shaped ventricles one in each cerebral hemisphere; they communicate with the third ventricle via the foramen of Monro
+105511052	a canal connecting the third and fourth ventricles
+105511206	a radial arrangement of nerve fibers connecting different parts of the brain
+105511356	a major part of the central nervous system which conducts sensory and motor nerve impulses to and from the brain; a long tubelike structure extending from the base of the brain through the vertebral canal to the upper lumbar region
+105511758	clear liquid produced in the ventricles of the brain; fills and protects cavities in the brain and spinal cord
+105511987	the section of the nervous system lying outside the brain and spinal cord
+105512183	the part of the nervous system of vertebrates that controls involuntary actions of the smooth muscles and heart and glands
+105512458	largest branch of the brachial plexus; extends down the humerus to the lateral epicondyle where it divides into one branch that goes to the skin on the back of the hand and another that goes to the underlying extensor muscles
+105512782	originates in the thoracic regions of the spinal cord; opposes physiological effects of the parasympathetic: reduces digestive secretions; speeds the heart; contracts blood vessels
+105513130	any of several nerves of the sympathetic part of the autonomic nervous system that innervate viscera and blood vessels
+105513330	originates in the brain stem and lower part of the spinal cord; opposes physiological effects of the sympathetic nervous system: stimulates digestive secretions; slows the heart; constricts the pupils; dilates blood vessels
+105513685	a network of nerves formed by cervical and thoracic spinal nerves and supplying the arm and parts of the shoulder
+105513880	a plexus of nerves supplying the heart and nearby structures
+105514020	a plexus of nerves surrounding the internal carotid artery
+105514158	a nerve plexus lying beneath the sternocleidomastoid muscle
+105514299	a vascular plexus of the cerebral ventricles that regulate intraventricular pressure
+105514483	a small plexus formed by the fifth sacral and coccygeal nerves
+105514627	a plexus of nerves serving the pelvic viscera
+105514760	a plexus of nerves formed by the ventral branches of the first four lumbar nerves
+105514919	a lymphatic plexus located along the lower portion of the aorta and iliac vessels
+105515078	a nerve plexus formed by the ventral divisions of the coccygeal and sacral and lumbar nerves; supplies the lower limbs and perineum and coccygeal area
+105515293	a plexus of autonomic nerves
+105515407	a plexus of unmyelinated fibers and postganglionic autonomic cell bodies in the muscular coat of the esophagus and stomach and intestines
+105515628	an autonomic plexus that accompanies an artery
+105515764	a plexus of nerves serving the teeth
+105515862	a plexus of veins draining the region of the pterygoid muscles and draining into the internal maxillary and anterior facial veins
+105516054	one of two autonomic nerve plexuses in each lung
+105516185	a nerve plexus formed by the 4th and 5th lumbar and 1st, 2nd, 3rd sacral nerves; supplies the pelvic region and lower limbs
+105516386	a large plexus of sympathetic nerves in the abdomen behind the stomach
+105516594	a slight depression in the midline just below the sternum (where a blow can affect the solar plexus)
+105516797	organs and tissues involved in the production and maturation of gametes and in their union and subsequent development as offspring
+105517103	the system that includes all organs involved in reproduction and in the formation and voidance of urine
+105517540	the system for taking in oxygen and giving off carbon dioxide; in terrestrial animals this is accomplished by breathing
+105517824	the passages through which air enters and leaves the body
+105518009	the bronchi and lungs
+105518157	the nose and throat and trachea
+105518353	the body's system of sense organs
+105518558	a system of body parts that together serve some particular purpose
+105518712	the organs and tubes involved in the production and excretion of urine
+105518937	the vessels and tissue that carry or circulate fluids such as blood or lymph or sap through the body of an animal or plant
+105519269	the organs and tissues involved in circulating blood and lymph through the body
+105519626	the system of blood vessels and structures through which blood moves in a fetus
+105519790	a distensible membranous sac (usually containing liquid or gas)
+105519988	a membranous sac for temporary retention of urine
+105520156	entrance or opening to a hollow organ or tube (especially the vaginal opening)
+105520321	the orifice through which urine is discharged
+105520486	either of a pair of thick-walled tubes that carry urine from the kidney to the urinary bladder
+105520671	duct through which urine is discharged in most mammals and which serves as the male genital duct
+105520953	any organ involved in sexual reproduction
+105521180	the reproductive system of females
+105521458	the reproductive system of males
+105521732	external sex organ
+105521923	human external genital organs collectively especially of a female
+105522061	external female sex organs
+105522368	the reproductive organs of a woman
+105522556	external male sex organs
+105522808	the reproductive organs of a man
+105522938	(vertebrates) one of usually two organs that produce ova and secrete estrogen and progesterone
+105523196	hermaphroditic gonad that contains both testicular and ovarian tissue
+105523321	a structure resembling a bag in an animal
+105523718	(radiology) organ intended to receive the therapeutic dose of a radioactive substance
+105523881	(endocrinology) organ most affected by a particular hormone
+105524017	one of the small sacs or saclike dilations in a compound gland
+105524205	a small fluid-filled sac located between movable parts of the body especially at joints
+105524362	a sac or cavity containing fluid especially lymph or cerebrospinal fluid
+105524499	(anatomy) saclike structure in any of various animals (as a marsupial or gopher or pelican)
+105524796	a membranous pouch inside the mouth of many rodents (as a gopher)
+105524919	an external abdominal pouch in most marsupials where newborn offspring are suckled
+105525057	the external pouch that contains the testes
+105525229	a small anatomically normal sac or bladderlike structure (especially one containing fluid)
+105525488	(pathology) an elevation of the skin filled with serous fluid
+105525745	any small spherical group of cells containing a cavity
+105525908	a small tubular cavity containing the root of a hair; small muscles and sebaceous glands are associated with them
+105526100	a vascular body in a mammalian ovary enclosing a developing egg
+105526265	yellow endocrine tissue that forms in a ruptured Graafian follicle following the release of an ovum; it degenerates after a few days unless pregnancy has begun
+105526521	either of a pair of tubes conducting the egg from the ovary to the uterus
+105526736	a hollow muscular organ in the pelvic cavity of females; contains the developing fetus
+105527052	the space inside the uterus between the cervical canal and the Fallopian tubes
+105527210	a spindle-shaped canal extending from the uterus to the vagina
+105527358	the epithelial tissue of the endometrium
+105527471	(pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition
+105527819	the smooth muscle forming the wall of the uterus
+105527943	an artificially made microscopic vesicle into which nucleic acids can be packaged; used in molecular biology as a transducing vector
+105528130	membranous duct connecting the fetus with the placenta
+105528350	the vascular structure in the uterus of most mammals providing oxygen and nutrients for and transferring wastes from the developing fetus
+105528616	the placenta and fetal membranes that are expelled from the uterus after the baby is born
+105528762	the lower part of the female reproductive tract; a moist canal in female mammals extending from the labia minora to the uterus
+105529165	obscene terms for female genitals
+105529287	external parts of the female genitalia
+105529585	a fold of tissue that partly covers the entrance to the vagina of a virgin
+105529799	hymen that is completely closed so that menstrual blood cannot flow out
+105529934	a mound of fatty tissue covering the pubic area in women
+105530107	a liplike structure that bounds a bodily orifice (especially any of the four labiate folds of a woman's vulva)
+105530325	the two outer folds of the vulva
+105530435	the fissure between the labia majora
+105530649	the two inner folds of the vulva
+105530759	the space between the labia minora containing the orifice of the urethra
+105530920	an organ containing erectile tissue
+105531071	a female sexual organ homologous to the penis
+105531280	either of two glands that discharge a component of seminal fluid into the urethra; homologous to Bartholin's gland in the female
+105531510	either of the two posterior vestibular glands that secrete a lubricating mucus; homologous to Cowper's gland in the male
+105531713	mucus-secreting glands in the mucosa of the uterine cervix
+105531894	any of the numerous long convoluted tubules in the testis which are the sites where spermatozoa mature
+105532081	a gland in which gametes (sex cells) are produced
+105532266	one of the two male reproductive glands that produce spermatozoa and secrete androgens
+105532751	a man's testicles (from Cockney rhyming slang: cobbler's awl rhymes with ball)
+105532903	the reproductive organs of a man
+105533042	a testis that fails to move into the scrotum as the male fetus develops
+105533279	a convoluted tubule in each testis; carries sperm to vas deferens
+105533458	network of tubules carrying sperm from the seminiferous tubules to the vasa efferentia
+105533621	the several highly convoluted tubules that lead from the rete testis to the vas deferens and form the head of the epididymis
+105533826	a duct that carries spermatozoa from the epididymis to the ejaculatory duct
+105534035	the male sex organ (member' is a euphemism)
+105534354	obscene terms for penis
+105534493	an abnormally small penis
+105534590	a fold of skin covering the tip of the penis
+105534718	a fold of skin covering the tip of the clitoris
+105534849	the efferent duct of the testis in man
+105535022	a part of the seminal duct formed by the duct from the seminal vesicle and the vas deferens; passes through the prostate gland
+105535230	either of a pair of glands located on either side of the male urinary bladder that open into the vas deferens and that secrete many components of semen during ejaculation
+105535481	a structure resembling a cord that suspends the testis within the scrotum and contains the vas deferens and other vessels and nerves
+105535693	any organ involved in the process of respiration
+105535878	organ in many arachnids containing many thin folds of membrane resembling the leaves of a book
+105536028	a tiny sac for holding air in the lungs; formed by the terminal dilation of tiny air passageways
+105536237	either of the two cavities lying between the floor of the cranium and the roof of the mouth and extending from the face to the pharynx
+105536487	cavity forming the upper part of the pharynx
+105536645	cavity formed by the pharynx at the back of the mouth
+105536792	the lower part of the pharynx
+105536919	a collection of lymphatic tissue in the throat behind the uvula (on the posterior wall and roof of the nasopharynx)
+105537362	a cartilaginous structure at the top of the trachea; contains elastic vocal cords that are the source of the vocal tone in speech
+105537725	either of two small cartilages at the back of the larynx to which the vocal folds are attached
+105537929	the largest cartilage of the larynx
+105538062	either of two pairs of folds of mucous membrane projecting into the larynx
+105538290	either of the upper two vocal cords that are not involved in vocalization
+105538504	either of the two lower vocal folds that come together to form the glottis; produce a vocal tone when they are approximated and air from the lungs passes between them
+105538794	body structure given shape by cartilage
+105539012	a duct with cartilaginous walls
+105539144	either of the two main branches of the trachea
+105539299	any of the smallest bronchial ducts; ending in alveoli
+105539447	membranous tube with cartilaginous rings that conveys inhaled air from the larynx to the bronchi
+105539683	one of the tubules forming the respiratory system of most insects and many arachnids
+105539858	tubular passage of mucous membrane and muscle extending about 8.3 meters from mouth to anus; functions in digestion and elimination
+105540274	the alimentary canal (especially of an embryo or a coelenterate)
+105540428	any gland having ducts that pour secretions into the digestive tract
+105540577	any of three pairs of glands in the mouth and digestive system that secrete saliva for digestion
+105540845	a large salivary gland that produces 50% of daytime saliva; in human beings it is located in front of and below each ear
+105541025	a small salivary gland that produces mucin (the viscous component of saliva); in human beings it is located on either side of the mouth under the tongue
+105541268	a salivary gland inside the lower jaw on either side that produces most of the nocturnal saliva; discharges saliva into the mouth under the tongue
+105541581	the passage between the pharynx and the stomach
+105541807	the short part of the esophagus extending downward from the diaphragm to the stomach
+105541966	the part of the alimentary canal between the stomach and the anus
+105542211	the caudal part of the alimentary canal in vertebrate embryos
+105542345	the longest part of the alimentary canal; where digestion is completed
+105542588	the part of the small intestine between the stomach and the jejunum
+105542728	a small circular opening between the stomach and the duodenum
+105542880	the part of the small intestine between the duodenum and the ileum
+105543000	the part of the small intestine between the jejunum and the cecum
+105543117	beginning with the cecum and ending with the rectum; includes the cecum and the colon and the rectum; extracts moisture from food residues which are later excreted as feces
+105543502	the part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they are excreted
+105543811	an abnormal enlargement of the colon; can be congenital (as in Hirschsprung's disease) or acquired (as when children refuse to defecate)
+105544003	the cavity in which the large intestine begins and into which the ileum opens
+105544271	valve between the ileum of the small intestine and the cecum of the large intestine; prevents material from flowing back from the large to the small intestine
+105544491	the part of the large intestine that extends across the abdominal cavity and joins the ascending to the descending colon
+105544693	the part of the large intestine that ascends from the cecum to the transverse colon
+105544876	the part of the large intestine that descends from the transverse colon to the sigmoid colon
+105545050	the s-shaped curve between the descending colon and the rectum
+105545209	a vestigial process that extends from the lower end of the cecum and that resembles a small pouch
+105545439	the terminal section of the alimentary canal; from the sigmoid flexure to the anus
+105545649	the excretory opening at the end of the alimentary canal
+105545848	vulgar slang for anus
+105545971	a congenital defect of the anus; there is partial or complete obstruction of the anal opening
+105546127	the general region between the anus and the genital organs
+105546258	the upper part of the human body or the front part of the body in animals; contains the face and brains
+105546645	the part of the head between the ears
+105546771	the head of a human being
+105547003	a head shaped like a bullet
+105547087	informal terms for a human head
+105547228	the top of the head
+105547350	the shaved crown of a monk's or priest's head
+105547467	the muscle and aponeurosis and skin covering the cranium
+105547580	the skin that covers the top of the head
+105547754	the bony skeleton of the head of vertebrates
+105548040	the dome of the skull
+105548146	the part of the skull that encloses the brain
+105548609	back part of the head or skull
+105548730	the front part of the head or skull (including the forehead)
+105548864	the large cranial bone forming the front part of the cranium: includes the upper part of the orbits
+105549142	either prominence of the frontal bone above each orbit
+105549278	either of two skull bones between the frontal and occipital bones and forming the top and sides of the cranium
+105549505	a saucer-shaped membrane bone that forms the back of the skull
+105549685	prominence on the outer surface of the occipital bone
+105549826	process of the temporal bone behind the ear at the base of the skull
+105550049	extends from the base of the temporal bone
+105550172	two bony processes descending from the body of the sphenoid bone
+105550319	a protuberance on a bone especially for attachment of a muscle or ligament
+105550526	an immovable joint (especially between the bones of the skull)
+105550810	a joint so articulated as to move freely
+105551058	corresponds to the bregma when bones have ossified
+105551174	the irregularly shaped area on either side of the cranium where the frontal bone and the anterior tip of the parietal bone and the temporal bone and the greater wing of the sphenoid bone meet; corresponds to the pterion when bones have ossified
+105551550	the suture between the parietal and frontal bones of the skull
+105551711	the suture between two halves of the frontal bone (usually obliterated by the age of 6)
+105551897	the suture between the two maxillae of the upper jawbone
+105552065	the suture between the two nasal bones
+105552208	the suture between the occipital and parietal bones
+105552358	the suture between the occipital and the temporal bones; a continuation of the lamboid suture
+105552539	the suture between the parietal and the temporal bones
+105552680	the suture uniting the two parietal bones
+105552845	any membranous gap between the bones of the cranium in an infant or fetus
+105553072	a natural opening or perforation through a bone or a membranous structure
+105553244	the small opening (on both the right and left sides) that connects the third ventricle in the diencephalon with the lateral ventricle in the cerebral hemisphere
+105553512	the large opening at the base of the cranium through which the spinal cord passes
+105553673	the part of the skull of a vertebrate that frames the mouth and holds the teeth
+105553931	a jaw
+105554016	a slender process of the temporal bone that strengthens the zygomatic arch
+105554173	the part of an organism (human or animal) that connects the head to the rest of the body
+105554630	an external body part consisting of feathers or hair about the neck of a bird or other animal
+105554782	(paleontology) a bony plate that curves upward behind the skull of many ceratopsian dinosaurs
+105554946	a thick short powerful neck
+105555029	the back side of the neck
+105555141	the passage to the stomach and lungs; in the front part of the neck below the chin and above the collarbone
+105555537	the passage between the back of the mouth and the pharynx
+105555665	an abnormal passage leading from a suppurating cavity to the body surface
+105555836	a surgically created shunt (usually around a damaged part)
+105555947	shunt that is created surgically between the portal vein and the inferior vena cava so that blood from the abdominal organs can bypass the liver
+105556154	a passage by which a bodily fluid (especially blood) is diverted from one channel to another
+105556359	a cavity having the shape of a tube
+105556473	the part of the body between the neck and the upper arm
+105556694	a ball-and-socket joint between the head of the humerus and a cavity of the scapula
+105556983	a large triangular muscle covering the shoulder joint and serving to abduct and flex and extend and rotate the arm
+105557209	the hollow under the arm where it is joined to the shoulder
+105557463	the body excluding the head and neck and limbs
+105557963	any of several muscles of the trunk
+105558127	muscles that rotate the scapula and elevate the rib cage
+105558321	skeletal muscle that draws the rib cage backward and downward
+105558541	a thin quadrilateral muscle at the junction of the thoracic and lumbar regions; acts to counteract the pull of the diaphragm on the ribs to which it is attached
+105558775	a thin quadrilateral muscle of the upper and dorsal part of the thorax; acts to elevate the upper ribs
+105558951	either the left or right half of a body
+105559127	the chest of a woman
+105559250	the chest of a man
+105559344	either of two large muscles of the chest
+105559572	a skeletal muscle that adducts and rotates the arm
+105559739	a skeletal muscle that draws down the scapula or raises the ribs
+105559920	muscles between the ribs; they contract during inspiration
+105560100	any skeletal muscle that draws a body part down
+105560240	the part of the human torso between the neck and the diaphragm or the corresponding part in other vertebrates
+105560682	the cavity in the vertebrate body enclosed by the ribs between the diaphragm and the neck and containing the lungs and heart
+105560921	the front of the trunk from the neck to the abdomen
+105561119	a person's breast or chest
+105561251	the middle region of the body of an arthropod between the head and the abdomen
+105561401	the bony enclosing wall of the chest
+105561530	the line formed by a groove between two parts (especially the separation between a woman's breasts)
+105561684	ducts of the mammary gland that carry milk to the nipple
+105561822	milk-secreting organ of female mammals
+105562038	either of two soft fleshy milk-secreting glandular organs on the chest of a woman
+105562286	the small projection of a mammary gland
+105562437	small circular area such as that around the human nipple or an inflamed area around a pimple or insect bite
+105562650	small space in a tissue or body part such as the area between veins on a leaf or an insect's wing
+105562800	one of many small glands of the uterine cervix that secrete mucus
+105562927	a gland that opens into the vestibule of the vagina; secretions lubricate the vagina during coitus
+105563106	the middle area of the human torso (usually in front)
+105563321	the narrowing of the body between the ribs and hips
+105563473	a very slender waist
+105563550	a protruding abdomen
+105563704	slang for a paunch
+105563837	excess fat around the waistline
+105563958	either side of the body below the waist and above the thigh
+105564105	the hip and buttock and upper thigh in human beings
+105564228	a scar where the umbilical cord was attached
+105564576	the region of the body of a vertebrate between the thorax and the pelvis
+105564972	the muscles of the abdomen
+105565133	the back of the body of a vertebrate or any analogous surface (as the upper or outer surface of an organ or appendage or part)
+105565356	the soft belly or underside of an animal's body
+105565472	a diagonally arranged abdominal muscle on either side of the torso
+105565711	a flat muscle with transverse fibers that forms the anterior and lateral walls of the abdominal cavity
+105565978	the cavity containing the major viscera; in mammals it is separated from the thorax by the diaphragm
+105566188	the lower part of the abdomen just above the external genital organs
+105566350	the posterior part of a human (or animal) body from the neck to the end of the spine
+105566656	the slender part of the back
+105566755	a broad flat muscle on either side of the back
+105566889	the fleshy part of the human body that you sit on
+105567360	either of the two large fleshy masses of muscular tissue that form the human rump
+105567541	an external body part that projects from the body
+105567877	one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper
+105568264	the part of a limb or tooth that remains after the rest is removed
+105568420	a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle
+105569023	the leg from the knee to foot
+105569140	a structure in animals that is similar to a human leg and used for locomotion
+105569340	informal terms for the leg
+105569467	a leg bowed outward at the knee (or below the knee)
+105569648	you own legs
+105569794	long thin legs
+105569882	the part of the leg between the hip and the knee
+105570228	the upper side of the thighs of a seated person
+105570389	the part of the human leg between the knee and the ankle
+105570535	the front part of the human leg between the knee and the ankle
+105570667	the extremity of the limb in vertebrates
+105570899	the part of the leg of a human being below the ankle joint
+105571403	a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb
+105571862	the arm from the elbow to the fingertips
+105571956	the part of the superior limb between the elbow and the wrist
+105572223	the (prehensile) extremity of the superior limb
+105572697	a hand with the fingers clenched in the palm (as for hitting)
+105572825	large strong hand (as of a fighter)
+105572970	the hand that is on the right side of the body
+105573181	the hand that is on the left side of the body
+105573329	the inner surface of the hand from the wrist to the base of the fingers
+105573570	the fleshy area of the palm at the base of the thumb
+105573730	a finger or toe in human beings or corresponding body part in other vertebrates
+105573999	the fifth digit; the little finger or little toe
+105574137	any of the terminal members of the hand (sometimes excepting the thumb)
+105574552	that part of a limb that is farthest from the torso
+105574750	the end (tip) of a finger
+105574850	the thick short innermost digit of the forelimb
+105575014	the finger next to the thumb
+105575122	the third finger (especially of the left hand)
+105575237	the second finger; between the index finger and the ring finger
+105575360	the finger farthest from the thumb
+105575508	arises from the sacral plexus and passes about halfway down the thigh where it divides into the common peroneal and tibial nerves
+105575737	one of a pair of nerves that originate from lumbar nerves and supply the muscles and skin of the anterior part of the thigh
+105575982	a branch of the femoral nerve that supplies cutaneous branches to the inner aspect of the leg and foot
+105576183	one of a pair of nerves that arises from cervical spinal roots and passes down the thorax to innervate the diaphragm and control breathing
+105576400	a nerve running along the inner side of the arm and passing near the elbow; supplies intrinsic muscles of the hand and the skin of the medial side of the hand
+105576686	any of the 31 pairs of nerves emerging from each side of the spinal cord (each attached to the cord by two roots: ventral and dorsal)
+105577058	any of eight pairs of spinal nerves emerging from the cervical section of the spinal cord
+105577208	the lowest pair of spinal nerves
+105577321	any of five pairs of spinal nerves emerging from the lumbar section of the spinal cord
+105577466	any of five pairs of spinal nerves emerging from the sacral region of the spinal cord
+105577610	any of twelve pairs of spinal nerves emerging from the thoracic region of the spinal cord
+105577760	any one of three large skeletal muscles that form the buttock and move the thigh
+105578027	the outermost of the three gluteal muscles
+105578131	the middle of the three gluteal muscles
+105578231	the innermost of the three gluteal muscles
+105578335	one of the tendons at the back of the knee
+105578470	a ring of muscle that contracts to close an opening
+105578763	the valve between the distal end of the esophagus and the stomach; the physiological sphincter at the esophagogastric junction
+105578972	the junction between the esophagus and the stomach epithelium
+105579132	a sphincter that is not recognizable at autopsy because its resting arrangement cannot be distinguished from adjacent tissue
+105579344	the sphincter muscle of the anus
+105579535	an external ring of striated muscle surrounding the anus
+105579688	an internal ring of smooth muscle formed by circular fibers of the rectum
+105579858	a striated sphincter muscle that constricts the urethra
+105580027	the sphincter muscle of the urinary bladder; made up of a thickened muscular layer of bladder around the urethral opening
+105580260	the smooth muscle sphincter of the common bile duct
+105580413	the smooth muscle sphincter of the main pancreatic duct
+105580571	a ring of smooth muscle surrounding the iris
+105580730	the sphincter muscle of the pylorus that separates the stomach from the duodenum
+105580937	any of several muscles that cause an attached structure to become tense or firm
+105581105	a small muscle in the middle ear that tenses to protect the eardrum
+105581233	hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella
+105581526	the longest and thickest bone of the human skeleton; extends from the pelvis to the knee
+105581782	one of the bony prominences developed near the upper extremity of the femur to which muscles are attached
+105581963	the muscular back part of the shank
+105582150	the middle of the calf; half way between the knee and ankle
+105582264	the muscle in the back part of the leg that forms the greater part of the calf; responsible for the plantar flexion of the foot
+105582493	either of two muscles of the abdomen and pelvis that flex the trunk and rotate the thigh
+105582633	any of several muscles of the upper back that help move the shoulder blade
+105582816	rhomboid muscle that draws the scapula toward the spinal column
+105583005	rhomboid muscle that draws the scapula toward the vertebral column and slightly upward
+105583213	a broad flat muscle in the calf of the leg under the gastrocnemius muscle
+105583374	either of two flat muscles that extend from the upper vertebrae to the base of the skull and serve to rotate or flex or extend the head and neck
+105583591	muscle of the lower leg that is involved in moving the foot
+105583705	muscle descending from the sphenoid bone to the lower jaw
+105583825	a more or less rounded anatomical body or mass
+105584052	a foot afflicted with a fallen arch; abnormally flattened and spread out
+105584204	a curved bony structure supporting or enclosing organs (especially the inner sides of the feet)
+105584458	the short lateral arch formed by the heads of the metatarsals
+105584581	the arch of the foot
+105584691	an instep flattened so the entire sole rests on the ground
+105584821	the underside of the foot
+105584935	the tip of a toe
+105585041	one of the digits of the foot
+105585285	forepart of a hoof
+105585372	the first largest innermost toe
+105585497	a deformed toe which is bent in a clawlike arch
+105585600	the fifth smallest outermost toe
+105585726	the back part of the human foot
+105585882	a freely moving joint in which the articulations allow only gliding motions
+105586073	a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus
+105586371	a large tendon that runs from the heel to the calf
+105586542	an encircling or ringlike structure
+105586684	the biceps muscle of the thigh; it flexes the knee and rotates the leg laterally
+105586870	any skeletal muscle having two origins (but especially the muscle that flexes the forearm)
+105587067	a muscle that flexes and supinates the forearm
+105587235	any skeletal muscle having three origins (but especially the triceps brachii)
+105587384	the skeletal muscle having three origins that extends the forearm when it contracts
+105587575	hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped
+105587917	any of the joints between the phalanges of the fingers or toes
+105588047	a freely moving joint in which the bones are so articulated as to allow extensive movement in one plane
+105588293	a point on the elbow where the ulnar nerve passes near the surface; a sharp tingling sensation results when the nerve is knocked against the bone
+105588560	a thin plate or layer (especially of bone or mineral)
+105588792	lamina of the vertebral arch; the flattened posterior part of the vertebral arch from which the spinous process extends
+105588980	any flat platelike body structure or part
+105589145	any rigid body structure composed primarily of keratin
+105589324	horny plate covering and protecting part of the dorsal surface of the digits
+105589582	the dead skin at the base of a fingernail or toenail
+105589688	the crescent-shaped area at the base of the human fingernail
+105589841	the formative tissue at the base of a nail
+105589955	the body substance in which tissue cells are embedded
+105590163	a sheet or band of fibrous connective tissue separating or binding together muscles and organs etc
+105590340	any of the deeper and thicker fascia that attach muscles to bones; resemble flattened tendons
+105590509	(surgery) tissue or organ transplanted from a donor to a recipient; in some cases the patient can be both donor and recipient
+105590808	tissue that is taken from one site and grafted to another site on the same person
+105591036	tissue or organ transplanted from a donor of the same species but different genetic makeup; recipient's immune system must be suppressed to prevent rejection of the graft
+105591274	tissue from an animal of one species used as a temporary graft (as in cases of severe burns) on an individual of another species
+105591472	the connective tissue that forms a scar; consists of fibroblasts in new scars and collagen fibers in old scars
+105591658	a fibrous band of scar tissue that binds together normally separate anatomical structures
+105591802	the supporting tissue of an organ (as opposed to parenchyma)
+105591915	the nail at the end of a finger
+105592040	the nail of the thumb
+105592136	the nail at the end of a toe
+105592255	toenail having its free tip or edges embedded in the surrounding flesh
+105592396	a loose narrow strip of skin near the base of a fingernail; tearing it produces a painful sore that is easily infected
+105592578	a joint between the distal end of the radius and the proximal row of carpal bones
+105592855	a joint of a finger when the fist is closed
+105593033	the hard structure (bones and cartilages) that provides a frame for the body of an animal
+105593315	any structure created by the skeleton of an organism
+105593649	any tubular or pillar-like supporting structure in the body
+105593761	a skeletal support to which the forelimbs of vertebrates are attached
+105593930	the bony arch formed by the collarbones and shoulder blades in humans
+105594096	the internal skeleton; bony and cartilaginous structure (especially of vertebrates)
+105594409	the exterior protective or supporting structure or shell of many animals (especially invertebrates) including bony or horny parts such as nails or scales or hoofs
+105594684	the part of the skeleton that includes the pectoral girdle and the pelvic girdle and the upper and lower limbs
+105594938	the part of the skeleton that includes the skull and spinal column and sternum and ribs
+105595181	a skeletal muscle of the trunk or head
+105595278	one of two processes that extend from each vertebra and provide the point of articulation for the ribs
+105595464	a structure arising ventrally from a vertebral centrum and enclosing the caudal blood vessels
+105595647	a structure arising dorsally from a vertebral centrum and enclosing the spinal cord
+105595824	the series of vertebrae forming the axis of the skeleton and protecting the spinal cord
+105596201	one of 7 vertebrae in the human spine located in the neck region
+105596396	the 1st cervical vertebra
+105596490	the 2nd cervical vertebra; serves as a pivot for turning the head
+105596641	a toothlike process at the back of 2nd vertebra of the neck
+105596782	one of 12 vertebrae in the human vertebral column; thoracic vertebrae extend from the seventh cervical vertebra down to the first lumbar vertebra
+105597028	one of 5 vertebrae in the human vertebral column; lumbar vertebrae extend from the twelfth thoracic vertebra down to the sacral vertebrae
+105597246	one of 5 vertebrae in the human spine that fuse in the adult to form the sacrum
+105597406	one of 4 vertebrae in the human coccyx
+105597546	a muscle in the thigh that helps to rotate the leg into the sitting position assumed by a tailor; the longest muscle in the human body
+105597794	any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing
+105598016	either of two roots of the spinal nerves
+105598121	one of two thick muscles running from the sternum and clavicle to the mastoid and occipital bone; turns head obliquely to the opposite side; when acting together they flex the neck and extend the head
+105598495	either of two muscles in the shoulder region that move the shoulders and arms
+105598694	teres muscle that moves the arm and rotates it medially
+105598851	teres muscle that adducts the arm and rotates it laterally
+105599011	either of two skeletal muscle in each leg arising from the tibia; provides for movement of the foot
+105599258	a muscle running from the tibia to the first metatarsal and cuneiform bones
+105599416	a deep muscle of the leg
+105599525	either of two flat triangular muscles of the shoulder and upper back that are involved in moving the shoulders and arms
+105599754	one of the first seven ribs in a human being which attach to the sternum
+105599881	a riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing)
+105600057	the cartilages that connect the sternum and the ends of the ribs; its elasticity allows the chest to move in respiration
+105600259	the end of a long bone; initially separated from the main bone by a layer of cartilage that eventually ossifies so the parts become fused
+105600488	the main (mid) section of a long bone
+105600625	the growing part of a long bone between the diaphysis and the epiphysis
+105600772	a bone in the arm
+105600936	bone extending from the shoulder to the elbow
+105601073	the outer and slightly shorter of the two bones of the human forearm
+105601231	the inner and longer of the two bones of the human forearm
+105601409	process of the ulna that forms the outer bump of the elbow and fits into the fossa of the humerus when the arm is extended
+105601626	the part of the hand between the carpus and phalanges
+105601792	a bone of the leg
+105601956	the outer and thinner of the two bones of the human leg between the knee and ankle
+105602122	the inner and thicker of the two bones of the human leg between the knee and ankle
+105602323	the skeleton of the human foot between the toes and the tarsus; the corresponding part of the foot in birds or of the hind foot in quadrupeds
+105602577	the part of the foot of a vertebrate between the metatarsus and the leg; in human beings the bones of the ankle and heel collectively
+105602838	(anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)
+105603286	a freely moving joint in which a sphere on the head of one bone fits into a rounded cavity in the other bone
+105603592	the rounded end of a bone that fits into a rounded cavity in another bone to form a joint
+105603759	the ball-and-socket joint between the head of the femur and the acetabulum
+105603979	the cup-shaped hollow in the hipbone into which the head of the femur fits to form a ball-and-socket joint
+105604197	a structure shaped like a funnel in the outlet of the kidney into which urine is discharged before passing into the ureter
+105604406	the structure of the vertebrate skeleton supporting the lower limbs in humans and the hind limbs or corresponding parts in other vertebrates
+105604805	the space bounded by the bones of the pelvis and containing the pelvic viscera
+105604943	a freely moving joint in which movement is limited to rotation
+105605191	the angle formed by the inner sides of the legs where they join the human trunk
+105605349	the region of the hips and groin and lower abdomen
+105605489	the crease at the junction of the inner part of the thigh with the trunk together with the adjacent region and often including the external genitals
+105605735	any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail)
+105605902	the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals
+105606462	informal terms for the nose
+105606623	informal term for the nose
+105606737	a nose curved downward like the beak of a hawk
+105606839	the human nose (especially when it is large)
+105606958	the hard ridge that forms the upper part of the nose
+105607153	a short nose; flattened and turned up at the end
+105607256	a nose with a prominent slightly aquiline bridge
+105607372	the protruding part of the lower jaw
+105607524	a fold of fatty tissue under the chin
+105607629	a small natural hollow in the cheek or chin
+105607785	a long thin lower jaw
+105607864	either one of the two external openings to the nasal cavity in the nose
+105608025	either one of the two posterior openings at the back of the nasal cavity leading to the nasopharynx
+105608186	any of the openings to the nasal cavities that allow air to flow through the cavities to the pharynx
+105608392	the front of the human head from the forehead to the chin and ear to ear
+105608953	the part of an animal corresponding to the human face
+105609112	the human face (kisser' and smiler' and mug' are informal terms for face' and phiz' is British)
+105609417	a large fat human face
+105609513	the characteristic parts of a person's face: eyes and nose and mouth and chin
+105609887	any of the skeletal muscles of the face
+105610059	muscle extending from the temporal fossa to the coronoid process of the mandible; acts to raise the mandible and close the jaws
+105610303	the part of the face above the eyes
+105610438	the flat area on either side of the forehead
+105610590	either side of the face below the eyes
+105610737	a fullness and looseness of the flesh of the lower cheek and jaw (characteristic of aging)
+105610915	the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth
+105611097	any long raised border or margin of a bone or tooth or membrane
+105611230	a ridge on the frontal bone above the eye socket
+105611405	(pathology) an abnormal outgrowth or enlargement of some part of the body
+105611609	an abnormal growth or excrescence (especially a warty excrescence on the valves of the heart)
+105611777	the remains of a body part that was functional at an earlier stage of life
+105612009	(anatomy) a layer (a lining or membrane) that encloses a structure
+105612189	a wall of the abdomen
+105612290	(Middle Ages) one of the four fluids in the body whose balance was believed to determine your emotional and physical state
+105612609	the membrane surrounding the heart
+105612705	a supporting structure of the shoulder consisting of the muscles and tendons that attach the arm to the shoulder joint and enable the arm to move
+105612947	the center in the medulla oblongata and pons that integrates sensory information about the level of oxygen and carbon dioxide in the blood and determines the signals to be sent to the respiratory muscles
+105613253	(biology) tiny fibers that are seen in cell division; the fibers radiate from two poles and meet at the equator in the middle
+105613517	a mass of cytoplasm containing several nuclei and enclosed in a membrane but no internal cell boundaries (as in muscle fibers)
+105613699	a thin membrane lining the closed cavities of the body; has two layers with a space between that is filled with serous fluid
+105614002	a thin membrane in synovial (freely moving) joints that lines the joint capsule and secretes synovial fluid
+105614184	whitish cover of the testicle
+105614283	whitish tunic
+105614388	an enveloping or covering membrane or layer of body tissue
+105614556	a cavity in the mesoderm of an embryo that gives rise in humans to the pleural cavity and pericardial cavity and peritoneal cavity
+105614756	(anatomy) any structure that resembles a horn in shape
+105614881	(anatomy) any structure that resembles a crown in shape
+105615026	(anatomy) a fold or wrinkle or crease
+105615157	(anatomy) a fold of dura mater that covers the cerebellum and supports the occipital lobes of the cerebrum
+105615357	a large connective tissue cell that contains histamine and heparin and serotonin which are released in allergic reactions or in response to injury or inflammation
+105615618	an undifferentiated cell whose daughter cells may differentiate into other cell types (such as blood cells)
+105615799	blood forming stem cells in the bone marrow; T cells and B cells arise from these stem cells
+105615961	any cell that has a specific receptor for an antigen or antibody or hormone or drug, or is the focus of contact by a virus or phagocyte or nerve fiber etc.
+105616174	a point one third of the way along a line drawn from the hip to the umbilicus; the point of maximum sensitivity in acute appendicitis
+105616370	thick membrane around the mammalian ovum; can be penetrated by one sperm in the fertilization process; usually remains around the fertilized egg until it is implanted in the wall of the uterus
+105616623	a cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response
+105616866	receptors postulated to exist on nerve cell membranes of the sympathetic nervous system in order to explain the specificity of certain agents that affect only some sympathetic activities (such as vasoconstriction and relaxation of intestinal muscles and contraction of smooth muscles)
+105617279	receptors postulated to exist on nerve cell membranes of the sympathetic nervous system in order to explain the specificity of certain agents that affect only some sympathetic activities (such as vasodilation and increased heart beat)
+105617639	a small recess in the wall of the pharynx
+105617763	a narrow elongated opening or fissure between two symmetrical parts
+105617953	the space between the two true vocal folds
+105618120	the opening between the false vocal folds
+105618275	either (free) end of a eukaryotic chromosome
+105618489	thin trapezoidal bone of the skull forming the posterior and inferior parts of the nasal septum
+105618674	any of the tiny soft bones found in the sutures between cranial bones
+105618817	(anatomy) any encircling or beltlike structure
+105618976	small beltlike zone
+105619057	that which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason
+105619467	an informal British expression for head or mind
+105619605	an abstract mental location
+105619850	knowledge that is available to anyone
+105620024	anything generally known to everyone
+105620141	the body of ideas that determine the knowledge that is intellectually certain at any particular time
+105620314	knowledge of some recent fact or event that has become so commonly known that it has lost its original pertinence
+105620489	public awareness
+105620592	information that has become public
+105620826	a young mind not yet affected by experience (according to John Locke)
+105620953	(psychoanalysis) the conscious mind
+105621057	that part of the mind wherein psychic activity takes place of which the person is unaware
+105621261	psychic activity just below the level of awareness
+105621408	(psychoanalysis) that part of the unconscious mind that acts as a conscience
+105621577	(psychoanalysis) primitive instincts and energies underlying all psychic activity
+105621745	the intellectual ability to penetrate deeply into ideas
+105621958	the mental ability to understand and discriminate between relations
+105622259	good discernment (either visually or as if visually)
+105622440	sound practical judgment
+105622811	reasoned and reasonable judgment
+105622930	common sense
+105623041	good judgment in avoiding trouble or accidents on the road
+105623156	good judgment
+105623283	knowing how to avoid embarrassment or distress
+105623532	discretion in keeping secret information
+105623652	judiciousness in avoiding harm or danger
+105623875	lacking good judgment
+105624029	possession of the qualities (especially mental qualities) required to do something or get something done
+105624569	the (technical) knowledge and skill required to do something
+105624738	a supply of ways of accomplishing something
+105624890	ability to apply knowledge or experience or understanding or common sense and insight
+105625093	the ability to lead
+105625250	the leadership ability of a military general
+105625389	the ability to comprehend; to understand and profit from experience
+105625839	mental ability
+105626076	the capacity to understand a broad range of topics
+105626390	intellectual breadth
+105626632	knowledge and intellectual ability
+105626842	intelligence that is manifested in the performance of tasks requiring little or no use of language
+105627009	intelligence in the use and comprehension of language
+105627128	intelligence as revealed by an ability to give correct responses without delay
+105627336	intelligence as revealed by quickness and alertness of mind
+105627526	unusual mental ability
+105627686	a sudden or striking display of brilliance
+105627833	(music) brilliance of display (as in the performance of music)
+105627973	a brilliant display of wit
+105628077	intelligence achieved far ahead of normal developmental schedules
+105628251	a quick and penetrating intelligence
+105628537	an acute intelligence (an analogy based on the well-known sharpness of steel traps)
+105628738	intelligence as manifested in being quick and witty
+105628961	shrewdness as demonstrated by being skilled in deception
+105629222	intelligence manifested by being astute (as in business dealings)
+105629591	shrewdness shown by keen insight
+105629729	shrewdness demonstrated by knowledge
+105629859	a shrewd ability to survive in a dangerous urban environment
+105629979	the basic human power of intelligent thought and perception
+105630239	inherent ability
+105630400	the ability to speak two languages colloquially
+105630506	inborn pattern of behavior often responsive to specific stimuli
+105630739	the power to learn or retain knowledge; in law, the ability to understand the facts and significance of your behavior
+105630964	an aptitude that may be developed
+105631227	the capability of becoming perfect
+105631411	the limit of capability
+105631601	the range of vision
+105631720	ability that is inherited
+105631825	natural abilities or qualities
+105632037	a special way of doing something
+105632244	a natural talent
+105632398	powerfully impressive talent
+105632483	the ability to create
+105632849	the intellectual productivity of a creative imagination
+105632993	passing above and beyond ordinary bounds
+105633156	exceptional creative ability
+105633248	the formation of a mental image of something that is not perceived as real and is not present to the senses
+105633662	a place that exists only in imagination; a place said to exist in fictional or religious writings
+105634307	the place where you are after you die
+105634401	(Welsh mythology) the other world; land of fairies
+105634550	(Norse mythology) the heavenly dwelling of the Norse gods (the Aesir) and slain war heroes
+105634712	according to legend, an island in the Atlantic Ocean that Plato said was swallowed by an earthquake
+105634866	a land imagined by Jonathan Swift where everything was enormous
+105635005	an imaginary place where you say people are when they seem optimistically out of touch with reality
+105635168	(Middle Ages) an imaginary land of luxury and idleness
+105635297	an imaginary place of great wealth and opportunity; sought in South America by 16th-century explorers
+105635465	the enchanted realm of fairies
+105635568	the abode of God and the angels
+105635814	the place where the just enjoy the peace of heaven after death
+105635976	phrases used to refer to Heaven
+105636186	(Greek mythology) the abode of the blessed after death
+105636348	a place or condition of ideal happiness
+105636441	a beautiful garden where Adam and Eve were placed at the Creation; when they disobeyed and ate the forbidden fruit from the tree of knowledge of good and evil they were driven from their paradise (the fall of man)
+105636722	(Christianity) the abode of righteous souls after death
+105636887	the goal towards which Christians strive
+105636987	(Norse mythology) the hall in which the souls of heros slain in battle were received by Odin
+105637164	(religion) the world of the dead
+105637465	(Christianity) the abode of Satan and the forces of evil; where sinners suffer eternal punishment
+105637928	a land imagined by Jonathan Swift where intelligent horses ruled the Yahoos
+105638060	a place where the wicked are punished after death
+105638192	a place of eternal fire envisaged as punishment for the damned
+105638322	a land imagined by Jonathan Swift where impractical projects were pursued and practical projects neglected
+105638517	a land imagined by Jonathan Swift that was inhabited by tiny people
+105638657	(theology) in Roman Catholicism, the place of unbaptized but innocent or righteous souls (such as infants and virtuous individuals)
+105638859	an imaginary place for lost or neglected things
+105638958	(Norse mythology) the abode of humans in Norse mythology
+105639087	a pleasing country existing only in dreams or imagination
+105639232	(theology) in Roman Catholic theology the place where those who have died in a state of grace undergo limited torment to expiate their sins
+105639464	an imaginary kingdom in central Europe; often used as a scene for intrigue and romance
+105639624	any imaginary place where spiritual beings (demons or fairies or angels or the like) abide
+105639839	an imaginary place considered to be perfect or ideal
+105639958	an imaginary realm of marvels or wonders
+105640055	imagination or fantasy; held by Coleridge to be more casual and superficial than true imagination
+105640291	imagination unrestricted by reality
+105640577	a fantastic but vain hope (from fantasies induced by the opium pipe)
+105640772	an imaginary life lived in a fantasy world
+105640889	something existing solely in the imagination (but often mistaken for reality)
+105641073	a prolonged fantasy world invented by children; can have a definite geography and language and history
+105641230	the creation of something in the mind
+105641517	the power of creative imagination
+105641705	the ability to deal resourcefully with unusual problems
+105641904	a collection of resources
+105642064	the invention of a scheme or story to suit some purpose
+105642302	the faculty of contriving; inventive skill
+105642458	the ability to think and act independently

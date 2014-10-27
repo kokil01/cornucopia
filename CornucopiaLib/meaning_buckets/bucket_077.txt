@@ -1,0 +1,1000 @@
+114215385	presence of excessive hemoglobin in the blood plasma
+114215516	a blood disease characterized by the presence of abnormal hemoglobins in the blood
+114215681	coughing up blood from the respiratory tract; usually indicates a severe infection of the bronchi or lungs
+114215858	inflammatory histiocytosis associated with disturbance of cholesterol metabolism; occurs chiefly in young children and is characterized by cystic defects of the skull and diabetes insipidus
+114216154	the form of ratbite fever occurring in the United States
+114216272	a blood disease characterized by an abnormal multiplication of macrophages
+114216424	an abnormality during pregnancy; chorionic villi around the fetus degenerate and form clusters of fluid-filled sacs; usually associated with the death of the fetus
+114216684	an abnormality of pregnancy; accumulation of excess amniotic fluid
+114216807	hydrarthrosis affecting the knee
+114216903	blood disorder in which there is excess fluid volume compared with the cell volume of the blood
+114217053	disorder in which serous fluid accumulates in a body sac (especially in the scrotum)
+114217193	a disorder of lipid metabolism; abnormal levels of certain fats accumulate in the body
+114217407	presence of excess lipids in the blood
+114217665	a disorder in which a lack of certain enzymes makes it impossible to digest the amino acid lysine
+114217827	the condition of a host bacterium that has incorporated a phage into its own genetic material
+114218172	a low level of prothrombin (factor II) in the circulating blood; results in long clotting time and poor clot formation and sometimes excessive bleeding; can result from vitamin K deficiency
+114218424	a blood disorder consisting of an increase in the volume of circulating blood
+114218594	a blood disorder consisting of a decrease in the volume of circulating blood
+114218797	a deficiency of red blood cells
+114219197	an inherited form of anemia caused by faulty synthesis of hemoglobin
+114219421	a fatal form of homozygous thalassemia (inherited from both parents) in which there is no hemoglobin; skeletal deformations; heart and spleen and liver enlarged
+114219703	an abnormal increase in the number of white blood cells in the blood as a result of infection (as in leukemia)
+114219887	an abnormal lowering of the white blood cell count
+114220025	leukopenia in which the decrease is primarily in number of neutrophils (the chief phagocytic leukocyte)
+114220204	neutropenia that occurs periodically
+114220305	an abnormally small number of lymphocytes in the circulating blood
+114220447	an abnormal increase in the number of lymphocytes in the circulating blood
+114220581	a blood disorder characterized by the presence of microcytes (abnormally small red blood cells) in the blood; often associated with anemia
+114220797	a disorder characterized by an abnormal increase in the number of red blood cells in the blood
+114220950	any of several blood diseases causing subcutaneous bleeding
+114221110	purpura resulting from a defect in the capillaries caused by bacteria or drugs
+114221262	the primary form of thrombocytopenia (rather than a shortage of platelets caused by other conditions such as tuberculosis or chemical suppression of bone marrow etc.)
+114221501	a blood disease characterized by an abnormally small number of platelets in the blood
+114221682	any disease caused by a lack of an essential nutrient (as a vitamin or mineral)
+114221862	the presence of one or more cysts in a breast
+114222058	any of several diseases caused by deficiency of one or more vitamins
+114222311	an abnormal condition resulting from taking vitamins excessively; can be serious for vitamins A or D or K
+114222479	an abnormal condition in males in which the urethra opens on the under surface of the penis
+114222628	abnormal condition in which an eye cannot close completely
+114222746	avitaminosis caused by lack of thiamine (vitamin B1)
+114222871	the endemic form of beriberi
+114222959	abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet
+114223182	a state of poor nutrition; can result from insufficient or excessive or unbalanced diet or from inability to absorb foods
+114223416	severe malnutrition in children resulting from a diet excessively high in carbohydrates and low in protein
+114223580	extreme malnutrition and emaciation (especially in children); can result from inadequate intake of food or from malabsorption or metabolic disorders
+114223783	any abnormality of mental function
+114223900	condition in which both eyes are abnormally small but otherwise normal
+114224030	mental abnormality resulting from disturbance of the structure or function of the brain
+114224186	a deficiency caused by inadequate zinc in the diet or by liver disease or cystic fibrosis or other diseases
+114224355	a disease caused by deficiency of niacin or tryptophan (or by a defect in the metabolic conversion of tryptophan to niacin); characterized by gastrointestinal disturbances and erythema and nervous or mental disorders; may be caused by malnutrition or alcoholism or other nutritional impairments
+114224793	childhood disease caused by deficiency of vitamin D and sunlight associated with impaired metabolism of calcium and phosphorus
+114225002	a condition caused by deficiency of ascorbic acid (vitamin C)
+114225164	a cystic tumor (usually benign) with a wall lined with epithelium and a cavity containing other material
+114225327	a cystic tumor containing milk or a milky substance (especially in the mammary glands)
+114225471	a cyst containing blood
+114225601	cyst filled with liquid; forms as a result of infestation by tapeworm larvae (as in echinococcosis)
+114225754	a cyst that forms in the nabothian glands of the uterine cervix
+114225899	a cystic tumor (usually benign) of the ovary
+114226002	a small sebaceous cyst of the eyelid resulting when a Meibomian gland is blocked
+114226155	a cyst on the underside of the tongue
+114226245	a common cyst of the skin; filled with fatty matter (sebum) that is secreted by a sebaceous gland that has been blocked
+114226478	a closed sac that develops abnormally in some body structure
+114226751	a minor nonspecific ailment
+114226828	the state of being dizzy or nauseated because of the motions that occur while traveling in or on a moving vehicle
+114227087	motion sickness experienced while traveling by air (especially during turbulence)
+114227295	motion sickness experienced while traveling in a car
+114227424	motion sickness experienced while traveling on water
+114227577	collapse caused by exposure to excessive heat
+114227735	a condition marked by dizziness and nausea and weakness caused by depletion of body fluids and electrolytes
+114227923	prostration characterized by cold and clammy skin and low blood pressure
+114228068	sudden prostration due to exposure to the sun or excessive heat
+114228245	the presence of endometrium elsewhere than in the lining of the uterus; causes premenstrual pain and dysmenorrhea
+114228432	any deviation from a healthy or normal condition
+114229706	abnormal union of bodily tissues; most common in the abdomen
+114229857	an abnormal adhesion of two or more structures
+114229959	adhesions between the iris and the lens or cornea resulting from trauma or eye surgery or as a complication of glaucoma or cataract; can lead to blindness
+114230204	adhesion between the iris and the cornea
+114230308	adhesion between the iris and the lens
+114230411	pathology in which iron accumulates in the tissues; characterized by bronzed skin and enlarged liver and diabetes mellitus and abnormalities of the pancreas and the joints
+114230738	inherited form of hemochromatosis
+114230870	hemochromatosis resulting from repeated transfusions or from excessive intake of foods containing iron
+114231043	localized necrosis resulting from obstruction of the blood supply
+114231193	the presence of macrocytes in the blood
+114231291	development of excess fibrous connective tissue in an organ
+114231460	fibrosis of the bone marrow
+114231547	a state of abnormal softening of tissue
+114231658	abnormal softening of bones caused by deficiencies of phosphorus or calcium or vitamin D
+114231824	any pathology of the breast
+114231920	any pathology of the peripheral nerves
+114232069	a form of neuropathy that can begin between childhood and young adulthood; characterized by weakness and atrophy of the muscles of the hands and lower legs; progression is slow and individuals affected can have a normal life span; inheritance is X-linked recessive or X-linked dominant
+114232470	any neuropathy of a single nerve trunk
+114232569	pathology of several individual nerve trunks
+114232683	any pathology of the muscles that is not attributable to nerve dysfunction
+114232830	myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling accompanied by skin rash affecting cheeks and eyelids and neck and chest and limbs; progression and severity vary among individuals
+114233117	myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals
+114233318	myositis characterized by weakness of limb muscles (especially the thighs and wrists and fingers); sometimes involves swallowing muscles; onset after 50 and slowly progressive; seen more often in men than in women
+114233601	an inherited disorder characterized by an increase in bone density; in severe forms the bone marrow cavity may be obliterated
+114233836	abnormal loss of bony tissue resulting in fragile porous bones attributable to a lack of calcium; most common in postmenopausal women
+114234046	condition in which the penis is continually erect; usually painful and seldom with sexual arousal
+114234198	abnormal loss of mineral salts (especially from bone)
+114234370	discharge of pus
+114234453	accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine
+114234694	excess of urea in the urine
+114234776	any localized abnormal structural change in a bodily part
+114234922	a swelling that is the characteristic lesion of tuberculosis
+114235091	a circumscribed inflammatory and often suppurating lesion on the skin or an internal mucous surface resulting in necrosis of tissue
+114235467	a blister on the mucous membranes of the lips or mouth or gastrointestinal tract
+114235608	a chronic ulcer of the skin caused by prolonged pressure on it (as in bedridden patients)
+114235785	infectious venereal ulcer
+114235884	an ulcer of the mucous membrane lining of the alimentary tract
+114236061	a peptic ulcer of the duodenum
+114236152	a peptic ulcer of the stomach
+114236241	an ulceration (especially of the lips or lining of the mouth)
+114236423	a cancerous ulcer of soft tissue and bone
+114236526	acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children
+114236681	a condition of suffering or distress due to ill health
+114236810	(medicine) a curving or bending; often abnormal
+114236994	an affliction in which some part of the body is misshapen or malformed
+114237349	deformity in which part of the brain protrudes through the skull
+114237483	a deformity of the foot characterized by an abnormally high arch and hyperextension of the toes which gives the foot the appearance of a claw
+114237691	a deformity in which the space between the third and fourth toes extends up into the foot
+114237837	a congenital cleft in the middle of the upper lip
+114237968	a congenital fissure of the hard palate
+114238066	congenital deformity of the foot usually marked by a curled shape or twisted position of the ankle and heel and toes
+114238301	deformity of the foot in which the foot is twisted outward
+114238420	talipes in which the toes are pointed downward
+114238528	talipes in which the toes are pointed upward and the person walks on the heel of the foot
+114238681	abnormal protrusion of the breastbone caused by rickets
+114238813	any plant disease resulting in withering without rotting
+114239390	a disease of alders caused by the woolly alder aphid (a plant louse)
+114239536	a disease of apple trees
+114239634	a disease of beet plants
+114239716	a disease of tea plants
+114239800	a disease of Scotch pines
+114239886	a disease affecting the canes of various bush fruits (e.g., raspberries or currants)
+114240028	a fungous leaf spot disease of the celery plant
+114240135	a disease of American chestnut trees
+114240275	a blight affecting the coffee plant
+114240370	a disease affecting the trunks of pear and apple trees
+114240484	a disease blackening the leaves of pear and apple trees
+114240629	a phase of fire blight in which cankers appear
+114240735	a blight of bean plants
+114240842	a blight affecting the leaves of oats and other grasses
+114240955	a blight of the heads of cereals
+114241063	a disease of the heads of wheat plants
+114241158	blight in which symptoms appear late in the growing season especially a disease of solanaceous plants caused by the fungus Phytophthora infestans
+114241379	any blight causing a browning and falling of the leaves of a plant
+114241539	any plant disease localized in the foliage
+114241640	a disease of conifers causing the needles to fall
+114241775	a black plant louse that lives on oaks and dogwoods
+114241883	a disease of trees bearing drupes
+114241975	a blight of potatoes
+114242119	a disease of tea plants
+114242199	a disease of spinach plants
+114242287	a disease of raspberries
+114242369	a fungous blight attacking the stems of plants
+114242473	a disease of oats
+114242550	a disease of tropical woody plants (cacao or tea or citrus)
+114242669	a disease of tomato plants
+114242772	a disease of the ends of twigs of woody plants
+114242876	a disease of English walnut trees
+114242969	a mild viral disease transmitted by the bite of the sand fly Phlebotomus papatasii
+114243143	a disease affecting the skin
+114243790	tuberculosis of the skin; appears first on the face and heals slowly leaving deep scars
+114243956	a chronic form of spondylitis primarily in males and marked by impaired mobility of the spine; sometimes leads to ankylosis
+114244217	a chronic skin disease occurring primarily in women between the ages of 20 and 40; characterized by an eruption of red lesions over the cheeks and bridge of the nose
+114244480	autoimmune disorder of the thyroid gland; most common in middle-aged women
+114244620	a chronic inflammatory collagen disease affecting connective tissue (skin or joints)
+114244793	an inflammatory disease of connective tissue with variable features including fever and weakness and fatigability and joint pains and skin lesions on the face or neck or arms
+114245083	a breakdown of a cell layer in the epidermis (as in pemphigus)
+114245223	an abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis)
+114245406	a skin disease characterized by dark wartlike patches in the body folds; can be benign or malignant
+114245594	an inflammatory disease involving the sebaceous glands of the skin; characterized by papules or pustules or comedones
+114245834	a skin disease of adults (more often women) in which blood vessels of the face enlarge resulting in a flushed appearance
+114246023	the most common form of acne; usually affects people from puberty to young adulthood
+114246167	dermatitis caused exposure to sunlight
+114246270	a severe form of dermatitis characterized by atopy
+114246400	an allergic contact dermatitis developed around the lips of children who chew bubble gum
+114246556	a delayed type of allergic reaction of the skin resulting from skin contact with a specific allergen (such as poison ivy)
+114246778	contact dermatitis resulting from contact with plants of the genus Toxicodendron
+114246974	dermatitis resulting from contact with the poison ivy plant
+114247120	dermatitis resulting from contact with a poison oak plant
+114247234	dermatitis resulting from contact with a poison sumac plant
+114247352	a dermatitis of the scalp that is common in infants
+114247460	dermatitis of the thighs and buttocks of infants; supposedly caused by ammonia in the urine in the child's diapers
+114247652	a severe dermatitis of herbivorous domestic animals attributable to photosensitivity from eating Saint John's wort
+114247823	dermatitis in which localized areas (especially the forearms or back of the neck or outer part of the ankle) itch persistently; cause is unknown
+114248029	a sensitization reaction to repeated invasion of the skin by cercariae of schistosomes
+114248239	inflammation of the skin; skin becomes itchy and may develop blisters
+114248527	disorder involving lesions or eruptions of the skin (in which there is usually no inflammation)
+114248697	allergic eczema caused by flour or other ingredients handled by bakers
+114248828	eczema caused by an allergic reaction
+114248945	eczema characterized by a feverish condition and widespread eruption of vesicles; most common in children
+114249114	a now rare complication of vaccinia superimposed on atopic dermatitis with high fever and generalized vesicles and papulovesicles
+114249359	eczema characterized by thickening of the skin with accentuated skin lines
+114249538	generic term for inflammatory conditions of the skin; particularly with vesiculation in the acute stages
+114249785	abnormal redness of the skin resulting from dilation of blood vessels (as in sunburn or inflammation)
+114250049	a red rash caused by hypersensitivity to a drug or disease or other allergen
+114250191	skin condition characterized by tender red nodules on the shins and legs
+114250344	a temporary red mark on a person's skin resulting from kissing or sucking by their lover
+114250497	an inflammatory complication of leprosy that results in painful skin lesions on the arms and legs and face
+114250700	any skin disorder involving abnormal redness
+114250839	reddening of the skin spreading outward from a focus of infection or irritation
+114250970	acute skin disease characterized by the presence of many furuncles
+114251095	a very contagious infection of the skin; common in children; localized redness develops into small blisters that gradually crust and erode
+114251288	skin disorder induced by a tropical climate
+114251388	any skin disorder consisting of a growth that appears horny
+114251520	any abnormal condition of the outer skin (epidermis)
+114251630	a skin condition marked by an overgrowth of layers of horny skin
+114251858	an overgrowth of skin layers resulting from extended exposure to the sun
+114251994	skin disease characterized by a scaly rash on the palms and soles; associated with Reiter's syndrome
+114252194	a rare hereditary condition marked by dark crusted patches (sometimes containing pus)
+114252367	keratosis characterized by hard conical elevations in the openings of sebaceous glands (especially of arms and thighs)
+114252549	a skin condition characterized by circumscribed wartlike lesions that can be itchy and covered with a greasy crust
+114252730	a congenital skin condition characterized by spots or bands of unpigmented skin
+114252885	any of several eruptive skin diseases characterized by hard thick lesions grouped together and resembling lichens growing on rocks
+114253086	an eruption of shiny flat-topped purplish (usually itchy) papules on the wrist and forearms and thighs
+114253270	skin disorder characterized by patchy bluish discolorations on the skin
+114253394	any of several forms of ulcerative skin disease
+114253565	a condition characterized by abnormal deposits of melanin (especially in the skin)
+114253714	any skin disease characterized by soft pulpy nodules
+114253840	a virus disease of the skin marked by round white swellings; transmitted from person to person (most often in children or in adults with impaired immune function)
+114254070	skin disease marked by thin shiny patches (especially on the legs); often associated with diabetes mellitus
+114254282	a skin disease characterized by large thin-walled blisters (bullae) arising from normal skin or mucous membrane
+114254504	any of several skin disorders characterized by shedding dry flakes of skin
+114254689	a condition in which white scales of dead skin are shed by the scalp
+114254812	common form of pityriasis (usually in children or young adults) characterized by round patches of depigmentation
+114254986	pityriasis in which an itchy rash develops over the trunk and extremities
+114255122	chronic inflammatory disease of the skin characterized by blister capped papules and intense itching
+114255276	a chronic skin disease characterized by dry red patches covered with scales; occurs especially on the scalp and ears and genitalia and the skin over bony prominences
+114255516	cracks or fissures in the skin (especially around the mouth or anus)
+114255639	any of several inflammatory or gangrenous skin conditions
+114255781	an acute streptococcal infection characterized by deep-red inflammation of the skin and mucous membranes
+114255942	a skin disease marked by hard edema of the tissue usually beginning in the face
+114256078	a condition in which overactivity of the sebaceous glands causes the skin to become oily
+114256222	a chronic skin disease associated with seborrhea and greasy scales on the scalp or eyelids or other parts of the skin
+114256427	an acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border)
+114256637	xanthoma of the eyelids; occurs chiefly in the elderly
+114256749	a skin problem marked by the development (on the eyelids and neck and back) of irregular yellow nodules; sometimes attributable to disturbances of cholesterol metabolism
+114257027	rare chronic xanthoma of adults in which orange or brownish papules develop on many surfaces of the body
+114257199	widespread xanthomas (especially on elbows and knees); often associated with a disorder of lipid metabolism
+114257456	an abnormal yellow discoloration of the skin
+114257556	(pathology) an abnormal proliferation of tissue (as in a tumor)
+114257799	a benign outgrowth from a bone (usually covered with cartilage)
+114257918	a small vascular growth on the surface of a mucous membrane
+114258093	a polyp that consists of benign neoplastic tissue derived from glandular epithelium
+114258349	a relatively flat polyp
+114258432	a polyp with a stalk or peduncle
+114258548	the thin process of tissue that attaches a polyp to the body
+114258682	an abnormal new mass of tissue that serves no purpose
+114259149	a neoplasm originating in the epidermis
+114259275	a benign epithelial tumor of glandular origin
+114259410	a tumor consisting of a mass of blood or lymphatic vessels
+114259612	a common benign tumor of cartilage cells
+114259708	a tumor that is not cancerous
+114260077	a tumor composed of immature undifferentiated cells
+114260225	a tumor in the brain
+114260354	a fast-growing malignant brain tumor composed of spongioblasts; nearly always fatal
+114260514	a tumor of the brain consisting of neuroglia
+114260630	a small tumor (benign or malignant) arising from the mucosa of the gastrointestinal tract; usually associated with excessive secretion of serotonin
+114260833	a malignant neoplasm composed of carcinoma and sarcoma extensively intermixed
+114260971	an abdominal tumor
+114261043	(medicine) a malignant state; progressive and resistant to treatment and tending to cause death
+114261300	new connective tissue and tiny blood vessels that form on the surfaces of a wound during the healing process
+114261523	benign slow-growing tumor of cartilaginous cells at the ends of tubular bones (especially in the hands and feet)
+114261693	benign and movable and firm and not tender tumor of the breast; common in young women and caused by high levels of estrogen
+114261875	benign tumor containing fibrous tissue (especially in the uterus)
+114262010	nonmalignant tumor of connective tissue
+114262121	a tumor composed of granulation tissue resulting from injury or inflammation or infection
+114262302	a small rubbery granuloma that is characteristic of an advanced stage of syphilis
+114262435	a focal growth that resembles a neoplasm but results from faulty development in an organ
+114262579	skin tumor that grows rapidly (especially in older people) and resembles a carcinoma but does not spread; it usually disappears spontaneously, often leaving a scar
+114262804	a tumor consisting of fatty tissue
+114262907	a tumor that is malignant and tends to spread to other parts of the body
+114263225	a tumor arising in the meninges which surround the brain and spinal cord; usually slow growing and sometimes malignant
+114263400	any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the body through the lymphatic system or the blood stream
+114263744	a rare malignant neoplasm arising from vascular tissue; usually occurs in the breast and skin and is believed to originate from the endothelial cells of blood vessels
+114263969	a malignant neoplasm of cartilage cells
+114264069	malignant tumor in bone marrow (usually in the pelvis or in long bones)
+114264257	a sarcoma that starts with purplish spots on the feet and legs and spreads from the skin to lymph nodes and internal organs; a common manifestation of AIDS
+114264570	sarcoma of smooth muscle; occurs most often digestive tract or uterus or bladder or prostate
+114264723	sarcoma of fat cells
+114264801	sarcoma of muscle tissue
+114264882	a malignant neoplasm of nerve tissue and fibrous tissue and connective tissue
+114265038	malignant bone tumor; most common in children and young adults where it tends to affect the femur
+114265215	an abnormally enlarged lymph node
+114265307	chronic abnormal enlargement of the lymph nodes (usually associated with disease)
+114265450	a neoplasm of lymph tissue that is usually malignant; one of the four major types of cancer
+114265614	a malignant disorder in which there is progressive (but painless) enlargement of lymph tissue followed by enlargement of the spleen and liver
+114265819	any malignant tumor derived from epithelial tissue; one of the four major types of cancer
+114266270	the most common form of skin cancer
+114266404	malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer
+114266750	rapidly progressing leukemia
+114266875	acute leukemia characterized by proliferation of immature lymphoblast-like cells in bone marrow, lymph nodes, spleen, and blood; most common in children
+114267131	acute leukemia characterized by proliferation of granular leukocytes; most common in adolescents and young adults
+114267359	slowly progressing leukemia
+114267485	chronic leukemia characterized by lymphoblast-like cells; more common in older men
+114267642	chronic leukemia characterized by granular leukocytes; more common in older people
+114267835	leukemia characterized by enlargement of lymphoid tissues and lymphocytic cells in the circulating blood
+114268024	a form of lymphocytic leukemia in which the abnormal cells in the circulating blood are almost totally lymphoblasts
+114268208	leukemia characterized by the proliferation of monocytes and monoblasts in the blood
+114268473	a malignant neoplasm of blood-forming tissues; characterized by numerous myeloblasts in the blood stream
+114268645	a malignant neoplasm of blood-forming tissues; marked by proliferation of myelocytes and their presence in the blood
+114268887	a highly malignant neoplasm derived from striated muscle
+114269076	form of rhabdomyosarcoma occurring mainly in infants and children
+114269240	form of rhabdomyosarcoma occurring mainly in adolescents and young adults
+114269410	form of rhabdomyosarcoma that affects limb muscles of older adults
+114269579	malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass
+114269841	a usually malignant tumor arising from connective tissue (bone or muscle etc.); one of the four major types of cancer
+114270192	malignant tumor originating in glandular epithelium
+114270381	cancer of the breast; one of the most common malignancies in women in the US
+114270517	a cluster of malignant cells that has not yet invaded the deeper epithelial tissue or spread to other parts of the body
+114270721	a malignant tumor of the colon; early symptom is bloody stools
+114270842	malignant neoplasm of the testis
+114270940	cancer of the uterine lining
+114271057	benign angioma consisting of a mass of blood vessels; some appear as birthmarks
+114271225	a congenital bright red superficial vascular tumor resembling a strawberry; tends to decrease in size during childhood
+114271436	benign angioma consisting of a mass of lymphatic vessels
+114271551	a dilation of superficial capillaries with a central red dot from which blood vessels radiate
+114271738	a tumor of the bone marrow (usually malignant) composed of cells normally found in bone marrow
+114271904	myeloma that develops in several places at the same time
+114272023	a benign tumor composed of muscle tissue
+114272151	a benign tumor of connective tissue containing jellylike material
+114272269	tumor (usually benign) of the sheath surrounding a nerve
+114272381	malignant tumor containing embryonic nerve cells; usually metastasizes quickly
+114272519	malignant tumor of the neuroepithelium
+114272620	tumor of the fibrous covering of a peripheral nerve
+114272744	any tumor derived from cells of the nervous system
+114272866	benign tumor of smooth muscle (usually in the uterus or digestive tract)
+114272994	benign tumor of striated muscle
+114273083	benign tumor of bone and fibrous tissue; occurs in the vertebrae or femur or tibia or arm bones (especially in young adults)
+114273267	benign tumor containing both bone and cartilage; usually occurs near the end of a long bone
+114273419	a slow growing benign tumor of consisting of bone tissue; usually on the skull or mandible
+114273563	a benign epithelial tumor forming a rounded mass
+114273714	a vascular tumor of the adrenal gland; hypersecretion of epinephrine results in intermittent or sustained hypertension
+114273915	tumor of the pineal gland
+114273996	neoplasm of plasma cells (usually in bone marrow)
+114274104	a tumor derived from fibrous tissue of the meninges or choroid plexus or certain other structures associated with the brain; characterized by sandlike particles
+114274332	malignant ocular tumor of retinal cells; usually occurs before the third year of life; composed of primitive small round retinal cells
+114274527	a tumor consisting of a mixture of tissues not normally found at that site
+114274656	carcinoma of the liver
+114274799	carcinoma of the lungs; one of the commonest forms of cancer
+114274917	a form of carcinoma of the mesothelium lining lungs or abdomen or heart; usually associated with exposure to asbestos dust
+114275098	highly malignant carcinoma composed of small round or egg-shaped cells with little cytoplasm; lung cancers are frequently oat cell carcinomas
+114275327	malignant neoplasm of the lips of mouth; most common in men over the age of 60
+114275463	cancer of the pancreas
+114275549	cancer of the prostate gland
+114275666	malignant tumor of the testis; usually occurring in older men
+114275802	a malignant neoplasm of the skin
+114275946	a malignant tumor of the epithelial tissue
+114276046	any of several malignant neoplasms (usually of the skin) consisting of melanocytes
+114276204	malignant neoplasm of the uterus derived from the epithelium of the chorion
+114276346	any disease of the eye
+114276606	a disease that typically does not affect human beings
+114277584	disease of cattle that can be transmitted to humans; results from infection with actinomycetes; characterized by hard swellings that exude pus through long sinuses
+114277879	the commonest and least severe form of actinomycosis; affects the face and neck regions
+114278052	an eye disease that involves the clouding or opacification of the natural lens of the eye
+114278250	an eye disease caused by a swelling of the macula resulting from leakage and accumulation of fluid
+114278408	a specific pattern of swelling in the central retina
+114278546	(plural) an eye disease resulting from small accumulations of hyaline bodies underneath the retina
+114278716	an eye disease that damages the optic nerve and impairs vision (sometimes progressing to blindness)
+114279018	glaucoma in which the iris blocks the outflow of aqueous humor
+114279330	glaucoma that results from damage to the optic nerve although the intraocular pressure is normal
+114279496	a cataract that affects the lens cortex
+114279599	a cataract that affects the nucleus of the lens
+114279709	a cataract in the rear of the lens capsule
+114279828	glaucoma caused by blockage of the canal of Schlemm; produces gradual loss of peripheral vision
+114280067	any disease of the cornea
+114280150	eye disease caused by degeneration of the cells of the macula lutea and results in blurred vision; can cause blindness
+114280371	macular degeneration that is age-related
+114280496	a disease of the retina that can result in loss of vision
+114280629	retinopathy involving damage to the small blood vessels in the retina; results from chronically high blood glucose levels in people with poorly controlled diabetes
+114280859	a chronic contagious disease caused by a bacterium and marked by inflammation of the conjunctiva and cornea of the eye and the formation of scar tissue
+114281065	eye disease consisting of an opaque white spot on the cornea
+114281189	inflammation of a gland or lymph node
+114281281	inflammation of the alveoli in the lungs caused by inhaling dust; with repeated exposure the condition may become chronic
+114281495	inflammation in the socket of a tooth; sometimes occurs after a tooth is extracted and a blood clot fails to form
+114281678	inflammation of a blood vessel or lymph duct
+114281795	inflammation of the aorta
+114281893	aortitis occurring in rheumatic fever
+114282014	inflammation of the vermiform appendix
+114282111	inflammation of an artery
+114282264	inflammation of the outer coat of an artery
+114282367	inflammation of several arteries
+114282459	disorder characterized by the absence of a pulse in both arms and in the carotid arteries
+114282635	inflammation of the temporal arteries; characterized by headaches and difficulty chewing and (sometimes) visual impairment
+114282822	severe conjunctivitis
+114282933	ophthalmia in newborns; contracted while passing through the birth canal; usually prevented with silver nitrate drops
+114283118	a serious form of actinomycosis that affects the chest
+114283241	a serious form of actinomycosis that affects the abdomen
+114283367	alveolitis caused by an allergic reaction to fungal spores in the dust that is inhaled from moldy hay
+114283546	a disease of cattle that is transmitted by cattle ticks; similar to Texas fever
+114283684	a highly infectious animal disease (especially cattle and sheep); it can be transmitted to people
+114283851	severe respiratory disease of birds that takes the form of an acute rapidly fatal pneumonia in young chickens and turkeys
+114284052	inflammation of the lungs caused by inhaling or choking on vomitus; may occur during unconsciousness (anesthesia or drunkenness or seizure or cardiac arrest)
+114284276	alveolitis caused by inhaling bagasse (sugarcane dust)
+114284400	inflammation of the head of the penis
+114284493	inflammation of both the head of the penis and the foreskin
+114284614	any of various diseases of animals characterized by edema of the head and neck
+114284746	inflammation of the eyelids characterized by redness and swelling and dried crusts
+114284886	inflammation of a bursa; frequently in the shoulder
+114285010	an infectious disease of domestic animals often resulting in spontaneous abortion; transmittable to human beings
+114285219	a viral disease of sheep and cattle that is transmitted by biting midges
+114285348	a fatal disease of cattle that affects the central nervous system; causes staggering and agitation
+114285547	a disease of pigs resulting in swelling of the snout
+114285655	a viral disease of camels closely related to smallpox
+114285838	chorea in dogs
+114285921	any of several disease of livestock marked by fever and edema of the respiratory tract
+114286087	a wildlife disease (akin to bovine spongiform encephalitis) that affects deer and elk
+114286242	a fatal disease of freshwater fish caused by a flagellated protozoan invading the skin
+114286384	a viral disease of cattle causing a mild skin disease affecting the udder; formerly used to inoculate humans against smallpox
+114286591	a disease of cattle and sheep attributed to a dietary deficiency; characterized by anemia and softening of the bones and a slow stiff gait
+114286782	an acute infectious disease characterized by pneumonia and blood infection
+114286942	a chronic inflammation of the withers of a horse
+114287064	an acute diarrheal disease (especially of chickens) caused by the microorganism that causes hemorrhagic septicemia
+114287255	either of two acute viral diseases of domestic fowl; characterized by refusal to eat and high temperature and discoloration of the comb
+114287446	highly infectious virus disease of swine
+114287544	any of various infectious viral diseases of animals
+114287705	a viral disease of young dogs characterized by high fever and respiratory inflammation
+114287854	an acute bacterial disease of horses characterized by inflammation of the mucous membranes
+114288019	a disease of cattle and sheep that is attributed to toxins absorbed from the intestines
+114288166	acute contagious disease of cloven-footed animals marked by ulcers in the mouth and around the hoofs
+114288360	contagious degenerative infection of the feet of hoofed animals (especially cattle and sheep)
+114288508	a disease of the liver (especially in sheep and cattle) caused by liver flukes and their by-products
+114288707	a destructive and contagious bacterial disease of horses that can be transmitted to humans
+114288852	a chronic emphysema of the horse that causes difficult expiration and heaving of the flanks
+114289010	an acute inflammatory disease characterized by a rash with joint swelling and fever; caused by bacteria carried by the bite of a deer tick
+114289224	a viral disease of green monkeys caused by the Marburg virus; when transmitted to humans it causes serious or fatal illness
+114289460	the presence of excessive protein (chiefly albumin but also globulin) in the urine; usually a symptom of kidney disorder
+114289670	abnormal presence of amino acids in the urine; usually a symptom of metabolic defects
+114289815	excessive ammonia in the urine
+114289902	the presence of red blood cells in the urine
+114290023	a purplish discoloration of the mucous membrane of the vagina that occurs early in pregnancy
+114290179	a pigmented ring at the outer edge of the cornea of the eye; a symptom of Wilson's disease
+114290337	softening and drying and ulceration of the cornea resulting from vitamin A deficiency; symptom of cystic fibrosis or sprue
+114290519	symptom of meningitis; patient cannot extend the leg at the knee when the thigh is flexed because of stiffness in the hamstrings
+114290707	an abnormal increase of ketone bodies in the blood as in diabetes mellitus
+114290860	small red spots with white centers found on the mucous membranes of the mouth and tongue; symptom of measles that appears one or two days before the measles rash appears
+114291090	the presence of levulose is the urine
+114291224	the presence of abnormally high levels of glucose in the urine
+114291343	the presence of abnormally high levels of sugar in the urine
+114291496	the presence of lymph in the urine
+114291586	increase in the number of monocytes in the blood; symptom of monocytic leukemia
+114291723	increase in the number of platelets in the blood which tends to cause clots to form; associated with many neoplasms and chronic infections and other diseases
+114291941	an accumulation of dark pigment in cartilage and other connective tissue; usually a symptom of alkaptonuria or phenol poisoning
+114292125	the presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or Paget's disease
+114292373	abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin D deficiency
+114292592	the presence of abnormally high levels of calcium in the urine; usually the result of excessive bone resorption in hyperparathyroidism or osteoporosis
+114292821	the presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis
+114293058	higher than normal levels of potassium in the circulating blood; associated with kidney failure or sometimes with the use of diuretic drugs
+114293274	abnormally low level of potassium in the circulating blood leading to weakness and heart abnormalities; associated with adrenal tumors or starvation or taking diuretics
+114293518	the presence of excess potassium in the circulating blood
+114293629	the presence of excess potassium in the urine
+114293743	the presence of abnormally large amounts of sodium in the urine
+114293882	any of various disorders of lipoprotein and cholesterol metabolism that result in high levels of lipoprotein and cholesterol in the circulating blood
+114294116	any of various disorders of lipoprotein and cholesterol metabolism that result in low levels of lipoprotein and cholesterol in the circulating blood
+114294348	abnormally low level of protein in the blood; can indicate inadequate diet or intestinal or renal disorders
+114294517	excessive amounts of sodium in the blood; possibly indicating diabetes insipidus
+114294675	abnormally low level of sodium in the blood; associated with dehydration
+114294824	enlarged spleen and a decrease in one or more types of blood cells; associated with many disorders
+114294982	excessive amounts of ketone bodies in the urine as in diabetes mellitus or starvation
+114295169	an acute viral disease of the nervous system of warm-blooded animals (usually transmitted by the bite of a rabid animal); rabies is fatal if the virus reaches the brain
+114295422	a disease of cattle; characterized by hematuria
+114295525	a respiratory infection of the nose and throat in cattle
+114295643	an acute infectious viral disease of cattle (usually fatal); characterized by fever and diarrhea and inflammation of mucous membranes
+114295849	diarrhea in livestock
+114295923	a fatal disease of sheep characterized by chronic itching and loss of muscular control and progressive degeneration of the central nervous system
+114296122	a deadly form of septicemia in cattle and sheep; involves high fever and pneumonia; contracted under conditions of exposure or exhaustion (as often happens when the animals are shipped to market)
+114296417	a swelling of the hock joint of a horse; resulting in lameness
+114296586	spavin caused by distension of the veins
+114296685	spavin caused by collection of fluids
+114296779	spavin caused by a bony growth
+114296867	an infectious disease cause by leptospira and transmitted to humans from domestic animals; characterized by jaundice and fever
+114297103	an acute feverish disease in people and in dogs marked by gastroenteritis and mild jaundice
+114297255	a severe form of leptospirosis in human beings
+114297362	a disease of livestock caused by locoweed poisoning; characterized by weakness and lack of coordination and trembling and partial paralysis
+114297570	an acute viral disease of the nervous system in sheep; can be transmitted by Ixodes ricinus
+114297719	a persistent and contagious disease of the skin causing inflammation and itching and loss of hair; affects domestic animals (and sometimes people)
+114297953	recurrent eye inflammation in horses; sometimes resulting in blindness
+114298094	any disease of domestic animals that resembles a plague
+114298203	a viral disease (usually fatal) of rabbits
+114298303	disease of domestic fowl and other birds
+114298407	a disease of poultry
+114298477	infectious disease of birds
+114298579	a serious bacterial disease of young chickens
+114298742	an open sore on the back of a horse caused by ill-fitting or badly adjusted saddle
+114298907	a fissure in the wall of a horse's hoof often causing lameness
+114299062	a crack on the forepart of a horse's hindfoot
+114299163	a crack on the inside of a horse's forefoot
+114299266	a disease of the central nervous system affecting especially horses and cattle; characterized by an unsteady swaying gait and frequent falling
+114299480	a disease of cattle (especially calves)
+114299583	an infectious disease of cattle transmitted by the cattle tick
+114299703	disease of livestock and especially cattle poisoned by eating certain kinds of snakeroot
+114299862	a highly infectious disease of rodents (especially rabbits and squirrels) and sometimes transmitted to humans by ticks or flies or by handling infected animals
+114300151	an animal disease that can be transmitted to humans
+114300438	a disease that affects plants
+114301157	a plant disease that produces a reddish-brown discoloration of leaves and stems; caused by various rust fungi
+114301335	any of several diseases of pines caused by rust fungi of the genus Cronartium and marked by destructive invasion of bark and sapwood and producing blisters externally
+114301604	any of various diseases in which the central tissues blacken
+114301721	disease of plum and cherry trees characterized by black excrescences on the branches
+114301862	a fungous disease causing darkening and decay of the leaves of fruits and vegetables
+114302002	any of several fungous diseases of plants that produce small black spots on the plant
+114302144	fungous disease of lettuce that first rots lower leaves and spreads upward
+114302275	any of certain fungous diseases of plants characterized by browning and decay of tissues
+114302455	disease of citrus trees caused by the fungus Phytophthora citrophthora
+114302601	pathological production of gummy exudates in citrus and various stone-fruit trees
+114302737	disease of tomatoes and potatoes and tobacco etc caused by the bacterium Pseudomonas solanacearum
+114302919	a fungal disease of woody plants that causes localized damage to the bark
+114303045	a fungus disease of cranberries
+114303134	a bacterial disease of plants (especially pome and stone fruits and grapes and roses) which forms excrescences on the stem near the ground
+114303347	a phase of crown gall (especially in apples) during which there is abnormal development of fine fibrous roots
+114303513	a fungous disease of alfalfa which forms white excrescences at the base of the stem
+114303653	a plant disease caused by a fungus; diseased condition of seedlings in excessive moisture
+114303800	a disease of plants characterized by the gradual dying of the young shoots starting at the tips and progressing to the larger branches
+114304006	a crumbling and drying of timber or bulbs or potatoes or fruit caused by a fungus
+114304141	any plant disease in which the central part of a plant rots (especially in trees)
+114304277	viral disease in solanaceous plants (tomatoes, potatoes, tobacco) resulting in mottling and often shriveling of the leaves
+114304488	a disease of the leaves of potato plants
+114304588	a plant disease causing discoloration of the leaves of tobacco plants
+114304718	disease of a wide range of plants (tomatoes, potatoes, peas) resulting from a mixed infection of potato and tomato mosaic
+114304899	disease caused by rhizoctinia or fungi of Pellicularia and Corticium
+114305051	rhizoctinia disease of potatoes
+114305180	serious bark disease of many tropical crop trees (coffee, citrus, rubber); branches have a covering of pink hyphae
+114305353	fungous disease causing dark warty spongy excrescences in the eyes of potato tubers
+114305494	disease characterized by root decay; caused by various fungi
+114305609	a plant disease that produces a browning or scorched appearance of plant tissues
+114305760	plant disease causing a burned or scorched appearance of the foliage
+114305886	disease of sweet potatoes in which roots are girdled by rings of dry rot
+114306026	plant disease cause by fungi of the genus Sclerotium; also one in which sclerotia are formed
+114306200	disease of elms caused by a fungus
+114306298	a plant disease caused by the ergot fungus
+114306392	plant disease in which the stem or trunk rots at the base
+114306504	a bacterial wilt of tobacco plants
+114306599	a fungal disease of onions
+114306680	any plant disease characterized by drooping and shriveling; usually caused by parasites attacking the roots
+114306925	wilt caused by fungi of the genus Fusarium
+114307027	wilt caused by fungi of the genus Verticillium
+114307134	destructive diseases of plants (especially cereal grasses) caused by fungi that produce black powdery masses of spores
+114307411	disease of grains; the entire head is a dusty mass of spores
+114307528	disease of wheat characterized by replacement of the grains with greasy masses of smelly smut spores
+114307695	smut affecting leaves and stems of cereals and other grasses
+114307811	disease of rice; grains covered by a green powder consisting of conidia
+114307952	mushy or slimy decay of plants caused by bacteria or fungi
+114308083	soft watery rot in fruits and vegetables caused by fungi
+114308190	any of several virus diseases of plants characterized by stunting and yellowing of the leaves
+114308378	the yellow dwarf disease of potato plants
+114308510	the yellow dwarf disease of onion plants
+114308615	any of several fungous or viral diseases characterized by yellow spotting on the leaves
+114308778	an emotional wound or shock often having long-lasting effects
+114308963	emotional injury inflicted on an infant by events incident to birth that is alleged to appear in symbolic form in patients with mental illness
+114309164	any physical damage to the body caused by violence or accident or fracture etc.
+114309841	a wound that exposes subcutaneous tissue
+114309937	marks resembling the wounds on the crucified body of Christ
+114310051	an abraded area where the skin is torn or worn off
+114310387	a superficial abrasion
+114310497	abrasion (usually on the hands) caused by friction from a rope
+114310615	a wound made by cutting
+114310816	a torn ragged wound
+114310910	a wound resulting from biting by an animal or a person
+114311069	a bite inflicted by a dog
+114311149	a bite inflicted by a (venomous) snake
+114311243	a sting inflicted by a bee
+114311325	sting inflicted by a flea
+114311406	a sting inflicted by a mosquito
+114311497	physical injury to an infant during the birth process
+114311609	injury caused the explosion of a bomb (especially in enclosed spaces)
+114311737	the flow of blood from a ruptured blood vessel
+114312063	stroke caused by the rupture of a blood vessel in the brain
+114312227	injury incurred when the human body hits or is hit by a large outside object (as a car)
+114312373	an injury that doesn't break the skin but results in some discoloration
+114312581	the purple or black-and-blue area resulting from a bruise
+114312695	a minute red or purple spot on the surface of the skin as the result of tiny hemorrhages of blood vessels in the skin (as in typhoid fever)
+114312889	a swollen bruise caused by a blow to the eye
+114313006	a lump on the body caused by a blow
+114313092	an injury caused by exposure to heat or chemicals or radiation
+114313331	a burn caused by heat produced by an electric current
+114313444	a surface burn
+114313609	a burn cause by hot liquid or steam
+114313714	a state of reduced excitement or anxiety that is induced by the administrative of a sedative agent
+114313867	redness of the skin caused by exposure to the rays of the sun
+114314036	a browning of the skin resulting from exposure to the rays of the sun
+114314253	redness and irritation of the skin caused by exposure to high-velocity wind
+114314383	unusual darkening of the skin
+114314512	unusual lack of skin color
+114314675	burn causing redness of the skin surface
+114314797	burn causing blisters on the skin and superficial destruction of the dermis
+114314937	burn characterized by destruction of both epidermis and dermis
+114315063	a displacement of a part (especially a bone) from its normal position (as in the shoulder or the vertebral column)
+114315325	trauma caused by the passage of electric current through the body (as from contact with high voltage lines or being struck by lightning); usually involves burns and abnormal heart rhythm and unconsciousness
+114315592	breaking of hard tissue such as bone
+114316073	fracture in which the bone is splintered or crushed
+114316190	break involving the entire width of the bone
+114316298	bone fracture associated with lacerated soft tissue or an open wound
+114316446	fracture in which the bone collapses (especially in short bones such as vertebrae)
+114316595	fracture of the skull where the bone is pushed in
+114316709	fracture in which the two ends of the broken bone are separated from one another
+114316854	fracture resulting from excessive activity rather than a specific injury
+114317007	a fracture without separation of the fragments and the line of the break being very thin
+114317180	a partial fracture of a bone (usually in children); the bone is bent but broken on only one side
+114317342	fracture that does not go across the entire width of the bone
+114317487	fracture in which one broken end is wedged into the other broken end
+114317619	an uncomplicated fracture in which the broken bones to not pierce the skin
+114317773	dislocation of a joint
+114317856	separation of an epiphysis from the long bone to which it is normally attached without fracture of the bone
+114318019	a forward dislocation of one vertebra over the one beneath it producing pressure on spinal nerves
+114318180	destruction of tissue by freezing and characterized by tingling, blistering and possibly gangrene
+114318363	entry of foreign matter into a blood vessel
+114318466	injury incurred when an object (as a knife or bullet or shrapnel) penetrates into the body
+114318642	an injury resulting from getting some body part squeezed
+114318750	state of being torn or burst open
+114318891	rupture in smooth muscle tissue through which a bodily structure protrudes
+114319193	hernia projecting into the vagina
+114319331	a herniation through the muscular wall of a tubular organ (especially the colon)
+114319488	a congenital diverticulum in the ileum resulting from incomplete closure of the yolk sac
+114319644	protrusion of the intestine through the abdominal wall
+114319756	an umbilical hernia at birth in which some abdominal organs push into the umbilical cord
+114319901	hernia resulting from the protrusion of part of the stomach through the diaphragm
+114320081	a painful rupture of the fibrocartilage of the disc between spinal vertebrae; occurs most often in the lumbar region
+114320304	hernia in which a loop of intestine enters the inguinal canal; the most common type of hernia in males
+114320468	hernia in which the urinary bladder protrudes through the wall of the vagina; sometimes occurs after childbirth
+114320652	protrusion or herniation of the rectum into the vagina; can occur if pelvic muscles are weakened by childbirth
+114320831	hernia of the cornea
+114320908	hernia through the abdomen
+114320991	protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel; usually self correcting after birth
+114321198	a disturbance of the normal sleep pattern
+114321372	a painful wound caused by the thrust of an insect's stinger into skin
+114321604	injury to a muscle (often caused by overuse); results in swelling and pain
+114321749	the condition of having respiration stopped by compression of the air passage
+114321922	an injury to the neck (the cervical vertebrae) resulting from rapid acceleration or deceleration (as in an automobile accident)
+114322122	a raised mark on the skin (as produced by the blow of a whip); characteristic of many allergic reactions
+114322317	an injury to living tissue (especially an injury involving a cut or break in the skin)
+114322572	a sharp strain on muscles or ligaments
+114322838	a painful injury to a joint caused by a sudden wrenching of its ligaments
+114322982	resembling frostbite but without freezing; resulting from exposure to cold and wet
+114323139	(medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease
+114325305	(medicine) any objective evidence of the presence of a disorder or disease
+114325525	sign of life; usually an indicator of a person's general physical condition
+114325781	absence or suppression of normal menstrual flow
+114325980	a sensation (as of a cold breeze or bright light) that precedes the onset of certain disorders such as a migraine attack or epileptic seizure
+114326172	a tan discoloration of a woman's face that is associated with pregnancy or with the use of oral contraceptives
+114326367	a condition in which the ends of toes and fingers become wide and thick; a symptom of heart or lung disease
+114326529	a bluish discoloration of the skin and mucous membranes
+114326676	increased secretion of urine; if not due to increased liquid intake or to the action of a diuretic drug it can be a symptom of diabetes mellitus
+114326875	cyanosis of the extremities; can occur when a spasm of the blood vessels is caused by exposure to cold or by strong emotion
+114327074	delay of menarche beyond age 18
+114327170	cessation of menstruation in a woman who had previously menstruated
+114327304	an early symptom that a disease is developing or that an attack is about to occur
+114327487	a pattern of symptoms indicative of some disease
+114328149	an abnormal condition resulting from compression of spinal nerve roots in the neck region; involves neck pains and muscular weakness and paresthesia
+114328391	headache and tingling or burning feelings and sweating caused by eating food that contains monosodium glutamate
+114328576	disturbances in saltwater balance and symptoms of weakness and muscular cramps and twitching and convulsions and sometimes paralysis; usually caused by a benign tumor of the cortex of the adrenal gland that leads to excess secretion of aldosterone
+114328885	a congenital medical condition in which body deformation occurs or facial development or mental ability is impaired because the mother drinks alcohol during pregnancy
+114329126	a medical condition of uncertain origin that affected many veterans of the 1991 Gulf War; characterized by fatigue and headache and dizziness and nausea and rashes and joint pain and respiratory disorders
+114329417	a serious chronic and progressive inflammation of the ileum producing frequent bouts of diarrhea with abdominal pain and nausea and fever and weight loss
+114329672	recurrent abdominal pain and diarrhea (often alternating with periods of constipation); often associated with emotional stress
+114329902	syndrome in males that is characterized by small testes and long legs and enlarged breasts and reduced sperm production and mental retardation; a genetic defect in which an extra X chromosome (XXY) is present in the male
+114330229	a serious chronic inflammatory disease of the large intestine and rectum characterized by recurrent episodes of abdominal pain and fever and chills and profuse diarrhea
+114330462	a pattern of symptoms including loss of appetite and bloating and weight loss and muscle pain and steatorrhea; associated with celiac disease and sprue and cystic fibrosis
+114330702	syndrome consisting of feigning acute and dramatic illness for which no clinical evidence is ever found
+114330895	a sleep disorder characterized by sudden and uncontrollable episodes of deep sleep
+114331151	a syndrome characterized by edema and large amounts of protein in the urine and usually increased blood cholesterol; usually associated with glomerulonephritis or with a complication of various systemic diseases
+114331439	syndrome seen only in males; marked by short stature and lowset ears and subnormal fertility
+114331595	syndrome consisting of discomfort or pain in a limb that has been amputated
+114331738	a syndrome that occurs in many women from 2 to 14 days before the onset of menstruation
+114331899	syndrome resulting from exposure to ionizing radiation (e.g., exposure to radioactive chemicals or to nuclear explosions); low doses cause diarrhea and nausea and vomiting and sometimes loss of hair; greater exposure can cause sterility and cataracts and some forms of cancer and other diseases; severe exposure can cause death within hours
+114332372	syndrome resulting from infection by the herpes varicella zoster virus; characterized by vertigo and pain in the ears and facial nerve paralysis and sometimes hearing loss
+114332610	an inflammatory syndrome (etiology unknown) predominantly in males; characterized by arthritis and conjunctivitis and urethritis
+114332821	feeling of uneasiness and restlessness in the legs after going to bed (sometimes causing insomnia); may be relieved temporarily by walking or moving the legs
+114333080	acquired encephalopathy following acute viral infections (especially influenza or chicken pox) in young children; characterized by fever, vomiting, disorientation, coma, and fatty infiltration of the liver
+114333365	discomfort and vascular symptoms and loss of sensation in a shoulder and arm; caused by a scalene muscle compressing the subclavian artery and part of the brachial plexus
+114333599	death of a liveborn infant within the first 28 days of life
+114333719	sudden and unexpected death of an apparently healthy infant during sleep
+114333931	clinical neurological syndrome characterized by muscular twitching and cramps and (when severe) seizures; associated with calcium deficiency (hypoparathyroidism) or vitamin D deficiency or alkalosis
+114334257	tingling sensations in the fingers; caused by compression on a nerve supplying the arm
+114334414	syndrome characterized by swelling of rib cartilage (causing pain)
+114334544	neurological disorder characterized by facial grimaces and tics and movements of the upper body and grunts and shouts and coprolalia
+114334775	a symptom caused by an illness or a drug
+114335001	a delayed effect of a drug or therapy
+114335136	a bad reaction to a hallucinogenic drug
+114335228	a benign side effect of some antibiotics; dark overgrowth of the papillae of the tongue
+114335404	a secondary and usually adverse effect of a drug or therapy
+114335599	symptom consisting of a localized collection of pus surrounded by inflamed tissue
+114335790	an abscess of a common kind in the tissue around a tooth
+114335908	the tip of an abscess (where the pus accumulates)
+114336027	symptom of being purulent (containing or forming pus)
+114336203	blister containing a nonpurulent clear watery content
+114336316	blister containing blood or bloody serum usually caused by an injury
+114336444	protrusion of the eyeball from the socket
+114336581	involuntary shortening of stride and quickening of gait that occurs in some diseases (e.g., Parkinson's disease)
+114336769	a furlike coating of matter as on the tongue
+114336867	necrotic tissue; a mortified or gangrenous part or mass
+114337088	(pathology) gangrene that develops in the presence of arterial obstruction and is characterized by dryness of the dead tissue and a dark brown color
+114337370	(pathology) a deadly form of gangrene usually caused by clostridium bacteria that produce toxins that cause tissue death; can be used as a bioweapon
+114337747	the presence of blood in the urine; often a symptom of urinary tract disease
+114337910	presence of hemoglobin in the urine
+114338024	abnormal deposit of hemosiderin; often a symptom of thalassemia or hemochromatosis
+114338183	cloudiness of the urine
+114338277	a symptom consisting of the involuntary expulsion of air from the nose
+114338498	the state of being enlarged
+114338619	an abnormal protuberance or localized enlargement
+114338976	swelling of the rumen or intestinal tract of domestic animals caused by excessive gas
+114339149	a lymph node that is inflamed and swollen because of plague or gonorrhea or tuberculosis
+114339324	generalized edema with accumulation of serum in subcutaneous connective tissue
+114339475	edema of the mucous membrane of the eyeball and eyelid lining
+114339591	swelling of the optic disc (where the optic nerve enters the eyeball); usually associated with an increase in intraocular pressure
+114339779	a painful swelling of the bursa of the first joint of the big toe
+114339897	a condition marked by uncontrollable tremor
+114340010	presence of white blood cells in the urine; symptom of urinary tract infection
+114340141	swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities
+114340491	swelling of the brain due to the uptake of water in the neuropile and white matter
+114340648	swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis)
+114340860	accumulation of blood in the vagina and uterus
+114340989	accumulation of menstrual blood in the vagina (usually due to an imperforate hymen)
+114341147	swelling up with blood or other fluids (as with congestion)
+114341370	swelling of the iris of the eye
+114341457	swelling of a lymph node
+114341543	swelling of the scrotum
+114341637	tumidity resulting from the presence of blood or other fluid in the tissues
+114341787	slight swelling of an organ or part
+114341979	a collection of blood under the scalp of a newborn; caused by pressure during birth
+114342141	a localized swelling filled with blood
+114342246	the swollen tissue around a healing wound or ulcer
+114342354	abnormally high amounts of bile pigment (bilirubin) in the blood
+114342520	a common disorder that is usually due to immaturity of the liver; usually subsides spontaneously
+114342726	abnormally high blood sugar usually associated with diabetes
+114342881	abnormally low blood sugar usually resulting from excessive insulin or a poor diet
+114343111	yellowing of the skin and the whites of the eyes caused by an accumulation of bile pigment (bilirubin) in the blood; can be a symptom of gallstones or liver infection or anemia
+114343443	yellowish appearance in newborn infants; usually subsides spontaneously
+114343645	an abnormal accumulation of bile pigment in the brain and other nerve tissue; causes yellow staining and tissue damage
+114343821	excessive accumulation of blood or other fluid in a body part
+114344029	accumulation of fluid in the pleural cavity (the space between the lungs and the walls of the chest) often resulting from disease of the heart or kidneys
+114344240	accumulation of blood in the pleural cavity (the space between the lungs and the walls of the chest)
+114344411	increased blood in an organ or other body part
+114344562	congestion with blood
+114344670	congestion in the lungs
+114344760	state of obstruction or stoppage or air in the nose or throat
+114344896	symptom consisting of a breaking out and becoming visible
+114345080	eruption on a mucous membrane (as the inside of the mouth) occurring as a symptom of a disease
+114345241	eruption on the skin occurring as a symptom of a disease
+114345380	any red eruption of the skin
+114345533	obstruction of the sweat ducts during high heat and humidity
+114345675	an itchy skin eruption characterized by weals with pale interiors and well-defined red margins; usually the result of an allergic response to insect bites or food or drugs
+114345955	partial or total lack of sensation in a part of the body; a symptom of nerve damage or dysfunction
+114346126	a symptom of some physical hurt or disorder
+114347092	a dull persistent (usually moderately intense) pain
+114347383	an ache localized in or around a tooth
+114347508	pain in the teeth that results from a change in air pressure (as in flying or mountain climbing)
+114347683	a state of acute pain
+114347981	pain in a joint or joints
+114348081	severe spasm of pain
+114348204	abnormal skin sensations (as tingling or tickling or itching or burning) usually associated with peripheral nerve damage
+114348415	hallucinated sensation that insects or snakes are crawling over the skin; a common side-effect of extensive use of cocaine or amphetamines
+114348629	the suffering of Jesus at the Crucifixion
+114348744	an ache localized in the back
+114348846	pain that feels hot as if it were on fire
+114348984	a burning pain in a limb along the course of a peripheral nerve; usually associated with skin changes
+114349141	acute abdominal pain (especially in infants)
+114349311	pain in the chest
+114349385	a pain in the hand that is not traumatic
+114349481	extreme physical pain
+114349599	painful menstruation
+114349714	painful menstruation that is intrinsic to menstruation and not the result of a disease
+114349867	painful menstruation that is caused by some specific disorder (as endometriosis)
+114350016	pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs
+114350289	pain in the tongue
+114350378	pain in muscles or joints sometimes experienced by children and often attributed to rapid growth
+114350534	venous swelling external or internal to the anal sphincter
+114350671	an ache localized in the stomach or abdominal region
+114350840	an ache localized in the middle or inner ear
+114350948	a painful recurring headache associated with the release of histamine from cells
+114351112	a severe recurring vascular headache; occurs more frequently in women than men
+114351283	a headache accompanied by nausea
+114351375	a headache resulting from congestion or infection in the paranasal sinuses
+114351510	a headache located at the back of the head; usually caused by body tension resulting from overwork or psychological stress
+114351695	backache affecting the lumbar region or lower back; can be caused by muscle strain or arthritis or vascular insufficiency or a ruptured intervertebral disc
+114351918	pain in the cornea
+114351993	pain and discomfort associated with contractions of the uterus during labor
+114352125	pain in the breast
+114352199	rheumatic or myalgic pains in the arms or legs
+114352299	pain in the thigh
+114352371	pain in the uterus
+114352445	pain in a muscle or group of muscles
+114352564	pain in the kidney (usually felt in the loins)
+114352667	acute spasmodic pain along the course of one or more nerves
+114352865	severe pain on swallowing due to a disorder of the esophagus
+114352983	pain in the testes
+114353059	a sharp spasm of pain
+114353167	a mental pain or distress
+114353293	pain in the eye resulting from exposure to bright light (often associated with albinism)
+114353451	pain in the chest caused by inflammation of the muscles between the ribs
+114353606	foot pain
+114353670	pain in the rectum
+114353745	an acute infectious disease occurring in epidemic form and featuring paroxysms of pain (usually in the chest)
+114353993	intense paroxysmal neuralgia along the trigeminal nerve
+114354132	neuralgia along the sciatic nerve
+114354238	a regularly recurrent spasm of pain that is characteristic of childbirth
+114354397	pains felt by a woman after her baby is born; associated with contractions of the uterus
+114354542	a pathological condition in which a word is rapidly and involuntarily repeated
+114354676	an abnormality in which the fingers are webbed
+114354778	pain that is felt at a place in the body different from the injured or diseased part where the pain would be expected
+114355095	sharp pain in the lower back that radiates into the groin; associated with the passage of a renal calculus through the ureter
+114355278	a kind of pain such as that caused by a wound or a burn or a sore
+114355490	a kind of pain; something as sudden and painful as being stung
+114355744	a sharp spasm of pain in the side resulting from running
+114355853	pain felt when a hand pressing on the abdomen is suddenly released; a symptom of peritoneal inflammation
+114356022	a pain that is felt (as when the area is touched)
+114356463	pain caused by heat
+114356541	soreness and warmth caused by friction
+114356739	a deep pulsating type of pain
+114356838	unbearable physical pain
+114356980	pain in the gums
+114357050	pain during urination
+114357126	chronic secretion of mucus from the rear of the nasal cavity into the nasopharynx
+114357268	a small inflamed elevation of skin that is nonsuppurative (as in chicken pox)
+114357416	a papule that changes into a blister
+114357527	a small inflamed elevation of skin containing pus; a blister filled with pus
+114357711	a small inflamed elevation of the skin; a pustule or papule; common symptom in acne
+114357916	a pustule in an eruptive disease
+114358036	an abnormal enlargement of the heart
+114358219	an abnormal sound of the heart; sometimes a sign of abnormal function of the heart valves
+114358411	a murmur heard during systole
+114358502	a rapid and irregular heart beat
+114358628	a painful burning sensation in the chest caused by gastroesophageal reflux (backflow from the stomach irritating the esophagus); symptomatic of an ulcer or a diaphragmatic hernia or other disorder
+114358890	reflux of stomach contents into the esophagus
+114359046	a venous reflux occurring in congestive heart failure
+114359166	a backflow of urine from the ureter into the renal pelvis
+114359289	a backflow of urine from the bladder into the ureter
+114359409	an abnormal backward flow of body fluids
+114359574	sudden brief sensation of heat (associated with menopause and some mental disorders)
+114359722	a disorder of digestive function characterized by discomfort or heartburn or nausea
+114359944	a response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat
+114362253	a condition in which no mucus in produced
+114362347	inflammation of the heart
+114362499	inflammation of the endocardium and heart valves
+114362624	a chronic bacterial infection of the endocardium and heart valves; symptoms develop slowly
+114362792	inflammation of the myocardium (the muscular tissue of the heart)
+114362941	inflammation of the entire heart (the epicardium and the myocardium and the endocardium)
+114363087	inflammation of the pericardium
+114363177	inflammation of the nose and throat with increased production of mucus
+114363319	an inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain
+114363496	inflammation of the uterine cervix
+114363587	inflammation and cracking of the skin of the lips
+114363692	a sensation of cold that often marks the start of an infection and the development of a fever
+114363867	successive stages of chills and fever that is a symptom of malaria
+114364040	a malarial fever that recurs every fourth day
+114364139	inflammation of the bile ducts
+114364227	inflammation of the gall bladder
+114364319	inflammation of the vocal cords
+114364406	inflammation of the spermatic cord
+114364496	inflammation of the colon
+114364658	inflammation of the vagina
+114364739	inflammation of the vagina and bladder
+114364837	inflammation of the conjunctiva of the eye
+114364968	inflammation of the spermatic cord
+114365057	inflammation at the junction of a rib and its cartilage
+114365174	inflammation of the lacrimal sac causing obstruction of the tube draining tears into the nose
+114365328	inflammation of a diverticulum in the digestive tract (especially the colon); characterized by painful abdominal cramping and fever and constipation
+114365537	inflammation of the brain usually caused by a virus; symptoms include headache and neck pain and drowsiness and nausea and fever (phrenitis' is no longer in scientific use)
+114365938	inflammation of the brain and spinal cord
+114366043	inflammation of the inner lining of an artery
+114366147	encephalitis that resembles apoplexy due to blood extravasation
+114366287	encephalitis caused by a virus that is transmitted by a mosquito from an infected horse
+114366467	common form of acute encephalitis caused by herpes simplex 1; usually affects the temporal and frontal lobes
+114366707	inflammation of the white matter of the brain
+114366816	inflammation of the brain and spinal cord and their meninges
+114367002	diffuse inflammation of the entire brain
+114367140	an encephalitis that was epidemic between 1915 and 1926; symptoms include paralysis of the extrinsic eye muscle and extreme muscular weakness
+114367438	encephalitis caused by the West Nile virus; can be fatal in humans and horses and birds
+114367594	a rare chronic progressive encephalitis caused by the measles virus and occurring primarily in children and young adults; death usually occurs within three years; characterized by primary measles infection before the age of two years
+114368125	a rare loss of mental and physical skills in adolescents; associated with the rubella virus
+114368286	inflammation of the mucous lining of the uterine cervix
+114368402	inflammation of the intestine (especially the small intestine); usually characterized by diarrhea
+114368573	enteritis characterized by bloody diarrhea and severe abdominal pain
+114368709	painful inflammation of the muscles and soft tissues around an epicondyle
+114368860	painful inflammation of the epididymis
+114368957	inflammation of the epiglottis; characterized by fever and a severe sore throat and difficulty in swallowing
+114369124	inflammation of the sclera of the eye
+114369220	inflammation of the esophagus; often caused by gastroesophageal reflux
+114369363	inflammation of white fibrous tissues (especially muscle sheaths)
+114369485	local inflammation of muscle and connective tissue
+114369595	inflammation of a hair follicle
+114369685	inflammation of a funiculus (especially an inflammation of the spermatic cord)
+114369821	inflammation of the lining of the stomach; nausea and loss of appetite and discomfort after eating
+114370011	gastritis caused by ingesting an irritant (as too much aspirin)
+114370136	persistent gastritis can be a symptom of a gastric ulcer or pernicious anemia or stomach cancer or other disorders
+114370314	inflammation of the tongue
+114370450	glossitis resulting from injury or infection and characterized by swelling and pain
+114370595	glossitis with atrophy of tongue tissue; sometimes accompanies pernicious anemia
+114370739	a superficial form of glossitis marked by irregular red patches on the tongue and sensitivity to hot or spicy food
+114370945	inflammation and swelling of a movable joint because of excess synovial fluid
+114371100	inflammation of the ileum
+114371179	inflammation of the iris and ciliary body of the eye
+114371291	inflammation of the iris and cornea of the eye
+114371398	inflammation of the iris
+114371475	inflammation of the jejunum of the small intestine
+114371581	inflammation of the jejunum and the ileum of the small intestine
+114371705	inflammation of the cornea causing watery painful eyes and blurred vision
+114371834	inflammation of the cornea and conjunctiva
+114371943	inflammation of the cornea and the iris of the eye
+114372052	inflammation of the cornea and sclera of the eye
+114372162	inflammation of the inner ear; can cause vertigo and vomiting
+114372300	inflammation of the laminated tissue that attaches the hoof to the foot of a horse
+114372448	inflammation of the mucous membrane of the larynx; characterized by hoarseness or loss of voice and coughing
+114372613	inflammation of the larynx and pharynx
+114372716	inflammation of the larynx and trachea and bronchial passageways
+114372851	inflammation of the leptomeninges
+114372946	inflammation of lymph nodes
+114373033	inflammation of a lymph vessel
+114373122	inflammation of a breast (or udder)
+114373212	inflammation of the mastoid
+114373297	inflammation of the lining of the uterus (of the endometrium)
+114373428	paralysis of a single limb
+114373511	any developmental defect of the spinal cord
+114373611	inflammation of the spinal cord
+114373697	inflammation of muscle tissue
+114373853	inflammation of the myometrium
+114373941	infestation by trichina larvae that are transmitted by eating inadequately cooked meat (especially pork); larvae migrate from the intestinal tract to the muscles where they become encysted
+114374242	inflammation of a nerve accompanied by pain and sometimes loss of function
+114374407	inflammation of one or both ovaries
+114374499	inflammation of one or both testes; characterized by pain and swelling
+114374624	paralysis of the motor nerves of the eye
+114374726	inflammation of a bone as a consequence of infection or trauma or degeneration
+114374895	an inflammation of bone and bone marrow (usually caused by bacterial infection)
+114375034	inflammation of the ear
+114375164	inflammation of the external ear (including auricle and ear canal)
+114375291	inflammation of the middle ear; common in children
+114375400	inflammation of the ovaries
+114375482	discharge from the external ear
+114375568	a chronic disease of the nose characterized by a foul-smelling nasal discharge and atrophy of nasal structures
+114375739	inflammation of the pancreas; usually marked by abdominal pain
+114375860	inflammation of connective tissue adjacent to the uterus
+114375975	inflammation of one or both parotid glands
+114376092	inflammation of the peritoneum
+114376206	inflammation of a finger or toe
+114376295	inflammation of a vein (usually in the legs)
+114376413	thrombosis of a vein without prior inflammation of the vein; associated with sluggish blood flow (as in prolonged bedrest or pregnancy or surgery) or with rapid coagulation of the blood
+114376719	inflammation of many or all of the peripheral nerves (as in leprosy)
+114376884	inflammation of the optic nerve behind the eye; common in multiple sclerosis
+114377027	a form of peripheral polyneuritis characterized by pain and weakness and sometimes paralysis of the limbs; cause is unknown
+114377267	phlebitis in conjunction with the formation of a blood clot (thrombus)
+114377400	inflammation of the lungs; caused by a virus or an allergic reaction
+114377526	inflammation of the foreskin of the penis; usually caused by bacterial infection
+114377662	inflammation of the rectum; marked by bloody stools and a frequent urge to defecate; frequently associated with Crohn's disease or ulcerative colitis
+114377867	inflammation of the prostate gland characterized by perineal pain and irregular urination and (if severe) chills and fever
+114378047	inflammation of the vertebral column
+114378156	inflammation of the radicle of a nerve
+114378252	inflammation of the choroid layer behind the retina
+114378365	inflammation of the retina
+114378465	an inflammation of the mucous membrane lining the nose (usually associated with nasal discharge)
+114378643	inflammation of one of the paranasal sinuses
+114378761	inflammation of all of the paranasal sinuses
+114378864	inflammation of a Fallopian tube (usually the result of infection spreading from the vagina or uterus) or of a Eustachian tube
+114379048	inflammation of the sclera
+114379130	inflammation of the salivary glands
+114379224	inflammation of the spleen
+114379306	inflammation of a spinal joint; characterized by pain and stiffness
+114379449	inflammation of the mucous membrane of the mouth
+114379572	a disease of horses, cattle, swine, and occasionally human beings; caused by the vesiculovirus
+114379733	inflammation of the synovial membrane that lines a synovial joint; results in pain and swelling
+114379902	inflammation of the eyelid
+114379983	inflammation of a tendon
+114380125	painful inflammation of the tendon at the outer border of the elbow resulting from overuse of lower arm muscles (as in twisting of the hand)
+114380398	inflammation of a tendon and its enveloping sheath
+114380565	inflammation of the thyroid gland
+114380656	inflammation of the tonsils (especially the palatine tonsils)
+114380775	inflammation of the trachea
+114380859	common respiratory infection characterized by inflammation of the trachea and the bronchi
+114381012	inflammation of the inner ear
+114381098	inflammation of the gums
+114381175	inflammation of the ureter
+114381258	inflammation of the uvea of the eye
+114381347	inflammation of the uvula
+114381427	a local infection induced in humans by inoculation with the virus causing cowpox in order to confer resistance to smallpox; normally lasts three weeks and leaves a pitted scar
+114381740	inflammation of the vagina (usually associated with candidiasis)
+114381879	inflammation of a valve (especially of a cardiac valve as a consequence of rheumatic fever)
+114382027	inflammation of a blood vessel
+114382114	inflammation of the vas deferens and seminal vesicles; usually occurring with prostatitis
+114382265	inflammation of a seminal vesicle (usually in conjunction with prostatitis)
+114382398	inflammation of the vulva
+114382478	inflammation of the vulva and the vagina
+114382579	a sudden noisy expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory infection or bronchitis or pneumonia or tuberculosis
+114382864	(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion
+114383221	symptoms that mimic those of meningitis but without inflammation of the meninges
+114383357	the state that precedes vomiting
+114383561	nausea early in the day; a characteristic symptom in the early months of pregnancy
+114383725	a mild state of nausea
+114383864	a painful and involuntary muscular contraction
+114384147	a muscular cramp (especially in the thigh or calf) following vigorous exercise
+114384320	muscular spasms of thumb and forefinger while writing with a pen or pencil
+114384469	spasm of the eyelid muscle resulting in closure of the eye
+114384587	a painful muscle spasm especially in the neck or back (rick' and wrick' are British)
+114384820	a clonic spasm of a muscle or muscle group
+114384918	severe spasm in which the back arches and the head bends back and heels flex toward the back
+114385069	a sudden muscle spasm; especially one caused by a nervous condition
+114385377	a local and habitual twitching especially in the face
+114385480	condition in which a person blinks continuously
+114385584	muscular twitching involving individual muscle fibers acting without coordination
+114385778	fibrillation of the muscles of the atria of the heart
+114385915	abnormally slow heartbeat
+114385998	recurrent sudden attacks of unconsciousness caused by impaired conduction of the impulse that regulates the heartbeat

@@ -1,0 +1,1000 @@
+201770804	lose interest
+201771015	be worried, concerned, anxious, troubled, or uneasy
+201771313	be agitated or irritated
+201771464	be in an agitated emotional state
+201771670	seethe with deep anger or resentment
+201771801	have an emotional or cognitive impact upon
+201772551	impress or affect deeply
+201772685	render speechless, as by surprising or shocking
+201772856	strike suddenly and with force
+201773011	affect in a disagreeable way
+201773141	refer to or be relevant or familiar to
+201773334	affect suddenly with deep feeling
+201773486	make gloomy or depressed
+201773614	move or affect (a person's emotions or bodily feelings) deeply or sharply
+201773823	impress positively
+201774017	make a positive impression (on someone) beforehand
+201774173	impress greatly
+201774291	overwhelm emotionally
+201774422	move deeply
+201774723	affect emotionally
+201774960	evoke an emotional response
+201775115	irritate
+201775311	arouse sympathy or compassion in
+201775456	undergo an emotional sensation or be in a particular state of mind
+201776093	feel favorably disposed or willing
+201776284	experience anew
+201776419	be proud of
+201776620	have strong suppressed feelings
+201776727	give expression or emotion to, in a stage or movie role
+201776881	arouse or elicit a feeling
+201777051	maintain (a theory, thoughts, or feelings)
+201777267	feel bitter or indignant about
+201777456	cause to be bitter or resentful
+201777655	accept or admit unwillingly
+201777746	gnaw into; make resentful or angry
+201777926	bear a grudge; harbor ill feelings
+201778057	dislike intensely; feel antipathy or aversion towards
+201778347	find repugnant
+201778720	look down on with disdain
+201779085	have a great affection or liking for
+201779456	be enamored or in love with
+201779703	have a love affair with
+201779835	fall in love with; become infatuated with
+201779986	to remain emotionally or intellectually attached
+201780135	be fond of; be attached to
+201780304	hold sacred
+201780389	have a fancy or particular liking or desire for
+201780648	have or feel a dislike or distaste for
+201780873	be fond of
+201781028	take a liking to
+201781131	find enjoyable or agreeable
+201781380	shower with love; show excessive affection for
+201781522	have affection for; feel tenderness for
+201781624	feel less enamoured of something or somebody
+201781734	love intensely
+201781934	love unquestioningly and uncritically or to excess; venerate as an idol
+201782485	regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of
+201782907	show devotion to (a deity)
+201783082	cause fear in
+201783561	inspire awe in
+201783720	subdue, restrain, or overcome by affecting with a feeling of awe; frighten (as with threats)
+201783927	intimidate or overawe
+201784021	be afraid or scared of; be frightened of
+201784253	be uneasy or apprehensive about
+201784387	be sorry; used to introduce an unpleasant statement
+201784548	be afraid or feel anxious or apprehensive about a possible or probable situation or event
+201784760	fill with terror; frighten greatly
+201784999	make timid or fearful
+201785206	intimidate somebody (with a threat)
+201785339	be bossy towards
+201785576	rule or exercise power over (somebody) in a cruel and autocratic manner
+201785802	cause sudden fear in or fill with sudden panic
+201786037	be overcome by a sudden fear
+201786251	anticipate with dread or anxiety
+201786469	fill with apprehension or alarm; cause to be unpleasantly surprised
+201786841	strike with horror or terror
+201787033	haunt like a ghost; pursue
+201787213	engage or engross the interest or attention of beforehand or occupy urgently or obsessively
+201787565	cause to be preoccupied
+201787700	disturb the composure of
+201787844	cause to lose one's nerve
+201787967	lose one's nerve
+201788114	lose control of one's emotions
+201788411	lose control emotionally
+201788618	cause to lose control emotionally
+201788772	be brought to or as if to the point of death by an intense emotion such as embarrassment, amusement, or shame
+201789061	languish as with love or desire
+201789214	force out or release suddenly and often violently something pent up
+201789398	suffer a nervous breakdown
+201789567	cause to lose courage
+201789790	make angry
+201790111	anger or take offense
+201790238	cause to become violent or angry
+201790439	cause to be annoyed
+201790579	irritate or vex
+201790725	make furious
+201790925	become angry
+201791138	get very angry
+201791288	get very angry
+201791419	make mad
+201791528	drive up the wall; go on someone's nerves
+201791641	cause to go crazy; cause to lose one's mind
+201791774	cause annoyance in; disturb, especially by minor irritations
+201792552	feel extreme irritation or anger
+201792751	cause to be annoyed, irritated, or resentful
+201792866	trouble or vex
+201792983	cause annoyance in
+201793089	cause to feel resentment or indignation
+201793315	annoy continually or chronically
+201793821	cause to lose one's composure
+201794202	make (someone) self-conscious and as a result unable to act naturally
+201794412	cause to be nervous or upset
+201794567	discompose
+201794768	cause to feel embarrassment
+201795082	fill with anxiety, dread, dismay, or confusion
+201795261	cause to be confused emotionally
+201795437	make confused or perplexed or puzzled
+201795564	make nervous or agitated
+201795785	draw someone's attention away from something
+201796002	be flustered; behave in a confused manner
+201796126	cause to be embarrassed; cause to feel self-conscious
+201796316	cause to be ashamed
+201796442	look with disfavor on
+201796596	cause emotional anguish or make miserable
+201796980	cause deep emotional pain and grief to somebody
+201797206	hurt the feelings of
+201797598	deeply hurt the feelings of; distress
+201797753	cause an emotional pain, as if by stinging
+201797944	worry unnecessarily or excessively
+201798206	raise scruples
+201798374	suffer agony or anguish
+201798534	cause to agonize
+201798679	experience (emotional) pain
+201798980	suffer great pains or distress
+201799093	suffer the loss of a person through death or removal
+201799344	be mad, angry, or furious
+201799439	get very angry and fly into a rage
+201799899	put into a rage; make violently angry
+201800044	feel intense anger
+201800226	be in a state of uncontrolled anger
+201800357	feel sudden intense sensation or emotion
+201800593	feel remorse for; feel sorry for; be contrite about
+201800811	turn away from sin or do penitence
+201800935	feel sad about the loss or absence of
+201801062	feel sadness
+201801215	observe the customs of mourning after the death of a loved one
+201801358	feel grief
+201801593	cause to feel sorrow
+201801741	cause great unhappiness for; distress
+201802000	oppress or trouble greatly
+201802111	cause mental pain to
+201802298	cause to feel distressed or worried
+201802463	test the limits of
+201802689	stretch to the limits
+201802793	give pain or trouble to
+201802947	fail to meet the hopes or expectations of
+201803246	disappoint, prove undependable to; abandon, forsake
+201803495	fail to meet (expectations or standards)
+201803640	make ineffective or powerless
+201803805	cause to feel shame; hurt the pride of
+201804206	humiliate or depress completely
+201804404	reduce in worth or character, usually verbally
+201804771	make inconspicuous
+201804889	lower in grade or rank or force somebody into an undignified situation
+201805062	prove to be of unsound mind or demonstrate someone's incompetence
+201805279	deprive of human qualities
+201805480	make more humane
+201805679	cause to be unpretentious
+201805829	hold within limits and control
+201806052	practice self-denial of one's body and appetites
+201806201	express grief verbally
+201806476	give verbal or other expression to one's feelings
+201806671	torment emotionally or mentally
+201806967	treat cruelly
+201807344	annoy persistently
+201807605	to arouse hope, desire, or curiosity without satisfying them
+201807900	maintain influence over (others or oneself) skillfully, usually to one's advantage
+201808381	show and train
+201808562	gain favor with somebody by deliberate efforts
+201808720	ingratiate oneself to; often with insincere behavior
+201808928	be excited or anxious about
+201809080	become excited about
+201809214	be apathetic, gloomy, or dazed
+201809351	be in a huff; be silent or sullen
+201809490	feel or suffer from the lack of
+201809651	have a desire for something or someone who is not present
+201809949	recognize with gratitude; be grateful for
+201810076	prepare (oneself) for something unpleasant or difficult
+201810238	get ready for something difficult or unpleasant
+201810374	gain courage
+201810472	attract; cause to be enamored
+201811018	appear inviting
+201811137	make attractive or lovable
+201811281	provoke the hostility of
+201811496	give rise to a desire by being attractive or inviting
+201811737	try to seduce
+201811849	be attractive to
+201812185	attract the attention of
+201812341	cause aversion in; offend the moral sense of
+201812593	cause to feel intense dislike or distaste
+201812736	be repellent to; cause aversion in
+201813031	surprise greatly; knock someone's socks off
+201813288	overcome, as with emotions or perceptual stimuli
+201813584	overwhelm with hilarity, pleasure, or admiration
+201813751	silence or overwhelm by shouting
+201813851	overtake with darkness or night
+201813947	overwhelm with admiration
+201814093	astound or overwhelm, as with shock
+201814287	hold fast (in a certain state)
+201814414	strike with disgust or revulsion
+201814900	abandon hope; give up hope; lose heart
+201815139	lose confidence or hope; become dejected
+201815408	be optimistic; be full of hope; have hopes
+201815703	fill with high spirits; fill with optimism
+201816035	make blessedly happy
+201816164	make proud or conceited
+201816291	fill with sublime emotion
+201816687	heighten or intensify
+201816917	become glad or happy
+201817020	make unhappy
+201817195	cause to feel extremely joyful or happy
+201817360	come to feel sad
+201817466	make glad or happy
+201817635	feel extreme happiness or elation
+201817851	feel happiness or joy
+201818041	make more cheerful
+201818233	be oppressive or disheartening to
+201818363	lower someone's spirits; make downhearted
+201818782	give moral or emotional strength to
+201819152	lessen the intensity of or calm
+201819438	discharge bad feelings or tension through verbalization
+201819595	give pleasure to or be pleasing to
+201820021	give satisfaction
+201820186	excite pleasurably or erotically
+201820398	make happy or satisfied
+201820612	fail to satisfy
+201820811	make content
+201820950	make dissatisfied
+201821097	give displeasure to
+201821281	hold spellbound
+201821541	gratify and charm, usually in order to influence
+201821722	free from enchantment
+201821905	give encouragement to
+201822083	become heartened or elated
+201822202	inspire with confidence; give hope or courage to
+201822505	make more sociable
+201822636	encourage to be less reserved
+201822802	give heart or courage to
+201822939	depress or discourage
+201823114	deprive of courage or hope; take away hope from; cause to feel discouraged
+201823354	take away the enthusiasm of
+201823521	to compel or deter by or as if by threats
+201823710	be discouraging or negative about
+201823849	make a fuss; be agitated
+201824015	make upset or troubled
+201824127	act nervously; be undecided; be uncertain
+201824240	derive or receive pleasure from; get enjoyment from; take pleasure in
+201824586	look at with great enjoyment
+201824736	enjoy avidly
+201824839	exasperate or irritate
+201825070	to render motionless, as with a fixed stare or by arousing terror or awe
+201825361	excite the curiosity of; engage the interest of
+201825572	to stimulate to action
+201825834	cause to be bored
+201825946	share the suffering of
+201826198	to feel or express sympathy or compassion
+201826486	express one's sympathetic grief, on the occasion of someone's death
+201826674	share the feelings of; understand the sentiments of
+201826886	feel concern or interest
+201827099	show no concern or interest; always used in the negative
+201827320	be ecstatic with joy
+201827478	arouse hostility or indifference in where there had formerly been love, affection, or friendliness
+201827830	make withdrawn or isolated or emotionally dissociated
+201827992	lose personal contact over time
+201828195	detach the affections of
+201828281	hope for; have a wish
+201828474	feel or express a desire or hope concerning the future or fortune of
+201828678	prefer or wish to do something
+201828900	be the will of or have the will (to)
+201829067	wish ill or allow unwillingly
+201829179	feel or have a desire for; want strongly
+201829703	have a strong desire or urge to do something
+201829904	want to have
+201830002	have as one's ambition
+201830126	have an inclination for something or some activity
+201830320	express a desire for
+201830440	like better; value more highly
+201830665	expect and wish
+201831006	be envious of; set one's heart on
+201831174	wish, long, or crave for (something, especially the property of another person)
+201831367	be envious, desirous, eager for, or extremely happy about something
+201831561	feel envious towards; admire enviously
+201831687	envy without restraint
+201831800	feel admiration for
+201832012	regard with contempt
+201832198	have a strong sexual desire for
+201832347	desire strongly or persistently
+201832565	have a liking, fondness, or taste (for)
+201832678	get pleasure from
+201832935	feel proud of
+201833068	lose one's emotional or mental composure
+201833234	feel strong emotion, especially anger or passion
+201833417	feel indifferent towards
+201833567	be elated
+201833689	experience a feeling of well-being or happiness, as from good health or an intense emotion
+201833984	be exuberant or high-spirited
+201834134	cause to feel enthusiasm
+201834249	cause to be enthusiastic
+201834387	make less hostile; win over
+201834542	put into a bad mood or into bad humour
+201834740	excite suddenly and intensely
+201834907	frighten or scare, and often provoke into a violent action
+201835085	be preoccupied with something
+201835250	be uncertain about; think about without fully understanding or being able to decide
+201835473	move so as to change position, perform a nontranslational motion
+201837450	take position in the rear, as in a military formation or in the line of scrimmage in football
+201837659	fall or drop suddenly, usually to evade some danger
+201837848	slip or fall out of place, as of body parts
+201837995	dash violently or with great speed or impetuosity
+201838155	move gently or carefully
+201838302	move with a whishing sound
+201838427	remain in place; hold still; remain fixed or immobile
+201838672	stop moving or become immobilized
+201838838	be unable to move further
+201839045	cause to get stuck as if in a mire
+201839222	move due to the pull of gravitation
+201839438	change location; move, travel, or proceed, also metaphorically
+201842593	move lightly, as if suspended
+201842802	move data into and out of core rather than performing useful computation
+201842972	move (a piece of a program) into memory, in computer science
+201843112	go to or towards
+201843222	move with a whining sound
+201843346	be dispersed or disseminated
+201843480	move like a floating object
+201843632	cover a certain distance
+201843749	move like a ghost
+201843905	displace oneself; go from one location to another
+201844034	fly over
+201844180	travel in an airplane
+201844447	travel on an overnight flight
+201844678	travel by means of an aircraft, bus, etc.
+201844871	ride or float on an inflated tube
+201845021	undergo transportation as in a vehicle
+201845289	direct one's course or way
+201845413	cause to sheer
+201845533	steer a vehicle to the side of the road
+201845714	travel or traverse (a distance)
+201845889	navigate in space
+201846010	move quickly or suddenly
+201846146	leave the house to go somewhere
+201846309	leave behind
+201846450	travel by raft in water
+201846632	travel or go by means of a certain kind of transportation, or a certain route
+201846830	move around; move from place to place
+201846997	make a trip for pleasure
+201847306	go on a pleasure trip
+201847439	move, travel, or proceed toward some place
+201847631	go to certain places as for sightseeing
+201847846	visit famous or interesting sights
+201847990	come to see in an official or professional capacity
+201848261	visit again
+201848373	be a regular or frequent visitor to a certain place
+201848595	sail or travel about for pleasure, relaxation, or sightseeing
+201848801	travel at a moderate speed
+201849047	cruise in slow or routine flights
+201849171	make a tour of a certain place
+201849399	travel all over the world for pleasure and sightseeing
+201849529	give theatrical performances while traveling from town to town
+201849662	undertake a journey or trip
+201850041	ride in or travel with a sledge
+201850262	travel on water propelled by wind or by other means
+201850600	traverse or travel on (a body of water)
+201850858	travel upon or across
+201851162	make a long and difficult journey
+201851334	journey on foot, especially in the mountains
+201851524	travel by ship
+201851618	ride over, along, or through
+201851787	travel over (an area of land or sea) in an aircraft
+201852000	cause to fly or float
+201852132	fly a kite
+201852297	be stationary
+201852407	move in order to make room for someone for something
+201852660	move away from a place into another direction
+201852996	leave; informal or rude
+201853188	move toward, travel toward something or somebody or approach something or somebody
+201853713	come near in time
+201853950	grow late or (of time) elapse
+201854102	approach while driving
+201854282	cause to move or shift into a new position or place, both in a concrete and in an abstract sense
+201856435	move in an agitated manner
+201856558	move text to the previous line; in printing
+201856668	move into the center
+201856878	enter again
+201857055	raise (gases or fluids) with a pump
+201857178	move up and down
+201857296	draw or pour with a pump
+201857426	pour out of one vessel into another
+201857528	convey, draw off, or empty by or as if by a siphon
+201857682	cause or enable to pass through
+201857868	draw through a sluice
+201857987	transport in or send down a sluice
+201858118	take liquid out of a container or well
+201858505	draw (liquor) from a tap
+201858665	remove or draw away by the force of suction
+201858874	draw something in by or as if by a vacuum
+201859044	draw off from the lees
+201859141	lift and reset in another soil or situation
+201859433	move a light beam over; in electronics, to reproduce an image
+201859592	change residence, affiliation, or place of employment
+201859968	move into a new house or office
+201860082	occupy a place
+201860197	move out of one's old house or office
+201860336	move out and leave nothing behind
+201860436	move out of an unsafe location into safety
+201860612	move from one country or region to another and settle there
+201861079	move periodically or seasonally
+201861378	stay put (in a certain place)
+201861703	get going or set in motion
+201862002	start (a motorcycle) by means of a kick starter
+201862153	start (a car engine) without a key by bypassing the ignition interlock
+201862348	stop or check by or as if by a pull at the reins
+201862559	rein in to keep from winning a race
+201862672	start an engine again, for example
+201862782	start by cranking
+201862896	wind around; move along a circular course
+201863036	start (a car engine whose battery is dead) by connecting it to another car's battery
+201863207	cause to stop
+201863572	cause to stop
+201863840	cause to come to a sudden stop
+201863981	stop filming
+201864093	make an abrupt change of image or sound
+201864306	move quickly to another scene or focus when filming
+201864471	move to another scene when filming
+201864606	signal to stop
+201864781	come to a halt, stop moving
+201865216	stop abruptly
+201865389	stop for a moment, as if out of uncertainty or caution
+201865608	stop in a chase especially when scent is lost
+201865753	abandon the intended prey, turn, and pursue an inferior prey
+201865913	have a small turning radius
+201866076	stop or slow up one's horse or oneself by or as if by pulling the reins
+201866326	come to a stop
+201866482	cause an engine to stop
+201866626	cause an airplane to go into a stall
+201866762	experience a stall in flight, of airplanes
+201866904	interrupt a trip
+201867144	come to a halt after driving somewhere
+201867396	cause (a vehicle) to stop
+201867579	cause to stop by applying the brakes
+201867803	stop travelling by applying a brake
+201868024	travel a route regularly
+201868216	begin or set in motion
+201868424	get started or set in motion, used figuratively
+201868620	move abruptly
+201868851	move or cause to move with a sudden jerky motion
+201869037	shock physically
+201869189	to move (the head or body) quickly downwards or away
+201869369	move up and down repeatedly
+201869561	bob forward and under so as to feed off the bottom of a body of water
+201869712	move (a baby) up and down in one's arms or on one's knees
+201869852	move up and down with no specific path
+201870016	roll around
+201870178	move by turning over or rotating
+201870483	roll around the rim of
+201870596	cause to move by turning over or in a circular manner of as if on an axis
+201870858	revolve (the telescope of a surveying transit) about its horizontal transverse axis in order to reverse its direction
+201871058	pass across (a sign or house of the zodiac) or pass across (the disk of a celestial body or the meridian of a place)
+201871289	transfer a quantity from one side of an equation to the other side reversing its sign, in order to maintain equality
+201871490	walk on and flatten
+201871683	do a somersault
+201871802	make a rolling motion or turn
+201871983	roll over and over, back and forth
+201872125	move heavily
+201872244	sway from side to side
+201872363	to move in a twisting or contorted motion, (especially when struggling)
+201872773	make a sudden twisting motion
+201872892	move with slow, sinuous movements
+201872996	move unsteadily
+201873189	move sideways
+201873292	move unobtrusively or furtively
+201873458	jump straight up
+201873556	move with sweeping, effortless, gliding motions
+201873886	sweep majestically
+201874036	sweep across or over
+201874268	move obliquely or sideways, usually in an uncontrolled manner
+201874667	move forward or under in a sliding motion
+201874860	slide without control
+201875035	slide sideways through the air in a downward direction in an airplane along an inclined lateral axis
+201875210	apply a brake or skid to
+201875314	move unsteadily or with a weaving or rolling motion
+201875464	move suddenly
+201875539	tremble or shake
+201875673	come into rough contact with while moving
+201875972	move with force
+201876638	press against forcefully without moving
+201876870	move strenuously and with effort
+201877044	push or move with the nose
+201877150	push to thrust outward
+201877287	push out of the way
+201877410	force one's way
+201877523	push upward
+201877659	lift up or elevate
+201877777	push upward
+201877935	push one's way with the elbows
+201878064	push one's way in with one's shoulders
+201878171	be driven or carried along, as by the air
+201878313	be carried with the tide
+201878417	cause to float with the tide
+201878561	set afloat
+201878868	cause to be carried by a current
+201879029	set afloat again
+201879137	travel volitionally and in a certain direction with a certain goal
+201879288	move back and forth or sideways
+201879677	move, rock, or sway from side to side
+201879813	alternate the direction of motion of
+201880021	cause to move back and forth
+201880304	rock, sway, or nod; usually involuntarily
+201880427	sway heavily or unsteadily
+201880523	move in one direction and then into the opposite direction
+201880728	hold or place in or as if in a cradle
+201880900	move or sway in a rising and falling or wavelike pattern
+201881197	cause to fluctuate or move in a wavelike pattern
+201881348	move or walk in a swinging or swaying manner
+201881613	change direction with a swinging motion; turn
+201881778	sway gently back and forth, as in a nodding motion
+201881939	lash or flick about sharply
+201882056	move or swing from side to side regularly
+201882369	oscillate about a desired speed, position, or state to an undesirable extent
+201882559	vibrate before coming to a total rest
+201882712	move back and forth very rapidly
+201882942	turn abruptly and face the other way, either physically or metaphorically
+201883244	expand and contract rhythmically; beat rhythmically
+201883572	move with or as if with a regular alternating motion
+201883770	drive by or as if by pulsation
+201883921	beat rapidly
+201884106	move rhythmically
+201884383	beat so fast that (the heart's) output starts dropping until (it) does not manage to pump out blood at all
+201884553	beat out a rhythm
+201884666	indicate by beating, as with the fingers or drumsticks
+201884881	move noisily
+201885027	move unsteadily, with a rocking motion
+201885173	move about aimlessly or without any destination, often in search of food or employment
+201885950	cross on foot
+201886074	wander aimlessly
+201886163	take a walk; go for a walk; walk for pleasure
+201886472	take a walk for one's health or to aid digestion, as after a meal
+201886682	wander aimlessly in search of pleasure
+201886807	to move or cause to move in a sinuous, spiral, or circular course
+201887203	move along a winding path
+201887337	change place or direction
+201887543	dislodge from a position
+201887709	play boisterously
+201888119	move or act with a sudden increase in speed or energy
+201888259	move ahead steadily
+201888376	jump vertically, with legs stiff and back arched
+201888570	heel over
+201888861	tilt or slant to one side
+201888967	move sideways or in an unsteady way
+201889232	rise or heave upward under the influence of a natural force such as a wave
+201889423	be agitated
+201889573	agitate the air
+201889701	blow on
+201889838	move slowly; in the case of people or animals with the body near the ground
+201890221	crawl about like ants
+201890327	to move hurriedly
+201890481	to pass or move unobtrusively or smoothly
+201890721	move effortlessly; by force of gravity
+201890900	coast in a vehicle using the freewheel
+201891013	move along on or as if on wheels or a wheeled vehicle
+201891317	roll (a ball)
+201891447	cause to move round and round
+201891569	move smoothly and effortlessly
+201891894	cause to move or pass silently, smoothly, or imperceptibly
+201892041	glide easily along a surface
+201892158	move smoothly and sinuously, like a snake
+201892288	move stealthily
+201892504	move or jerk quickly and involuntarily up and down or sideways
+201892777	shake with seismic vibrations
+201892939	tremble convulsively, as from fear or excitement
+201893122	shake with fast, tremulous movements
+201893385	cause to throb or beat rapidly
+201893603	move or cause to move back and forth
+201894081	shake uncontrollably
+201894216	agitate by introducing air or compressed gas
+201894344	shake; especially (a patient to detect fluids or air in the body)
+201894503	shake violently
+201894619	shake and cause to make a rattling noise
+201894785	move or stir about violently
+201895085	thrash about flexibly in the manner of a whiplash
+201895242	shake, quiver, or throb; move back and forth rapidly, usually in an uncontrolled manner
+201895482	swing from one hold to the next
+201895631	shake or vibrate rapidly and intensively
+201895810	move with abrupt, seemingly uncontrolled motions
+201896097	spring back; spring away from an impact
+201896601	move up and down repeatedly
+201896727	bound off one point after another
+201896842	rebound after hitting
+201896993	hit at an angle
+201897072	lightly throw to see which side comes up
+201897306	overturn accidentally
+201897458	cause to move with a flick
+201897594	toss with a sharp movement so as to cause to turn over in the air
+201897764	move or strike with a noise
+201897981	move very slightly
+201898157	to begin moving
+201898313	move an implement through
+201898513	to proceed quickly and easily
+201898642	move in a graceful and rhythmical way
+201898907	perform a glissade, in ballet
+201899020	perform a chasse step, in ballet
+201899161	perform a capriole, in ballet
+201899256	dance the bebop
+201899376	dance erotically or dance with the pelvis thrust forward
+201899512	do the twist
+201899605	dance a waltz
+201899750	dance and make rhythmic clicking sounds by means of metal plates nailed to the sole of the dance shoes
+201900000	dance a tango
+201900112	dance the shag
+201900206	dance the foxtrot
+201900288	perform a contradance
+201900477	do a break dance
+201900650	perform the cakewalk dance
+201900760	dance the conga
+201900874	dance the samba
+201900988	dance the two-step
+201901090	dance the Charleston
+201901196	dance to boogie music
+201901299	dance the cha-cha
+201901399	dance to disco music
+201901482	dance a mambo
+201901576	dance a polka
+201901670	dance the one-step
+201901772	dance the rhumba
+201901878	dance the slam dance
+201902025	dance a quick dance with leaping and kicking motions
+201902174	do the jitterbug
+201902275	move to and fro
+201902585	move from side to side
+201902762	perform a folk-dance
+201902886	dance in formation
+201903010	give the calls (to the dancers) for a square dance
+201903151	perform a quickstep
+201903255	push forcefully
+201903550	thrust down or into
+201903701	move with sudden speed
+201903884	move along rapidly and lightly; skim or dart
+201904149	flutter like a butterfly
+201904248	flap the wings rapidly or fly with flapping movements
+201904401	miss a step and fall or nearly fall
+201904641	stumble and nearly fall
+201904753	cause to stumble
+201904911	walk clumsily and with a bounce
+201905014	walk with a tapping sound
+201905126	walk unsteadily
+201905282	move hesitatingly, as if about to give way
+201905440	run at a moderately swift pace
+201905653	cause to trot
+201905776	move in a wavy pattern or with a rising and falling motion
+201906119	move about in a confused manner
+201906239	flap when the wind is blowing equally on both sides
+201906398	to move about or proceed hurriedly
+201906671	scurry sideways like a crab
+201906776	be in motion due to some air or water current
+201907211	move in an unhurried fashion
+201907378	move or seem to move quickly, lightly, or irregularly
+201907555	cause to move or operate freely within a bounded space
+201907749	rise or move forward
+201907928	flow back or recede
+201908113	move back and away from
+201908286	be afloat either on or below a liquid surface and not sink to the bottom
+201908642	move as if gliding through water
+201908788	float on the surface of water
+201908923	use one's feet to advance; advance by steps
+201910195	move in space outside a space craft
+201910315	walk
+201910518	walk so that the toes assume an indicated position or direction
+201910680	ride in a chariot
+201910816	make walk
+201911069	accompany or escort
+201911251	change orientation or direction, also in the abstract sense
+201912197	turn or go to the port or left side, of a ship
+201912358	turn so as to face; turn the face in a certain direction
+201912536	cause to turn
+201912651	make a turn
+201912802	move so as not face somebody or something
+201912934	turn to the right side
+201913035	turn, usually 180 degrees
+201913154	make a half turn on a horse, in dressage
+201913268	turn a corner
+201913390	turn from an upright or normal position
+201913672	become turned or set on end
+201913805	pass to the other side of
+201913971	cause to overturn from an upright or normal position
+201914366	move or jump suddenly, as if in surprise or alarm
+201914673	start suddenly, as from fright
+201914772	startle with amazement or fear
+201914866	walk or tramp about
+201914958	walk with no particular goal
+201915225	walk around something
+201915332	travel around something
+201915519	travel around, either by plane or ship
+201915691	walk about; not be bedridden or incapable of walking
+201915881	to go stealthily or furtively
+201916152	travel across or pass over
+201916702	cover or traverse by taking long steps
+201916886	traverse or cover by walking
+201917230	cross in a pattern, often random
+201917356	pass through an enemy line; in a military conflict
+201917525	pass into or through by filtering or permeating
+201917700	cause (a liquid) to enter by penetrating the interstices
+201917842	cross a river where it's shallow
+201917990	meet and pass
+201918106	cross or intersect so as to form a cross
+201918290	move as if by clawing, seizing, or digging
+201918446	make one's way by jostling, pushing, or shoving
+201918650	fold so as to resemble a cross
+201918785	change from a crossed to an uncrossed position
+201918940	cover by running; run a certain distance
+201919124	cross over on a bridge
+201919246	cross the road at a red light
+201919358	make a passage or journey from one place to another
+201919723	pass through or across
+201919858	pass directly and often in haste
+201920026	move through a body or an object with a slicing motion
+201920207	walk (through relatively shallow water)
+201920464	wade or dabble in a puddle
+201920627	to walk with a lofty proud gait, often in an attempt to impress others
+201920953	walk in one's sleep
+201921116	walk stealthily
+201921237	walk impeded by some physical limitation or injury
+201921542	walk by dragging one's feet
+201921838	walk without lifting the feet
+201921973	walk leisurely and with no apparent aim
+201922176	walk leisurely
+201922297	move about in or as if in a predatory manner
+201922514	move stealthily
+201922662	move around slowly and aimlessly
+201922796	walk unsteadily
+201923035	move without being stable, as if threatening to fall
+201923219	take a leisurely walk
+201923384	walk fast, with regular or measured steps; walk with a stride
+201923704	walk with long steps
+201923891	move or march as if in a crowd
+201924041	proceed in line
+201924213	enter by marching in a file
+201924323	enter briefly
+201924450	exit briefly
+201924587	march out, in a file
+201924691	travel on foot, especially on a walking expedition
+201924925	walk a long way, as for pleasure or physical exercise
+201925197	walk heavily and firmly, as when weary, or through mud
+201925584	walk through mud or mire
+201925765	climb awkwardly, as if by scrambling
+201925957	go upward with gradual or continuous progress
+201926459	climb up by means of a ladder
+201926569	climb up and over
+201926747	creep up -- used especially of plants
+201926888	climb mountains for pleasure as a sport
+201927051	descend by means of a rappel
+201927367	get up on the back of
+201927583	mount again
+201927685	get out of quickly
+201927862	move with difficulty, by grasping
+201927976	walk on one's toes
+201928101	walk stiffly
+201928220	fly low
+201928358	walk emphatically
+201928458	march in a procession
+201928665	walk ostentatiously
+201928835	walk as if unable to control one's movements
+201929123	walk with great difficulty
+201929291	walk heavily
+201929501	move heavily or clumsily
+201929647	wander from a direct course or at random
+201929984	hike with a backpack
+201930264	move fast by using one's feet, with one foot off the ground at any given time
+201930831	run easily and fairly fast
+201930937	travel rapidly, by any (unspecified) means
+201931164	run around the bases, in baseball
+201931283	run naked in a public place
+201931400	run with the ball; in such sports as football
+201931561	run faster than
+201931700	keep company
+201931856	sail before the wind
+201931945	sail towards another vessel, of a ship
+201932107	sail close to the wind
+201932236	sail to the windward of
+201932343	run for exercise
+201932532	run very fast, usually for a short distance
+201932683	run easily
+201932791	shift or move by taking a step
+201932994	step backwards, in boxing
+201933086	march in a military fashion
+201933207	walk with slow or fast paces
+201933420	tread or stomp heavily or roughly
+201933641	tread over
+201933777	walk slovenly
+201933880	walk daintily
+201933986	walk clumsily
+201934070	travel or be transported in a vehicle
+201934453	proceed along in a vehicle
+201934709	travel in an automobile
+201934845	operate or control a vehicle
+201935233	drive a coach
+201935346	test a vehicle by driving it
+201935537	drive around aimlessly but ostentatiously and at leisure
+201935739	direct the course; determine the direction of travelling
+201936453	be at or take the helm of
+201936557	direct (an aircraft) into a crosswind
+201936675	direct carefully and safely
+201936805	steer away from shore, of ships
+201936922	turn to the right, of helms or rudders
+201937064	conduct or direct the steering of a ship or plane
+201937175	guide with a beacon
+201937276	act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance
+201937737	guide in interplanetary travel
+201937871	direct the flow of
+201938064	force a person or an animal into a position from which he cannot escape
+201938286	maneuver a vehicle into a parking space
+201938590	park at an angle
+201938701	park directly behind another vehicle
+201938835	park a vehicle alongside another
+201938963	direct (oneself) somewhere
+201939092	to go or travel towards
+201939335	ride a bicycle
+201939705	ride a unicycle
+201939812	pedal backwards on a bicycle
+201939907	ride a motorcycle
+201940092	thrash about or strike out with the feet
+201940220	make a motion as with one's fist or foot towards an object or away from one's body
+201940396	travel by rail or train
+201940612	move along on skates
+201940926	execute a spread eagle on skates, with arms and legs stretched out
+201941081	move along on ice skates
+201941253	dance on skates
+201941393	travel on shoes with steel or rubber rollers attached to their soles
+201941654	ride on a flat board with rollers attached to the bottom
+201941851	travel on shoes with a single line of rubber wheels attached to their soles
+201942147	race on skates
+201942285	move along on skis
+201942598	ski, alternating directions
+201942696	perform intricate maneuvers while skiing
+201942801	ski downhill
+201942896	race on skis around obstacles
+201943033	ride (on) a sled
+201943265	travel with a dogsled
+201943412	urge forward
+201943537	drive (a team of dogs or a dogsled)
+201943670	ride a bobsled
+201943893	move along on a luge or toboggan
+201944107	ride water skis
+201944262	travel through the air; be airborne
+201944641	fly in high wind
+201944727	fly in a flock
+201944865	continue flying
+201944952	operate an airplane
+201945563	fly an airplane solely by relying on instruments
+201945697	fly a plane by using visible landmarks or points of reference
+201945846	fly alone, without a co-pilot or passengers
+201945996	test a plane
+201946093	fly a jet plane
+201946206	fly in or as if in a glider plane
+201946419	soar or fly like a kite
+201946577	travel on the surface of water
+201946713	ride on an aquaplane
+201946818	fly a plane without an engine
+201947012	glide on the water in a hydroplane
+201947197	fly upwards or high in the sky
+201947307	hang in the air; fly or be suspended above
+201947430	be motionless, in suspension
+201947577	rise rapidly
+201947808	be erected, built, or constructed
+201947945	shoot up abruptly, like a rocket
+201948111	be suspended in the air, as if in defiance of gravity
+201948325	cause to rise in the air and float, as if in defiance of gravity
+201948551	ride in a boat on water
+201948835	travel by means of steam power
+201949042	travel by tram
+201949136	ride in a motorboat
+201949240	travel in a yacht
+201949375	travel on water propelled by wind
+201949797	sail with much tacking or with difficulty
+201949997	run before a gale
+201950138	sail closer to the wind than
+201950267	turn into the wind
+201950519	turn away from the wind
+201950676	shift from one side of the ship to the other
+201950855	propel with oars
+201951106	operate when rowing a boat
+201951211	propel with sculls
+201951402	travel by canoe
+201951594	travel in a small canoe
+201951746	propel with a paddle
+201951936	ride the waves of the sea with a surfboard
+201952198	ride the crest of a wave without a surfboard
+201952309	ride standing on a surfboard with an attached sail, on water
+201952518	ride in a hot-air balloon
+201952731	travel slowly
+201952866	ride in a taxicab
+201952969	ride in a bus
+201953077	travel by ferry
+201953192	travel in a caravan
+201953294	transport by ferry
+201953438	transport in a wheelbarrow
+201953533	transport from one place to another
+201953676	transport in a chariot
+201953825	transport on a raft
+201953987	send or move around by bus
+201954154	transport by pipeline
+201954361	transport by barge on a body of water
+201954516	transport by railroad
+201954657	transport commercially
+201955018	transport (cargo) by air
+201955135	transport commercially as cargo
+201955339	cause to go somewhere
+201955796	channel one's attention, interest, thought, or attention toward or away from something
+201956067	to send or let go
+201956222	send on a course or in a direction different from the planned or intended one
+201956423	divert in a specified direction
+201956609	send via a specific route
+201956757	send or direct for treatment, information, or a decision
+201957050	send back to a committee
+201957193	channel into a new direction
+201957386	direct energy or urges into useful activities
+201957534	direct one's libidinous urges into another direction
+201957669	move something or somebody around; usually over long distances
+201958200	convey (goods etc.) by truck
+201958418	convey (goods etc.) by rails
+201958600	transport in a sleigh
+201958711	transport in a flatbottom boat
+201958868	send off unceremoniously
+201958986	send away towards a designated goal
+201959223	send documents or materials to appropriate destinations
+201959367	send or ship onward from an intermediate post or station in transit
+201959562	fly very close to the ground
+201959667	fly by means of a hang glider
+201959843	be carried or travel on or in a vehicle
+201960371	rise up onto a thin film of water between the tires and road so that there is no more contact with the road
+201960567	ride in a car with no particular goal and just for the pleasure of it
+201960814	travel by getting free rides from motorists
+201960966	give a passenger or a hitchhiker a lift
+201961132	ride a snowmobile
+201961262	ride on someone's shoulders or back
+201961388	sit and travel on the back of animal, usually while controlling its motions
+201961854	ride (a horse) too hard
+201961962	driving animals such as horses and cattle while riding along with them
+201962137	ride better, faster, or further than
+201962311	alight from (a horse)
+201962474	ride on horseback
+201962727	ride a horse such that it springs and bounds forward
+201962881	cause (a horse) to bound spring forward
+201963040	spring forward on the hind legs
+201963199	ride at a canter
+201963341	ride at a cantering pace
+201963528	go at a canter, of horses
+201963635	walk at a pace
+201963786	ride at a galloping pace
+201963964	ride Western style and bob up and down in the saddle in rhythm with a horse's trotting gait
+201964155	cause to move at full gallop
+201964350	go at a rack
+201964502	go at galloping speed
+201964638	ride at a trot
+201964770	travel through water
+201965193	swim for pleasure or recreation
+201965341	swim in or form a large group of fish
+201965517	show the fins above the water while swimming
+201965698	propel oneself through the water in a finning motion
+201965866	swim like a dog in shallow water
+201965981	swim by doing the crawl
+201966185	swim with the face down and extend the arms forward and outward while kicking with the leg
+201966382	swim on one's back
+201966505	bathe in the nude
+201966678	swim under water
+201966872	plunge into water
+201967137	swim underwater with no breathing apparatus other than a snorkel
+201967323	dive so that one hits the water with one's belly
+201967466	dive into the water bending the body at the waist at a right angle, like a jackknife
+201967662	make a power dive
+201967802	dive with a snorkel
+201967949	move forward by leaps and bounds
+201968641	move suddenly, energetically, or violently
+201968795	leap suddenly
+201968898	perform a capriole, of horses in dressage
+201969005	move around heavily and clumsily
+201969163	cause to jump or leap
+201969338	jump on skis
+201969471	leap or skip, often in dancing
+201969661	move by saltation
+201969813	bound vigorously
+201969918	jump across
+201970046	move or jump suddenly
+201970175	jump across or leap over (an obstacle)
+201970359	perform a leap where both hind legs come off the ground, of a horse
+201970508	jump out from a hiding place and surprise (someone)
+201970713	gather into a huge mass and roll down a mountain, of snow
+201970868	jump lightly
+201971111	jump about playfully
+201971212	jump a hurdle
+201971380	drop steeply
+201971641	plunge nose first; drop with the nose or front first, of aircraft

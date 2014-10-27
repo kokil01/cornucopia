@@ -1,0 +1,1000 @@
+201001124	write new data on top of existing data and thus erase the previously existing data
+201001315	record with a tape recorder
+201001474	record before presentation, as of a broadcast
+201001613	make a record of additions to a collection, such as a library
+201001760	display, as of records in sports games
+201001860	wipe out digitally or magnetically recorded information
+201002103	to perform and record a sale on a cash register
+201002259	make a record of; set down in permanent form
+201002923	record in a ship's manifest
+201003053	write, engrave, or print as a lasting record
+201003181	record in chronological order; make a historical record
+201003339	state
+201003512	set forth beforehand, often as an explanation
+201003688	place in a container for keeping records
+201003902	record in a public office or in a court of law
+201004206	register the trademark of
+201004342	record in detail
+201004526	enter into a log, as on ships and planes
+201004663	record a distance travelled; on planes and cars
+201004785	make a film or photograph of something
+201005094	record on videotape
+201005294	record on photographic film
+201005633	photograph again
+201005786	shoot again
+201005930	take an x-ray of something or somebody
+201006107	make underscoring marks
+201006280	draw a line or lines underneath to call attention to
+201006448	put quote marks around
+201006595	notch a surface to record something
+201006737	write by means of a keyboard with types
+201007094	use a shift key on a keyboard
+201007254	write by hand
+201007418	hit the backspace key on a computer or typewriter keyboard
+201007593	type with a full space between lines
+201007699	type with two empty spaces between lines
+201007827	type without looking at the keyboard
+201007949	make explicit; specify in detail
+201008101	write briefly or hurriedly; write a short note of
+201008284	write down quickly without much attention to detail
+201008466	describe roughly or briefly or give the main points or summary of
+201008744	indicate roughly
+201008855	exchange messages
+201009072	communicate (with) in writing
+201009249	send cables, wires, or telegrams
+201009522	transmit messages via radio waves
+201009703	send something via a facsimile machine
+201009951	give a summary (of)
+201010315	give an abstract (of)
+201010464	make a summary (of)
+201010573	make a summary or abstract of a legal document and inscribe it in a list
+201010746	place on the docket for legal action
+201010930	summarize briefly
+201011124	go back over
+201011267	express in words
+201011848	state as one's opinion or judgement; declare
+201012013	express with difficulty
+201012145	state emphatically and authoritatively
+201012717	state freely
+201012879	make a declaration (of dutiable goods) to a customs official
+201013058	to declare or affirm solemnly and formally as true
+201013569	affirm or avow formally or solemnly
+201013752	say yes to
+201013950	affirm once again
+201014100	strengthen or make more firm
+201014404	attach or append a legal verification to (a pleading or petition)
+201014570	give evidence for
+201014801	give circumstantial evidence for
+201014914	confirm again
+201015049	make a deposition; declare under oath
+201015239	present and urge reasons in opposition
+201015376	to stress, single out as important
+201015865	emphasize by putting heavy stress on or by moving to the front of the sentence
+201016195	emphasize, especially by identification
+201016371	make clear by special emphasis and try to convince somebody of something
+201016618	give extra weight to (a communication)
+201016830	give testimony in a court of law
+201017113	give personal assurance; guarantee
+201017253	provide evidence for
+201017686	constitute reasonable evidence for
+201017875	advance evidence for
+201018011	report or maintain
+201018325	make an allegation in an action or other legal proceeding, especially answer the previous pleading of the other party by denying facts therein stated or by alleging new facts
+201018635	enter a demurrer
+201018787	state categorically
+201019010	affirm or declare as an attribute or quality of
+201019231	make the (grammatical) predicate in a proposition
+201019510	administer on oath to
+201019652	state or assert
+201019835	claim as due or just
+201020074	ask to be informed of
+201020186	demand as one's due
+201020361	ask for legally or make a legal claim to, as of debts, for example
+201020654	set up a claim in opposition to a previous claim
+201020809	release from (claims, debts, or taxes)
+201020937	specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement
+201021481	give a guarantee or promise of
+201021652	inform positively and with certainty and confidence
+201021817	give or restore confidence in; cause to feel sure or certain
+201022014	make mention of
+201022365	put down in writing; of texts, musical compositions, etc.
+201022603	write down hastily
+201022740	write all the required information onto a form
+201022943	make a written note of
+201023137	clarify by giving an example of
+201023429	reach a conclusion after a discussion or deliberation
+201023638	make arrangements for
+201023880	arrange firmly
+201023982	be specific about
+201024266	draw too general a conclusion
+201024429	draw from specific cases for more general cases
+201024749	make universal
+201024915	speak or write in generalities
+201025080	commend
+201025268	repeat a passage from
+201025583	refer to for illustration or proof
+201025790	quote incorrectly
+201025934	name the price of
+201026075	quote a price lower than that quoted by (another seller)
+201026199	make reference to
+201026772	refer to or discuss briefly
+201026873	cite as an authority; resort to
+201027098	refer to people that one assumes one's interlocutors admire in order to try to impress them
+201027255	put forward for consideration or discussion
+201027464	bring forward for consideration
+201027611	insert casually
+201027794	mention something unpleasant from the past
+201027944	refer from one entry to another, as in catalogues, books, and lists
+201028104	give the name or identifying characteristics of; refer to by name or some other identifying characteristic property
+201028567	refer (a word or name) to a person or thing
+201028737	make a more or less disguised reference to
+201028984	move into a desired direction of discourse
+201029183	state or say further
+201029370	add casually to a conversation
+201029517	issue a decree
+201029677	express one's opinion openly and without fear or hesitation
+201029933	insert personal opinions into an objective statement
+201030088	administer baptism to
+201030303	use a name to designate
+201030475	designate by an identifying term
+201030649	give a nickname to
+201030757	assign a specified (usually proper) proper name to
+201031245	assign a new name to
+201031401	be called; go by a certain name
+201031533	give a title to
+201031675	name formally or designate with a term
+201031793	provide with a name or nickname
+201031885	assign a label to; designate with a label
+201032165	assign a name or title to
+201032430	exclude from a church or a religious community
+201032711	administer Communion; in church
+201032865	enter into a covenant or formal agreement
+201033142	mark or expose as infamous
+201033289	cause to be directed or transmitted to another place
+201033789	send by rapid transport or special messenger service
+201033999	send or transport by airmail
+201034198	send by registered mail
+201034323	communicate electronically on the computer
+201034587	send unwanted or junk e-mail
+201034712	communicate with and within a group
+201034902	send by express mail or courier
+201035061	explain or interpret something
+201035218	comment on music to be played
+201035399	act on verbally or in some form of artistic expression
+201035814	cause to appear more pleasant or appealing
+201035990	treat from a theological viewpoint or render theological in character
+201036184	to consider or examine in speech or writing
+201036519	talk at great length about something of one's interest
+201036638	discuss matters that are related to work
+201036804	obstruct or hinder any discussion
+201037071	discourage or frighten with threats or a domineering manner; intimidate
+201037252	settle by concession
+201037402	achieve harmony of opinion, feeling, or purpose
+201037675	make a compromise; arrive at a compromise
+201037919	compromise oneself for money or other gains
+201038060	make mutual concessions
+201038191	put in a dangerous, disadvantageous, or difficult position
+201038464	expose or make liable to danger, suspicion, or disrepute
+201038676	speak (about unimportant matters) rapidly and incessantly
+201039175	make noise as if chattering away
+201039370	talk incessantly and tiresomely
+201039522	to talk foolishly
+201039782	talk or behave amorously, without serious intentions
+201040306	engage in amorous play
+201040410	act seductively with (someone)
+201040538	talk socially without exchanging too much information
+201041034	talk idly or casually and in a friendly way
+201041202	communicate silently and non-verbally by signals or signs
+201041726	make known with a word or signal
+201041903	signal by or as if by a flag or light waved according to a code
+201042030	convey by semaphore, of information
+201042150	send signals by or as if by semaphore
+201042272	signal by means of a mirror and the using the sun's rays
+201042422	communicate or signal with a flag
+201042579	articulate silently; form words with the lips only
+201042792	move the lips in synchronization (with recorded speech or song)
+201042933	refuse to talk or stop talking; fall silent
+201043170	talk freely and without inhibition
+201043287	signal with the hands or nod
+201043516	summon with a wave, nod, or some other gesture
+201043634	ask to come
+201043826	wag one's tongue; speak about others and reveal secrets or intimacies
+201044100	tell or spread rumors
+201044304	talk volubly
+201044403	talk in a tearful manner
+201044597	to utter a loud clamorous shout
+201044867	communicate by hooting and panting, as of primates
+201044984	communicate by hooting and grunting, as of primates
+201045103	issue a grunting, low, animal-like noise
+201045313	utter or express by whistling
+201045484	give a signal by whistling
+201045640	whistle or howl approvingly at a female, of males
+201045759	make a whining, ringing, or whistling sound
+201045986	speak softly or indistinctly
+201046249	issue soft noises
+201046405	talk indistinctly; usually in a low voice
+201046683	utter indistinctly
+201046763	speak disparagingly of; e.g., make a racial slur
+201046945	indicate contempt by breathing noisily and forcefully through the nose
+201047190	utter with anger or contempt
+201047291	indicate pain, discomfort, or displeasure
+201047591	to utter or emit low dull rumbling sounds
+201047931	make a loud noise, as of wind, water, or vehicles
+201048229	make a loud, roaring sound, as of a car engine, while moving
+201048352	make a raucous noise
+201048459	to make or produce a loud noise
+201048687	make a murmuring sound
+201048804	emit long loud cries
+201049135	make high-pitched, whiney noises
+201049253	cry loudly, as of animals
+201049468	speak in an unfriendly tone
+201049617	make barking sounds
+201049823	bark with prolonged noises, of dogs
+201049945	utter in deep prolonged tones
+201050043	bark in a high-pitched tone
+201050202	cry plaintively
+201050364	talk whiningly
+201050441	shout loudly and without restraint
+201050590	make a loud noise, as of animal
+201050811	utter a harsh abrupt scream
+201051012	make a shrill creaking, squeaking, or noise, as of a door, mouse, or bird
+201051148	sing a note with the correct pitch
+201051245	sing loudly and without inhibition
+201051342	sing softly
+201051478	sing or play against other voices or parts
+201051609	recite with musical intonation; recite as a chant or a psalm
+201052037	speak, chant, or declaim in a singsong
+201052185	speak carefully, as with rising and falling pitch or in a particular tone
+201052437	begin to play or sing
+201052523	sing by changing register; sing by yodeling
+201052768	sing or play with trills, alternating with the half note above or below
+201052990	give off unsteady sounds, alternating in amplitude or frequency
+201053143	sing treble
+201053236	recite in elocution
+201053445	deliver an oration in grandiloquent style
+201053570	conclude a speech with a formal recapitulation
+201053700	read metrically
+201053828	talk in a noisy, excited, or declamatory manner
+201054173	make high-pitched sounds
+201054434	make a vibrant sound, as of some birds
+201054543	make a vibrant noise, of grasshoppers or cicadas
+201054654	cry like a cat
+201054808	indicate pleasure by purring; characteristic of cats
+201054970	utter quacking noises
+201055093	utter the characteristic sound of owls
+201055211	cry like a goose
+201055367	use the horn of a car
+201055495	make high-pitched sounds, as of birds
+201055643	make a sharp hissing sound, as if to show disapproval
+201055899	insert a sibilant sound before or after (another sound)
+201056058	express or utter with a hiss
+201056271	utter a sibilant
+201056425	braying characteristic of donkeys
+201056566	utter a high-pitched cry, characteristic of pigs
+201056721	make a clucking sounds, characteristic of hens
+201056890	make a low noise, characteristic of bovines
+201057018	produce a click
+201057138	pronounce with a trill, of the phoneme r'
+201057276	pronounce with an initial sibilant
+201057430	pronounce with a flap, of alveolar sounds
+201057533	cause to burst as a result of air pressure; of stop consonants like /p/, /t/, and /k/
+201057701	sing with closed lips
+201057850	pronounce with a roll, of the phoneme /r/
+201057974	make a cackling sound
+201058086	make a low continuous sound
+201058241	squawk shrilly and loudly, characteristic of hens
+201058426	talk or utter in a cackling manner
+201058652	make a noise characteristic of a goose
+201058790	respond to the reins, as of horses
+201058906	interfere with or prevent the reception of signals
+201059214	jam an entire frequency spectrum
+201059430	jam a narrow band of frequencies
+201059581	jam a single frequency
+201059709	jam a broad spectrum of frequencies to affect all communications in the area except for directional antenna communications
+201059908	make less severe or harsh
+201060096	make a crushing noise
+201060298	make a gurgling sound, characteristic of turkeys
+201060446	make or write a comment on
+201060752	make a comment, usually ironic
+201060867	make unwanted and intrusive comments
+201060995	express recognition of the presence or existence of, or acquaintance with
+201061436	refuse to acknowledge
+201061615	make a characteristic sound, of a horse
+201061817	utter with gargling or burbling sounds
+201061937	utter a cry, characteristic of crows, rooks, or ravens
+201062070	utter a high-pitched cry, as of seagulls
+201062189	convey or communicate; of a smile, a look, a physical gesture
+201062366	convey, as of a compliment, regards, attention, etc.; bestow
+201062618	bestow
+201062781	utter catcalls at
+201062889	serve as a means for expressing something
+201063192	pass on a communication
+201063353	ascribe blame or guilt for something to (someone)
+201063503	indicate through a symbol, formula, etc.
+201063726	utter haw'
+201063821	utter hem' or ahem'
+201063903	utter hems' and haws'; indicated hesitation
+201064072	pledge without delivery or title of possession
+201064187	attack strongly
+201064275	pass down
+201064417	establish as the highest level or best performance
+201064577	transfer
+201064761	send a message or attempt to reach someone by radio, phone, etc.; make a signal to in order to transmit a message
+201065071	bring out an official document (such as a warrant)
+201065210	determine (what is to happen in certain contingencies), especially by including a proviso condition or stipulation
+201065551	communicate the intended meaning or impression
+201065717	request the participation or presence of
+201065952	communicate
+201066084	express contempt about
+201066173	discuss vehemently in order to reach a solution or an agreement
+201066423	utter a hoarse sound, like a raven
+201066582	place under a spell
+201066718	release from a spell
+201066821	make out and issue
+201067021	write out a check on a bank account
+201067137	bring before the public for the first time, as of an actor, song, etc.
+201067294	praise extravagantly
+201067478	define
+201067652	utter meaningless sounds, like a baby, or utter in an incoherent way
+201067899	maintain by writing regular records
+201068058	communicate with a place or person; establish communication with, as if by telephone
+201068314	consider and reconsider carefully
+201068455	present somebody with something, usually to accuse or criticize
+201068797	utter monotonously and repetitively and rhythmically
+201069024	utter or make a noise, as when swallowing too quickly
+201069216	express a threat either by an utterance or a gesture
+201069402	express with a beaming face or smile
+201069534	express with a smile
+201069686	utter with force; utter vehemently
+201069838	to make melodious sounds
+201070017	read aloud to check for omissions or absentees
+201070156	bring to public notice by writing, with praise or condemnation
+201070402	deny formally (an allegation of fact by the opposing party) in a legal suit
+201070587	require or ask for as a price or condition
+201070815	indicate a decision in regard to
+201071007	summon to court
+201071112	lay legal claim to
+201071212	join for the purpose of communication
+201071413	join by means of communication equipment
+201071660	accord by verdict
+201071831	inquire for (information)
+201072011	inquire for
+201072124	be in verbal contact; interchange information or ideas
+201072477	give the etymology or derivation or suggest an etymology (for a word)
+201072799	begin to speak, understand, read, and write a language
+201072990	printing: direct that a matter marked for omission or correction is to be retained (used in the imperative)
+201073177	abandon to eternal damnation
+201073350	send a message
+201073496	send as a message
+201073654	send a message to
+201073784	reach agreement on
+201073938	mark with a grammatical morpheme that indicates plural
+201074155	criticize harshly
+201074284	(medicine) order the use of (a treatment, medicine, etc.), usually by written prescription
+201074513	recommend as beneficial
+201074673	compete for something; engage in a contest; measure oneself against others
+201075052	make an application as for a job or funding
+201075218	make an attempt at achieving something
+201075360	participate in games or sport
+201076346	take one's position before a kick-off
+201076467	play the Scottish game of curling
+201076599	leave one's opponent unable to take a direct shot
+201076750	fail to follow suit when able and required to do so
+201076902	move into a strategically more advantageous position
+201077094	move one's pieces into strategically more advantageous positions
+201077307	to be on base at the end of an inning, of a player
+201077437	play wrong or in an unskillful manner
+201077557	play in the starting lineup
+201077720	drop or juggle or fail to play cleanly a grounder
+201077891	make a volley
+201078005	play the cards of (a suit) so that the last trick on which a hand can follow suit will be taken by a higher card in the hand of a partner who has the remaining cards of a combined holding
+201078276	play again
+201078410	play cricket
+201078523	act as a backstop
+201078643	play the fullback
+201078763	play the quarterback
+201078907	run with the stick
+201079008	have a turn; make one's move in a game
+201079346	deceive an opponent by a bold bet on an inferior hand with the result that the opponent withdraws a winning hand
+201079596	subject to a stalemate
+201079722	move the king two squares toward a rook and in the same move the rook to the square next past the king
+201079961	put the ball into play
+201080152	serve an ace against (someone)
+201080280	make the opening move
+201080443	choose at random
+201080628	play a trump
+201080819	play a trump higher than (one previously played) to the trick
+201080966	trump alternately in two hands
+201081082	lose the lead
+201081176	oppose, as in hostility or a competition
+201081565	confront bodily
+201081732	face a difficulty and grapple with it without avoiding it
+201081873	contend against an opponent in a sport, game, or battle
+201082266	employ in a game or in a specific position
+201082457	use or move
+201082628	change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent
+201082916	be changed for a superior chess or checker piece
+201083084	shoot or hit in a particular manner
+201083276	secure with the foot
+201083394	repeat a game against the same opponent
+201083545	set into opposition or rivalry
+201083898	decide (a contest or competition) by a runoff
+201084045	play to a finish
+201084245	play as a fielder
+201084416	exert full strength
+201084546	fight with the fists
+201084683	catch or pick up (balls) in baseball or cricket
+201084847	be the catcher
+201084999	become a participant; be involved in
+201085330	enter eagerly into
+201085437	give up in the face of defeat of lacking hope; admit defeat
+201085766	defeat soundly and humiliatingly
+201085987	overthrow or destroy (something considered evil or harmful)
+201086180	engulf and destroy
+201086331	defeat totally
+201086459	start a game by a face-off
+201086581	strike a ball from the teeing ground at the start of a hole
+201086742	make a score (on a hole) equal to par
+201086877	score
+201086999	score (a spare)
+201087135	complete successfully
+201087277	score an extra point or points after touchdown by kicking the ball through the uprights or advancing the ball into the end zone
+201087541	play (a hole) in one stroke
+201087648	be a referee or umpire in a sports competition
+201087885	put at a disadvantage
+201088088	influence in an unfair way
+201088285	attempt to forecast the winner (especially in a horse race) and assign odds for or against a contestant
+201088514	compete in a race
+201088960	finish third or better in a horse or dog race
+201089102	finish second or better in a horse or dog race
+201089265	participate in a boat race
+201089376	compete in a horse race
+201089485	ride a racehorse as a professional jockey
+201089608	prepare oneself for a military confrontation
+201089970	arm anew
+201090140	arm in advance of a confrontation
+201090246	remove offensive capability from
+201090416	take away the weapons from; render harmless
+201090603	retire from military service
+201090792	get ready for war
+201090958	provide with workers
+201091160	provide with staff
+201091334	assign to a station
+201091548	station (troops) in a fort or garrison
+201091696	form a team
+201091834	attach to, as a journalist to a military unit when reporting on a war
+201092025	serve as a crew member on
+201092148	act as an organized group
+201092289	form a group or group together
+201092518	join or form a pool of people
+201092627	form or unite into a brigade
+201092746	be engaged in a fight; carry on a fight
+201093571	engage in a conflict
+201093709	struggle in opposition
+201093838	fight against or resist strongly
+201094255	show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient
+201094539	get one's revenge for a wrong or an injury
+201094695	defend oneself
+201094777	battle or contend against in or as if in a battle
+201095237	engage in an aerial battle with another fighter plane
+201095392	combat to overcome an opposing tendency or force
+201095583	make or wage war
+201095776	fight a quick and surprising war
+201095876	commence hostilities
+201095998	end hostilities
+201096197	go on a campaign; go off to war
+201096355	go on a crusade; fight a holy war
+201096497	run, stand, or compete for an office or a position
+201096795	travel through a district and make political speeches
+201096950	run again for office
+201097072	tour the country making political speeches, giving lectures, or presenting plays
+201097309	appear at county fairs and carnivals as a stunt flier and parachute jumper
+201097494	tour the country in order to solicit votes for an election
+201097629	do duty or hold offices; serve in a specific function
+201097992	serve in a specific professional capacity
+201098150	serve on the staff of
+201098310	discharge one's duties
+201098508	act as a critic
+201098716	perform a job or duty on a rotating basis
+201098908	perform duties attached to a particular office or place or function
+201099271	act as a caddie and carry clubs for a player
+201099442	serve as a soldier in the military
+201099603	join the military
+201099720	join a club, an activity, etc. with the intention to join or participate
+201099911	engage somebody to enter the army
+201100154	release from military service
+201100371	call to arms; of military personnel
+201100617	release from military service or remove from the active list of military service
+201100863	cause to assemble or enlist in the military
+201101117	enroll into service compulsorily
+201101280	lend a military character to (a country), as by building up a military force
+201101631	militarize anew
+201101801	do away with the military organization and potential of
+201102003	fail to win
+201102277	be defeated
+201102419	lose (a game)
+201102556	be the winner in a contest or competition; be victorious
+201102978	win easily
+201103083	be successful in
+201103241	obtain by winning
+201103363	win an overwhelming victory in or on
+201103514	score more points than one's opponents
+201103629	hit a home run
+201103724	declare the loser
+201103827	win in an election
+201103982	secure the passage or adoption (of bills and motions)
+201104145	prove superior
+201104324	come out better in a competition, race, or conflict
+201105078	beat easily
+201105250	remove from a contest or race
+201105408	defeat thoroughly
+201105591	defeat soundly and utterly
+201105747	bring down or defeat (an opponent)
+201105870	seize the position of and defeat
+201106014	beat overwhelmingly
+201106104	defeat by a lurch
+201106247	make ineffective
+201106429	overcome, usually through no fault or weakness of the person that is overcome
+201106659	defeat disastrously
+201106787	be there first
+201106920	intercept (a player)
+201107035	defeat someone through trickery or deceit
+201107263	beat through cleverness and wit
+201107508	grow faster than
+201107597	shout louder than
+201107707	roar louder than
+201107796	sail faster or better than
+201107937	draw a gun faster, or best someone in a gunfight
+201108050	be or do something to a greater degree
+201108788	sell more than others
+201108915	be sold more often than other, similar products
+201109081	surpass in speed
+201109275	surpass in excellence
+201109435	steal the show, draw attention to oneself away from someone else
+201109665	attract more attention and praise than others
+201109850	have a greater range than (another gun)
+201109955	be heavier than
+201110036	be braver than
+201110116	surpass someone in cruelty or evil
+201110217	outdo someone in trickery
+201110306	rank first; used often in a negative context
+201110464	surpass or beat by a wide margin
+201110559	win a victory over
+201111038	get on top of; deal with successfully
+201111226	throw a steer by seizing the horns and twisting the neck, as in a rodeo
+201111362	cause to flee
+201111498	defeat suddenly and unexpectedly
+201111670	get the better of
+201111842	to fight better than; get the better of
+201112055	defeat by a narrow margin
+201112184	surpass in generalship
+201112274	perform a movement in military or naval tactics in order to secure an advantage in attack or defense
+201112554	compete (for an advantage or a position)
+201112658	defeat by more skillful maneuvering
+201112928	overcome by superior force
+201113072	overwhelm by using great force
+201113291	march longer distances and for a longer time than
+201113439	obtain advantages, such as points, etc.
+201113883	steal a base
+201113995	recover something or somebody that appeared to be lost
+201114241	gain points in a game
+201114789	get a certain number or letter indicating quality or performance
+201115009	achieve a certain score or rating on a test
+201115262	score (a goal) by making a place kick
+201115404	make a goal
+201115559	shoot in two strokes under par
+201115689	score a hole in one
+201115792	score an ace against
+201115898	obtain a base on balls
+201116045	cause a run or runner to be scored
+201116231	retreat
+201116393	maintain a required pace or level
+201116561	maintain the same pace
+201116721	overcome by conquest
+201116893	place an opponent's king under an attack from which it cannot escape and thus ending the game
+201117182	place into check
+201117329	attack with dogs or set dogs upon
+201117424	urge to attack someone
+201117608	finish a game with an equal number of points, goals, etc.
+201117829	compensate; make the score equal
+201118003	give up or agree to forgo to the power or possession of another
+201118334	withstand the force of something
+201118693	surrender (power or a position)
+201118865	cease opposition; stop fighting
+201119003	stand up or offer resistance to somebody or something
+201119398	be stubborn in resolution or resistance
+201119504	refuse to back down; remain solid under criticism or attack
+201119637	resist bravely
+201119743	resist and fight to a standoff
+201119902	complete a pass
+201120027	acknowledge defeat
+201120230	surrender under agreed conditions
+201120349	make incapable of military action
+201120499	yield to the control of another
+201120710	make accountable for
+201120867	take the initiative and go on the offensive
+201121306	place under attack with one's own pieces, of two enemy pieces
+201121448	attack viciously and ferociously
+201121587	launch an attack or assault on; begin hostilities or start warfare with
+201122221	attack by submarine
+201122368	attack suddenly
+201122487	attack someone physically or emotionally
+201123030	attack or hit on or from the side where the attacked person's view is obstructed
+201123177	exhaust by attacking repeatedly
+201123318	attack brutally and fiercely
+201123470	assail again
+201123596	make a sudden physical attack on
+201123738	attack and bombard with or as if with missiles
+201123926	make defenseless
+201124039	(chess) immobilize a piece
+201124145	to make a rush at or sudden attack upon, as in battle
+201124374	fight a duel, as over one's honor or a woman
+201124620	be the rival of, be in competition with
+201124831	compete with successfully; approach or reach equality with
+201125056	be more of a rival than
+201125162	joust against somebody in a tournament by fighting on horseback
+201125332	charge with a tilt
+201125456	fight while sitting on somebody's shoulders
+201125585	engage in a tourney
+201125687	carry out a feud
+201125841	cover a certain distance or advance beyond
+201126035	have a certain range
+201126191	engage in a skirmish
+201126313	make a strategic, offensive, assault against an enemy, opponent, or a target
+201126815	hit a ball so that it causes a backspin
+201126961	hit sharply
+201127034	strike a ball with a smooth blow
+201127148	row at a particular rate
+201127254	turn the oar, while rowing
+201127390	turn the paddle; in canoeing
+201127510	make a counterattack
+201127635	be counted out; remain down while the referee counts to ten
+201127799	attack with gas; subject to gas fumes
+201127984	attack with teargas; subject to teargas fumes
+201128150	lay mines
+201128308	destroy enemy mines with one's own mines
+201128477	attack by storm; attack suddenly
+201128645	attack suddenly and without warning
+201128786	march aggressively into another's territory by military force for the purposes of conquest and occupation
+201129126	assail or attack on all sides:
+201129272	impose a blockade on
+201129387	obstruct access to
+201129501	block off with barricades
+201129641	prevent access to by barricading
+201129837	surround so as to force to give up
+201130064	hem in fish with stakes and nets so as to prevent them from going back into the sea with the ebb
+201130221	be on the defensive; act against an attack
+201130497	defend with a bulwark
+201130619	shield from danger, injury, destruction, or damage
+201131204	law: grant immunity from prosecution
+201131325	protect excessively
+201131490	to protect someone's interests
+201131627	hold within range of an aimed firearm
+201131763	watch over or shield from danger or harm; protect
+201132017	avert, turn away, or repel
+201132136	use tariffs to favor domestic industry
+201132302	protect against a challenge or attack
+201132595	protect, hide, or conceal from danger or harm
+201132881	protect through supernatural powers or charms
+201133033	surround with a wall in order to fortify
+201133356	surround with a stockade in order to fortify
+201133484	surround with or as if with a rampart or other fortification
+201133623	force or drive back
+201133899	hold back, as of a danger or an enemy; check the expansion or influence of
+201134328	throw bombs at or attack with bombs
+201134781	bomb a large area systematically and extensively
+201134967	make somebody homeless by destroying their houses with bombs
+201135093	bomb from a diving airplane
+201135223	bomb by gliding
+201135306	attack with delayed release bombs
+201135406	bomb with atomic weapons
+201135522	attack with a hydrogen bomb
+201135620	bomb in certain patterns
+201135714	strike at with firepower or bombs
+201135914	send an explosive to
+201136093	attack with incendiary bombs
+201136251	cause to go off
+201136497	fire a weapon with a loud explosive noise
+201136664	go off or discharge
+201136801	fire as from a gun
+201136948	fire a cannon
+201137079	fail to fire or detonate
+201137207	fire a shot
+201137512	shoot rapidly and repeatedly
+201137645	shoot beyond or over (a target)
+201137797	release or pull the trigger on
+201137927	aim and shoot with great precision
+201138109	hunt or shoot snipe
+201138209	start firing a weapon
+201138348	use explosives on
+201138568	attack with machine guns or cannon fire from a low-flying plane
+201138819	bombard with heavy shells
+201138907	attack with cannons or artillery
+201139040	shoot with a gun
+201139261	shoot with a machine gun
+201139390	strike down or shoot down
+201139481	shoot down, of birds
+201139564	hit with a missile from a weapon
+201139841	shoot in the kneecap, often done by terrorist groups as a warning
+201140008	attack with fusillade
+201140122	remove the triggering device from
+201140255	equip with a fuse; provide with a fuse
+201140409	attack or hit with torpedoes
+201140528	make safe
+201140630	wait in hiding to attack
+201140872	exchange blows
+201140949	play games for money
+201141159	play dice
+201141248	play a game of craps
+201141337	bet or wager (money)
+201141530	place a bet on
+201141806	place one's stake
+201141922	play a card lower than (a held high card)
+201142049	stake winnings from one bet on a subsequent wager
+201142182	decline to initiate betting
+201142291	watch and study birds in their natural habitat
+201142491	fish for crab
+201142610	fish with a seine; catch fish with a seine
+201142741	fish for scallops
+201142941	spear with a harpoon
+201143080	give a base on balls to
+201143220	catch or try to catch fish or shellfish
+201143697	fish with a handline over the rails of a boat
+201143839	haul fish aboard with brails
+201143930	fish with flies as lures
+201144038	fish with a hook
+201144189	angle with a hook and line drawn through the water
+201144364	hunt for whales
+201144496	fish for shrimp
+201144629	hunt (quarry) by stalking and ambushing
+201144789	hunt for turtles, especially as an occupation
+201144916	(hunting) chase from cover into more open ground
+201145082	(hunting) search for game
+201145227	hunt rabbits
+201145365	hunt fowl in the forest
+201145494	hunt grouse
+201145613	gather whelk
+201145732	hunt illegally
+201145876	fish with nets
+201145964	hunt seals
+201146080	hunt shark
+201146179	fish with trawlers
+201146304	pursue for food or sport (as of wild animals)
+201147016	hunt with ferrets
+201147123	search (an area) for prey
+201147339	hunt with hounds
+201147490	hunt foxes, on horseback and with dogs
+201147629	chase an animal up a tree
+201147831	hunt with a jacklight
+201147934	fish with the line and bait resting still or stationary in the water
+201148078	hunt with hawks
+201148232	hunt with falcons
+201148410	hunt fowl
+201148517	to exert much effort or energy
+201148756	strain to the utmost
+201148848	strain oneself more than is healthy
+201148973	engage in the sport of bowling
+201149163	play skittles
+201149259	play golf
+201149384	fight with fencing swords
+201149526	impede the movement of (an opponent or a ball)
+201149762	toss or strike a ball back and forth
+201149898	send or toss to and fro, like a shuttlecock
+201150028	include or exclude by determining judicially or in agreement with rules
+201150175	commit a foul; break the rules
+201150321	hit a foul ball
+201150453	make a cannon
+201150567	kick on the shins
+201150665	kick on the arms
+201150762	protect or defend (a position in a game)
+201150926	cover with two defensive players
+201151046	be responsible for guarding an opponent in a game
+201151176	take sides with; align oneself with; show strong sympathy for
+201151427	take sides for or against
+201151604	protect or fight for as a champion
+201151793	place troops or weapons in battle formation
+201151936	put (a card or piece) into play during a game, or act strategically as if in a card game
+201152334	lead (a card) and establish the trump suit
+201152476	play a higher card than the one previously played
+201152630	seize and throw down an opponent player, who usually carries the ball
+201152836	lift weights
+201153025	intend (something) to move towards a certain goal
+201153447	direct a question at someone
+201153576	point or cause to go (blows, weapons, or objects such as photographic equipment) towards
+201154093	aim with a gun
+201154219	aim, point, or direct
+201154355	direct at someone
+201154506	hit or aim at with a sweeping arm movement
+201154680	direct into a position for use
+201154862	hit the intended target or goal
+201154998	shoot short of or below (a target)
+201155136	be positionable in a specified manner
+201155362	aim at
+201155473	direct onto a point or target, especially by automatic navigational aids
+201155631	make a counterattack and return like for like, especially evil for evil
+201155952	take revenge for a perceived wrong
+201156228	take revenge or even out a score
+201156413	take vengeance on or get even
+201156641	cause to get out
+201156848	retire
+201157020	go on the playing field, of a football team
+201157135	play a game in which players hit a wooden ball through a series of hoops
+201157291	protect from moths
+201157423	excel or defeat in a game
+201157556	catch up with and possibly overtake
+201157773	deliver forth
+201157887	station (troops) in a fort
+201158011	exert oneself to meet a challenge
+201158153	stake on the outcome of an issue
+201158581	make bets
+201158757	bet more than the previous player
+201158872	bid (one's partner's suit) at a higher level
+201159034	match or meet
+201159172	lose a game in which one is serving
+201159300	serve oneself to, or consume regularly
+201159815	use up (resources or materials)
+201160320	deplete of resources
+201160479	spend extravagantly
+201160800	use frugally or carefully
+201160888	use up, consume fully
+201161188	put into service; make work or employ for a particular purpose or for its inherent or natural purpose
+201162509	use all resources available
+201162686	attribute or give
+201162961	put or confide something in a person or thing
+201163122	use diligently
+201163215	address or apply oneself to something, direct one's efforts towards something, such as a question
+201163403	use inefficiently or inappropriately
+201163606	apply to a wrong thing or person; apply badly or incorrectly
+201163877	use to one's advantage
+201164011	make use of too often or too extensively
+201164146	use a name, such as God, without proper respect
+201164263	apply thoroughly; think through
+201164459	use parts of something to repair something else
+201164607	eat human flesh
+201164741	use again after processing
+201164945	present or use over, with no or few changes
+201165070	use or manipulate to one's advantage
+201165513	turn to one's advantage
+201165671	use to one's advantage
+201165811	exploit the power of
+201165936	get from the earth by excavation
+201166163	extract (something such as stones) from or as if from a quarry
+201166397	extract (ore) from a strip-mine
+201166589	draw from; make good use of
+201166884	exploit excessively
+201167041	exploit for maximal profit, usually by sacrificing quality
+201167222	exploit as much as possible
+201167359	take or consume (regularly or habitually)
+201167606	to cause (someone or oneself) to become dependent (on something, especially a narcotic drug)
+201167895	use to the utmost; exert vigorously or to full capacity
+201168214	strain excessively
+201168409	put to use
+201168553	use to the limit
+201168667	eat a meal; take a meal
+201169274	buy and consume food from a restaurant or establishment that sells prepared food
+201169522	take in nourishment
+201169624	eat food accompanied by lots of liquid; also use metaphorically
+201169871	eat at home
+201169974	eat at a restaurant or at somebody else's home
+201170114	give dinner to; host for dinner
+201170315	have supper; eat dinner
+201170593	eat alfresco, in the open air
+201170802	take in solid food
+201171347	eat a lot and without restraint
+201171485	eat hastily
+201171608	eat noisily
+201171713	drink large quantities of (liquid, especially alcoholic drink)
+201171869	force to drink
+201171984	draw into the mouth by creating a practical vacuum in the mouth
+201172332	take in liquids
+201172846	drink from a flask with a gurgling sound
+201172967	drink in sips
+201173104	drink greedily or as if with great thirst
+201173263	take up with the tongue
+201173463	consume alcohol
+201173860	consume excessive amounts of alcohol
+201173958	drink port
+201174096	drink claret
+201174238	go from one pub to the next and get progressively more drunk
+201174411	drink moderately but regularly
+201174572	drink excessive amounts of alcohol; be an alcoholic
+201174842	have a meal, usually with company
+201174998	consume
+201175135	partake of the Holy Eucharist sacrament
+201175266	eat well
+201175354	eat heartily
+201175505	eat up; usually refers to a considerable quantity of food
+201175702	eat a snack; eat lightly
+201175953	eat like a bird
+201176110	eat by pecking at, like a bird
+201176230	eat hastily without proper chewing
+201176396	eat a large amount of food quickly
+201176591	eat intermittently; take small bites of
+201176852	chew the cuds
+201177039	eat lightly, try different dishes
+201177270	chew noisily
+201177429	chafe at the bit, like horses
+201177521	grind with the gums; chew without teeth and with great difficulty
+201177764	propose a toast to
+201178107	propose
+201178234	drink to the last drop
+201178376	eat in a mess hall
+201178529	provide with choice or abundant food or drink
+201178864	treat to wine
+201179031	subject to the influence of alcohol
+201179194	provide food and lodging (for)
+201179415	lodge and take meals (at)
+201179611	live in the house where one works
+201179802	work in a house where one does not live
+201179996	wander and feed
+201180154	feed greedily
+201180270	feed on carrion or refuse
+201180398	give fodder (to domesticated animals)
+201180517	feed pigs
+201180632	feed through the beak by regurgitating previously swallowed food
+201180862	give food to
+201181452	feed (cattle) with corn
+201181573	provide with insufficient quality or quantity of nourishment
+201181827	feed excessively
+201181935	feed with a spoon
+201182037	feed someone who will not or cannot eat
+201182162	take in food; used of animals only
+201182503	serve as food for; be the food for
+201182648	provide (usually but not necessarily food)
+201182998	cook and serve on a plank
+201183141	supply food ready to eat; for parties and banquets
+201183272	arrange for sexual partners for others
+201183463	feed into; supply
+201183592	help to some food; help with food or drink
+201183856	supply the force or power for the functioning of
+201184038	cause to function by supplying the force or power for or by controlling
+201184318	provide as food
+201184449	gratify
+201184590	yield (to); give satisfaction to
+201184856	engage without restraint in an activity and indulge, as when shopping
+201185006	give what is desired or needed, especially support, food or sustenance
+201185721	provide with a base, support, lining, or backing
+201185870	fill, satisfy or meet a want or need or condtion ro restriction
+201186429	be satisfactory for; meet the requirements of or serve the purpose of
+201186591	provide with a horse or horses
+201186728	provide with fresh horses
+201186866	provide abundantly with
+201186986	provide with something desired or needed
+201187158	supply with necessities and support
+201187544	support by being a patron of
+201187681	maintain by seeding without human intervention
+201187837	take the midday meal
+201188008	provide a midday meal for
+201188137	eat a meal in the late morning
+201188273	eat an early morning meal
+201188408	provide breakfast for
+201188514	partake in a feast or banquet
+201188741	provide a feast or banquet for
+201188961	give suck to
+201189377	take care of an infant without breastfeeding it
+201189491	gradually deprive (infants and young mammals) of mother's milk
+201189804	feed (infants) with a bottle
+201189918	suck milk from the mother's breasts
+201190070	die of food deprivation
+201190273	deprive of food
+201190481	deprive of a necessity and cause suffering
+201190677	be hungry; go without food
+201190875	be sated, have enough to eat
+201191018	have a craving, appetite, or great desire for
+201191258	have need of
+201191520	demand immediate action
+201191646	have or feel a need for
+201191757	eat sparingly, for health reasons or to lose weight
+201191960	abstain from eating
+201192137	abstain from certain foods, as for religious or medical reasons
+201192356	refrain from certain foods or beverages
+201192545	follow a regimen or a diet, as for health reasons
+201192810	become drunk or drink excessively
+201193027	make drunk (with alcoholic drinks)
+201193274	make stupid with alcohol
+201193373	drink wine
+201193481	take delight in
+201193765	enjoy oneself greatly
+201193936	delight greatly in
+201194045	enjoy oneself
+201194178	enjoy to excess
